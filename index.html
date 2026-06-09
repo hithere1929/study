@@ -1188,6 +1188,8 @@
     transition: transform .24s ease;
   }
   .notes-panel.open { transform: translateX(0); }
+  body.notes-open .layout-container { margin-right: var(--notes-panel-width, min(48vw, 720px)); transition: margin-right .24s ease; }
+  body.notes-open .top-bar { right: var(--notes-panel-width, min(48vw, 720px)); transition: right .24s ease; }
   .notes-resize-handle { position:absolute; left:-6px; top:0; bottom:0; width:12px; cursor:col-resize; z-index:2; }
   .notes-resize-handle::after { content:''; position:absolute; left:5px; top:0; bottom:0; width:2px; background:var(--accent); opacity:.35; }
   .notes-panel-head { padding: 10px 12px; border-bottom: 1px solid var(--border); background: var(--surface2); }
@@ -8468,12 +8470,17 @@ async function openSectionNotes(section, page = 1) {
   const token = ++notesRenderToken;
   const pages = document.getElementById('notes-pages');
   pages.innerHTML = '<div style="color:white;padding:20px;">Loading PDF...</div>';
+  if (!window.pdfjsLib) {
+    pages.innerHTML = `<div style="color:white;padding:20px;">PDF viewer failed to initialize (pdfjsLib not loaded). Check browser console.</div>`;
+    return;
+  }
   try {
     activeNotesDocument = await window.pdfjsLib.getDocument(encodeURI(path)).promise;
     if (token !== notesRenderToken) return;
     await renderNotesDocument(page, token);
   } catch(e) {
-    pages.innerHTML = `<div style="color:white;padding:20px;">Could not load this PDF. Make sure the Notes folder is uploaded to GitHub.</div>`;
+    console.error('PDF load error:', e);
+    pages.innerHTML = `<div style="color:white;padding:20px;">Could not load PDF: ${e?.message || e}</div>`;
   }
 }
 
