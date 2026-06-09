@@ -8475,7 +8475,7 @@ async function openSectionNotes(section, page = 1) {
     return;
   }
   try {
-    activeNotesDocument = await window.pdfjsLib.getDocument(encodeURI(path)).promise;
+    activeNotesDocument = await window.pdfjsLib.getDocument({ url: new URL(encodeURI(path), location.href).href }).promise;
     if (token !== notesRenderToken) return;
     await renderNotesDocument(page, token);
   } catch(e) {
