@@ -1188,14 +1188,23 @@
     transition: transform .24s ease;
   }
   .notes-panel.open { transform: translateX(0); }
-  .notes-panel-head { padding: 12px; border-bottom: 1px solid var(--border); background: var(--surface2); }
+  body.notes-open .layout-container { margin-right: var(--notes-panel-width, min(48vw, 720px)); transition: margin-right .24s ease; }
+  body.notes-open .top-bar { right: var(--notes-panel-width, min(48vw, 720px)); transition: right .24s ease; }
+  .notes-resize-handle { position:absolute; left:-6px; top:0; bottom:0; width:12px; cursor:col-resize; z-index:2; }
+  .notes-resize-handle::after { content:''; position:absolute; left:5px; top:0; bottom:0; width:2px; background:var(--accent); opacity:.35; }
+  .notes-panel-head { padding: 10px 12px; border-bottom: 1px solid var(--border); background: var(--surface2); }
   .notes-panel-row { display:flex; gap:8px; align-items:center; }
   .notes-panel-title { font-weight:700; flex:1; min-width:0; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
-  .notes-search { display:flex; gap:7px; margin-top:10px; }
+  .notes-search { display:flex; gap:7px; }
   .notes-search input { flex:1; min-width:0; padding:8px 10px; border:1px solid var(--border-strong); border-radius:6px; background:var(--surface); color:var(--text-primary); }
   .notes-frame { flex:1; width:100%; border:0; background:#777; }
   .notes-match { padding:7px 12px; font-size:12px; color:var(--text-secondary); border-bottom:1px solid var(--border); }
-  @media (max-width: 850px) { .notes-panel { width:100vw; top:64px; } }
+  @media (max-width: 850px) {
+    .notes-panel { width:100vw !important; top:64px; }
+    body.notes-open .layout-container { margin-right:0; }
+    body.notes-open .top-bar { right:0; }
+    .notes-resize-handle { display:none; }
+  }
 </style>
 </head>
 <body data-subject="bio">
@@ -1362,15 +1371,12 @@
 </div>
 
 <aside class="notes-panel" id="notes-panel" aria-label="Biology notes viewer">
+  <div class="notes-resize-handle" onmousedown="startNotesResize(event)" aria-hidden="true"></div>
   <div class="notes-panel-head">
-    <div class="notes-panel-row">
-      <div class="notes-panel-title" id="notes-panel-title">Biology Notes</div>
-      <button class="q-btn" id="notes-new-tab" type="button">New Tab</button>
-      <button class="q-btn" type="button" onclick="closeNotesPanel()">Close</button>
-    </div>
     <div class="notes-search">
       <input id="notes-search-input" type="search" placeholder="Search these notes..." onkeydown="if(event.key==='Enter') searchNotes()">
       <button class="q-btn primary" type="button" onclick="searchNotes()">Search</button>
+      <button class="q-btn" type="button" onclick="closeNotesPanel()">Close</button>
     </div>
   </div>
   <div class="notes-match" id="notes-match">Open a Biology section to view its notes.</div>
@@ -8421,6 +8427,10 @@ function resetMemoryLab() {
 let activeNotesSection = null;
 let activeNotesPath = null;
 
+function notesPdfUrl(path, page) {
+  return `${encodeURI(path)}#page=${page}&zoom=page-width&toolbar=0&navpanes=0&scrollbar=1&view=FitH`;
+}
+
 function openSectionNotes(section, page = 1) {
   if (appState.subject !== 'bio') return;
   const path = BIO_NOTES_FILES[section];
@@ -8430,15 +8440,39 @@ function openSectionNotes(section, page = 1) {
   }
   activeNotesSection = section;
   activeNotesPath = path;
-  document.getElementById('notes-panel-title').textContent = `Unit ${section} Notes`;
-  document.getElementById('notes-frame').src = `${encodeURI(path)}#page=${page}&zoom=page-width`;
-  document.getElementById('notes-new-tab').onclick = () => window.open(encodeURI(path), '_blank', 'noopener');
+  document.getElementById('notes-frame').src = notesPdfUrl(path, page);
   document.getElementById('notes-match').textContent = page > 1 ? `Jumped to page ${page}.` : 'Notes opened beside your questions.';
+  const panel = document.getElementById('notes-panel');
+  const savedWidth = Number(localStorage.getItem('bio_notes_panel_width'));
+  const width = savedWidth || Math.min(window.innerWidth * .48, 720);
+  panel.style.width = `${width}px`;
+  document.body.style.setProperty('--notes-panel-width', `${width}px`);
+  document.body.classList.add('notes-open');
   document.getElementById('notes-panel').classList.add('open');
 }
 
 function closeNotesPanel() {
   document.getElementById('notes-panel').classList.remove('open');
+  document.body.classList.remove('notes-open');
+}
+
+function startNotesResize(event) {
+  event.preventDefault();
+  const panel = document.getElementById('notes-panel');
+  const move = e => {
+    const min = 340;
+    const max = Math.max(min, window.innerWidth - 430);
+    const width = Math.max(min, Math.min(max, window.innerWidth - e.clientX));
+    panel.style.width = `${width}px`;
+    document.body.style.setProperty('--notes-panel-width', `${width}px`);
+  };
+  const stop = () => {
+    document.removeEventListener('mousemove', move);
+    document.removeEventListener('mouseup', stop);
+    localStorage.setItem('bio_notes_panel_width', String(Math.round(panel.getBoundingClientRect().width)));
+  };
+  document.addEventListener('mousemove', move);
+  document.addEventListener('mouseup', stop);
 }
 
 function notesKeywords(text) {
@@ -8472,7 +8506,7 @@ function searchNotes(queryOverride) {
   if (!query) { input.focus(); return; }
   input.value = query;
   const match = bestNotesPage(activeNotesSection, query);
-  document.getElementById('notes-frame').src = `${encodeURI(activeNotesPath)}#page=${match.page}&zoom=page-width`;
+  document.getElementById('notes-frame').src = notesPdfUrl(activeNotesPath, match.page);
   document.getElementById('notes-match').textContent = match.score > 0
     ? `Best match: page ${match.page} · keywords: ${match.terms.slice(0,5).join(', ')}`
     : 'No strong text match found. Try fewer or more specific words.';
@@ -10760,5 +10794,3 @@ document.addEventListener('DOMContentLoaded', () => {
 </script>
 </body>
 </html>
-
-
