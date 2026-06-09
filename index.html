@@ -8650,7 +8650,9 @@ async function searchNotes(queryOverride, questionObj = null) {
 }
 
 async function findQuestionInNotes(section, questionText, questionObj = null) {
-  await openSectionNotes(section, bestNotesPage(section, questionText, questionObj).page);
+  const precomputed = (typeof BIO_QUESTION_PAGE_MAP !== 'undefined') && BIO_QUESTION_PAGE_MAP[`${section}:${questionText}`];
+  const page = precomputed || bestNotesPage(section, questionText, questionObj).page;
+  await openSectionNotes(section, page);
   await searchNotes(questionText, questionObj);
 }
 
