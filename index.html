@@ -1197,7 +1197,12 @@
   .notes-panel-title { font-weight:700; flex:1; min-width:0; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
   .notes-search { display:flex; gap:7px; }
   .notes-search input { flex:1; min-width:0; padding:8px 10px; border:1px solid var(--border-strong); border-radius:6px; background:var(--surface); color:var(--text-primary); }
-  .notes-frame { flex:1; width:100%; border:0; background:#777; }
+  .notes-pages { flex:1; overflow:auto; background:#777; padding:18px; }
+  .notes-page { position:relative; margin:0 auto 18px; background:white; box-shadow:0 3px 15px rgba(0,0,0,.28); }
+  .notes-page canvas { display:block; width:100%; height:100%; }
+  .notes-text-layer { position:absolute; inset:0; overflow:hidden; line-height:1; opacity:.01; }
+  .notes-text-layer span { position:absolute; color:transparent; white-space:pre; transform-origin:0 0; cursor:text; }
+  .notes-text-layer span.notes-highlight { background:#ffe45c; color:transparent; opacity:1; border-radius:2px; box-shadow:0 0 0 2px rgba(255,183,0,.35); }
   .notes-match { padding:7px 12px; font-size:12px; color:var(--text-secondary); border-bottom:1px solid var(--border); }
   @media (max-width: 850px) {
     .notes-panel { width:100vw !important; top:64px; }
@@ -1371,17 +1376,24 @@
 </div>
 
 <aside class="notes-panel" id="notes-panel" aria-label="Biology notes viewer">
-  <div class="notes-resize-handle" onmousedown="startNotesResize(event)" aria-hidden="true"></div>
+  <div class="notes-resize-handle" onpointerdown="startNotesResize(event)" aria-hidden="true"></div>
   <div class="notes-panel-head">
     <div class="notes-search">
       <input id="notes-search-input" type="search" placeholder="Search these notes..." onkeydown="if(event.key==='Enter') searchNotes()">
       <button class="q-btn primary" type="button" onclick="searchNotes()">Search</button>
+      <button class="q-btn" type="button" onclick="resetNotesWidth()">Reset Size</button>
       <button class="q-btn" type="button" onclick="closeNotesPanel()">Close</button>
     </div>
   </div>
   <div class="notes-match" id="notes-match">Open a Biology section to view its notes.</div>
-  <iframe class="notes-frame" id="notes-frame" title="Biology notes PDF"></iframe>
+  <div class="notes-pages" id="notes-pages" aria-label="Biology notes PDF pages"></div>
 </aside>
+
+<script type="module">
+  import * as pdfjsLib from './vendor/pdfjs/pdf.mjs';
+  pdfjsLib.GlobalWorkerOptions.workerSrc = './vendor/pdfjs/pdf.worker.mjs';
+  window.pdfjsLib = pdfjsLib;
+</script>
 
 <!-- Modal Confirmation dialog -->
 <div class="modal-overlay" id="confirm-modal">
@@ -8426,12 +8438,10 @@ function resetMemoryLab() {
 
 let activeNotesSection = null;
 let activeNotesPath = null;
+let activeNotesDocument = null;
+let notesRenderToken = 0;
 
-function notesPdfUrl(path, page) {
-  return `${encodeURI(path)}#page=${page}&zoom=page-width&toolbar=0&navpanes=0&scrollbar=1&view=FitH`;
-}
-
-function openSectionNotes(section, page = 1) {
+async function openSectionNotes(section, page = 1) {
   if (appState.subject !== 'bio') return;
   const path = BIO_NOTES_FILES[section];
   if (!path) {
@@ -8440,15 +8450,25 @@ function openSectionNotes(section, page = 1) {
   }
   activeNotesSection = section;
   activeNotesPath = path;
-  document.getElementById('notes-frame').src = notesPdfUrl(path, page);
   document.getElementById('notes-match').textContent = page > 1 ? `Jumped to page ${page}.` : 'Notes opened beside your questions.';
   const panel = document.getElementById('notes-panel');
   const savedWidth = Number(localStorage.getItem('bio_notes_panel_width'));
-  const width = savedWidth || Math.min(window.innerWidth * .48, 720);
+  const maxWidth = Math.max(340, Math.min(window.innerWidth * .65, window.innerWidth - 430));
+  const width = Math.max(340, Math.min(maxWidth, savedWidth || Math.min(window.innerWidth * .48, 720)));
   panel.style.width = `${width}px`;
   document.body.style.setProperty('--notes-panel-width', `${width}px`);
   document.body.classList.add('notes-open');
   document.getElementById('notes-panel').classList.add('open');
+  const token = ++notesRenderToken;
+  const pages = document.getElementById('notes-pages');
+  pages.innerHTML = '<div style="color:white;padding:20px;">Loading PDF...</div>';
+  try {
+    activeNotesDocument = await window.pdfjsLib.getDocument(path).promise;
+    if (token !== notesRenderToken) return;
+    await renderNotesDocument(page, token);
+  } catch(e) {
+    pages.innerHTML = `<div style="color:white;padding:20px;">Could not load this PDF. Make sure the Notes folder is uploaded to GitHub.</div>`;
+  }
 }
 
 function closeNotesPanel() {
@@ -8456,23 +8476,77 @@ function closeNotesPanel() {
   document.body.classList.remove('notes-open');
 }
 
+function resetNotesWidth() {
+  localStorage.removeItem('bio_notes_panel_width');
+  const width = Math.min(window.innerWidth * .48, 720);
+  document.getElementById('notes-panel').style.width = `${width}px`;
+  document.body.style.setProperty('--notes-panel-width', `${width}px`);
+}
+
 function startNotesResize(event) {
   event.preventDefault();
   const panel = document.getElementById('notes-panel');
+  const handle = event.currentTarget;
+  handle.setPointerCapture?.(event.pointerId);
   const move = e => {
     const min = 340;
-    const max = Math.max(min, window.innerWidth - 430);
+    const max = Math.max(min, Math.min(window.innerWidth * .65, window.innerWidth - 430));
     const width = Math.max(min, Math.min(max, window.innerWidth - e.clientX));
     panel.style.width = `${width}px`;
     document.body.style.setProperty('--notes-panel-width', `${width}px`);
   };
   const stop = () => {
-    document.removeEventListener('mousemove', move);
-    document.removeEventListener('mouseup', stop);
+    handle.removeEventListener('pointermove', move);
+    handle.removeEventListener('pointerup', stop);
+    handle.removeEventListener('pointercancel', stop);
+    window.removeEventListener('blur', stop);
     localStorage.setItem('bio_notes_panel_width', String(Math.round(panel.getBoundingClientRect().width)));
   };
-  document.addEventListener('mousemove', move);
-  document.addEventListener('mouseup', stop);
+  handle.addEventListener('pointermove', move);
+  handle.addEventListener('pointerup', stop);
+  handle.addEventListener('pointercancel', stop);
+  window.addEventListener('blur', stop);
+}
+
+async function renderNotesDocument(targetPage = 1, token = notesRenderToken) {
+  const host = document.getElementById('notes-pages');
+  host.innerHTML = '';
+  for (let pageNumber = 1; pageNumber <= activeNotesDocument.numPages; pageNumber++) {
+    if (token !== notesRenderToken) return;
+    const page = await activeNotesDocument.getPage(pageNumber);
+    const base = page.getViewport({ scale: 1 });
+    const scale = Math.max(.6, (host.clientWidth - 36) / base.width);
+    const viewport = page.getViewport({ scale });
+    const wrapper = document.createElement('div');
+    wrapper.className = 'notes-page';
+    wrapper.dataset.page = pageNumber;
+    wrapper.style.width = `${viewport.width}px`;
+    wrapper.style.height = `${viewport.height}px`;
+    const canvas = document.createElement('canvas');
+    canvas.width = Math.floor(viewport.width * devicePixelRatio);
+    canvas.height = Math.floor(viewport.height * devicePixelRatio);
+    canvas.style.width = `${viewport.width}px`;
+    canvas.style.height = `${viewport.height}px`;
+    wrapper.appendChild(canvas);
+    const textLayer = document.createElement('div');
+    textLayer.className = 'notes-text-layer';
+    wrapper.appendChild(textLayer);
+    host.appendChild(wrapper);
+    await page.render({ canvasContext: canvas.getContext('2d'), viewport, transform: [devicePixelRatio,0,0,devicePixelRatio,0,0] }).promise;
+    const text = await page.getTextContent();
+    text.items.forEach(item => {
+      const tx = window.pdfjsLib.Util.transform(viewport.transform, item.transform);
+      const span = document.createElement('span');
+      span.textContent = item.str;
+      span.dataset.text = item.str.toLowerCase();
+      span.style.left = `${tx[4]}px`;
+      span.style.top = `${tx[5] - Math.hypot(tx[2], tx[3])}px`;
+      span.style.fontSize = `${Math.hypot(tx[2], tx[3])}px`;
+      span.style.transform = `scaleX(${item.width * scale / Math.max(1, item.str.length * Math.hypot(tx[2], tx[3]) * .5)})`;
+      textLayer.appendChild(span);
+    });
+  }
+  document.querySelector(`.notes-page[data-page="${targetPage}"]`)?.scrollIntoView({ block:'start' });
 }
 
 function notesKeywords(text) {
@@ -8496,7 +8570,7 @@ function bestNotesPage(section, query) {
   return { page: bestPage, score: bestScore, terms };
 }
 
-function searchNotes(queryOverride) {
+async function searchNotes(queryOverride) {
   if (!activeNotesSection) {
     alert('Open a Biology notes PDF first.');
     return;
@@ -8506,15 +8580,25 @@ function searchNotes(queryOverride) {
   if (!query) { input.focus(); return; }
   input.value = query;
   const match = bestNotesPage(activeNotesSection, query);
-  document.getElementById('notes-frame').src = notesPdfUrl(activeNotesPath, match.page);
+  document.querySelectorAll('.notes-highlight').forEach(el => el.classList.remove('notes-highlight'));
+  const terms = notesKeywords(query);
+  const target = document.querySelector(`.notes-page[data-page="${match.page}"]`);
+  const highlights = [];
+  target?.querySelectorAll('.notes-text-layer span').forEach(span => {
+    if (terms.some(term => span.dataset.text.includes(term))) {
+      span.classList.add('notes-highlight');
+      highlights.push(span);
+    }
+  });
+  (highlights[0] || target)?.scrollIntoView({ behavior:'smooth', block:'center' });
   document.getElementById('notes-match').textContent = match.score > 0
-    ? `Best match: page ${match.page} · keywords: ${match.terms.slice(0,5).join(', ')}`
+    ? `Best match: page ${match.page} · ${highlights.length} highlighted text matches`
     : 'No strong text match found. Try fewer or more specific words.';
 }
 
-function findQuestionInNotes(section, questionText) {
-  openSectionNotes(section);
-  searchNotes(questionText);
+async function findQuestionInNotes(section, questionText) {
+  await openSectionNotes(section, bestNotesPage(section, questionText).page);
+  await searchNotes(questionText);
 }
 
 function renderHistoryDashboard(container) {
