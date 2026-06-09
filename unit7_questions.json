@@ -1,0 +1,1120 @@
+[
+  {
+    "section": "7.1",
+    "title": "Plant Structure & Organization",
+    "t": "mc",
+    "q": "In the vascular tissue of flowering plants, which of the following is true regarding sieve-tube members and their companion cells?",
+    "a": 2,
+    "opts": [
+      "Both sieve-tube members and companion cells lack nuclei but possess active cytoplasm to facilitate the rapid passive transport of starch.",
+      "Sieve-tube members are dead at maturity with highly lignified secondary walls, whereas companion cells are living cells containing large vacuoles.",
+      "Sieve-tube members lack a nucleus but contain cytoplasm, and they are connected to nucleated companion cells via plasmodesmata.",
+      "Sieve-tube members possess a nucleus but lack cytoplasm, whereas companion cells contain cytoplasm and lack a nucleus."
+    ],
+    "explanation": "Correct Answer: Sieve-tube members lack a nucleus but contain cytoplasm, and they are connected to nucleated companion cells via plasmodesmata. Biological Rationale: Sieve-tube members are the specialized conducting cells of the phloem that transport organic nutrients (sucrose). At maturity, they lose their nucleus, ribosomes, and vacuoles to reduce resistance to sap flow, but they remain living, containing cytoplasm. They are supported metabolically by nucleated companion cells, which are physically connected to them by plasmodesmata. Incorrect Options: (1) Both lacking nuclei is incorrect because companion cells are nucleated, and starch is not the form of transport carbohydrate (sucrose is). (2) Being dead at maturity with lignified secondary walls describes xylem elements (tracheids and vessel elements), not sieve-tube members which are living. (3) Sieve-tube members do not possess a nucleus, and companion cells are not denucleated."
+  },
+  {
+    "section": "7.1",
+    "title": "Plant Structure & Organization",
+    "t": "mc",
+    "q": "Which of the following statements correctly describes the composition and function of bark in woody stems?",
+    "a": 0,
+    "opts": [
+      "Bark consists of cork, cork cambium, and phloem; its cork cells are impregnated with suberin, which impedes gas exchange except at specialized lenticels.",
+      "Bark is composed of periderm, vascular cambium, and primary xylem, and it uses stomata to regulate transpiration and gas exchange.",
+      "Bark contains only cork and secondary phloem, where cork cells are impregnated with lignin to support the vertical expansion of the stem.",
+      "Bark is composed exclusively of secondary xylem and cork cambium, relying on vascular rays for lateral gas exchange while blocking all water loss."
+    ],
+    "explanation": "Correct Answer: Bark consists of cork, cork cambium, and phloem; its cork cells are impregnated with suberin, which impedes gas exchange except at specialized lenticels. Biological Rationale: Bark refers to all tissues external to the vascular cambium of a woody stem, which includes the secondary phloem, cork cambium, and cork. Cork cells are dead at maturity and contain a waxy lipid called suberin, which prevents water loss and gas exchange. Specialized raised ridges called lenticels break through the cork layer to permit essential gas exchange. Incorrect Options: (1) Bark does not contain the vascular cambium or primary xylem (which are internal woody structures), and it uses lenticels, not stomata, for gas exchange. (2) Cork cells are impregnated with suberin, not lignin, and bark is not responsible for the vertical expansion of the stem (which is done by apical meristems). (3) Bark is not composed exclusively of secondary xylem (which is wood, not bark) and does not rely on vascular rays for lateral gas exchange."
+  },
+  {
+    "section": "7.1",
+    "title": "Plant Structure & Organization",
+    "t": "mc",
+    "q": "A researcher is examining plant tissue and notes cells with thick secondary cell walls impregnated with lignin that are nonliving at maturity. These cells function primarily to support mature regions of the plant. Which cell type is this?",
+    "a": 1,
+    "opts": [
+      "Collenchyma cells",
+      "Sclerenchyma cells",
+      "Parenchyma cells",
+      "Companion cells"
+    ],
+    "explanation": "Correct Answer: Sclerenchyma cells Biological Rationale: Sclerenchyma cells have thick secondary cell walls heavily impregnated with lignin, an organic polymer that provides structural rigidity. These cells are dead (nonliving) at maturity and function primarily to support mature, non-growing regions of the plant body. Incorrect Options: (1) Collenchyma cells are living at maturity and have unevenly thickened primary cell walls (lacking lignin) to support young, growing tissues. (2) Parenchyma cells are living at maturity with thin primary cell walls and function in photosynthesis, storage, and wound healing. (3) Companion cells are specialized parenchymal cells that support sieve-tube members, are living, and lack thick, lignified secondary walls."
+  },
+  {
+    "section": "7.1",
+    "title": "Plant Structure & Organization",
+    "t": "mc",
+    "q": "Which tissue layer in a eudicot root is mitotically active and can initiate the development of lateral or branch roots?",
+    "a": 3,
+    "opts": [
+      "Endodermis",
+      "Cortex",
+      "Epidermis",
+      "Pericycle"
+    ],
+    "explanation": "Correct Answer: Pericycle Biological Rationale: The pericycle is a layer of mitotically active meristematic cells located just inside the endodermis of a root. It retains the capability to divide and initiates the development of lateral or branch roots. Incorrect Options: (1) The endodermis is a single layer of cells with Casparian strips that acts as a selective barrier for water and minerals entering the vascular cylinder, but does not form branch roots. (2) The cortex is ground tissue consisting of parenchyma cells that function primarily in food storage. (3) The epidermis is the outermost protective dermal tissue layer of the root."
+  },
+  {
+    "section": "7.1",
+    "title": "Plant Structure & Organization",
+    "t": "mc",
+    "q": "Parasitic plants often utilize specialized rootlike projections to penetrate a host plant's tissues, establishing contact with their vascular system to extract water and nutrients. What are these specialized roots called?",
+    "a": 0,
+    "opts": [
+      "Haustoria",
+      "Prop roots",
+      "Rhizomes",
+      "Mycorrhizae"
+    ],
+    "explanation": "Correct Answer: Haustoria Biological Rationale: Haustoria are specialized rootlike structures produced by parasitic plants (e.g., dodder, mistletoe) that penetrate the host plant's tissues to establish physical and functional connections with the host's xylem and phloem, extracting water and nutrients. Incorrect Options: (1) Prop roots are adventitious roots that grow from the stem above ground to provide mechanical support (e.g., in corn). (2) Rhizomes are horizontal underground stems, not roots. (3) Mycorrhizae are mutualistic symbiotic associations between plant roots and fungi, not parasitic root structures."
+  },
+  {
+    "section": "7.1",
+    "title": "Plant Structure & Organization",
+    "t": "mc",
+    "q": "During stem development, the shoot apical meristem is protected by the terminal bud and produces three specialized primary meristems. Which of the following correctly pairs one of these primary meristems with the tissue it produces?",
+    "a": 1,
+    "opts": [
+      "Protoderm – pith and cortex",
+      "Procambium – primary xylem and primary phloem",
+      "Ground Meristem – epidermis and trichomes",
+      "Cork cambium – secondary xylem and phloem"
+    ],
+    "explanation": "Correct Answer: Procambium – primary xylem and primary phloem Biological Rationale: The procambium is one of the three primary meristems produced by the shoot apical meristem. It specifically gives rise to the primary vascular tissues: primary xylem and primary phloem. Incorrect Options: (1) The protoderm produces dermal tissue (epidermis), not ground tissues like the pith and cortex. (2) The ground meristem produces ground tissues (pith, cortex, mesophyll), not dermal tissues like the epidermis and trichomes. (3) The cork cambium is a secondary (lateral) meristem, not a primary meristem, and it produces cork and phelloderm, not secondary xylem and phloem (which are produced by the vascular cambium)."
+  },
+  {
+    "section": "7.1",
+    "title": "Plant Structure & Organization",
+    "t": "sa",
+    "q": "Which of the following plant structures are categorized as vegetative organs concerned with growth and nutrition, rather than reproduction?",
+    "correct": [
+      "Roots",
+      "Stems",
+      "Leaves"
+    ],
+    "opts": [
+      "Roots",
+      "Flowers",
+      "Stems",
+      "Seeds",
+      "Leaves",
+      "Fruits"
+    ],
+    "explanation": "Correct Answers: Roots, Stems, Leaves Biological Rationale: In vascular plants, the vegetative organs are the roots, stems, and leaves. They are concerned with the growth, support, water/mineral absorption, and photosynthesis (nutrition) of the plant. Incorrect Options: Flowers, seeds, and fruits are reproductive structures involved in sexual reproduction rather than vegetative growth and maintenance."
+  },
+  {
+    "section": "7.1",
+    "title": "Plant Structure & Organization",
+    "t": "sa",
+    "q": "Which of the following statements are correct regarding the vascular tissue xylem and its component cells?",
+    "correct": [
+      "Tracheids are long with tapered ends and have water moving across pits in their end and side walls.",
+      "Vessel elements are larger than tracheids, have perforated plates in their end walls, and form a continuous transport vessel.",
+      "Vascular rays conduct water across the width of the plant."
+    ],
+    "opts": [
+      "Tracheids are long with tapered ends and have water moving across pits in their end and side walls.",
+      "Sieve plates are located at the end walls of vessel elements to filter minerals.",
+      "Vessel elements are larger than tracheids, have perforated plates in their end walls, and form a continuous transport vessel.",
+      "Tracheids contain a nucleus at maturity to regulate the flow of water.",
+      "Vascular rays conduct water across the width of the plant."
+    ],
+    "explanation": "Correct Answers: \n- Tracheids are long with tapered ends and have water moving across pits in their end and side walls.\n- Vessel elements are larger than tracheids, have perforated plates in their end walls, and form a continuous transport vessel.\n- Vascular rays conduct water across the width of the plant. Biological Rationale: Xylem consists of conducting cells: tracheids (long, tapered cells with pits) and vessel elements (wider cells with perforated end plates aligned to form open tubes). Both are dead and hollow at maturity to facilitate water flow. Vascular rays are bands of parenchyma cells that conduct water and nutrients horizontally across the width of the stem. Incorrect Options: (1) Sieve plates are found in sieve-tube members of the phloem, not vessel elements of the xylem. (2) Tracheids are dead at maturity and do not contain a nucleus."
+  },
+  {
+    "section": "7.2",
+    "title": "Plant Nutrition and Transport",
+    "t": "mc",
+    "q": "According to the text, which of the following is NOT one of the criteria required for a nutrient to be classified as an essential nutrient for plant growth?",
+    "a": 2,
+    "opts": [
+      "The nutrient must have a clearly identifiable role in the plant's physiological processes.",
+      "The nutrient cannot be replaced by any other nutrient to perform its function.",
+      "The nutrient must enhance the growth of a particular plant, though its deficiency does not cause death.",
+      "A deficiency in the nutrient directly leads to the death of the plant."
+    ],
+    "explanation": "Correct Answer: The nutrient must enhance the growth of a particular plant, though its deficiency does not cause death. Biological Rationale: To be classified as an essential nutrient for plants, three criteria must be met: (1) it must have a clearly identifiable physiological role, (2) no other element can substitute for it, and (3) a deficiency must prevent the plant from completing its life cycle, resulting in death or failure to reproduce. Simply enhancing growth without being indispensable is not a criterion. Incorrect Options: (1), (2), and (4) are all actual, established criteria for classifying an element as an essential nutrient."
+  },
+  {
+    "section": "7.2",
+    "title": "Plant Nutrition and Transport",
+    "t": "mc",
+    "q": "Which type of soil particle is the smallest in size, holds water exceptionally well, but leaves very little room for air within the soil matrix?",
+    "a": 2,
+    "opts": [
+      "Sand",
+      "Silt",
+      "Clay",
+      "Humus"
+    ],
+    "explanation": "Correct Answer: Clay Biological Rationale: Clay particles are the smallest mineral soil particles (diameter less than 0.002 mm). They pack tightly together, creating extremely small pore spaces. Due to negative charges on their surfaces, clay particles hold water and minerals very tightly, but leave little space for air, which can cause root suffocation. Incorrect Options: (1) Sand contains the largest particles, has excellent aeration, but drains water rapidly. (2) Silt has intermediate particle size and intermediate water-holding and aeration properties. (3) Humus is organic matter consisting of decomposing organic remains, not a mineral soil particle size category."
+  },
+  {
+    "section": "7.2",
+    "title": "Plant Nutrition and Transport",
+    "t": "mc",
+    "q": "Which organism form a mutualistic relationship in the root nodules of plants, breaking down nitrogen for the plant in exchange for carbohydrates?",
+    "a": 1,
+    "opts": [
+      "Mycorrhizal fungi",
+      "Rhizobium bacteria",
+      "Dodders",
+      "Pinedrops"
+    ],
+    "explanation": "Correct Answer: Rhizobium bacteria Biological Rationale: Rhizobium bacteria infect the roots of legumes, inducing the formation of root nodules where they live. In these nodules, they convert atmospheric gaseous nitrogen (N2) into ammonium (NH4+) via nitrogen fixation, which the plant can readily assimilate. In exchange, the plant provides the bacteria with carbohydrates. Incorrect Options: (1) Mycorrhizal fungi form mutualisms that increase the root surface area for water and mineral (especially phosphorus) uptake, but do not fix nitrogen. (2) Dodders and (3) Pinedrops are parasitic plants that extract nutrients from host plants or fungal networks, rather than fixing nitrogen."
+  },
+  {
+    "section": "7.2",
+    "title": "Plant Nutrition and Transport",
+    "t": "mc",
+    "q": "What cellular mechanism directly triggers the opening of stomata in plant leaves?",
+    "a": 0,
+    "opts": [
+      "Active transport of potassium ions (K+) into guard cells, causing water to enter by osmosis and increasing turgor pressure.",
+      "Active transport of hydrogen ions (H+) into guard cells, drawing water out of the cells and decreasing turgor pressure.",
+      "Accumulation of abscisic acid (ABA) inside the guard cells, which stimulates the active efflux of potassium ions (K+).",
+      "Diffusion of sucrose out of the guard cells, which reduces osmotic pressure and leads to guard cell flaccidity."
+    ],
+    "explanation": "Correct Answer: Active transport of potassium ions (K+) into guard cells, causing water to enter by osmosis and increasing turgor pressure. Biological Rationale: Stomatal opening begins when H+ ions are actively pumped out of the guard cells, generating an electrochemical gradient that pulls K+ ions in. The high internal solute concentration lowers the water potential, causing water to enter the guard cells by osmosis. This increases turgor pressure, causing the cells to bow outward and open the pore. Incorrect Options: (1) H+ is pumped out of, not into, guard cells, and water entry (not loss) opens stomata. (2) Abscisic acid (ABA) stimulates the efflux of potassium ions out of the guard cells, causing water loss and stomatal closure, not opening. (3) Diffusion of sucrose out of guard cells decreases turgor and closes stomata."
+  },
+  {
+    "section": "7.2",
+    "title": "Plant Nutrition and Transport",
+    "t": "mc",
+    "q": "In the cohesion-tension model of xylem transport, which physical property allows water molecules to interact with and cling to the polar molecules of the vessel walls?",
+    "a": 1,
+    "opts": [
+      "Cohesion",
+      "Adhesion",
+      "Guttation",
+      "Transpiration"
+    ],
+    "explanation": "Correct Answer: Adhesion Biological Rationale: According to the cohesion-tension model, water is pulled up the xylem under tension. Adhesion is the attraction between water molecules and the polar walls of the xylem vessels (cellulose), which prevents the water column from slipping downward under gravity. Incorrect Options: (1) Cohesion is the attraction between water molecules themselves due to hydrogen bonding, holding the water column together. (2) Guttation is the release of liquid water droplets from leaves due to root pressure. (3) Transpiration is the evaporation of water from the leaves, which creates the tension pull."
+  },
+  {
+    "section": "7.2",
+    "title": "Plant Nutrition and Transport",
+    "t": "mc",
+    "q": "What is the primary driving force behind the movement of organic nutrients (like sucrose) through the phloem sieve tubes from source to sink?",
+    "a": 1,
+    "opts": [
+      "Transpiration pull creating negative pressure (tension) in the phloem sieve plates, drawing sucrose upward from the roots.",
+      "Positive pressure generated by active transport of sucrose into the phloem at the source, followed by osmotic water entry.",
+      "Positive root pressure forcing phloem sap upward to be released as guttation droplets at leaf margins.",
+      "Active transport pumps located along the entire length of the companion cells that move sucrose via helper proteins."
+    ],
+    "explanation": "Correct Answer: Positive pressure generated by active transport of sucrose into the phloem at the source, followed by osmotic water entry. Biological Rationale: The pressure-flow model explains that sucrose is actively loaded into sieve-tube members at the source (leaves). This lowers the water potential inside the phloem, causing water to enter from the adjacent xylem by osmosis. This creates a high hydrostatic positive pressure that drives the flow of sap toward the sink (roots or fruits), where sucrose is unloaded and water returns to the xylem. Incorrect Options: (1) Transpiration pull generates negative pressure (tension) in the xylem, not the phloem. (2) Positive root pressure drives xylem sap upward to cause guttation. (3) Movement is driven by bulk flow due to pressure differences between source and sink, not by active transport pumps along the entire length of the companion cells."
+  },
+  {
+    "section": "7.2",
+    "title": "Plant Nutrition and Transport",
+    "t": "sa",
+    "q": "Which of the following factors, hormones, or ions are directly involved in regulating the opening or closing of stomata according to the text?",
+    "correct": [
+      "Potassium (K+) ions",
+      "Hydrogen (H+) ions",
+      "Abscisic acid (ABA)",
+      "Light"
+    ],
+    "opts": [
+      "Potassium (K+) ions",
+      "Rhizobium bacteria",
+      "Hydrogen (H+) ions",
+      "Abscisic acid (ABA)",
+      "Guttation fluid",
+      "Light"
+    ],
+    "explanation": "Correct Answers: Potassium (K+) ions, Hydrogen (H+) ions, Abscisic acid (ABA), Light Biological Rationale: Light stimulates H+ active transport out of guard cells, which drives K+ accumulation inside, drawing water in to open stomata. Under drought conditions, the stress hormone abscisic acid (ABA) binds to guard cell receptors, triggering K+ efflux, water loss, and rapid stomatal closure. Incorrect Options: Rhizobium bacteria live in root nodules, and guttation fluid is water released via root pressure; neither has any direct role in regulating stomata."
+  },
+  {
+    "section": "7.2",
+    "title": "Plant Nutrition and Transport",
+    "t": "sa",
+    "q": "Which of the following statements are true regarding transport mechanisms in plants?",
+    "correct": [
+      "Xylem transports water and minerals passively from higher water potential to lower water potential.",
+      "Phloem transport moves organic nutrients from a source to a sink.",
+      "Guttation is caused by positive root pressure forcing water out of vein endings at leaf margins."
+    ],
+    "opts": [
+      "Xylem transports water and minerals passively from higher water potential to lower water potential.",
+      "Tracheids form a continuous open pipeline via perforated plates in their end walls.",
+      "Phloem transport moves organic nutrients from a source to a sink.",
+      "Companion cells lack nuclei but contain active cytoplasm to provide proteins to sieve-tube members.",
+      "Guttation is caused by positive root pressure forcing water out of vein endings at leaf margins."
+    ],
+    "explanation": "Correct Answers: \n- Xylem transports water and minerals passively from higher water potential to lower water potential.\n- Phloem transport moves organic nutrients from a source to a sink.\n- Guttation is caused by positive root pressure forcing water out of vein endings at leaf margins. Biological Rationale: Xylem transport is passive, moving water from higher water potential (roots) to lower water potential (leaves/air). Phloem transport moves organic nutrients from sources (where made) to sinks (where used/stored). Guttation is caused by positive root pressure pushing water out of vein endings when transpiration is low and soil moisture is high. Incorrect Options: (1) Tracheids do not have perforated plates; they have tapered ends and pits. Vessel elements have perforated plates. (2) Companion cells are nucleated cells that support the enucleated sieve-tube members."
+  },
+  {
+    "section": "7.3",
+    "title": "Plant Control of Growth Responses",
+    "t": "mc",
+    "q": "In the acid-growth hypothesis of cell elongation, which sequence of events is initiated when auxin binds to plasma membrane receptors in plant stems?",
+    "a": 1,
+    "opts": [
+      "Calcium pumps are activated to pump Ca2+ into the cell, which directly digests cellulose fibers and causes cell wall collapse.",
+      "Proton pumps are activated to pump H+ out of the cell, loosening the cell wall and allowing water to enter by osmosis to increase turgor pressure.",
+      "Potassium channels open to pump K+ out of the vacuole, reducing the cell's internal pressure so it can stretch passively.",
+      "Cellulase enzymes are immediately secreted into the cytoplasm, which breaks down the cell wall from the inside out."
+    ],
+    "explanation": "Correct Answer: Proton pumps are activated to pump H+ out of the cell, loosening the cell wall and allowing water to enter by osmosis to increase turgor pressure. Biological Rationale: The acid-growth hypothesis explains that auxin binds to receptors, activating H+-ATPases (proton pumps) to pump H+ out of the cytoplasm into the cell wall. The resulting acidic environment activates expansin proteins, which break hydrogen bonds between cellulose microfibrils, loosening the wall. Water then enters the cell by osmosis, increasing turgor pressure and expanding the cell. Incorrect Options: (1) Ca2+ pumps do not digest cellulose fibers. (2) Potassium channels do not pump K+ out of the vacuole to reduce pressure; instead, K+ entry helps draw water in. (3) Cellulase is not immediately secreted in the cytoplasm to break down the wall from inside."
+  },
+  {
+    "section": "7.3",
+    "title": "Plant Control of Growth Responses",
+    "t": "mc",
+    "q": "Which plant hormone is a gas synthesized from the amino acid methionine and stimulates the enzyme cellulase to promote fruit ripening and leaf abscission?",
+    "a": 3,
+    "opts": [
+      "Auxin",
+      "Abscisic acid",
+      "Cytokinin",
+      "Ethylene"
+    ],
+    "explanation": "Correct Answer: Ethylene Biological Rationale: Ethylene is a gaseous hormone synthesized from methionine. It promotes fruit ripening by stimulating the synthesis of cellulase (which breaks down cell walls, softening the fruit) and plays a key role in leaf and flower abscission. Incorrect Options: (1) Auxin inhibits abscission and promotes phototropism and cell elongation. (2) Abscisic acid (ABA) promotes dormancy and stomatal closure. (3) Cytokinin stimulates cell division and prevents aging."
+  },
+  {
+    "section": "7.3",
+    "title": "Plant Control of Growth Responses",
+    "t": "mc",
+    "q": "In positive phototropism of stems, what specific pigment in the cell membrane absorbs light to initiate the bending response, and what wavelength of light does it absorb?",
+    "a": 0,
+    "opts": [
+      "Phototropin, which absorbs blue light",
+      "Phytochrome, which absorbs red light",
+      "Chlorophyll a, which absorbs green light",
+      "Carotenoid, which absorbs ultraviolet light"
+    ],
+    "explanation": "Correct Answer: Phototropin, which absorbs blue light Biological Rationale: Phototropism is mediated by phototropins, photoreceptor pigments embedded in the plasma membrane that absorb blue light. The absorption of blue light triggers auxin redistribution to the shaded side of the stem, causing the stem to bend toward the light source. Incorrect Options: (1) Phytochromes absorb red and far-red light and regulate seed germination and flowering, not phototropism. (2) Chlorophyll a absorbs red and blue light for photosynthesis. (3) Carotenoids are accessory photosynthetic pigments and do not mediate phototropism."
+  },
+  {
+    "section": "7.3",
+    "title": "Plant Control of Growth Responses",
+    "t": "mc",
+    "q": "What cellular structures act as gravity sensors in plant cells, settling to the lower side of the cell to facilitate gravitropism?",
+    "a": 2,
+    "opts": [
+      "Statoliths, which are calcium crystals located in the vacuole",
+      "Chromoplasts, which contain heavy carotenoid pigments",
+      "Statoliths, which are starch grains located within amyloplasts",
+      "Mitochondria, which migrate to the side of the cell facing gravity"
+    ],
+    "explanation": "Correct Answer: Statoliths, which are starch grains located within amyloplasts Biological Rationale: Gravitropism is sensed by statoliths, which are dense, starch-filled organelles called amyloplasts. In specialized gravity-sensing cells (like those in the root cap), statoliths settle to the lowest part of the cell, triggering calcium and auxin redistribution that directs growth relative to gravity. Incorrect Options: (1) Statoliths are starch grains in amyloplasts, not calcium crystals in vacuoles. (2) Chromoplasts contain carotenoid pigments and provide color, not gravity sensing. (3) Mitochondria do not migrate to act as gravity sensors."
+  },
+  {
+    "section": "7.3",
+    "title": "Plant Control of Growth Responses",
+    "t": "mc",
+    "q": "Which of the following correctly describes the two alternating forms of the leaf pigment phytochrome and their physiological roles?",
+    "a": 0,
+    "opts": [
+      "Phytochrome red (Pr) is inactive, while phytochrome far-red (Pfr) is active and promotes seed germination while inhibiting stem elongation.",
+      "Phytochrome red (Pr) is active and stimulates flowering in long-day plants, while phytochrome far-red (Pfr) is inactive.",
+      "Phytochrome far-red (Pfr) is inactive, while phytochrome red (Pr) is active and is synthesized only in the dark to promote sleep movements.",
+      "Both Pr and Pfr are active hormones that directly stimulate the production of gibberellins in the shoot apical meristem."
+    ],
+    "explanation": "Correct Answer: Phytochrome red (Pr) is inactive, while phytochrome far-red (Pfr) is active and promotes seed germination while inhibiting stem elongation. Biological Rationale: Phytochrome exists in two interconvertible forms: Pr (absorbs red light, inactive) and Pfr (absorbs far-red light, active). Exposure to red light converts Pr to Pfr, which triggers biological responses like seed germination and inhibits etiolation (stem elongation). Exposure to far-red light or darkness converts Pfr back to the inactive Pr form. Incorrect Options: (1) Pr is the inactive form and Pfr is the active form. (2) Pfr is the active form, not Pr. (3) Phytochromes are photoreceptor proteins, not hormones, and they do not directly stimulate gibberellin synthesis in the shoot apical meristem."
+  },
+  {
+    "section": "7.3",
+    "title": "Plant Control of Growth Responses",
+    "t": "mc",
+    "q": "How do cyanogenic glycosides protect plants from herbivores and parasites?",
+    "a": 2,
+    "opts": [
+      "They function as proteinase inhibitors, preventing the digestion of proteins in the herbivore's gut.",
+      "They are sticky resins that trap small insects and prevent them from laying eggs on leaves.",
+      "They are metabolized into cyanide, which inhibits cellular respiration in the attacking organism.",
+      "They block the synthesis of gibberellins, causing the herbivore's growth to become stunted."
+    ],
+    "explanation": "Correct Answer: They are metabolized into cyanide, which inhibits cellular respiration in the attacking organism. Biological Rationale: Cyanogenic glycosides are secondary plant defense compounds. Upon herbivore damage, enzymes break down these glycosides to release toxic hydrogen cyanide (HCN). Cyanide acts as a potent toxin by binding to and inhibiting cytochrome c oxidase in the mitochondrial respiratory chain, halting ATP synthesis. Incorrect Options: (1) Proteinase inhibitors, not cyanogenic glycosides, block digestive enzymes in the herbivore's gut. (2) Sticky resins are physical/mechanical defenses. (3) They do not affect gibberellin pathways."
+  },
+  {
+    "section": "7.3",
+    "title": "Plant Control of Growth Responses",
+    "t": "sa",
+    "q": "Which of the following plant hormones are correctly paired with their primary physiological roles?",
+    "correct": [
+      "Abscisic acid (ABA) - initiates and maintains bud dormancy, and brings about stomatal closure",
+      "Cytokinins - promote cell division and prevent senescence (aging process)",
+      "Auxins - maintain apical dominance and promote positive phototropism",
+      "Gibberellins - promote stem elongation and can break seed dormancy"
+    ],
+    "opts": [
+      "Abscisic acid (ABA) - initiates and maintains bud dormancy, and brings about stomatal closure",
+      "Ethylene - stimulates proton pumps to acidify cell walls during growth",
+      "Cytokinins - promote cell division and prevent senescence (aging process)",
+      "Auxins - maintain apical dominance and promote positive phototropism",
+      "Abscisic acid (ABA) - synthesized from methionine to promote fruit softening",
+      "Gibberellins - promote stem elongation and can break seed dormancy"
+    ],
+    "explanation": "Correct Answers: \n- Abscisic acid (ABA) - initiates and maintains bud dormancy, and brings about stomatal closure\n- Cytokinins - promote cell division and prevent senescence (aging process)\n- Auxins - maintain apical dominance and promote positive phototropism\n- Gibberellins - promote stem elongation and can break seed dormancy Biological Rationale: These choices accurately match plant hormones with their primary roles. ABA induces dormancy and closes stomata. Cytokinins stimulate division and delay aging. Auxins promote elongation on the shaded side in phototropism and maintain apical dominance. Gibberellins promote stem elongation and trigger seed germination. Incorrect Options: (1) Ethylene regulates ripening/abscission, not proton pump acidification. (2) Ethylene (not ABA) is synthesized from methionine to promote fruit softening."
+  },
+  {
+    "section": "7.3",
+    "title": "Plant Control of Growth Responses",
+    "t": "sa",
+    "q": "Which of the following statements are correct regarding plant movement responses?",
+    "correct": [
+      "Nastic movements do not involve growth and are independent of the direction of the stimulus.",
+      "Nastic movements, also known as turgor movements, result from changes in turgor pressure.",
+      "Thigmotropism is growth toward or away from touch, such as the coiling of tendrils around a support."
+    ],
+    "opts": [
+      "Nastic movements do not involve growth and are independent of the direction of the stimulus.",
+      "Sleep movements are growth-dependent tropisms that occur only when light intensity changes.",
+      "Nastic movements, also known as turgor movements, result from changes in turgor pressure.",
+      "Gravitropism requires phototropin pigments in the root cap to detect the direction of gravity.",
+      "Thigmotropism is growth toward or away from touch, such as the coiling of tendrils around a support."
+    ],
+    "explanation": "Correct Answers: \n- Nastic movements do not involve growth and are independent of the direction of the stimulus.\n- Nastic movements, also known as turgor movements, result from changes in turgor pressure.\n- Thigmotropism is growth toward or away from touch, such as the coiling of tendrils around a support. Biological Rationale: Nastic (or turgor) movements are rapid, reversible, non-growth responses independent of stimulus direction, driven by rapid changes in turgor pressure (e.g., Mimosa leaf folding). Thigmotropism is a growth response to touch (e.g., tendril coiling). Incorrect Options: (1) Sleep movements (nyctinasty) are turgor-based nastic movements, not growth-dependent tropisms. (2) Gravitropism relies on statoliths in the root cap, not phototropin pigments (which absorb blue light for phototropism)."
+  },
+  {
+    "section": "7.4",
+    "title": "Plant Reproduction",
+    "t": "mc",
+    "q": "A functional megaspore undergoes mitosis to form the female gametophyte (embryo sac) containing eight nuclei. Which of the following correctly describes the distribution of these cells and nuclei within the mature embryo sac?",
+    "a": 3,
+    "opts": [
+      "Two egg cells, three synergid cells, one central cell with a single polar nucleus, and two antipodal cells.",
+      "One egg cell associated with three antipodal cells, a central cell with three polar nuclei, and one synergid cell.",
+      "Three egg cells, one central cell containing two polar nuclei, and three synergids lacking cytoplasm.",
+      "One egg cell associated with two synergids, a central cell containing two polar nuclei, and three antipodal cells."
+    ],
+    "explanation": "Correct Answer: One egg cell associated with two synergids, a central cell containing two polar nuclei, and three antipodal cells. Biological Rationale: The mature female gametophyte (embryo sac) in angiosperms is typically a 7-celled, 8-nucleate structure. At the micropylar end, there is one egg cell flanked by two helper cells called synergids. In the center, there is a large central cell containing two polar nuclei. At the opposite (chalazal) end, there are three antipodal cells. Incorrect Options: (1), (2), and (3) describe incorrect distributions of cells and nuclei within the embryo sac."
+  },
+  {
+    "section": "7.4",
+    "title": "Plant Reproduction",
+    "t": "mc",
+    "q": "During double fertilization in flowering plants, what are the precise fusion events and the resulting ploidy levels of the products?",
+    "a": 1,
+    "opts": [
+      "One sperm nucleus (n) fuses with the egg (n) to form a 2n zygote, and another sperm nucleus (n) fuses with a synergid cell (n) to form a 2n endosperm.",
+      "One sperm nucleus (n) fuses with the egg (n) to form a 2n zygote, and another sperm nucleus (n) fuses with two polar nuclei (n+n) to form a 3n endosperm nucleus.",
+      "Two sperm nuclei (n+n) fuse with the egg (n) to form a 3n zygote, while the polar nuclei degenerate to form the seed coat.",
+      "One sperm nucleus (n) fuses with the polar nuclei (n+n) to form a 2n zygote, and the egg (n) fuses with a synergid to form a 2n endosperm."
+    ],
+    "explanation": "Correct Answer: One sperm nucleus (n) fuses with the egg (n) to form a 2n zygote, and another sperm nucleus (n) fuses with two polar nuclei (n+n) to form a 3n endosperm nucleus. Biological Rationale: Double fertilization is characteristic of flowering plants. One haploid sperm fuses with the haploid egg to form the diploid (2n) zygote, which develops into the embryo. The second haploid sperm fuses with the two polar nuclei of the central cell, forming a triploid (3n) endosperm nucleus, which develops into nutrient tissue for the embryo. Incorrect Options: (1) The second sperm fuses with the polar nuclei, not a synergid cell, and endosperm is 3n, not 2n. (2) The zygote is 2n, not 3n. (3) The egg fuses with a sperm, not a synergid."
+  },
+  {
+    "section": "7.4",
+    "title": "Plant Reproduction",
+    "t": "mc",
+    "q": "In a mature plant embryo, which embryonic region is correctly matched with the tissue or organ it contributes to during development?",
+    "a": 0,
+    "opts": [
+      "Radicle – embryonic root",
+      "Epicotyl – stem development below the cotyledons",
+      "Hypocotyl – shoot development above the cotyledons",
+      "Cotyledon – embryonic root cap"
+    ],
+    "explanation": "Correct Answer: Radicle – embryonic root Biological Rationale: The radicle is the embryonic root of a plant embryo. Upon germination, the radicle emerges first to establish the primary root system. Incorrect Options: (1) The epicotyl is the region of the embryonic shoot *above* the cotyledons, not below. (2) The hypocotyl is the embryonic stem region *below* the cotyledons, not above. (3) The cotyledons are the embryonic seed leaves, not the root cap."
+  },
+  {
+    "section": "7.4",
+    "title": "Plant Reproduction",
+    "t": "mc",
+    "q": "The ovary wall thickens to form the pericarp, which consists of three distinct layers. What is the correct term for the boundary layer that directly surrounds the seeds?",
+    "a": 2,
+    "opts": [
+      "Exocarp",
+      "Mesocarp",
+      "Endocarp",
+      "Sarcocarp"
+    ],
+    "explanation": "Correct Answer: Endocarp Biological Rationale: The fruit wall (pericarp) develops from the ovary wall and is composed of three layers: the outer exocarp (skin), the middle mesocarp (fleshy region), and the inner endocarp, which directly surrounds the seed(s). Incorrect Options: (1) Exocarp is the outer skin of the fruit. (2) Mesocarp is the middle fleshy layer. (3) Sarcocarp is a general term for fleshy fruit tissue, not the specific inner boundary layer."
+  },
+  {
+    "section": "7.4",
+    "title": "Plant Reproduction",
+    "t": "mc",
+    "q": "In anther tissue culture, what type of plantlets are initially produced from the haploid cells of pollen grains, and how can they be converted into diploid plantlets?",
+    "a": 2,
+    "opts": [
+      "Haploid plantlets are produced, and they remain haploid because chromosome doubling is lethal in tissue culture.",
+      "Diploid plantlets are produced directly, and they are converted to triploid using gibberellins.",
+      "Haploid plantlets are produced, and they are converted to diploid by adding a chemical agent that encourages chromosome doubling.",
+      "Triploid plantlets are produced, and they are converted to diploid by treating them with abscisic acid."
+    ],
+    "explanation": "Correct Answer: Haploid plantlets are produced, and they are converted to diploid by adding a chemical agent that encourages chromosome doubling. Biological Rationale: In anther culture, haploid microspores (pollen grains) divide to produce haploid plantlets, which are sterile. To restore diploidy and fertility, chemical agents such as colchicine are applied. Colchicine blocks spindle fiber formation during mitosis, preventing cell division after chromosome replication, resulting in chromosome doubling to create homozygous fertile diploid plants. Incorrect Options: (1) Chromosome doubling is not lethal; it is a standard method used to restore fertility. (2) Pollen cells are haploid and produce haploid plantlets, and gibberellins do not double chromosome ploidy. (3) Pollen microspores are haploid, not triploid, and ABA does not double chromosomes."
+  },
+  {
+    "section": "7.4",
+    "title": "Plant Reproduction",
+    "t": "mc",
+    "q": "Which of the following statements correctly distinguishes between monoecious and dioecious plants?",
+    "a": 0,
+    "opts": [
+      "Monoecious plants have both staminate and carpellate flowers on the same plant, whereas dioecious plants have them on separate plants.",
+      "Monoecious plants have perfect flowers, whereas dioecious plants have only incomplete flowers with sepals.",
+      "Dioecious plants have both staminate and carpellate flowers on the same plant, whereas monoecious plants have them on separate plants.",
+      "Monoecious plants require animal pollinators, whereas dioecious plants rely exclusively on wind dispersal of pollen."
+    ],
+    "explanation": "Correct Answer: Monoecious plants have both staminate and carpellate flowers on the same plant, whereas dioecious plants have them on separate plants. Biological Rationale: Monoecious ('one house') plants have separate male (staminate) and female (carpellate) flowers on the same individual plant (e.g., corn). Dioecious ('two houses') plants have male flowers on one plant and female flowers on another separate individual plant (e.g., holly). Incorrect Options: (1) Monoecious plants have unisexual flowers on the same plant, not perfect flowers. (2) The definitions of monoecious and dioecious are reversed. (3) Monoecious/dioecious status is not related to animal vs. wind pollination."
+  },
+  {
+    "section": "7.4",
+    "title": "Plant Reproduction",
+    "t": "sa",
+    "q": "Which of the following correctly pair a flower structure or whorl with its description or function?",
+    "correct": [
+      "Sepals - protect the flower bud before it opens",
+      "Stamens - the male portion of the flower consisting of an anther and a filament",
+      "Carpel - the female portion of the flower consisting of stigma, style, and ovary",
+      "Petals - attract animal pollinators to the flower"
+    ],
+    "opts": [
+      "Sepals - protect the flower bud before it opens",
+      "Peduncle - the sticky knob at the top of the carpel that receives pollen",
+      "Stamens - the male portion of the flower consisting of an anther and a filament",
+      "Carpel - the female portion of the flower consisting of stigma, style, and ovary",
+      "Receptacle - the saclike container where microspores are produced",
+      "Petals - attract animal pollinators to the flower"
+    ],
+    "explanation": "Correct Answers: \n- Sepals - protect the flower bud before it opens\n- Stamens - the male portion of the flower consisting of an anther and a filament\n- Carpel - the female portion of the flower consisting of stigma, style, and ovary\n- Petals - attract animal pollinators to the flower Biological Rationale: These choices correctly identify flower parts: sepals protect the bud; stamens are the male parts (anther and filament); carpels are the female parts (stigma, style, and ovary); and petals attract pollinators. Incorrect Options: (1) Peduncle is the stem supporting the flower, not the receptive knob (which is the stigma). (2) Receptacle is the tip of the stem where flower parts attach, not the microspore container (which is the anther)."
+  },
+  {
+    "section": "7.4",
+    "title": "Plant Reproduction",
+    "t": "sa",
+    "q": "Which of the following are recognized methods or terms associated with asexual or artificial reproduction in plants according to the text?",
+    "correct": [
+      "Stolons and rhizomes",
+      "Somatic embryogenesis",
+      "Cell suspension culture",
+      "Somaclonal variations"
+    ],
+    "opts": [
+      "Stolons and rhizomes",
+      "Double fertilization",
+      "Somatic embryogenesis",
+      "Megaspore mother cells",
+      "Cell suspension culture",
+      "Somaclonal variations"
+    ],
+    "explanation": "Correct Answers: Stolons and rhizomes, Somatic embryogenesis, Cell suspension culture, Somaclonal variations Biological Rationale: Stolons and rhizomes are vegetative structures for asexual reproduction. Somatic embryogenesis, cell suspension culture, and somaclonal variations are all micropropagation and tissue culture terms associated with asexual/artificial reproduction. Incorrect Options: Double fertilization and megaspore mother cells are structures/processes of sexual reproduction."
+  },
+  {
+    "section": "7.5",
+    "title": "Animal Organization",
+    "t": "mc",
+    "q": "In supportive bone tissue, which structural arrangement correctly describes the location and organization of bone cells?",
+    "a": 2,
+    "opts": [
+      "Bone cells are embedded in a non-mineralized matrix of elastin fibers within lacunae, lacking central canals.",
+      "Bone cells lie within intercalated disks that are grouped into columns around osteons.",
+      "Bone cells are located in lacunae that are arranged in concentric circles within osteons surrounding central canals.",
+      "Bone cells are scattered throughout a liquid plasma matrix that contains inorganic sodium salts."
+    ],
+    "explanation": "Correct Answer: Bone cells are located in lacunae that are arranged in concentric circles within osteons surrounding central canals. Biological Rationale: Compact bone tissue consists of structural units called osteons. Osteocytes (bone cells) reside within small chambers called lacunae. These lacunae are arranged in concentric rings (lamellae) around a central canal (Haversian canal) containing blood vessels and nerves. Incorrect Options: (1) Bone is a mineralized matrix containing calcium salts, not a non-mineralized elastic matrix. (2) Intercalated disks are found in cardiac muscle tissue, not bone. (3) Blood (not bone) is a fluid tissue with cells in a liquid plasma matrix."
+  },
+  {
+    "section": "7.5",
+    "title": "Animal Organization",
+    "t": "mc",
+    "q": "A histology slide shows a tissue specimen with striated, involuntary muscle fibers that are bound to one another by intercalated disks and rely on pacemaker cells for contraction. Which type of muscle tissue is this?",
+    "a": 3,
+    "opts": [
+      "Skeletal muscle",
+      "Smooth muscle",
+      "Visceral muscle",
+      "Cardiac muscle"
+    ],
+    "explanation": "Correct Answer: Cardiac muscle Biological Rationale: Cardiac muscle tissue is striated and involuntary. Its branched fibers are joined end-to-end by specialized junctions called intercalated disks, which contain gap junctions that allow electrical impulses to spread rapidly. Contractions are initiated by specialized pacemaker cells. Incorrect Options: (1) Skeletal muscle is striated but voluntary, and lacks intercalated disks. (2) Smooth muscle is non-striated, involuntary, and has spindle-shaped cells. (3) Visceral muscle is another term for smooth muscle, which is non-striated."
+  },
+  {
+    "section": "7.5",
+    "title": "Animal Organization",
+    "t": "mc",
+    "q": "Which of the following cells are neuroglia located within the brain that support and nourish neurons?",
+    "a": 0,
+    "opts": [
+      "Microglia, astrocytes, and oligodendrocytes",
+      "Fibroblasts, osteocytes, and chondrocytes",
+      "Dendrites, axons, and companion cells",
+      "Schwann cells, epidermal cells, and melanocytes"
+    ],
+    "explanation": "Correct Answer: Microglia, astrocytes, and oligodendrocytes Biological Rationale: Neuroglia are supporting cells in the nervous system. In the brain (CNS), they include microglia (which phagocytize debris), astrocytes (which provide nutrients and maintain the blood-brain barrier), and oligodendrocytes (which form myelin sheaths). Incorrect Options: (1) Fibroblasts, osteocytes, and chondrocytes are connective tissue cells. (2) Dendrites and axons are neuronal parts, and companion cells are plant cells. (3) Schwann cells are PNS neuroglia, while epidermal cells and melanocytes are skin cells."
+  },
+  {
+    "section": "7.5",
+    "title": "Animal Organization",
+    "t": "mc",
+    "q": "Hair follicles contain oil glands called sebaceous glands. What is the name and function of the substance they secrete?",
+    "a": 1,
+    "opts": [
+      "Keratin, which forms a hard, waterproof layer on the hair shaft.",
+      "Sebum, which lubricates the hair within the follicle and the skin.",
+      "Melanin, which provides UV protection and coloration to the hair root.",
+      "Sweat, which regulates body temperature by evaporating from the skin."
+    ],
+    "explanation": "Correct Answer: Sebum, which lubricates the hair within the follicle and the skin. Biological Rationale: Sebaceous glands associated with hair follicles secrete sebum, an oily mixture of lipids that lubricates and waterproofs the hair shaft and skin, keeping them pliable and preventing moisture loss. Incorrect Options: (1) Keratin is a structural protein in the epidermis/hair, not an oil gland secretion. (2) Melanin is a dark skin pigment produced by melanocytes, not a secretion of sebaceous glands. (3) Sweat is secreted by sudoriferous glands for evaporative cooling."
+  },
+  {
+    "section": "7.5",
+    "title": "Animal Organization",
+    "t": "mc",
+    "q": "The ventral cavity of the human body is divided into which of the following set of cavities?",
+    "a": 0,
+    "opts": [
+      "Thoracic, abdominal, and pelvic cavities",
+      "Cranial and vertebral cavities",
+      "Dorsal, cranial, and pelvic cavities",
+      "Pleural, spinal, and cranial cavities"
+    ],
+    "explanation": "Correct Answer: Thoracic, abdominal, and pelvic cavities Biological Rationale: The ventral cavity is located on the anterior side of the body. It is divided by the diaphragm into the thoracic cavity (housing the heart and lungs) and the abdominopelvic cavity, which is further divided into the abdominal cavity (stomach, intestines, liver, etc.) and pelvic cavity (bladder, reproductive organs, rectum). Incorrect Options: (1) Cranial and vertebral cavities form the dorsal cavity. (2) The dorsal cavity is a separate division. (3) Pleural is part of the thoracic cavity, but spinal and cranial are part of the dorsal cavity."
+  },
+  {
+    "section": "7.5",
+    "title": "Animal Organization",
+    "t": "mc",
+    "q": "According to the text, which of the following physiological processes is regulated by a positive feedback mechanism?",
+    "a": 1,
+    "opts": [
+      "The regulation of blood glucose levels by insulin",
+      "The process of childbirth",
+      "The excretion of wastes and salts by the kidneys",
+      "The regulation of body temperature by sweat glands"
+    ],
+    "explanation": "Correct Answer: The process of childbirth Biological Rationale: Childbirth is regulated by a positive feedback loop: pressure of the baby's head on the cervix stimulates the release of oxytocin, which causes uterine contractions. These contractions push the baby further against the cervix, stimulating more oxytocin release and stronger contractions, amplifying the process until birth occurs. Incorrect Options: (1), (3), and (4) are regulated by negative feedback loops, which work to reverse changes and restore conditions back to a set point."
+  },
+  {
+    "section": "7.5",
+    "title": "Animal Organization",
+    "t": "sa",
+    "q": "Which of the following are recognized types, components, or cells of connective tissue according to the text?",
+    "correct": [
+      "Fibroblasts",
+      "Hyaline cartilage",
+      "Adipose tissue",
+      "Blood and lymph"
+    ],
+    "opts": [
+      "Fibroblasts",
+      "Intercalated disks",
+      "Hyaline cartilage",
+      "Adipose tissue",
+      "Simple squamous cells",
+      "Blood and lymph"
+    ],
+    "explanation": "Correct Answers: Fibroblasts, Hyaline cartilage, Adipose tissue, Blood and lymph Biological Rationale: Connective tissue is classified into fibrous connective tissue (containing fibroblasts), supportive connective tissue (such as hyaline cartilage), and fluid connective tissue (blood and lymph). Adipose tissue is a type of loose fibrous connective tissue. Incorrect Options: Intercalated disks are found in cardiac muscle, and simple squamous cells are epithelial cells."
+  },
+  {
+    "section": "7.5",
+    "title": "Animal Organization",
+    "t": "sa",
+    "q": "Which of the following are correct descriptions of the functions of the nervous system as detailed in the text?",
+    "correct": [
+      "Sensory input occurs when sensory receptors detect changes and transmit information to the spinal cord and brain.",
+      "Data integration occurs when the spinal cord and brain integrate data and make decisions regarding responses.",
+      "Motor output occurs when a response is transmitted to an effector, such as a gland or muscle, which initiates the actual response."
+    ],
+    "opts": [
+      "Sensory input occurs when sensory receptors detect changes and transmit information to the spinal cord and brain.",
+      "Microglia and astrocytes transmit electrical impulses along their axons to the effector organs.",
+      "Data integration occurs when the spinal cord and brain integrate data and make decisions regarding responses.",
+      "Ligaments transmit sensory signals between bones to initiate voluntary movements.",
+      "Motor output occurs when a response is transmitted to an effector, such as a gland or muscle, which initiates the actual response."
+    ],
+    "explanation": "Correct Answers: \n- Sensory input occurs when sensory receptors detect changes and transmit information to the spinal cord and brain.\n- Data integration occurs when the spinal cord and brain integrate data and make decisions regarding responses.\n- Motor output occurs when a response is transmitted to an effector, such as a gland or muscle, which initiates the actual response. Biological Rationale: The three primary functions of the nervous system are sensory input (detecting stimuli), integration (processing information in the CNS), and motor output (sending signals to effectors like muscles or glands to respond). Incorrect Options: (1) Glial cells (microglia, astrocytes) do not transmit impulses to effector organs; neurons do. (2) Ligaments connect bone to bone and do not transmit sensory nerve signals."
+  },
+  {
+    "section": "7.6",
+    "title": "Circulation & Cardiovascular System",
+    "t": "mc",
+    "q": "Which of the following correctly describes the vertebrate heart structure and circulatory pathway of an amphibian?",
+    "a": 2,
+    "opts": [
+      "A single-loop pathway with one atrium and one ventricle.",
+      "A double-loop pathway with two atria and two ventricles separated by a complete septum.",
+      "A double-loop pathway with two atria and a single ventricle.",
+      "A single-loop pathway with two atria and a single ventricle."
+    ],
+    "explanation": "Correct Answer: A double-loop pathway with two atria and a single ventricle. Biological Rationale: Amphibians have a double-loop circulatory system (pulmocutaneous and systemic circuits) driven by a three-chambered heart consisting of two atria and a single ventricle. The right atrium receives deoxygenated blood from the body, the left atrium receives oxygenated blood from the lungs/skin, and both empty into the single ventricle. Incorrect Options: (1) A single-loop pathway with one atrium and one ventricle is found in fish. (2) A double-loop pathway with two atria and two ventricles is found in birds and mammals. (3) A single-loop pathway with two atria and a single ventricle is incorrect."
+  },
+  {
+    "section": "7.6",
+    "title": "Circulation & Cardiovascular System",
+    "t": "mc",
+    "q": "In the cardiac cycle, what specific mechanical events correspond to the \"Lub\" and \"Dub\" heart sounds?",
+    "a": 1,
+    "opts": [
+      "The \"Lub\" is caused by the contraction of the atria, and the \"Dub\" is caused by the contraction of the ventricles.",
+      "The \"Lub\" is caused by the closure of the atrioventricular valves, and the \"Dub\" is caused by the closure of the semilunar valves.",
+      "The \"Lub\" is caused by the opening of the semilunar valves, and the \"Dub\" is caused by the opening of the atrioventricular valves.",
+      "The \"Lub\" is caused by the closure of the semilunar valves, and the \"Dub\" is caused by the closure of the atrioventricular valves."
+    ],
+    "explanation": "Correct Answer: The \"Lub\" is caused by the closure of the atrioventricular valves, and the \"Dub\" is caused by the closure of the semilunar valves. Biological Rationale: The heart sounds are caused by the closing of the valves. The first sound, 'lub', occurs when the atrioventricular (AV) valves close as ventricles begin to contract (systole). The second sound, 'dub', occurs when the semilunar valves close at the start of ventricular relaxation (diastole). Incorrect Options: (1) Sounds are caused by valve closures, not directly by muscle contraction. (2) and (3) are incorrect because sounds are caused by closures, not openings, and 'lub' corresponds to AV valves while 'dub' corresponds to semilunar valves."
+  },
+  {
+    "section": "7.6",
+    "title": "Circulation & Cardiovascular System",
+    "t": "mc",
+    "q": "During an electrocardiogram (ECG) recording of the cardiac cycle, which electrical event is represented by the QRS complex?",
+    "a": 0,
+    "opts": [
+      "The signal that the ventricles are about to contract and the atria are relaxing.",
+      "The electrical charge produced as the atrial fibers contract.",
+      "The recovery of the ventricular muscle fibers as they return to diastole.",
+      "The initiation of the pacemaker impulse at the sinoatrial (SA) node."
+    ],
+    "explanation": "Correct Answer: The signal that the ventricles are about to contract and the atria are relaxing. Biological Rationale: The QRS complex on an electrocardiogram (ECG) represents ventricular depolarization, which is the electrical change that triggers the contraction of the ventricles. The electrical activity of atrial repolarization (relaxation) occurs at the same time and is masked by the larger QRS complex. Incorrect Options: (1) Atrial contraction is represented by the P wave. (2) Recovery of ventricular fibers is represented by the T wave. (3) SA node initiation occurs before the P wave."
+  },
+  {
+    "section": "7.6",
+    "title": "Circulation & Cardiovascular System",
+    "t": "mc",
+    "q": "Which agranular leukocyte is responsible for migrating into tissues in response to chronic infections, where it differentiates into a macrophage?",
+    "a": 3,
+    "opts": [
+      "Neutrophils",
+      "Basophils",
+      "Lymphocytes",
+      "Monocytes"
+    ],
+    "explanation": "Correct Answer: Monocytes Biological Rationale: Monocytes are large, agranular white blood cells that circulate in the bloodstream. In response to infection or tissue damage, they migrate into tissues, where they differentiate into highly phagocytic macrophages that engulf pathogens and cellular debris. Incorrect Options: (1) Neutrophils are granular leukocytes that respond to acute bacterial infections. (2) Basophils are granular leukocytes that release histamine. (3) Lymphocytes are agranular cells involved in adaptive immunity (B and T cells)."
+  },
+  {
+    "section": "7.6",
+    "title": "Circulation & Cardiovascular System",
+    "t": "mc",
+    "q": "During capillary exchange, what occurs at the arterial end and the venous end of the capillary bed?",
+    "a": 1,
+    "opts": [
+      "Solutes exit at the venous end, whereas water exits at the arterial end.",
+      "Water exits the capillary near the arterial end, and water enters the capillary near the venous end.",
+      "Oxygen and nutrients enter the capillary at the venous end, while carbon dioxide exits at the arterial end.",
+      "Red blood cells exit the capillary at the arterial end, and platelets enter at the venous end."
+    ],
+    "explanation": "Correct Answer: Water exits the capillary near the arterial end, and water enters the capillary near the venous end. Biological Rationale: At the arterial end of a capillary, blood pressure is higher than osmotic pressure, forcing water and solutes out into the tissues. At the venous end, blood pressure drops below osmotic pressure (which is maintained by plasma proteins), causing water and tissue fluid to enter the capillary. Incorrect Options: (1) Solutes and water exit at the arterial end and enter at the venous end, not vice versa. (2) Oxygen and nutrients exit the capillary at the arterial end, and CO2 and wastes enter at the venous end. (3) Red blood cells and platelets do not leave the capillary during capillary exchange."
+  },
+  {
+    "section": "7.6",
+    "title": "Circulation & Cardiovascular System",
+    "t": "mc",
+    "q": "Platelets, which are critical for blood coagulation, are formed by the fragmentation of which large bone marrow cells?",
+    "a": 0,
+    "opts": [
+      "Megakaryocytes",
+      "Monocytes",
+      "Lymphocytes",
+      "Erythrocytes"
+    ],
+    "explanation": "Correct Answer: Megakaryocytes Biological Rationale: Platelets (thrombocytes) are small, disc-shaped cell fragments in the blood that are essential for blood clotting. They are formed by the fragmentation of giant cells in the red bone marrow called megakaryocytes. Incorrect Options: (1) Monocytes and (2) Lymphocytes are types of white blood cells. (3) Erythrocytes are red blood cells."
+  },
+  {
+    "section": "7.6",
+    "title": "Circulation & Cardiovascular System",
+    "t": "sa",
+    "q": "Which of the following valves are correctly paired with their anatomical locations within the human heart?",
+    "correct": [
+      "Tricuspid valve - between the right atrium and right ventricle",
+      "Bicuspid (mitral) valve - between the left atrium and left ventricle",
+      "Pulmonary semilunar valve - between the right ventricle and the pulmonary trunk",
+      "Aortic semilunar valve - between the left ventricle and the aorta"
+    ],
+    "opts": [
+      "Tricuspid valve - between the right atrium and right ventricle",
+      "Bicuspid valve - between the right ventricle and the pulmonary artery",
+      "Bicuspid (mitral) valve - between the left atrium and left ventricle",
+      "Tricuspid valve - between the left atrium and the aorta",
+      "Pulmonary semilunar valve - between the right ventricle and the pulmonary trunk",
+      "Aortic semilunar valve - between the left ventricle and the aorta"
+    ],
+    "explanation": "Correct Answers: \n- Tricuspid valve - between the right atrium and right ventricle\n- Bicuspid (mitral) valve - between the left atrium and left ventricle\n- Pulmonary semilunar valve - between the right ventricle and the pulmonary trunk\n- Aortic semilunar valve - between the left ventricle and the aorta Biological Rationale: These represent the correct anatomical locations of the heart valves. Tricuspid and bicuspid are atrioventricular (AV) valves on the right and left sides, respectively. The pulmonary and aortic semilunar valves guard the exits of the right and left ventricles, respectively. Incorrect Options: (1) The bicuspid valve is on the left side of the heart, not between the right ventricle and pulmonary artery. (2) The tricuspid valve is on the right side of the heart, not between the left atrium and aorta."
+  },
+  {
+    "section": "7.6",
+    "title": "Circulation & Cardiovascular System",
+    "t": "sa",
+    "q": "Since blood pressure in the veins is extremely low, what mechanisms or structures help return venous blood back to the heart?",
+    "correct": [
+      "Valves inside the veins that prevent backward flow",
+      "Skeletal muscle contractions pushing blood through the veins",
+      "A respiratory pump that reduces pressure in the thoracic cavity"
+    ],
+    "opts": [
+      "Valves inside the veins that prevent backward flow",
+      "Active pumping by the atrioventricular (AV) node inside the venous walls",
+      "Skeletal muscle contractions pushing blood through the veins",
+      "Thick elastic fibers in the vein walls that store and release kinetic energy",
+      "A respiratory pump that reduces pressure in the thoracic cavity"
+    ],
+    "explanation": "Correct Answers: \n- Valves inside the veins that prevent backward flow\n- Skeletal muscle contractions pushing blood through the veins\n- A respiratory pump that reduces pressure in the thoracic cavity Biological Rationale: Because venous blood pressure is very low, return to the heart is aided by: (1) one-way valves that prevent backflow, (2) the skeletal muscle pump (contracting skeletal muscles squeeze veins, pushing blood), and (3) the respiratory pump (inhalation lowers thoracic pressure, pulling blood upward). Incorrect Options: (1) Vein walls do not contain an active pumping node. (2) Veins have thin, non-elastic walls and do not utilize elastic recoil to pump blood."
+  },
+  {
+    "section": "7.7",
+    "title": "Respiratory System",
+    "t": "mc",
+    "q": "How does the countercurrent exchange system in the gills of fish maximize oxygen extraction from water?",
+    "a": 3,
+    "opts": [
+      "Water and oxygen-depleted blood flow in the same direction, allowing both fluids to rapidly reach an equilibrium point of 50% oxygen.",
+      "Water is actively pumped into the capillaries where it mixes directly with hemolymph to release dissolved oxygen.",
+      "Gills use a tidal mechanism where water is held stationary to allow maximum time for oxygen to diffuse into the bloodstream.",
+      "Water flows in the opposite direction of oxygen-depleted blood, maintaining a concentration gradient that allows the extraction of up to 90% of oxygen."
+    ],
+    "explanation": "Correct Answer: Water flows in the opposite direction of oxygen-depleted blood, maintaining a concentration gradient that allows the extraction of up to 90% of oxygen. Biological Rationale: Gills use a countercurrent exchange system where water flows across the gill filaments in the opposite direction of blood flow in the capillaries. This maintains a concentration gradient for oxygen along the entire length of the capillary, allowing fish to extract up to 80-90% of the dissolved oxygen from water. Incorrect Options: (1) Concurrent flow (same direction) would limit oxygen extraction to 50% because the concentration gradient would disappear once equilibrium is reached. (2) Water is not mixed with hemolymph. (3) Gill ventilation is a continuous flow, not a tidal mechanism."
+  },
+  {
+    "section": "7.7",
+    "title": "Respiratory System",
+    "t": "mc",
+    "q": "When food is swallowed, what specific physiological changes prevent it from entering the nasal cavity and the larynx?",
+    "a": 0,
+    "opts": [
+      "The soft palate covers the entrance to the nasal passages, and the larynx rises so that the glottis is closed by the epiglottis.",
+      "The epiglottis covers the nasal passages, and the larynx lowers so that the glottis is closed by the soft palate.",
+      "The glottis rises to block the nasal cavity, and the pharynx expands to force the epiglottis over the trachea.",
+      "The soft palate rises to seal the trachea, and the larynx contracts to pull food directly into the bronchioles."
+    ],
+    "explanation": "Correct Answer: The soft palate covers the entrance to the nasal passages, and the larynx rises so that the glottis is closed by the epiglottis. Biological Rationale: During swallowing, reflex actions prevent food from entering the respiratory passages: the soft palate moves upward to seal off the nasal cavity, and the larynx rises so that the glottis (the opening to the larynx) is covered by the epiglottis, directing food down the esophagus. Incorrect Options: (1) The epiglottis covers the glottis, not the nasal passages, and the larynx rises, not lowers. (2) The glottis is the opening to the larynx, not a structure that blocks the nasal cavity. (3) The soft palate blocks the nasal passages, not the trachea, and the larynx does not pull food into the bronchioles."
+  },
+  {
+    "section": "7.7",
+    "title": "Respiratory System",
+    "t": "mc",
+    "q": "Which of the following statements correctly compares the ventilation mechanisms of birds and other terrestrial vertebrates?",
+    "a": 1,
+    "opts": [
+      "Birds utilize a tidal ventilation system with air sacs that completely empty during each cycle, whereas other vertebrates use a one-way system.",
+      "Birds utilize a one-way ventilation system where fresh air never mixes with used air, whereas other terrestrial vertebrates utilize a less efficient tidal ventilation system.",
+      "Birds lack trachea and rely on cutaneous gas exchange, whereas other vertebrates rely on positive-pressure tidal ventilation.",
+      "Birds utilize a countercurrent ventilation system where blood flows in the opposite direction of air sacs, whereas other vertebrates use a concurrent system."
+    ],
+    "explanation": "Correct Answer: Birds utilize a one-way ventilation system where fresh air never mixes with used air, whereas other terrestrial vertebrates utilize a less efficient tidal ventilation system. Biological Rationale: Birds have a highly efficient respiratory system with anterior and posterior air sacs that allow air to flow in a single direction through the lungs. Fresh, oxygenated air never mixes with stale, carbon dioxide-rich air. Mammals and other terrestrial vertebrates use tidal ventilation, where fresh and stale air mix in the lungs, reducing efficiency. Incorrect Options: (1) Birds use a one-way system, not a tidal system. (2) Birds have lungs and trachea, not cutaneous exchange. (3) Bird respiratory efficiency is due to one-way ventilation with air sacs, not countercurrent blood flow within air sacs."
+  },
+  {
+    "section": "7.7",
+    "title": "Respiratory System",
+    "t": "mc",
+    "q": "Which lower respiratory tract disorder is characterized by airways that are unusually sensitive to specific irritants, causing the smooth muscles in the bronchioles to undergo spasms?",
+    "a": 1,
+    "opts": [
+      "Pneumonia",
+      "Asthma",
+      "Acute bronchitis",
+      "Emphysema"
+    ],
+    "explanation": "Correct Answer: Asthma Biological Rationale: Asthma is a chronic disease of the bronchi and bronchioles characterized by sensitivity to specific irritants. Irritant exposure triggers spasms of the smooth muscle in the bronchiole walls, leading to constriction of airways and wheezing. Incorrect Options: (1) Pneumonia is an infection where alveoli fill with fluid. (2) Acute bronchitis is an inflammation of the primary and secondary bronchi. (3) Emphysema is a chronic disease where alveolar walls are damaged and lose elasticity."
+  },
+  {
+    "section": "7.7",
+    "title": "Respiratory System",
+    "t": "mc",
+    "q": "In what form is the vast majority of carbon dioxide (CO2) transported within the human circulatory system?",
+    "a": 2,
+    "opts": [
+      "As carbaminohemoglobin (HbCO2) bound to red blood cells",
+      "As carbon dioxide gas bubbles dissolved in the lymph",
+      "As bicarbonate ions (HCO3-) dissolved in the plasma",
+      "As carbonic acid crystals bound to blood platelets"
+    ],
+    "explanation": "Correct Answer: As bicarbonate ions (HCO3-) dissolved in the plasma Biological Rationale: The majority (about 68-70%) of carbon dioxide (CO2) is transported in the blood as bicarbonate ions (HCO3-) dissolved in the plasma. Within red blood cells, CO2 combines with water to form carbonic acid (H2CO3) in a reaction catalyzed by carbonic anhydrase, which then dissociates into H+ and HCO3-. Incorrect Options: (1) Only 25% of CO2 is transported as carbaminohemoglobin. (2) Only 7% is dissolved as gas bubbles in plasma. (3) CO2 does not form carbonic acid crystals and is not transported by platelets."
+  },
+  {
+    "section": "7.7",
+    "title": "Respiratory System",
+    "t": "mc",
+    "q": "Which lung disorder is characterized by alveoli that are distended and have damaged walls, resulting in a significantly reduced surface area for gas exchange?",
+    "a": 0,
+    "opts": [
+      "Emphysema",
+      "Pulmonary fibrosis",
+      "Pulmonary tuberculosis",
+      "Lung cancer"
+    ],
+    "explanation": "Correct Answer: Emphysema Biological Rationale: Emphysema is a chronic lung disease, often associated with smoking, characterized by the destruction of alveolar walls and distension of alveoli. This reduces the surface area available for gas exchange, causing severe oxygen deprivation. Incorrect Options: (1) Pulmonary fibrosis involves accumulation of fibrous connective tissue that reduces lung elasticity. (2) Pulmonary tuberculosis is a bacterial lung infection characterized by protective tubercles. (3) Lung cancer is characterized by uncontrolled cellular growth in lung tissues."
+  },
+  {
+    "section": "7.7",
+    "title": "Respiratory System",
+    "t": "sa",
+    "q": "Which of the following steps of respiration are correctly defined according to the text?",
+    "correct": [
+      "Ventilation (breathing) - involves inspiration (breathing in) and expiration (breathing out)",
+      "External Respiration - gas exchange between air and blood within the lungs",
+      "Internal Respiration - gas exchange between the blood and tissue fluid"
+    ],
+    "opts": [
+      "Ventilation (breathing) - involves inspiration (breathing in) and expiration (breathing out)",
+      "Cellular Respiration - gas exchange between the cytoplasm and cell membrane using hemoglobin",
+      "External Respiration - gas exchange between air and blood within the lungs",
+      "Pulmonary Fibrosis - the mechanical transport of bicarbonate ions across the alveolar membrane",
+      "Internal Respiration - gas exchange between the blood and tissue fluid"
+    ],
+    "explanation": "Correct Answers: \n- Ventilation (breathing) - involves inspiration (breathing in) and expiration (breathing out)\n- External Respiration - gas exchange between air and blood within the lungs\n- Internal Respiration - gas exchange between the blood and tissue fluid Biological Rationale: Ventilation is the mechanical process of moving air in and out. External respiration is the exchange of oxygen and carbon dioxide between the alveoli and the pulmonary capillaries. Internal respiration is the exchange of gases between systemic capillaries and the surrounding tissue fluid. Incorrect Options: (1) Cellular respiration is the metabolic process inside cells that uses oxygen to produce ATP, not gas exchange using hemoglobin. (2) Pulmonary fibrosis is a disease characterized by fibrous tissue accumulation, not bicarbonate transport."
+  },
+  {
+    "section": "7.7",
+    "title": "Respiratory System",
+    "t": "sa",
+    "q": "During mammalian inspiration (breathing in), which of the following mechanical and pressure changes occur?",
+    "correct": [
+      "The rib cage is elevated.",
+      "The diaphragm contracts and lowers.",
+      "Thoracic pressure decreases to less than atmospheric pressure."
+    ],
+    "opts": [
+      "The rib cage is elevated.",
+      "The rib cage is lowered.",
+      "The diaphragm contracts and lowers.",
+      "The diaphragm rises.",
+      "Thoracic pressure decreases to less than atmospheric pressure.",
+      "Thoracic pressure increases to more than atmospheric pressure."
+    ],
+    "explanation": "Correct Answers: \n- The rib cage is elevated.\n- The diaphragm contracts and lowers.\n- Thoracic pressure decreases to less than atmospheric pressure. Biological Rationale: During mammalian inspiration, the diaphragm contracts and flattens (moves down), and the external intercostals contract to raise the rib cage. These movements expand the thoracic cavity volume, lowering the air pressure inside the lungs below atmospheric pressure, which draws air in. Incorrect Options: The rib cage is lowered, the diaphragm rises, and thoracic pressure increases during expiration."
+  },
+  {
+    "section": "7.8",
+    "title": "Nervous System",
+    "t": "mc",
+    "q": "During the resting potential of an axon, which of the following statements correctly describes the electrical state and the main mechanism that maintains it?",
+    "a": 1,
+    "opts": [
+      "The inside of the neuron is more positive than the outside (around +30 mV), maintained primarily by the passive diffusion of chloride ions.",
+      "The inside of the neuron is more negative than the outside (around -70 mV), maintained primarily by the active transport of the sodium-potassium pump.",
+      "The electrical potential across the membrane is 0 mV, maintained by the rapid opening and closing of voltage-gated calcium channels.",
+      "The inside of the neuron is more negative than the outside (around -70 mV), maintained exclusively by the myelinated myelin sheath."
+    ],
+    "explanation": "Correct Answer: The inside of the neuron is more negative than the outside (around -70 mV), maintained primarily by the active transport of the sodium-potassium pump. Biological Rationale: The resting membrane potential of an axon is about -70 mV, meaning the inside is negative relative to the outside. This polarization is actively maintained by the sodium-potassium pump, which pumps 3 Na+ out of the cell for every 2 K+ pumped in, as well as the presence of large, negatively charged proteins inside the cytoplasm and passive K+ leakage. Incorrect Options: (1) The inside is negative (-70 mV), not positive (+30 mV, which occurs during depolarization), and chloride diffusion is not the primary mechanism. (2) Resting potential is -70 mV, not 0 mV, and calcium channels do not maintain it. (3) Myelin is an insulator and does not actively maintain resting potential."
+  },
+  {
+    "section": "7.8",
+    "title": "Nervous System",
+    "t": "mc",
+    "q": "How does the propagation of an action potential differ between myelinated and nonmyelinated nerve fibers?",
+    "a": 3,
+    "opts": [
+      "Myelinated fibers conduct impulses section-by-section, whereas nonmyelinated fibers use calcium pumps to jump long distances.",
+      "Myelinated fibers require a lower threshold stimulus to fire, whereas nonmyelinated fibers exhibit graded, rather than all-or-nothing, action potentials.",
+      "Myelinated fibers conduct impulses via chemical neurotransmitters, whereas nonmyelinated fibers rely entirely on electrical gap junctions.",
+      "Myelinated fibers exhibit saltatory conduction where the action potential jumps from node to node, which is faster than the section-by-section travel in nonmyelinated fibers."
+    ],
+    "explanation": "Correct Answer: Myelinated fibers exhibit saltatory conduction where the action potential jumps from node to node, which is faster than the section-by-section travel in nonmyelinated fibers. Biological Rationale: The myelin sheath acts as electrical insulation. Action potentials can only form where the sheath is interrupted at the nodes of Ranvier. The nerve impulse jumps from node to node in a process called saltatory conduction, which propagates much faster than the continuous, section-by-section conduction of nonmyelinated fibers. Incorrect Options: (1) Action potentials jump from node to node, but do not use calcium pumps to jump. (2) Both myelinated and nonmyelinated fibers obey the 'all-or-none' law once threshold is reached. (3) Both use chemical neurotransmitters at synapses and propagate action potentials via voltage-gated ion channels."
+  },
+  {
+    "section": "7.8",
+    "title": "Nervous System",
+    "t": "mc",
+    "q": "What is the direct role of calcium ions (Ca2+) during synaptic transmission at the axon terminal?",
+    "a": 0,
+    "opts": [
+      "A sudden rise in calcium in the axon terminal stimulates synaptic vesicles to merge with the presynaptic membrane, releasing neurotransmitters.",
+      "Calcium ions bind directly to receptors on the postsynaptic membrane to open voltage-gated sodium channels.",
+      "Calcium ions act as the primary neurotransmitter, diffusing across the synaptic cleft to depolarize the dendrite.",
+      "Calcium ions pump sodium out of the synaptic cleft to initiate the refractory period in the presynaptic neuron."
+    ],
+    "explanation": "Correct Answer: A sudden rise in calcium in the axon terminal stimulates synaptic vesicles to merge with the presynaptic membrane, releasing neurotransmitters. Biological Rationale: When an action potential arrives at the axon terminal, it opens voltage-gated Ca2+ channels. The influx of calcium ions triggers the exocytosis of synaptic vesicles, causing them to fuse with the presynaptic membrane and release neurotransmitters into the synaptic cleft. Incorrect Options: (1) Neurotransmitters (not calcium) bind to postsynaptic receptors. (2) Calcium is not the primary neurotransmitter. (3) Calcium does not pump sodium out of the cleft to initiate the refractory period."
+  },
+  {
+    "section": "7.8",
+    "title": "Nervous System",
+    "t": "mc",
+    "q": "Which structure of the diencephalon consists of two masses of gray matter in the third ventricle, receives all sensory input except smell, and integrates this information before sending it to the cerebrum?",
+    "a": 1,
+    "opts": [
+      "Hypothalamus",
+      "Thalamus",
+      "Pineal gland",
+      "Hippocampus"
+    ],
+    "explanation": "Correct Answer: Thalamus Biological Rationale: The thalamus consists of two masses of gray matter located in the diencephalon. It acts as the primary sensory relay station, receiving all sensory signals (except smell), integrating them, and routing them to the appropriate regions of the cerebral cortex. Incorrect Options: (1) The hypothalamus lies below the thalamus and regulates homeostatic functions like appetite, body temperature, and pituitary hormone release. (2) The pineal gland secretes melatonin. (3) The hippocampus is a cerebrum structure involved in memory."
+  },
+  {
+    "section": "7.8",
+    "title": "Nervous System",
+    "t": "mc",
+    "q": "Which of the following represents the correct sequence of structures through which a nerve impulse travels during a standard reflex arc?",
+    "a": 2,
+    "opts": [
+      "Sensory receptor → motor axon → ventral root ganglion → thalamus → sensory axon → effector",
+      "Effector → motor axon → gray matter tract → brain stem → sensory axon → sensory receptor",
+      "Sensory receptor → sensory axon → dorsal root ganglion → interneurons in spinal cord gray matter → motor axon → effector",
+      "Sensory receptor → dorsal root ganglion → primary motor cortex → meninges → motor axon → effector"
+    ],
+    "explanation": "Correct Answer: Sensory receptor → sensory axon → dorsal root ganglion → interneurons in spinal cord gray matter → motor axon → effector Biological Rationale: A spinal reflex arc follows a specific pathway: a sensory receptor detects a stimulus; the sensory axon transmits the signal toward the spinal cord; the dorsal root ganglion contains the cell body of this sensory neuron; the signal is integrated by interneurons in the gray matter of the spinal cord; a motor axon carries the command out of the spinal cord via the ventral root to the effector (a muscle or gland), which executes the reflex. Incorrect Options: (1), (2), and (4) show incorrect sequences of structures and do not represent the pathway of a spinal reflex arc."
+  },
+  {
+    "section": "7.8",
+    "title": "Nervous System",
+    "t": "mc",
+    "q": "Which of the following pairs correctly matches a division of the autonomic nervous system with its main neurotransmitter and physiological action?",
+    "a": 0,
+    "opts": [
+      "Sympathetic division – Norepinephrine – Accelerates heartbeat and dilates bronchi",
+      "Parasympathetic division – Norepinephrine – Retards heartbeat and promotes digestion",
+      "Sympathetic division – Acetylcholine – Accelerates heartbeat and promotes digestion",
+      "Parasympathetic division – Dopamine – Dilates bronchi and retards heartbeat"
+    ],
+    "explanation": "Correct Answer: Sympathetic division – Norepinephrine – Accelerates heartbeat and dilates bronchi Biological Rationale: The sympathetic division of the autonomic nervous system is responsible for 'fight-or-flight' responses. Its postganglionic neurons release norepinephrine, which acts on target organs to accelerate heart rate, dilate the bronchi (improving airflow), and inhibit digestive activity. Incorrect Options: (1) The parasympathetic division uses acetylcholine (ACh) as its postganglionic neurotransmitter, not norepinephrine. (2) The sympathetic division uses norepinephrine, not acetylcholine, at its target organs (ACh is used only preganglionically in the sympathetic division). (3) The parasympathetic division uses acetylcholine, not dopamine."
+  },
+  {
+    "section": "7.8",
+    "title": "Nervous System",
+    "t": "sa",
+    "q": "Which of the following structures are parts of the brain stem and are correctly matched with their functions?",
+    "correct": [
+      "Medulla Oblongata - contains reflex centers for vomiting, coughing, sneezing, hiccupping, and swallowing",
+      "Pons - contains axons that form a bridge between the cerebellum and the rest of the central nervous system",
+      "Midbrain - acts as a relay station for tracts passing between the cerebrum and the spinal cord or cerebellum"
+    ],
+    "opts": [
+      "Medulla Oblongata - contains reflex centers for vomiting, coughing, sneezing, hiccupping, and swallowing",
+      "Hypothalamus - coordinates voluntary skeletal muscle movements and stores short-term memory",
+      "Pons - contains axons that form a bridge between the cerebellum and the rest of the central nervous system",
+      "Midbrain - acts as a relay station for tracts passing between the cerebrum and the spinal cord or cerebellum",
+      "Thalamus - secretes melatonin to regulate sleep-wake cycles and circadian rhythms"
+    ],
+    "explanation": "Correct Answers: \n- Medulla Oblongata - contains reflex centers for vomiting, coughing, sneezing, hiccupping, and swallowing\n- Pons - contains axons that form a bridge between the cerebellum and the rest of the central nervous system\n- Midbrain - acts as a relay station for tracts passing between the cerebrum and the spinal cord or cerebellum Biological Rationale: The brain stem consists of the midbrain, pons, and medulla oblongata. The medulla contains reflex centers for vital functions and coughing/swallowing. The pons acts as a bridge between the cerebellum and the CNS. The midbrain acts as a relay station for tracts between the cerebrum and spinal cord/cerebellum. Incorrect Options: (1) The hypothalamus is part of the diencephalon, not the brain stem, and the cerebellum (not hypothalamus) coordinates voluntary movement. (2) The thalamus is part of the diencephalon; the pineal gland (not thalamus) secretes melatonin."
+  },
+  {
+    "section": "7.8",
+    "title": "Nervous System",
+    "t": "sa",
+    "q": "Which of the following statements are correct regarding the protection and organization of the central nervous system (CNS)?",
+    "correct": [
+      "The spinal cord and brain are wrapped in three protective membranes called meninges.",
+      "Cerebrospinal fluid fills the spaces between the meninges, the central canal of the spinal cord, and the ventricles of the brain.",
+      "Grey matter in the spinal cord owes its color to cell bodies and short unmyelinated fibers.",
+      "The CNS develops embryonically from a dorsal neural tube."
+    ],
+    "opts": [
+      "The spinal cord and brain are wrapped in three protective membranes called meninges.",
+      "White matter in the spinal cord contains cell bodies that secrete cerebrospinal fluid directly into the meninges.",
+      "Cerebrospinal fluid fills the spaces between the meninges, the central canal of the spinal cord, and the ventricles of the brain.",
+      "The somatic system and autonomic system are the two major subdivisions of the central nervous system.",
+      "Grey matter in the spinal cord owes its color to cell bodies and short unmyelinated fibers.",
+      "The CNS develops embryonically from a dorsal neural tube."
+    ],
+    "explanation": "Correct Answers: \n- The spinal cord and brain are wrapped in three protective membranes called meninges.\n- Cerebrospinal fluid fills the spaces between the meninges, the central canal of the spinal cord, and the ventricles of the brain.\n- Grey matter in the spinal cord owes its color to cell bodies and short unmyelinated fibers.\n- The CNS develops embryonically from a dorsal neural tube. Biological Rationale: The CNS is protected by three meningeal membranes, cushioned by cerebrospinal fluid (CSF), organized into gray matter (unmyelinated cell bodies/fibers) and white matter (myelinated axons), and develops from the embryonic dorsal neural tube. Incorrect Options: (1) White matter contains myelinated axons, and CSF is produced by choroid plexuses in brain ventricles, not white matter cell bodies. (2) The somatic and autonomic nervous systems are divisions of the peripheral nervous system (PNS), not the central nervous system (CNS)."
+  },
+  {
+    "section": "7.9",
+    "title": "Sense Organs",
+    "t": "mc",
+    "q": "In the human retina, what is the correct sequence of cells through which visual signals are integrated before nerve impulses are sent to the brain?",
+    "a": 2,
+    "opts": [
+      "Ganglion cells synapse with bipolar cells, which in turn synapse with photoreceptor cells (rods and cones).",
+      "Bipolar cells synapse with ganglion cells, which in turn synapse with photoreceptor cells (rods and cones).",
+      "Photoreceptor cells (rods and cones) synapse with bipolar cells, which in turn synapse with ganglion cells.",
+      "Photoreceptor cells (rods and cones) synapse with ganglion cells, which in turn synapse with bipolar cells."
+    ],
+    "explanation": "Correct Answer: Photoreceptor cells (rods and cones) synapse with bipolar cells, which in turn synapse with ganglion cells. Biological Rationale: In the retina, light stimulates photoreceptors (rods and cones) at the back layer. The electrical signal then travels forward: photoreceptors synapse with bipolar cells, which in turn synapse with ganglion cells. The axons of ganglion cells form the optic nerve to transmit impulses to the brain. Incorrect Options: (1), (2), and (4) show incorrect synaptic sequences of retinal cells."
+  },
+  {
+    "section": "7.9",
+    "title": "Sense Organs",
+    "t": "mc",
+    "q": "Why do cone cells provide a much sharper and more detailed image of an object compared to rod cells in the human retina?",
+    "a": 0,
+    "opts": [
+      "Fewer cone cells synapse on a single ganglion cell than rod cells, resulting in less convergence of visual signals.",
+      "Cone cells contain rhodopsin which absorbs all wavelengths of light, whereas rod cells only absorb blue light.",
+      "Ganglion cells directly synapse onto the cornea, bypassing the lens entirely when processing signals from cones.",
+      "Cones are larger and contain more nuclei per cell, allowing them to conduct impulses at a higher velocity."
+    ],
+    "explanation": "Correct Answer: Fewer cone cells synapse on a single ganglion cell than rod cells, resulting in less convergence of visual signals. Biological Rationale: Cone cells provide high visual acuity (sharpness). In the fovea centralis, where cones are concentrated, there is a one-to-one relationship where a single cone synapses with a single bipolar cell, which connects to a single ganglion cell. This lack of convergence preserves the detail of the signal. In contrast, many rod cells converge onto a single ganglion cell, which increases light sensitivity but reduces sharpness. Incorrect Options: (1) Rhodopsin is the light-absorbing pigment in rods, not cones (which contain photopsins). (2) Ganglion cell axons form the optic nerve and synapse in the brain, not on the cornea or lens. (3) Cones are not multinucleated and do not have higher velocity propagation based on size."
+  },
+  {
+    "section": "7.9",
+    "title": "Sense Organs",
+    "t": "mc",
+    "q": "During visual accommodation in the human eye, what is the state of the ciliary muscle when focusing on a distant object versus a near object?",
+    "a": 1,
+    "opts": [
+      "The ciliary muscle is contracted when focusing on a distant object, and relaxed when focusing on a near object.",
+      "The ciliary muscle is relaxed when focusing on a distant object, and contracted when focusing on a near object.",
+      "The ciliary muscle is contracted for both distant and near objects, but relaxed only when the eye is closed.",
+      "The ciliary muscle is relaxed for both distant and near objects, as accommodation is controlled by the pupil size."
+    ],
+    "explanation": "Correct Answer: The ciliary muscle is relaxed when focusing on a distant object, and contracted when focusing on a near object. Biological Rationale: Visual accommodation involves changing lens shape: to focus on distant objects, the ciliary muscle relaxes, increasing tension on suspensory ligaments and flattening the lens. To focus on near objects, the ciliary muscle contracts, releasing tension on suspensory ligaments, allowing the elastic lens to round up (become more convex) to bend light rays more. Incorrect Options: (1) describes the opposite muscle states. (2) and (3) are incorrect because the muscle state changes to focus near vs. far, and is not regulated by pupil size."
+  },
+  {
+    "section": "7.9",
+    "title": "Sense Organs",
+    "t": "mc",
+    "q": "In the human middle ear, how is the vibration pressure transferred and amplified from the tympanic membrane to the cochlea?",
+    "a": 2,
+    "opts": [
+      "Vibration is transferred from the stapes to the incus, and then to the malleus, which strikes the round window.",
+      "Vibration is transferred from the tympanic membrane directly to the auditory tube, bypassing the ossicles.",
+      "Vibration is transferred from the malleus to the incus, and then to the stapes, which strikes the oval window.",
+      "Vibration is transferred from the malleus directly to the cochlea via the vestibular nerve."
+    ],
+    "explanation": "Correct Answer: Vibration is transferred from the malleus to the incus, and then to the stapes, which strikes the oval window. Biological Rationale: Sound waves vibrate the tympanic membrane (eardrum), which moves the three middle ear ossicles: first the malleus (hammer), then the incus (anvil), and finally the stapes (stirrup). The stapes vibrates against the oval window of the cochlea, transferring and amplifying the pressure waves into the fluid of the inner ear. Incorrect Options: (1) The ossicle sequence is incorrect, and the stapes strikes the oval window, not the round window (which serves to release fluid pressure). (2) The auditory tube equalizes air pressure but does not transmit sound vibrations to the cochlea. (3) Vibrations pass through the ossicles, not directly to the vestibular nerve."
+  },
+  {
+    "section": "7.9",
+    "title": "Sense Organs",
+    "t": "mc",
+    "q": "Which structures of the human inner ear are responsible for maintaining rotational equilibrium and gravitational equilibrium, respectively?",
+    "a": 0,
+    "opts": [
+      "Semicircular canals for rotational equilibrium, and the utricle and saccule for gravitational equilibrium.",
+      "The cochlea for rotational equilibrium, and the semicircular canals for gravitational equilibrium.",
+      "The vestibule for rotational equilibrium, and the organ of Corti for gravitational equilibrium.",
+      "The tympanic membrane for rotational equilibrium, and the ossicles for gravitational equilibrium."
+    ],
+    "explanation": "Correct Answer: Semicircular canals for rotational equilibrium, and the utricle and saccule for gravitational equilibrium. Biological Rationale: Rotational (dynamic) equilibrium is detected by mechanoreceptors (hair cells in the crista ampullaris) in the semicircular canals. Gravitational (static) equilibrium, which detects head position relative to gravity and linear acceleration, is detected by hair cells in the maculae of the utricle and saccule (within the vestibule). Incorrect Options: (1) The cochlea is the organ of hearing, not equilibrium. (2) The organ of Corti (in the cochlea) is for hearing. (3) Tympanic membrane and ossicles are middle ear structures that transmit sound, not inner ear equilibrium receptors."
+  },
+  {
+    "section": "7.9",
+    "title": "Sense Organs",
+    "t": "mc",
+    "q": "Which somatic receptors are involved in reflex actions that maintain muscle tone?",
+    "a": 1,
+    "opts": [
+      "Nociceptors (such as free nerve endings)",
+      "Proprioceptors (such as muscle spindles and Golgi tendon organs)",
+      "Cutaneous receptors (such as Pacinian corpuscles)",
+      "Chemoreceptors (such as olfactory cells)"
+    ],
+    "explanation": "Correct Answer: Proprioceptors (such as muscle spindles and Golgi tendon organs) Biological Rationale: Proprioceptors are mechanoreceptors that send signals to the CNS regarding muscle stretch and joint position, helping maintain muscle tone and posture. They include muscle spindles (detecting muscle length changes) and Golgi tendon organs (detecting tendon tension). Incorrect Options: (1) Nociceptors are pain receptors. (2) Cutaneous receptors are sensory receptors in the skin for touch/temperature. (3) Chemoreceptors detect chemical concentrations (like taste/smell)."
+  },
+  {
+    "section": "7.9",
+    "title": "Sense Organs",
+    "t": "sa",
+    "q": "Which of the following statements are correct regarding the layers and structures of the human eye?",
+    "correct": [
+      "The sclera is the opaque outer layer, which becomes the transparent cornea in the front.",
+      "The choroid is the middle layer that contains blood vessels and forms the iris in the front.",
+      "The retina is the inner layer containing photoreceptors (rods and cones) and the fovea centralis."
+    ],
+    "opts": [
+      "The sclera is the opaque outer layer, which becomes the transparent cornea in the front.",
+      "The fovea centralis is the region of the retina where the optic nerve connects, creating a blind spot.",
+      "The choroid is the middle layer that contains blood vessels and forms the iris in the front.",
+      "Rhodopsin is the light-absorbing pigment in cones, while cones also contain red, green, and blue opsin.",
+      "The retina is the inner layer containing photoreceptors (rods and cones) and the fovea centralis."
+    ],
+    "explanation": "Correct Answers: \n- The sclera is the opaque outer layer, which becomes the transparent cornea in the front.\n- The choroid is the middle layer that contains blood vessels and forms the iris in the front.\n- The retina is the inner layer containing photoreceptors (rods and cones) and the fovea centralis. Biological Rationale: The eye has three layers: the outer sclera (opaque white, becomes transparent cornea in front), the middle choroid (vascular, becomes iris and ciliary body in front), and the inner retina (sensory layer with rods, cones, and the fovea centralis). Incorrect Options: (1) The optic disc (not fovea centralis) is the blind spot where the optic nerve exits. (2) Rhodopsin is the pigment in rods, not cones."
+  },
+  {
+    "section": "7.9",
+    "title": "Sense Organs",
+    "t": "sa",
+    "q": "Which of the following are recognized cutaneous receptors of the skin mentioned in the text?",
+    "correct": [
+      "Meissner corpuscles",
+      "Krause end bulbs",
+      "Merkel disks",
+      "Pacinian corpuscles",
+      "Ruffini endings"
+    ],
+    "opts": [
+      "Meissner corpuscles",
+      "Krause end bulbs",
+      "Merkel disks",
+      "Pacinian corpuscles",
+      "Ruffini endings",
+      "Golgi tendon organs",
+      "Organ of Corti"
+    ],
+    "explanation": "Correct Answers: Meissner corpuscles, Krause end bulbs, Merkel disks, Pacinian corpuscles, Ruffini endings Biological Rationale: These are all recognized cutaneous receptors of the skin that detect touch, pressure, heat, cold, or pain. Incorrect Options: Golgi tendon organs are proprioceptors located in muscle tendons. The organ of Corti is the hearing receptor in the cochlea."
+  }
+]

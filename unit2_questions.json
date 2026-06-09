@@ -1,0 +1,618 @@
+[
+  {
+    "section": "2.1",
+    "title": "Chemistry of Living Things",
+    "t": "mc",
+    "q": "How does the energy of an electron in an atom relate to its distance from the nucleus?",
+    "a": 1,
+    "opts": [
+      "Electrons closer to the nucleus possess more potential energy because they are tightly bound to the positive charge of the protons.",
+      "Electrons further from the nucleus possess more energy than those located closer to the nucleus.",
+      "Distance from the nucleus has no bearing on an electron's energy level, which is determined solely by the number of neutrons.",
+      "The energy of an electron fluctuates randomly regardless of its orbital path or distance from the atomic nucleus."
+    ],
+    "explanation": "Electrons reside in shells at specific energy levels. Those in shells further from the nucleus possess more potential energy because it takes energy to pull a negatively charged electron away from the positively charged nucleus. Conversely, electrons closer to the nucleus are at a lower energy state. Incorrect options rationale: 1) Electrons closer to the nucleus actually have less potential energy (lower energy level) because they are held more tightly by the positive nucleus. 2) Distance from the nucleus is the primary determinant of an electron's energy level, and neutrons do not affect this as they are neutral particles. 3) Electron energy levels are quantized and discrete rather than fluctuating randomly."
+  },
+  {
+    "section": "2.1",
+    "title": "Chemistry of Living Things",
+    "t": "mc",
+    "q": "Why is solid water (ice) less dense than liquid water?",
+    "a": 2,
+    "opts": [
+      "Hydrogen bonds become completely broken in the solid state, allowing water molecules to drift far apart and increase the overall volume.",
+      "The molecular weight of water decreases as temperature drops because oxygen atoms lose electrons.",
+      "The wide angle between hydrogen atoms and hydrogen bonding allows the formation of crystals with large amounts of open space.",
+      "Liquid water contains more dissolved salts that increase its density compared to the pure water that freezes into ice."
+    ],
+    "explanation": "As water freezes, the molecular motion slows down, allowing hydrogen bonds to become stable and hold the molecules at fixed distances. The wide angle between the hydrogen atoms and the arrangement of hydrogen bonds forces the molecules into a rigid, open crystalline hexagonal lattice, creating more open space (greater volume) between molecules than in liquid water, which makes ice less dense. Incorrect options rationale: 1) Hydrogen bonds do not break completely in solid ice; they become fixed and stable, locking molecules in place. 2) The molecular weight of water remains unchanged during freezing, and oxygen atoms do not lose electrons. 3) The difference in density is a physical property of pure water itself and is not caused by dissolved salts in liquid water."
+  },
+  {
+    "section": "2.1",
+    "title": "Chemistry of Living Things",
+    "t": "mc",
+    "q": "When sodium chloride (NaCl) dissolves in water, how do the water molecules interact with the ions?",
+    "a": 0,
+    "opts": [
+      "The partially negative oxygen atoms are attracted to the sodium ions (Na+), and the partially positive hydrogen atoms are attracted to the chloride ions (Cl-).",
+      "The partially positive hydrogen atoms are attracted to the sodium ions (Na+), while the partially negative oxygen atoms are attracted to the chloride ions (Cl-).",
+      "Both the hydrogen and oxygen atoms form new covalent bonds with the sodium and chloride ions, converting the salt into a completely new organic compound.",
+      "Water molecules repel both sodium and chloride ions, forcing them to clump together at the bottom of the beaker and precipitate out of the solution."
+    ],
+    "explanation": "Water is a polar molecule: oxygen is highly electronegative and carries a partial negative charge (delta-), while the hydrogen atoms carry partial positive charges (delta+). When NaCl dissolves, the negatively charged chloride ions (Cl-) attract the partially positive hydrogen atoms of water, and the positively charged sodium ions (Na+) attract the partially negative oxygen atoms, forming hydration shells around the individual ions. Incorrect options rationale: 1) The claim that positive hydrogen is attracted to positive sodium, and negative oxygen to negative chloride, violates the law of electrostatic attraction (like charges repel, opposite charges attract). 2) Dissolving salt in water is a physical change, not a chemical reaction that creates covalent bonds or produces organic compounds. 3) Water molecules actively attract both sodium and chloride ions rather than repelling them, which is what allows NaCl to dissolve."
+  },
+  {
+    "section": "2.1",
+    "title": "Chemistry of Living Things",
+    "t": "mc",
+    "q": "What is the correct sequence of chemical species in the bicarbonate/carbonic acid buffer system that regulates blood pH?",
+    "a": 3,
+    "opts": [
+      "CO2 + H+ <-> H2CO3 <-> HCO3- + OH-",
+      "CO2 + OH- <-> HCO3- <-> H2CO3 + H+",
+      "CO + H2O <-> H2CO3 <-> HCO3- + H+",
+      "CO2 + H2O <-> H2CO3 <-> HCO3- + H+"
+    ],
+    "explanation": "The primary buffering system in human blood involves carbon dioxide (CO2) reacting with water (H2O) to form carbonic acid (H2CO3), which then dissociates reversibly into bicarbonate (HCO3-) and hydrogen ions (H+). The correct equilibrium is represented as: CO2 + H2O <-> H2CO3 <-> HCO3- + H+. Incorrect options rationale: 1) Carbon dioxide reacts with water (H2O) rather than protons (H+), and carbonic acid dissociates into bicarbonate and protons (H+), not hydroxide (OH-). 2) Carbon dioxide reacts with water, not hydroxide (OH-), to establish this specific blood buffer equilibrium. 3) This option features carbon monoxide (CO) instead of carbon dioxide (CO2); carbon monoxide is a toxic gas and not the metabolic driver of the blood buffer system."
+  },
+  {
+    "section": "2.1",
+    "title": "Chemistry of Living Things",
+    "t": "mc",
+    "q": "What happens to hydrogen bonds in water as it transitions from a liquid to a solid?",
+    "a": 0,
+    "opts": [
+      "All molecules become hydrogen-bonded and these bonds do not break, locking them in place.",
+      "The number of hydrogen bonds decreases until the number of bonded and unbonded molecules is equal.",
+      "All hydrogen bonds are broken, leaving few to none, allowing the molecules to move freely.",
+      "Hydrogen bonds are replaced entirely by strong covalent bonds between adjacent water molecules."
+    ],
+    "explanation": "In liquid water, hydrogen bonds are transient, constantly forming and breaking. As water cools and solidifies into ice, the kinetic energy of the molecules drops, allowing hydrogen bonds to stabilize permanently, locking every water molecule in a fixed, crystalline matrix where they do not break. Incorrect options rationale: 1) The number of hydrogen bonds increases and stabilizes as water solidifies, rather than decreasing. 2) If all hydrogen bonds were broken, water would become a gas (steam) rather than a solid (ice). 3) The intermolecular forces between adjacent water molecules in ice remain hydrogen bonds and are not replaced by covalent bonds, which only link atoms within a single water molecule."
+  },
+  {
+    "section": "2.1",
+    "title": "Chemistry of Living Things",
+    "t": "mc",
+    "q": "If a solution's pH changes from 6 to 4, how has the concentration of protons (H+) changed?",
+    "a": 2,
+    "opts": [
+      "The concentration of protons has decreased by 2-fold.",
+      "The concentration of protons has increased by 20-fold.",
+      "The concentration of protons has increased by 100-fold.",
+      "The concentration of protons has decreased by 100-fold."
+    ],
+    "explanation": "The pH scale is logarithmic, meaning each unit change represents a 10-fold change in the concentration of hydrogen ions (H+). Because pH is defined as -log[H+], a decrease in pH indicates an increase in acidity (more protons). A decrease of 2 pH units (from 6 to 4) corresponds to an increase in proton concentration of 10^2, which is 100-fold. Incorrect options rationale: 1) A lower pH indicates a higher proton concentration, and the change is exponential (100-fold), not linear (2-fold). 2) While the pH difference is 2 units, the change in concentration is exponential (10^2 = 100-fold), not multiplicative (10 * 2 = 20-fold). 3) A decrease in pH from 6 to 4 represents an increase in proton concentration (more acidic), not a decrease."
+  },
+  {
+    "section": "2.1",
+    "title": "Chemistry of Living Things",
+    "t": "sa",
+    "q": "Which of the following properties of water are directly attributed to hydrogen bonding between water molecules? (Select all that apply)",
+    "correct": [
+      "High heat capacity",
+      "Lower density of ice compared to liquid water",
+      "Cohesion and surface tension"
+    ],
+    "opts": [
+      "High heat capacity",
+      "Lower density of ice compared to liquid water",
+      "Cohesion and surface tension",
+      "Acidity and alkalinity",
+      "Non-polar solubility"
+    ],
+    "explanation": "Correct choices rationale: 1) High heat capacity: Water molecules form extensive hydrogen bonds that must absorb a large amount of heat energy to break before the molecules can move faster and raise the temperature. 2) Lower density of ice: In ice, stable hydrogen bonds hold water molecules apart in a rigid, open crystalline lattice, making it less dense than liquid. 3) Cohesion and surface tension: Cohesion is the tendency of water molecules to stick to one another via hydrogen bonding, creating high surface tension. Incorrect choices rationale: 4) Acidity and alkalinity relate to the concentration of free hydrogen or hydroxide ions, not directly to intermolecular hydrogen bonding. 5) Non-polar solubility is not a property of water; water is highly polar and does not dissolve non-polar substances."
+  },
+  {
+    "section": "2.1",
+    "title": "Chemistry of Living Things",
+    "t": "sa",
+    "q": "Which of the following statements correctly describe the characteristics of acidic or basic (alkaline) solutions? (Select all that apply)",
+    "correct": [
+      "Acidic solutions have a pH value less than 7.",
+      "Basic solutions feel slippery because hydroxide ions react with oils on the skin.",
+      "A solution with equal concentrations of hydronium and hydroxide ions is neutral."
+    ],
+    "opts": [
+      "Acidic solutions have a pH value less than 7.",
+      "Basic solutions feel slippery because hydroxide ions react with oils on the skin.",
+      "Acidic solutions have a higher concentration of hydroxide ions than protons.",
+      "Basic solutions tend to taste sour, such as vinegar or citrus fruits.",
+      "A solution with equal concentrations of hydronium and hydroxide ions is neutral."
+    ],
+    "explanation": "Correct choices rationale: 1) Acidic solutions have a pH value less than 7, which defines acidity on the pH scale. 2) Basic solutions feel slippery because hydroxide ions (OH-) react with the oils and fatty acids on skin to form soap (saponification). 3) A solution with equal concentrations of hydronium and hydroxide ions is neutral (pH 7). Incorrect choices rationale: 4) Acidic solutions have a higher concentration of protons (H+) than hydroxide ions (OH-), not the reverse. 5) Basic solutions tend to taste bitter, while acidic solutions taste sour (like vinegar or citrus fruits)."
+  },
+  {
+    "section": "2.2",
+    "title": "Chemistry of Organic Molecules",
+    "t": "mc",
+    "q": "What are the three components that make up a molecule of adenosine triphosphate (ATP)?",
+    "a": 1,
+    "opts": [
+      "A 6-carbon glucose sugar, a single-ring cytosine, and three phosphate groups.",
+      "A 5-carbon ribose sugar, a double-ring adenine, and three phosphate groups.",
+      "A 5-carbon deoxyribose sugar, a double-ring guanine, and two phosphate groups.",
+      "A 6-carbon fructose sugar, a single-ring uracil, and three phosphate groups."
+    ],
+    "explanation": "Adenosine triphosphate (ATP) is a nucleotide derivative consisting of three core parts: a 5-carbon ribose sugar, a double-ring nitrogenous base called adenine, and a chain of three phosphate groups. Incorrect options rationale: 1) ATP does not contain a 6-carbon glucose sugar or the single-ring cytosine base. 2) Deoxyribose is the sugar found in DNA, not ATP (which contains ribose), and guanine is a different base. Additionally, ATP has three phosphate groups, whereas ADP has two. 3) Fructose is a 6-carbon plant sugar, and uracil is a base in RNA. ATP specifically contains ribose and adenine."
+  },
+  {
+    "section": "2.2",
+    "title": "Chemistry of Organic Molecules",
+    "t": "mc",
+    "q": "Which statement correctly describes the structural characteristics of cellulose?",
+    "a": 2,
+    "opts": [
+      "It consists of hundreds of glucose molecules bonded in a highly branched chain stored primarily in liver and muscle cells.",
+      "It is a coiled, unbranched molecule stored in plant seeds to provide carbon and energy to germinating seedlings.",
+      "It contains thousands of glucose molecules linked in long, straight chains that hydrogen bond to each other.",
+      "It is composed of a long fatty acid chain linked to a long-chain alcohol that forms a waterproof barrier."
+    ],
+    "explanation": "Cellulose is a structural polysaccharide found in plant cell walls. It consists of glucose monomers linked by beta-1,4-glycosidic bonds into long, straight, unbranched chains. These parallel chains lie side-by-side and form extensive hydrogen bonds with one another, creating tough microfibrils that provide structural support. Incorrect options rationale: 1) Glycogen is the highly branched glucose polymer stored in animal liver and muscle cells. 2) Starch (specifically amylose) is the coiled, unbranched or slightly branched glucose polymer used by plants for energy storage in seeds. 3) Waxes are lipids composed of a long-chain fatty acid linked to a long-chain alcohol, which function as waterproof barriers, not cellulose."
+  },
+  {
+    "section": "2.2",
+    "title": "Chemistry of Organic Molecules",
+    "t": "mc",
+    "q": "Which bond type is responsible for linking nucleotide monomers together in a nucleic acid polymer?",
+    "a": 2,
+    "opts": [
+      "A glycosidic covalent bond",
+      "A peptide covalent bond",
+      "A phosphodiester covalent bond",
+      "An ionic salt bridge"
+    ],
+    "explanation": "In nucleic acid polymers (DNA and RNA), nucleotide monomers are linked by phosphodiester bonds. This is a covalent bond formed between the 3' carbon of the pentose sugar of one nucleotide and the 5' phosphate group of the next nucleotide, forming the sugar-phosphate backbone. Incorrect options rationale: 1) Glycosidic bonds link carbohydrate monomers (monosaccharides) together to form polysaccharides. 2) Peptide bonds link amino acid monomers together to form polypeptides (proteins). 3) Ionic salt bridges are non-covalent electrostatic attractions that occur between charged amino acid side chains in proteins, not bonds that link nucleotides."
+  },
+  {
+    "section": "2.2",
+    "title": "Chemistry of Organic Molecules",
+    "t": "mc",
+    "q": "What structural feature distinguishes unsaturated triglycerides from saturated triglycerides?",
+    "a": 1,
+    "opts": [
+      "Saturated triglycerides contain fatty acid chains with carbon-carbon double bonds, making them liquid at room temperature.",
+      "Unsaturated triglycerides contain fatty acid chains with carbon-carbon double bonds, making them liquid at room temperature.",
+      "Saturated triglycerides lack carboxyl groups, which prevents them from forming hydrogen bonds with water molecules.",
+      "Unsaturated triglycerides have three glycerol molecules attached to a single fatty acid chain, lowering their melting point."
+    ],
+    "explanation": "Saturated fatty acids have only single bonds between carbon atoms, meaning they are saturated with hydrogen and have straight chains that pack tightly, making them solid at room temperature. Unsaturated fatty acids contain one or more carbon-carbon double bonds (C=C), which introduce kinks in the hydrocarbon chains. These kinks prevent tight packing, making unsaturated triglycerides liquid (oils) at room temperature. Incorrect options rationale: 1) Saturated fats do not contain carbon-carbon double bonds and are generally solid, not liquid, at room temperature. 2) Both saturated and unsaturated fatty acids possess carboxyl groups; the hydrophobic nature of triglycerides is due to long hydrocarbon chains, not a lack of carboxyl groups. 3) All triglycerides consist of a single glycerol molecule attached to three fatty acid chains, not three glycerol molecules to one fatty acid."
+  },
+  {
+    "section": "2.2",
+    "title": "Chemistry of Organic Molecules",
+    "t": "mc",
+    "q": "What is the molecular structure of cholesterol and its primary role in animal cell membranes?",
+    "a": 2,
+    "opts": [
+      "It is a phospholipid bilayer that acts as a selective barrier between the cytoplasm and the interstitial fluid.",
+      "It is composed of a long fatty acid chain linked to an alcohol, functioning to prevent evaporation and entry of microbes.",
+      "It is composed of four fused carbon rings and functions to maintain the fluidity of the cell membrane.",
+      "It is a highly branched carbohydrate polymer that stores glucose for rapid energy release during cellular respiration."
+    ],
+    "explanation": "Cholesterol is a steroid, which is a class of lipids characterized by a carbon skeleton consisting of four fused rings. In animal cell membranes, cholesterol acts as a fluidity buffer: it restrains phospholipid movement at high temperatures to prevent the membrane from becoming too fluid, and disrupts the close packing of phospholipids at low temperatures to prevent the membrane from solidifying or becoming too rigid. Incorrect options rationale: 1) A phospholipid bilayer describes the main structural matrix of the membrane, not the specific molecular structure of cholesterol. 2) This describes a wax (long fatty acid and alcohol), which functions as a protective coating, not cholesterol. 3) This describes glycogen (a branched carbohydrate polymer), not cholesterol, which is a lipid."
+  },
+  {
+    "section": "2.2",
+    "title": "Chemistry of Organic Molecules",
+    "t": "mc",
+    "q": "Which of the following statements correctly compares polymer formation and degradation?",
+    "a": 1,
+    "opts": [
+      "Condensation reactions break polymers down using water, whereas hydrolysis reactions build polymers and release water.",
+      "Condensation reactions build polymers and release water, whereas hydrolysis reactions break polymers down using water.",
+      "Both condensation and hydrolysis reactions require the input of water molecules to drive the formation of covalent bonds.",
+      "Neither condensation nor hydrolysis reactions involve water, relying instead on the cleavage of phosphate groups."
+    ],
+    "explanation": "Dehydration synthesis (or condensation) reactions link monomers together by removing a hydroxyl group (-OH) from one monomer and a hydrogen atom (-H) from another, forming a covalent bond and releasing a water molecule (H2O). Conversely, hydrolysis reactions break down polymers into monomers by adding a water molecule, which splits to donate an -OH to one monomer and a -H to the other. Incorrect options rationale: 1) This option reverses the definitions, stating that condensation breaks polymers and hydrolysis builds them. 2) Only hydrolysis reactions require an input of water molecules, while condensation reactions release water. 3) Both reactions fundamentally involve water as either a product (condensation) or a reactant (hydrolysis)."
+  },
+  {
+    "section": "2.2",
+    "title": "Chemistry of Organic Molecules",
+    "t": "sa",
+    "q": "Which of the following functional groups or atoms are covalently bonded to the central carbon of every amino acid? (Select all that apply)",
+    "correct": [
+      "A hydrogen atom",
+      "A carboxyl group",
+      "An amino group",
+      "A variable R group"
+    ],
+    "opts": [
+      "A hydrogen atom",
+      "A carboxyl group",
+      "An amino group",
+      "A variable R group",
+      "A phosphate group",
+      "A nitrogenous base"
+    ],
+    "explanation": "Correct choices rationale: 1) A hydrogen atom (H) is bonded to the central alpha-carbon. 2) A carboxyl group (-COOH) is the acidic group bonded to the central carbon. 3) An amino group (-NH2) is the basic nitrogen-containing group bonded to the central carbon. 4) A variable R group (side chain) dictates the specific identity and properties of the amino acid. Incorrect choices rationale: 5) A phosphate group is not part of the general amino acid structure (it is found in nucleotides). 6) A nitrogenous base is found in nucleotides, not amino acids."
+  },
+  {
+    "section": "2.2",
+    "title": "Chemistry of Organic Molecules",
+    "t": "sa",
+    "q": "Which of the following substances are classified as lipids? (Select all that apply)",
+    "correct": [
+      "Triglycerides",
+      "Phospholipids",
+      "Steroids",
+      "Waxes"
+    ],
+    "opts": [
+      "Triglycerides",
+      "Phospholipids",
+      "Steroids",
+      "Waxes",
+      "Glycogen",
+      "Polypeptides"
+    ],
+    "explanation": "Correct choices rationale: 1) Triglycerides: Fats and oils used for long-term energy storage. 2) Phospholipids: Amphipathic molecules forming the cell membrane bilayer. 3) Steroids: Lipids containing four fused carbon rings (e.g., cholesterol, hormones). 4) Waxes: Esters of long-chain fatty acids and long-chain alcohols used for waterproofing. Incorrect choices rationale: 5) Glycogen is a carbohydrate (specifically, a highly branched polysaccharide of glucose), not a lipid. 6) Polypeptides are polymers of amino acids (proteins), not lipids."
+  },
+  {
+    "section": "2.3",
+    "title": "Movement of Molecules",
+    "t": "mc",
+    "q": "What accounts for the structural asymmetry of the cell membrane, and what is its primary biological purpose?",
+    "a": 2,
+    "opts": [
+      "Carbohydrate chains attached to lipids and proteins exist exclusively on the intracellular monolayer to stabilize the cytoskeleton.",
+      "Cholesterol molecules accumulate solely on the extracellular side of the bilayer to increase permeability to polar substances.",
+      "Carbohydrate chains on glycoproteins and glycolipids occur only on the outside surface, serving in cell-to-cell signaling and adhesion.",
+      "Integral transport proteins only pump ions outward, which creates a highly charged electrical barrier on the cytosolic face."
+    ],
+    "explanation": "The two sides of the plasma membrane are structurally and functionally distinct (asymmetric). Carbohydrate chains attached to proteins (glycoproteins) and lipids (glycolipids) are located exclusively on the extracellular side of the membrane. This forms the glycocalyx, which is vital for cell-to-cell recognition, signaling, and cell adhesion. Incorrect options rationale: 1) Carbohydrate chains are located on the extracellular (outer) surface, not the intracellular (inner) monolayer. 2) Cholesterol is distributed throughout both leaflets of the bilayer, and it decreases (rather than increases) permeability to small polar molecules. 3) Integral transport proteins pump ions in both directions (e.g., the sodium-potassium pump imports potassium and exports sodium), and their distribution does not create a purely outward pump layout."
+  },
+  {
+    "section": "2.3",
+    "title": "Movement of Molecules",
+    "t": "mc",
+    "q": "What happens to animal and plant cells, respectively, when placed in a hypotonic solution?",
+    "a": 1,
+    "opts": [
+      "The animal cell shrivels due to water loss, whereas the plant cell remains unaffected because of its rigid wall.",
+      "The animal cell expands and may burst (lyse), while the plant cell becomes turgid and remains structurally stable.",
+      "Both the animal and plant cells absorb water equally until their internal hydrostatic pressures are balanced.",
+      "The animal cell undergoes plasmolysis, whereas the plant cell swells until it bursts due to high osmotic pressure."
+    ],
+    "explanation": "A hypotonic solution has a lower solute concentration (higher water potential) than the cell's cytoplasm. Water will enter both cells by osmosis. In animal cells, which lack a cell wall, this influx causes the cell to swell and potentially burst (lysis). In plant cells, the rigid cell wall exerts turgor pressure against the incoming water, preventing the cell from bursting and making it turgid, which is the ideal state for plant structure. Incorrect options rationale: 1) Animal cells swell and burst, not shrivel, in hypotonic solutions (they shrivel/crenate in hypertonic solutions). 2) Animal and plant cells do not absorb water equally; animal cells lack cell walls and cannot withstand the hydrostatic pressures, leading to lysis, whereas plant cells reach a dynamic equilibrium when turgor pressure opposes osmotic pressure. 3) Plasmolysis is the shriveling of the plant cell cytoplasm away from the cell wall, which occurs in hypertonic solutions, not hypotonic ones. Plant cells rarely burst in hypotonic solutions because of the strength of the cell wall."
+  },
+  {
+    "section": "2.3",
+    "title": "Movement of Molecules",
+    "t": "mc",
+    "q": "Which type of membrane transport protein is specifically responsible for the rapid, facilitated diffusion of water across the plasma membrane?",
+    "a": 1,
+    "opts": [
+      "Active sodium-potassium pump",
+      "Facilitated aquaporin channel",
+      "Glycoprotein receptor molecule",
+      "Major histocompatibility complex"
+    ],
+    "explanation": "While water can slowly diffuse directly through the lipid bilayer, aquaporins are specialized channel proteins that allow for the extremely rapid, passive transport (facilitated diffusion) of water molecules across the cell membrane. Incorrect options rationale: 1) The sodium-potassium pump is an active transport protein that uses ATP to move sodium (Na+) and potassium (K+) ions against their concentration gradients, not water. 2) Glycoprotein receptor molecules are involved in cellular signaling and binding extracellular ligands, not the transport of water. 3) The Major Histocompatibility Complex (MHC) is a set of cell-surface proteins essential for the immune system to recognize foreign molecules, not transport water."
+  },
+  {
+    "section": "2.3",
+    "title": "Movement of Molecules",
+    "t": "mc",
+    "q": "How does receptor-mediated endocytosis differ from pinocytosis, and what is a key molecule transported by this mechanism?",
+    "a": 1,
+    "opts": [
+      "It is a passive mechanism that does not require ATP, used to absorb large volumes of extracellular fluid.",
+      "It uses specific membrane receptors to target solutes, and is the process by which cholesterol is taken in from blood.",
+      "It engulfs large solid particles by wrapping the membrane around them to form a vacuole, used to ingest bacteria.",
+      "It exports bulky hormones and neurotransmitters from intracellular vesicles that fuse directly with the membrane."
+    ],
+    "explanation": "Receptor-mediated endocytosis is a highly selective active transport process where specific receptor proteins on the cell surface bind to target molecules (ligands). This triggers vesicle formation to bring the bound molecules into the cell. A key biological example is the uptake of cholesterol, which circulates in the blood within Low-Density Lipoprotein (LDL) particles that bind to LDL receptors. Pinocytosis, on the other hand, is non-specific ('cell drinking') and internalizes droplets of extracellular fluid. Incorrect options rationale: 1) All forms of endocytosis are active transport mechanisms requiring energy (ATP); they are not passive, and receptor-mediated endocytosis targets specific solutes rather than bulk fluid. 2) This describes phagocytosis ('cell eating'), which is the engulfing of large, solid particles or microorganisms like bacteria. 3) This describes exocytosis, which is the process of exporting materials out of the cell, not endocytosis."
+  },
+  {
+    "section": "2.3",
+    "title": "Movement of Molecules",
+    "t": "mc",
+    "q": "How does cholesterol regulate the physical state of the cell membrane?",
+    "a": 1,
+    "opts": [
+      "It acts as an enzymatic catalyst that speeds up active transport of sodium ions across the bilayer.",
+      "It prevents the membrane from becoming too fluid at high temperatures and too rigid at low temperatures.",
+      "It attaches directly to carbohydrate chains to form a dense outer protective barrier against pathogens.",
+      "It forms a selective hydrophilic channel that allows polar molecules to bypass the hydrophobic tails."
+    ],
+    "explanation": "Cholesterol acts as a membrane fluid buffer. At warm temperatures (e.g., 37°C), it restrains phospholipid movement, preventing the membrane from becoming overly fluid and losing structural integrity. At cool temperatures, it prevents close packing of the phospholipids, keeping the membrane from solidifying and becoming too rigid. Incorrect options rationale: 1) Cholesterol has no enzymatic activity and is not involved in catalyzing the active transport of sodium ions. 2) Cholesterol resides within the hydrophobic interior of the phospholipid bilayer and does not attach to extracellular carbohydrate chains. 3) Cholesterol is highly hydrophobic and does not form hydrophilic channels; transport channels are formed by integral membrane proteins."
+  },
+  {
+    "section": "2.3",
+    "title": "Movement of Molecules",
+    "t": "mc",
+    "q": "Which membrane-bound protein is correctly matched with its cellular function?",
+    "a": 1,
+    "opts": [
+      "Channel protein - selectively interacts with specific molecules to actively pump them against their gradient.",
+      "Cell recognition protein - functions in cellular immunity and determines organ transplant compatibility.",
+      "Carrier protein - forms a permanent, non-selective hydrophilic tunnel that allows all ions to diffuse freely.",
+      "Junction protein - binds to signaling hormones to trigger metabolic cascades within the cytoplasm of the cell."
+    ],
+    "explanation": "Cell recognition proteins (specifically glycoproteins, such as MHC proteins) are unique to each individual. They allow the body's immune system to distinguish between self and non-self, playing a critical role in cellular immunity and organ transplant rejection. Incorrect options rationale: 1) Channel proteins permit molecules to flow passively down their concentration gradient; they do not actively pump molecules against their gradient (which is done by active transport pumps using ATP). 2) Carrier proteins are highly selective and change shape to transport specific molecules across the membrane, rather than forming non-selective tunnels. 3) This describes receptor proteins, which bind signaling molecules (like hormones) to trigger intracellular signal transduction cascades. Junction proteins, in contrast, physically connect adjacent cells."
+  },
+  {
+    "section": "2.3",
+    "title": "Movement of Molecules",
+    "t": "sa",
+    "q": "Which of the following substances are exported from cells via exocytosis? (Select all that apply)",
+    "correct": [
+      "Hormones",
+      "Neurotransmitters",
+      "Digestive enzymes"
+    ],
+    "opts": [
+      "Hormones",
+      "Neurotransmitters",
+      "Digestive enzymes",
+      "Sodium ions",
+      "Water molecules",
+      "Atmospheric oxygen"
+    ],
+    "explanation": "Correct choices rationale: 1) Hormones: Insulin and other polypeptide hormones are packaged in secretory vesicles and released into the bloodstream via exocytosis. 2) Neurotransmitters: Synaptic vesicles fuse with the presynaptic membrane to release neurotransmitters into the synaptic cleft. 3) Digestive enzymes: Pancreatic cells secrete digestive enzymes into the pancreatic duct via exocytic vesicle fusion. Incorrect choices rationale: 4) Sodium ions are transported across membranes individually via ion channels (passive) or sodium pumps (active), not in bulk vesicles. 5) Water molecules diffuse individually through the bilayer or via aquaporins. 6) Atmospheric oxygen is a small non-polar gas that crosses the membrane easily via simple diffusion."
+  },
+  {
+    "section": "2.3",
+    "title": "Movement of Molecules",
+    "t": "sa",
+    "q": "Which of the following transport mechanisms do NOT require the cell to expend metabolic energy (ATP)? (Select all that apply)",
+    "correct": [
+      "Simple diffusion of oxygen",
+      "Osmosis of water molecules",
+      "Facilitated diffusion via aquaporins"
+    ],
+    "opts": [
+      "Simple diffusion of oxygen",
+      "Osmosis of water molecules",
+      "Facilitated diffusion via aquaporins",
+      "Active transport via the sodium-potassium pump",
+      "Phagocytosis of bacterial cells"
+    ],
+    "explanation": "Correct choices rationale: 1) Simple diffusion of oxygen: Oxygen moves passively down its concentration gradient directly through the lipid bilayer. 2) Osmosis of water: The net movement of water across a selectively permeable membrane from high to low water potential is a passive process. 3) Facilitated diffusion via aquaporins: Aquaporins act as passive channels, allowing water to flow down its gradient without requiring energy. Incorrect choices rationale: 4) Active transport (Sodium-potassium pump) specifically requires ATP hydrolysis to pump sodium and potassium against their concentration gradients. 5) Phagocytosis is a form of endocytosis which requires substantial ATP energy to manipulate the cytoskeleton and engulf foreign materials."
+  },
+  {
+    "section": "2.4",
+    "title": "Metabolism",
+    "t": "mc",
+    "q": "How does the second law of thermodynamics apply to energy transformations in living systems?",
+    "a": 0,
+    "opts": [
+      "Every energy conversion increases the overall randomness or disorder of the universe, which is measured as entropy.",
+      "Cells can destroy excess thermal energy to maintain high structural organization without affecting the surroundings.",
+      "The total quantity of energy in the universe increases with each metabolic reaction that occurs inside a cell.",
+      "Biological systems are exempt from entropy because they continuously convert kinetic energy into potential energy."
+    ],
+    "explanation": "The second law of thermodynamics states that every energy transfer or transformation increases the entropy (disorder) of the universe. In biological systems, energy conversions are never 100% efficient; some energy is always lost as heat, which increases the random movement of surrounding molecules (entropy). Incorrect options rationale: 1) Energy cannot be destroyed (first law of thermodynamics). Heat is released to the surroundings, which increases surrounding entropy and does affect the environment. 2) The first law of thermodynamics states that energy cannot be created or destroyed. The total quantity of energy in the universe remains constant; it only changes form. 3) Biological systems are not exempt from the laws of thermodynamics. While organisms can create highly ordered internal structures (decreasing local entropy), they must consume energy to do so, releasing heat and metabolic waste which increases the overall entropy of the universe."
+  },
+  {
+    "section": "2.4",
+    "title": "Metabolism",
+    "t": "mc",
+    "q": "Which of the following statements correctly distinguishes an endergonic reaction from an exergonic reaction?",
+    "a": 2,
+    "opts": [
+      "Exergonic reactions require an input of activation energy to yield products with higher potential energy than the reactants.",
+      "Endergonic reactions release energy stored in covalent bonds, resulting in products with less potential energy than reactants.",
+      "Endergonic reactions require a net input of energy, yielding products that possess more potential energy than the reactants.",
+      "Exergonic reactions occur only when thermal energy is transferred from the surroundings into the biological system."
+    ],
+    "explanation": "Endergonic reactions are non-spontaneous and require a net input of free energy to proceed. Because energy is absorbed, the products have more potential energy stored in their chemical bonds than the reactants (positive change in free energy, deltaG > 0). Incorrect options rationale: 1) Exergonic reactions release free energy, resulting in products with lower (not higher) potential energy than the reactants. 2) This option describes an exergonic reaction, not an endergonic one. 3) Exergonic reactions release energy into the surroundings, rather than requiring the transfer of thermal energy from the surroundings to drive them."
+  },
+  {
+    "section": "2.4",
+    "title": "Metabolism",
+    "t": "mc",
+    "q": "What is phosphorylation, and why is it significant to cellular work?",
+    "a": 1,
+    "opts": [
+      "The synthesis of ATP from ADP and inorganic phosphate, which stores kinetic energy for future mechanical work.",
+      "The transfer of a phosphate group from ATP to another molecule, which energizes that molecule to perform work.",
+      "The breakdown of glucose into carbon dioxide and water, releasing heat to maintain core body temperature.",
+      "The binding of enzymes to substrates, which lowers the activation energy of biosynthetic anabolic pathways."
+    ],
+    "explanation": "Phosphorylation refers to the covalent transfer of a phosphate group from ATP to another molecule (such as a reactant or protein). The addition of the negatively charged phosphate group alters the molecule's shape and increases its free energy (making it unstable or reactive), which drives endergonic reactions or changes protein conformation to do work. Incorrect options rationale: 1) The synthesis of ATP from ADP and inorganic phosphate is called photophosphorylation or oxidative phosphorylation (ATP regeneration), which stores potential chemical energy, not kinetic energy. 2) This describes cellular respiration (oxidation of glucose), not phosphorylation. 3) This describes the formation of the enzyme-substrate complex, not phosphorylation."
+  },
+  {
+    "section": "2.4",
+    "title": "Metabolism",
+    "t": "mc",
+    "q": "Which of the following processes represents an anabolic reaction, and what is its thermodynamic requirement?",
+    "a": 1,
+    "opts": [
+      "The breakdown of complex proteins into individual amino acids, which releases chemical potential energy.",
+      "The conversion of glucose molecules into complex carbohydrates, which requires an input of metabolic energy.",
+      "The hydrolysis of adenosine triphosphate into adenosine diphosphate, which releases stored chemical energy.",
+      "The oxidation of fatty acids during cellular respiration, which yields twice as much energy per gram as carbohydrates."
+    ],
+    "explanation": "Anabolic pathways are biosynthetic processes that build complex molecules from simpler ones (e.g., building starch or glycogen from glucose). These reactions are endergonic and require an input of metabolic energy (usually in the form of ATP). Incorrect options rationale: 1) Breaking down proteins into amino acids is a catabolic, exergonic reaction that releases energy. 2) The hydrolysis of ATP to ADP is a catabolic, exergonic reaction that releases energy. 3) The oxidation of fatty acids is a catabolic pathway that breaks down fats to harvest energy (ATP), rather than an biosynthetic anabolic reaction."
+  },
+  {
+    "section": "2.4",
+    "title": "Metabolism",
+    "t": "mc",
+    "q": "Why do fats serve as a highly efficient cellular fuel compared to carbohydrates?",
+    "a": 1,
+    "opts": [
+      "Fats contain fewer hydrogen atoms, which allows them to bypass the glycolysis pathway and go directly to the cell membrane.",
+      "Fats yield more than twice as much ATP per gram because they contain many hydrogen atoms with energy-rich electrons.",
+      "Fats are highly hydrophilic, allowing them to dissolve rapidly in the cytoplasm and undergo fast hydrolysis.",
+      "Fats are stored exclusively in the liver and muscle cells, allowing them to be broken down faster than glucose."
+    ],
+    "explanation": "Fats contain long hydrocarbon chains which have a high proportion of carbon-hydrogen (C-H) bonds. These bonds contain highly reduced carbons with energy-rich electrons. During cellular respiration, the oxidation of these hydrogen-rich chains yields more than double the energy (about 9 kcal/g) compared to the oxidized carbons of carbohydrates (about 4 kcal/g). Incorrect options rationale: 1) Fats contain more hydrogen atoms than carbohydrates, not fewer, and do not bypass respiratory pathways to go directly to the membrane. 2) Fats are hydrophobic (non-polar) and insoluble in water, meaning they do not dissolve in the cytoplasm. 3) Fats are stored in adipose tissue, whereas glycogen (a carbohydrate) is stored in the liver and muscle cells for rapid mobilization."
+  },
+  {
+    "section": "2.4",
+    "title": "Metabolism",
+    "t": "mc",
+    "q": "What is the primary mechanism of energy coupling in cells?",
+    "a": 0,
+    "opts": [
+      "Using the energy released from catabolic, exergonic reactions to drive anabolic, endergonic reactions via ATP.",
+      "Converting potential energy directly into kinetic heat energy to drive the diffusion of ions against their gradient.",
+      "Storing light energy in pigments to directly synthesize proteins from free amino acids without using ATP.",
+      "Transporting water molecules across a selectively permeable membrane to increase osmotic pressure inside the vacuole."
+    ],
+    "explanation": "Energy coupling is the use of an exergonic process to drive an endergonic one. The primary mediator of energy coupling in cells is ATP. The energy released from catabolic breakdown reactions (exergonic) is used to phosphorylate ADP to ATP. Then, the hydrolysis of ATP (exergonic) is coupled to power biosynthetic, transport, or mechanical work (endergonic). Incorrect options rationale: 1) Heat is an unusable form of energy for driving cellular work (like active transport) and increases entropy; cells do not convert potential energy directly into heat to drive active transport. 2) Light energy cannot be directly used to synthesize proteins from amino acids; it must first be converted into chemical energy (ATP and NADPH) via photosynthesis. 3) Osmotic transport of water is a passive process driven by water potential gradients and is not the mechanism of metabolic energy coupling."
+  },
+  {
+    "section": "2.4",
+    "title": "Metabolism",
+    "t": "sa",
+    "q": "Which of the following examples are classified as forms of kinetic energy? (Select all that apply)",
+    "correct": [
+      "Thermal energy associated with the random movement of atoms",
+      "Light energy used to power photosynthesis in plants"
+    ],
+    "opts": [
+      "Thermal energy associated with the random movement of atoms",
+      "Light energy used to power photosynthesis in plants",
+      "Chemical energy stored in the covalent bonds of glucose",
+      "Potential energy of water held behind a dam",
+      "Electromagnetic radiation"
+    ],
+    "explanation": "Correct choices rationale: 1) Thermal energy associated with the random movement of atoms: Heat is a form of kinetic energy because it is the energy of moving atoms and molecules. 2) Light energy used to power photosynthesis in plants: Light is a form of electromagnetic kinetic energy representing the motion of photons. Incorrect choices rationale: 3) Chemical energy stored in the covalent bonds of glucose is a form of potential (stored) energy. 4) Potential energy of water held behind a dam is a form of gravitational potential energy. 5) Although electromagnetic radiation is physically a form of kinetic energy, it is a broad term, and the specific answers selected for this question are thermal and light energy."
+  },
+  {
+    "section": "2.4",
+    "title": "Metabolism",
+    "t": "sa",
+    "q": "Which of the following statements accurately describe adenosine triphosphate (ATP) and its cycle? (Select all that apply)",
+    "correct": [
+      "ATP hydrolysis is an exergonic reaction that releases energy.",
+      "ATP synthesis from ADP and phosphate is an endergonic reaction.",
+      "The triphosphate tail contains three negatively charged phosphate groups."
+    ],
+    "opts": [
+      "ATP hydrolysis is an exergonic reaction that releases energy.",
+      "ATP synthesis from ADP and phosphate is an endergonic reaction.",
+      "The triphosphate tail contains three negatively charged phosphate groups.",
+      "ATP contains a 5-carbon deoxyribose sugar and a single-ring uracil base.",
+      "The cell stores vast amounts of ATP permanently without regenerating it."
+    ],
+    "explanation": "Correct choices rationale: 1) ATP hydrolysis is an exergonic reaction that releases energy: Breaking the phosphoanhydride bond releases 7.3 kcal/mol of free energy. 2) ATP synthesis from ADP and phosphate is an endergonic reaction: Building ATP requires energy input to overcome the repulsion between negative charges. 3) The triphosphate tail contains three negatively charged phosphate groups: These groups repel each other, making the tail unstable like a compressed spring. Incorrect choices rationale: 4) ATP contains ribose (a 5-carbon sugar) and adenine (a double-ring purine base), not deoxyribose and uracil. 5) ATP is not stored long-term; cells continuously hydrolyze and regenerate it in a rapid cycle."
+  },
+  {
+    "section": "2.5",
+    "title": "Enzymes",
+    "t": "mc",
+    "q": "How do enzymes accelerate chemical reactions in biological systems?",
+    "a": 1,
+    "opts": [
+      "By supplying extra thermal energy to the reactants, which increases the rate of collision in the active site.",
+      "By lowering the activation energy barrier required for the reaction to proceed.",
+      "By increasing the potential energy of the products, making the reaction highly exergonic.",
+      "By permanently changing their own primary structure to fuse with the reactant molecules."
+    ],
+    "explanation": "Enzymes are biological catalysts that speed up chemical reactions by lowering the activation energy (Ea)—the initial energy barrier that reactants must overcome to reach the transition state. They do this by orienting substrates correctly, straining substrate bonds, or providing a favorable microenvironment. Incorrect options rationale: 1) Enzymes do not supply thermal energy to the cell; biological systems operate at relatively constant temperatures, and raising the temperature would be non-specific and potentially damage the cell. 2) Enzymes do not alter the potential energy of the reactants or products (deltaG remains unchanged). They only affect the rate of the reaction. 3) Enzymes are not permanently altered or consumed in the reactions they catalyze; they return to their original shape and are reusable."
+  },
+  {
+    "section": "2.5",
+    "title": "Enzymes",
+    "t": "mc",
+    "q": "During the catalytic cycle of the enzyme sucrase, what happens immediately after the substrate sucrose binds to the active site?",
+    "a": 1,
+    "opts": [
+      "The enzyme releases glucose and fructose into the surroundings and becomes denatured.",
+      "The sucrose molecule undergoes a hydrolysis reaction and is converted into glucose and fructose.",
+      "The active site changes shape permanently to prevent any other substrates from binding.",
+      "Inorganic cofactors like zinc and copper bind to the sucrose to stabilize the transition state."
+    ],
+    "explanation": "Sucrase is an enzyme that catalyzes the hydrolysis of sucrose into glucose and fructose. Once sucrose binds to the active site, forming the enzyme-substrate complex, the enzyme lowers the activation energy of the glycosidic bond cleavage. Water is added, and the substrate is chemically converted into the product monosaccharides. Incorrect options rationale: 1) The enzyme does not denature; denaturing is the loss of tertiary structure due to extreme pH or temperature, which inactivates the enzyme. 2) While the active site changes shape slightly to fit the substrate (induced fit), this change is temporary. Once the products are released, the active site returns to its original conformation. 3) Cofactors, if required, bind to the enzyme itself to aid catalysis, not directly to the free substrate."
+  },
+  {
+    "section": "2.5",
+    "title": "Enzymes",
+    "t": "mc",
+    "q": "What are the typical optimal temperature and pH ranges for most human enzymes?",
+    "a": 0,
+    "opts": [
+      "35-40°C and a pH near neutrality (pH 7).",
+      "20-25°C and a highly acidic pH (pH 2).",
+      "35-40°C and a highly alkaline pH (pH 12).",
+      "98.6°C and a pH near neutrality (pH 7)."
+    ],
+    "explanation": "Most human enzymes have evolved to work optimally at normal human body temperature, which is approximately 37°C (within the 35-40°C range). Furthermore, the internal environment of most human cells and fluids is near neutral, making pH 7 the optimal pH for the majority of these enzymes (with a few exceptions like pepsin in the stomach). Incorrect options rationale: 1) 20-25°C is room temperature, not human body temperature, and pH 2 is highly acidic (only optimal for specialized stomach enzymes like pepsin). 2) pH 12 is highly basic/alkaline, which would denature almost all human enzymes. 3) While 98.6°F is human body temperature, 98.6°C is near the boiling point of water, which would instantly denature human proteins."
+  },
+  {
+    "section": "2.5",
+    "title": "Enzymes",
+    "t": "mc",
+    "q": "How does a coenzyme differ from an inorganic cofactor?",
+    "a": 0,
+    "opts": [
+      "A coenzyme is an organic helper molecule such as a vitamin, whereas an inorganic cofactor is a metal ion like zinc or iron.",
+      "A coenzyme binds covalently to the substrate, whereas an inorganic cofactor binds exclusively to the enzyme's allosteric site.",
+      "A coenzyme is a specialized ribozyme made of RNA, whereas an inorganic cofactor is always a small protein helper.",
+      "A coenzyme lowers the activation energy of a reaction, whereas an inorganic cofactor raises it to regulate metabolism."
+    ],
+    "explanation": "Both cofactors and coenzymes are non-protein helpers required by many enzymes for catalytic activity. The key distinction is chemical: coenzymes are organic molecules (often derived from vitamins, like NAD+ or CoQ10), whereas inorganic cofactors are non-organic chemical elements, typically metal ions like zinc (Zn2+), iron (Fe2+), or copper (Cu2+). Incorrect options rationale: 1) Coenzymes do not bind covalently to the substrate to form stable products, and inorganic cofactors do not bind exclusively to allosteric sites. 2) Coenzymes are not ribozymes (which are catalytic RNA molecules), and inorganic cofactors are not proteins. 3) Both help the enzyme lower the activation energy; cofactors do not raise the activation energy."
+  },
+  {
+    "section": "2.5",
+    "title": "Enzymes",
+    "t": "mc",
+    "q": "Which statement correctly describes the mechanism of a noncompetitive inhibitor?",
+    "a": 1,
+    "opts": [
+      "It binds directly to the active site, physically blocking the substrate from entering and thereby reducing the enzyme's productivity.",
+      "It binds to the enzyme at a site other than the active site, altering the active site's shape so the substrate cannot bind.",
+      "It binds covalently to the substrate molecule in the solution, preventing the substrate from fitting into the active site.",
+      "It acts as a specialized nonprotein coenzyme that permanently alters the temperature and pH sensitivity of the enzyme."
+    ],
+    "explanation": "Noncompetitive inhibitors regulate enzyme activity by binding to an allosteric site (a site on the enzyme other than the active site). This binding induces a conformational change in the enzyme's structure, which alters the shape of the active site, rendering it less effective or preventing the substrate from binding. Incorrect options rationale: 1) This describes a competitive inhibitor, which competes with the substrate for binding directly at the active site. 2) Inhibitors bind to the enzyme, not to the free substrate in solution. 3) Noncompetitive inhibitors are not coenzymes (which help enzymes); they are inhibitory regulators."
+  },
+  {
+    "section": "2.5",
+    "title": "Enzymes",
+    "t": "mc",
+    "q": "What is feedback inhibition in metabolic pathways?",
+    "a": 0,
+    "opts": [
+      "A process where the final product of a pathway binds to and inhibits an enzyme that acts early in the same pathway.",
+      "A mechanism where the substrate of a reaction binds to the active site of the enzyme to speed up its own conversion.",
+      "A regulation method where an inorganic cofactor like iron binds to the enzyme to prevent it from denaturing.",
+      "A process where the cell destroys the enzymes in a pathway once the concentration of the substrate decreases."
+    ],
+    "explanation": "Feedback inhibition (or end-product inhibition) is a cellular control mechanism in which the final product of a multi-step metabolic pathway accumulates and binds to an allosteric site on an enzyme that catalyzes an early step in the pathway. This shuts down the pathway, preventing the overproduction of the end product. Incorrect options rationale: 1) Substrates binding to the active site is the normal catalytic process, not feedback inhibition. 2) Cofactors binding to help enzyme stability is a form of activation or stabilization, not feedback inhibition. 3) Feedback inhibition is a rapid, reversible conformational control mechanism; it does not involve the degradation (destruction) of the enzymes."
+  },
+  {
+    "section": "2.5",
+    "title": "Enzymes",
+    "t": "sa",
+    "q": "Which of the following substances function as enzyme inhibitors in medical, agricultural, or military applications? (Select all that apply)",
+    "correct": [
+      "Ibuprofen (pain and inflammation reliever)",
+      "Antibiotics used to combat bacterial infections",
+      "Pesticides used in agriculture",
+      "Protease inhibitors used to treat HIV"
+    ],
+    "opts": [
+      "Ibuprofen (pain and inflammation reliever)",
+      "Antibiotics used to combat bacterial infections",
+      "Pesticides used in agriculture",
+      "Protease inhibitors used to treat HIV",
+      "Vitamins like CoQ10 and Acetyl CoA",
+      "Inorganic ions of zinc and copper"
+    ],
+    "explanation": "Correct choices rationale: 1) Ibuprofen: Inhibits cyclooxygenase (COX) enzymes to reduce prostaglandin synthesis, relieving pain and inflammation. 2) Antibiotics: Many, like penicillin, inhibit enzymes key to bacterial cell wall synthesis. 3) Pesticides: Often inhibit acetylcholinesterase, a critical enzyme in the insect nervous system. 4) Protease inhibitors: Inhibit the viral protease enzyme crucial for HIV replication. Incorrect choices rationale: 5) Vitamins like CoQ10 and Acetyl CoA function as coenzymes (helper molecules), not inhibitors. 6) Inorganic ions of zinc and copper act as inorganic cofactors, not inhibitors."
+  },
+  {
+    "section": "2.5",
+    "title": "Enzymes",
+    "t": "sa",
+    "q": "Which of the following statements correctly describe the characteristics and functions of enzymes? (Select all that apply)",
+    "correct": [
+      "They speed up chemical reactions by lowering the activation energy barrier.",
+      "They are highly specific, with active sites shaped to fit only specific substrates.",
+      "While most are proteins, some RNA molecules (ribozymes) can also act as enzymes."
+    ],
+    "opts": [
+      "They speed up chemical reactions by lowering the activation energy barrier.",
+      "They are highly specific, with active sites shaped to fit only specific substrates.",
+      "They are consumed during the chemical reactions they catalyze and must be remade.",
+      "While most are proteins, some RNA molecules (ribozymes) can also act as enzymes.",
+      "They function equally well across all ranges of temperature and pH."
+    ],
+    "explanation": "Correct choices rationale: 1) Speed up reactions by lowering activation energy: Enzymes act as catalysts to lower the activation energy barrier. 2) Highly specific active sites: The tertiary structure of the protein defines a specific active site that fits only the designated substrate(s). 3) Some RNA molecules can act as enzymes (ribozymes): The discovery of ribozymes proved that biological catalysis is not exclusive to proteins. Incorrect choices rationale: 4) Enzymes are catalysts, meaning they are not consumed or changed in the reaction and are fully reusable. 5) Enzymes have specific optimal temperature and pH ranges, outside of which they denature and lose activity."
+  }
+]

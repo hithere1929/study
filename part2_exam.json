@@ -1,0 +1,444 @@
+[
+  {
+    "q": "A cell biology lab investigates the physical limits of cell size. They observe a spherical bacterium with a diameter of 1 um and a spherical eukaryotic cell with a diameter of 10 um. Which of the following statements correctly evaluates how the change in size affects the surface-area-to-volume ratio (SA:V) and explains the physiological adaptation required by the eukaryotic cell to overcome transport bottlenecks?",
+    "opts": [
+      "The surface-area-to-volume ratio of the eukaryotic cell is 10 times smaller than that of the bacterium, requiring the eukaryotic cell to develop internal membrane-bound organelles to compartmentalize and facilitate transport.",
+      "The surface-area-to-volume ratio of the eukaryotic cell is 10 times larger than that of the bacterium, allowing it to rely solely on simple diffusion across the plasma membrane for nutrient uptake.",
+      "The volume of the eukaryotic cell is 100 times larger than that of the bacterium, which decreases the density of transport proteins on the cell surface and decreases metabolic efficiency.",
+      "Both cells have the same surface-area-to-volume ratio because they are both spherical, meaning their transport efficiency is determined solely by the thickness of their cell walls."
+    ],
+    "a": 0,
+    "explanations": [
+      "Explanation for Choice A: Correct. As cell size increases, volume increases as the cube of the radius (r^3) while surface area increases as the square of the radius (r^2). Thus, the SA:V ratio decreases (SA:V is proportional to 1/r). A cell with a 10 um diameter has a SA:V ratio 10 times smaller than a 1 um cell. Eukaryotic cells adapt to this transport bottleneck by utilizing internal membrane-bound organelles to compartmentalize chemical reactions and facilitate intracellular transport.",
+      "Explanation for Choice B: Incorrect. The SA:V ratio decreases, not increases, as cell size increases. A larger cell has less surface area relative to its volume and cannot rely on simple diffusion alone.",
+      "Explanation for Choice C: Incorrect. The volume of a sphere is proportional to r^3, so a cell 10 times larger in diameter has 10^3 = 1000 times the volume, not 100 times, and the bottleneck is caused by the ratio of surface area to volume, not a decrease in surface protein density.",
+      "Explanation for Choice D: Incorrect. The SA:V ratio is inversely proportional to the radius of the sphere, so they do not have the same ratio. The larger sphere has a much lower SA:V ratio."
+    ],
+    "section": "3.2"
+  },
+  {
+    "q": "An evolutionary biologist analyzes the eukaryotic protozoan Mixotricha paradoxa, which has mitochondria-like organelles called mitosomes. These mitosomes lack a genome but contain double membranes and perform iron-sulfur cluster assembly. The biologist treats the organism with an antibiotic that selectively inhibits bacterial protein synthesis on 70S ribosomes. Which of the following statements best predicts the effects of the treatment and explains how this supports the endosymbiotic theory?",
+    "opts": [
+      "The mitosomes will be completely unaffected because their lack of an independent genome means they rely entirely on eukaryotic 80S cytosolic ribosomes for all their proteins.",
+      "Mitosome replication will halt because the antibiotic will destroy the nuclear genes encoding mitosome proteins, which are bacterial in origin.",
+      "The antibiotic will inhibit any residual 70S ribosomal activity inside the mitosomes, but because many mitosomal genes have migrated to the eukaryotic nucleus over evolutionary time, the organelles are only partially affected.",
+      "The protozoan will lose its outer membrane because the antibiotic blocks the eukaryotic cell's ability to synthesize membrane phospholipids at the rough endoplasmic reticulum."
+    ],
+    "a": 2,
+    "explanations": [
+      "Explanation for Choice A: Incorrect. Although many genes have migrated to the nucleus, mitosomes still contain biochemical pathways and structures derived from their bacterial ancestor, and some endosymbiotic organelles still retain 70S ribosomes that are affected by bacterial inhibitors.",
+      "Explanation for Choice B: Incorrect. Antibiotics that target translation on 70S ribosomes do not destroy nuclear DNA genes, but rather inhibit the ribosome's peptidyl transferase activity.",
+      "Explanation for Choice C: Correct. The endosymbiotic theory states that organelles like mitochondria, chloroplasts, and mitosomes evolved from engulfed aerobic bacteria. Over evolutionary time, most of the endosymbiont's genes transferred to the host cell's nucleus, but residual 70S ribosomal activity or pathways remain susceptible to bacterial inhibitors, illustrating their bacterial origin.",
+      "Explanation for Choice D: Incorrect. The rough endoplasmic reticulum contains eukaryotic 80S ribosomes, which are not targeted by antibiotics that selectively inhibit bacterial 70S ribosomes."
+    ],
+    "section": "3.3"
+  },
+  {
+    "q": "A cell biologist treats a culture of secretory goblet cells in the intestinal epithelium with a drug that blocks the budding of transport vesicles from the endoplasmic reticulum (ER). Which of the following organelles will experience a depletion of newly synthesized proteins first?",
+    "opts": [
+      "The nucleolus, because it relies on transcription factors transported directly from the ER lumen to synthesize ribosomal RNA.",
+      "The Golgi apparatus, because it normally receives proteins synthesized in the rough ER via vesicles that fuse with its cis face.",
+      "The mitochondria, because they import all their respiratory enzymes from the ER through direct membrane fusion.",
+      "The lysosome, because the drug will force the cell to secrete all hydrolytic enzymes directly across the plasma membrane."
+    ],
+    "a": 1,
+    "explanations": [
+      "Explanation for Choice A: Incorrect. The nucleolus is located inside the nucleus and does not receive transcription factors from transport vesicles budding from the ER; transcription factors are synthesized on cytosolic ribosomes and imported through nuclear pores.",
+      "Explanation for Choice B: Correct. Under normal conditions, secretory proteins and membrane proteins are synthesized in the rough ER, packaged into transport vesicles, and sent to the cis face of the Golgi apparatus. Blocking vesicle budding from the ER prevents these proteins from reaching the Golgi, leading to its rapid depletion.",
+      "Explanation for Choice C: Incorrect. Mitochondria import most of their proteins from the cytosol via specialized translocases (TOM/TIM complexes), not by receiving transport vesicles from the ER.",
+      "Explanation for Choice D: Incorrect. Lysosomes receive their hydrolytic enzymes from the Golgi apparatus (via mannose-6-phosphate tagging). If vesicles cannot bud from the ER, no enzymes reach the Golgi, so they cannot be sorted to lysosomes or secreted."
+    ],
+    "section": "3.3"
+  },
+  {
+    "q": "Marine invertebrates are typically osmoconformers, whereas terrestrial plants must maintain turgor pressure. A student places a red alga cell (with a cell wall) and a marine crab gill cell (lacking a cell wall) into a hypertonic salt solution. Which of the following describes the most likely cellular responses and explains the structural reason for the difference?",
+    "opts": [
+      "The red alga cell will swell and undergo cytolysis because its cell wall accumulates salt ions, whereas the crab cell will remain stable because its plasma membrane is impermeable to water.",
+      "The red alga cell membrane will pull away from its cell wall (plasmolysis) as water exits, while the crab cell will shrivel (crenate) because both lack mechanisms to block water loss in a hypertonic environment, though the alga retains its outer shape due to the rigid cell wall.",
+      "Water will flow into both cells because salt ions actively diffuse across the membranes, causing the crab cell to burst and the alga cell to become turgid.",
+      "The crab cell will remain completely unchanged because it is an osmoconformer, whereas the alga cell will expand and force its vacuole to release water."
+    ],
+    "a": 1,
+    "explanations": [
+      "Explanation for Choice A: Incorrect. In a hypertonic solution, water leaves the cell rather than entering, so cells shrivel or plasmolyze; they do not swell or undergo cytolysis.",
+      "Explanation for Choice B: Correct. In a hypertonic solution, water exits both cells down its concentration gradient. The animal cell (crab gill cell) has no cell wall and will shrivel (crenate). The plant-like red alga cell has a rigid cell wall that maintains the cell's outer boundary, but the plasma membrane will pull away from the wall as the central vacuole loses water (plasmolysis).",
+      "Explanation for Choice C: Incorrect. Water flows out of cells in hypertonic solutions, not into them, because the solute concentration is higher outside the cells.",
+      "Explanation for Choice D: Incorrect. In a hypertonic solution, the crab cell will lose water and shrivel because it is exposed to osmotic pressure, and the alga cell will shrink, not expand."
+    ],
+    "section": "2.5"
+  },
+  {
+    "q": "A researcher studies the epigenetic regulation of a gene implicated in breast cancer. They observe that in cancer cells, the promoter region of a tumor suppressor gene is heavily methylated, and the associated histones are deacetylated. Which of the following best describes the physical state of the chromatin at this gene and its transcriptional activity?",
+    "opts": [
+      "The chromatin is in an open, loosely packed euchromatin state, allowing transcription factors to bind and transcription to occur at high levels.",
+      "The chromatin is in a highly compacted heterochromatin state, restricting access of RNA polymerase to the promoter and silencing the tumor suppressor gene.",
+      "The chromatin is temporarily disassembled into free nucleotides, which prevents replication but permits rapid transcription.",
+      "The chromatin has formed a loop with the nuclear matrix that exports the gene directly into the cytoplasm for translation."
+    ],
+    "a": 1,
+    "explanations": [
+      "Explanation for Choice A: Incorrect. Euchromatin is associated with histone acetylation (which neutralizes positive charges and loosens DNA binding) and low DNA methylation. The described state (deacetylated and methylated) is the opposite of euchromatin.",
+      "Explanation for Choice B: Correct. DNA methylation and histone deacetylation are hallmarks of heterochromatin. Deacetylation increases the positive charge on histone tails, strengthening their interaction with DNA and compacting it. DNA methylation further recruits chromatin-remodeling complexes that tightly pack the DNA, blocking transcription factor access and silencing the gene.",
+      "Explanation for Choice C: Incorrect. Chromatin is never disassembled into free nucleotides during transcription or replication; it remains as a DNA-protein polymer.",
+      "Explanation for Choice D: Incorrect. Genes are DNA sequences and are never exported to the cytoplasm; only mRNA transcripts are exported."
+    ],
+    "section": "3.5"
+  },
+  {
+    "q": "Vinblastine is a chemotherapy drug that binds to tubulin dimers, preventing their polymerization into microtubules. When cancer cells are treated with vinblastine, at which cell cycle checkpoint will they most likely arrest, and why?",
+    "opts": [
+      "The G1 checkpoint, because the cell cannot synthesize the enzymes required for DNA replication without microtubules.",
+      "The G2 checkpoint, because the cell detects DNA damage caused by the tubulin-binding drug.",
+      "The M (spindle assembly) checkpoint, because the cell cannot form a functional mitotic spindle to attach to and align chromosomes at the metaphase plate.",
+      "The G0 checkpoint, because vinblastine forces the cells to permanently differentiate into non-dividing somatic cells."
+    ],
+    "a": 2,
+    "explanations": [
+      "Explanation for Choice A: Incorrect. The G1 checkpoint checks for cell size, nutrients, growth factors, and DNA damage, and does not monitor microtubule polymerization or spindle formation.",
+      "Explanation for Choice B: Incorrect. The G2 checkpoint checks for DNA replication completeness and DNA damage, not spindle fiber attachment.",
+      "Explanation for Choice C: Correct. The M checkpoint (spindle assembly checkpoint) occurs during metaphase. It monitors whether all chromosomes are properly attached to spindle microtubules via their kinetochores. Vinblastine prevents microtubule polymerization, meaning spindle fibers cannot form or attach to chromosomes. This triggers the checkpoint to halt the cell cycle in mitosis.",
+      "Explanation for Choice D: Incorrect. G0 is a non-dividing resting state, not a checkpoint triggered by mitotic spindle poisons; cells exposed to spindle poisons arrest in mitosis and often undergo apoptosis rather than entering G0."
+    ],
+    "section": "3.4"
+  },
+  {
+    "q": "A geneticist compares the thermal denaturation curves of DNA isolated from two bacteria. Species A has a genome containing 65% G-C base pairs, while Species B has a genome containing 35% G-C base pairs. Which of the following statements correctly predicts the outcome of heating these DNA samples and explains the molecular basis for this difference?",
+    "opts": [
+      "Species B's DNA will denature at a higher temperature because the abundant A-T base pairs form stronger hydrophobic interactions than G-C base pairs.",
+      "Species A's DNA will denature at a higher temperature because G-C base pairs are held together by three hydrogen bonds, requiring more thermal energy to disrupt than the two hydrogen bonds of A-T pairs.",
+      "Both DNA samples will denature at the exact same temperature because hydrogen bonds are weak and do not contribute to the overall stability of the double helix.",
+      "Species A's DNA will denature at a lower temperature because the three hydrogen bonds in G-C pairs create torsional strain that destabilizes the double helix."
+    ],
+    "a": 1,
+    "explanations": [
+      "Explanation for Choice A: Incorrect. A-T base pairs are held together by only two hydrogen bonds, making them less stable and easier to denature than G-C base pairs.",
+      "Explanation for Choice B: Correct. G-C base pairs share three hydrogen bonds, whereas A-T base pairs share only two. Consequently, a DNA molecule with a higher G-C content (Species A) has greater thermal stability and a higher melting temperature (Tm) than one with a lower G-C content (Species B).",
+      "Explanation for Choice C: Incorrect. Hydrogen bonds and base-stacking interactions are the primary forces holding the two strands of the double helix together, and their quantity directly dictates the denaturation temperature.",
+      "Explanation for Choice D: Incorrect. Three hydrogen bonds provide greater stability and do not create destabilizing torsional strain; rather, they resist denaturation."
+    ],
+    "section": "2.3"
+  },
+  {
+    "q": "A mutant strain of E. coli is isolated that can replicate its DNA, but the newly synthesized lagging strands consist of short fragments of DNA interrupted by RNA primers that are never removed. Which of the following replication enzymes is most likely defective in this mutant strain?",
+    "opts": [
+      "DNA polymerase III",
+      "Helicase",
+      "DNA polymerase I",
+      "DNA ligase"
+    ],
+    "a": 2,
+    "explanations": [
+      "Explanation for Choice A: Incorrect. DNA polymerase III is responsible for the bulk of synthesis on the leading and lagging strands, but it cannot remove RNA primers.",
+      "Explanation for Choice B: Incorrect. Helicase unwinds the double helix; a defective helicase would prevent the replication fork from forming altogether.",
+      "Explanation for Choice C: Correct. DNA polymerase I has 5' to 3' exonuclease activity, which allows it to remove RNA primers and replace them with DNA nucleotides. In its absence, RNA primers remain on the lagging strand.",
+      "Explanation for Choice D: Incorrect. DNA ligase seals nicks between adjacent DNA fragments after the RNA primers have been replaced. If ligase were defective, the primers would still be removed, but the DNA fragments would remain unlinked."
+    ],
+    "section": "4.1"
+  },
+  {
+    "q": "Amanita phalloides (death cap mushroom) produces alpha-amanitin, a potent toxin that binds tightly to eukaryotic RNA Polymerase II, inhibiting its catalytic activity. If animal cells are exposed to this toxin, which of the following cellular processes will be directly blocked first?",
+    "opts": [
+      "Synthesis of ribosomal RNA (rRNA) in the nucleolus.",
+      "Synthesis of transfer RNA (tRNA) in the nucleoplasm.",
+      "Synthesis of pre-messenger RNA (pre-mRNA) transcripts.",
+      "Translation of mRNA into polypeptides at the ribosome."
+    ],
+    "a": 2,
+    "explanations": [
+      "Explanation for Choice A: Incorrect. Ribosomal RNA is transcribed primarily by RNA Polymerase I in the nucleolus, which is highly resistant to alpha-amanitin.",
+      "Explanation for Choice B: Incorrect. Transfer RNA is transcribed by RNA Polymerase III, which is also resistant or less sensitive to alpha-amanitin.",
+      "Explanation for Choice C: Correct. RNA Polymerase II is responsible for transcribing all protein-coding genes into pre-messenger RNA (pre-mRNA). Inhibiting it directly halts pre-mRNA synthesis.",
+      "Explanation for Choice D: Incorrect. While translation will eventually stop because no new mRNA is produced, translation itself is not the primary direct target of alpha-amanitin."
+    ],
+    "section": "4.2"
+  },
+  {
+    "q": "E. coli cells are cultured in a growth medium containing high concentrations of both glucose and lactose. Which of the following describes the transcription state of the lac operon under these conditions, and why?",
+    "opts": [
+      "Transcription is highly active because lactose is present to bind the repressor and glucose acts as an allosteric activator of RNA polymerase.",
+      "Transcription is occurring at a very low (basal) level because lactose prevents repressor binding, but the absence of active CAP (due to low cAMP levels in the presence of glucose) prevents recruitment of RNA polymerase.",
+      "Transcription is completely blocked because glucose binds to the operator as a co-repressor.",
+      "Transcription is highly active because lactose and glucose form a complex that binds to the promoter, increasing the affinity of RNA polymerase."
+    ],
+    "a": 1,
+    "explanations": [
+      "Explanation for Choice A: Incorrect. Glucose does not activate RNA polymerase; rather, high glucose keeps cAMP levels low, preventing CAP from activating transcription.",
+      "Explanation for Choice B: Correct. When lactose is present, the repressor is inactivated. However, when glucose is also high, intracellular cAMP levels are low, meaning the catabolite activator protein (CAP) cannot bind cAMP and recruit RNA polymerase efficiently. This results in only basal (low) transcription.",
+      "Explanation for Choice C: Incorrect. Glucose does not act as a co-repressor at the operator.",
+      "Explanation for Choice D: Incorrect. Glucose and lactose do not form a transcription-activating complex at the promoter."
+    ],
+    "section": "4.2"
+  },
+  {
+    "q": "A developmental biologist wants to study the expression of a gene called Pax6, which is involved in eye development. They construct a transgene where the Pax6 coding region is fused to the Green Fluorescent Protein (GFP) gene, but they accidentally omit the enhancer sequence located upstream of the promoter. What is the most likely result when this construct is introduced into transgenic mouse embryos?",
+    "opts": [
+      "GFP will be expressed normally in all tissues because the promoter is sufficient to drive high-level, tissue-specific transcription.",
+      "GFP will be expressed in the eyes, but it will fold incorrectly because enhancers are required for proper post-translational chaperone recruitment.",
+      "GFP will not be expressed at detectable levels in the developing eyes because enhancers bind tissue-specific transcription factors (activators) that are necessary to recruit RNA polymerase to the promoter.",
+      "GFP will be expressed in every single cell of the mouse embryo because the promoter is now unregulated."
+    ],
+    "a": 2,
+    "explanations": [
+      "Explanation for Choice A: Incorrect. Promoters alone typically provide only low, basal levels of transcription and require enhancers to achieve tissue-specific activation.",
+      "Explanation for Choice B: Incorrect. Enhancers affect transcription level, not protein folding or post-translational modification.",
+      "Explanation for Choice C: Correct. Enhancers are DNA sequences that bind activator proteins (specific transcription factors). These loops interact with the promoter to recruit general transcription factors and RNA polymerase. Without the enhancer, tissue-specific transcription is not activated.",
+      "Explanation for Choice D: Incorrect. Enhancers stimulate transcription; their deletion decreases expression rather than causing constitutive, embryo-wide expression."
+    ],
+    "section": "4.2"
+  },
+  {
+    "q": "An amniocentesis is performed on a 40-year-old pregnant woman. The fetal karyotype shows 47 chromosomes, with three copies of chromosome 18 (Edwards Syndrome). Genetic analysis of restriction fragment length polymorphisms (RFLPs) shows that the fetus inherited two maternal chromosomes 18 that are heterozygous for a centromeric marker. Which of the following errors in meiosis explain these results?",
+    "opts": [
+      "Nondisjunction during maternal Meiosis II, where sister chromatids failed to separate at anaphase II.",
+      "Nondisjunction during maternal Meiosis I, where homologous chromosomes failed to separate at anaphase I.",
+      "Failure of DNA replication prior to Meiosis I, leading to a duplication of the maternal chromosome 18 centromere.",
+      "Mitotic nondisjunction during the first cleavage division of the zygote, resulting in mosaicism."
+    ],
+    "a": 1,
+    "explanations": [
+      "Explanation for Choice A: Incorrect. Nondisjunction in Meiosis II involves the failure of sister chromatids to separate. Since sister chromatids are identical (except for regions recombined during crossing-over), the gamete would receive two copies of the same parental allele at the centromere, appearing homozygous.",
+      "Explanation for Choice B: Correct. Meiosis I separates homologous chromosomes. If homologous chromosomes fail to separate (nondisjunction in Meiosis I), the gamete will receive both maternal homologues. Since these homologues have different alleles at heterozygous loci near the centromere, the fetus will be heterozygous for these maternal markers.",
+      "Explanation for Choice C: Incorrect. Failure of DNA replication would lead to fewer chromosomes or single-chromatid chromosomes, not trisomy with maternal heterozygosity.",
+      "Explanation for Choice D: Incorrect. Mitotic nondisjunction in the zygote would produce one cell line with 45 chromosomes and one with 47 chromosomes (mosaicism), but would not specifically explain the maternal origin of the heterozygous centromeric markers in a simple trisomic fetus."
+    ],
+    "section": "3.4"
+  },
+  {
+    "q": "In pea plants, yellow seeds (Y) are dominant to green seeds (y), and round seeds (R) are dominant to wrinkled seeds (r). A plant heterozygous for both traits (YyRr) is self-pollinated. What fraction of the offspring is expected to have green, round seeds?",
+    "opts": [
+      "9/16",
+      "3/16",
+      "1/16",
+      "1/4"
+    ],
+    "a": 1,
+    "explanations": [
+      "Explanation for Choice A: Incorrect. 9/16 is the expected fraction of offspring displaying both dominant phenotypes (yellow, round seeds).",
+      "Explanation for Choice B: Correct. This is a classic Mendelian dihybrid cross (YyRr x YyRr). By using the product rule, the probability of green seeds (yy) is 1/4, and the probability of round seeds (RR or Rr) is 3/4. Multiplying these probabilities gives: 1/4 * 3/4 = 3/16.",
+      "Explanation for Choice C: Incorrect. 1/16 is the expected fraction of offspring displaying both recessive phenotypes (green, wrinkled seeds).",
+      "Explanation for Choice D: Incorrect. 1/4 is the probability of green seeds alone, or wrinkled seeds alone, not the combined probability of green and round seeds."
+    ],
+    "section": "4.6"
+  },
+  {
+    "q": "Huntington's disease is a progressive, neurodegenerative disorder inherited in an autosomal dominant fashion. A healthy 25-year-old man discovers that his paternal grandfather was diagnosed with Huntington's disease, but his father died in a car crash at age 20 without showing any symptoms of the disease and without being genetically tested. The man's mother is completely healthy and has no family history of the disease. What is the probability that the young man will eventually develop Huntington's disease?",
+    "opts": [
+      "1/2",
+      "1/4",
+      "1/8",
+      "0, because his father died before developing symptoms, meaning the gene was not active."
+    ],
+    "a": 1,
+    "explanations": [
+      "Explanation for Choice A: Incorrect. 1/2 is the probability that the father inherited the allele from the grandfather, but the son must also inherit it from the father, so the overall probability is lower.",
+      "Explanation for Choice B: Correct. The grandfather had Huntington's (assuming he was heterozygous, Hh, which is typical for rare dominant conditions). The probability that the man's father inherited the disease allele (H) from the grandfather is 1/2. If the father had the allele (Hh), the probability that he passed it to his son is 1/2. Using the product rule: 1/2 (father inherited it) * 1/2 (son inherited it) = 1/4.",
+      "Explanation for Choice C: Incorrect. 1/8 is incorrect because it multiplies an extra factor of 1/2 that is not biologically justified.",
+      "Explanation for Choice D: Incorrect. Dominant autosomal mutations like Huntington's are inherited as DNA sequences; they do not deactivate or fail to inherit just because the carrier parent died before symptom onset."
+    ],
+    "section": "4.6"
+  },
+  {
+    "q": "A cattle breeder crosses a red bull (CR CR) with a white cow (CW CW). All the F1 offspring are roan (CR CW), possessing a mix of individual red hairs and individual white hairs. When the roan offspring are mated, the F2 generation shows a ratio of 1 red : 2 roan : 1 white. What genetic phenomenon does this coat color inheritance represent, and how does it differ from incomplete dominance?",
+    "opts": [
+      "Incomplete dominance, because the roan phenotype represents a blending of pigments to produce a pinkish hair color.",
+      "Codominance, because both the red and white alleles are fully and distinctly expressed in the heterozygote's phenotype without blending.",
+      "Epistasis, because the white gene masks the expression of the red gene in the heterozygous state.",
+      "Polygenic inheritance, because multiple independent gene loci interact to determine the density of hair follicles."
+    ],
+    "a": 1,
+    "explanations": [
+      "Explanation for Choice A: Incorrect. Incomplete dominance results in a blended, intermediate phenotype (such as pink flowers from red and white parents). Roan is not a blend; it consists of distinct red and white hairs.",
+      "Explanation for Choice B: Correct. Codominance occurs when both alleles are fully and independently expressed in the heterozygote. The roan coat consists of a mixture of pure red hairs and pure white hairs growing together, showing that both alleles are expressed simultaneously.",
+      "Explanation for Choice C: Incorrect. Epistasis is the interaction where one gene masks or interferes with the expression of another gene at a different locus, which is not the case here.",
+      "Explanation for Choice D: Incorrect. Polygenic inheritance involves multiple genes contributing to a single trait (like human height), whereas coat color here is determined by a single gene locus with two alleles."
+    ],
+    "section": "4.7"
+  },
+  {
+    "q": "Red-green colorblindness is an X-linked recessive trait. A colorblind woman marries a man with normal color vision. Which of the following represents the expected phenotypes of their children?",
+    "opts": [
+      "All of their daughters will be colorblind, and all of their sons will have normal vision.",
+      "All of their children will have normal vision, but all of their daughters will be carriers.",
+      "All of their daughters will have normal vision (and be carriers), and all of their sons will be colorblind.",
+      "Half of their daughters and half of their sons will be colorblind."
+    ],
+    "a": 2,
+    "explanations": [
+      "Explanation for Choice A: Incorrect. Daughters cannot be colorblind because they receive a dominant normal allele (X^N) from their father, and sons must be colorblind because they receive their only X chromosome (X^n) from their colorblind mother.",
+      "Explanation for Choice B: Incorrect. The sons will not have normal vision because they receive their maternal X chromosome (X^n) carrying the colorblind allele, and they have no paternal X chromosome to mask it.",
+      "Explanation for Choice C: Correct. The mother is colorblind (X^n X^n) and the father has normal vision (X^N Y). All daughters receive X^n from the mother and X^N from the father, giving them normal vision (X^N X^n carriers). All sons receive X^n from the mother and Y from the father, making them colorblind (X^n Y).",
+      "Explanation for Choice D: Incorrect. Because the mother is homozygous recessive, all of her eggs carry the X^n allele. There is no chance of a healthy son or a colorblind daughter, so the ratio is not half-and-half."
+    ],
+    "section": "4.6"
+  },
+  {
+    "q": "The wing of a bird, the flipper of a whale, and the forelimb of a cat all contain the same basic arrangement of bones (humerus, radius, ulna, carpals, metacarpals, and phalanges), even though they perform completely different functions. Which of the following evolutionary concepts explains this observation?",
+    "opts": [
+      "Analogous structures, demonstrating that these organisms adapted to similar environmental pressures through convergent evolution.",
+      "Homologous structures, demonstrating that these organisms inherited this skeletal pattern from a common ancestor through divergent evolution.",
+      "Vestigial structures, demonstrating that these limbs are no longer functional and are in the process of being lost.",
+      "Artificial selection, demonstrating that humans bred these animals for specific locomotor activities."
+    ],
+    "a": 1,
+    "explanations": [
+      "Explanation for Choice A: Incorrect. Analogous structures share similar functions but have different evolutionary origins (like insect wings vs bird wings) due to convergent evolution.",
+      "Explanation for Choice B: Correct. Homologous structures are anatomical features that share a common evolutionary origin and underlying structural plan, even if their functions have diverged. The similar bone layout in bird wings, whale flippers, and cat forelimbs reflects common ancestry.",
+      "Explanation for Choice C: Incorrect. These structures are highly functional for flight, swimming, and walking, respectively, and are not vestigial.",
+      "Explanation for Choice D: Incorrect. These limb structures evolved naturally over millions of years and are not the product of human agricultural selective breeding."
+    ],
+    "section": "5.2"
+  },
+  {
+    "q": "In a population of wildflowers, the allele for red flower color (R) is completely dominant to the allele for white flower color (r). A survey of the population finds 90 white-flowered plants out of a total of 1,000 plants. Assuming the population is in Hardy-Weinberg equilibrium, how many plants in this population are expected to be heterozygous (Rr)?",
+    "opts": [
+      "90",
+      "300",
+      "420",
+      "490"
+    ],
+    "a": 2,
+    "explanations": [
+      "Explanation for Choice A: Incorrect. 90 is the number of homozygous recessive individuals (q^2 * 1000 = 90), not the number of heterozygotes.",
+      "Explanation for Choice B: Incorrect. 300 is calculated by incorrectly using q = 0.3 and multiplying by 1000, without accounting for the 2p term in the heterozygote frequency (2pq).",
+      "Explanation for Choice C: Correct. Under Hardy-Weinberg, the frequency of homozygous recessive individuals is q^2 = 90 / 1000 = 0.09. Thus, q = sqrt(0.09) = 0.3. The frequency of the dominant allele is p = 1 - q = 1 - 0.3 = 0.7. The frequency of heterozygotes is 2pq = 2 * 0.7 * 0.3 = 0.42. In a population of 1,000 plants, the expected number of heterozygotes is 0.42 * 1000 = 420 plants.",
+      "Explanation for Choice D: Incorrect. 490 is the number of homozygous dominant individuals (p^2 * 1000 = 0.7^2 * 1000 = 490), not the heterozygotes."
+    ],
+    "section": "4.6"
+  },
+  {
+    "q": "A conservation biologist monitors an endangered population of greater prairie chickens. Due to habitat fragmentation, the population size shrinks to 15 individuals. The biologist notes that a formerly common allele that increases resistance to a respiratory virus has completely disappeared from the population. Which of the following explanations best describes this event?",
+    "opts": [
+      "The allele was lost due to natural selection because the respiratory virus was not present in the environment to select for it.",
+      "The allele was lost due to genetic drift, a stochastic process that causes random changes in allele frequencies and is highly pronounced in small populations, violating the Hardy-Weinberg assumption of infinite population size.",
+      "The chicken genome mutated rapidly to remove the allele to make room for more metabolic genes.",
+      "Gene flow from neighboring populations introduced competing alleles that actively degraded the resistance gene."
+    ],
+    "a": 1,
+    "explanations": [
+      "Explanation for Choice A: Incorrect. Natural selection is a non-random process that increases the frequency of beneficial alleles; it does not explain the random loss of a beneficial resistance allele by chance.",
+      "Explanation for Choice B: Correct. Genetic drift is the change in allele frequencies due to random chance events, which can easily cause alleles (even beneficial ones) to become fixed or lost in small populations. This violates the H-W condition of a very large population size.",
+      "Explanation for Choice C: Incorrect. Genomes do not mutate \"on purpose\" to make room for other genes; mutations are random and do not occur in response to a cell's spatial needs.",
+      "Explanation for Choice D: Incorrect. The scenario states that the population is isolated due to habitat fragmentation, meaning gene flow (migration) is absent or extremely low."
+    ],
+    "section": "5.3"
+  },
+  {
+    "q": "A species of fruit flies, Rhagoletis pomonella, originally laid its eggs only on hawthorn fruits. When apple trees were introduced to North America, some flies began laying eggs on apples. Because apples mature earlier in the fall than hawthorns, the flies feeding on apples emerged earlier and began mating primarily with other apple-feeding flies. Over time, genetic differences accumulated between the two groups. What type of speciation is occurring in this population, and what is the primary isolation mechanism?",
+    "opts": [
+      "Allopatric speciation; initiated by geographic isolation as apple and hawthorn trees are located on different continents.",
+      "Sympatric speciation; initiated by ecological/habitat isolation and temporal isolation in the same geographic area.",
+      "Speciation by hybridization; initiated by the fusion of two different species of fruit flies.",
+      "Asexual speciation; initiated by the loss of sexual reproduction in the hawthorn-feeding flies."
+    ],
+    "a": 1,
+    "explanations": [
+      "Explanation for Choice A: Incorrect. The hawthorn and apple trees grow in the same geographic areas (sympatry); there is no geographic barrier isolating the two fly groups.",
+      "Explanation for Choice B: Correct. Sympatric speciation occurs without geographic isolation. The flies live in the same geographic area but are isolated ecologically by their host plant preference (habitat isolation) and temporally by the different fruit maturation times (temporal isolation), leading to genetic divergence.",
+      "Explanation for Choice C: Incorrect. This speciation is occurring within a single ancestral species diverging into two, not by hybridization between different species.",
+      "Explanation for Choice D: Incorrect. Both groups of fruit flies continue to reproduce sexually; asexual reproduction did not initiate this divergence."
+    ],
+    "section": "5.3"
+  },
+  {
+    "q": "A biologist crosses two species of laboratory mice. The mating occurs easily, fertilization is successful, and the hybrid offspring develop into healthy, vigorous adult mice. However, when the hybrid mice are mated with each other or with the parental species, they produce no offspring because their gametes are nonfunctional. Which of the following terms correctly classifies this reproductive barrier?",
+    "opts": [
+      "Mechanical isolation, which is a prezygotic barrier.",
+      "Gametic isolation, which is a prezygotic barrier.",
+      "Hybrid sterility, which is a postzygotic barrier.",
+      "Hybrid breakdown, which is a prezygotic barrier."
+    ],
+    "a": 2,
+    "explanations": [
+      "Explanation for Choice A: Incorrect. Mechanical isolation is a prezygotic barrier where mating is prevented by incompatible reproductive organs; here, mating and fertilization occur successfully.",
+      "Explanation for Choice B: Incorrect. Gametic isolation is a prezygotic barrier where sperm cannot fertilize the egg; here, fertilization occurs and yields healthy hybrids.",
+      "Explanation for Choice C: Correct. Postzygotic barriers occur after fertilization. Hybrid sterility occurs when the F1 hybrid offspring are healthy but cannot reproduce because they cannot produce functional gametes (often due to chromosomal differences that disrupt meiosis).",
+      "Explanation for Choice D: Incorrect. Hybrid breakdown is a postzygotic barrier where F1 hybrids are fertile, but their F2 offspring are weak or sterile. Furthermore, hybrid breakdown is postzygotic, not prezygotic."
+    ],
+    "section": "3.4"
+  },
+  {
+    "q": "A team of microbiologists isolates a single-celled organism from an acidic, sulfur-rich volcanic hot spring. The organism contains a circular chromosome, its DNA is associated with histone proteins, its cell wall lacks peptidoglycan, and its cell membrane lipids contain ether linkages with branched hydrocarbons. In which domain does this organism belong?",
+    "opts": [
+      "Domain Bacteria",
+      "Domain Archaea",
+      "Domain Eukarya",
+      "Domain Fungi"
+    ],
+    "a": 1,
+    "explanations": [
+      "Explanation for Choice A: Incorrect. Bacteria have cell walls containing peptidoglycan, their cell membranes have ester-linked lipids, and they do not package their DNA with eukaryotic-like histones.",
+      "Explanation for Choice B: Correct. Domain Archaea contains prokaryotes characterized by cell membranes with ether linkages and branched hydrocarbons, cell walls that lack peptidoglycan, circular genomes, and molecular machinery (like histones and RNA polymerases) that resemble eukaryotes.",
+      "Explanation for Choice C: Incorrect. The organism lacks a nuclear envelope and membrane-bound organelles, meaning it is a prokaryote and cannot be in Domain Eukarya.",
+      "Explanation for Choice D: Incorrect. Fungi is a eukaryotic kingdom, not a domain, and the organism is prokaryotic."
+    ],
+    "section": "6.2"
+  },
+  {
+    "q": "Shingles is a painful skin rash caused by the varicella-zoster virus, the same virus that causes chickenpox. After a person recovers from chickenpox, the virus remains dormant inside their nerve cells for decades. Later in life, stress or a weakened immune system can reactivate the virus, causing it to replicate actively and produce shingles. Which of the following concepts explains this viral behavior?",
+    "opts": [
+      "The virus undergoes binary fission in the nerve cells during latency, then switches to budding.",
+      "The virus enters a lysogenic-like latent state (where its genome remains silent in the host cells) and later transitions into an active lytic-like cycle.",
+      "The virus acts as a bacteriophage, lysing the nerve cells to release plasmids into the bloodstream.",
+      "The virus uses reverse transcriptase to permanently delete the host cell's immune genes."
+    ],
+    "a": 1,
+    "explanations": [
+      "Explanation for Choice A: Incorrect. Viruses are non-cellular and do not undergo binary fission; they rely entirely on the host cell's machinery to replicate.",
+      "Explanation for Choice B: Correct. In animal viruses, latency is analogous to the lysogenic cycle of bacteriophages, where the viral genome remains inside host cells without causing symptoms. Reactivation leads to active replication and cell damage (equivalent to the lytic cycle), resulting in disease symptoms.",
+      "Explanation for Choice C: Incorrect. Bacteriophages only infect bacteria, not human nerve cells, and they do not release plasmids.",
+      "Explanation for Choice D: Incorrect. Varicella-zoster is a double-stranded DNA virus and does not possess or utilize reverse transcriptase, nor does it delete host genes."
+    ],
+    "section": "6.1"
+  },
+  {
+    "q": "A medical researcher treats a culture of Bacillus anthracis with a chemical that selectively inhibits the formation of dipicolinic acid, a compound essential for stabilizing proteins and DNA in bacterial endospores. What is the most likely phenotypic consequence for the treated bacteria?",
+    "opts": [
+      "The bacteria will lose their flagella and become immobile in nutrient-rich media.",
+      "The bacteria will be unable to survive extreme heat, desiccation, or radiation, failing to form protective, dormant endospores under nutrient starvation.",
+      "The cell walls will disintegrate because dipicolinic acid is the primary cross-linking agent in peptidoglycan.",
+      "The bacteria will transition from heterotrophs into photoautotrophs."
+    ],
+    "a": 1,
+    "explanations": [
+      "Explanation for Choice A: Incorrect. Dipicolinic acid is not involved in flagellar structure or motility in active vegetative cells.",
+      "Explanation for Choice B: Correct. Endospores are highly resistant, dormant structures formed by certain Gram-positive bacteria (like Bacillus) in response to environmental stress. Dipicolinic acid, complexed with calcium, makes up a large portion of the endospore core and is responsible for heat and chemical resistance. Inhibiting it prevents endospores from stabilizing their macromolecules, making them vulnerable to environmental stress.",
+      "Explanation for Choice C: Incorrect. Peptidoglycan structure relies on glycan chains cross-linked by short peptides, not dipicolinic acid.",
+      "Explanation for Choice D: Incorrect. Dipicolinic acid inhibition does not affect the metabolic classification of the bacteria; they cannot become photoautotrophs."
+    ],
+    "section": "6.2"
+  },
+  {
+    "q": "An agricultural scientist examines a wheat crop infected with a rust disease. Under the microscope, they observe thread-like hyphae invading the plant cells, absorbing nutrients directly from the cytoplasm. Chemical analysis of the hyphae shows cell walls containing chitin. Which of the following describes this organism and its mode of nutrition?",
+    "opts": [
+      "An autotrophic plant that uses chitin to reinforce its cell wall against wind damage.",
+      "An absorptive heterotrophic fungus that acts as a parasite on the wheat host.",
+      "A photosynthetic protist that exhibits mixotrophic ingestion of host cytoplasm.",
+      "A saprotrophic bacterium that reproduces by budding."
+    ],
+    "a": 1,
+    "explanations": [
+      "Explanation for Choice A: Incorrect. Plants are autotrophic but have cellulose cell walls and do not invade other plants with hyphae.",
+      "Explanation for Choice B: Correct. Fungi are eukaryotic heterotrophs with chitinous cell walls. They grow as a network of filaments (hyphae) and obtain nutrients by releasing digestive enzymes externally and absorbing the resulting small molecules (absorptive heterotrophy). Because it feeds on a living host and causes harm, this fungus acts as a parasite.",
+      "Explanation for Choice C: Incorrect. The organism has hyphae and chitin walls, which are diagnostic of Fungi, not photosynthetic protists.",
+      "Explanation for Choice D: Incorrect. Bacteria are prokaryotic and do not form eukaryotic hyphae or chitin cell walls."
+    ],
+    "section": "3.3"
+  },
+  {
+    "q": "During development, human fetuses have an opening between the left and right atria called the foramen ovale, which normally closes at birth. If the foramen ovale fails to close (patent foramen ovale), some deoxygenated blood from the right atrium bypasses the lungs and flows directly into the left atrium. From an evolutionary perspective, this cardiac defect most closely resembles the circulatory pattern of which vertebrate class?",
+    "opts": [
+      "Bony fish, because their two-chambered hearts mix oxygenated and deoxygenated blood in a single ventricle.",
+      "Reptiles and amphibians, which have incomplete separation of ventricles or atria, resulting in some mixing of pulmonary and systemic blood.",
+      "Mammals, because all adult mammals normally mix blood in their three-chambered hearts.",
+      "Birds, because their four-chambered hearts completely separate systemic and pulmonary blood flow."
+    ],
+    "a": 1,
+    "explanations": [
+      "Explanation for Choice A: Incorrect. Bony fish have single-loop circulation with a two-chambered heart (one atrium, one ventricle); they do not have separate left and right atria, so there is no mixing of pulmonary and systemic circuits within the heart.",
+      "Explanation for Choice B: Correct. Amphibians and non-avian reptiles have three-chambered hearts (two atria, one ventricle, which is partially divided in reptiles). This design allows some mixing of oxygenated (pulmonary) and deoxygenated (systemic) blood. A patent foramen ovale in a mammal allows similar mixing between the systemic and pulmonary circuits at the atrial level.",
+      "Explanation for Choice C: Incorrect. Adult mammals have a fully divided four-chambered heart that completely separates oxygenated and deoxygenated blood; they do not normally mix blood.",
+      "Explanation for Choice D: Incorrect. Birds have a four-chambered heart with complete separation of blood circuits, representing the healthy mammalian state rather than the defect."
+    ],
+    "section": "7.4"
+  }
+]

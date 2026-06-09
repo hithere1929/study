@@ -1,0 +1,427 @@
+[
+  {
+    "q": "A botanist is examining a newly discovered herbaceous plant species from the rainforest. They notice that the germinating seed produces a single cotyledon, the mature leaves have parallel venation, and when they section the stem, they observe vascular bundles scattered throughout the ground tissue rather than arranged in a ring. The plant is then treated with a herbicide that selectively targets the vascular cambium.",
+    "opts": [
+      "The plant will quickly die because its secondary growth is disrupted, preventing the thickening of its stem and the formation of new wood.",
+      "The herbicide will have no effect because the plant is a monocot, which naturally lacks a vascular cambium and does not undergo secondary growth.",
+      "The plant will suffer from acute nutrient blockage because the scattered vascular bundles rely on a ring-like cambium to load sugars into the phloem.",
+      "The plant's root system will fail to absorb water because the single cotyledon relies on cambial activity to develop the taproot system."
+    ],
+    "a": 1,
+    "explanations": [
+      "Option A is incorrect because secondary growth and wood formation occur in eudicots and gymnosperms that possess a lateral meristem (vascular cambium). This plant has monocot characteristics and does not undergo secondary growth.",
+      "Option B is correct because the described characteristics (single cotyledon, parallel leaf venation, scattered vascular bundles) identify the plant as a monocot. Monocots are herbaceous plants that lack a vascular cambium and do not undergo secondary growth, rendering them unaffected by cambium-targeting herbicides.",
+      "Option C is incorrect because monocots do not have a ring-like cambium, and their phloem loading is accomplished via active transport through companion cells, which does not require cambial tissue.",
+      "Option D is incorrect because monocots possess a fibrous root system that arises from adventitious roots, not a taproot system, and their root development is independent of secondary cambial activity."
+    ],
+    "section": "6.5"
+  },
+  {
+    "q": "A researcher isolates a homeotic mutant of Arabidopsis thaliana in which the genes of the \"Class B\" floral identity group are mutated, causing petals to develop as sepals and stamens to develop as carpels.",
+    "opts": [
+      "The mutant flower will be completely sterile because it will lack both functional pollen-producing stamens and egg-producing carpels.",
+      "The mutant flower will be female-fertile but male-sterile because it possesses functional carpels but lacks functional stamens.",
+      "The mutant flower will be self-pollinating because the extra carpels will produce pollen that can fertilize the existing ovules.",
+      "The mutant flower will exhibit wind pollination because the sepal-like petals will increase the wind resistance needed to release microspores."
+    ],
+    "a": 1,
+    "explanations": [
+      "Option A is incorrect because the mutant still develops carpels (in whorls 3 and 4), meaning female reproductive organs are present and potentially functional.",
+      "Option B is correct. Under the ABC model of flower development, Class B genes are required for the development of petals (in combination with Class A) and stamens (in combination with Class C). Without Class B genes, whorl 2 develops as sepals (Class A only) and whorl 3 develops as carpels (Class C only). The resulting flower has sepals and carpels but no stamens, making it female-fertile but male-sterile.",
+      "Option C is incorrect because carpels are female reproductive organs that contain ovules, not pollen. Pollen is only produced in stamens, which are absent in this mutant.",
+      "Option D is incorrect because the mutant lacks stamens and microspores (pollen), meaning it cannot participate in male pollination regardless of wind resistance."
+    ],
+    "section": "6.5"
+  },
+  {
+    "q": "To study stomatal movements, tobacco plants are grown in a chamber under drought stress. The researcher applies an experimental chemical, blocker-K, which selectively blocks the voltage-gated inward potassium (K+) channels in the plasma membrane of the guard cells.",
+    "opts": [
+      "Stomata will remain open continuously because potassium ions are trapped inside the guard cells, maintaining high turgor pressure.",
+      "Stomata will fail to open in response to light because guard cells cannot import potassium ions to establish the osmotic gradient required for water entry.",
+      "Stomata will close rapidly because blocker-K stimulates the active efflux of protons (H+), which directly acidifies the cell wall and shrinks the cells.",
+      "The plant's transpiration rate will increase dramatically because the blocker prevents guard cells from accumulating abscisic acid (ABA)."
+    ],
+    "a": 1,
+    "explanations": [
+      "Option A is incorrect because blocking the inward potassium channels prevents potassium from entering the guard cells to open the stomata; it does not trap potassium inside to keep them open.",
+      "Option B is correct because stomatal opening is initiated when proton pumps actively transport H+ out of the guard cells, hyperpolarizing the membrane and driving K+ influx through voltage-gated inward K+ channels. Water then enters by osmosis, increasing turgor pressure and opening the stomatal pore. Blocking these K+ channels prevents K+ accumulation, eliminating the osmotic gradient required for water entry.",
+      "Option C is incorrect because blocking K+ channels does not stimulate H+ efflux, and H+ efflux is a signal for stomatal opening (by hyperpolarizing the membrane), not stomatal closure.",
+      "Option D is incorrect because blocking stomatal opening will cause transpiration to decrease dramatically, not increase."
+    ],
+    "section": "2.5"
+  },
+  {
+    "q": "A researcher measures water transport in a tall maple tree on a hot, dry afternoon. They insert a micro-probe to measure the tension within the xylem of the trunk. Suddenly, a micro-injection of air (an embolism) is introduced into the xylem vessel element being measured.",
+    "opts": [
+      "Water transport increases because the air bubble reduces the density of the water column, allowing it to rise faster under adhesion.",
+      "Water transport in that vessel stops because the air bubble breaks the continuous hydrogen-bonded water column, disrupting cohesion.",
+      "Water flow reverses because the air bubble creates a positive hydrostatic pressure, pushing water back down to the roots.",
+      "The vessel swells because the air bubble increases the lateral osmotic pressure, forcing water into neighboring phloem cells."
+    ],
+    "a": 1,
+    "explanations": [
+      "Option A is incorrect because an embolism disrupts the tension needed to pull water up the xylem, decreasing or stopping flow rather than increasing it.",
+      "Option B is correct because, according to the cohesion-tension theory, water is pulled up the xylem under negative pressure (tension) generated by transpiration at the leaves. Cohesion, maintained by hydrogen bonding between water molecules, keeps the water column continuous. An air bubble (embolism) breaks this hydrogen-bonded column, preventing the transmission of tension and halting water transport in that vessel.",
+      "Option C is incorrect because water flow does not reverse; the tension in the water column is broken, but root pressure is not strong enough to force water back down the roots.",
+      "Option D is incorrect because xylem vessel elements are dead, hollow cells with thick, rigid, lignified secondary cell walls that cannot swell, and water is not forced into the phloem."
+    ],
+    "section": "3.3"
+  },
+  {
+    "q": "In an experiment tracing sugar movement, a researcher exposes a mature leaf of a tomato plant to radioactive carbon dioxide (14CO2) for several hours. Shortly after, they use aphids to tap into the vascular tissue at different points along the stem: Point X (near the source leaf) and Point Y (near a developing root tip). They measure the concentration of radioactive sucrose and the hydrostatic pressure in the phloem.",
+    "opts": [
+      "Point X will have higher hydrostatic pressure and higher 14C-sucrose concentration than Point Y, because sucrose is actively loaded at the source and water enters by osmosis.",
+      "Point Y will have higher hydrostatic pressure because gravity pulls the phloem sap downward, concentrating sugars at the sink.",
+      "Both points will have equal pressure and sucrose concentration because phloem sap flows passively by simple diffusion through sieve-tube members.",
+      "Point X will have lower hydrostatic pressure because water is being pulled out of the phloem by the nearby xylem transpiration stream."
+    ],
+    "a": 0,
+    "explanations": [
+      "Option A is correct because the pressure-flow model states that sucrose is actively loaded into sieve-tube elements at the source (Point X). The high concentration of sucrose lowers the water potential, causing water to enter the phloem from the xylem by osmosis, which generates high hydrostatic pressure. At the sink (Point Y), sugars are unloaded, raising the water potential so that water exits, which lowers the pressure. The resulting pressure gradient drives bulk flow from source to sink.",
+      "Option B is incorrect because phloem transport is driven by hydrostatic pressure gradients generated by active loading and osmosis, not by gravity.",
+      "Option C is incorrect because phloem transport is a bulk flow process driven by a pressure gradient, which means pressure and solute concentrations will vary significantly between source and sink.",
+      "Option D is incorrect because Point X has higher hydrostatic pressure, not lower, due to the osmotic entry of water that accompanies active sugar loading."
+    ],
+    "section": "6.5"
+  },
+  {
+    "q": "A plant physiology lab is investigating phototropism. They grow grass coleoptiles and expose them to unilateral blue light. They treat one group of coleoptiles with an experimental drug, bafilomycin, which selectively inhibits the H+-ATPase (proton pumps) located on the plasma membrane of the coleoptile cells.",
+    "opts": [
+      "The treated coleoptiles will bend more rapidly because inhibiting proton pumps causes the cytoplasm to become acidic, weakening cellulose fibers.",
+      "The treated coleoptiles will fail to bend because auxin cannot trigger the acidification of the cell wall required to activate expansin enzymes for cell elongation.",
+      "The treated coleoptiles will bend away from the light because blocking proton pumps causes auxin to accumulate on the illuminated side of the coleoptile.",
+      "The treated coleoptiles will bend normally because phototropism is driven by cell division, which does not require proton pump activity."
+    ],
+    "a": 1,
+    "explanations": [
+      "Option A is incorrect because inhibiting proton pumps prevents H+ from being pumped into the cell wall, which prevents cell wall acidification and elongation.",
+      "Option B is correct. Under the acid-growth hypothesis, unilateral light causes auxin to migrate to the shaded side of the stem. Auxin binds to receptors that activate H+-ATPases (proton pumps), which pump H+ into the cell wall. The resulting decrease in cell wall pH activates expansins, which loosen the cell wall fibers, allowing turgor pressure to expand the cells. Inhibiting these pumps prevents acidification, stopping elongation and bending.",
+      "Option C is incorrect because inhibiting proton pumps does not reverse the lateral transport of auxin or cause bending away from the light.",
+      "Option D is incorrect because phototropic bending is driven by asymmetric cell elongation (cell stretching) on the shaded side of the coleoptile, not by asymmetric cell division."
+    ],
+    "section": "1.3"
+  },
+  {
+    "q": "A mutant line of tomato plants, rin (ripening inhibitor), fails to produce a functional transcription factor required for the synthesis of the gaseous hormone ethylene. Another mutant line, vp1 (viviparous), lacks a functional receptor for abscisic acid (ABA). Which of the following combinations of phenotypes is most likely to be observed in these two mutant lines?",
+    "opts": [
+      "rin tomatoes will ripen prematurely on the vine; vp1 seeds will exhibit prolonged dormancy and fail to germinate even when watered.",
+      "rin tomatoes will fail to ripen and remain green; vp1 seeds will germinate prematurely while still attached to the parent plant.",
+      "rin tomatoes will drop from the plant before they are mature; vp1 plants will close their stomata permanently, leading to severe wilting.",
+      "rin tomatoes will have normal ripening; vp1 seeds will fail to develop an embryonic root (radicle) due to the lack of ABA."
+    ],
+    "a": 1,
+    "explanations": [
+      "Option A is incorrect because ethylene is a promoter of ripening, so its absence in rin prevents ripening rather than accelerating it. Similarly, ABA maintains seed dormancy, so a mutant lacking ABA sensitivity (vp1) will fail to maintain dormancy, rather than having prolonged dormancy.",
+      "Option B is correct because ethylene is the gaseous plant hormone responsible for fruit ripening and leaf/fruit abscission; thus, rin tomatoes do not ripen. Abscisic acid (ABA) maintains seed dormancy and prevents germination in unfavorable environments; therefore, the ABA-insensitive vp1 mutant undergoes vivipary (premature germination of seeds on the parent plant).",
+      "Option C is incorrect because ethylene promotes abscission (dropping of leaves/fruits), so a mutant lacking ethylene would retain fruits longer. Furthermore, ABA is required to close stomata during drought, so an ABA-insensitive mutant would fail to close stomata and wilt, rather than closing them permanently.",
+      "Option D is incorrect because rin tomatoes cannot ripen normally due to the lack of ethylene, and vp1 seeds do develop a radicle but germinate prematurely."
+    ],
+    "section": "4.2"
+  },
+  {
+    "q": "Lettuce seeds require light to germinate. A scientist exposes batches of lettuce seeds to different sequences of brief light flashes:\n- Batch 1: Red light (R) only\n- Batch 2: Red light followed by Far-Red light (R -> FR)\n- Batch 3: Red -> Far-Red -> Red (R -> FR -> R)\n- Batch 4: Red -> Far-Red -> Red -> Far-Red (R -> FR -> R -> FR)\nThe seeds are then placed in the dark and monitored for germination. Which batches of seeds will show high germination rates, and what is the status of the phytochrome pigment in those seeds?",
+    "opts": [
+      "Batches 1 and 3, because the final exposure to red light converts phytochrome to the active Pfr form.",
+      "Batches 2 and 4, because far-red light converts phytochrome to the active Pr form.",
+      "Batches 1 and 2, because the initial red light initiates irreversible germination signaling.",
+      "All batches will germinate equally because phytochrome activity depends only on the total number of light photons absorbed, regardless of wavelength."
+    ],
+    "a": 0,
+    "explanations": [
+      "Option A is correct because phytochrome is a photoreversible pigment existing in two states: Pr (inactive, absorbs red light) and Pfr (active, absorbs far-red light). Red light converts Pr to Pfr, triggering germination. Far-red light converts Pfr back to Pr, reversing the effect. The physiological response depends on the wavelength of the last flash of light. Batches 1 and 3 ended with Red light (converting phytochrome to active Pfr), resulting in germination.",
+      "Option B is incorrect because Pr is the inactive form of phytochrome, and it does not promote seed germination.",
+      "Option C is incorrect because the phytochrome conformation change is photoreversible and can be reversed by subsequent far-red light; it is not an irreversible trigger.",
+      "Option D is incorrect because phytochrome response is highly wavelength-specific (red vs. far-red), not simply dependent on total photon count."
+    ],
+    "section": "6.5"
+  },
+  {
+    "q": "An athlete suffers a severe knee injury involving a torn anterior cruciate ligament (dense regular connective tissue) and damaged articular cartilage (hyaline cartilage). Their doctor explains that these tissues will take a very long time to heal compared to a broken bone. Which of the following biological explanations best accounts for the slow healing rate of cartilage and ligaments compared to bone?",
+    "opts": [
+      "Bone tissue contains osteoblasts that divide rapidly, whereas cartilage and ligaments contain non-dividing red blood cells.",
+      "Cartilage and ligaments are poorly vascularized or completely avascular, relying on slow diffusion of nutrients, whereas bone is highly vascularized.",
+      "Bone tissue contains high levels of contractile elastic fibers that pull wound edges together, whereas cartilage is mineralized and cannot regenerate.",
+      "Cartilage and ligaments lack living cells and consist only of extracellular matrix, whereas bone contains active osteoclasts."
+    ],
+    "a": 1,
+    "explanations": [
+      "Option A is incorrect because cartilage contains chondrocytes and ligaments contain fibroblasts; they do not contain red blood cells as their resident cell type.",
+      "Option B is correct because bone is highly vascularized, containing central (Haversian) canals that house blood vessels to deliver nutrients and cells. Cartilage is completely avascular, and dense regular connective tissues like ligaments have a limited blood supply. Consequently, the nutrients and cells required for repair must diffuse slowly from surrounding tissues, resulting in slow recovery.",
+      "Option C is incorrect because bone tissue does not contain contractile elastic fibers that pull wound edges together, and bone, not cartilage, is the tissue that is heavily mineralized with calcium salts.",
+      "Option D is incorrect because cartilage and ligaments do contain living cells (chondrocytes and fibroblasts, respectively) that secrete their extracellular matrix."
+    ],
+    "section": "6.5"
+  },
+  {
+    "q": "A veterinary cardiologist is comparing the heart structure and blood flow of a dog (mammal), a frog (amphibian), and a turtle (non-avian reptile) to understand how these organisms adapt to periods of breath-holding (apnea) during diving or hibernation.",
+    "opts": [
+      "The frog's three-chambered heart mixes oxygenated and deoxygenated blood in a single ventricle, which is disadvantageous because it prevents the diversion of blood away from the lungs when submerged.",
+      "The dog's four-chambered heart has a flexible septum that allows blood to bypass the pulmonary circuit during periods of apnea to conserve energy.",
+      "The turtle's incomplete ventricular septum allows it to shunt blood away from the lungs and directly into the systemic circuit when holding its breath, conserving oxygen.",
+      "The mammalian heart utilizes a single-loop system that keeps blood pressure high in both the systemic and pulmonary circuits, allowing continuous gas exchange."
+    ],
+    "a": 2,
+    "explanations": [
+      "Option A is incorrect because the three-chambered heart of amphibians allows them to shut down blood flow to the lungs when submerged and shunt blood to the skin for cutaneous respiration, which is advantageous during apnea.",
+      "Option B is incorrect because mammals have a complete interventricular septum that prevents any mixing or shunting of blood between the left and right ventricles.",
+      "Option C is correct because turtles and other non-avian reptiles have a three-chambered heart with an incomplete ventricular septum. During diving or breath-holding (apnea), they can constrict pulmonary blood vessels to increase resistance in the pulmonary circuit. This shunts deoxygenated blood away from the lungs (right-to-left shunt) and directly into the systemic circuit, conserving oxygen stored in the blood.",
+      "Option D is incorrect because mammals have a double-loop (pulmonary and systemic) circulatory system, not a single-loop system."
+    ],
+    "section": "7.4"
+  },
+  {
+    "q": "A patient undergoes a cardiovascular examination. The doctor reviews their electrocardiogram (ECG) and notes that the time interval between the P wave and the QRS complex is abnormally prolonged (first-degree AV block). Additionally, the patient's blood pressure is measured at 140/90 mmHg. Which of the following is the most accurate interpretation of these clinical findings?",
+    "opts": [
+      "The prolonged P-QRS interval indicates a delay in depolarization traveling from the sinoatrial (SA) node to the ventricles, and the blood pressure indicates hypertension.",
+      "The prolonged P-QRS interval indicates that the ventricles are taking too long to repolarize, and the blood pressure indicates hypotension.",
+      "The prolonged P-QRS interval shows that the semilunar valves are failing to close properly, and the blood pressure is normal.",
+      "The prolonged P-QRS interval indicates a rapid, uncoordinated contraction of the atria, and the blood pressure indicates vascular collapse."
+    ],
+    "a": 0,
+    "explanations": [
+      "Option A is correct because the P wave represents atrial depolarization and the QRS complex represents ventricular depolarization. The interval between them (PR or P-QRS interval) represents the time required for the electrical signal to travel from the SA node through the AV node to the ventricles; a prolongation indicates a conduction delay (AV block). A blood pressure reading of 140/90 mmHg is classified as stage 2 hypertension.",
+      "Option B is incorrect because ventricular repolarization is represented by the T wave, not the P-QRS interval, and a blood pressure of 140/90 mmHg indicates hypertension, not hypotension.",
+      "Option C is incorrect because the ECG measure is electrical and does not directly measure mechanical valve closure, and 140/90 mmHg is elevated, not normal.",
+      "Option D is incorrect because uncoordinated atrial contraction (atrial fibrillation) would present as a chaotic baseline without distinct P waves, and 140/90 mmHg does not represent vascular collapse."
+    ],
+    "section": "7.4"
+  },
+  {
+    "q": "A team of biologists is studying the respiratory efficiency of bar-headed geese, which migrate at extreme altitudes over the Himalayas (above 8,000 meters), compared to humans climbing the same peaks. Which of the following anatomical and physiological adaptations explains why the avian respiratory system is much more efficient at extracting oxygen in thin air than the mammalian respiratory system?",
+    "opts": [
+      "Birds have elastic lungs that expand to twice their resting volume during inspiration, creating a higher negative pressure gradient than mammalian lungs.",
+      "Birds utilize a one-way, continuous flow of air through the lungs assisted by anterior and posterior air sacs, ensuring that fresh air never mixes with oxygen-depleted air.",
+      "Birds utilize cutaneous respiration across their featherless patches, which acts as a secondary gas exchange surface when atmospheric oxygen is low.",
+      "The avian respiratory surface is lined with a thick layer of mucus that actively transports oxygen molecules against their concentration gradient."
+    ],
+    "a": 1,
+    "explanations": [
+      "Option A is incorrect because avian lungs are rigid and do not expand or contract during breathing; air flow is driven by the expansion and contraction of air sacs.",
+      "Option B is correct because mammalian lungs rely on tidal ventilation where fresh air mixes with stale air (residual volume) left in the lungs. In contrast, birds have a flow-through respiratory system with anterior and posterior air sacs. This setup ensures a unidirectional, continuous flow of fresh air through the parabronchi (gas exchange surfaces) of the lung, preventing the mixing of fresh and stale air and maintaining a high oxygen concentration gradient.",
+      "Option C is incorrect because birds do not perform cutaneous gas exchange; their skin is impermeable to gases.",
+      "Option D is incorrect because gas exchange across respiratory surfaces occurs via passive diffusion down a concentration gradient; it does not involve active transport."
+    ],
+    "section": "2.5"
+  },
+  {
+    "q": "In an experiment with rainbow trout, researchers reverse the flow of water through the fish's mouth and out of the opercular cavity, forcing water to flow in the same direction as the blood inside the gill lamellae (concurrent flow). What will be the effect of this manipulation on the efficiency of oxygen extraction from the water, and why?",
+    "opts": [
+      "Oxygen extraction will increase because concurrent flow allows the blood to absorb oxygen twice as fast at the beginning of the gill capillary.",
+      "Oxygen extraction will decrease because concurrent flow allows blood and water oxygen levels to reach equilibrium early along the exchange surface, halting further net diffusion.",
+      "Oxygen extraction will remain unchanged because diffusion depends only on the surface area of the gill lamellae, not the direction of fluid flows.",
+      "Oxygen extraction will drop to zero because concurrent flow causes blood pressure in the gills to drop, collapsing the capillaries."
+    ],
+    "a": 1,
+    "explanations": [
+      "Option A is incorrect because while concurrent flow shows rapid diffusion initially, it quickly levels off at an equilibrium point, limiting total oxygen uptake compared to countercurrent flow.",
+      "Option B is correct because under countercurrent flow (water and blood flowing in opposite directions), a concentration gradient favoring oxygen diffusion into the blood is maintained along the entire length of the capillary. In concurrent flow, water and blood flow in the same direction and rapidly reach equilibrium (at approximately 50% saturation), at which point net diffusion stops, reducing overall efficiency.",
+      "Option C is incorrect because the relative direction of fluid flow is essential for maintaining the concentration gradient that drives passive diffusion.",
+      "Option D is incorrect because reversing water flow does not change the internal hydrostatic blood pressure of the capillaries or cause them to collapse."
+    ],
+    "section": "2.5"
+  },
+  {
+    "q": "During intense exercise, a runner's leg muscles undergo rapid cellular respiration, producing high levels of carbon dioxide (CO2) and lactic acid. This changes the local chemical environment of the capillaries in the skeletal muscles. Which of the following describes the effect of these environmental changes on hemoglobin's affinity for oxygen (the Bohr effect) and the delivery of oxygen to the tissues?",
+    "opts": [
+      "Increased temperature and higher pH shift the oxygen-hemoglobin dissociation curve to the left, causing hemoglobin to hold onto oxygen more tightly.",
+      "Decreased CO2 levels and higher pH shift the curve to the right, causing hemoglobin to release oxygen in the lungs rather than the muscles.",
+      "Increased CO2 levels and lower pH shift the curve to the right, decreasing hemoglobin's affinity for oxygen and promoting its release to the active muscle tissue.",
+      "Increased lactic acid levels bind directly to the heme groups, blocking oxygen binding and causing cellular hypoxia."
+    ],
+    "a": 2,
+    "explanations": [
+      "Option A is incorrect because active muscle tissue exhibits a lower (more acidic) pH and higher temperature, which shifts the curve to the right, not the left.",
+      "Option B is incorrect because active muscle tissue exhibits increased CO2 levels and a lower pH, shifting the curve to the right to release oxygen in the tissues rather than the lungs.",
+      "Option C is correct because the Bohr effect describes how hydrogen ions (lower pH) and carbon dioxide decrease hemoglobin's affinity for oxygen. In active muscle, CO2 and lactic acid accumulate, lowering the local pH. This shifts the oxygen-hemoglobin dissociation curve to the right, promoting the release of oxygen from hemoglobin to the tissues.",
+      "Option D is incorrect because lactic acid does not bind directly to heme groups to block oxygen; it acts indirectly by releasing H+ ions, which bind to the globin proteins to alter hemoglobin's conformation."
+    ],
+    "section": "7.2"
+  },
+  {
+    "q": "A neurophysiologist treats a giant squid axon with tetrodotoxin (TTX), a potent neurotoxin found in pufferfish that selectively blocks voltage-gated sodium (Na+) channels. They then apply an electrical stimulus that normally triggers an action potential. Which of the following best describes the electrical behavior of the axon following TTX treatment?",
+    "opts": [
+      "The axon will depolarize normally but will fail to repolarize, remaining at a positive membrane potential (+35 mV).",
+      "The axon will fail to depolarize because sodium ions cannot enter the cell to generate the rapid rising phase of the action potential.",
+      "The resting membrane potential will immediately drop to 0 mV because the sodium-potassium pump will be disabled.",
+      "The axon will undergo spontaneous, repetitive action potentials because the threshold potential will be lowered to -70 mV."
+    ],
+    "a": 1,
+    "explanations": [
+      "Option A is incorrect because repolarization is driven by voltage-gated potassium channels; TTX blocks sodium channels, preventing the initial depolarization phase from occurring.",
+      "Option B is correct because the rising phase (depolarization) of an action potential is driven by the opening of voltage-gated Na+ channels, allowing Na+ to rush into the axon down its electrochemical gradient. Blocking these channels with TTX prevents Na+ entry, making depolarization and action potential propagation impossible.",
+      "Option C is incorrect because resting membrane potential is maintained by K+ leak channels and the Na+/K+ ATPase pump, which are not directly targeted by TTX.",
+      "Option D is incorrect because blocking Na+ channels prevents action potentials from firing; it does not lower the threshold or cause spontaneous firing."
+    ],
+    "section": "7.6"
+  },
+  {
+    "q": "A patient is exposed to organophosphate insecticides, which are potent inhibitors of the enzyme acetylcholinesterase (AChE) at the neuromuscular junction. Which of the following describes the immediate effect of this inhibition on the synapse, and the resulting muscular symptom?",
+    "opts": [
+      "Acetylcholine (ACh) will fail to be released from the presynaptic vesicles, causing flaccid paralysis where muscles cannot contract.",
+      "Acetylcholine (ACh) will remain in the synaptic cleft and continuously bind to postsynaptic receptors, causing continuous muscle contraction and spasms.",
+      "Postsynaptic receptors will be degraded, preventing any electrical signals from crossing the synapse and causing sensory loss.",
+      "The presynaptic neuron will undergo rapid reuptake of acetylcholine, depleting the neurotransmitter pools and causing muscle weakness."
+    ],
+    "a": 1,
+    "explanations": [
+      "Option A is incorrect because AChE inhibition does not affect the presynaptic release of ACh; it affects its degradation in the synaptic cleft.",
+      "Option B is correct because acetylcholinesterase (AChE) is the enzyme responsible for breaking down acetylcholine (ACh) in the synaptic cleft to terminate the signal. When AChE is inhibited, ACh accumulates in the cleft and continuously stimulates postsynaptic nicotinic receptors. This leads to persistent depolarization of the muscle membrane, causing continuous contraction, spasms, and eventual paralysis.",
+      "Option C is incorrect because postsynaptic receptors are not degraded by AChE inhibitors; they are overstimulated by the excess neurotransmitter.",
+      "Option D is incorrect because acetylcholine is degraded in the cleft rather than taken up directly by the presynaptic cell through active reuptake transporters (which is common for monoamines like serotonin, but not ACh)."
+    ],
+    "section": "7.6"
+  },
+  {
+    "q": "A patient arrives at a clinic complaining of severe vertigo (a spinning sensation) and loss of balance. A neurological exam reveals that their cochlea is functioning normally, but they have a viral infection causing inflammation of the vestibular nerve. Which of the following sensory structures is most likely affected by this inflammation, and what is its normal function?",
+    "opts": [
+      "The organ of Corti in the cochlear duct, which detects low-frequency sound vibrations.",
+      "The semicircular canals and vestibule (containing the utricle and saccule), which detect rotational acceleration and gravity.",
+      "The fovea centralis in the retina, which coordinates light accommodation and pupil dilation.",
+      "The tympanic membrane, which vibrates to transmit pressure waves to the auditory ossicles."
+    ],
+    "a": 1,
+    "explanations": [
+      "Option A is incorrect because the organ of Corti is located in the cochlea and is responsible for hearing, which is functioning normally in this patient.",
+      "Option B is correct because the vestibular system in the inner ear consists of the semicircular canals (which detect rotational acceleration) and the vestibule containing the utricle and saccule (which detect linear acceleration and gravity). Signals from these structures travel via the vestibular nerve to the brain to maintain equilibrium. Inflammation of this pathway leads to vertigo and loss of balance.",
+      "Option C is incorrect because the fovea centralis is a region of the retina responsible for high-acuity color vision, not balance.",
+      "Option D is incorrect because the tympanic membrane (eardrum) is involved in hearing, not balance or equilibrium."
+    ],
+    "section": "7.6"
+  },
+  {
+    "q": "During an experiment on skeletal muscle contraction, a muscle fiber is bathed in a solution containing physiological concentrations of ATP but lacking calcium ions (Ca2+). Which of the following best describes the state of the muscle fiber, and the molecular barrier preventing contraction?",
+    "opts": [
+      "The muscle is in a state of rigor mortis because ATP cannot bind to myosin heads without calcium.",
+      "The muscle cannot contract because tropomyosin remains bound to actin, blocking the myosin-binding sites.",
+      "The muscle contracts spontaneously because ATP alone is sufficient to power the power stroke of the myosin cross-bridges.",
+      "The muscle is relaxed because the sarcoplasmic reticulum is actively pumping ATP out of the sarcomere."
+    ],
+    "a": 1,
+    "explanations": [
+      "Option A is incorrect because rigor mortis occurs in the absence of ATP, which prevents myosin from detaching from actin. In this experiment, ATP is present.",
+      "Option B is correct because in a resting muscle fiber, the myosin-binding sites on actin are blocked by tropomyosin. For contraction to occur, calcium (Ca2+) must bind to troponin, causing a conformational change that moves tropomyosin away from these binding sites. Without calcium, tropomyosin continues to block the myosin-binding sites, preventing cross-bridge formation and contraction despite ATP availability.",
+      "Option C is incorrect because ATP alone cannot initiate contraction if the myosin-binding sites on actin are physically blocked by tropomyosin.",
+      "Option D is incorrect because the sarcoplasmic reticulum actively pumps calcium ions (Ca2+) out of the sarcoplasm to induce relaxation, not ATP."
+    ],
+    "section": "7.2"
+  },
+  {
+    "q": "A classic experiment in behavioral ecology investigates the nesting behavior of lovebirds. Fischer's lovebirds carry nesting materials (twigs, leaves) in their beaks. Peach-faced lovebirds carry materials tucked into their rump feathers. When these two species are hybridized, the hybrid offspring initially attempt to tuck materials into their feathers but fail to let go, eventually carrying the material in their beaks after several months of trial and error. Which of the following is the most accurate conclusion regarding the nesting behavior of these lovebirds based on this experiment?",
+    "opts": [
+      "Nesting behavior is completely determined by environmental conditioning, as the hybrids eventually learn the correct technique.",
+      "Nesting behavior has a strong genetic component (nature), but can be modified through operant conditioning and learning (nurture).",
+      "Nesting behavior is a fixed action pattern that cannot be modified by experience, meaning the hybrids never successfully build nests.",
+      "Nesting behavior is governed by classical conditioning, where the sight of nesting material acts as an unconditioned stimulus."
+    ],
+    "a": 1,
+    "explanations": [
+      "Option A is incorrect because the hybrids' initial, unsuccessful attempts to tuck nesting materials into their rump feathers are innate, indicating a strong genetic influence, not just environmental conditioning.",
+      "Option B is correct because the initial rump-feather tucking behavior is an inherited, genetic trait (nature). However, because the hybrids are ineffective at this method, they modify their behavior over time through trial-and-error (operant conditioning) to successfully carry materials in their beaks (nurture), demonstrating that behavior is shaped by both genetics and environment.",
+      "Option C is incorrect because the hybrids modify their behavior over time through experience, showing that the behavior is not an unmodifiable fixed action pattern.",
+      "Option D is incorrect because the modification of behavior through trial-and-error is operant conditioning, whereas classical conditioning involves associating a neutral stimulus with an unconditioned stimulus."
+    ],
+    "section": "8.1"
+  },
+  {
+    "q": "A population of Daphnia (water fleas) is introduced into a constant-volume laboratory tank with a fixed daily supply of algae as food. The population size is recorded daily. Initially, the population grows exponentially, but after three weeks, the growth rate slows and the population size stabilizes around 150 individuals. A month later, the researcher doubles the daily algae supply. Which of the following best predicts the new population growth curve and the change in carrying capacity (K)?",
+    "opts": [
+      "The population will continue to grow exponentially forever because the food limit has been permanently removed.",
+      "The population will undergo a temporary phase of exponential growth followed by stabilization at a new, higher carrying capacity (K ≈ 300).",
+      "The carrying capacity will remain at 150 because physical space in the tank is the only factor that determines carrying capacity.",
+      "The population will immediately crash to zero because doubling the food supply creates a toxic level of organic waste that causes competitive exclusion."
+    ],
+    "a": 1,
+    "explanations": [
+      "Option A is incorrect because no population can grow exponentially indefinitely; other density-dependent factors (like space or waste accumulation) will eventually limit growth.",
+      "Option B is correct because the initial stabilization at 150 individuals indicates the population reached its carrying capacity (K), which was limited by the algae supply. Doubling the food supply raises the carrying capacity. The population will grow exponentially again temporarily before leveling off at a new carrying capacity (approximately 300 if food was the primary limiting factor).",
+      "Option C is incorrect because food availability is a major density-dependent limiting factor that influences carrying capacity; carrying capacity is not determined solely by physical space.",
+      "Option D is incorrect because doubling the food supply under standard conditions is expected to increase population size, not trigger a complete population crash to zero."
+    ],
+    "section": "8.4"
+  },
+  {
+    "q": "In a marine food web, phytoplankton (primary producers) are consumed by zooplankton (primary consumers), which are eaten by small fish (secondary consumers), which are in turn preyed upon by tuna (tertiary consumers). A nearby farm uses a pesticide containing radioactive phosphorus (32P), which runs off into the ocean. The concentration of 32P is measured in the tissues of these organisms. Which of the following correctly describes the distribution of biomass and the concentration of 32P across the trophic levels?",
+    "opts": [
+      "Phytoplankton will have the highest biomass and the highest concentration of 32P because they absorb the runoff directly.",
+      "Zooplankton will have lower biomass than tuna, but both will have the same concentration of 32P due to the 10% energy transfer efficiency.",
+      "Tuna will have the lowest biomass but the highest concentration of 32P in their tissues due to biomagnification.",
+      "The concentration of 32P will decrease by 90% at each successive trophic level because energy is lost as heat."
+    ],
+    "a": 2,
+    "explanations": [
+      "Option A is incorrect because biomass decreases up the food web, so phytoplankton has the highest biomass, but the concentration of persistent pollutants increases (biomagnifies) at higher trophic levels rather than being highest in producers.",
+      "Option B is incorrect because zooplankton (primary consumers) have higher biomass than tuna (tertiary consumers), and their pesticide concentrations will differ due to bioaccumulation.",
+      "Option C is correct because only about 10% of the energy is transferred to the next trophic level, resulting in a pyramid of biomass where top predators (tuna) have the lowest total biomass. However, chemical pollutants that are persistent and not easily metabolized accumulate in tissues and biomagnify, leading to the highest concentration in the top predator.",
+      "Option D is incorrect because while energy decreases by 90% at each level, persistent non-biodegradable chemicals increase in concentration (biomagnify) up the food chain."
+    ],
+    "section": "8.2"
+  },
+  {
+    "q": "A large temperate deciduous forest is fragmented by the construction of a network of highways. A conservation biologist measures the population densities of two bird species: Species X, which nests exclusively in the dense interior of the forest, and Species Y, which nests in open edge habitats. Which of the following is the most likely outcome of this forest fragmentation on the two bird species?",
+    "opts": [
+      "Both species will decline equally because forest fragmentation reduces the total area of the biome without changing its microclimate.",
+      "Species X will decline because fragmentation increases the proportion of edge habitat at the expense of interior habitat, while Species Y will increase.",
+      "Species X will increase because highways create corridors that facilitate gene flow, while Species Y will suffer from the edge effect.",
+      "The overall biodiversity of the forest will increase because highways introduce new niches, converting the biome into a savanna."
+    ],
+    "a": 1,
+    "explanations": [
+      "Option A is incorrect because fragmentation does not affect all species equally; it specifically favors edge-dwelling species and harms interior-dwelling species.",
+      "Option B is correct because fragmentation breaks a continuous habitat into smaller patches, increasing the perimeter-to-area ratio. This increases the amount of 'edge' habitat (which has different microclimatic conditions and higher predation rates) and reduces the 'interior' habitat. As a result, interior species (Species X) decline, while edge species (Species Y) expand.",
+      "Option C is incorrect because highways act as physical barriers to gene flow for forest interior species rather than corridors, and Species X is an interior species, meaning it will decline, not increase.",
+      "Option D is incorrect because forest fragmentation by highways leads to habitat degradation and a net loss of biodiversity, not a beneficial transition to a savanna."
+    ],
+    "section": "8.7"
+  },
+  {
+    "q": "A plant physiology experiment places a C3 plant and a C4 plant in a sealed glass chamber with normal atmospheric air at 35°C under high light intensity. The chamber is not ventilated. As photosynthesis proceeds, the carbon dioxide (CO2) concentration in the chamber drops while the oxygen (O2) concentration increases. Which of the following best predicts the physiological behavior and survival of the two plants as CO2 levels become extremely low?",
+    "opts": [
+      "The C3 plant will continue to photosynthesize efficiently because its Rubisco enzyme has a high affinity for CO2 even at low concentrations.",
+      "The C4 plant will stop photosynthesizing first because PEP carboxylase cannot fix carbon in the absence of a bundle-sheath cell anatomy.",
+      "The C3 plant will suffer from high rates of photorespiration and show a net loss of carbon, while the C4 plant will continue to fix carbon due to PEP carboxylase's high affinity for CO2.",
+      "Both plants will switch to CAM photosynthesis, opening their stomata only at night to absorb the remaining CO2 in the chamber."
+    ],
+    "a": 2,
+    "explanations": [
+      "Option A is incorrect because Rubisco has a dual affinity for CO2 and O2; under low CO2 and high O2 conditions, it binds O2, initiating photorespiration, which is highly inefficient for C3 plants.",
+      "Option B is incorrect because C4 plants possess PEP carboxylase and a specialized Kranz anatomy that enables them to photosynthesize efficiently under very low CO2 concentrations.",
+      "Option C is correct because in C3 plants, low CO2 and high O2 prompt Rubisco to bind O2 instead of CO2, leading to photorespiration. This process consumes energy and releases CO2 without producing sugar. C4 plants use PEP carboxylase to fix CO2 into a four-carbon molecule in the mesophyll cells. PEP carboxylase has no affinity for O2, allowing C4 plants to maintain photosynthesis and minimize photorespiration under low CO2.",
+      "Option D is incorrect because plants cannot switch their metabolic pathways between C3, C4, and CAM; these are fixed evolutionary adaptations."
+    ],
+    "section": "5.1"
+  },
+  {
+    "q": "A biochemist treats isolated, active mitochondria with dinitrophenol (DNP), a chemical that acts as a proton ionophore (making the inner mitochondrial membrane highly permeable to hydrogen ions). Which of the following describes the immediate effect of DNP on electron transport, oxygen consumption, and ATP synthesis in these mitochondria?",
+    "opts": [
+      "Electron transport and oxygen consumption will stop, and ATP synthesis will cease because protons cannot enter the matrix.",
+      "Electron transport and oxygen consumption will continue (or even increase), but ATP synthesis will stop because the proton gradient is destroyed.",
+      "ATP synthesis will increase because the high permeability allows protons to flow through ATP synthase at a faster rate.",
+      "The mitochondria will switch to lactic acid fermentation because the inner membrane permeability blocks the Krebs cycle."
+    ],
+    "a": 1,
+    "explanations": [
+      "Option A is incorrect because electron transport and oxygen consumption do not stop; they continue or increase as the system attempts to restore the ATP level.",
+      "Option B is correct because DNP is an uncoupler that makes the inner mitochondrial membrane leaky to protons (H+). This allows protons to flow back into the matrix directly through the membrane, bypassing ATP synthase and destroying the proton gradient required for ATP synthesis. Because the proton gradient is dissipated, there is no back-pressure to resist electron flow, allowing the electron transport chain to run at maximum speed, consuming oxygen.",
+      "Option C is incorrect because protons bypass ATP synthase, meaning ATP synthesis ceases rather than increases.",
+      "Option D is incorrect because fermentation occurs in the cytosol, not the mitochondria, and DNP does not directly block the Krebs cycle enzymes."
+    ],
+    "section": "7.2"
+  },
+  {
+    "q": "Yeast cells (Saccharomyces cerevisiae) are cultured in a bioreactor. The researcher monitors the consumption of glucose and the production of ethanol. Initially, the bioreactor is kept strictly anaerobic. The researcher then bubbles oxygen (O2) gas into the chamber, transitioning the yeast to aerobic conditions (the Pasteur effect). Which of the following describes the change in glucose consumption rate and the metabolic reasoning after oxygen is introduced?",
+    "opts": [
+      "Glucose consumption will increase because aerobic respiration is less efficient than fermentation, requiring more sugar to produce the same amount of ATP.",
+      "Glucose consumption will decrease because aerobic respiration produces 18 times more ATP per glucose molecule than fermentation, allowing the yeast to meet their energy needs with less sugar.",
+      "Glucose consumption will remain constant because yeast cells lack mitochondria and are obligate anaerobes that cannot perform aerobic respiration.",
+      "Glucose consumption will drop to zero because oxygen acts as a competitive inhibitor of hexokinase, the first enzyme in glycolysis."
+    ],
+    "a": 1,
+    "explanations": [
+      "Option A is incorrect because aerobic respiration is far more efficient than fermentation, meaning less glucose is needed to produce the same amount of ATP.",
+      "Option B is correct because fermentation (anaerobic) yields only 2 net ATP molecules per glucose via glycolysis. Aerobic respiration (glycolysis, prep reaction, Krebs cycle, and electron transport chain/chemiosmosis) yields approximately 36 to 38 ATP molecules per glucose. When oxygen is introduced, yeast switch to aerobic respiration, producing much more ATP per glucose molecule, which allows them to meet their energy needs while consuming significantly less glucose.",
+      "Option C is incorrect because yeast are facultative anaerobes and contain functional mitochondria, allowing them to perform aerobic respiration in the presence of oxygen.",
+      "Option D is incorrect because oxygen does not inhibit hexokinase or glycolysis; it acts as the final electron acceptor in the electron transport chain."
+    ],
+    "section": "7.2"
+  }
+]

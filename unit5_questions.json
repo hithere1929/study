@@ -1,0 +1,504 @@
+[
+  {
+    "section": "5.1",
+    "title": "Darwin & Evidence for Evolution",
+    "t": "mc",
+    "q": "Which eighteenth-century naturalist cataloged a 44-volume work on plants and animals, and suggested evolutionary mechanisms such as environmental influences, migration, geographic isolation, and the struggle for existence?",
+    "a": 2,
+    "opts": [
+      "Carolus Linnaeus, who developed binomial nomenclature and advocated for the fixity of species.",
+      "Jean-Baptiste de Lamarck, who proposed the inheritance of acquired characteristics and adaptation to environment.",
+      "Count Buffon, a French naturalist who provided evidence of descent with modification and suggested environmental influences.",
+      "Georges Cuvier, who founded the science of paleontology and proposed catastrophism to explain fossil layers."
+    ],
+    "explanation": "Correct Answer: Count Buffon. Count Buffon was a French naturalist who cataloged a 44-volume work on plants and animals. He provided early evidence of descent with modification and suggested evolutionary mechanisms such as environmental influences, migration, geographic isolation, and the struggle for existence.\n\nIncorrect Choices:\n- Carolus Linnaeus developed the system of binomial nomenclature but strongly advocated for the \"fixity of species,\" believing each species had an ideal structure, function, and place in the scala naturae.\n- Jean-Baptiste de Lamarck proposed the inheritance of acquired characteristics (Lamarckianism) as a testable evolutionary hypothesis, not a 44-volume catalog of plants and animals.\n- Georges Cuvier founded the science of paleontology and proposed catastrophism to explain fossil layers while remaining a staunch believer in the fixity of species and special creation."
+  },
+  {
+    "section": "5.1",
+    "title": "Darwin & Evidence for Evolution",
+    "t": "mc",
+    "q": "During his voyage on the SMS Beagle, Charles Darwin observed the Patagonian cavy in the grasslands of South America. Which of the following best represents the evolutionary reasoning Darwin applied to this organism's characteristics?",
+    "a": 1,
+    "opts": [
+      "It resembled a rabbit because both shared a very recent common ancestor, while its face resembled a guinea pig due to convergent evolution in similar South American environments.",
+      "It resembled a rabbit due to adaptation to similar environmental niches, whereas its guinea-pig-like face was a reflection of common descent with other South American rodents.",
+      "It resembled a rabbit because of the inheritance of acquired characteristics under the pressure of grasslands, while its face resembled a guinea pig due to artificial selection.",
+      "It resembled a rabbit because it lived in geographic isolation on the Galapagos Islands, and it resembled a guinea pig due to uniformitarian geological processes."
+    ],
+    "explanation": "Correct Answer: It resembled a rabbit due to adaptation to similar environmental niches, whereas its guinea-pig-like face was a reflection of common descent with other South American rodents.\n\nExplanation: Darwin reasoned that the Patagonian cavy resembled a rabbit in its long hind legs and ears because both species were adapted to similar ecological niches (grasslands, eating grass, hiding in bushes, and moving rapidly). Conversely, its guinea-pig-like face reflected its common descent with other South American rodents, demonstrating descent with modification shaped by environmental selection.\n\nIncorrect Choices:\n- The choice suggesting they shared a very recent common ancestor is incorrect because rabbits and cavies are from separate mammalian lineages; their shared rabbit-like features are the result of convergent evolution.\n- The choice involving the inheritance of acquired characteristics is incorrect because the cavy's traits evolved via natural selection over generations, not through Lamarckian inheritance of acquired characteristics, nor did humans shape the wild cavy through artificial selection.\n- The choice suggesting it lived in geographic isolation on the Galapagos Islands is incorrect because the Patagonian cavy lives in the South American grasslands (Patagonia), not the Galapagos Islands, and uniformitarianism refers to geological processes rather than the evolution of rodent facial features."
+  },
+  {
+    "section": "5.1",
+    "title": "Darwin & Evidence for Evolution",
+    "t": "mc",
+    "q": "Which group of vegetables did Charles Darwin use as an example of artificial selection, showing that they are all derived from the single species Brassica oleracea?",
+    "a": 2,
+    "opts": [
+      "Broccoli, cauliflower, and wild mustard",
+      "Radish, turnip, and kale",
+      "Chinese cabbage, Brussels sprouts, and Kohlrabi",
+      "Cabbage, broccoli, and spinach"
+    ],
+    "explanation": "Correct Answer: Chinese cabbage, Brussels sprouts, and Kohlrabi.\n\nExplanation: The notes explicitly identify Chinese cabbage, Brussels sprouts, and Kohlrabi as agricultural vegetables derived from the single ancestral species Brassica oleracea through human-directed artificial selection (selective breeding for specific structural traits).\n\nIncorrect Choices:\n- Broccoli, cauliflower, and wild mustard: Wild mustard is the ancestral parent plant from which Brassica oleracea vegetables were derived, rather than a vegetable group selected from it.\n- Radish, turnip, and kale: Radishes and turnips belong to different species and genera (Raphanus sativus and Brassica rapa, respectively) and are not descendants of Brassica oleracea.\n- Cabbage, broccoli, and spinach: Spinach is a member of the Amaranthaceae family and is entirely unrelated to the Brassica genus."
+  },
+  {
+    "section": "5.1",
+    "title": "Darwin & Evidence for Evolution",
+    "t": "mc",
+    "q": "According to Darwin's observations of the Galapagos finches, which of the following correctly pairs a finch type with its specific adaptation and diet?",
+    "a": 0,
+    "opts": [
+      "Cactus-finch: a longer, decurved beak and split tongue adapted for probing cactus plants to obtain seeds.",
+      "Warbler-finch: a heavy, robust beak adapted to cracking and grinding large, tough seeds on the ground.",
+      "Ground-finch: a thin, needle-like beak adapted to catching and consuming small flying insects in mid-air.",
+      "Tree-finch: a chisel-like beak with a specialized tongue adapted to extracting wood-boring beetle larvae."
+    ],
+    "explanation": "Correct Answer: Cactus-finch: a longer, decurved beak and split tongue adapted for probing cactus plants to obtain seeds.\n\nExplanation: As stated in the notes, the cactus-finch possesses a longer, decurved beak and a split tongue specifically adapted for probing cactus flowers and plants to obtain seeds.\n\nIncorrect Choices:\n- Warbler-finch with a heavy, robust beak: The warbler-finch is adapted to feeding on small insects, not cracking and grinding large, tough seeds.\n- Ground-finch with a thin, needle-like beak: Ground-finches possess heavy, robust beaks adapted to cracking seeds on the ground, whereas thin, needle-like beaks are characteristic of insect-eating finches like the warbler-finch.\n- Tree-finch with a chisel-like beak: Tree-finches have beaks adapted to feeding on insects or fruit in trees, but the chisel-like beak with a specialized tongue describes the woodpecker-finch, and the correct cactus-finch pairing is the one explicitly detailed in the notes."
+  },
+  {
+    "section": "5.1",
+    "title": "Darwin & Evidence for Evolution",
+    "t": "mc",
+    "q": "Which of the following statements best describes the role of regulatory genes, specifically Hox genes, in providing evidence for evolution?",
+    "a": 3,
+    "opts": [
+      "Hox genes code for metabolic enzymes that vary widely in sequence to allow different animal species to survive in unique climates and stressful ecosystems.",
+      "Hox genes are found only in vertebrates, where they control the formation of homologous structures like the postanal tail and pharyngeal pouches during embryogenesis.",
+      "Hox genes undergo high rates of mutation during adult stages to allow organisms to acquire new traits and adapt to environmental shifts within their lifetimes.",
+      "Hox genes orchestrate the developmental body plan in all animals, and variations in their activation and number lead to diverse body structures from a common ancestor."
+    ],
+    "explanation": "Correct Answer: Hox genes orchestrate the developmental body plan in all animals, and variations in their activation and number lead to diverse body structures from a common ancestor.\n\nExplanation: Hox genes are crucial homeotic regulatory genes shared by all animals. They control the activation of other genes that dictate the body plan during development. Differences in body structures and segments among diverse animal groups are driven by variations in the number and timing of Hox gene activation, reflecting descent with modification from a shared common ancestor.\n\nIncorrect Choices:\n- The choice suggesting they code for metabolic enzymes is incorrect because Hox genes are transcription factors that control developmental body plans; they do not code for metabolic enzymes.\n- The choice suggesting they are found only in vertebrates is incorrect because Hox genes are found in all animals (both invertebrates and vertebrates), not only in vertebrates.\n- The choice suggesting they mutate during adult stages is incorrect because evolution occurs across generations via changes in the germline; individuals do not mutate their Hox genes during their adult lifetime to adapt to environmental shifts."
+  },
+  {
+    "section": "5.1",
+    "title": "Darwin & Evidence for Evolution",
+    "t": "mc",
+    "q": "What anatomical features are shared by all vertebrate embryos during early development, serving as evidence of their common descent?",
+    "a": 1,
+    "opts": [
+      "A dorsal hollow nerve cord and lateral line system",
+      "A postanal tail and paired pharyngeal pouches",
+      "A calcified endoskeleton and webbed digits",
+      "A three-chambered heart and functional gills"
+    ],
+    "explanation": "Correct Answer: A postanal tail and paired pharyngeal pouches.\n\nExplanation: The notes state that all vertebrate embryos possess a postanal tail and paired pharyngeal (gill) pouches during early development. These homologous developmental structures are inherited from a common ancestor, even though they may develop into different adult structures (e.g., tailbones or parts of the ear/throat) in terrestrial vertebrates.\n\nIncorrect Choices:\n- A dorsal hollow nerve cord and lateral line system: The lateral line system is a sensory organ system found in fish and amphibians, not in all vertebrate embryos (such as mammals or birds).\n- A calcified endoskeleton and webbed digits: Not all vertebrate embryos have webbed digits during development (e.g., limbless vertebrates like snakes do not form digits, and others form claws or hooves).\n- A three-chambered heart and functional gills: Terrestrial vertebrate embryos do not develop functional gills or a three-chambered heart (mammals and birds develop four-chambered hearts), though they share the embryonic pharyngeal pouches."
+  },
+  {
+    "section": "5.1",
+    "title": "Darwin & Evidence for Evolution",
+    "t": "sa",
+    "q": "Based on Darwin's Theory of Natural Selection, which of the following are essential conditions or observations that drive the evolutionary process? (Select all that apply.)",
+    "correct": [
+      "Members of a population possess variations that can be inherited by their offspring.",
+      "In each generation, more offspring are produced than the environment's resources can support.",
+      "Individuals with favorable adaptive characteristics exhibit increased survival and reproductive success."
+    ],
+    "opts": [
+      "Members of a population possess variations that can be inherited by their offspring.",
+      "Environments produce more resources than a population can ever consume, eliminating competition.",
+      "In each generation, more offspring are produced than the environment's resources can support.",
+      "Acquired physical traits resulting from strive for perfection are passed directly to offspring.",
+      "Individuals with favorable adaptive characteristics exhibit increased survival and reproductive success.",
+      "Mutations are directed by the environment to occur only when an organism needs to adapt."
+    ],
+    "explanation": "Correct Choices:\n- 'Members of a population possess variations that can be inherited by their offspring.' Heritable variation is the essential raw material upon which natural selection acts. Without it, selection cannot change the genetic makeup of the population over generations.\n- 'In each generation, more offspring are produced than the environment's resources can support.' Overproduction of offspring leads to a struggle for survival and reproduction, creating competition for limited resources.\n- 'Individuals with favorable adaptive characteristics exhibit increased survival and reproductive success.' Differential reproductive success (fitness) ensures that favorable adaptive traits are passed on to the next generation at higher rates, increasing their frequency.\n\nIncorrect Choices:\n- 'Environments produce more resources than a population can ever consume, eliminating competition.' False because resources are limited, which is what drives competition and natural selection.\n- 'Acquired physical traits resulting from strive for perfection are passed directly to offspring.' This is Lamarck's incorrect theory of inheritance of acquired characteristics, not Darwinian natural selection.\n- 'Mutations are directed by the environment to occur only when an organism needs to adapt.' Mutations are random changes in DNA and are not directed or caused by an organism's need to adapt."
+  },
+  {
+    "section": "5.1",
+    "title": "Darwin & Evidence for Evolution",
+    "t": "sa",
+    "q": "Which of the following statements regarding the history of evolutionary thought and criticisms of evolution are true according to the notes? (Select all that apply.)",
+    "correct": [
+      "Carolus Linnaeus proposed the concept of the scala naturae and believed in the fixity of species.",
+      "Georges Cuvier founded the science of paleontology and proposed catastrophism to explain fossil changes over time.",
+      "Evolution does not occur purely by random chance; while mutation is random, natural selection non-randomly acts on variations."
+    ],
+    "opts": [
+      "Carolus Linnaeus proposed the concept of the scala naturae and believed in the fixity of species.",
+      "Jean-Baptiste de Lamarck's hypothesis of inheritance of acquired characteristics correctly described the genetic mechanism of inheritance.",
+      "Georges Cuvier founded the science of paleontology and proposed catastrophism to explain fossil changes over time.",
+      "Evolution is a theory that explains both the exact origins of life and how the first organic molecules formed.",
+      "The fossil record is expected to be complete, and the lack of transition fossils disproves evolutionary theory.",
+      "Evolution does not occur purely by random chance; while mutation is random, natural selection non-randomly acts on variations."
+    ],
+    "explanation": "Correct Choices:\n- 'Carolus Linnaeus proposed the concept of the scala naturae and believed in the fixity of species.' Linnaeus believed that species were fixed and unchanging, assigning each a specific position on the scala naturae (scale of nature).\n- 'Georges Cuvier founded the science of paleontology and proposed catastrophism to explain fossil changes over time.' Cuvier studied fossil layers and proposed that local catastrophes caused sudden extinctions, followed by repopulation from surrounding areas, explaining why fossils change in different strata.\n- 'Evolution does not occur purely by random chance; while mutation is random, natural selection non-randomly acts on variations.' Natural selection is a highly non-random process that preserves advantageous variations and filters out disadvantageous ones, even though the raw mutations that produce those variations occur randomly.\n\nIncorrect Choices:\n- 'Jean-Baptiste de Lamarck's hypothesis of inheritance of acquired characteristics correctly described the genetic mechanism of inheritance.' Lamarck's hypothesis was incorrect because acquired physical traits do not change the genetic code in gametes and cannot be inherited.\n- 'Evolution is a theory that explains both the exact origins of life and how the first organic molecules formed.' Evolution explains how the diversity of life emerged after its origin; it does not explain the origin of life itself.\n- 'The fossil record is expected to be complete, and the lack of transition fossils disproves evolutionary theory.' The fossil record is expected to be incomplete because fossilization is an extremely rare event, and organisms rarely die in conditions favorable for preservation."
+  },
+  {
+    "section": "5.2",
+    "title": "How Populations Evolve",
+    "t": "mc",
+    "q": "If a biologist observes that the allele frequencies of a population of field mice have remained completely constant over five generations, which of the following conditions must have been met according to the Hardy-Weinberg principle?",
+    "a": 2,
+    "opts": [
+      "Frequent mutations must be introducing new genotypes, and nonrandom assortative mating must be occurring.",
+      "The population size must be very small, allowing genetic drift to fix the alleles rapidly.",
+      "There must be no genetic mutations, no gene flow, random mating, no genetic drift, and no natural selection.",
+      "Significant migration must be occurring to balance any selective pressures on the mouse genotypes."
+    ],
+    "explanation": "Correct Answer: There must be no genetic mutations, no gene flow, random mating, no genetic drift, and no natural selection.\n\nExplanation: The Hardy-Weinberg principle states that allele frequencies in a population will remain constant (in genetic equilibrium) if and only if all five of the following conditions are met: (1) no mutations, (2) no gene flow (no migration), (3) random mating, (4) no genetic drift (requires an infinitely large population), and (5) no natural selection.\n\nIncorrect Choices:\n- Frequent mutations must be introducing new genotypes...: Frequent mutations and non-random assortative mating both change allele and genotype frequencies, violating genetic equilibrium.\n- The population size must be very small...: A small population size increases the probability of genetic drift, which causes random fluctuations in allele frequencies rather than keeping them constant.\n- Significant migration must be occurring...: Significant migration (gene flow) introduces or removes alleles, altering allele frequencies and causing evolution."
+  },
+  {
+    "section": "5.2",
+    "title": "How Populations Evolve",
+    "t": "mc",
+    "q": "Which of the following scenarios best illustrates the founder effect, a specific form of genetic drift?",
+    "a": 1,
+    "opts": [
+      "A sudden volcanic eruption wipes out 95% of a lizard population, leaving only five individuals to rebuild the population.",
+      "A small group of finches is blown off course during a storm and colonizes a remote island, carrying only a subset of the original population's alleles.",
+      "Heterozygote advantage maintains a lethal recessive allele in a population of humans residing in malaria-endemic regions.",
+      "Female peacocks preferentially choose to mate with males displaying the longest and most vibrant tail feathers, changing allele frequencies."
+    ],
+    "explanation": "Correct Answer: A small group of finches is blown off course during a storm and colonizes a remote island, carrying only a subset of the original population's alleles.\n\nExplanation: The founder effect is a type of genetic drift that occurs when a few individuals isolate themselves from a larger population to establish a new population. By chance, the alleles carried by the founders represent a small, non-representative subset of the original gene pool, leading to distinct allele frequencies.\n\nIncorrect Choices:\n- A sudden volcanic eruption wipes out 95% of a lizard population...: This describes a bottleneck effect, where a large population is catastrophically reduced in size, leaving random survivors.\n- Heterozygote advantage maintains a lethal recessive allele...: This illustrates heterozygote advantage (balancing selection) which actively maintains genetic diversity, not genetic drift.\n- Female peacocks preferentially choose to mate...: This describes sexual selection (non-random mating), which is a selective process, not random genetic drift."
+  },
+  {
+    "section": "5.2",
+    "title": "How Populations Evolve",
+    "t": "mc",
+    "q": "The selection of human birth weights, where infants of extremely low or high birth weights have lower survival rates compared to average-sized infants, is an example of which type of natural selection?",
+    "a": 1,
+    "opts": [
+      "Disruptive selection",
+      "Stabilizing selection",
+      "Directional selection",
+      "Assortative selection"
+    ],
+    "explanation": "Correct Answer: Stabilizing selection.\n\nExplanation: Stabilizing selection occurs when environmental factors favor intermediate phenotypes and select against extreme phenotypes. For human birth weights, infants born with intermediate, average weights survive at higher rates than those born with extremely low or high weights, which narrows the phenotypic curve by increasing the peak and reducing the tails.\n\nIncorrect Choices:\n- Disruptive selection favors both extreme phenotypes (very low and very high birth weights) over the intermediate phenotype, leading to a curve with two peaks.\n- Directional selection favors one extreme phenotype over the other, shifting the entire curve toward that extreme.\n- Assortative selection is a form of non-random mating (where individuals choose similar mates) rather than a pattern of natural selection acting on survival."
+  },
+  {
+    "section": "5.2",
+    "title": "How Populations Evolve",
+    "t": "mc",
+    "q": "According to sexual selection theories, what is the key difference between the good genes hypothesis and the runaway hypothesis?",
+    "a": 0,
+    "opts": [
+      "Good genes proposes that females select mates based on traits indicating general health and survival ability, whereas runaway proposes females select based on traits that solely enhance the male's physical appearance.",
+      "Good genes proposes that females choose mates with the same phenotype to increase homozygosity, whereas runaway proposes females choose mates based on high genetic diversity and niche adaptation.",
+      "Good genes states that males compete directly with other males for territory and resource dominance, whereas runaway states females compete with each other to secure the most colorful and large male.",
+      "Good genes states that mutations occur to directly improve offspring survival rates in harsh environments, whereas runaway states that environmental selection pressures drive the development of male dimorphism."
+    ],
+    "explanation": "Correct Answer: Good genes proposes that females select mates based on traits indicating general health and survival ability, whereas runaway proposes females select based on traits that solely enhance the male's physical appearance.\n\nExplanation: Both are hypotheses for female choice (intersexual selection). The good genes hypothesis states that females choose males based on traits (like size or strength) that indicate genetic quality, health, and survival ability, benefiting offspring survival. The runaway hypothesis proposes that females choose males based on arbitrary ornamental traits that enhance appearance; over time, the male ornament and female preference for it co-evolve and 'run away' in an extreme direction, even if the ornament becomes a survival disadvantage.\n\nIncorrect Choices:\n- Good genes proposes that females choose mates with the same phenotype...: Choosing mates with the same phenotype refers to assortative mating, not female choice hypotheses, and both good genes and runaway hypotheses can operate within a single niche.\n- Good genes states that males compete directly...: Both hypotheses describe female choice (intersexual selection), not male-male competition (intrasexual selection).\n- Good genes states that mutations occur to directly improve...: Mutations are random and not directed by environmental harshness, nor is male dimorphism driven purely by general abiotic selection pressures under these hypotheses."
+  },
+  {
+    "section": "5.2",
+    "title": "How Populations Evolve",
+    "t": "mc",
+    "q": "Why is the sickle-cell anemia allele maintained at relatively high frequencies in human populations living in malaria-prone areas, despite being lethal in homozygous individuals?",
+    "a": 2,
+    "opts": [
+      "Homozygous recessive individuals have a double dose of the allele, which provides complete immunity to malaria without causing any physiological harm.",
+      "Homozygous dominant individuals are resistant to malaria because their normal red blood cells cannot be infected by the Plasmodium parasite.",
+      "Heterozygous individuals do not suffer from sickle-cell disease and are simultaneously protected against malaria, giving them a survival advantage.",
+      "The allele undergoes frequent mutations in response to malaria exposure, converting harmful recessive alleles into beneficial dominant alleles."
+    ],
+    "explanation": "Correct Answer: Heterozygous individuals do not suffer from sickle-cell disease and are simultaneously protected against malaria, giving them a survival advantage.\n\nExplanation: This is a classic example of heterozygote advantage. Homozygous dominant individuals have normal red blood cells but are susceptible to malaria. Homozygous recessive individuals suffer from severe, often lethal sickle-cell disease. Heterozygotes (carrying one normal and one sickle allele) do not die from sickle-cell disease and are protected against malaria infection. In malaria-prone areas, heterozygotes have the highest relative fitness, which maintains both alleles in the gene pool.\n\nIncorrect Choices:\n- Homozygous recessive individuals have a double dose...: Homozygous recessive individuals suffer from severe physiological harm and organ damage due to sickled red blood cells, which is highly detrimental.\n- Homozygous dominant individuals are resistant...: Homozygous dominant individuals have normal red blood cells that are easily infected by the Plasmodium parasite, making them susceptible to malaria.\n- The allele undergoes frequent mutations...: The sickle-cell allele does not mutate in response to malaria; mutations occur randomly, and the environment acts only as a filter on existing genetic variations."
+  },
+  {
+    "section": "5.2",
+    "title": "How Populations Evolve",
+    "t": "mc",
+    "q": "What is assortative mating, and how does it affect the genetic structure of a population?",
+    "a": 0,
+    "opts": [
+      "It is a form of nonrandom mating where individuals choose mates with the same phenotype, which typically leads to an increase in homozygosity.",
+      "It is a random mating process where individuals choose mates of different phenotypes, thereby maximizing heterozygous allele frequencies.",
+      "It is a selective process where females choose mates based only on the good genes hypothesis, increasing overall fitness of the group.",
+      "It is a migration-driven mating pattern where individuals only mate with newcomers, promoting gene flow between isolated populations."
+    ],
+    "explanation": "Correct Answer: It is a form of nonrandom mating where individuals choose mates with the same phenotype, which typically leads to an increase in homozygosity.\n\nExplanation: Assortative mating is a type of non-random mating where individuals choose partners that share similar physical or behavioral characteristics (phenotypes). This selective pairing increases the probability that offspring will inherit identical alleles, resulting in an increase in homozygous genotypes and a decrease in heterozygous genotypes.\n\nIncorrect Choices:\n- It is a random mating process...: Choosing mates of different phenotypes is called disassortative (or negative assortative) mating, not assortative mating, and assortative mating is non-random.\n- It is a selective process where females choose mates based only on the good genes hypothesis...: The good genes hypothesis describes a female choice mechanism based on fitness indicators, not assortative mating based on phenotype matching.\n- It is a migration-driven mating pattern...: Assortative mating is based on matching phenotypes within a population; it does not describe migration-driven gene flow between separate populations."
+  },
+  {
+    "section": "5.2",
+    "title": "How Populations Evolve",
+    "t": "sa",
+    "q": "According to the notes, which of the following statements about gene flow and genetic drift are true? (Select all that apply.)",
+    "correct": [
+      "Continual gene flow between two populations reduces genetic divergence and makes them more similar over time.",
+      "Genetic drift is more likely to have a significant, noticeable effect in small populations.",
+      "The bottleneck effect occurs when a random event prevents the majority of individuals from contributing to the next generation.",
+      "When there is no migration between populations, they tend to become more genetically divergent over time."
+    ],
+    "opts": [
+      "Continual gene flow between two populations reduces genetic divergence and makes them more similar over time.",
+      "Genetic drift changes allele frequencies due to environmental selection pressures favoring specific phenotypes.",
+      "Genetic drift is more likely to have a significant, noticeable effect in small populations.",
+      "The bottleneck effect occurs when a random event prevents the majority of individuals from contributing to the next generation.",
+      "In the founder effect, alleles carried by the founders are determined by environmental suitability rather than chance.",
+      "When there is no migration between populations, they tend to become more genetically divergent over time."
+    ],
+    "explanation": "Correct Choices:\n- 'Continual gene flow between two populations reduces genetic divergence and makes them more similar over time.' Gene flow involves the exchange of alleles between populations. Continual mixing makes their gene pools increasingly similar and counteracts divergence.\n- 'Genetic drift is more likely to have a significant, noticeable effect in small populations.' In small populations, random sampling errors can easily cause alleles to be lost or fixed by chance alone.\n- 'The bottleneck effect occurs when a random event prevents the majority of individuals from contributing to the next generation.' A catastrophic bottleneck randomly decimates a population, leaving a small group of survivors whose allele frequencies are a random subset of the original population.\n- 'When there is no migration between populations, they tend to become more genetically divergent over time.' Without gene flow to share alleles, isolated populations accumulate distinct mutations and undergo independent selection, causing them to diverge.\n\nIncorrect Choices:\n- 'Genetic drift changes allele frequencies due to environmental selection pressures favoring specific phenotypes.' False because genetic drift changes allele frequencies purely by chance, not by selection.\n- 'In the founder effect, alleles carried by the founders are determined by environmental suitability rather than chance.' In the founder effect, the alleles carried by the founding members of a new colony are determined by random chance, not environmental suitability."
+  },
+  {
+    "section": "5.2",
+    "title": "How Populations Evolve",
+    "t": "sa",
+    "q": "To achieve adaptation of a population to its biotic and abiotic environment, which of the following conditions must be met according to the notes? (Select all that apply.)",
+    "correct": [
+      "Variation: The members of the population must differ from one another.",
+      "Inheritance: Many of the differences between individuals must be heritable genetic differences.",
+      "Differential adaptiveness: Some phenotypic differences must affect the survivability of the individuals.",
+      "Differential reproduction: Some phenotypic differences must affect the likelihood of successful reproduction."
+    ],
+    "opts": [
+      "Variation: The members of the population must differ from one another.",
+      "Inheritance: Many of the differences between individuals must be heritable genetic differences.",
+      "Environmental constancy: The abiotic environment must remain completely unchanged for multiple generations.",
+      "Differential adaptiveness: Some phenotypic differences must affect the survivability of the individuals.",
+      "Differential reproduction: Some phenotypic differences must affect the likelihood of successful reproduction.",
+      "Mutational direction: Mutations must be direct responses to environmental pressures rather than occurring randomly."
+    ],
+    "explanation": "Correct Choices:\n- 'Variation: The members of the population must differ from one another.' Variation is the necessary raw material; if all individuals were genetically identical, selection would have no differences to act upon.\n- 'Inheritance: Many of the differences between individuals must be heritable genetic differences.' Traits must be passed to offspring to change the genetic composition of the population over time.\n- 'Differential adaptiveness: Some phenotypic differences must affect the survivability of the individuals.' Differences must affect how well an organism survives in its environment.\n- 'Differential reproduction: Some phenotypic differences must affect the likelihood of successful reproduction.' Favorable traits must increase reproductive success (fitness) so they become more common in the gene pool.\n\nIncorrect Choices:\n- 'Environmental constancy: The abiotic environment must remain completely unchanged for multiple generations.' Constant environments are not required for adaptation; in fact, changing environments often drive adaptive evolution.\n- 'Mutational direction: Mutations must be direct responses to environmental pressures rather than occurring randomly.' Mutations are random changes in DNA and are not directed by the environment or the organism's needs."
+  },
+  {
+    "section": "5.3",
+    "title": "Speciation & Macroevolution",
+    "t": "mc",
+    "q": "A taxonomist uses DNA sequencing to identify a monophyletic branch on an evolutionary tree, representing all descendants of a common ancestor. Which species concept is this taxonomist applying?",
+    "a": 2,
+    "opts": [
+      "The Morphological Species Concept",
+      "The Biological Species Concept",
+      "The Phylogenetic Species Concept",
+      "The Evolutionary Species Concept"
+    ],
+    "explanation": "Correct Answer: The Phylogenetic Species Concept.\n\nExplanation: The phylogenetic species concept defines a species as the smallest monophyletic group on a phylogenetic tree (a branch representing a common ancestor and all of its descendants). This concept relies heavily on comparing DNA sequence data to identify distinct lineages.\n\nIncorrect Choices:\n- The Morphological Species Concept defines species based on shared diagnostic anatomical or physical traits, not monophyletic branches in DNA sequencing.\n- The Biological Species Concept defines species based on reproductive isolation (whether populations breed only among themselves and cannot produce fertile offspring with others), which cannot be directly determined from DNA branches alone.\n- The Evolutionary Species Concept defines species based on shared, distinct evolutionary pathways using morphological traits, rather than DNA-based monophyletic branches."
+  },
+  {
+    "section": "5.3",
+    "title": "Speciation & Macroevolution",
+    "t": "mc",
+    "q": "In plants, autoploidy is a type of sympatric speciation that occurs when a diploid plant produces diploid gametes due to nondisjunction. What happens if this diploid gamete fuses with a normal haploid gamete?",
+    "a": 1,
+    "opts": [
+      "A fertile tetraploid plant is produced, which can immediately self-pollinate and establish a brand new species within the habitat.",
+      "A sterile triploid plant is produced, which cannot successfully produce offspring because chromosomes cannot pair during meiosis.",
+      "A viable diploid hybrid is produced, which immediately reproduces back with the parent population via assortative mating patterns.",
+      "A haploid plant is produced, which exhibits extreme developmental mutations and undergoes rapid adaptive radiation in the wild."
+    ],
+    "explanation": "Correct Answer: A sterile triploid plant is produced, which cannot successfully produce offspring because chromosomes cannot pair during meiosis.\n\nExplanation: If a diploid ($2n$) gamete (resulting from meiotic nondisjunction) fuses with a normal haploid ($n$) gamete, a triploid ($3n$) offspring is produced. Triploid plants are sterile because their three sets of chromosomes cannot pair up properly during synapsis in meiosis, leading to inviable gametes.\n\nIncorrect Choices:\n- A fertile tetraploid plant is produced...: A tetraploid ($4n$) plant is produced by the fusion of two diploid ($2n$) gametes, not a diploid and a haploid gamete.\n- A viable diploid hybrid is produced...: The fusion of a $2n$ gamete and an $n$ gamete results in a $3n$ (triploid) zygote, not a diploid ($2n$) hybrid.\n- A haploid plant is produced...: A haploid ($n$) plant is not formed, and the triploid offspring cannot undergo adaptive radiation due to its sterility."
+  },
+  {
+    "section": "5.3",
+    "title": "Speciation & Macroevolution",
+    "t": "mc",
+    "q": "Which of the following prezygotic isolating mechanisms is correctly paired with its description?",
+    "a": 3,
+    "opts": [
+      "Temporal isolation: physical incompatibility between reproductive organs prevents successful mating between populations.",
+      "Mechanical isolation: courtship rituals differ, preventing females from recognizing males as potential mates.",
+      "Gamete isolation: physical incompatibility between the reproductive organs of two species prevents copulation.",
+      "Behavioral isolation: unique courtship patterns and rituals are required for mate recognition between species."
+    ],
+    "explanation": "Correct Answer: Behavioral isolation: unique courtship patterns and rituals are required for mate recognition between species.\n\nExplanation: Behavioral isolation is a prezygotic barrier where species-specific courtship rituals, mating calls, or pheromones are required for mate recognition. If these behaviors are not performed correctly, mating attempts do not occur.\n\nIncorrect Choices:\n- Temporal isolation: physical incompatibility between reproductive organs...: This describes mechanical isolation, not temporal isolation.\n- Mechanical isolation: courtship rituals differ...: This description is incorrect because it describes behavioral isolation, not mechanical isolation.\n- Gamete isolation: physical incompatibility...: This description is incorrect because it describes mechanical isolation, not gamete isolation."
+  },
+  {
+    "section": "5.3",
+    "title": "Speciation & Macroevolution",
+    "t": "mc",
+    "q": "Which of the following developmental genes is correctly paired with the anatomical structure whose development it regulates?",
+    "a": 2,
+    "opts": [
+      "Pax6: orchestrates the overall developmental body plan and segment identity in all animals.",
+      "Hox: regulates the development of the visual system and eye structure in all animal groups.",
+      "Tbx5: regulates the development of limbs, such as arms, wings, or legs in vertebrate species.",
+      "Tbx5: regulates the development of the visual system and eye structure in all animal groups."
+    ],
+    "explanation": "Correct Answer: Tbx5: regulates the development of limbs, such as arms, wings, or legs in vertebrate species.\n\nExplanation: The notes state that the developmental gene Tbx5 is responsible for regulating limb development (such as wings, arms, or legs) in vertebrates.\n\nIncorrect Choices:\n- Pax6: orchestrates the overall developmental body plan...: Pax6 is responsible for eye development, not the overall body plan.\n- Hox: regulates the development of the visual system...: Hox genes orchestrate the overall developmental body plan and segment identity in animals, not eye development specifically.\n- Tbx5: regulates the development of the visual system...: Tbx5 regulates limb development, not eye development (which is regulated by Pax6)."
+  },
+  {
+    "section": "5.3",
+    "title": "Speciation & Macroevolution",
+    "t": "mc",
+    "q": "Which of the following is the best example of convergent evolution, as described in the notes?",
+    "a": 2,
+    "opts": [
+      "The variation in beak shapes among the thirteen species of Galapagos finches derived from a single ancestral mainland finch species.",
+      "The homologous skeletal structures of vertebrate forelimbs in humans, whales, and bats, which clearly indicate their common ancestry.",
+      "Cichlid fish species in two separate African lakes that are morphologically similar but genetically more related to species in their own lake.",
+      "The development of different dog breeds, such as Chihuahuas and Great Danes, from the ancestral gray wolf population via artificial selection."
+    ],
+    "explanation": "Correct Answer: Cichlid fish species in two separate African lakes that are morphologically similar but genetically more related to species in their own lake.\n\nExplanation: Convergent evolution occurs when unrelated species independently evolve similar (analogous) traits because they adapt to similar environmental niches. Cichlid fish in separate African lakes look very similar morphologically due to similar feeding niches, but genetic analysis shows they are more closely related to different-looking fish within their own lake, proving they evolved their similarities independently.\n\nIncorrect Choices:\n- The variation in beak shapes among the thirteen species...: The beak shapes of Galapagos finches are an example of adaptive radiation (divergent evolution) from a single common ancestor.\n- The homologous skeletal structures of vertebrate forelimbs...: Homologous forelimbs in vertebrates are structural similarities due to shared common ancestry (divergent evolution), not convergent evolution.\n- The development of different dog breeds...: Dog breed diversification is a result of human-directed artificial selection (divergent breeding), not convergent evolution."
+  },
+  {
+    "section": "5.3",
+    "title": "Speciation & Macroevolution",
+    "t": "mc",
+    "q": "According to the punctuated equilibrium model of macroevolution, how do new species appear and change over geological time?",
+    "a": 1,
+    "opts": [
+      "Species evolve continuously and gradually over millions of years, making it difficult to pinpoint exactly when speciation occurs.",
+      "Species appear relatively suddenly in the fossil record, followed by long periods of phenotypic stasis with little or no change.",
+      "Species undergo constant and rapid genomic mutations driven by artificial selection, leading to immediate changes in every generation.",
+      "Species remain in a constant state of geographical migration, preventing reproductive isolation and eliminating extinction events."
+    ],
+    "explanation": "Correct Answer: Species appear relatively suddenly in the fossil record, followed by long periods of phenotypic stasis with little or no change.\n\nExplanation: The punctuated equilibrium model states that species remain in a state of phenotypic stasis (equilibrium/no change) for long geological periods, which are then punctuated by relatively sudden bursts of speciation (rapid appearance of new species in the fossil record).\n\nIncorrect Choices:\n- Species evolve continuously and gradually...: The gradual, continuous evolution of species over millions of years describes the gradualistic model, not punctuated equilibrium.\n- Species undergo constant and rapid genomic mutations...: Punctuated equilibrium is a model of natural macroevolution, not human-directed artificial selection, and does not involve rapid mutations in every single generation.\n- Species remain in a constant state of geographical migration...: Constant geographic migration preventing isolation would inhibit speciation, whereas punctuated equilibrium requires speciation events."
+  },
+  {
+    "section": "5.3",
+    "title": "Speciation & Macroevolution",
+    "t": "sa",
+    "q": "Which of the following are examples of prezygotic isolating mechanisms described in the notes? (Select all that apply.)",
+    "correct": [
+      "Habitat isolation: species occupy different habitats within the same general region.",
+      "Temporal isolation: species reproduce at different times of the day, season, or year.",
+      "Behavioral isolation: courtship patterns and signals for recognizing mates differ.",
+      "Mechanical isolation: incompatible genitalia or floral structures prevent successful pollination or mating."
+    ],
+    "opts": [
+      "Habitat isolation: species occupy different habitats within the same general region.",
+      "Hybrid sterility: hybrid offspring develop into sterile adults, such as a mule.",
+      "Temporal isolation: species reproduce at different times of the day, season, or year.",
+      "Behavioral isolation: courtship patterns and signals for recognizing mates differ.",
+      "Hybrid inviability: the hybrid zygote is not viable and dies before or shortly after birth.",
+      "Mechanical isolation: incompatible genitalia or floral structures prevent successful pollination or mating."
+    ],
+    "explanation": "Correct Choices:\n- 'Habitat isolation: species occupy different habitats within the same general region.' Prevents species from encountering each other.\n- 'Temporal isolation: species reproduce at different times of the day, season, or year.' Prevents mating attempts because breeding periods do not overlap.\n- 'Behavioral isolation: courtship patterns and signals for recognizing mates differ.' Courtship rituals must match for mating to occur.\n- 'Mechanical isolation: incompatible genitalia or floral structures prevent successful pollination or mating.' Physical differences prevent copulation or pollination.\n\nIncorrect Choices:\n- 'Hybrid sterility: hybrid offspring develop into sterile adults, such as a mule.' This is a postzygotic barrier because it occurs after a zygote has formed and developed.\n- 'Hybrid inviability: the hybrid zygote is not viable and dies before or shortly after birth.' This is a postzygotic barrier because it occurs after fertilization."
+  },
+  {
+    "section": "5.3",
+    "title": "Speciation & Macroevolution",
+    "t": "sa",
+    "q": "Based on the notes regarding the evolution of the horse (Equus) and macroevolution, which of the following statements are correct? (Select all that apply.)",
+    "correct": [
+      "Macroevolution is not goal-oriented; the evolution of the horse is complex and includes many ancestral branches.",
+      "The exact, direct ancestor of the modern horse (Equus) is currently unknown.",
+      "Each ancestral horse species was adapted to its own specific environment rather than being a step toward a goal.",
+      "Speciation, diversification, and extinction are common occurrences recorded in the fossil record."
+    ],
+    "opts": [
+      "The evolutionary lineage of the horse is a simple, straight line leading directly to the modern Equus.",
+      "Macroevolution is not goal-oriented; the evolution of the horse is complex and includes many ancestral branches.",
+      "The exact, direct ancestor of the modern horse (Equus) is currently unknown.",
+      "Each ancestral horse species was adapted to its own specific environment rather than being a step toward a goal.",
+      "Speciation, diversification, and extinction are common occurrences recorded in the fossil record.",
+      "Horse evolution shows no physical changes, with body size and toe number remaining constant over time."
+    ],
+    "explanation": "Correct Choices:\n- 'Macroevolution is not goal-oriented; the evolution of the horse is complex and includes many ancestral branches.' The fossil record shows a highly branched evolutionary tree rather than a straight line, showing that evolution did not have the modern horse as a pre-planned 'goal'.\n- 'The exact, direct ancestor of the modern horse (Equus) is currently unknown.' The horse lineage is complicated by many ancestors, and the direct ancestral species of Equus has not been identified.\n- 'Each ancestral horse species was adapted to its own specific environment rather than being a step toward a goal.' Every fossil horse species was a fully functional, adapted organism in its ecosystem.\n- 'Speciation, diversification, and extinction are common occurrences recorded in the fossil record.' The horse lineage illustrates a dynamic history of speciation, branching, and many extinct lineages.\n\nIncorrect Choices:\n- 'The evolutionary lineage of the horse is a simple, straight line leading directly to the modern Equus.' Fossil evidence shows that the horse lineage is highly branched and complex, not a simple straight line.\n- 'Horse evolution shows no physical changes, with body size and toe number remaining constant over time.' Fossil horses show significant trends, including an increase in overall size, a reduction in toe number (from four toes to a single hoof), and changes in tooth structure for grazing."
+  },
+  {
+    "section": "5.4",
+    "title": "Principles of Taxonomy & Systematics",
+    "t": "mc",
+    "q": "In Linnaeus's system of binomial nomenclature, what does the second word of a scientific name represent, and how does classification change as you move up from species to domain?",
+    "a": 1,
+    "opts": [
+      "It represents the genus name, and the categories become increasingly specific and less inclusive as you move up.",
+      "It represents the specific epithet, and the categories become increasingly general and more inclusive as you move up.",
+      "It represents the family category, and the categories become more inclusive but restrict the number of kingdoms.",
+      "It represents the domain name, and the categories become more specific and exclude ancestral characteristics."
+    ],
+    "explanation": "Correct Answer: It represents the specific epithet, and the categories become increasingly general and more inclusive as you move up.\n\nExplanation: In binomial nomenclature, the first word is the genus name and the second word is the specific epithet. Moving up the classification hierarchy (species -> genus -> family -> order -> class -> phylum -> kingdom -> domain) makes the categories broader, more general, and more inclusive of different species.\n\nIncorrect Choices:\n- It represents the genus name, and the categories become increasingly specific...: The second word is the specific epithet, not the genus, and moving up makes categories more general and inclusive (not specific and less inclusive).\n- It represents the family category, and the categories become more inclusive but restrict the number of kingdoms...: The second word is the specific epithet, not the family, and moving up does not restrict the number of kingdoms.\n- It represents the domain name, and the categories become more specific...: The second word represents the specific epithet, and categories become more general and inclusive as you move up, not more specific."
+  },
+  {
+    "section": "5.4",
+    "title": "Principles of Taxonomy & Systematics",
+    "t": "mc",
+    "q": "The Consortium for the Barcode of Life (CBOL) proposes the use of DNA barcoding to identify species. Which of the following best describes this technology?",
+    "a": 1,
+    "opts": [
+      "It uses the entire sequenced genome of an organism to map out its absolute developmental lineage back to the origin of life.",
+      "It compares short, standardized fragments of DNA sequences from an unknown organism against a large database of known species.",
+      "It measures the rate of neutral mutations in non-adaptive genes to function as a molecular clock for geological dating.",
+      "It utilizes immunological cross-reactions to determine the percentage of similar proteins in two unrelated species."
+    ],
+    "explanation": "Correct Answer: It compares short, standardized fragments of DNA sequences from an unknown organism against a large database of known species.\n\nExplanation: DNA barcoding uses short, highly standardized segments of DNA from a specific gene region to identify an unknown organism by comparing its sequence against a reference library of known species, behaving like a barcode scanner in a supermarket.\n\nIncorrect Choices:\n- It uses the entire sequenced genome...: DNA barcoding sequences only a short, specific gene fragment, not the entire genome, nor does it map out the absolute developmental lineage of the organism.\n- It measures the rate of neutral mutations...: Using neutral mutation rates to date divergence refers to a molecular clock, not DNA barcoding.\n- It utilizes immunological cross-reactions...: Using immunological cross-reactions measures protein similarity using antibodies, which is a different method than DNA sequencing."
+  },
+  {
+    "section": "5.4",
+    "title": "Principles of Taxonomy & Systematics",
+    "t": "mc",
+    "q": "Which of the following characteristics is a distinguishing feature of the Domain Archaea, separating it from Domain Bacteria and Domain Eukarya?",
+    "a": 1,
+    "opts": [
+      "They are eukaryotic multicellular organisms that contain a membrane-bounded nucleus and reproduce through complex sexual mechanisms.",
+      "They are prokaryotic unicellular organisms with cell walls that differ from the peptidoglycan cell walls of bacteria, often living in extreme environments.",
+      "They are large photosynthetic prokaryotes like cyanobacteria that play a critical role in global chemical cycling and carbon fixation in aquatic ecosystems.",
+      "They are obligate parasitic organisms that rely entirely on eukaryotic host cells to replicate and carry out essential metabolic processes in the host."
+    ],
+    "explanation": "Correct Answer: They are prokaryotic unicellular organisms with cell walls that differ from the peptidoglycan cell walls of bacteria, often living in extreme environments.\n\nExplanation: Archaea are prokaryotic, unicellular organisms that reproduce asexually. They are distinguished from bacteria by having cell walls that do not contain peptidoglycan and membrane lipids that allow them to inhabit extreme environments (extremophiles like halophiles and thermoacidophiles).\n\nIncorrect Choices:\n- They are eukaryotic multicellular organisms...: Eukaryotic multicellular organisms with membrane-bounded nuclei belong to Domain Eukarya, not Domain Archaea.\n- They are large photosynthetic prokaryotes like cyanobacteria...: Cyanobacteria are large photosynthetic prokaryotes that belong to Domain Bacteria, not Archaea.\n- They are obligate parasitic organisms...: Obligate intracellular parasites that rely on host replication describe viruses or specific bacterial pathogens, not a distinguishing characteristic of Archaea."
+  },
+  {
+    "section": "5.4",
+    "title": "Principles of Taxonomy & Systematics",
+    "t": "mc",
+    "q": "How do systematists distinguish between ancestral and derived traits when classifying organisms?",
+    "a": 0,
+    "opts": [
+      "Ancestral traits are present in all members of a group and in the common ancestor, whereas derived traits are present in only some members and were absent in the common ancestor.",
+      "Ancestral traits are found only in fossil records and are extinct, whereas derived traits are found only in living species and are constantly evolving.",
+      "Ancestral traits result from convergent evolution and represent analogous structures, whereas derived traits result from divergent evolution and represent homologous structures.",
+      "Ancestral traits are coded by DNA base-pair sequences, whereas derived traits are determined solely by environmental influences and behavioral characteristics."
+    ],
+    "explanation": "Correct Answer: Ancestral traits are present in all members of a group and in the common ancestor, whereas derived traits are present in only some members and were absent in the common ancestor.\n\nExplanation: An ancestral trait is a primitive character that was inherited from a common ancestor and is shared by all members of a clade. A derived trait is an evolutionary novelty that arose within the group and is present only in some members, having been absent in the common ancestor of the clade.\n\nIncorrect Choices:\n- Ancestral traits are found only in fossil records...: Ancestral traits are not restricted to extinct fossils, nor are derived traits restricted to living organisms; both types of traits occur in both fossil and living species.\n- Ancestral traits result from convergent evolution...: Both ancestral and derived traits represent homologous structures (similar due to common descent); they do not correspond to homologous vs. analogous structures.\n- Ancestral traits are coded by DNA base-pair sequences...: Both ancestral and derived traits are genetically determined and coded by DNA; they are not separated by genetic vs. environmental coding."
+  },
+  {
+    "section": "5.4",
+    "title": "Principles of Taxonomy & Systematics",
+    "t": "mc",
+    "q": "What is the principle of parsimony, and how is it used by cladists to construct cladograms?",
+    "a": 1,
+    "opts": [
+      "It states that the cladogram with the largest number of evolutionary steps is the most accurate representation of genetic history.",
+      "It states that the cladogram requiring the fewest assumptions or the minimum number of evolutionary changes is the most logical and best hypothesis.",
+      "It states that organisms with similar morphological features should be placed in the same clade regardless of their genetic divergence.",
+      "It states that mutation rates must remain constant over time to allow the estimation of divergence times between related groups."
+    ],
+    "explanation": "Correct Answer: It states that the cladogram requiring the fewest assumptions or the minimum number of evolutionary changes is the most logical and best hypothesis.\n\nExplanation: Cladistics relies on the principle of parsimony (Occam's razor), which dictates that the cladogram requiring the fewest evolutionary steps (the fewest character changes or transitions) is the most parsimonious and therefore represents the most logical evolutionary hypothesis.\n\nIncorrect Choices:\n- It states that the cladogram with the largest number of evolutionary steps...: Parsimony favors the cladogram with the minimum number of changes, not the largest number of steps.\n- It states that organisms with similar morphological features should be placed...: Grouping organisms solely by morphological similarity regardless of genetic divergence describes phenetics, which can be misled by convergent structures.\n- It states that mutation rates must remain constant...: Constant mutation rates over time is the defining assumption of a molecular clock, not the principle of parsimony."
+  },
+  {
+    "section": "5.4",
+    "title": "Principles of Taxonomy & Systematics",
+    "t": "mc",
+    "q": "Which of the following assumptions is necessary when using a molecular clock to estimate the time of divergence between two species?",
+    "a": 1,
+    "opts": [
+      "The proteins compared must have different structures and functions that change depending on the local environmental selection pressures.",
+      "The nucleotide sequences used must be neutral (non-adaptive) and mutate at a relatively constant rate over time across lineages.",
+      "The species must be reproducing asexually to prevent genetic recombination from altering overall genomic mutation rates in the population.",
+      "The fossil record of the common ancestor must be completely intact and show no signs of convergent evolution or analogous structures."
+    ],
+    "explanation": "Correct Answer: The nucleotide sequences used must be neutral (non-adaptive) and mutate at a relatively constant rate over time across lineages.\n\nExplanation: A molecular clock counts sequence differences to estimate the time since two species diverged from a common ancestor. For this estimate to be reliable, the nucleotide sequences compared must be neutral (not subject to natural selection) and mutate at a constant, steady rate over time.\n\nIncorrect Choices:\n- The proteins compared must have different structures...: Proteins under active environmental selection do not accumulate mutations at a steady rate, making them poor choices for a molecular clock.\n- The species must be reproducing asexually...: Molecular clocks are widely used for sexually reproducing species; asexual reproduction is not required.\n- The fossil record of the common ancestor...: An intact fossil record of the common ancestor is not required to use a molecular clock (though fossils are helpful to calibrate the clock's rate)."
+  },
+  {
+    "section": "5.4",
+    "title": "Principles of Taxonomy & Systematics",
+    "t": "sa",
+    "q": "According to the Three Domain System described in the notes, which of the following statements are true? (Select all that apply.)",
+    "correct": [
+      "Domain Bacteria consists of prokaryotic unicellular organisms that reproduce asexually.",
+      "Most bacteria are heterotrophic and play an important role in chemical cycling within ecosystems.",
+      "Domain Eukarya is divided into four kingdoms: Protista, Fungi, Plantae, and Animalia.",
+      "Cyanobacteria are large photosynthetic prokaryotes belonging to the Domain Bacteria."
+    ],
+    "opts": [
+      "Domain Bacteria consists of prokaryotic unicellular organisms that reproduce asexually.",
+      "Domain Archaea includes organisms that are eukaryotic, unicellular, and live in extreme environments.",
+      "Most bacteria are heterotrophic and play an important role in chemical cycling within ecosystems.",
+      "Domain Eukarya is divided into four kingdoms: Protista, Fungi, Plantae, and Animalia.",
+      "Domain Archaea has a diverse cell wall structure that is biochemically identical to that of Domain Bacteria.",
+      "Cyanobacteria are large photosynthetic prokaryotes belonging to the Domain Bacteria."
+    ],
+    "explanation": "Correct Choices:\n- 'Domain Bacteria consists of prokaryotic unicellular organisms that reproduce asexually.' Bacteria are single-celled prokaryotes that replicate via asexual binary fission.\n- 'Most bacteria are heterotrophic and play an important role in chemical cycling within ecosystems.' Most bacteria break down organic materials, acting as decomposers to recycle essential chemical elements.\n- 'Domain Eukarya is divided into four kingdoms: Protista, Fungi, Plantae, and Animalia.' Eukarya contains these four distinct kingdoms of nucleated organisms.\n- 'Cyanobacteria are large photosynthetic prokaryotes belonging to the Domain Bacteria.' Cyanobacteria are prokaryotes that carry out photosynthesis and belong to the bacterial domain.\n\nIncorrect Choices:\n- 'Domain Archaea includes organisms that are eukaryotic, unicellular, and live in extreme environments.' Archaea are prokaryotic, not eukaryotic.\n- 'Domain Archaea has a diverse cell wall structure that is biochemically identical to that of Domain Bacteria.' Archaea cell walls do not contain peptidoglycan and are biochemically distinct from bacterial cell walls."
+  },
+  {
+    "section": "5.4",
+    "title": "Principles of Taxonomy & Systematics",
+    "t": "sa",
+    "q": "Which of the following methods or traits can systematists use to trace the phylogeny of a group? (Select all that apply.)",
+    "correct": [
+      "Homologous structures, which are anatomical features that reflect common descent.",
+      "Behavioral traits, such as patterns of parental care and species-specific mating calls.",
+      "Molecular traits, including comparison of DNA base-pair and amino acid sequences.",
+      "Immunological techniques that compare cross-reactions of proteins to judge relationships."
+    ],
+    "opts": [
+      "Homologous structures, which are anatomical features that reflect common descent.",
+      "Analogous structures, which reflect common ancestry because they have the same function.",
+      "Behavioral traits, such as patterns of parental care and species-specific mating calls.",
+      "Molecular traits, including comparison of DNA base-pair and amino acid sequences.",
+      "Immunological techniques that compare cross-reactions of proteins to judge relationships.",
+      "Acquired characteristics that organisms develop in response to environmental needs."
+    ],
+    "explanation": "Correct Choices:\n- 'Homologous structures, which are anatomical features that reflect common descent.' Sharing homologous characters is the primary anatomical evidence of evolutionary relationships.\n- 'Behavioral traits, such as patterns of parental care and species-specific mating calls.' Behavioral patterns have a genetic basis and can be compared to evaluate descent.\n- 'Molecular traits, including comparison of DNA base-pair and amino acid sequences.' Direct sequence comparisons provide high-resolution data on genetic relatedness.\n- 'Immunological techniques that compare cross-reactions of proteins to judge relationships.' Measuring the cross-reaction of antibodies with proteins helps estimate biochemical similarity and phylogenetic distance.\n\nIncorrect Choices:\n- 'Analogous structures, which reflect common ancestry because they have the same function.' Analogous structures result from convergent evolution in similar environments, not common descent, and can mislead systematics.\n- 'Acquired characteristics that organisms develop in response to environmental needs.' Acquired traits are not heritable and do not reflect evolutionary lineage or phylogeny."
+  }
+]

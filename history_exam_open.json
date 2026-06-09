@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Industrialization, Ideology, and the Expansion of Empire",
+    "prompt": "Evaluate the extent to which the Industrial Revolution caused and justified nineteenth-century imperialism. In a well-organized essay, develop a defensible thesis and explain a clear chain of causation connecting developments from Unit 5 to events in Unit 7. Use specific evidence about industrial production, raw materials, markets, transportation or military technology, and at least two imperial regions or cases, such as Africa and the Berlin Conference, British India and the Sepoy Rebellion, China and the Opium Wars, the Ottoman Empire or Egypt, Persia, or Meiji Japan. You must accurately use and analyze at least three documents from the final documents packet, including Document A (Adam Smith, The Wealth of Nations), Document B (Berlin Conference agreement), and either Document I (The Real Trouble Will Come with the 'Wake') or Document J (William Graham Sumner on Social Darwinism). For each document, explain how its ideas, purpose, audience, point of view, or historical context support or complicate your argument. Distinguish economic motives from political, strategic, religious, and racial motives; address at least one consequence for an indigenous society; and consider a counterargument about whether industrialization alone adequately explains imperial expansion.",
+    "rubric": {
+      "totalPoints": 15,
+      "categories": [
+        {
+          "category": "Thesis and Argument",
+          "maxPoints": 3,
+          "scoreBands": {
+            "3": "Presents a precise, defensible thesis that directly evaluates the extent to which industrialization caused and justified imperialism; establishes a coherent line of reasoning and sustains it throughout the response.",
+            "2": "Presents a defensible thesis and generally coherent argument, but the evaluation of extent, causation, or justification is uneven or only partly sustained.",
+            "1": "Presents a vague, descriptive, or partially defensible claim; reasoning is inconsistent or mostly implied.",
+            "0": "Provides no defensible thesis or relevant argument."
+          }
+        },
+        {
+          "category": "Document Evidence and Analysis",
+          "maxPoints": 4,
+          "scoreBands": {
+            "4": "Accurately uses Documents A, B, and I or J as evidence; explains how each document's content and at least one sourcing feature, such as purpose, audience, point of view, or context, supports or complicates the argument.",
+            "3": "Uses all three required documents accurately, with meaningful analysis of at least two documents; sourcing analysis may be uneven.",
+            "2": "Uses two required documents as evidence or uses three mostly through summary with limited analysis.",
+            "1": "Mentions or inaccurately summarizes only one required document; connections to the argument are weak.",
+            "0": "Does not use relevant evidence from the required documents."
+          }
+        },
+        {
+          "category": "Specific Historical Evidence",
+          "maxPoints": 3,
+          "scoreBands": {
+            "3": "Integrates multiple accurate examples from Units 5 and 7, including industrial developments, motives for imperialism, at least two imperial cases or regions, and a consequence for an indigenous society.",
+            "2": "Provides several accurate examples from both units, but one required area is underdeveloped or evidence is not consistently tied to the argument.",
+            "1": "Provides limited, general, or partly inaccurate evidence from only one unit or one imperial case.",
+            "0": "Provides no accurate, relevant historical evidence beyond document paraphrase."
+          }
+        },
+        {
+          "category": "Historical Reasoning and Complexity",
+          "maxPoints": 3,
+          "scoreBands": {
+            "3": "Clearly explains causal links, distinguishes economic motives from other motives, evaluates relative importance, and addresses a plausible counterargument or important contradiction between imperial rhetoric and imperial practice.",
+            "2": "Uses causation and recognizes multiple motives or a counterargument, but evaluation or complexity is incomplete.",
+            "1": "Shows simple cause-and-effect reasoning or lists multiple factors without explaining their relationships.",
+            "0": "Shows no meaningful historical reasoning."
+          }
+        },
+        {
+          "category": "Organization and Historical Communication",
+          "maxPoints": 2,
+          "scoreBands": {
+            "2": "Essay is logically organized, uses clear topic sentences and transitions, accurately employs historical vocabulary, and directly connects evidence to claims.",
+            "1": "Essay is understandable but has weak organization, repetitive explanation, or occasional imprecision.",
+            "0": "Essay is disorganized, unclear, or too incomplete to communicate an argument."
+          }
+        }
+      ]
+    },
+    "modelAnswer": "Industrialization was a major cause of nineteenth-century imperialism because it increased European demand for raw materials and markets while giving industrial states the transportation, communications, weapons, and financial power needed to dominate distant societies. However, industrialization does not fully explain imperialism. National rivalry, strategic concerns, missionary ambitions, and racial ideologies also shaped where imperial powers expanded and how they defended conquest.\n\nThe Industrial Revolution transformed production first through coal, steam power, mechanized textiles, and iron and later through steel, electricity, chemicals, and petroleum. Factory owners needed reliable supplies of cotton, rubber, palm oil, metals, and other resources, while mass production encouraged the search for overseas customers. Steamships, railroads, telegraphs, and modern weapons made conquest and administration faster and less costly. Document A, Adam Smith's The Wealth of Nations, reflects the growing importance of markets, competition, specialization, and commercial exchange. Although Smith did not simply demand colonial conquest, imperial leaders and business interests could adapt economic arguments about trade and wealth to support access to foreign resources and consumers. The document's late-eighteenth-century context helps show the intellectual foundation of the industrial capitalist system that later imperialism served.\n\nAfrica demonstrates the connection between industrial strength and imperial expansion. At the Berlin Conference, European states created rules for trade, navigation, and occupation without African representatives. Document B claims that imperial powers would protect native peoples, suppress slavery, and bring the benefits of civilization. Its diplomatic audience and official purpose make it useful evidence of how Europeans publicly justified intervention. Yet its paternalistic language also hides the conference's practical purpose: organizing European competition and legitimizing control of African territory and resources. King Leopold II's brutal exploitation of the Congo reveals the contradiction between humanitarian promises and imperial practice. Africans experienced forced labor, violence, political dispossession, economic dependency, and borders imposed without regard for existing societies.\n\nIndustrial motives also operated in Asia. Britain used its commercial and military advantages to protect the opium trade, defeat Qing China in the Opium Wars, gain treaty ports, and expand foreign spheres of influence. Document I, a political cartoon about China's 'wake,' portrays imperial powers preparing to divide or exploit China. As a visual commentary produced during intense foreign competition around 1900, it exposes strategic rivalry and the danger imperialism posed to Chinese sovereignty. In India, the British East India Company's economic control and cultural interference helped provoke the Sepoy Rebellion. After the rebellion, Britain imposed direct crown rule, showing that imperialism combined commercial interests with political and military control. Japan responded differently: Meiji leaders borrowed Western industry, education, and military organization to avoid colonization and eventually become an imperial power itself.\n\nIdeas also justified the unequal system created by industrial power. Document J applies the language of natural competition and 'survival of the fittest' to society. Sumner's point of view as a defender of competition helped naturalize inequality and resistance to reform. Similar Social Darwinist and scientific racist claims portrayed European domination as evidence of biological or civilizational superiority. Missionaries and officials added religious and humanitarian claims, while governments pursued naval bases, prestige, and strategic routes such as the Suez Canal.\n\nTherefore, industrialization was a necessary enabling force and an important economic cause of new imperialism, but it was not sufficient by itself. Industrial economies supplied the demand and means for expansion, while nationalism, geopolitical rivalry, missionary activity, and racial ideology determined imperialism's urgency, targets, and justifications. The gap between the Berlin Conference's humanitarian language and the coercion experienced in the Congo, India, and China shows that claims of civilization often concealed systems designed primarily to benefit imperial powers."
+  },
+  {
+    "title": "Nationalism and the Road from Revolution to World War I",
+    "prompt": "Assess the extent to which nationalism was both a constructive and destructive force in Europe and the wider world from the Congress of Vienna through the Treaty of Versailles. Develop a defensible thesis that traces change and continuity across Units 6, 7, and 8. Your response must compare at least two constructive outcomes of nationalism, such as independence, national unification, constitutional reform, modernization, or resistance to imperialism, with at least two destructive outcomes, such as exclusion, antisemitism, ethnic conflict, imperial rivalry, militarism, or war. Accurately use and analyze at least four documents from the final documents packet: Document D (Metternich), Document E (Herzl), Document G (map of nationalities within the Habsburg Empire), and at least one of Documents F or H (Rousseau or Locke). Explain the significance of each document's content and relevant purpose, audience, point of view, or historical context. Incorporate specific evidence about the Congress of Vienna, one independence or unification movement, imperial competition, MANIIA and the July Crisis, and the Treaty of Versailles. Address a counterargument and make a judgment about when nationalism promoted self-determination and when it undermined stability or the rights of others.",
+    "rubric": {
+      "totalPoints": 15,
+      "categories": [
+        {
+          "category": "Thesis and Argument",
+          "maxPoints": 3,
+          "scoreBands": {
+            "3": "Presents a precise, defensible thesis that evaluates nationalism as both constructive and destructive, establishes criteria for the judgment, and sustains a coherent argument across the full period.",
+            "2": "Presents a defensible thesis addressing both sides, but the evaluation, criteria, or continuity across the period is uneven.",
+            "1": "Presents a broad or one-sided claim with limited qualification or an unclear line of reasoning.",
+            "0": "Provides no defensible thesis or relevant argument."
+          }
+        },
+        {
+          "category": "Document Evidence and Analysis",
+          "maxPoints": 4,
+          "scoreBands": {
+            "4": "Accurately uses Documents D, E, G, and F or H as evidence; analyzes each document and explains relevant purpose, audience, point of view, or context for at least three documents.",
+            "3": "Uses all four required documents accurately, with meaningful analysis of at least two; other documents may be summarized more than analyzed.",
+            "2": "Uses two or three required documents as evidence or uses four primarily through description with limited connection to the argument.",
+            "1": "Mentions or inaccurately summarizes only one required document; connections to the argument are weak.",
+            "0": "Does not use relevant evidence from the required documents."
+          }
+        },
+        {
+          "category": "Specific Historical Evidence",
+          "maxPoints": 3,
+          "scoreBands": {
+            "3": "Integrates accurate evidence from Units 6, 7, and 8, including the Congress of Vienna, an independence or unification movement, imperial competition, MANIIA and the July Crisis, and the Treaty of Versailles.",
+            "2": "Provides accurate evidence from all three units but omits or underdevelops one required topic, or does not consistently connect evidence to claims.",
+            "1": "Provides limited or partly inaccurate evidence from only one or two units.",
+            "0": "Provides no accurate, relevant historical evidence beyond document paraphrase."
+          }
+        },
+        {
+          "category": "Historical Reasoning and Complexity",
+          "maxPoints": 3,
+          "scoreBands": {
+            "3": "Effectively uses comparison and change over time, explains causal relationships, distinguishes civic self-determination from exclusionary or imperial nationalism, and addresses a plausible counterargument or contradiction.",
+            "2": "Uses comparison or change over time and recognizes nationalism's mixed effects, but causal evaluation or complexity is incomplete.",
+            "1": "Lists positive and negative effects with minimal comparison, chronology, or explanation of relationships.",
+            "0": "Shows no meaningful historical reasoning."
+          }
+        },
+        {
+          "category": "Organization and Historical Communication",
+          "maxPoints": 2,
+          "scoreBands": {
+            "2": "Essay is logically organized across the period, uses clear topic sentences and transitions, accurately employs historical vocabulary, and consistently links evidence to the thesis.",
+            "1": "Essay is understandable but has weak chronology, organization, repetitive explanation, or occasional imprecision.",
+            "0": "Essay is disorganized, unclear, or too incomplete to communicate an argument."
+          }
+        }
+      ]
+    },
+    "modelAnswer": "From the Congress of Vienna to the Treaty of Versailles, nationalism was constructive when it connected popular sovereignty to self-determination, political participation, or resistance to foreign rule. It became destructive when leaders defined the nation narrowly, pursued prestige through imperial expansion, or treated ethnic minorities and rival states as threats. Nationalism therefore helped create and modernize states, but because Europe's peoples did not live within neat political borders, the same principle also destabilized multinational empires and contributed to World War I.\n\nAfter Napoleon's defeat, the Congress of Vienna attempted to restore conservative order and prevent revolution. Document D shows Metternich condemning the middle class, the press, and individuals who challenged inherited authority. His point of view as a conservative Austrian statesman explains his fear that liberalism and nationalism would weaken monarchy and the multinational Habsburg Empire. Yet Enlightenment ideas made permanent restoration difficult. Document H argues that people possess natural rights and may replace a government that threatens life, liberty, and property. Locke wrote before the nineteenth-century nationalist movements, but his defense of consent offered later revolutionaries a language for legitimate resistance. Document F similarly locates sovereignty in the collective general will. These ideas could constructively support representative government and national self-rule, though a supposed general will could also silence minorities.\n\nNationalism produced independence and unification. Toussaint L'Ouverture's struggle in Haiti and leaders such as Simon Bolivar in Latin America challenged imperial rule, even though newly independent states often remained socially divided. In Europe, Cavour's diplomacy and Garibaldi's military campaigns helped unify Italy. Bismarck used Realpolitik and wars against Denmark, Austria, and France to unify Germany under Prussian leadership. These movements created stronger states and ended some forms of foreign or dynastic control. However, unification from above did not guarantee liberal government or equality. Bismarck's nationalism strengthened an authoritarian monarchy, and the new Italian state faced regional and economic divisions.\n\nThe limits of nationalism are especially clear in central and eastern Europe. Document G's map of the Habsburg Empire shows Germans, Hungarians, Czechs, Slovaks, Croats, Serbs, Romanians, Italians, and other groups living across overlapping territories. The map demonstrates why applying one nation to one state was politically explosive. Austria-Hungary's Dual Monarchy gave Hungary greater power but did not satisfy every nationality. In the declining Ottoman Empire and the Balkans, competing national claims encouraged rebellion and drew in Russia and Austria-Hungary. Nationalism could free one people while placing another minority under a new majority.\n\nNational identity could also become exclusionary. Document E presents Herzl's argument that persistent antisemitism proved Jews needed a state of their own. His purpose was to build support for political Zionism, and his Jewish nationalist point of view reflects the discrimination highlighted by the Dreyfus Affair. Zionism offered collective security and self-determination to a persecuted people, but it also foreshadowed competing national claims over the same territory. More broadly, racial nationalism and Social Darwinism helped imperial powers portray domination as a national and civilizational mission. European states competed for colonies, strategic routes, raw materials, and prestige, while anti-imperial movements in India, China, and elsewhere used nationalism to resist foreign control.\n\nBy 1914, destructive nationalism interacted with the other causes summarized by MANIIA: militarism, alliances, nationalism, imperialism, industrialization, and assassination. Industrialization supported mass armies, rail mobilization, and the Anglo-German dreadnought race. Imperial competition deepened distrust. Alliances divided Europe into rival blocs. In the Balkans, Serbian nationalism threatened Austria-Hungary, and the assassination of Archduke Franz Ferdinand triggered the July Crisis. The assassination alone did not make a general war inevitable; mobilization plans, alliance commitments, imperial rivalry, and governments' willingness to use force turned a regional crisis into World War I.\n\nThe Treaty of Versailles tried to apply national self-determination by creating or recognizing states such as Poland, Czechoslovakia, and Yugoslavia. Yet the settlement applied the principle inconsistently. New borders still contained ethnic minorities, colonial peoples did not receive equal self-rule, and Germany faced territorial losses, military restrictions, reparations, and the war-guilt clause. A counterargument is that militarism and alliances, rather than nationalism, were the decisive causes of war. Those factors were essential, but nationalism gave them popular legitimacy and made compromise appear dishonorable or dangerous.\n\nNationalism was therefore neither inherently liberating nor inherently violent. It was most constructive when tied to consent, equal citizenship, and freedom from foreign domination. It was most destructive when tied to ethnic exclusion, imperial competition, and the belief that national greatness required military power or control over others. Its mixed legacy explains both the creation of modern nation-states and the instability that survived the peace of 1919."
+  }
+]

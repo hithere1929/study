@@ -1,0 +1,1249 @@
+[
+  {
+    "section": "5.1",
+    "title": "Chronology of Industrialization",
+    "t": "mc",
+    "q": "Which statement best distinguishes the First Industrial Revolution from the Second Industrial Revolution?",
+    "a": 1,
+    "opts": [
+      "The First centered on electricity and automobiles, while the Second centered on hand weaving.",
+      "The First, roughly 1750-1840, emphasized mechanization, coal, steam, iron, and textiles; the Second, roughly the 1850s-1914, emphasized steel, electricity, oil, chemicals, and improved communication.",
+      "The First occurred only in Asia, while the Second occurred only in Europe.",
+      "The two revolutions used identical technologies and differed only in their dates."
+    ],
+    "explanation": "The First Industrial Revolution transformed production through mechanized textiles, coal, steam power, and iron. The Second built on that base with inexpensive steel, electricity, petroleum, chemical industries, and new transportation and communication systems. It was an improvement and expansion of industrial methods, not a repetition of the same technology."
+  },
+  {
+    "section": "5.1",
+    "title": "Agriculture to Industry",
+    "t": "mc",
+    "q": "Why is the Industrial Revolution described as a shift from an agricultural economy to an industrial economy?",
+    "a": 2,
+    "opts": [
+      "European governments outlawed farming and required everyone to work in mines.",
+      "Agriculture disappeared as soon as the steam engine was invented.",
+      "Machine-powered manufacturing and wage labor became increasingly important, while a smaller share of workers was needed to produce food.",
+      "Industry remained confined to rural homes and had no effect on cities."
+    ],
+    "explanation": "Agricultural improvements allowed fewer farmers to feed more people, while factories created new wage-paying jobs and mass-produced goods. Farming did not disappear, but manufacturing became a central source of employment, investment, and national wealth. This economic shift also accelerated urbanization."
+  },
+  {
+    "section": "5.1",
+    "title": "Second Agricultural Revolution",
+    "t": "sa",
+    "q": "Which developments belonged to the Second Agricultural Revolution described in the Unit 5 notes? (Select all that apply.)",
+    "correct": [
+      "Dutch farmers used dikes, larger fields, and fertilization.",
+      "British farmers experimented with soil mixing and crop rotation.",
+      "Turnips and clover helped maintain soil fertility and feed livestock.",
+      "Jethro Tull promoted more effective planting with the seed drill."
+    ],
+    "opts": [
+      "Dutch farmers used dikes, larger fields, and fertilization.",
+      "British farmers experimented with soil mixing and crop rotation.",
+      "Turnips and clover helped maintain soil fertility and feed livestock.",
+      "Jethro Tull promoted more effective planting with the seed drill.",
+      "Farmers abandoned all tools and returned to hand scattering seed.",
+      "Governments permanently required one-third of every field to remain fallow."
+    ],
+    "explanation": "The agricultural transformation combined Dutch land-management practices with British experiments in crop rotation, soil improvement, and more precise planting. Turnips and clover reduced the need for fallow land and supported livestock. Returning to less efficient sowing or permanently preserving the old fallow system would have reduced, not increased, output."
+  },
+  {
+    "section": "5.1",
+    "title": "Crop Rotation",
+    "t": "mc",
+    "q": "How did rotating crops such as turnips and clover help increase agricultural production?",
+    "a": 0,
+    "opts": [
+      "It restored nutrients, reduced fallow periods, and provided livestock fodder.",
+      "It converted coal directly into fertilizer.",
+      "It eliminated the need for land, water, and human labor.",
+      "It made every crop mature in a single day."
+    ],
+    "explanation": "Crop rotation preserved or restored soil fertility and kept more land in productive use instead of leaving it fallow. Turnips and clover could also feed livestock, supporting more animals and manure for fertilizer. The result was a larger and more dependable food supply."
+  },
+  {
+    "section": "5.1",
+    "title": "Jethro Tull's Seed Drill",
+    "t": "mc",
+    "q": "What was the main advantage of Jethro Tull's seed drill over broadcasting seed by hand?",
+    "a": 3,
+    "opts": [
+      "It harvested cotton automatically.",
+      "It powered factories with electricity.",
+      "It enclosed common land by parliamentary order.",
+      "It planted seeds at controlled depths and intervals, reducing waste and improving germination."
+    ],
+    "explanation": "The seed drill placed seed in orderly rows at useful depths, so fewer seeds were lost to birds, wind, or poor placement. More reliable germination increased yields and made farming more efficient. It was an agricultural innovation, not a factory power source or land law."
+  },
+  {
+    "section": "5.1",
+    "title": "Enclosure Movement",
+    "t": "mc",
+    "q": "Which cause-and-effect relationship best explains how enclosure contributed to industrialization?",
+    "a": 1,
+    "opts": [
+      "Enclosure divided large farms into common fields and increased subsistence farming.",
+      "Enclosure consolidated land into larger private farms, improving efficiency but displacing many rural workers who then sought city jobs.",
+      "Enclosure ended private property and created collective ownership of factories.",
+      "Enclosure prevented migration by guaranteeing every family a farm."
+    ],
+    "explanation": "Enclosure combined scattered fields and common lands into larger private holdings that could be farmed more efficiently. However, many small farmers and rural laborers lost access to land. Their movement to industrial towns supplied factories with a large wage-labor force."
+  },
+  {
+    "section": "5.1",
+    "title": "Agricultural Revolution and Population",
+    "t": "mc",
+    "q": "Why did agricultural improvements help produce both labor and demand for industrial goods?",
+    "a": 2,
+    "opts": [
+      "They caused population to fall and closed urban markets.",
+      "They made all manufactured goods unnecessary.",
+      "More food reduced famine and supported population growth, while greater farm efficiency freed workers to seek industrial employment.",
+      "They forced Britain to import every food product."
+    ],
+    "explanation": "A larger, healthier population supplied both workers and consumers. At the same time, efficient farms needed fewer laborers, pushing or freeing people to move to towns. Industrialization therefore gained a workforce and an expanding market for inexpensive goods."
+  },
+  {
+    "section": "5.1",
+    "title": "England's Natural Resources",
+    "t": "mc",
+    "q": "Which pair of natural resources was especially important to Britain's early industrial lead?",
+    "a": 0,
+    "opts": [
+      "Coal for energy and iron ore for machinery, tools, rails, and structures",
+      "Gold for steam power and silver for textile fibers",
+      "Rubber for furnaces and diamonds for canals",
+      "Petroleum for medieval mills and uranium for sailing ships"
+    ],
+    "explanation": "Britain possessed accessible coal and iron deposits. Coal fueled steam engines and furnaces, while iron became machinery, rails, bridges, tools, and engines. Their proximity lowered costs and helped industries reinforce one another."
+  },
+  {
+    "section": "5.1",
+    "title": "England's Industrial Advantages",
+    "t": "sa",
+    "q": "Which factors helped England industrialize before most other countries? (Select all that apply.)",
+    "correct": [
+      "Abundant coal and iron",
+      "Investment capital and willing entrepreneurs",
+      "A stable government that supported economic growth",
+      "Ports, rivers, a strong navy, and access to overseas markets",
+      "A growing labor force and consumer demand"
+    ],
+    "opts": [
+      "Abundant coal and iron",
+      "Investment capital and willing entrepreneurs",
+      "A stable government that supported economic growth",
+      "Ports, rivers, a strong navy, and access to overseas markets",
+      "A growing labor force and consumer demand",
+      "A complete absence of trade and overseas connections"
+    ],
+    "explanation": "England possessed the full combination emphasized in the notes: resources, capital, labor, entrepreneurship, demand, political stability, and transportation and trade connections. Its navy and empire expanded access to raw materials and markets. Isolation from trade would have weakened these advantages."
+  },
+  {
+    "section": "5.1",
+    "title": "Capital and Entrepreneurship",
+    "t": "mc",
+    "q": "In the context of industrialization, what is capital?",
+    "a": 1,
+    "opts": [
+      "Only the city in which a monarch lives",
+      "Money and financial resources invested in machinery, factories, transportation, and businesses",
+      "The number of children employed in a mill",
+      "A law banning private risk-taking"
+    ],
+    "explanation": "Industrial capital is wealth available for investment. Building a mill, buying machines, digging a canal, or developing an invention required substantial funds before profits could be earned. Britain's banking, trade profits, and entrepreneurial culture helped direct capital toward industrial ventures."
+  },
+  {
+    "section": "5.1",
+    "title": "Colonial Connections",
+    "t": "mc",
+    "q": "How did Britain's island empire and overseas connections support industrialization?",
+    "a": 3,
+    "opts": [
+      "They eliminated the need for ports and ships.",
+      "They prevented British manufacturers from selling abroad.",
+      "They supplied only tourists and had no economic importance.",
+      "They provided raw materials and markets, while ports and naval power protected and expanded trade."
+    ],
+    "explanation": "Britain's commercial and imperial networks brought raw materials, including cotton produced within Atlantic systems tied to enslaved labor, and offered markets for manufactured goods. Numerous ports and a powerful navy made trade more secure. These connections increased both supply and demand."
+  },
+  {
+    "section": "5.1",
+    "title": "Uneven Spread of Industry",
+    "t": "mc",
+    "q": "Why did industrialization spread unevenly around the world?",
+    "a": 2,
+    "opts": [
+      "Every country possessed identical resources and institutions.",
+      "Only English-speaking people could understand machines.",
+      "Countries differed in resources, capital, transportation, political stability, labor systems, and access to markets.",
+      "Industrial technology could not cross oceans."
+    ],
+    "explanation": "Industrial growth required more than copying an invention. Nations varied in coal and iron supplies, investment capital, infrastructure, skilled labor, political stability, and commercial networks. Western Europe and the United States industrialized relatively quickly, while other regions followed different paths and timetables."
+  },
+  {
+    "section": "5.2",
+    "title": "Newcomen and Watt",
+    "t": "mc",
+    "q": "What was James Watt's relationship to Thomas Newcomen's steam engine?",
+    "a": 0,
+    "opts": [
+      "Watt improved Newcomen's existing design, especially its efficiency; he did not invent steam power from nothing.",
+      "Watt replaced Newcomen's engine with a hand loom.",
+      "Watt invented coal, while Newcomen invented iron.",
+      "They worked only on electric motors during the Second Industrial Revolution."
+    ],
+    "explanation": "Newcomen had developed an atmospheric engine used especially for pumping water from mines. Watt's separate condenser and later improvements reduced wasted heat and fuel, making steam power economical for many industries. The distinction between invention and major improvement is essential."
+  },
+  {
+    "section": "5.2",
+    "title": "Watt's Separate Condenser",
+    "t": "mc",
+    "q": "Why was Watt's separate condenser a major advance?",
+    "a": 2,
+    "opts": [
+      "It required the main cylinder to cool after every stroke.",
+      "It replaced steam with animal power.",
+      "It allowed steam to condense outside the main cylinder, reducing repeated heating and fuel waste.",
+      "It made coal mines unnecessary."
+    ],
+    "explanation": "Newcomen's design repeatedly heated and cooled the same cylinder, wasting energy. Watt condensed steam in a separate chamber so the working cylinder could remain hot. Greater fuel efficiency made steam engines useful beyond mines in mills, factories, and transportation."
+  },
+  {
+    "section": "5.2",
+    "title": "Coal-Iron-Steam Cycle",
+    "t": "sa",
+    "q": "Which statements correctly describe the self-reinforcing relationship among coal, iron, and steam? (Select all that apply.)",
+    "correct": [
+      "Coal fueled furnaces that smelted iron more effectively.",
+      "Cheaper iron supported stronger machinery and steam engines.",
+      "Steam engines pumped water from deeper coal mines.",
+      "More coal could then fuel additional engines and furnaces."
+    ],
+    "opts": [
+      "Coal fueled furnaces that smelted iron more effectively.",
+      "Cheaper iron supported stronger machinery and steam engines.",
+      "Steam engines pumped water from deeper coal mines.",
+      "More coal could then fuel additional engines and furnaces.",
+      "Iron functioned as the main fuel burned inside engines.",
+      "Steam power immediately ended all use of coal."
+    ],
+    "explanation": "Coal, iron, and steam formed a productive feedback loop. Coal improved iron production; iron strengthened engines and equipment; engines extracted more coal; and the increased coal supply powered further growth. Iron was a construction material, not the fuel, and steam engines remained heavily dependent on coal."
+  },
+  {
+    "section": "5.2",
+    "title": "Energy Revolution",
+    "t": "mc",
+    "q": "How did steam power change where factories could operate?",
+    "a": 1,
+    "opts": [
+      "It required every factory to remain beside a fast-flowing stream.",
+      "It reduced dependence on waterpower, allowing factories to locate nearer coal, workers, cities, ports, and transportation routes.",
+      "It forced factories to move onto farms.",
+      "It prevented machines from operating continuously."
+    ],
+    "explanation": "Water-powered mills depended on suitable rivers and seasonal flow. Coal-fired steam engines offered a more controllable source of power and gave owners greater freedom in choosing industrial locations. Factories could cluster near urban labor, coalfields, rail hubs, or markets."
+  },
+  {
+    "section": "5.2",
+    "title": "Transportation Revolution",
+    "t": "sa",
+    "q": "Which forms of infrastructure were part of the Transportation Revolution in the Unit 5 notes? (Select all that apply.)",
+    "correct": [
+      "Turnpikes",
+      "Canals",
+      "Railroads",
+      "Bridges"
+    ],
+    "opts": [
+      "Turnpikes",
+      "Canals",
+      "Railroads",
+      "Bridges",
+      "Orbital spacecraft",
+      "Digital fiber-optic networks"
+    ],
+    "explanation": "Improved roads and turnpikes, canals, railroads, and bridges linked mines, factories, ports, cities, and markets. These were nineteenth-century foundations of faster overland and water transport. Spacecraft and fiber-optic networks belong to much later industrial and digital eras."
+  },
+  {
+    "section": "5.2",
+    "title": "Transportation and Prices",
+    "t": "mc",
+    "q": "Why could transportation improvements increase demand for manufactured goods?",
+    "a": 0,
+    "opts": [
+      "Lower shipping costs could reduce prices, expand markets, and make goods affordable to more consumers.",
+      "Faster transport made every product more expensive by law.",
+      "Railroads prevented factories from receiving raw materials.",
+      "Canals eliminated competition among producers."
+    ],
+    "explanation": "Cheaper and more reliable transport lowered the cost of moving raw materials and finished products. Producers could reach larger markets, and consumers often paid lower prices. Greater sales then encouraged higher output and additional investment."
+  },
+  {
+    "section": "5.2",
+    "title": "Railroad Multiplier Effect",
+    "t": "mc",
+    "q": "Which example best illustrates the railroad's multiplier effect on industrial growth?",
+    "a": 3,
+    "opts": [
+      "Railroads reduced the need for coal, iron, labor, and engineering.",
+      "Railroads served passengers but could not carry freight.",
+      "Railroads isolated inland factories from ports.",
+      "Railroad construction increased demand for coal, iron, steel, engines, labor, and engineering while opening markets for other industries."
+    ],
+    "explanation": "Railroads were both a product and a driver of industrialization. Constructing and operating them consumed large amounts of fuel and metal and employed many workers. At the same time, rail lines connected producers to supplies and customers, stimulating growth across many sectors."
+  },
+  {
+    "section": "5.2",
+    "title": "Putting-Out System",
+    "t": "mc",
+    "q": "How did the putting-out system organize textile production before factories became dominant?",
+    "a": 2,
+    "opts": [
+      "All workers gathered under one roof and used steam-driven machines.",
+      "The government distributed finished cloth for free.",
+      "Merchants supplied raw materials to workers who produced goods in their homes, after which specialists or merchants collected and finished them.",
+      "Textiles were produced only by aristocrats."
+    ],
+    "explanation": "The putting-out or domestic system dispersed production among households. Merchants coordinated the supply of raw material and collection of products, but workers often controlled their pace and setting. Factories later centralized labor, machinery, discipline, and power in one location."
+  },
+  {
+    "section": "5.2",
+    "title": "Textile Mechanization",
+    "t": "sa",
+    "q": "Which inventions listed in the Unit 5 notes helped accelerate textile production? (Select all that apply.)",
+    "correct": [
+      "Flying shuttle",
+      "Spinning jenny",
+      "Cotton gin"
+    ],
+    "opts": [
+      "Flying shuttle",
+      "Spinning jenny",
+      "Cotton gin",
+      "Radio",
+      "Telephone",
+      "Dynamo"
+    ],
+    "explanation": "The flying shuttle sped weaving, the spinning jenny increased thread production, and the cotton gin rapidly separated cotton fiber from seed. Together such inventions increased textile supply and created pressure for further mechanization. Radio, telephone, and dynamo technology belong to later communication and electrical developments."
+  },
+  {
+    "section": "5.2",
+    "title": "Factory System",
+    "t": "mc",
+    "q": "What most clearly distinguished the factory system from household production?",
+    "a": 1,
+    "opts": [
+      "Workers owned all raw materials and chose whether to make unique goods.",
+      "Employers centralized workers and powered machines in one place, imposed schedules, and divided production into standardized tasks.",
+      "Factories used no machinery.",
+      "Factory workers always earned more and worked fewer hours."
+    ],
+    "explanation": "Factories concentrated expensive machines, power sources, raw materials, and workers under managerial control. Clock time and specialized tasks replaced much of the flexibility and craft control associated with home production. Centralization increased output but often produced harsh labor discipline."
+  },
+  {
+    "section": "5.2",
+    "title": "Standardized Production",
+    "t": "mc",
+    "q": "Why did interchangeable parts and standardized pieces increase industrial efficiency?",
+    "a": 0,
+    "opts": [
+      "Uniform components could be produced in quantity, assembled quickly, and replaced without custom fitting.",
+      "Every item had to be handmade as a unique object.",
+      "They prevented division of labor.",
+      "They made repairs impossible."
+    ],
+    "explanation": "Standardization reduced the skill and time needed to assemble or repair many products. A damaged part could be replaced with another made to the same specifications. This principle supported mass production and later assembly-line methods."
+  },
+  {
+    "section": "5.3",
+    "title": "Rapid Urbanization",
+    "t": "mc",
+    "q": "What does rapid urbanization mean in the context of the Industrial Revolution?",
+    "a": 2,
+    "opts": [
+      "Cities shrinking as workers returned to farms",
+      "Factories moving away from all population centers",
+      "The fast growth of towns and cities as migrants moved near factories, mines, and rail hubs",
+      "The replacement of cities by independent cottages"
+    ],
+    "explanation": "Industrial employment drew large numbers of rural migrants into towns. Settlements near coalfields, factories, and transportation connections expanded into major cities, often faster than housing and sanitation could be built. Urbanization was therefore both demographic and economic."
+  },
+  {
+    "section": "5.3",
+    "title": "Industrial City Locations",
+    "t": "sa",
+    "q": "Which features commonly encouraged an industrial town to grow? (Select all that apply.)",
+    "correct": [
+      "Nearby coal or other industrial resources",
+      "Factories offering wage employment",
+      "Canal or railroad connections",
+      "Access to ports and markets"
+    ],
+    "opts": [
+      "Nearby coal or other industrial resources",
+      "Factories offering wage employment",
+      "Canal or railroad connections",
+      "Access to ports and markets",
+      "A legal ban on migration",
+      "Complete separation from raw materials"
+    ],
+    "explanation": "Industrial towns flourished where energy, raw materials, labor, and transportation came together. Factories attracted migrants, and canals, railroads, or nearby ports moved supplies and products. Bans on migration or isolation from resources would restrain growth."
+  },
+  {
+    "section": "5.3",
+    "title": "Tenement Life",
+    "t": "mc",
+    "q": "Why were tenements associated with serious public-health problems?",
+    "a": 3,
+    "opts": [
+      "They were spacious rural estates with too few residents.",
+      "They contained advanced plumbing unavailable elsewhere.",
+      "They were used only as offices.",
+      "They were often overcrowded, poorly ventilated, and lacking clean water, sewage systems, and effective waste removal."
+    ],
+    "explanation": "City growth frequently outpaced municipal services. Crowded housing, contaminated water, open sewage, and inadequate ventilation made diseases spread rapidly. These conditions later encouraged sanitation projects, public-health laws, and urban renewal."
+  },
+  {
+    "section": "5.3",
+    "title": "Factory Working Conditions",
+    "t": "sa",
+    "q": "Which conditions characterized many early industrial workplaces? (Select all that apply.)",
+    "correct": [
+      "Long hours",
+      "Low or minimal pay",
+      "Dangerous machinery and unhealthy environments",
+      "Few legal protections and initially no effective unions",
+      "Extensive employment of women and children"
+    ],
+    "opts": [
+      "Long hours",
+      "Low or minimal pay",
+      "Dangerous machinery and unhealthy environments",
+      "Few legal protections and initially no effective unions",
+      "Extensive employment of women and children",
+      "Universal paid vacations and eight-hour days"
+    ],
+    "explanation": "Early factories and mines commonly demanded exhausting hours for low wages in unsafe settings. Workers had little bargaining power or legal protection, and employers often hired women and children for lower pay. Modern benefits and standardized short workdays emerged only after long reform struggles."
+  },
+  {
+    "section": "5.3",
+    "title": "Women and Child Labor",
+    "t": "mc",
+    "q": "Why did many industrial employers prefer women and children for certain jobs?",
+    "a": 1,
+    "opts": [
+      "Women and children were legally entitled to higher wages than men.",
+      "Employers could usually pay them less, and their size was considered useful in some textile and mine tasks.",
+      "Only children knew how steam engines worked.",
+      "Adult men were forbidden to enter factories."
+    ],
+    "explanation": "The preference was largely economic: women and children could be paid less than adult men. Employers also claimed that small hands or bodies suited particular textile machines or mine passages. These practices exposed vulnerable workers to severe danger and exploitation."
+  },
+  {
+    "section": "5.3",
+    "title": "Sadler Report",
+    "t": "mc",
+    "q": "What was the historical importance of the Sadler Report?",
+    "a": 0,
+    "opts": [
+      "It publicized testimony about abusive child labor and helped build support for factory reform.",
+      "It praised unrestricted child labor as harmless.",
+      "It invented the steam engine.",
+      "It established Marx's classless society in Britain."
+    ],
+    "explanation": "Michael Sadler's parliamentary investigation gathered testimony about long hours, beatings, injuries, and exhaustion among child workers. The report made industrial abuse visible to a wider public and strengthened pressure for regulation. It was evidence for reform, not a technological invention."
+  },
+  {
+    "section": "5.3",
+    "title": "Worker Vulnerability",
+    "t": "mc",
+    "q": "Which combination best explains why early factory workers had little power to demand better conditions?",
+    "a": 2,
+    "opts": [
+      "Workers owned the factories and set their own wages.",
+      "Labor was scarce, unions were powerful, and regulation was strict.",
+      "Many people needed wages, employers could replace workers, unions were weak or illegal, and governments often followed laissez-faire ideas.",
+      "Factories operated only one hour per week."
+    ],
+    "explanation": "A large labor supply and family dependence on wages gave owners leverage. Individual workers risked dismissal if they protested, while unions and protective legislation were initially weak. Laissez-faire attitudes also discouraged government intervention in private workplaces."
+  },
+  {
+    "section": "5.3",
+    "title": "New Social Hierarchy",
+    "t": "mc",
+    "q": "Who belonged most clearly to the industrial bourgeoisie?",
+    "a": 3,
+    "opts": [
+      "Only hereditary kings and nobles",
+      "Landless factory children only",
+      "Subsistence peasants who avoided markets",
+      "Factory owners, entrepreneurs, merchants, professionals, and other property-owning middle-class groups"
+    ],
+    "explanation": "The bourgeoisie was the expanding middle and business class whose wealth came from commerce, professions, investment, and industry rather than solely inherited land. Industrialization increased its economic and political importance. Marx later used bourgeoisie more specifically for owners of the means of production."
+  },
+  {
+    "section": "5.3",
+    "title": "Industrial Benefits",
+    "t": "sa",
+    "q": "Which were important long-term benefits associated with industrialization? (Select all that apply.)",
+    "correct": [
+      "Cheaper and more widely available manufactured goods",
+      "Expanded transportation and communication",
+      "Some increase in social mobility and new occupations",
+      "Eventually improved standards of living and public health for many people"
+    ],
+    "opts": [
+      "Cheaper and more widely available manufactured goods",
+      "Expanded transportation and communication",
+      "Some increase in social mobility and new occupations",
+      "Eventually improved standards of living and public health for many people",
+      "Immediate elimination of poverty and inequality",
+      "Instantly safe working conditions in every factory"
+    ],
+    "explanation": "Industrialization increased productivity, lowered the price of many goods, and created new careers, technologies, and infrastructure. Over time, wages, sanitation, medicine, and living standards improved for many. Those gains were uneven and delayed; early industrial society did not immediately eliminate poverty or unsafe work."
+  },
+  {
+    "section": "5.3",
+    "title": "Costs and Benefits",
+    "t": "mc",
+    "q": "Which evaluation of the Industrial Revolution is most historically balanced?",
+    "a": 1,
+    "opts": [
+      "It produced only suffering and no useful innovation.",
+      "It greatly increased production and eventually living standards, but initially imposed severe costs through exploitation, crowding, pollution, and inequality.",
+      "It immediately benefited every class equally.",
+      "It changed technology but had no social consequences."
+    ],
+    "explanation": "Industrialization created unprecedented productive capacity and eventually supported cheaper goods, mobility, public health, and higher average living standards. Yet early workers endured harsh conditions, and cities suffered crowding, disease, and pollution. Both transformation and human cost must be considered."
+  },
+  {
+    "section": "5.4",
+    "title": "Adam Smith",
+    "t": "mc",
+    "q": "Which policy would Adam Smith most likely support?",
+    "a": 0,
+    "opts": [
+      "Competitive private markets with limited government interference in ordinary exchange",
+      "Permanent government ownership of every farm and factory",
+      "A ban on private enterprise",
+      "Wages fixed entirely by hereditary nobles"
+    ],
+    "explanation": "Smith defended economic liberty, private enterprise, competition, and relatively limited government intervention, a position associated with laissez-faire. He believed self-interest operating through markets could coordinate production and exchange. This did not mean society needed no laws or public institutions at all."
+  },
+  {
+    "section": "5.4",
+    "title": "Invisible Hand",
+    "t": "mc",
+    "q": "What does Adam Smith's metaphor of the invisible hand suggest?",
+    "a": 2,
+    "opts": [
+      "A secret monarch directly commands every purchase.",
+      "Factories should hide their workers.",
+      "Individuals pursuing their interests in competitive markets can unintentionally contribute to broader economic coordination and prosperity.",
+      "Economic decisions should be random."
+    ],
+    "explanation": "Smith argued that prices, competition, and self-interest could guide resources without detailed central direction. Producers seeking profit respond to consumer demand, and competition can restrain prices. The metaphor describes market coordination, not literal secrecy or an absence of all legal rules."
+  },
+  {
+    "section": "5.4",
+    "title": "Malthus on Population",
+    "t": "mc",
+    "q": "What was Thomas Malthus's central concern?",
+    "a": 1,
+    "opts": [
+      "Food production would always grow faster than population.",
+      "Population could grow faster than the food supply, producing famine, disease, and poverty unless growth was checked.",
+      "Factories would eliminate population growth.",
+      "Governments should pay every family to have unlimited children."
+    ],
+    "explanation": "Malthus believed population had a tendency to increase more rapidly than food production. He expected scarcity to generate harsh checks such as famine and disease and urged smaller families. His pessimism also led him to oppose much government relief for the poor."
+  },
+  {
+    "section": "5.4",
+    "title": "Ricardo's Iron Law",
+    "t": "mc",
+    "q": "What did David Ricardo's Iron Law of Wages predict?",
+    "a": 3,
+    "opts": [
+      "Wages would rise without limit.",
+      "All workers would become factory owners.",
+      "Steel wages would replace paper money.",
+      "Competition and population pressures would tend to push wages toward a subsistence level."
+    ],
+    "explanation": "Ricardo argued that when wages rose, population and labor supply would increase, eventually pushing wages back down toward subsistence. Like Malthus, he treated persistent poverty as the result of powerful economic and demographic forces. Reformers challenged this pessimistic conclusion."
+  },
+  {
+    "section": "5.4",
+    "title": "Malthus and Ricardo",
+    "t": "sa",
+    "q": "Which positions were shared by Malthus and Ricardo as presented in the notes? (Select all that apply.)",
+    "correct": [
+      "They offered pessimistic explanations for persistent poverty.",
+      "They believed population pressure affected workers' living standards.",
+      "They opposed extensive government assistance to the poor."
+    ],
+    "opts": [
+      "They offered pessimistic explanations for persistent poverty.",
+      "They believed population pressure affected workers' living standards.",
+      "They opposed extensive government assistance to the poor.",
+      "They founded New Lanark together.",
+      "They predicted an inevitable proletarian revolution.",
+      "They demanded collective ownership of all factories."
+    ],
+    "explanation": "Both thinkers treated poverty and low wages as consequences of population and market forces and resisted government poor relief. New Lanark was associated with Robert Owen. Proletarian revolution and collective ownership are linked more closely to Marxist theory."
+  },
+  {
+    "section": "5.4",
+    "title": "Bentham's Utilitarianism",
+    "t": "mc",
+    "q": "According to Jeremy Bentham's utilitarianism, how should a government judge a policy?",
+    "a": 0,
+    "opts": [
+      "By whether it promotes the greatest happiness for the greatest number",
+      "By whether it preserves every traditional privilege",
+      "By whether it maximizes suffering",
+      "By whether it benefits only factory owners"
+    ],
+    "explanation": "Bentham argued that laws should be evaluated by their consequences for human happiness and suffering. This principle could justify reform when existing institutions harmed large numbers of people. He also considered individual freedom important to well-being."
+  },
+  {
+    "section": "5.4",
+    "title": "John Stuart Mill",
+    "t": "mc",
+    "q": "How did John Stuart Mill modify strict laissez-faire thinking?",
+    "a": 2,
+    "opts": [
+      "He argued that workers had no rights.",
+      "He rejected individual liberty.",
+      "He supported government action to aid working people and argued that owners' freedom should not justify harming workers.",
+      "He demanded the restoration of feudal serfdom."
+    ],
+    "explanation": "Mill valued liberty but recognized that unequal power could make formal freedom insufficient. He accepted reforms and public support that protected working people and expanded opportunity. His position combined individual rights with concern for social welfare."
+  },
+  {
+    "section": "5.4",
+    "title": "Robert Owen",
+    "t": "mc",
+    "q": "Why was Robert Owen's New Lanark important?",
+    "a": 1,
+    "opts": [
+      "It showed that factories could operate only through child abuse.",
+      "It attempted to combine productive industry with better housing, education, wages, and treatment for workers.",
+      "It was Britain's first coal mine.",
+      "It proved that all reform required violent revolution."
+    ],
+    "explanation": "At New Lanark in Scotland, Owen improved schooling, housing, and working conditions while maintaining a productive enterprise. The community supported his argument that environment shapes character and that humane treatment can coexist with efficiency. It became a model for utopian socialist reform."
+  },
+  {
+    "section": "5.4",
+    "title": "Socialism",
+    "t": "mc",
+    "q": "Which definition best matches socialism as introduced in the Unit 5 notes?",
+    "a": 3,
+    "opts": [
+      "A system in which hereditary nobles own all political offices",
+      "A belief that factories should have no workers",
+      "A policy of eliminating all shared institutions",
+      "A system or philosophy favoring social or collective ownership of major means of production such as factories, farms, and railways"
+    ],
+    "explanation": "Socialism challenged unrestricted private ownership by arguing that major productive resources should serve society as a whole. Different socialists disagreed about whether ownership should be cooperative, communal, or governmental. Owen promoted a reform-minded utopian version."
+  },
+  {
+    "section": "5.4",
+    "title": "Marx and Engels",
+    "t": "mc",
+    "q": "What relationship did Karl Marx and Friedrich Engels see at the center of industrial capitalism?",
+    "a": 0,
+    "opts": [
+      "Class conflict between the bourgeoisie, who owned productive property, and the proletariat, who sold their labor",
+      "Harmony between serfs and medieval lords",
+      "Conflict between inventors and scientists over electricity",
+      "Competition between farmers over crop rotation"
+    ],
+    "explanation": "Marx and Engels argued that history was driven by class struggle. Under capitalism, bourgeois owners controlled factories and capital, while proletarians depended on wages. They believed owners profited by extracting value from workers' labor, creating an antagonism that reform alone could not permanently solve."
+  },
+  {
+    "section": "5.4",
+    "title": "Marxist Sequence",
+    "t": "sa",
+    "q": "Which ideas form part of the Marxist interpretation of industrial society? (Select all that apply.)",
+    "correct": [
+      "Capitalism concentrates ownership in the bourgeoisie.",
+      "The proletariat is exploited through wage labor.",
+      "Class conflict would lead to a workers' revolution.",
+      "The long-term goal was a classless society with collective control of production."
+    ],
+    "opts": [
+      "Capitalism concentrates ownership in the bourgeoisie.",
+      "The proletariat is exploited through wage labor.",
+      "Class conflict would lead to a workers' revolution.",
+      "The long-term goal was a classless society with collective control of production.",
+      "Laissez-faire capitalism would naturally end all class conflict.",
+      "Hereditary aristocracy should permanently control industry."
+    ],
+    "explanation": "Marx believed capitalist ownership divided society into opposed classes and that exploitation would intensify working-class consciousness. Revolution would transfer control of production away from private capitalists, eventually producing a classless communist society. Faith in laissez-faire harmony is the opposite of this analysis."
+  },
+  {
+    "section": "5.4",
+    "title": "Smith and Marx Compared",
+    "t": "mc",
+    "q": "Which comparison between Adam Smith and Karl Marx is accurate?",
+    "a": 2,
+    "opts": [
+      "Both wanted hereditary monarchs to set all prices.",
+      "Smith supported collective ownership, while Marx defended laissez-faire.",
+      "Smith emphasized private property and market competition; Marx emphasized exploitation, class struggle, and collective ownership.",
+      "They wrote the same book together."
+    ],
+    "explanation": "Smith viewed competitive markets and private enterprise as powerful sources of prosperity. Marx viewed private capitalist ownership as the basis of exploitation and class conflict. Their disagreement concerned who should own productive property and whether markets harmonized or divided society."
+  },
+  {
+    "section": "5.4",
+    "title": "Reform or Revolution",
+    "t": "mc",
+    "q": "Which thinker is most closely associated with revolutionary class struggle rather than a model community or gradual legislative reform?",
+    "a": 1,
+    "opts": [
+      "Robert Owen",
+      "Karl Marx",
+      "Jeremy Bentham",
+      "John Stuart Mill"
+    ],
+    "explanation": "Marx predicted that class conflict would culminate in proletarian revolution. Owen tried to demonstrate reform through planned communities, while Bentham and Mill supported changes to law and government policy. The approaches differed even when they criticized industrial suffering."
+  },
+  {
+    "section": "5.5",
+    "title": "Second Industrial Revolution",
+    "t": "mc",
+    "q": "What most clearly characterized the Second Industrial Revolution?",
+    "a": 3,
+    "opts": [
+      "A return to isolated hand production",
+      "The abandonment of science by industry",
+      "The disappearance of transportation and communication",
+      "The closer combination of science, technology, and industry to improve materials, energy, production, transportation, communication, and medicine"
+    ],
+    "explanation": "During the later nineteenth century, scientific knowledge and industrial research increasingly interacted. New steel processes, electrical systems, engines, chemicals, communications, and medical discoveries expanded earlier industrial foundations. Many innovations improved existing methods rather than replacing industry entirely."
+  },
+  {
+    "section": "5.5",
+    "title": "Bessemer Process",
+    "t": "mc",
+    "q": "Why did Henry Bessemer's steel process matter?",
+    "a": 0,
+    "opts": [
+      "It made strong, durable steel cheaper and faster to produce in large quantities.",
+      "It converted steel into cotton.",
+      "It ended the need for bridges and railroads.",
+      "It produced electric current without machinery."
+    ],
+    "explanation": "The Bessemer process removed impurities from molten iron efficiently, lowering the cost of steel. Affordable steel strengthened rails, bridges, ships, machinery, weapons, and tall buildings. It became a foundational material of the Second Industrial Revolution."
+  },
+  {
+    "section": "5.5",
+    "title": "Steel Applications",
+    "t": "sa",
+    "q": "Which developments were supported by the mass production of inexpensive steel? (Select all that apply.)",
+    "correct": [
+      "Stronger railroad tracks",
+      "Longer bridges",
+      "Skyscraper frames",
+      "More durable machines and ships"
+    ],
+    "opts": [
+      "Stronger railroad tracks",
+      "Longer bridges",
+      "Skyscraper frames",
+      "More durable machines and ships",
+      "The end of urban construction",
+      "The replacement of all metal with wood"
+    ],
+    "explanation": "Steel combined strength and flexibility with falling production costs. It made heavier trains, longer spans, taller structures, durable ships, and powerful machinery practical. Its spread expanded construction and metal use rather than ending them."
+  },
+  {
+    "section": "5.5",
+    "title": "Electricity Innovators",
+    "t": "mc",
+    "q": "Which matching of Second Industrial Revolution figures and contributions is correct?",
+    "a": 1,
+    "opts": [
+      "Michael Faraday - telephone; Thomas Edison - germ theory",
+      "Michael Faraday - dynamo and electrical principles; Thomas Edison - practical electric lighting systems",
+      "Michael Faraday - airplane; Thomas Edison - Bessemer steel",
+      "Michael Faraday - dynamite; Thomas Edison - crop rotation"
+    ],
+    "explanation": "Faraday's work on electromagnetism and the dynamo helped make mechanical generation of electricity possible. Edison developed a practical incandescent lamp and a broader system for distributing electric power. Their work helped move industry toward electrical energy."
+  },
+  {
+    "section": "5.5",
+    "title": "Alfred Nobel",
+    "t": "mc",
+    "q": "What industrial problem did Alfred Nobel's dynamite address?",
+    "a": 2,
+    "opts": [
+      "It transmitted speech across wires.",
+      "It prevented infection in surgery.",
+      "It provided a more manageable powerful explosive for mining, tunneling, and construction.",
+      "It spun cotton thread."
+    ],
+    "explanation": "Nobel stabilized nitroglycerin into dynamite, making explosive force more practical to transport and use. It accelerated excavation in mines, tunnels, canals, rail cuts, and construction, though it also had military uses. It was unrelated to telephones, antisepsis, or textiles."
+  },
+  {
+    "section": "5.5",
+    "title": "Internal Combustion Engine",
+    "t": "mc",
+    "q": "Why was Nikolaus Otto's internal combustion engine significant?",
+    "a": 0,
+    "opts": [
+      "It burned fuel inside the engine and helped make automobiles and other mobile machines practical.",
+      "It required a permanent external steam boiler and could not move.",
+      "It replaced communication with transportation.",
+      "It was designed to rotate crops."
+    ],
+    "explanation": "The internal combustion engine generated power by burning fuel inside its cylinders. Compared with large steam systems, it was compact and well suited to vehicles. Its development helped support automobiles and an industrial economy increasingly based on oil."
+  },
+  {
+    "section": "5.5",
+    "title": "Transportation Innovators",
+    "t": "mc",
+    "q": "Which accomplishment is associated with Wilbur and Orville Wright?",
+    "a": 3,
+    "opts": [
+      "The first practical telephone",
+      "The discovery of germ theory",
+      "The invention of Morse code",
+      "The first successful powered, controlled airplane flight in North Carolina"
+    ],
+    "explanation": "The Wright brothers achieved sustained, powered, controlled flight at Kitty Hawk, North Carolina, in 1903. Their airplane represented the extension of industrial engineering into a new form of transportation. Bell, Pasteur, and Morse made the other listed contributions."
+  },
+  {
+    "section": "5.5",
+    "title": "Communication Revolution",
+    "t": "sa",
+    "q": "Which inventor-contribution pairs are correct? (Select all that apply.)",
+    "correct": [
+      "Samuel Morse - telegraph code",
+      "Alexander Graham Bell - telephone",
+      "Guglielmo Marconi - radio communication"
+    ],
+    "opts": [
+      "Samuel Morse - telegraph code",
+      "Alexander Graham Bell - telephone",
+      "Guglielmo Marconi - radio communication",
+      "Louis Pasteur - telephone",
+      "Henry Bessemer - radio",
+      "Robert Koch - telegraph"
+    ],
+    "explanation": "Morse developed a code for electrical telegraph messages, Bell is associated with the practical telephone, and Marconi pioneered long-distance wireless radio. Together these technologies dramatically accelerated the movement of information. Pasteur, Bessemer, and Koch worked in medicine or metallurgy."
+  },
+  {
+    "section": "5.5",
+    "title": "Communication and Business",
+    "t": "mc",
+    "q": "How did telegraphs, telephones, and radio support industrial economies?",
+    "a": 1,
+    "opts": [
+      "They made information travel more slowly.",
+      "They allowed businesses, governments, railroads, and markets to coordinate decisions across long distances much more rapidly.",
+      "They ended the need for management.",
+      "They could transmit only physical goods."
+    ],
+    "explanation": "Fast communication allowed firms to order supplies, compare prices, manage distant offices, schedule transportation, and respond to events. Railroads especially benefited from rapid signaling and scheduling. Information itself became an essential part of large-scale industrial coordination."
+  },
+  {
+    "section": "5.5",
+    "title": "Pasteur and Germ Theory",
+    "t": "mc",
+    "q": "What did Louis Pasteur's germ theory establish?",
+    "a": 2,
+    "opts": [
+      "Disease was always caused by bad luck.",
+      "Steel impurities produced all infections.",
+      "Specific microorganisms can cause disease and contamination.",
+      "Factories should never be cleaned."
+    ],
+    "explanation": "Pasteur's research showed that microorganisms were responsible for fermentation, spoilage, and many diseases. Germ theory challenged older explanations and encouraged sterilization, vaccination, pasteurization, sanitation, and antiseptic practice. It transformed medicine and public health."
+  },
+  {
+    "section": "5.5",
+    "title": "Medical Reformers",
+    "t": "sa",
+    "q": "Which medical figure-contribution pairs are correct? (Select all that apply.)",
+    "correct": [
+      "Robert Koch - identified the bacterium responsible for tuberculosis",
+      "Florence Nightingale - promoted hospital hygiene and professional nursing",
+      "Joseph Lister - applied antiseptic methods to surgery",
+      "Louis Pasteur - advanced germ theory"
+    ],
+    "opts": [
+      "Robert Koch - identified the bacterium responsible for tuberculosis",
+      "Florence Nightingale - promoted hospital hygiene and professional nursing",
+      "Joseph Lister - applied antiseptic methods to surgery",
+      "Louis Pasteur - advanced germ theory",
+      "Henry Bessemer - founded antiseptic surgery",
+      "Samuel Morse - discovered tuberculosis bacteria"
+    ],
+    "explanation": "Koch linked specific microbes to diseases such as tuberculosis, Nightingale demonstrated the life-saving importance of sanitation and nursing, Lister used antiseptics to reduce surgical infection, and Pasteur supplied the germ-theory foundation. Bessemer and Morse worked in steel and communication."
+  },
+  {
+    "section": "5.5",
+    "title": "Four Industrial Revolutions",
+    "t": "mc",
+    "q": "Which sequence correctly matches the broad technological emphasis of the four industrial revolutions in the supplementary reading?",
+    "a": 3,
+    "opts": [
+      "Internet, steam, electricity, hand tools",
+      "Nuclear power, agriculture, radio, coal",
+      "Electricity, steam, feudalism, computers",
+      "Mechanization and steam; electricity, oil, steel, and mass production; electronics, computers, and automation; Internet-connected digital and virtual systems"
+    ],
+    "explanation": "The reading presents a progression from steam-powered mechanization to electrical and petroleum-based mass industry, then electronics and computer automation, and finally networked digital systems often called Industry 4.0. The stages overlap, but each highlights a new cluster of energy and information technologies."
+  },
+  {
+    "section": "5.5",
+    "title": "Third Industrial Revolution",
+    "t": "mc",
+    "q": "Which technologies does the supplementary reading associate most directly with the Third Industrial Revolution beginning around 1969?",
+    "a": 0,
+    "opts": [
+      "Electronics, telecommunications, computers, nuclear energy, programmable logic controllers, and robots",
+      "The spinning jenny and flying shuttle",
+      "Dikes and crop rotation",
+      "Only steam locomotives"
+    ],
+    "explanation": "The reading describes the Third Industrial Revolution as the era of electronics, telecommunications, computers, nuclear energy, and advanced automation. Programmable logic controllers and industrial robots transformed production. Textile mechanization and steam belong mainly to the First Industrial Revolution."
+  },
+  {
+    "section": "5.5",
+    "title": "Industry 4.0",
+    "t": "mc",
+    "q": "What distinguishes Industry 4.0 in the supplementary reading?",
+    "a": 1,
+    "opts": [
+      "A return to water wheels and household weaving",
+      "Internet-based connectivity, digital skills, virtual systems, and increasingly networked technologies",
+      "The first use of coal in human history",
+      "The complete disappearance of industry"
+    ],
+    "explanation": "Industry 4.0 refers to the current integration of the Internet, connected devices, data, automation, and virtual or augmented systems. Unlike earlier revolutions centered mainly on mechanical or electrical power, it emphasizes digital connection between people, machines, and information."
+  },
+  {
+    "section": "5.6",
+    "title": "Corporations",
+    "t": "mc",
+    "q": "Why did corporations become increasingly important during the Industrial Age?",
+    "a": 2,
+    "opts": [
+      "Industrial projects required no money and involved no risk.",
+      "A corporation could have only one investor.",
+      "Corporations pooled investment from many shareholders, allowing businesses to finance large factories, railroads, mines, and research while spreading risk.",
+      "Corporations prohibited large-scale production."
+    ],
+    "explanation": "Industrial enterprises often required more capital than one person could provide. Corporations gathered funds from shareholders and could continue beyond the lives of individual owners. This structure supported large, complex businesses and expanded the scale of industrial competition."
+  },
+  {
+    "section": "5.6",
+    "title": "Monopolies",
+    "t": "mc",
+    "q": "What is a monopoly, and why could it concern industrial reformers?",
+    "a": 0,
+    "opts": [
+      "Control of a market by one firm or a small combination, which can weaken competition and permit higher prices or abusive practices",
+      "A market with many equally powerful competitors",
+      "A charitable hospital",
+      "A workers' voting organization"
+    ],
+    "explanation": "A monopoly exists when effective competition disappears because one company or coordinated group dominates supply. Large corporations could absorb rivals, control resources, and influence prices and politics. Reformers therefore supported antitrust laws and regulation."
+  },
+  {
+    "section": "5.6",
+    "title": "Urban Renewal",
+    "t": "sa",
+    "q": "Which developments could form part of late industrial urban renewal and improved city life? (Select all that apply.)",
+    "correct": [
+      "Sewer and clean-water systems",
+      "Improved streets and public transportation",
+      "Building regulations and sanitation programs",
+      "Skyscrapers made possible by steel frames and elevators"
+    ],
+    "opts": [
+      "Sewer and clean-water systems",
+      "Improved streets and public transportation",
+      "Building regulations and sanitation programs",
+      "Skyscrapers made possible by steel frames and elevators",
+      "The deliberate removal of all waste collection",
+      "A ban on safe construction materials"
+    ],
+    "explanation": "As industrial cities matured, governments and reformers invested in water, sewage, streets, transit, parks, sanitation, and safer construction. Steel and elevators allowed cities to grow vertically through skyscrapers. These measures responded to the disorder and disease of earlier rapid urbanization."
+  },
+  {
+    "section": "5.6",
+    "title": "Expanded Class Structure",
+    "t": "mc",
+    "q": "How did mature industrial society complicate the older social hierarchy?",
+    "a": 3,
+    "opts": [
+      "It eliminated all differences in wealth and occupation.",
+      "It restored only two medieval estates.",
+      "It made occupation irrelevant.",
+      "It produced multiple layers, including upper, upper-middle, middle, lower-middle, working, and poor classes distinguished by income, education, property, and occupation."
+    ],
+    "explanation": "Industrialization created a wide range of owners, managers, professionals, clerks, skilled workers, unskilled workers, and unemployed poor. Wealth remained unequal, but society could no longer be described only as nobles and peasants. Occupation, education, and income increasingly shaped status."
+  },
+  {
+    "section": "5.6",
+    "title": "Cult of Domesticity",
+    "t": "mc",
+    "q": "What did the Cult of Domesticity prescribe for middle-class women?",
+    "a": 1,
+    "opts": [
+      "Women should command armies and abandon family life.",
+      "Women should center their lives on home, morality, child-rearing, and support of the family breadwinner.",
+      "Women should own every factory by law.",
+      "Women and men should have identical social expectations in all circumstances."
+    ],
+    "explanation": "The ideology presented the home as a woman's proper sphere and assigned men the public role of wage earner and citizen. It was strongest as a middle-class ideal because many working-class women had to earn wages. The doctrine elevated domestic influence while restricting public independence."
+  },
+  {
+    "section": "5.6",
+    "title": "Class Limits of Domesticity",
+    "t": "mc",
+    "q": "Why did the Cult of Domesticity fail to describe the lives of many working-class women?",
+    "a": 2,
+    "opts": [
+      "Working-class families were all independently wealthy.",
+      "Factories refused to hire women.",
+      "Economic necessity often required women to work in factories, mines, domestic service, or home industries despite the middle-class domestic ideal.",
+      "Working-class women were legally prohibited from caring for children."
+    ],
+    "explanation": "A single male wage was often insufficient for a working-class household. Women therefore combined paid labor with domestic responsibilities, exposing the class privilege behind the ideal of a nonworking wife. Industrial gender expectations were never experienced uniformly."
+  },
+  {
+    "section": "5.6",
+    "title": "Temperance Movement",
+    "t": "mc",
+    "q": "What was the goal of the Temperance movement?",
+    "a": 0,
+    "opts": [
+      "To limit or ban alcoholic beverages because reformers linked alcohol abuse to poverty, violence, and family instability",
+      "To require alcohol in factories",
+      "To oppose women's participation in reform",
+      "To replace voting with drinking contests"
+    ],
+    "explanation": "Temperance advocates sought reduced consumption or prohibition of alcohol. Many women viewed alcohol abuse as a threat to household income and safety, especially when they lacked independent legal and political power. Temperance became an important entry point into public activism."
+  },
+  {
+    "section": "5.6",
+    "title": "Suffrage Movement",
+    "t": "sa",
+    "q": "Which women are identified in the Unit 5 notes as contributors to the long suffrage and women's-rights movement? (Select all that apply.)",
+    "correct": [
+      "Lucretia Mott",
+      "Elizabeth Cady Stanton",
+      "Susan B. Anthony",
+      "Sojourner Truth",
+      "Alice Paul"
+    ],
+    "opts": [
+      "Lucretia Mott",
+      "Elizabeth Cady Stanton",
+      "Susan B. Anthony",
+      "Sojourner Truth",
+      "Alice Paul",
+      "Thomas Malthus"
+    ],
+    "explanation": "Mott and Stanton helped organize early women's-rights activism, Anthony became a major suffrage organizer, Truth connected women's rights with abolition and racial justice, and Paul represented a later militant suffrage generation. Malthus was a population theorist, not a women's suffrage leader."
+  },
+  {
+    "section": "5.6",
+    "title": "Temperance and Suffrage",
+    "t": "mc",
+    "q": "How could participation in Temperance lead women toward suffrage activism?",
+    "a": 3,
+    "opts": [
+      "Temperance taught women that laws never affected families.",
+      "Temperance required women to avoid public speaking.",
+      "Temperance guaranteed women the vote immediately.",
+      "Women learned organizing and public-speaking skills and concluded that voting power was necessary to pass lasting reforms."
+    ],
+    "explanation": "Temperance associations brought women into meetings, petition campaigns, fundraising, and public debate. Activists discovered that without political rights they depended on male voters and lawmakers. The experience helped turn moral reform into a broader demand for citizenship."
+  },
+  {
+    "section": "5.6",
+    "title": "Sojourner Truth",
+    "t": "mc",
+    "q": "Why is Sojourner Truth's 'Ain't I a Woman?' argument important to industrial-era reform history?",
+    "a": 1,
+    "opts": [
+      "It argued that only wealthy white women deserved rights.",
+      "It challenged both sexism and racism by showing that conventional claims about female weakness excluded the labor and suffering of Black women.",
+      "It defended slavery as an industrial necessity.",
+      "It opposed abolition and suffrage."
+    ],
+    "explanation": "Truth drew on her experience as a formerly enslaved Black woman to expose contradictions in both racial and gender hierarchies. Her argument broadened women's rights beyond the protected middle-class ideal of femininity. It also demonstrated the intersection of abolition and suffrage."
+  },
+  {
+    "section": "5.6",
+    "title": "Darwin and Natural Selection",
+    "t": "mc",
+    "q": "What did Charles Darwin's theory of natural selection attempt to explain?",
+    "a": 2,
+    "opts": [
+      "Why wealthy people deserve political control",
+      "Why one race should rule another",
+      "How heritable variations that improve reproductive success can become more common in populations over generations",
+      "How corporations form monopolies"
+    ],
+    "explanation": "Natural selection is a biological explanation of evolutionary change. Individuals vary, some variations are heritable, and traits that improve reproductive success can spread through a population. Darwin's theory did not scientifically establish social, racial, or economic rankings."
+  },
+  {
+    "section": "5.6",
+    "title": "Social Darwinism",
+    "t": "mc",
+    "q": "How did Social Darwinism misuse evolutionary ideas?",
+    "a": 0,
+    "opts": [
+      "It treated competition among classes, peoples, or nations as proof that the powerful were naturally superior and that inequality required no remedy.",
+      "It limited natural selection strictly to biology.",
+      "It proved all humans belonged to separate species.",
+      "It required governments to expand welfare programs."
+    ],
+    "explanation": "Social Darwinists transferred concepts such as competition and survival from biology to human society without valid scientific justification. They portrayed wealth, conquest, and domination as evidence of fitness. This reasoning rationalized inequality and opposition to reform."
+  },
+  {
+    "section": "5.6",
+    "title": "Scientific Racism",
+    "t": "sa",
+    "q": "Which statements accurately evaluate scientific racism? (Select all that apply.)",
+    "correct": [
+      "It used biased measurements and pseudoscience to rank human groups.",
+      "It helped justify imperialism, segregation, and unequal treatment.",
+      "It confused social power and prejudice with biological evidence.",
+      "Modern genetics rejects fixed biological racial hierarchies."
+    ],
+    "opts": [
+      "It used biased measurements and pseudoscience to rank human groups.",
+      "It helped justify imperialism, segregation, and unequal treatment.",
+      "It confused social power and prejudice with biological evidence.",
+      "Modern genetics rejects fixed biological racial hierarchies.",
+      "It objectively proved that political dominance equals genetic superiority.",
+      "It was simply another name for germ theory."
+    ],
+    "explanation": "Scientific racism gave prejudice the appearance of objective authority through distorted measurements, selective evidence, and false biological categories. It legitimized imperial and domestic systems of inequality. It is pseudoscience and is unrelated to the valid microbial evidence behind germ theory."
+  },
+  {
+    "section": "5.6",
+    "title": "Social Gospel",
+    "t": "mc",
+    "q": "How did the Social Gospel respond to industrial-era problems?",
+    "a": 1,
+    "opts": [
+      "It argued religion should ignore poverty and unsafe work.",
+      "It applied religious ethics to social reform, encouraging action against poverty, exploitation, and unhealthy urban conditions.",
+      "It promoted scientific racism as church doctrine.",
+      "It demanded the end of all charity."
+    ],
+    "explanation": "Social Gospel reformers believed religious faith required improving social conditions, not merely saving individuals. Churches and activists supported settlement work, charity, labor reform, and urban improvement. It represented a religious response to the disruptions of industrial capitalism."
+  },
+  {
+    "section": "5.7",
+    "title": "Romanticism",
+    "t": "mc",
+    "q": "Which qualities did Romanticism emphasize?",
+    "a": 3,
+    "opts": [
+      "Only mechanical accuracy and factory discipline",
+      "Statistical reports without emotion",
+      "The rejection of nature and imagination",
+      "Emotion, imagination, freedom, individuality, nature, and dramatic experience"
+    ],
+    "explanation": "Romantic artists and writers reacted against excessive faith in reason, rigid rules, and the dehumanizing aspects of industrial life. They emphasized intense feeling, creative freedom, heroic individuality, history, and the power of nature. Romanticism did not require literal realism."
+  },
+  {
+    "section": "5.7",
+    "title": "Realism",
+    "t": "mc",
+    "q": "How did Realism differ from Romanticism?",
+    "a": 0,
+    "opts": [
+      "Realism sought to depict ordinary life and social conditions without idealized exaggeration.",
+      "Realism focused only on mythical heroes and supernatural events.",
+      "Realism refused to portray workers.",
+      "Realism used no observation of society."
+    ],
+    "explanation": "Realists represented the world as they believed it actually existed, including labor, poverty, class conflict, and ordinary people. Their approach could expose industrial hardship and challenge idealized images. Romanticism generally placed greater weight on imagination, emotion, and dramatic subject matter."
+  },
+  {
+    "section": "5.7",
+    "title": "Industrial Art Comparison",
+    "t": "sa",
+    "q": "Which comparisons among industrial-era artistic movements are accurate? (Select all that apply.)",
+    "correct": [
+      "Romanticism stressed emotion and imagination.",
+      "Realism portrayed ordinary life and society more directly.",
+      "Impressionism explored changing light, color, and immediate visual experience.",
+      "Postimpressionists built on Impressionism while experimenting with structure, symbolism, and personal expression."
+    ],
+    "opts": [
+      "Romanticism stressed emotion and imagination.",
+      "Realism portrayed ordinary life and society more directly.",
+      "Impressionism explored changing light, color, and immediate visual experience.",
+      "Postimpressionists built on Impressionism while experimenting with structure, symbolism, and personal expression.",
+      "All four movements required identical subjects and techniques.",
+      "None responded to the changing modern world."
+    ],
+    "explanation": "These movements offered different ways of interpreting a rapidly changing world. Romanticism privileged feeling, Realism direct social observation, Impressionism fleeting visual perception, and Postimpressionism more deliberate structure or expression. Their differences show that industrial modernity inspired multiple artistic responses."
+  },
+  {
+    "section": "5.7",
+    "title": "Impressionism",
+    "t": "mc",
+    "q": "Which description best fits Impressionism?",
+    "a": 2,
+    "opts": [
+      "Perfectly smooth historical scenes painted only in dark studios",
+      "Technical diagrams of factory engines",
+      "Visible brushwork, attention to light and color, and scenes capturing a fleeting moment of modern life or nature",
+      "A political theory of collective ownership"
+    ],
+    "explanation": "Impressionists often worked with broken color and visible brushstrokes to capture changing light and immediate perception. Their subjects included landscapes, leisure, streets, and modern urban life. Impressionism was an artistic movement, not an economic doctrine."
+  },
+  {
+    "section": "5.7",
+    "title": "Postimpressionism",
+    "t": "mc",
+    "q": "Why is Postimpressionism called both a continuation of and a reaction against Impressionism?",
+    "a": 1,
+    "opts": [
+      "It copied Impressionism without any changes.",
+      "Artists retained interest in color and modern painting but pursued stronger structure, symbolism, emotion, or individual style.",
+      "It rejected all color.",
+      "It returned exclusively to medieval manuscript rules."
+    ],
+    "explanation": "Postimpressionists learned from Impressionist color and freedom but found its emphasis on fleeting perception insufficient. Different artists developed geometric structure, expressive color, symbolic meaning, or highly personal brushwork. The label covers several distinct experiments rather than one uniform style."
+  },
+  {
+    "section": "5.7",
+    "title": "Unit 5 Synthesis",
+    "t": "sa",
+    "q": "Which cause-and-effect chains accurately summarize major Unit 5 relationships? (Select all that apply.)",
+    "correct": [
+      "Agricultural productivity increased -> population grew and rural labor moved -> factories gained workers and consumers.",
+      "Coal and steam expanded power -> production and transportation accelerated -> industrial markets grew.",
+      "Rapid urbanization outpaced services -> disease and crowding increased -> public-health and urban reforms developed.",
+      "Harsh labor and inequality generated criticism -> reformers, socialists, unions, and women's movements organized responses.",
+      "Science joined industry -> steel, electricity, communication, and medicine transformed later industrial society."
+    ],
+    "opts": [
+      "Agricultural productivity increased -> population grew and rural labor moved -> factories gained workers and consumers.",
+      "Coal and steam expanded power -> production and transportation accelerated -> industrial markets grew.",
+      "Rapid urbanization outpaced services -> disease and crowding increased -> public-health and urban reforms developed.",
+      "Harsh labor and inequality generated criticism -> reformers, socialists, unions, and women's movements organized responses.",
+      "Science joined industry -> steel, electricity, communication, and medicine transformed later industrial society.",
+      "Industrialization occurred -> every social conflict and inequality immediately disappeared."
+    ],
+    "explanation": "Each correct chain links a major industrial cause to its social or economic effect and then to further change. Unit 5 emphasizes interconnected systems: agricultural, technological, demographic, ideological, and reform movements influenced one another. Industrialization created enormous growth, but it did not automatically or immediately eliminate conflict and inequality."
+  }
+]

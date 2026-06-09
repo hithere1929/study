@@ -1,0 +1,42 @@
+[
+  {
+    "part": "part1",
+    "idx": 12,
+    "section": "6.1"
+  },
+  {
+    "part": "part1",
+    "idx": 13,
+    "section": "6.2"
+  },
+  {
+    "part": "part2",
+    "idx": 21,
+    "section": "6.2"
+  },
+  {
+    "part": "part2",
+    "idx": 22,
+    "section": "6.1"
+  },
+  {
+    "part": "part2",
+    "idx": 24,
+    "section": "6.4"
+  },
+  {
+    "part": "part2",
+    "idx": 25,
+    "section": "6.7"
+  },
+  {
+    "part": "part3",
+    "idx": 0,
+    "section": "6.5"
+  },
+  {
+    "part": "part3",
+    "idx": 9,
+    "section": "6.7"
+  }
+]

@@ -1,0 +1,607 @@
+[
+  {
+    "section": "1.1",
+    "title": "Lab Safety",
+    "t": "mc",
+    "q": "According to the guidelines for Chemical & Sample Safety, which of the following is NOT a mandatory piece of information that must be written on the label of a student-prepared mixture or solution?",
+    "a": 2,
+    "opts": [
+      "Any warnings or precautions for use or storage",
+      "All contents and concentrations, along with expiration date if known",
+      "The physical state of the solution (e.g., liquid, gas, solid)",
+      "Initials of the preparer and date prepared"
+    ],
+    "explanation": "According to the Chemical & Sample Safety guidelines in the Unit 1.1 notes, any student-prepared mixtures, solutions, or samples must be clearly labeled with: (1) all contents and concentrations, (2) any warnings or precautions for use or storage, (3) initials of the preparer, (4) date prepared, and (5) expiration date if known. The physical state of the solution (e.g., liquid, gas, solid) is not a mandatory labeling requirement. Therefore, the third option is correct. The other options are incorrect because warnings and precautions, contents and concentrations, and the initials of the preparer along with the date prepared are all explicitly mandatory items required on the label to maintain chemical safety and traceability in the lab."
+  },
+  {
+    "section": "1.1",
+    "title": "Lab Safety",
+    "t": "mc",
+    "q": "In the laboratory, a student accidentally pours out too much of a chemical reagent into a beaker. What is the correct protocol regarding the excess unused reagent?",
+    "a": 2,
+    "opts": [
+      "Dispose of the excess reagent in the sink immediately with running water.",
+      "Pour it back into the original reagent container to conserve resources.",
+      "Do not return the unused reagent to the original container to avoid contamination.",
+      "Leave the beaker uncovered on the lab bench for the next class to use."
+    ],
+    "explanation": "The correct laboratory protocol is to never return unused reagent to the original container to avoid contamination. Once a chemical has been poured out, it is exposed to potential impurities from the air, the beaker, and handling tools; returning it could compromise the purity of the entire stock solution. Thus, the third option is correct. The first option (sink disposal) is incorrect because many chemical reagents are toxic or environmentally hazardous and must be disposed of in designated waste containers rather than down the drain. The second option is incorrect because, although it conserves resources, it violates critical safety protocol by risking cross-contamination of the stock. The fourth option is incorrect because leaving chemical containers uncovered on a lab bench creates dangerous inhalation, spill, and evaporation hazards, violating basic laboratory safety."
+  },
+  {
+    "section": "1.1",
+    "title": "Lab Safety",
+    "t": "mc",
+    "q": "Which of the following statements matches the lab safety protocol for performing procedures that require hazardous chemicals?",
+    "a": 0,
+    "opts": [
+      "They must be performed under the chemical fume hood by trained laboratory personnel.",
+      "They must be performed in the open lab near a window for natural ventilation.",
+      "They must be conducted outside the main laboratory building in a designated area.",
+      "They can be done at any standard lab bench as long as safety goggles are worn."
+    ],
+    "explanation": "The Unit 1.1 safety rules state that any procedure requiring hazardous chemicals must be performed under the chemical fume hood by trained laboratory personnel. Fume hoods safely vent toxic, irritating, or flammable vapors away from the laboratory occupants. Therefore, the first option is correct. The second option is incorrect because natural ventilation from a window is unpredictable, insufficient, and cannot prevent hazardous chemical vapors from dispersing into the room. The third option is incorrect because conducting experiments outdoors is impractical and lacks the specialized containment systems of a fume hood. The fourth option is incorrect because safety goggles only protect the eyes from splashes but do not prevent the inhalation of hazardous chemical fumes."
+  },
+  {
+    "section": "1.1",
+    "title": "Lab Safety",
+    "t": "mc",
+    "q": "What is defined as \"The Golden Rule\" of lab safety in the Unit 1.1 notes?",
+    "a": 2,
+    "opts": [
+      "Wash hands thoroughly when leaving the lab, especially before eating.",
+      "Wear gloves, a lab coat, and goggles at all times in the laboratory.",
+      "Follow all instructions given by the lab manager and/or supervisors.",
+      "Read all labels and safety instructions carefully before performing any tasks."
+    ],
+    "explanation": "The Unit 1.1 notes explicitly define \"The Golden Rule\" of lab safety as following all instructions given by the lab manager and/or supervisors. This ensures that safety standards are consistently maintained and that students are guided by experienced personnel. Therefore, the third option is correct. The other options (washing hands, wearing full PPE, and reading labels) are incorrect because, while they are critical safety and hygiene rules that must be followed in the laboratory, they are not designated as \"The Golden Rule\" in the notes."
+  },
+  {
+    "section": "1.1",
+    "title": "Lab Safety",
+    "t": "mc",
+    "q": "For further information about chemical safety, properties, and disposal beyond what is written on a chemical container's label, what resource should you refer to?",
+    "a": 3,
+    "opts": [
+      "The course textbook",
+      "The safety symbols chart",
+      "The lab equipment manual",
+      "The MSDS"
+    ],
+    "explanation": "The notes state that for further information about chemical safety, properties, and disposal beyond what is written on the label, you must refer to the MSDS (Material Safety Data Sheet). The MSDS is a comprehensive document that outlines hazards, handling precautions, storage, and emergency response procedures for specific chemicals. Thus, the fourth option is correct. The first option is incorrect because textbooks explain general biological concepts and do not contain detailed safety profiles for specific lab reagents. The second option is incorrect because safety symbol charts only provide quick visual warnings of immediate hazards but lack detailed handling or disposal procedures. The third option is incorrect because equipment manuals only provide instructions on operating machinery, not chemical safety properties."
+  },
+  {
+    "section": "1.1",
+    "title": "Lab Safety",
+    "t": "mc",
+    "q": "To prevent dropping or spilling reagent bottles and beakers when moving them around the lab, what is the specified protocol?",
+    "a": 0,
+    "opts": [
+      "Carry them with two hands, or use a cart when available.",
+      "Support them by their necks or rims using tongs or clamps.",
+      "Carry them with one hand under the base while keeping the other hand free.",
+      "Place them inside a backpack or jacket pocket to keep hands free."
+    ],
+    "explanation": "To prevent dropping or spilling reagent bottles and beakers when moving them around the lab, the specified protocol in the Unit 1.1 notes is to carry them with two hands, or use a cart when available. This method provides maximum support and control over the glassware. Therefore, the first option is correct. The second option is incorrect because tongs or clamps are designed for specific tasks (like holding hot glass over a burner) and do not provide a secure grip for carrying bottles across the lab. The third option is incorrect because carrying containers with only one hand reduces stability and increases the risk of accidental drops. The fourth option is incorrect because placing chemical glassware in pockets or backpacks is extremely hazardous, as they can easily break, causing chemical spills and direct contact with the body."
+  },
+  {
+    "section": "1.1",
+    "title": "Lab Safety",
+    "t": "sa",
+    "q": "Which of the following are specified requirements for laboratory clothing and hair safety according to the Unit 1.1 notes? Select all that apply.",
+    "correct": [
+      "Long hair must be kept tied back.",
+      "Wear long pants, closed-toed shoes, and clothing that covers bare skin.",
+      "Clothing should not be loose or baggy, in order to avoid accidents."
+    ],
+    "opts": [
+      "Long hair must be kept tied back.",
+      "Wear long pants, closed-toed shoes, and clothing that covers bare skin.",
+      "Clothing should not be loose or baggy, in order to avoid accidents.",
+      "Lab coats and gloves must be made of fireproof synthetic polyester.",
+      "Backpacks and jackets must be worn at all times to protect the torso."
+    ],
+    "explanation": "For laboratory clothing and hair safety, the Unit 1.1 notes require that: (1) long hair must be kept tied back to prevent it from catching fire, getting caught in equipment, or touching chemicals; (2) students must wear long pants, closed-toed shoes, and clothing that covers bare skin to protect against chemical spills and broken glass; and (3) clothing should not be loose or baggy to avoid knocking over containers or coming into contact with open flames. Thus, the first three options are correct. The fourth option is incorrect because synthetic polyester is highly flammable and melts when exposed to heat, which can cause severe skin burns; lab coats are usually cotton or flame-resistant, and gloves are selected based on chemical compatibility. The fifth option is incorrect because backpacks and jackets can interfere with movement and present tripping hazards, and the notes state they should be stored underneath tables rather than worn during experiments."
+  },
+  {
+    "section": "1.1",
+    "title": "Lab Safety",
+    "t": "sa",
+    "q": "According to the basic lab safety rules, which of the following actions are strictly prohibited in the laboratory? Select all that apply.",
+    "correct": [
+      "Storing food or beverages in the lab refrigerator.",
+      "Working alone in the laboratory without supervision.",
+      "Leaving an on-going experiment or hot plate in use unattended."
+    ],
+    "opts": [
+      "Storing food or beverages in the lab refrigerator.",
+      "Working alone in the laboratory without supervision.",
+      "Leaving an on-going experiment or hot plate in use unattended.",
+      "Washing hands thoroughly upon leaving the laboratory.",
+      "Using a pipette pump to draw liquids."
+    ],
+    "explanation": "According to basic lab safety rules in the Unit 1.1 notes, storing food or beverages in the lab refrigerator, working alone in the laboratory without supervision, and leaving an on-going experiment or hot plate in use unattended are all strictly prohibited. Food storage is banned because of the high risk of chemical or biological contamination leading to ingestion of toxic substances; working alone is banned because immediate help would not be available in case of an accident; leaving experiments or heating elements unattended is banned because they can quickly lead to runaway reactions or fires. Thus, the first three options are correct. The fourth option is incorrect because washing hands thoroughly upon leaving the lab is a required safety practice, not a prohibited action. The fifth option is incorrect because using a pipette pump is the correct protocol for drawing liquids, whereas mouth pipetting is what is strictly prohibited."
+  },
+  {
+    "section": "1.2",
+    "title": "Intro to Biology",
+    "t": "mc",
+    "q": "When studying the organizational hierarchy of living things from small to large, what term describes the new properties that develop as you move up in complexity?",
+    "a": 1,
+    "opts": [
+      "Systematic categories",
+      "Emergent properties",
+      "Evolutionary adaptations",
+      "Homeostatic variables"
+    ],
+    "explanation": "In the organizational hierarchy of life, new functions and characteristics that develop as you move up in complexity (e.g., from cells to tissues, organs, and organ systems) are called \"emergent properties.\" These properties emerge due to the specific arrangement and interactions of the lower-level parts, not simply because the parts exist. Therefore, the second option is correct. The first option is incorrect because systematic categories refer to taxonomic classifications (like domain and kingdom), not biological properties arising from complexity. The third option is incorrect because evolutionary adaptations are inherited traits that aid survival in a specific environment. The fourth option is incorrect because homeostatic variables are physiological parameters (like pH or temperature) that are regulated, not the properties emerging from hierarchy."
+  },
+  {
+    "section": "1.2",
+    "title": "Intro to Biology",
+    "t": "mc",
+    "q": "According to the notes, which physiological system is mostly responsible for controlling the unconscious biological adjustments needed to maintain homeostasis?",
+    "a": 0,
+    "opts": [
+      "Nervous system",
+      "Endocrine system",
+      "Digestive system",
+      "Muscular system"
+    ],
+    "explanation": "The Unit 1.2 notes state that homeostatic biological adjustments do not require conscious activity and are controlled mostly by nervous systems. The nervous system acts as the rapid control center that detects deviations from the norm and triggers responses (e.g., sweating when hot). Therefore, the first option is correct. The second option is incorrect because, although the endocrine system also regulates homeostasis using hormones, the notes specifically highlight the nervous system as mostly responsible for these unconscious adjustments. The third option is incorrect because the digestive system processes food but does not coordinate systemic homeostatic adjustments. The fourth option is incorrect because the muscular system serves as an effector that carries out movements or generates heat, not the coordinating system."
+  },
+  {
+    "section": "1.2",
+    "title": "Intro to Biology",
+    "t": "mc",
+    "q": "While scientists have identified and named close to 2 million different species on Earth, what is the actual estimated range of Earth's total biodiversity?",
+    "a": 2,
+    "opts": [
+      "5 to 10 million species",
+      "20 to 50 million species",
+      "10 to 100 million species",
+      "50 to 100 million species"
+    ],
+    "explanation": "The Unit 1.2 notes state that while scientists have identified and named close to 2 million different species on Earth, actual estimates of Earth's total diversity range from 10 to 100 million species. This reveals that the vast majority of organisms have yet to be discovered. Therefore, the third option is correct. The other options are incorrect because ranges of 5-10 million, 20-50 million, and 50-100 million species do not match the specific estimated range documented in the course notes."
+  },
+  {
+    "section": "1.2",
+    "title": "Intro to Biology",
+    "t": "mc",
+    "q": "Which of the following best defines \"systematics\" as distinguished from \"taxonomy\"?",
+    "a": 1,
+    "opts": [
+      "The process of identifying and naming individual species",
+      "The study of evolutionary relationships between organisms",
+      "The organization of life based on their energy acquisition methods",
+      "The division of organisms into prokaryotic and eukaryotic categories"
+    ],
+    "explanation": "The Unit 1.2 notes define systematics as the study of evolutionary relationships between organisms. While taxonomy focuses on identifying, naming, and classifying organisms, systematics aims to understand how organisms are related through evolution. Therefore, the second option is correct. The first option is incorrect because it describes taxonomy, not systematics. The third option is incorrect because organizing life by energy acquisition methods describes nutritional grouping, not systematics. The fourth option is incorrect because dividing organisms into prokaryotic and eukaryotic categories describes a basic cellular division rather than the broad evolutionary studies of systematics."
+  },
+  {
+    "section": "1.2",
+    "title": "Intro to Biology",
+    "t": "mc",
+    "q": "Which domain contains prokaryotic organisms that are specifically known for living in Earth's extreme environments, such as deep-sea vents or volcanic chambers?",
+    "a": 2,
+    "opts": [
+      "Bacteria",
+      "Eukarya",
+      "Archaea",
+      "Protista"
+    ],
+    "explanation": "Domain Archaea consists of prokaryotic organisms that are specifically known for living in Earth's extreme environments, such as deep-sea hydrothermal vents, volcanic chambers, and highly acidic or saline waters. Therefore, the third option is correct. The first option is incorrect because, although Domain Bacteria also consists of prokaryotic organisms, they are described in the notes as the most diverse and widespread prokaryotes, rather than being characterized by extreme environments. The second option is incorrect because Domain Eukarya consists of eukaryotic organisms containing membrane-bound nuclei. The fourth option is incorrect because Protista is a kingdom within the Domain Eukarya, not a domain itself, and contains eukaryotic organisms."
+  },
+  {
+    "section": "1.2",
+    "title": "Intro to Biology",
+    "t": "mc",
+    "q": "As one moves up the levels of the basic taxonomic classification hierarchy (from species to domain), what occurs regarding the number of individuals and their shared characteristics?",
+    "a": 0,
+    "opts": [
+      "The level contains more individuals, but the individuals share fewer characteristics.",
+      "The level contains fewer individuals, and the individuals share more characteristics.",
+      "The level contains more individuals, and the individuals share more characteristics.",
+      "The level contains fewer individuals, and the individuals share fewer characteristics."
+    ],
+    "explanation": "The classification categories in taxonomy go from least inclusive (species) to most inclusive (domain). The notes state that as you move up a level in the classification hierarchy, the level contains more individuals, but the individuals share fewer characteristics. This occurs because the category becomes broader and groups more diverse organisms together. Therefore, the first option is correct. The second option is incorrect because it describes the trend when moving down the hierarchy towards species. The third option is incorrect because diversity increases as you move up, meaning individuals share fewer (not more) characteristics. The fourth option is incorrect because the number of individuals increases (not decreases) as you move to broader levels."
+  },
+  {
+    "section": "1.2",
+    "title": "Intro to Biology",
+    "t": "sa",
+    "q": "Which of the following are part of the seven basic characteristics shared by all living things as described in the Unit 1.2 notes? Select all that apply.",
+    "correct": [
+      "Living things maintain homeostasis.",
+      "Living things acquire materials and energy.",
+      "Living things have adaptations.",
+      "Living things are organized.",
+      "Living things can reproduce and develop."
+    ],
+    "opts": [
+      "Living things maintain homeostasis.",
+      "Living things acquire materials and energy.",
+      "Living things have adaptations.",
+      "Living things require a conscious nervous system to make biological adjustments.",
+      "Living things are organized.",
+      "Living things can reproduce and develop."
+    ],
+    "explanation": "The Unit 1.2 notes list seven basic characteristics shared by all living things: (1) they are organized, (2) they acquire materials and energy, (3) they maintain homeostasis, (4) they respond, (5) they can reproduce, (6) they can develop, and (7) they have adaptations. Maintaining homeostasis, acquiring materials/energy, having adaptations, being organized, and reproducing/developing are all included in this list. Thus, the first, second, third, fifth, and sixth options are correct. The fourth option is incorrect because many organisms (like plants, fungi, and bacteria) lack a conscious nervous system entirely but are still fully capable of maintaining homeostasis and making biological adjustments using cellular or chemical pathways."
+  },
+  {
+    "section": "1.2",
+    "title": "Intro to Biology",
+    "t": "sa",
+    "q": "The notes list several examples of living things responding and interacting with their environment or other living things. Which of the following are specific examples mentioned in the text? Select all that apply.",
+    "correct": [
+      "Migration of birds based on the season.",
+      "Locomotion of unicellular organisms towards or away from a chemical.",
+      "Plant leaves moving towards the sun."
+    ],
+    "opts": [
+      "Migration of birds based on the season.",
+      "Locomotion of unicellular organisms towards or away from a chemical.",
+      "Plant leaves moving towards the sun.",
+      "Mammals hibernating to reduce metabolic energy demand during winter.",
+      "Fungi releasing spores in response to dry environmental conditions."
+    ],
+    "explanation": "To illustrate how living things respond and interact with their environment, the Unit 1.2 notes explicitly mention three examples: (1) locomotion towards or away from a chemical in unicellular organisms (chemotaxis), (2) migration of birds based on the season, and (3) plant leaves moving towards the sun (phototropism). Thus, the first three options are correct. The fourth and fifth options (mammals hibernating and fungi releasing spores) are incorrect because, although they are legitimate environmental responses seen in nature, they are not listed as examples in the Unit 1.2 lecture notes."
+  },
+  {
+    "section": "1.3",
+    "title": "The Process of Science",
+    "t": "mc",
+    "q": "When formulating a hypothesis, a scientist combines isolated facts into a cohesive whole by making generalizations based on a large number of specific observations. What is this type of thinking called?",
+    "a": 1,
+    "opts": [
+      "Deductive reasoning",
+      "Inductive reasoning",
+      "Statistical analysis",
+      "Experimental design"
+    ],
+    "explanation": "The notes state that when formulating a hypothesis, a scientist uses inductive reasoning, or creative thinking, to combine isolated facts into a cohesive whole. Inductive reasoning makes generalizations based on collecting and analyzing a large number of specific observations. Therefore, the second option is correct. The first option is incorrect because deductive reasoning involves starting with a general premise or hypothesis and deriving specific predictions (using \"if... then\" logic) to test in an experiment. The third option is incorrect because statistical analysis is a mathematical tool used to analyze data after experimentation. The fourth option is incorrect because experimental design is the planning of the experimental setup and controls, not the reasoning process used to form a hypothesis."
+  },
+  {
+    "section": "1.3",
+    "title": "The Process of Science",
+    "t": "mc",
+    "q": "During which step of the scientific method does a scientist utilize deductive reasoning to make a prediction based on knowledge of factors in the experiment?",
+    "a": 2,
+    "opts": [
+      "Observation",
+      "Formulating a hypothesis",
+      "Experimentation",
+      "Collecting data"
+    ],
+    "explanation": "According to the notes, a scientist utilizes deductive reasoning during the experimentation phase of the scientific method to make a specific prediction based on knowledge of the factors in the experiment (using \"if... then\" logic). Therefore, the third option is correct. The first option is incorrect because observation is the initial phase of gathering info with senses or tools, before predictions are formulated. The second option is incorrect because, as stated in the notes, scientists use inductive reasoning (not deductive) to combine observations and formulate a hypothesis. The fourth option is incorrect because collecting data is the act of recording experimental results and does not involve making predictions."
+  },
+  {
+    "section": "1.3",
+    "title": "The Process of Science",
+    "t": "mc",
+    "q": "In a well-designed controlled experiment, what is the primary difference between the test group and the control group?",
+    "a": 1,
+    "opts": [
+      "The control group is exposed to multiple experimental variables, while the test group remains unchanged.",
+      "The test group is exposed to the experimental variable, whereas the control group is not.",
+      "The test group undergoes statistical analysis, while the control group is analyzed qualitatively.",
+      "The test group consists of computer-simulated models, while the control group consists of live organisms."
+    ],
+    "explanation": "The Unit 1.3 notes state that in an experimental design, the test groups are exposed to the experimental variable, while the control group is not. Keeping the control group unexposed allows it to serve as a baseline to determine if the experimental variable is the true cause of any observed differences. Thus, the second option is correct. The first option is incorrect because exposing the control group to multiple variables would ruin the control baseline, and it is the test group that is altered, not the control. The third option is incorrect because both groups must undergo the same statistical and qualitative analyses for a fair comparison. The fourth option is incorrect because both groups must consist of the same subject type (e.g., both live organisms or both models) to ensure that only the experimental variable differs."
+  },
+  {
+    "section": "1.3",
+    "title": "The Process of Science",
+    "t": "mc",
+    "q": "How does a scientific theory differ from a hypothesis?",
+    "a": 2,
+    "opts": [
+      "A theory is a tentative guess, whereas a hypothesis is a proven principle or law.",
+      "A theory is tested using inductive reasoning, while a hypothesis is tested using deductive reasoning.",
+      "A theory is much broader in scope and is supported by a large and growing body of evidence.",
+      "A theory is a localized explanation of a single event, while a hypothesis explains universal phenomena."
+    ],
+    "explanation": "The notes define a scientific theory as being much broader in scope than a hypothesis and supported by a large and usually growing body of evidence. A hypothesis is a tentative explanation for a single event, whereas a theory integrates many hypotheses and observations to explain a wide range of natural phenomena. Therefore, the third option is correct. The first option is incorrect because a hypothesis is a tentative guess, whereas a theory is a highly supported framework that can become a Principle or Law over time. The second option is incorrect because both hypotheses and theories are tested using deductive reasoning. The fourth option is incorrect because a theory explains broad, universal phenomena (like cell biology or evolution), while a hypothesis is localized to a specific question or experiment."
+  },
+  {
+    "section": "1.3",
+    "title": "The Process of Science",
+    "t": "mc",
+    "q": "According to the Unit 1.3 notes, what are two fundamental theories of biology?",
+    "a": 1,
+    "opts": [
+      "The Theory of Homeostasis and the Gene Theory",
+      "The Theory of Evolution and the Cell Theory",
+      "The Germ Theory and the Theory of Biogenesis",
+      "The Theory of Natural Selection and the DNA Theory"
+    ],
+    "explanation": "The Unit 1.3 notes explicitly list the Theory of Evolution (all living things have a common ancestor, but each is adapted to a particular way of life) and the Cell Theory (all organisms are composed of cells, and new cells only come from pre-existing cells) as two fundamental theories of biology. Therefore, the second option is correct. The other options are incorrect because the Theory of Homeostasis, Gene Theory, Germ Theory, Theory of Biogenesis, Theory of Natural Selection, and DNA Theory are not listed as the two fundamental theories of biology in the Unit 1.3 notes."
+  },
+  {
+    "section": "1.3",
+    "title": "The Process of Science",
+    "t": "mc",
+    "q": "In the controlled mouse camouflage experiment (Case Study 2), which of the following correctly describes the experimental design and findings?",
+    "a": 0,
+    "opts": [
+      "Noncamouflaged mouse models had a much higher percentage of attacks in both beach and inland habitats.",
+      "Noncamouflaged mouse models matched the native habitat coloration and suffered fewer predator attacks.",
+      "Camouflaged and noncamouflaged mouse models differed by multiple factors, including size and coloration.",
+      "Inland mouse populations showed no preference when attacking beach-colored models."
+    ],
+    "explanation": "In the controlled mouse camouflage experiment (Case Study 2), scientists compared a test group of noncamouflaged mouse models and a control group of camouflaged models native to the area. The results showed that the noncamouflaged models had a much higher percentage of attacks in both the beach and inland habitats, supporting the camouflage adaptation hypothesis. Therefore, the first option is correct. The second option is incorrect because the noncamouflaged models did not match the native habitat and suffered more (not fewer) attacks. The third option is incorrect because the groups differed by only one factor (coloration), which is required for a controlled experiment. The fourth option is incorrect because inland predators showed a strong preference, attacking noncamouflaged (beach-colored) models significantly more often."
+  },
+  {
+    "section": "1.3",
+    "title": "The Process of Science",
+    "t": "sa",
+    "q": "Which of the following are among the six standard steps of the scientific method listed in the Unit 1.3 notes? Select all that apply.",
+    "correct": [
+      "Make Conclusions",
+      "Make a Hypothesis",
+      "Collect and Analyze Data",
+      "Ask a Question"
+    ],
+    "opts": [
+      "Make Conclusions",
+      "Make a Hypothesis",
+      "Formulate a Scientific Theory",
+      "Collect and Analyze Data",
+      "Ask a Question",
+      "Publish a Peer-Reviewed Journal"
+    ],
+    "explanation": "Under the Case Study (In Class) section of the Unit 1.3 notes, the six standard steps of the scientific method are listed as: (1) Make an Observation, (2) Ask a Question, (3) Make a Hypothesis, (4) Perform an Experiment(s), (5) Collect and Analyze Data, and (6) Make Conclusions. Making Conclusions, Making a Hypothesis, Collecting and Analyzing Data, and Asking a Question are all correct because they are explicitly part of this cycle. The third option (Formulate a Scientific Theory) is incorrect because a theory is a broad framework supported by vast evidence over time, not a step in the initial cycle of the scientific method. The sixth option (Publish a Peer-Reviewed Journal) is incorrect because publishing, while critical for scientific sharing, is a method of reporting, not one of the six basic, standard cycling steps."
+  },
+  {
+    "section": "1.3",
+    "title": "The Process of Science",
+    "t": "sa",
+    "q": "According to the notes, which of the following statements correctly describe scientific theories, principles, or science as a social activity? Select all that apply.",
+    "correct": [
+      "Science is a social activity where scientists work in teams and share information.",
+      "When a theory is supported by all experimentation over a longer period of time, it may be referred to as a Principle or Law.",
+      "Scientific findings must be replicable by the scientific community.",
+      "Peer-reviewed publications and meetings are key methods for sharing scientific information."
+    ],
+    "opts": [
+      "Science is a social activity where scientists work in teams and share information.",
+      "When a theory is supported by all experimentation over a longer period of time, it may be referred to as a Principle or Law.",
+      "Scientific findings must be replicable by the scientific community.",
+      "A scientific theory is narrow in scope and requires only a single successful experiment to be accepted.",
+      "Peer-reviewed publications and meetings are key methods for sharing scientific information."
+    ],
+    "explanation": "The Unit 1.3 notes state that science is a social activity where scientists work in teams and share information through peer-reviewed publications, meetings, and personal communication. The notes also mention that scientific findings must be replicable by the scientific community, and when a theory is supported by all experimentation over a longer period of time, it may be referred to as a Principle or Law. Thus, the first, second, third, and fifth options are correct. The fourth option is incorrect because a scientific theory is much broader (not narrow) in scope than a hypothesis and requires a large, growing body of evidence to be accepted, rather than a single successful experiment."
+  },
+  {
+    "section": "1.4",
+    "title": "Microscopy",
+    "t": "mc",
+    "q": "Since the focal length of a microscope lens is fixed (unchangeable), how is the image focused, and how is it magnified?",
+    "a": 2,
+    "opts": [
+      "To focus, the lens is replaced with one of a different shape; to magnify, the distance from the lens to the detector is increased.",
+      "To focus, a condenser lens is removed; to magnify, the LED light source intensity is increased.",
+      "To focus, the distance from the lens to the object is changed; to magnify, the lens is replaced with one having a different focal length.",
+      "To focus, the wavelength of the light is adjusted; to magnify, the aperture is opened wider."
+    ],
+    "explanation": "The Unit 1.4 notes explain that because a microscope lens's focal length is fixed (unchangeable), focusing the image is achieved by changing the distance from the lens to the object (using the focus knobs). To magnify the image, the lens is replaced with one having a different focal length (switching the objective lens on the nosepiece). Therefore, the third option is correct. The first option is incorrect because replacing the lens changes magnification, not focus. The second option is incorrect because removing the condenser lens does not focus the image, and increasing light intensity changes brightness, not magnification. The fourth option is incorrect because adjusting light wavelength changes the resolution limit, not the focus, and opening the aperture adjusts light angles, not magnification."
+  },
+  {
+    "section": "1.4",
+    "title": "Microscopy",
+    "t": "mc",
+    "q": "Which microscope lens is specifically designed to gather electromagnetic radiation (ER) from the source and focus it directly onto the specimen?",
+    "a": 1,
+    "opts": [
+      "Objective lens",
+      "Condenser lens",
+      "Projector lens",
+      "Intermediate lens"
+    ],
+    "explanation": "The Unit 1.4 notes define the condenser lens as the lens that gathers electromagnetic radiation (ER) from the source and focuses it directly onto the specimen. Therefore, the second option is correct. The first option (objective lens) is incorrect because it gathers ER after it has passed through the specimen to project a magnified image. The third and fourth options (projector and intermediate lenses) are incorrect because they are used in electron microscopy to project the final image onto a screen or detector, not to focus light from the source onto the specimen."
+  },
+  {
+    "section": "1.4",
+    "title": "Microscopy",
+    "t": "mc",
+    "q": "A student measures the diameter of a specimen under a microscope. The actual object's diameter is 5 µm, and the diameter on the resulting image is 12.5 mm. What is the total magnification of this image?",
+    "a": 0,
+    "opts": [
+      "2500X",
+      "250X",
+      "25X",
+      "25000X"
+    ],
+    "explanation": "Magnification is calculated as image size divided by actual object size. First, convert the image diameter of 12.5 mm into micrometers (µm): 12.5 mm * 1000 µm/mm = 12500 µm. Then, divide by the actual size of the object: Magnification = 12500 µm / 5 µm = 2500X. This matches the exact calculation example given in the Unit 1.4 notes, making the first option correct. The other options (250X, 25X, 25000X) are incorrect because they represent math or unit conversion errors."
+  },
+  {
+    "section": "1.4",
+    "title": "Microscopy",
+    "t": "mc",
+    "q": "In microscopy, how is \"resolution\" defined, and how does the distance between two points relate to its quality?",
+    "a": 1,
+    "opts": [
+      "The degree of image enlargement; a higher value means the image has been magnified more times.",
+      "The ability to distinguish two adjacent points; higher resolution corresponds to a shorter distance.",
+      "The surface area of the specimen visible; higher resolution corresponds to a larger field of view.",
+      "The intensity of light passing through the specimen; higher resolution requires higher voltage."
+    ],
+    "explanation": "The notes define resolution as the ability to distinguish two points that are closely adjacent and would otherwise appear as a single point. A higher (better) resolution corresponds to a shorter distance between these two points, meaning smaller structures can be resolved. Therefore, the second option is correct. The first option is incorrect because the degree of image enlargement defines magnification, not resolution. The third option is incorrect because the visible surface area describes the field of view, which decreases as resolution and magnification increase. The fourth option is incorrect because resolution is a measure of optical clarity, not light intensity or voltage."
+  },
+  {
+    "section": "1.4",
+    "title": "Microscopy",
+    "t": "mc",
+    "q": "What is the physical limit of resolution for light microscopy, which is constrained by the wavelength of visible light?",
+    "a": 1,
+    "opts": [
+      "200 µm",
+      "0.2 µm",
+      "2.0 nm",
+      "0.2 mm"
+    ],
+    "explanation": "The Unit 1.4 notes state that the resolution of light microscopy is physically limited by the wavelength of visible light. The smallest resolution (minimum distance to distinguish two points) for light microscopy is 0.2 µm. Therefore, the second option is correct. The first option (200 µm) and the fourth option (0.2 mm) are incorrect because they represent the resolution limit of the unaided human eye, not a light microscope. The third option (2.0 nm) is incorrect because this high resolution can only be achieved by electron microscopes, which use short-wavelength electron beams."
+  },
+  {
+    "section": "1.4",
+    "title": "Microscopy",
+    "t": "mc",
+    "q": "Why are Scanning Electron Microscope (SEM) images limited to displaying only the surface features of an object in black and white?",
+    "a": 3,
+    "opts": [
+      "SEM relies on light-reflecting dyes that absorb color, and electrons are too slow to penetrate the specimen's interior.",
+      "SEM has a long focal length that cannot resolve color, and the detector is only sensitive to thermal radiation.",
+      "SEM requires sample staining with dark carbon films, and the light source lacks the energy to reflect colors.",
+      "SEM uses electrons that do not pass through the sample, and color is absent because the electron wavelength is outside the visible spectrum."
+    ],
+    "explanation": "The Unit 1.4 notes state that SEM (Scanning Electron Microscope) scans only the surface of the object of interest because the electrons do not pass through the sample (TEM is used to see inside samples). Furthermore, the resulting images appear in black and white because color is based upon the visible light spectrum, and the wavelength of electrons is outside that spectrum. Thus, the fourth option is correct. The first option is incorrect because SEM uses electrons, not light-reflecting dyes. The second option is incorrect because color perception is independent of focal length or thermal radiation. The third option is incorrect because, while samples may be coated with carbon or metals, the lack of color is due to the electron wavelength being outside the visible light spectrum."
+  },
+  {
+    "section": "1.4",
+    "title": "Microscopy",
+    "t": "sa",
+    "q": "According to the size and scale metric hierarchy listed in the Unit 1.4 notes, which of the following correctly orders the metric prefixes from smallest value to largest value? Select all that apply.",
+    "correct": [
+      "Pico < Nano < Micro < Milli < Meter",
+      "Milli > Micro > Nano > Pico",
+      "Meter > Milli > Micro > Nano > Pico"
+    ],
+    "opts": [
+      "Pico < Nano < Micro < Milli < Meter",
+      "Milli > Micro > Nano > Pico",
+      "Pico < Micro < Nano < Milli < Meter",
+      "Meter > Milli > Micro > Nano > Pico",
+      "Nano < Pico < Micro < Milli"
+    ],
+    "explanation": "According to the metric scale in the Unit 1.4 notes, the prefixes in order from smallest to largest are pico (10^-12), nano (10^-9), micro (10^-6), milli (10^-3), and meter (10^0). Based on this hierarchy: (1) 'Pico < Nano < Micro < Milli < Meter' is correct (increasing order); (2) 'Milli > Micro > Nano > Pico' is correct (decreasing order); and (3) 'Meter > Milli > Micro > Nano > Pico' is correct (decreasing order starting at meter). Thus, the first, second, and fourth options are correct. The third option is incorrect because micro (10^-6) is larger than nano (10^-9), so nano cannot follow micro in an increasing order. The fifth option is incorrect because nano (10^-9) is larger than pico (10^-12), so pico cannot follow nano in an increasing order."
+  },
+  {
+    "section": "1.4",
+    "title": "Microscopy",
+    "t": "sa",
+    "q": "Based on the microscopy notes, which of the following statements are true? Select all that apply.",
+    "correct": [
+      "A scale bar remains valid even when the overall size of the image is changed (enlarged or shrunk).",
+      "TEM (Transmission Electron Microscope) is used to see inside samples, whereas SEM scans only the surface.",
+      "A compound microscope contains multiple lenses that compound or multiply the magnifying power."
+    ],
+    "opts": [
+      "A scale bar remains valid even when the overall size of the image is changed (enlarged or shrunk).",
+      "TEM (Transmission Electron Microscope) is used to see inside samples, whereas SEM scans only the surface.",
+      "The magnification value given by a microscope is valid even if the image is enlarged or printed at a larger size.",
+      "A compound microscope contains multiple lenses that compound or multiply the magnifying power.",
+      "The resolution of the unaided human eye allows it to distinguish two points that are 0.2 µm apart."
+    ],
+    "explanation": "Based on the Unit 1.4 notes, a scale bar remains valid even when the overall size of the image is changed (enlarged or shrunk) because it resizes proportionally with the image. The notes also state that TEM is used to see inside samples while SEM scans only the surface, and a compound microscope is so-named because multiple lenses compound (multiply) the magnifying power of the unit. Thus, the first, second, and fourth options are correct. The third option is incorrect because a text-based magnification value (e.g., '100X') becomes invalid if the image is resized or printed at a different size, as the physical size changes but the text does not. The fifth option is incorrect because the resolution limit of the unaided human eye is 0.2 mm (200 µm), not 0.2 µm (which is the limit of light microscopes)."
+  },
+  {
+    "section": "1.5",
+    "title": "Biotechnology and Bioethics",
+    "t": "mc",
+    "q": "According to the Unit 1.5 notes, what is the key distinguishing factor between a biologist and a biological scientist?",
+    "a": 2,
+    "opts": [
+      "The level of formal educational degrees obtained",
+      "The use of advanced technological tools",
+      "The focus on research",
+      "The employment in government agencies versus academia"
+    ],
+    "explanation": "The Unit 1.5 notes state that the difference between a biologist and a biological scientist is research. A biologist is broadly defined as an expert in or student of living organisms, whereas a biological scientist is actively engaged in conducting research to generate new scientific knowledge. Therefore, the third option is correct. The first option is incorrect because educational degrees alone do not draw this distinction. The second option is incorrect because both types can use advanced technological tools. The fourth option is incorrect because employment sector (government vs academia) does not determine this distinction."
+  },
+  {
+    "section": "1.5",
+    "title": "Biotechnology and Bioethics",
+    "t": "mc",
+    "q": "In the evolution connection, humans selectively breed plants and animals to produce more productive crops, better livestock, and a great variety of pets. What is this process called?",
+    "a": 0,
+    "opts": [
+      "Artificial selection",
+      "Natural selection",
+      "Genetic drift",
+      "Gene flow"
+    ],
+    "explanation": "The notes state that when humans selectively breed plants and animals to produce more productive crops, better livestock, and a variety of pets that look different from their wild ancestors, they are engaging in artificial selection. In this process, humans act as the selective agent rather than the natural environment. Therefore, the first option is correct. The second option is incorrect because natural selection is driven by natural environmental pressures without human intent. The third option is incorrect because genetic drift is a mechanism of evolution consisting of random changes in allele frequencies. The fourth option is incorrect because gene flow refers to the transfer of alleles between populations through migration."
+  },
+  {
+    "section": "1.5",
+    "title": "Biotechnology and Bioethics",
+    "t": "mc",
+    "q": "Although science and technology are interdependent, their basic goals differ. What are their respective goals according to the notes?",
+    "a": 2,
+    "opts": [
+      "The goal of science is to develop industrial applications, while the goal of technology is to conduct pure academic research.",
+      "The goal of science is to explore the physical universe, while the goal of technology is to establish bioethical guidelines.",
+      "The goal of science is to understand natural phenomena, while the goal of technology is to apply scientific knowledge for some specific purpose.",
+      "The goal of science is to perform experiments under controlled settings, while the goal of technology is to manipulate genetic material."
+    ],
+    "explanation": "According to the notes, although science and technology are connected, their goals differ: the goal of science is to understand natural phenomena, while the goal of technology is to apply scientific knowledge for some specific purpose. Therefore, the third option is correct. The first option is incorrect because it swaps the two goals. The second option is incorrect because establishing bioethical guidelines is a societal/ethical task, not the defining goal of technology. The fourth option is incorrect because controlled experiments are methods (not the ultimate goal) of science, and genetic manipulation is just one specific type of biotechnology."
+  },
+  {
+    "section": "1.5",
+    "title": "Biotechnology and Bioethics",
+    "t": "mc",
+    "q": "The notes explain that science and technology are interdependent. What specific historical example is provided to illustrate how technological advances stem from scientific research?",
+    "a": 1,
+    "opts": [
+      "The development of chemical pesticides resulted from studying natural insect behavior.",
+      "Technologies of DNA manipulation developed as a direct result of discovering the structure of DNA.",
+      "The invention of the compound light microscope resulted from the discovery of bacterial cells.",
+      "The synthesis of artificial vaccines resulted from identifying the structure of antibodies."
+    ],
+    "explanation": "The notes state that science and technology are interdependent, and technological advances stem from scientific research. As a specific historical example, the notes explain that the technologies of DNA manipulation developed as a direct result of the scientific discovery of the structure of DNA. Therefore, the second option is correct. The other options are incorrect because chemical pesticide development and vaccine synthesis are not mentioned in this section of the notes, and the compound microscope's invention historically preceded (and enabled) the discovery of bacterial cells rather than stemming from it."
+  },
+  {
+    "section": "1.5",
+    "title": "Biotechnology and Bioethics",
+    "t": "mc",
+    "q": "How is biotechnology simply defined in the Unit 1.5 notes?",
+    "a": 0,
+    "opts": [
+      "The exploitation of biological processes for industrial and other purposes.",
+      "The application of computer science algorithms to analyze biological networks.",
+      "The study of evolutionary relationships using computers and database software.",
+      "The creation of synthetic life forms under sterile laboratory conditions."
+    ],
+    "explanation": "The Unit 1.5 notes define biotechnology simply as \"the exploitation of biological processes for industrial and other purposes.\" Therefore, the first option is correct. The second option is incorrect because applying computer algorithms to biological networks describes bioinformatics, not the broad definition of biotechnology. The third option is incorrect because using computers to study evolutionary relationships describes computational phylogenetics or systematics. The fourth option is incorrect because biotechnology includes traditional techniques (like selective breeding and brewing) and does not require creating synthetic life."
+  },
+  {
+    "section": "1.5",
+    "title": "Biotechnology and Bioethics",
+    "t": "sa",
+    "q": "According to the notes, which of the following are examples of changes or losses that humans have unintentionally caused? Select all that apply.",
+    "correct": [
+      "The evolution of antibiotic-resistant bacteria.",
+      "The evolution of pesticide-resistant pests.",
+      "The loss of species through habitat loss and global climate change."
+    ],
+    "opts": [
+      "The evolution of antibiotic-resistant bacteria.",
+      "The evolution of pesticide-resistant pests.",
+      "The loss of species through habitat loss and global climate change.",
+      "The selective breeding of domestic pets from wild ancestors.",
+      "The eradication of all viral pathogens from agricultural ecosystems."
+    ],
+    "explanation": "The Unit 1.5 notes explicitly list three examples of changes or losses that humans have unintentionally caused in the environment: (1) the evolution of antibiotic-resistant bacteria, (2) the evolution of pesticide-resistant pests, and (3) the loss of species through habitat loss and global climate change. Thus, the first three options are correct. The fourth option is incorrect because selective breeding of pets is an intentional human activity (artificial selection). The fifth option is incorrect because humans have not eradicated all viral pathogens from agricultural ecosystems, nor is this mentioned in the notes."
+  },
+  {
+    "section": "1.5",
+    "title": "Biotechnology and Bioethics",
+    "t": "sa",
+    "q": "Which of the following careers are explicitly listed in the notes as options for individuals with a biology degree? Select all that apply.",
+    "correct": [
+      "Patent Attorney",
+      "Forensic Scientist",
+      "Nature Conservation Officer",
+      "Pharmacologist",
+      "Science Writer"
+    ],
+    "opts": [
+      "Patent Attorney",
+      "Forensic Scientist",
+      "Nature Conservation Officer",
+      "Nuclear Engineer",
+      "Pharmacologist",
+      "Science Writer"
+    ],
+    "explanation": "Under \"Careers in Biology\" (what you can do with a biology degree), the Unit 1.5 notes explicitly list: Research Scientist, Physician, Pharmacologist, Ecologist, Nature Conservation Officer, Biotechnologist, Forensic Scientist, Government Agency and Policy Roles, Science Writer, Bioengineer, Patent Attorney, and Teacher. Patent Attorney, Forensic Scientist, Nature Conservation Officer, Pharmacologist, and Science Writer are all correct because they are included in this list. Thus, the first, second, third, fifth, and sixth options are correct. The fourth option (Nuclear Engineer) is incorrect because nuclear engineering is a branch of engineering concerned with nuclear physics and reactor systems, which is not listed as a biology career option in the notes."
+  }
+]

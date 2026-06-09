@@ -1,0 +1,45 @@
+--- Page 1 ---
+UNIT 6: DIVERSITY OF LIFE FORMS6.2 –THE PROKARYOTESBiology 9        Mr. QueenanCh. 21.2 (pg. 689-697)
+
+--- Page 2 ---
+•Structure•Reproduction•Nutrition•Classification•Bacteria•Archaea
+Prokaryote Outline
+
+--- Page 3 ---
+Background¨Include bacteria and archaea, which are fully functioning cells ¤A single spoonful of earth can contain >1000 prokaryotes ¤Range in size from 1-10 μmin length and 0.7-1.5 μmin width¨Originally believed to be spontaneously generating organisms¤Disproved in 1850’s by Louis Pasteur
+
+--- Page 4 ---
+Structure¨Lack a membrane-bounded nucleus (DNA in nucleoid region) ¨Outer cell wall containing peptidoglycan ¨Some move by means of flagella ¨Lack membranous organelles ¨May have accessory ring of DNA (plasmid)
+
+
+--- Page 5 ---
+Reproduction¨Asexual ¤Prokaryotes reproduce asexually by means of binary fission¨Methods of genetic recombination ¤Conjugation nSex pilus forms between two cells nDonor cell passes DNA to recipient cell through pilus¤Transformation¤Transduction
+
+
+--- Page 6 ---
+Reproduction¨Transformation ¤Occurs when bacterium picks up free pieces of DNA from other prokaryotes ¤Becomes incorporated into genome ¨Transduction ¤Occurs when bacteriophages carry portions of bacterial DNA from one cell to another ¤Serve as vectors 
+
+--- Page 7 ---
+Nutrition¨Oxygen requirements: ¤Obligate aerobes –unable to grow in the absence of free oxygen ¤Obligate anaerobes –unable to grow in the presence of free oxygen ¤Facultative anaerobes –able to grow in either the presence or absence of free oxygen
+
+--- Page 8 ---
+Nutrition ¨Photoautotrophs ¤Use solar energy to reduce carbon dioxide to organic compounds ¤Photosynthetic ¨Chemoautotrophs ¤Oxidize inorganic compounds to obtain the necessary energy ¤Use it to reduce CO2 to an organic compound¤Chemosynthetic¨Most prokaryotes are chemoheterotrophs that take in organic nutrients ¤Aerobic saprotrophs decompose most large organic molecules to smaller molecules ¤Essential components of healthy ecosystem ¨May be free-living or symbiotic ¤Nitrogen fixation ¤Commensalism ¤Parasites
+
+--- Page 9 ---
+Domain Bacteria¨Bacteria are the more common type of prokaryote.¤Over 2,000 different bacteria have been named. ¤Most bacterial cells are protected by a cell wallnContains peptidoglycan¨Bacteria are commonly diagnosed using the Gram stain procedure ¤When washed after staining: nGram-positive bacteria retain dye and appear purplenGram-negative bacteria do not retain dye and appear pink¨Bacteria can be further classified in terms of their three basic shapes ¤Spiral (spirilli), ¤Rod (bacilli), and ¤Round (cocci)
+
+
+--- Page 10 ---
+Domain Bacteria
+
+
+--- Page 11 ---
+Domain Bacteria¨Cyanobacteria -Formerly called the Blue-Green algae (Cyanophyta) ¤Cyanobacteria are Gram-negative bacteria that photosynthesize ¤Believed to be responsible for introducing oxygen into the primitive atmosphere ¤Lack visible means of locomotion ¤Can live in extreme environments ¤When commensals with fungi, form lichens
+
+
+--- Page 12 ---
+Domain Archaea¨Archaea were earlier considered bacteria ¤Discovered that the base sequence of their rRNA differs from Bacteria ¤Other differences: nArchaea do not have peptidoglycan in their cell walls like the Bacteria nArchaea biochemical more like Eukarya than BacterianArchaea now thought to be more closely related to Eukarya than to Bacteria¨Most are chemoautotrophs ¨Some mutualistic, Some commensalistic¨None known to be parasitic ¨None are photosynthetic 
+
+--- Page 13 ---
+Domain Archaea¨Many live in harsh conditions: ¤Anaerobic marshes nMethanogens nProduce methane from hydrogen gas and carbon dioxide¤Salty lakes nHalophiles nRequire high salt concentrations for growth, and ¤Hot sulfur springs & Thermal vents nThermoacidophiles nReduce sulfides and survive best at temperatures above 80ºC and low pHnPlasma membranes contain unusual lipids convey tolerance of high temperatures
+

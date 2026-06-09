@@ -1,0 +1,342 @@
+[
+  {
+    "q": "A researcher wants to test the hypothesis that a new pesticide, Compound X, acts as an endocrine disruptor in frogs. They set up tank environments with varying concentrations of Compound X and measure the rate of developmental abnormalities in frog larvae. To validate that any observed developmental abnormalities are due to Compound X and not to other environmental conditions (such as temperature, water pH, or dissolved oxygen), which of the following experimental setups is the most appropriate control?",
+    "opts": [
+      "A tank containing frog larvae maintained in the same water source, temperature, and light conditions, but with no Compound X added.",
+      "A tank containing frog larvae maintained in distilled water with a neutral pH, constant aeration, and a different species of frog larvae as a comparison group.",
+      "A tank containing Compound X at the highest concentration but without any frog larvae, monitored for changes in chemical stability over time.",
+      "A tank containing frog larvae exposed to a known, highly toxic heavy metal (like lead) to serve as a baseline for developmental stress."
+    ],
+    "a": 0,
+    "explanations": [
+      "Option A is correct because a proper negative control must keep all environmental variables (water source, temperature, light, species, etc.) identical to the experimental groups except for the independent variable being tested (Compound X). This allows the researcher to attribute any changes directly to Compound X.",
+      "Option B is incorrect because using distilled water instead of the same water source, and using a different species of frog, introduces multiple confounding variables, making it impossible to isolate the effect of Compound X.",
+      "Option C is incorrect because a tank containing only the chemical without organisms does not serve as a control for biological developmental abnormalities, as there are no biological subjects to observe.",
+      "Option D is incorrect because a positive control using a different toxin (like lead) may show general stress but does not validate whether the specific abnormalities in the test groups are caused by Compound X rather than the background environment."
+    ],
+    "section": "1.3"
+  },
+  {
+    "q": "A student is using a compound light microscope to observe a slide of onion root tip cells. At 100X total magnification, the field of view has a diameter of 2.0 mm, and the student counts 40 cells aligned end-to-end across the diameter. The student then switches to the high-power objective lens to achieve a total magnification of 400X. Which of the following correctly predicts the diameter of the field of view at 400X and the approximate number of cells that would be visible across this new diameter?",
+    "opts": [
+      "The field of view diameter will decrease to 0.5 mm, and approximately 10 cells will be visible across the diameter.",
+      "The field of view diameter will increase to 8.0 mm, and approximately 160 cells will be visible across the diameter.",
+      "The field of view diameter will decrease to 0.5 mm, and approximately 40 cells will still be visible because the cells do not change size.",
+      "The field of view diameter will decrease to 0.25 mm, and approximately 5 cells will be visible across the diameter."
+    ],
+    "a": 0,
+    "explanations": [
+      "Option A is correct because the field of view diameter is inversely proportional to the magnification. Increasing the magnification from 100X to 400X is a 4-fold increase. Thus, the field of view diameter decreases by 4-fold, from 2.0 mm to 0.5 mm. Since the magnification is 4 times greater, you will see 4 times fewer cells across the diameter: 40 cells / 4 = 10 cells.",
+      "Option B is incorrect because an increase in magnification decreases the field of view diameter, rather than increasing it, and reduces the number of cells visible.",
+      "Option C is incorrect because while the physical cells on the slide do not change size, the magnified image shows fewer cells because the field of view has shrunk.",
+      "Option D is incorrect because a 4-fold increase in magnification decreases the diameter to 0.5 mm, not 0.25 mm (which would be an 8-fold increase)."
+    ],
+    "section": "1.2"
+  },
+  {
+    "q": "A researcher isolates a wild-type enzyme that functions optimally at pH 7.4. When the enzyme is exposed to an environment with a pH of 3.5, its catalytic activity drops to zero. Further analysis reveals that although the primary structure of the protein remains intact, the tertiary structure has been significantly disrupted, particularly due to the protonation of carboxylate side chains (such as aspartic acid and glutamic acid). Which of the following best explains why the acidic environment leads to the loss of the enzyme's tertiary structure and catalytic activity?",
+    "opts": [
+      "The high concentration of H+ ions protonates negatively charged carboxylate groups, disrupting ionic bonds (salt bridges) that stabilize the tertiary structure.",
+      "The acidic pH breaks the covalent peptide bonds between amino acids, resulting in the dissociation of the polypeptide chain into individual amino acids.",
+      "The protonation of carboxylate side chains increases the hydrophobic interactions within the protein, causing the enzyme to fold more tightly and bury its active site.",
+      "The acidic environment causes the formation of new disulfide bridges between cysteine residues, which alters the shape of the active site."
+    ],
+    "a": 0,
+    "explanations": [
+      "Option A is correct because at low pH, the high concentration of hydrogen ions (H+) protonates negatively charged carboxylate side chains (-COO- becomes -COOH), neutralizing their charge. This disrupts the ionic interactions (salt bridges) between these carboxylate groups and positively charged groups (like lysine or arginine), leading to denaturation.",
+      "Option B is incorrect because the prompt states that the primary structure remains intact, which means the peptide bonds (covalent bonds holding the amino acid sequence together) are not broken.",
+      "Option C is incorrect because protonation converts polar/charged carboxylate groups into neutral polar carboxyl groups, which does not significantly increase hydrophobic interactions or cause tighter folding that buries the active site.",
+      "Option D is incorrect because disulfide bridges are covalent bonds formed by the oxidation of sulfhydryl groups (-SH) on cysteine residues; changes in pH do not typically induce the spontaneous formation of new disulfide bonds, but rather disrupt non-covalent interactions like ionic and hydrogen bonds."
+    ],
+    "section": "2.3"
+  },
+  {
+    "q": "To study transport mechanisms, researchers place red blood cells (RBCs) into three different solutions: Solution X is hypertonic, Solution Y is isotonic, and Solution Z is hypotonic relative to the intracellular fluid of the RBCs. They also treat a subset of these cells with a drug that blocks aquaporin channels. Which of the following descriptions correctly predicts the behavior of the treated and untreated RBCs in these solutions?",
+    "opts": [
+      "Untreated RBCs in Solution Z will swell and lyse, whereas aquaporin-blocked RBCs in Solution Z will swell much more slowly because water can only cross the membrane via simple diffusion.",
+      "Untreated RBCs in Solution X will swell and lyse, while aquaporin-blocked RBCs in Solution X will remain stable and retain their shape.",
+      "Aquaporin-blocked RBCs will immediately shrivel in Solution Y because active transport of water is inhibited by the drug.",
+      "Both treated and untreated RBCs will behave identically in all three solutions because water molecules are too polar to cross the lipid bilayer without aquaporins."
+    ],
+    "a": 0,
+    "explanations": [
+      "Option A is correct because in a hypotonic solution (Solution Z), water flows into the cells. Untreated RBCs swell and burst (lyse) rapidly due to the high density of aquaporin water channels. Blocking aquaporins slows down water movement significantly because water must then pass through the hydrophobic lipid bilayer by slow simple diffusion, preventing rapid lysis.",
+      "Option B is incorrect because Solution X is hypertonic, which causes water to leave the cells, leading to shriveling (crenation), not swelling or lysis.",
+      "Option C is incorrect because Solution Y is isotonic, so there is no net movement of water. Furthermore, water movement through aquaporins is passive (osmosis), not active transport.",
+      "Option D is incorrect because water can cross the lipid bilayer directly via simple diffusion, albeit at a much slower rate than through aquaporins. Therefore, the treated and untreated cells will not behave identically."
+    ],
+    "section": "2.5"
+  },
+  {
+    "q": "A metabolic pathway involves the conversion of substrate S to product P, catalyzed by enzyme E. A researcher introduces inhibitor I and measures the rate of reaction at varying substrate concentrations. They find that at extremely high concentrations of substrate S, the rate of reaction in the presence of inhibitor I reaches the same maximum velocity (Vmax) as the reaction without the inhibitor. However, the concentration of substrate required to reach half of Vmax (Km) is significantly higher in the presence of the inhibitor. Based on these kinetics, which of the following is the most likely mechanism of action of inhibitor I?",
+    "opts": [
+      "Inhibitor I binds non-covalently to the active site of enzyme E, competing directly with substrate S.",
+      "Inhibitor I binds to an allosteric site on enzyme E, altering the conformation of the active site so that substrate S cannot bind.",
+      "Inhibitor I binds covalently to the enzyme-substrate complex, preventing the conversion of substrate to product.",
+      "Inhibitor I is a noncompetitive inhibitor that decreases the turnover number (kcat) of the enzyme without affecting substrate binding."
+    ],
+    "a": 0,
+    "explanations": [
+      "Option A is correct because the kinetic profile described (unchanged Vmax and increased Km) is characteristic of competitive inhibition. Competitive inhibitors bind to the active site of the enzyme, and their inhibitory effect can be overcome by increasing the substrate concentration.",
+      "Option B is incorrect because allosteric or noncompetitive inhibition typically decreases the Vmax because the inhibitor reduces the active enzyme concentration, and this effect cannot be overcome by adding more substrate.",
+      "Option C is incorrect because binding to the enzyme-substrate complex is characteristic of uncompetitive inhibition, which decreases both Vmax and Km, which does not match the observed data.",
+      "Option D is incorrect because noncompetitive inhibition decreases Vmax while leaving Km unchanged, which is the opposite of the observed increase in Km and unchanged Vmax."
+    ],
+    "section": "2.3"
+  },
+  {
+    "q": "A patient is diagnosed with a rare genetic disorder characterized by the accumulation of long-chain fatty acids in the blood and tissues, along with severe neurological deficits. Electron microscopy of the patient's fibroblasts reveals structurally normal mitochondria and rough endoplasmic reticulum. However, biochemical assays show a complete lack of functional catalase and fatty acid oxidation enzymes that typically initialize the breakdown of very-long-chain fatty acids (VLCFAs). Which of the following organelles is most likely dysfunctional or lacking key proteins in this patient?",
+    "opts": [
+      "Peroxisomes",
+      "Lysosomes",
+      "Golgi apparatus",
+      "Smooth endoplasmic reticulum"
+    ],
+    "a": 0,
+    "explanations": [
+      "Option A is correct because peroxisomes are membrane-bound organelles that contain catalase and enzymes responsible for the beta-oxidation of very-long-chain fatty acids (VLCFAs). The accumulation of VLCFAs and lack of functional catalase point directly to peroxisomal dysfunction (e.g., Zellweger syndrome).",
+      "Option B is incorrect because lysosomes contain hydrolytic enzymes that break down proteins, nucleic acids, carbohydrates, and cellular debris at acidic pH, but they do not typically initialize VLCFA oxidation or contain catalase.",
+      "Option C is incorrect because the Golgi apparatus is responsible for modifying, sorting, and packaging proteins for secretion or delivery to other organelles, but it is not the primary site of fatty acid oxidation or catalase function.",
+      "Option D is incorrect because the smooth endoplasmic reticulum is involved in lipid and steroid synthesis, carbohydrate metabolism, and detoxification, but VLCFA oxidation and catalase activity are localized in peroxisomes."
+    ],
+    "section": "3.3"
+  },
+  {
+    "q": "Human papillomavirus (HPV) is a major risk factor for cervical cancer. The virus produces two main oncoproteins, E6 and E7. E6 targets the host cell's p53 protein for degradation, while E7 binds to and inactivates the retinoblastoma (Rb) protein. In normal cells, Rb acts as a brake on the cell cycle by binding to and inhibiting the E2F transcription factor, which is required for S-phase entry. Which of the following best explains how the actions of E6 and E7 contribute to unregulated cell division and cancer?",
+    "opts": [
+      "The degradation of p53 prevents apoptosis in response to DNA damage, while the inactivation of Rb allows E2F to continuously activate genes required for DNA replication.",
+      "Inactivating Rb prevents the cell from entering G1, while the loss of p53 causes the spindle assembly checkpoint to fail during mitosis.",
+      "E6 and E7 prevent cells from replicating their DNA, causing them to arrest in G0 and become senescent.",
+      "E6 and E7 act as growth factors that bind to extracellular tyrosine kinase receptors, triggering the Ras-MAPK signaling pathway."
+    ],
+    "a": 0,
+    "explanations": [
+      "Option A is correct because p53 is a tumor suppressor that monitors DNA integrity; when degraded, the cell cannot arrest the cycle or undergo apoptosis in response to DNA damage. Rb is another tumor suppressor; when inactivated by E7, it can no longer bind E2F, leaving E2F free to continuously promote transcription of S-phase genes, leading to uncontrolled entry into S-phase and cell division.",
+      "Option B is incorrect because inactivating Rb removes the block on S-phase entry, which promotes rather than prevents S-phase entry. p53 primarily regulates the G1/S checkpoint in response to DNA damage, not the spindle checkpoint (M checkpoint).",
+      "Option C is incorrect because HPV oncoproteins promote cell cycle progression, rather than causing G0 arrest or senescence.",
+      "Option D is incorrect because E6 and E7 are intracellular viral proteins that target specific tumor suppressor proteins (p53 and Rb) inside the cell, rather than binding to extracellular receptors."
+    ],
+    "section": "3.5"
+  },
+  {
+    "q": "In an in vitro transcription experiment, researchers use a template DNA strand containing the sequence: 3'-TAC GGC TTA CTA ACT-5'. They add RNA polymerase, transcription factors, and ribonucleoside triphosphates (rNTPs) to the reaction mixture. Which of the following represents the correct sequence of the mRNA transcript produced, and what is its directionality?",
+    "opts": [
+      "5'-AUG CCG AAU GAU UGA-3'",
+      "3'-AUG CCG AAU GAU UGA-5'",
+      "5'-ATG CCG AAT GAT TGA-3'",
+      "5'-UAC GGC UUA CUA ACU-3'"
+    ],
+    "a": 0,
+    "explanations": [
+      "Option A is correct. During transcription, RNA polymerase reads the DNA template strand in the 3'-to-5' direction and synthesizes the complementary mRNA transcript in the 5'-to-3' direction. Complementary base pairing of 3'-TAC GGC TTA CTA ACT-5' yields 5'-AUG CCG AAU GAU UGA-3'.",
+      "Option B is incorrect. While the sequence of bases matches, the directionality is written as 3'-to-5', which is incorrect; transcription produces mRNA in the 5'-to-3' direction.",
+      "Option C is incorrect. This sequence contains thymine (T) instead of uracil (U), which is found in DNA but not in RNA transcripts.",
+      "Option D is incorrect. This sequence is a direct copy of the template strand (with U replacing T) rather than the complementary sequence."
+    ],
+    "section": "4.2"
+  },
+  {
+    "q": "A couple seeking genetic counseling has a child diagnosed with Duchenne muscular dystrophy (DMD), an X-linked recessive disorder that causes progressive muscle degeneration. Neither parent shows symptoms of the disease. The husband expresses concern that the child is not biologically his. Which of the following is the most accurate genetic explanation the counselor should provide?",
+    "opts": [
+      "The child must have inherited the mutant allele from the mother, who is a heterozygous carrier; the father's genotype does not affect whether a son inherits this X-linked condition.",
+      "Since DMD is recessive, both parents must be carriers, meaning the father must have a silent copy of the mutant gene on his Y chromosome.",
+      "The child's condition could only occur if the father is hemizygous for the trait, meaning the father is lying about being symptom-free.",
+      "An autosomal codominant gene must have mutated spontaneously in the child, which makes the father's X-chromosome status irrelevant."
+    ],
+    "a": 0,
+    "explanations": [
+      "Option A is correct because DMD is X-linked recessive. A male child receives his Y chromosome from his father and his X chromosome from his mother. Since the child has DMD (Xd Y), he must have inherited the mutant allele (Xd) from his mother, who is a carrier (XD Xd) and thus unaffected. The father's X chromosome (XD) is not passed to his son, so his paternity is not ruled out by the child's diagnosis.",
+      "Option B is incorrect because X-linked genes are located on the X chromosome, not the Y chromosome. The father cannot carry an allele for an X-linked trait on his Y chromosome.",
+      "Option C is incorrect. If the father were hemizygous for the mutant allele (Xd Y), he would have DMD and show symptoms. He does not need to have the allele for his son to inherit it from the carrier mother.",
+      "Option D is incorrect because DMD is well-established as an X-linked recessive disorder, not an autosomal codominant trait."
+    ],
+    "section": "4.6"
+  },
+  {
+    "q": "The lac operon in Escherichia coli regulates the metabolism of lactose. A researcher isolates a mutant strain of E. coli with a mutation in the operator region (lacOc) that prevents the Lac repressor protein from binding to the DNA. Which of the following correctly predicts the phenotype of this mutant strain under different growth conditions?",
+    "opts": [
+      "The operon will be transcribed constitutively at high levels in the presence of lactose, and at moderate-to-high levels even in the absence of lactose, provided glucose is absent.",
+      "The operon will never be transcribed, even in the presence of lactose and absence of glucose, because the promoter is blocked.",
+      "The operon will be transcribed only when glucose is present, regardless of whether lactose is present.",
+      "The repressor will bind permanently to the promoter, preventing transcription under all environmental conditions."
+    ],
+    "a": 0,
+    "explanations": [
+      "Option A is correct because the operator (lacO) is the site where the Lac repressor binds to block transcription. If a mutation prevents repressor binding (lacOc), the operon cannot be turned off by the repressor. Therefore, transcription occurs constitutively (continually) even in the absence of lactose. However, expression still depends on glucose levels via cAMP-CAP activation (transcription is highest when glucose is absent).",
+      "Option B is incorrect because the mutation prevents the repressor from binding, which increases transcription (de-repression), rather than preventing it.",
+      "Option C is incorrect because the presence of glucose actually inhibits transcription of the lac operon because it lowers cAMP levels, preventing CAP from activating transcription.",
+      "Option D is incorrect because the repressor binds to the operator, not the promoter. The mutation prevents binding rather than making it permanent."
+    ],
+    "section": "4.2"
+  },
+  {
+    "q": "In a population of wildflowers, petal color is controlled by a single gene with two alleles: R (red, dominant) and r (white, recessive). In a survey of 1,000 plants, researchers find 90 plants with white flowers. Assume the population is in Hardy-Weinberg equilibrium. What is the frequency of the dominant allele R in this population, and how many individuals are expected to be heterozygous carriers?",
+    "opts": [
+      "The frequency of R is 0.70, and approximately 420 plants are heterozygous carriers.",
+      "The frequency of R is 0.30, and approximately 90 plants are heterozygous carriers.",
+      "The frequency of R is 0.90, and approximately 180 plants are heterozygous carriers.",
+      "The frequency of R is 0.70, and approximately 210 plants are heterozygous carriers."
+    ],
+    "a": 0,
+    "explanations": [
+      "Option A is correct because the frequency of the homozygous recessive phenotype (rr) is q^2 = 90 / 1000 = 0.09. Therefore, q = 0.30. The frequency of the dominant allele p (R) is 1 - q = 1 - 0.30 = 0.70. The frequency of heterozygotes (Rr) is 2pq = 2 * 0.70 * 0.30 = 0.42. In a population of 1,000 plants, the number of heterozygotes is 0.42 * 1000 = 420.",
+      "Option B is incorrect because 0.30 is the frequency of the recessive allele r, not the dominant allele R.",
+      "Option C is incorrect because the frequency of the dominant allele is 0.70, not 0.90 (which incorrectly assumes p directly corresponds to dominant count without taking heterozygotes into account).",
+      "Option D is incorrect because while the frequency of R (0.70) is correct, the number of heterozygotes is 2pq * 1000 = 420, not pq * 1000 = 210."
+    ],
+    "section": "4.6"
+  },
+  {
+    "q": "Two populations of a rodent species become separated by the formation of a canyon. Over thousands of years, the northern population adapts to a colder, forested habitat, while the southern population adapts to a hot, arid desert. When a drought temporarily dries up the river in the canyon, allowing the two populations to meet, they do not interbreed. Behavioral studies show that the northern rodents use a high-pitched vocalization to attract mates, which the southern rodents do not recognize. Which of the following best describes this evolutionary process?",
+    "opts": [
+      "Allopatric speciation mediated by a prezygotic behavioral isolating mechanism.",
+      "Sympatric speciation mediated by a postzygotic hybrid sterility mechanism.",
+      "Allopatric speciation mediated by a postzygotic developmental barrier.",
+      "Sympatric speciation mediated by a prezygotic temporal isolating mechanism."
+    ],
+    "a": 0,
+    "explanations": [
+      "Option A is correct because the geographic separation by a canyon represents allopatric speciation. The barrier to reproduction (failure to recognize vocalizations) occurs before fertilization (prezygotic) and is behavioral in nature, representing behavioral isolation.",
+      "Option B is incorrect because the populations were geographically separated, which is allopatric speciation, not sympatric (which occurs in the same geographic area). Furthermore, the isolation is prezygotic, not postzygotic.",
+      "Option C is incorrect because the reproductive isolation described is behavioral (prezygotic), not a postzygotic developmental failure.",
+      "Option D is incorrect because the speciation is allopatric, and the barrier is behavioral rather than temporal (differences in breeding seasons)."
+    ],
+    "section": "5.3"
+  },
+  {
+    "q": "A molecular biologist is studying a newly discovered virus that infects human T-lymphocytes. The virus carries its genetic information as single-stranded RNA. Upon entering the host cell, the viral genome is not directly translated by host ribosomes. Instead, the virus must bring its own enzyme, which uses the viral RNA template to synthesize a complementary DNA strand, which is then integrated into the host cell's genome. Which of the following correctly classifies this virus and identifies the key viral enzyme required for its replication cycle?",
+    "opts": [
+      "Retrovirus; Reverse transcriptase",
+      "Positive-sense ssRNA virus; RNA-dependent RNA polymerase",
+      "Double-stranded DNA virus; DNA polymerase",
+      "Bacteriophage; Integrase"
+    ],
+    "a": 0,
+    "explanations": [
+      "Option A is correct because a virus that carries single-stranded RNA and converts it into double-stranded DNA using a viral enzyme is a retrovirus. The enzyme responsible for synthesizing DNA from an RNA template is reverse transcriptase.",
+      "Option B is incorrect because positive-sense ssRNA viruses can have their genomes translated directly by host ribosomes and typically use RNA-dependent RNA polymerase to replicate their RNA without a DNA intermediate.",
+      "Option C is incorrect because the virus carries single-stranded RNA, not double-stranded DNA.",
+      "Option D is incorrect because bacteriophages infect bacteria, not human T-lymphocytes, and do not typically utilize reverse transcriptase as their primary replication strategy."
+    ],
+    "section": "6.1"
+  },
+  {
+    "q": "A researcher isolates a unicellular organism from a hot spring with a temperature of 85°C. Chemical analysis of the cell reveals that the cell wall lacks peptidoglycan, and the plasma membrane contains ether-linked lipids with branched hydrocarbons rather than ester-linked fatty acids. Genetic analysis shows that the initiator tRNA carries methionine rather than formylmethionine, and the RNA polymerase structurally resembles eukaryotic RNA polymerase II. In which taxonomic domain should this organism be classified?",
+    "opts": [
+      "Archaea",
+      "Bacteria",
+      "Eukarya",
+      "Protista"
+    ],
+    "a": 0,
+    "explanations": [
+      "Option A is correct because Archaea are prokaryotes known for living in extreme environments (extremophiles). They lack peptidoglycan in their cell walls, have unique ether-linked lipids (often branched) in their membranes, start translation with methionine, and possess RNA polymerases and transcription factors that are more similar to eukaryotes than to bacteria.",
+      "Option B is incorrect because Bacteria have peptidoglycan cell walls, ester-linked membrane lipids, and translation starts with formylmethionine.",
+      "Option C is incorrect because Eukarya are eukaryotic organisms that contain membrane-bound organelles (like a nucleus and mitochondria), which are not present in this prokaryotic extremophile.",
+      "Option D is incorrect because Protista is a kingdom within the domain Eukarya, but this organism is a prokaryote (no nucleus)."
+    ],
+    "section": "3.3"
+  },
+  {
+    "q": "During a hot, dry summer day, a plant experiences a significant decrease in soil moisture. To conserve water, the plant synthesizes the hormone abscisic acid (ABA) in its roots, which travels through the vascular tissue to the leaves. Which of the following describes the cellular mechanism by which ABA induces stomatal closure, and what is its effect on xylem transport?",
+    "opts": [
+      "ABA triggers the efflux of K+ ions from guard cells, causing water to leave the guard cells by osmosis, making them flaccid and closing the pore, which decreases the rate of xylem transport.",
+      "ABA increases the active transport of K+ into guard cells, drawing water in by osmosis, which makes the guard cells turgid and closes the pore, increasing xylem transport.",
+      "ABA stimulates the production of lignin in the xylem vessels, blocking the upward pull of water and forcing stomata to close due to backpressure.",
+      "ABA activates proton pumps in the guard cell membranes, causing an influx of H+ ions that directly dehydrates the stomatal opening."
+    ],
+    "a": 0,
+    "explanations": [
+      "Option A is correct because when ABA binds to receptors on guard cells, it triggers the opening of anion and potassium (K+) efflux channels. The loss of solutes (especially K+) from the guard cells raises the water potential inside the cells relative to the outside. Water leaves the guard cells by osmosis, causing them to lose turgor pressure (become flaccid), which closes the stomatal pore. Closed stomata reduce transpiration, which decreases the transpirational pull driving xylem transport.",
+      "Option B is incorrect because active transport of K+ into guard cells is the mechanism for stomatal opening, not closure. Turgid guard cells open the stomatal pore.",
+      "Option C is incorrect because ABA does not block xylem vessels with lignin. Stomatal closure is a physiological response to guard cell turgor pressure, not a physical blockage.",
+      "Option D is incorrect because stomatal closure is driven by solute efflux (K+ and anions), not H+ influx dehydrating the pore."
+    ],
+    "section": "2.5"
+  },
+  {
+    "q": "Tetrodotoxin (TTX) is a potent neurotoxin found in pufferfish. TTX binds specifically and reversibly to voltage-gated sodium channels in the membranes of neurons, blocking the flow of sodium ions. If a neuron is treated with TTX and then stimulated with a threshold-level electrical stimulus, which of the following correctly predicts the effect on the membrane potential?",
+    "opts": [
+      "The neuron will fail to generate an action potential because sodium ions cannot enter the cell to depolarize the membrane.",
+      "The neuron will depolarize normally but will fail to repolarize because potassium channels are blocked by the lack of sodium.",
+      "The neuron will fire continuous action potentials because the resting potential becomes highly unstable.",
+      "The resting membrane potential will immediately drop to zero because the sodium-potassium pump is inactivated."
+    ],
+    "a": 0,
+    "explanations": [
+      "Option A is correct because voltage-gated sodium channels are required for the rapid depolarization phase of the action potential. If these channels are blocked by TTX, sodium cannot rush into the axon, the membrane cannot depolarize past the threshold, and no action potential can be generated.",
+      "Option B is incorrect because repolarization is driven by the efflux of potassium ions through voltage-gated potassium channels, which are distinct from sodium channels and are not blocked by TTX. However, since depolarization never occurs, repolarization is moot.",
+      "Option C is incorrect because blocking sodium channels prevents the firing of action potentials rather than causing continuous firing.",
+      "Option D is incorrect because TTX acts specifically on voltage-gated sodium channels, not on the Na+/K+ ATPase pump. Thus, the resting membrane potential (maintained by the pump and leak channels) is initially preserved."
+    ],
+    "section": "7.6"
+  },
+  {
+    "q": "A medical examiner is examining a body and notes the presence of rigor mortis—a state where the skeletal muscles are locked in a contracted position. At the molecular level, they observe that the myosin heads are bound to actin filaments, and the sarcoplasmic reticulum has depleted calcium reserves. Which of the following best explains why the lack of ATP prevents muscle relaxation, keeping the muscle in a contracted state?",
+    "opts": [
+      "ATP binding to the myosin head is required to break the cross-bridge between myosin and actin.",
+      "ATP is required to pump calcium ions out of the sarcomere back into the T-tubules to cover the myosin-binding sites.",
+      "ATP hydrolysis is needed to physically pull the actin thin filament toward the center of the sarcomere (M-line).",
+      "Without ATP, tropomyosin remains permanently bound to the myosin head, preventing it from releasing."
+    ],
+    "a": 0,
+    "explanations": [
+      "Option A is correct because in the sliding filament model, the binding of a new ATP molecule to the myosin head is the specific event that causes the myosin head to detach from the actin filament (breaking the cross-bridge). When ATP is depleted after death, the myosin heads remain bound to actin, locking the muscle in a state of rigor mortis.",
+      "Option B is incorrect because although ATP-driven pumps are required to return calcium to the sarcoplasmic reticulum (SR), the direct cause of the locked cross-bridge is the failure of myosin to detach from actin due to the absence of ATP. Also, calcium is pumped into the SR, not the T-tubules.",
+      "Option C is incorrect because the power stroke (pulling of actin) is triggered by the release of ADP and inorganic phosphate, not by the hydrolysis of ATP itself. Hydrolysis of ATP resets (cocks) the myosin head, and ATP binding releases it.",
+      "Option D is incorrect because tropomyosin covers the myosin-binding sites on actin, not the myosin head itself, and its position is regulated by troponin binding to calcium."
+    ],
+    "section": "7.2"
+  },
+  {
+    "q": "A behavioral ecologist trains rats in a chamber. Every time a green light flashes, a food pellet is delivered into the tray. In a separate chamber, another group of rats is placed on a metal grid floor; whenever a warning tone sounds, a mild electric shock is delivered unless the rat presses a lever within 5 seconds. Which of the following correctly identifies the types of conditioning demonstrated by the rats in these two chambers?",
+    "opts": [
+      "Both chambers demonstrate operant conditioning, as the behaviors are reinforced by consequences (rewards and punishments).",
+      "The first chamber demonstrates classical conditioning (association of light with food), while the second chamber demonstrates operant conditioning (lever-pressing behavior).",
+      "The first chamber demonstrates operant conditioning, while the second chamber demonstrates habituation to environmental stressors.",
+      "Both chambers demonstrate classical conditioning, as the rats associate a neutral sensory stimulus with an involuntary physiological response."
+    ],
+    "a": 0,
+    "explanations": [
+      "Option A is correct because operant conditioning involves an animal learning to associate a voluntary behavior with a consequence (reward or punishment/avoidance). In the first case, the rats learn to perform a behavior (checking the tray) in response to the light to receive a reward (food). In the second case, the rat performs a voluntary action (lever pressing) to avoid a negative consequence (electric shock), which is also operant conditioning.",
+      "Option B is incorrect because although the first chamber associates light with food, the delivery of the food pellet reinforces the food-seeking behavior. Classical conditioning involves linking two stimuli together (like Pavlov's dogs salivating at a bell without performing a task). In operant conditioning, behavior is modified by its consequences.",
+      "Option C is incorrect because the second chamber is not habituation. Habituation is the loss of responsiveness to a stimulus after repeated exposure without consequences. Here, the shock is a consequence, and the rat actively learns to press a lever.",
+      "Option D is incorrect because classical conditioning involves linking an involuntary reflex to a new stimulus (e.g., salivation, fear response). Lever-pressing is a voluntary skeletal motor action, making it operant."
+    ],
+    "section": "6.6"
+  },
+  {
+    "q": "A population of invasive beetles is introduced to a new forest habitat. Initially, the population growth is exponential, following the equation dN/dt = rN. However, after several months, the growth rate slows, and the population size stabilizes around 5,000 beetles. Which of the following best explains this transition, and which equation models the population dynamics in the latter phase?",
+    "opts": [
+      "Density-dependent factors (such as food limitation or nesting site competition) caused the population to reach its carrying capacity (K = 5,000), modeled by the logistic growth equation: dN/dt = rN((K-N)/K).",
+      "Density-independent factors (such as a severe winter frost or wildfire) reduced the growth rate, modeled by the exponential growth equation with a negative r value.",
+      "Interspecific hybridization with native beetles led to genetic drift, which is modeled by the Hardy-Weinberg equation.",
+      "Trophic cascades caused an increase in primary productivity, allowing the carrying capacity to increase indefinitely, modeled by dN/dt = rNK."
+    ],
+    "a": 0,
+    "explanations": [
+      "Option A is correct because the stabilization of a population around a maximum value (carrying capacity, K) is the hallmark of logistic growth. This stabilization is driven by density-dependent factors, such as resource depletion, disease, or predation. The logistic growth equation is dN/dt = rN((K-N)/K).",
+      "Option B is incorrect because density-independent factors like frost or fire do not typically cause a population to stabilize smoothly around a carrying capacity; instead, they cause sudden, non-stabilizing crashes.",
+      "Option C is incorrect because hybridization and genetic drift do not describe population growth curves, and the Hardy-Weinberg equation models allele frequencies, not population size over time.",
+      "Option D is incorrect because carrying capacity is by definition a limit on population size and cannot increase indefinitely. The logistic growth formula is dN/dt = rN((K-N)/K), not dN/dt = rNK."
+    ],
+    "section": "5.3"
+  },
+  {
+    "q": "Rotenone is a naturally occurring compound used as a broad-spectrum pesticide. At the cellular level, rotenone binds to and inhibits Complex I (NADH dehydrogenase) of the mitochondrial electron transport chain (ETC). Which of the following describes the immediate biochemical effect of rotenone on cellular respiration and ATP synthesis?",
+    "opts": [
+      "The oxidation of NADH is blocked, which prevents the establishment of a proton gradient across the inner mitochondrial membrane, thereby halting ATP synthesis via chemiosmosis.",
+      "Oxygen consumption increases dramatically because Complex I is bypassed, forcing the cell to rely entirely on substrate-level phosphorylation in the Krebs cycle.",
+      "The flow of electrons from FADH2 through Complex II is directly blocked, preventing the reduction of water to oxygen.",
+      "Carbon dioxide output from glycolysis is inhibited because the cell can no longer convert pyruvate into acetyl-CoA."
+    ],
+    "a": 0,
+    "explanations": [
+      "Option A is correct because Complex I accepts electrons from NADH. When Complex I is inhibited by rotenone, NADH cannot transfer its electrons to the ETC. This stops the pumping of protons at Complex I and halts downstream electron transport (and thus proton pumping at Complexes III and IV). The proton-motive force collapses, which prevents ATP synthase from synthesizing ATP via chemiosmosis.",
+      "Option B is incorrect because since electron flow through the ETC is halted, oxygen (the final electron acceptor) cannot be reduced to water, so oxygen consumption decreases, not increases.",
+      "Option C is incorrect because Complex II is not blocked by rotenone; it accepts electrons from FADH2. However, inhibiting Complex I still severely impairs the overall ETC and collapses the proton gradient. Also, oxygen is reduced to water, not water oxidized/reduced to oxygen.",
+      "Option D is incorrect because glycolysis does not produce carbon dioxide (pyruvate oxidation and the Krebs cycle do). Furthermore, the inhibition of Complex I affects the ETC directly, and while it will feedback-inhibit the Krebs cycle due to lack of NAD+, it is not a direct inhibitor of glycolysis enzymes."
+    ],
+    "section": "7.2"
+  }
+]

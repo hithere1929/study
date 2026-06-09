@@ -1,0 +1,740 @@
+[
+  {
+    "section": "6.1",
+    "title": "Viruses",
+    "t": "mc",
+    "q": "Who was one of the first scientists to propose or determine the existence of infectious agents smaller than bacteria, which were later confirmed using mid-20th-century electron microscopy?",
+    "a": 0,
+    "opts": [
+      "Louis Pasteur",
+      "Antonie van Leeuwenhoek",
+      "Robert Koch",
+      "Alexander Fleming"
+    ],
+    "explanation": "Louis Pasteur was one of the first scientists to propose and determine the existence of infectious agents smaller than bacteria with infectious properties, which were later confirmed in the mid-20th century using electron microscopy. Antonie van Leeuwenhoek is known for being the first to observe microorganisms (which he called 'animalcules') using simple microscopes, but did not propose the existence of viruses. Robert Koch formulated Koch's postulates to identify specific bacterial pathogens causing diseases, not viruses. Alexander Fleming discovered penicillin, the first true antibiotic, from the mold Penicillium, which targets bacteria rather than viruses."
+  },
+  {
+    "section": "6.1",
+    "title": "Viruses",
+    "t": "mc",
+    "q": "According to the classification system described in the notes, what are the criteria used for the first part of viral categorization, which sorts viruses into Groups I through IV?",
+    "a": 1,
+    "opts": [
+      "The shape of the capsid and host cell specificity",
+      "The structure of the genome (DNA vs RNA, single vs double stranded)",
+      "The presence or absence of an envelope and the host range",
+      "The chemical composition of the capsid proteins and capsid diameter"
+    ],
+    "explanation": "According to the notes, the first part of viral classification sorts viruses into Groups I through IV based on the structure of their genome, specifically whether it consists of DNA or RNA and whether it is single-stranded or double-stranded. The other options are incorrect: while the shape of the capsid, presence/absence of an envelope, host specificity, and size are used in general viral characterization, they are not the criteria for the primary classification into Groups I through IV."
+  },
+  {
+    "section": "6.1",
+    "title": "Viruses",
+    "t": "mc",
+    "q": "During the replication of an enveloped animal virus, what is the origin of the outer envelope that surrounds the mature viral capsid upon release from the host cell?",
+    "a": 1,
+    "opts": [
+      "It is synthesized de novo by viral enzymes inside the host cell cytoplasm.",
+      "It is derived from the host cell's plasma membrane during the process of budding.",
+      "It is constructed entirely from viral proteins secreted into the extracellular space.",
+      "It is derived from the host cell's nuclear membrane before maturity."
+    ],
+    "explanation": "Enveloped animal viruses acquire their outer envelope when the viral particles reach the cell membrane and form a bud that pinches off from the cell. Thus, the envelope is derived from the host cell's plasma membrane during this budding process, though it is coated in viral proteins and carbohydrates. It is not synthesized de novo by viral enzymes in the cytoplasm, constructed entirely from secreted viral proteins, or derived from the host's nuclear membrane."
+  },
+  {
+    "section": "6.1",
+    "title": "Viruses",
+    "t": "mc",
+    "q": "Which of the following correctly pairs an influenza spike protein with its specific function and diversity, as detailed in the emerging virus notes?",
+    "a": 2,
+    "opts": [
+      "H (hemagglutinin) spike attacks the host plasma membrane to allow viral exit; there are 16 types.",
+      "N (neuraminidase) spike binds to host cell receptors to allow viral entry; there are 9 types.",
+      "H (hemagglutinin) spike binds to host cell receptors; there are 16 types.",
+      "N (neuraminidase) spike is involved in integrating viral cDNA into the host genome; there are 9 types."
+    ],
+    "explanation": "The H (hemagglutinin) spike allows the virus to bind to host cell receptors for viral entry, and there are 16 different types of H spikes. The other options are incorrect because: the N (neuraminidase) spike, not the H spike, is responsible for attacking host plasma membranes to allow viral exit; the N spike is not involved in binding host receptors for entry, and there are 9 types of N spikes; and the integration of viral cDNA into the host genome is a function of the enzyme integrase in retroviruses, not the N spike of influenza."
+  },
+  {
+    "section": "6.1",
+    "title": "Viruses",
+    "t": "mc",
+    "q": "Which of the following correctly describes the structural and functional characteristics of a prion, as distinguished from a viroid?",
+    "a": 1,
+    "opts": [
+      "Prions are naked strands of infectious RNA without a capsid that cause crop diseases.",
+      "Prions are infectious proteins with a contagious, abnormal tertiary conformation that cause neurodegenerative diseases.",
+      "Prions are small DNA viruses wrapped in a protein capsid that target neuronal tissues.",
+      "Prions are infectious carbohydrates that alter the cell membrane receptors of animal hosts."
+    ],
+    "explanation": "Prions (proteinaceous infectious particles) are normal cellular proteins that have folded into a different, contagious tertiary conformation, causing nearby normal proteins to misfold into prions and leading to neurodegenerative diseases (like Mad Cow Disease). The other options are incorrect because: naked strands of infectious RNA without a capsid that cause crop diseases describes viroids; prions lack nucleic acids entirely (no DNA or RNA) and are not viruses; and prions are proteins (polypeptides), not carbohydrates."
+  },
+  {
+    "section": "6.1",
+    "title": "Viruses",
+    "t": "mc",
+    "q": "In the reproductive cycle of a bacteriophage, which step is unique to the lysogenic cycle when compared to the lytic cycle, and when does it occur?",
+    "a": 1,
+    "opts": [
+      "Biosynthesis of viral capsids; occurs before maturation",
+      "Integration of the viral genetic material into the host genome; occurs after penetration",
+      "Budding from the host cell plasma membrane; occurs after maturation",
+      "Uncoating of the viral nucleic acid; occurs before penetration"
+    ],
+    "explanation": "In the lysogenic cycle, the bacteriophage injects its genetic material (penetration) and then integrates it directly into the host genome (where it may lie dormant as a prophage), which is unique to this cycle. The other options are incorrect: biosynthesis of viral capsids occurs in the lytic cycle (and only occurs after a lysogenic virus enters the lytic phase); bacteriophages typically release by lysing the host cell rather than budding (which is characteristic of enveloped animal viruses); and uncoating is a process in animal viruses where the capsid is removed inside the host cell, whereas bacteriophages inject their nucleic acids directly, leaving the capsid outside the cell."
+  },
+  {
+    "section": "6.1",
+    "title": "Viruses",
+    "t": "sa",
+    "q": "According to the text, which of the following are components, structures, or molecules that a virus relies on from the host cell to carry out its replication?",
+    "correct": [
+      "Transfer RNA (tRNA)",
+      "Host cell enzymes",
+      "Ribosomes",
+      "ATP"
+    ],
+    "opts": [
+      "Transfer RNA (tRNA)",
+      "Host cell enzymes",
+      "Ribosomes",
+      "ATP",
+      "Peptidoglycan cell wall",
+      "Viral reverse transcriptase"
+    ],
+    "explanation": "A virus is an obligate intracellular parasite that lacks the cellular machinery for metabolic processes and translation. The notes state that a virus must rely on host cell enzymes, ribosomes, transfer RNA (tRNA), and ATP for its own replication. A peptidoglycan cell wall is a structural component of bacterial cells, not something used in viral replication. Viral reverse transcriptase is an enzyme encoded and carried by retroviruses themselves, not a host cell molecule."
+  },
+  {
+    "section": "6.2",
+    "title": "Prokaryotes",
+    "t": "mc",
+    "q": "Who officially disproved the theory of spontaneous generation of prokaryotes in the 1850s?",
+    "a": 1,
+    "opts": [
+      "Robert Koch",
+      "Louis Pasteur",
+      "Antony van Leeuwenhoek",
+      "Francesco Redi"
+    ],
+    "explanation": "Louis Pasteur officially disproved the theory of spontaneous generation of prokaryotes in the 1850s, demonstrating that microorganisms do not arise from non-living matter. Robert Koch developed postulates to link specific microbes to specific diseases but did not disprove spontaneous generation. Antony van Leeuwenhoek was the first to observe bacteria but did not disprove spontaneous generation. Francesco Redi performed experiments on rotting meat in the 17th century to disprove the spontaneous generation of macro-organisms like maggots, not prokaryotes."
+  },
+  {
+    "section": "6.2",
+    "title": "Prokaryotes",
+    "t": "mc",
+    "q": "During which process of bacterial genetic recombination does a bacteriophage act as a vector to carry portions of DNA from one bacterial cell to another?",
+    "a": 2,
+    "opts": [
+      "Transformation",
+      "Conjugation",
+      "Transduction",
+      "Binary fission"
+    ],
+    "explanation": "Transduction occurs when a bacteriophage (a virus that infects bacteria) acts as a vector, carrying portions of bacterial DNA from one bacterial cell to another during viral infection. The other options are incorrect: transformation occurs when a bacterium picks up free pieces of DNA from the environment; conjugation involves a sex pilus forming to pass DNA directly from a donor cell to a recipient cell; and binary fission is a form of asexual reproduction, not genetic recombination."
+  },
+  {
+    "section": "6.2",
+    "title": "Prokaryotes",
+    "t": "mc",
+    "q": "A bacterium is discovered that can grow only in environments completely devoid of free oxygen. How would this organism's oxygen requirement be classified?",
+    "a": 0,
+    "opts": [
+      "Obligate anaerobe",
+      "Facultative anaerobe",
+      "Obligate aerobe",
+      "Microaerophile"
+    ],
+    "explanation": "An obligate anaerobe is unable to grow in the presence of free oxygen and can only grow in environments completely devoid of it. In contrast, obligate aerobes require free oxygen to grow. Facultative anaerobes can grow in either the presence or absence of free oxygen. Microaerophiles require reduced levels of oxygen to survive and cannot grow in completely anaerobic conditions."
+  },
+  {
+    "section": "6.2",
+    "title": "Prokaryotes",
+    "t": "mc",
+    "q": "Which of the following is a distinguishing characteristic of Cyanobacteria as described in the text?",
+    "a": 1,
+    "opts": [
+      "They are Gram-positive bacteria that use flagella for rapid locomotion.",
+      "They are Gram-negative, photosynthetic bacteria that lack a visible means of locomotion and can form lichens with fungi.",
+      "They are anaerobic chemoautotrophs that produce methane gas in freshwater marshes.",
+      "They are cell-wall-less prokaryotes that depend entirely on host cells for ATP."
+    ],
+    "explanation": "As detailed in the notes, Cyanobacteria are Gram-negative, photosynthetic bacteria that lack a visible means of locomotion and can form lichens when in a symbiotic relationship with fungi. The other options are incorrect: Cyanobacteria are Gram-negative, not Gram-positive, and lack flagella; anaerobic chemoautotrophs that produce methane are methanogenic Archaea, not Cyanobacteria; and cell-wall-less prokaryotes that depend on host cells for ATP describes organisms like chlamydias or mycoplasmas."
+  },
+  {
+    "section": "6.2",
+    "title": "Prokaryotes",
+    "t": "mc",
+    "q": "Which of the following is a correct comparison between Domain Archaea and Domain Bacteria?",
+    "a": 1,
+    "opts": [
+      "Archaea cell walls contain peptidoglycan, whereas Bacteria cell walls do not.",
+      "Archaea are biochemically more similar to Eukarya than to Bacteria, and their rRNA base sequences differ from those of Bacteria.",
+      "Many Archaea are parasitic, whereas Bacteria are never parasitic.",
+      "Bacteria are primarily chemoautotrophs, whereas most Archaea are photosynthetic."
+    ],
+    "explanation": "According to the notes, the base sequence of Archaea's rRNA differs from that of Bacteria, and Archaea are biochemically more similar to Eukarya than to Bacteria, being more closely related to them. The other options are incorrect because: Bacteria cell walls contain peptidoglycan, while Archaea cell walls lack it; there are no known parasitic Archaea, whereas many Bacteria are parasitic; and there are no known photosynthetic Archaea (many are chemoautotrophs), whereas Bacteria exhibit diverse metabolisms but are not primarily chemoautotrophs."
+  },
+  {
+    "section": "6.2",
+    "title": "Prokaryotes",
+    "t": "mc",
+    "q": "Which group of Archaea lives in hot sulfur springs and thermal vents, reduces sulfides, and has plasma membranes containing unusual lipids to survive at temperatures above 80°C and low pH?",
+    "a": 2,
+    "opts": [
+      "Halophiles",
+      "Methanogens",
+      "Thermoacidophiles",
+      "Cyanobacteria"
+    ],
+    "explanation": "Thermoacidophiles are a group of Archaea that live in hot sulfur springs and thermal vents, reduce sulfides, and survive at high temperatures (above 80°C) and low pH (acidic conditions) due to unusual lipids in their plasma membranes. Halophiles live in highly saline lakes and require high salt concentrations. Methanogens are anaerobic Archaea that live in marshes and produce methane from hydrogen and carbon dioxide. Cyanobacteria belong to Domain Bacteria, not Domain Archaea."
+  },
+  {
+    "section": "6.2",
+    "title": "Prokaryotes",
+    "t": "sa",
+    "q": "According to the notes, which of the following statements are true regarding Domain Archaea?",
+    "correct": [
+      "Archaea are now thought to be more closely related to Eukarya than to Bacteria.",
+      "None of the known Archaea are photosynthetic.",
+      "None of the known Archaea are parasitic.",
+      "Archaea cell walls lack peptidoglycan."
+    ],
+    "opts": [
+      "Archaea are now thought to be more closely related to Eukarya than to Bacteria.",
+      "None of the known Archaea are photosynthetic.",
+      "None of the known Archaea are parasitic.",
+      "Archaea cell walls lack peptidoglycan.",
+      "All Archaea are obligate aerobes.",
+      "Archaea reproduce sexually via meiosis."
+    ],
+    "explanation": "The notes specify that Archaea cell walls lack peptidoglycan, they are biochemically and evolutionarily more closely related to Eukarya than to Bacteria, none are known to be parasitic, and none are photosynthetic. The other options are incorrect: Archaea are not all obligate aerobes (e.g., methanogens are anaerobes), and they reproduce asexually (like binary fission), not sexually via meiosis."
+  },
+  {
+    "section": "6.3",
+    "title": "Protists",
+    "t": "mc",
+    "q": "Which of the following organisms in Supergroup Archaeplastida is correctly matched with its structural organization and group?",
+    "a": 1,
+    "opts": [
+      "Spirogyra – a colonial green algae belonging to the Chlorophytes.",
+      "Chlamydomonas – a green algae that can exist in a sexual life cycle, belonging to the Chlorophytes.",
+      "Volvox – a multicellular red algae used to produce agar.",
+      "Porphyra – a filamentous charophyte green algae that is closely related to land plants."
+    ],
+    "explanation": "As stated in the notes, Chlamydomonas is a unicellular green algae belonging to the Chlorophytes that can exist in a sexual life cycle. Spirogyra is a filamentous charophyte green algae (not a colonial chlorophyte). Volvox is a colonial green algae (not a multicellular red algae). Porphyra is a red algae used for sushi wrap (not a charophyte green algae)."
+  },
+  {
+    "section": "6.3",
+    "title": "Protists",
+    "t": "mc",
+    "q": "A researcher extracts an organic compound used as a laboratory substrate for growing bacteria (agar) and another used in chocolate and cosmetics (carrageenan). From which group of protists are these substances derived?",
+    "a": 1,
+    "opts": [
+      "Green algae (Chlorophytes)",
+      "Red algae (Archaeplastida)",
+      "Brown algae (Chromalveolata)",
+      "Water molds (Stramenopiles)"
+    ],
+    "explanation": "The notes indicate that red algae (in Supergroup Archaeplastida) are the source of agar (used as a solidifying agent in laboratory bacterial culture media) and carrageenan (an emulsifier used in cosmetics and chocolate). Green algae, brown algae, and water molds do not produce these specific structural polysaccharides."
+  },
+  {
+    "section": "6.3",
+    "title": "Protists",
+    "t": "mc",
+    "q": "Within Supergroup Chromalveolata, which parasitic organisms utilize a specialized structure called an apicoplast to penetrate host cells, with Plasmodium being a representative genus?",
+    "a": 2,
+    "opts": [
+      "Dinoflagellates",
+      "Ciliates",
+      "Apicomplexans",
+      "Diatoms"
+    ],
+    "explanation": "Apicomplexans are parasitic alveolates (within Supergroup Chromalveolata) that use a specialized organelle complex called an apicoplast to penetrate host cells; Plasmodium (the causative agent of malaria) is a representative genus. Dinoflagellates are alveolates known for causing red tides. Ciliates (like Paramecium) use cilia for locomotion. Diatoms are stramenopiles with porous silica shells. None of these other groups utilize an apicoplast."
+  },
+  {
+    "section": "6.3",
+    "title": "Protists",
+    "t": "mc",
+    "q": "Which group in Supergroup Excavata is named for a large mass of DNA located within their single large mitochondrion, and includes the causative agents of African Sleeping Sickness and Chagas disease?",
+    "a": 3,
+    "opts": [
+      "Euglenids",
+      "Parabasalids",
+      "Diplomonads",
+      "Kinetoplastids"
+    ],
+    "explanation": "Kinetoplastids (a group in Supergroup Excavata) are named for their kinetoplast, a large mass of DNA within their single large mitochondrion. This group includes Trypanosoma, which causes African Sleeping Sickness and Chagas disease. Euglenids are flagellated photoautotrophic/mixotrophic protists. Parabasalids and Diplomonads are anaerobic flagellates lacking mitochondria that cause Trichomoniasis and Giardiasis, respectively."
+  },
+  {
+    "section": "6.3",
+    "title": "Protists",
+    "t": "mc",
+    "q": "Why are slime molds classified in Supergroup Amoebazoa as protists rather than being classified as true fungi?",
+    "a": 1,
+    "opts": [
+      "They perform photosynthesis using chloroplasts containing chlorophyll a and b.",
+      "They lack chitinous cell walls and possess flagella during a portion of their life cycle.",
+      "They reproduce exclusively via binary fission and do not produce spores.",
+      "They contain a multi-chambered calcium carbonate shell called a test."
+    ],
+    "explanation": "Slime molds are classified as protists in Supergroup Amoebozoa, not fungi, because they lack chitinous cell walls and possess flagellated cells during a portion of their life cycle (characteristics absent in true fungi). The other options are incorrect: slime molds are heterotrophic decomposers, not photosynthetic; they do produce spores in sporangia under unfavorable conditions; and they do not have a calcium carbonate shell (which is found in foraminiferans)."
+  },
+  {
+    "section": "6.3",
+    "title": "Protists",
+    "t": "mc",
+    "q": "Which of the following correctly describes the skeletal test differences between the two groups of Supergroup Rhizaria, Foraminiferans and Radiolarians?",
+    "a": 1,
+    "opts": [
+      "Foraminiferans have a glassy silicon test, while Radiolarians have a calcium carbonate test.",
+      "Foraminiferans have a calcium carbonate test, while Radiolarians have a glassy silicon test.",
+      "Foraminiferans lack a test completely, while Radiolarians have a peptidoglycan-based test.",
+      "Foraminiferans have a test made of cellulose, while Radiolarians have a test made of chitin."
+    ],
+    "explanation": "In Supergroup Rhizaria, both groups possess tests (shells), but foraminiferans have tests made of calcium carbonate, while radiolarians have glassy tests composed of silicon with a radial arrangement of spines. The other options are incorrect because they reverse these compositions, claim one lacks a test, or incorrectly attribute organic polymers like peptidoglycan, cellulose, or chitin to these mineralized tests."
+  },
+  {
+    "section": "6.3",
+    "title": "Protists",
+    "t": "sa",
+    "q": "According to the text, which of the following organisms or groups are classified within Supergroup Opisthokonta?",
+    "correct": [
+      "Fungi",
+      "Animalia",
+      "Choanoflagellates",
+      "Nucleariids"
+    ],
+    "opts": [
+      "Fungi",
+      "Animalia",
+      "Choanoflagellates",
+      "Nucleariids",
+      "Red Algae",
+      "Water molds",
+      "Dinoflagellates"
+    ],
+    "explanation": "The notes show that Supergroup Opisthokonta includes Kingdom Fungi, Kingdom Animalia (animals), Choanoflagellates (unicellular/colonial filter feeders closely related to sponges), and Nucleariids (amoeboid protists closely related to fungi). The other options are incorrect because Red Algae are classified under Archaeplastida, while Water molds and Dinoflagellates are classified under Chromalveolata."
+  },
+  {
+    "section": "6.4",
+    "title": "Fungi",
+    "t": "mc",
+    "q": "Which phylum of fungi is unique because it contains the only fungi that produce flagellated gametes and spores, suggesting a shared ancestry with choanoflagellate protists?",
+    "a": 2,
+    "opts": [
+      "Zygomycota",
+      "Basidiomycota",
+      "Chytridiomycota",
+      "Ascomycota"
+    ],
+    "explanation": "Chytridiomycota (chytrids) are unique among fungi because they are the only group that retains flagellated gametes and spores (zoospores), reflecting their aquatic lifestyle and suggesting a shared ancestry with choanoflagellate protists. All other fungal phyla (Zygomycota, Basidiomycota, Ascomycota) lack flagella entirely."
+  },
+  {
+    "section": "6.4",
+    "title": "Fungi",
+    "t": "mc",
+    "q": "In the life cycle of the black bread mold (*Rhizopus stolonifer*), what are the names and functions of the three specialized types of hyphae that develop after spores settle on food?",
+    "a": 0,
+    "opts": [
+      "Stolons grow horizontally on the surface, rhizoids anchor and grow into the food, and sporangiophores are aerial hyphae producing spores.",
+      "Rhizoids grow horizontally on the surface, stolons anchor and grow into the food, and basidiocarps produce spores.",
+      "Stolons anchor and grow into the food, sporangiophores grow horizontally on the surface, and asci produce spores.",
+      "Rhizoids are aerial hyphae producing spores, stolons anchor and grow into the food, and conidia grow horizontally."
+    ],
+    "explanation": "In the life cycle of the black bread mold (*Rhizopus stolonifer*), spores develop into three specialized hyphae: stolons grow horizontally along the surface; rhizoids anchor the fungus and penetrate the food to absorb nutrients; and sporangiophores are vertical, aerial hyphae that produce asexual spores. The other options are incorrect because they swap these roles or mention structures from other phyla (like basidiocarps from Basidiomycota, or asci and conidia from Ascomycota)."
+  },
+  {
+    "section": "6.4",
+    "title": "Fungi",
+    "t": "mc",
+    "q": "During sexual reproduction in Ascomycota, the fusion of haploid hyphae leads to the formation of a diploid zygote, which then undergoes which sequence of cell divisions to produce how many ascospores?",
+    "a": 1,
+    "opts": [
+      "Mitosis followed by meiosis, producing 4 diploid ascospores.",
+      "Meiosis followed by mitosis, producing 8 haploid ascospores.",
+      "Meiosis alone, producing 4 haploid ascospores.",
+      "Mitosis alone, producing 8 diploid ascospores."
+    ],
+    "explanation": "During sexual reproduction in Ascomycota, the fusion of haploid hyphae forms a diploid zygote. This zygote undergoes meiosis (yielding 4 haploid nuclei) followed by one round of mitosis (duplicating each nucleus), resulting in a total of 8 haploid ascospores inside the ascus. The other options are incorrect: mitosis does not precede meiosis in the zygote; meiosis alone would only yield 4 spores; and mitosis alone would fail to reduce the chromosome number, producing diploid spores instead of haploid ones."
+  },
+  {
+    "section": "6.4",
+    "title": "Fungi",
+    "t": "mc",
+    "q": "Which toxin, produced by a wild mushroom that causes 90% of fatalities from wild mushroom ingestion (*Amanita phalloides*), leads to severe kidney and liver damage by inhibiting which enzyme?",
+    "a": 2,
+    "opts": [
+      "Aspergillus toxin inhibiting DNA polymerase.",
+      "Ergotamine inhibiting reverse transcriptase.",
+      "Amanitin (from *Amanita phalloides*) inhibiting RNA polymerase.",
+      "Conidia toxin inhibiting ribosomes."
+    ],
+    "explanation": "The death angel mushroom (*Amanita phalloides*) produces the toxin amanitin (alpha-amanitin), which inhibits RNA polymerase, blocking transcription and leading to cell death, abdominal distress, and severe liver and kidney damage. The other options are incorrect: Aspergillus secretes aflatoxins, not the 90% fatal wild mushroom toxin; ergotamine is produced by ergot of rye (*Claviceps purpurea*) and does not inhibit reverse transcriptase; and conidia are asexual spores, not a specific toxin, and do not inhibit ribosomes."
+  },
+  {
+    "section": "6.4",
+    "title": "Fungi",
+    "t": "mc",
+    "q": "Which of the following morphological types of lichens is correctly described by its physical appearance?",
+    "a": 1,
+    "opts": [
+      "Fruticose – compact and tightly attached to bare rocks or tree bark.",
+      "Foliose – flat and leaflike in appearance.",
+      "Crustose – branching and shrublike in structure.",
+      "Mycorrhizae – forming branching invaginations in roots."
+    ],
+    "explanation": "Foliose lichens are characterized by a flat, leaf-like appearance. Crustose lichens are compact and tightly crust-like on bare rocks or bark. Fruticose lichens have a branching, shrub-like appearance. Mycorrhizae are mutualistic associations between fungi and plant roots, not a type of lichen."
+  },
+  {
+    "section": "6.4",
+    "title": "Fungi",
+    "t": "mc",
+    "q": "Which group of fungi was previously grouped under Zygomycota but has been classified into its own unique phylum based on molecular data, and is known for forming arbuscules within plant roots?",
+    "a": 1,
+    "opts": [
+      "Chytridiomycota",
+      "Glomeromycota",
+      "Basidiomycota",
+      "Ascomycota"
+    ],
+    "explanation": "Glomeromycota is a unique phylum of fungi (previously classified under Zygomycota but separated due to molecular data) that form arbuscular mycorrhizae. They form arbuscules, which are branching invaginations within the cells of plant roots. The other options are incorrect: Chytridiomycota are aquatic flagellated fungi; Basidiomycota are club fungi (mushrooms); and Ascomycota are sac fungi. None of these phyla form arbuscular mycorrhizae."
+  },
+  {
+    "section": "6.4",
+    "title": "Fungi",
+    "t": "sa",
+    "q": "According to the text, which of the following statements correctly describe the reproductive stages or structures found in Kingdom Fungi?",
+    "correct": [
+      "The dikaryotic stage consists of hyphae with paired haploid nuclei (n+n) from two mating types.",
+      "Unicellular yeasts reproduce asexually by budding.",
+      "Conidia are asexual spores that develop at the tips of hyphae in Ascomycota.",
+      "Basidiomycota reproduce sexually by forming a fruiting body called a basidiocarp containing club-shaped basidia."
+    ],
+    "opts": [
+      "The dikaryotic stage consists of hyphae with paired haploid nuclei (n+n) from two mating types.",
+      "Unicellular yeasts reproduce asexually by budding.",
+      "Fungal spores are typically flagellated and motile in all phyla.",
+      "Conidia are asexual spores that develop at the tips of hyphae in Ascomycota.",
+      "Basidiomycota reproduce sexually by forming a fruiting body called a basidiocarp containing club-shaped basidia.",
+      "Glomeromycota reproduce sexually by producing flagellated gametes."
+    ],
+    "explanation": "The notes state that: (1) the dikaryotic stage involves hyphae with two paired haploid nuclei (n+n) that have not yet fused; (2) yeasts reproduce asexually by budding off small cells; (3) conidia are asexual spores formed at the tips of hyphae in Ascomycota; (4) Basidiomycota reproduce sexually by forming basidiocarps containing club-shaped basidia. The other options are incorrect: only Chytridiomycota have flagellated, motile cells, while other phyla lack flagella; and Glomeromycota reproduce asexually, not sexually via flagellated gametes."
+  },
+  {
+    "section": "6.5",
+    "title": "Plant Evolution & Diversity",
+    "t": "mc",
+    "q": "In the alternation of generations in land plants, which structure is a haploid (1n) cell produced by meiosis, and which stage does it directly develop into through mitosis?",
+    "a": 0,
+    "opts": [
+      "Spore; gametophyte stage",
+      "Zygote; sporophyte stage",
+      "Gamete; sporophyte stage",
+      "Spore; sporophyte stage"
+    ],
+    "explanation": "In the alternation of generations, meiosis in the sporophyte produces haploid (1n) spores. A spore is a single cell that directly develops through mitotic division into the multicellular haploid gametophyte stage. The other options are incorrect: a zygote is diploid (2n) and is produced by fertilization (fusion of gametes), not meiosis; gametes are haploid but fuse to form a zygote (which develops into the sporophyte), rather than developing directly into a sporophyte; and spores develop into the gametophyte stage, not the sporophyte stage."
+  },
+  {
+    "section": "6.5",
+    "title": "Plant Evolution & Diversity",
+    "t": "mc",
+    "q": "Which of the following is the only group of land plants in which the gametophyte is the dominant generation, requiring a film of water for flagellated sperm to swim from the antheridia to the archegonia?",
+    "a": 1,
+    "opts": [
+      "Gymnosperms",
+      "Bryophytes",
+      "Lycophytes",
+      "Pteridophytes"
+    ],
+    "explanation": "Bryophytes (nonvascular plants like mosses) are the only land plants in which the gametophyte is the dominant generation. They lack vascular tissue and rely on a film of water for their flagellated sperm to swim from the male antheridia to the female archegonia. Gymnosperms, Lycophytes, and Pteridophytes all have a dominant sporophyte generation, and gymnosperms do not have flagellated sperm requiring water (they disperse pollen via wind)."
+  },
+  {
+    "section": "6.5",
+    "title": "Plant Evolution & Diversity",
+    "t": "mc",
+    "q": "What is the key structural difference between microphylls found in Lycophytes and megaphylls found in Pteridophytes?",
+    "a": 1,
+    "opts": [
+      "Microphylls contain no vascular tissue, whereas megaphylls contain both xylem and phloem.",
+      "Microphylls have only one strand of vascular tissue, whereas megaphylls have several strands of vascular tissue.",
+      "Microphylls are found only on gametophytes, whereas megaphylls are found only on sporophytes.",
+      "Microphylls are covered in a waxy cuticle, whereas megaphylls lack a cuticle."
+    ],
+    "explanation": "As stated in the notes, the key structural difference is that microphylls (leaves of Lycophytes) contain only a single strand of vascular tissue, whereas megaphylls (leaves of Pteridophytes/ferns) contain several branching strands of vascular tissue. The other options are incorrect: microphylls do contain vascular tissue (one strand); both microphylls and megaphylls are found on the sporophyte stage; and both are covered in a waxy cuticle to prevent water loss."
+  },
+  {
+    "section": "6.5",
+    "title": "Plant Evolution & Diversity",
+    "t": "mc",
+    "q": "Which gymnosperm group is characterized by having only one surviving species, being dioecious (having separate male and female plants), and having a dominant representation in the fossil record?",
+    "a": 2,
+    "opts": [
+      "Conifers",
+      "Cycads",
+      "Ginkgoes",
+      "Gnetophytes"
+    ],
+    "explanation": "Ginkgoes are a gymnosperm group dominant in the fossil record, but represented today by only one surviving species, Ginkgo biloba. They are dioecious, meaning individual trees are either male or female. The other options are incorrect: Conifers have many surviving species and are generally monoecious; Cycads have multiple surviving species; and Gnetophytes consist of three living genera with about 70 species."
+  },
+  {
+    "section": "6.5",
+    "title": "Plant Evolution & Diversity",
+    "t": "mc",
+    "q": "In the anatomy of an angiosperm flower, which part of the carpel is the sticky receptor for pollen grains, and which part elevates it?",
+    "a": 0,
+    "opts": [
+      "Stigma; style",
+      "Ovary; filament",
+      "Anther; style",
+      "Receptacle; peduncle"
+    ],
+    "explanation": "In an angiosperm flower, the carpel (female reproductive organ) consists of three parts: the stigma (the sticky receptor that captures pollen grains), the style (the neck that elevates the stigma), and the ovary (the swollen base containing ovules). The other options are incorrect: the filament is the stalk of the stamen (male organ); the anther is the pollen-producing part of the stamen; and the receptacle is the swollen tip of the flower stalk (peduncle) where all flower parts attach."
+  },
+  {
+    "section": "6.5",
+    "title": "Plant Evolution & Diversity",
+    "t": "mc",
+    "q": "Which of the following classes of angiosperms are correctly paired with representative plants according to the text?",
+    "a": 1,
+    "opts": [
+      "Monocots: cacti and strawberry; Eudicots: corn and sugarcane.",
+      "Monocots: corn and tulips; Eudicots: cacti and dandelion.",
+      "Monocots: pineapples and dandelions; Eudicots: bamboo and cacti.",
+      "Monocots: tulips and beans; Eudicots: corn and strawberry."
+    ],
+    "explanation": "According to the notes, Monocots include plants like corn, tulips, pineapples, bamboo, and sugarcane. Eudicots include cacti, strawberry, dandelion, poplars, and beans. The other options are incorrect because they mispair these classes: cacti and strawberry are eudicots, not monocots; sugarcane and corn are monocots, not eudicots; dandelions are eudicots, not monocots; and beans are eudicots, not monocots."
+  },
+  {
+    "section": "6.5",
+    "title": "Plant Evolution & Diversity",
+    "t": "sa",
+    "q": "According to the text, which of the following traits are adaptations or characteristics of land plants?",
+    "correct": [
+      "Cuticle to prevent water loss.",
+      "Stomata for gas exchange.",
+      "Apical tissue allowing the production of complex tissues and organs.",
+      "Evolution from green algae (Charophytes)."
+    ],
+    "opts": [
+      "Cuticle to prevent water loss.",
+      "Stomata for gas exchange.",
+      "Storage of excess carbohydrates as glycogen.",
+      "Apical tissue allowing the production of complex tissues and organs.",
+      "Chitinous cell walls.",
+      "Evolution from green algae (Charophytes)."
+    ],
+    "explanation": "The notes list several adaptations of land plants: a waxy cuticle that covers exposed surfaces to prevent water loss; stomata, which are small openings that regulate gas exchange; and apical tissue, which allows for the growth of complex tissues and organs. Furthermore, land plants evolved from green algae (Charophytes). The other options are incorrect: plants store excess carbohydrates as starch, not glycogen (which is used by animals and fungi), and their cell walls are composed of cellulose, not chitin (found in fungi)."
+  },
+  {
+    "section": "6.6",
+    "title": "Invertebrates",
+    "t": "mc",
+    "q": "Which of the following animal groups is correctly matched with its tissue organization and diagnostic structural feature?",
+    "a": 2,
+    "opts": [
+      "Sponges – Triploblastic tissue; mesoglea",
+      "Comb jellies – Diploblastic tissue; cnidocytes",
+      "Sponges – Lacks true tissue; spicules",
+      "Cnidarians – Triploblastic tissue; ossicles"
+    ],
+    "explanation": "Sponges are unique because they are the only animal group that lacks true tissues, and their skeletal structures are made of spicules. The other options are incorrect: sponges lack triploblastic tissue and do not contain mesoglea (which is the jelly-like substance in comb jellies/cnidarians); comb jellies do not have cnidocytes (stinging cells are found in cnidarians, not comb jellies); and cnidarians are diploblastic, not triploblastic, and do not have ossicles (which are endoskeletal plates in echinoderms)."
+  },
+  {
+    "section": "6.6",
+    "title": "Invertebrates",
+    "t": "mc",
+    "q": "What is the function of the water vascular system in Echinoderms, and what is their endoskeleton composed of?",
+    "a": 1,
+    "opts": [
+      "Respiration only; chitinous plates",
+      "Locomotion, feeding, gas exchange, and sensory reception; spiny, calcium-rich plates called ossicles",
+      "Excretory transport; calcium carbonate shell called a test",
+      "Digestion and reproduction; a ladder-type network of silicon spines"
+    ],
+    "explanation": "In echinoderms, the water vascular system is a network of canals used for locomotion, feeding, gas exchange, and sensory reception. Their endoskeleton is made of spiny, calcium-rich plates called ossicles. The other options are incorrect because they restrict the water vascular system's function to respiration or excretion, and incorrectly describe the endoskeleton as being made of chitin, a single test shell (which is external), or a silicon network."
+  },
+  {
+    "section": "6.6",
+    "title": "Invertebrates",
+    "t": "mc",
+    "q": "During embryonic development, how are protostomes distinguished from deuterostomes according to the phylogenetic criteria mentioned?",
+    "a": 1,
+    "opts": [
+      "In protostomes, the anus develops before the mouth, whereas in deuterostomes, the mouth develops before the anus.",
+      "In protostomes, the mouth develops before the anus, whereas in deuterostomes, the anus develops before the mouth.",
+      "Protostomes are always diploblastic, whereas deuterostomes are always triploblastic.",
+      "Protostomes possess radial symmetry as adults, whereas deuterostomes possess bilateral symmetry as adults."
+    ],
+    "explanation": "According to the notes, protostomes are distinguished from deuterostomes based on embryonic development: in protostomes, the mouth develops before the anus, whereas in deuterostomes, the anus develops before the mouth. The other options are incorrect: option 0 reverses this developmental sequence; both protostomes and deuterostomes are triploblastic (not diploblastic); and both generally exhibit bilateral symmetry (or bilateral ancestry), not radial symmetry in protostomes."
+  },
+  {
+    "section": "6.6",
+    "title": "Invertebrates",
+    "t": "mc",
+    "q": "Which of the following parasitic roundworms (Nematoda) is contracted by humans through the consumption of undercooked pork?",
+    "a": 2,
+    "opts": [
+      "*Caenorhabditis elegans*",
+      "*Ascaris lumbricoides*",
+      "Trichinella (causing Trichinosis)",
+      "Filarial worms"
+    ],
+    "explanation": "Trichinosis is a parasitic roundworm (Nematoda) infection in humans contracted by consuming raw or undercooked pork containing encysted Trichinella larvae. The other options are incorrect: *Caenorhabditis elegans* is a free-living, non-parasitic roundworm used as a research model; *Ascaris lumbricoides* is contracted via ingestion of eggs from soil contaminated with feces; and filarial worms are transmitted by mosquito vectors and cause lymphatic diseases like elephantiasis."
+  },
+  {
+    "section": "6.6",
+    "title": "Invertebrates",
+    "t": "mc",
+    "q": "Which of the following arthropod groups is characterized by having a cephalothorax and abdomen, with the first pair of appendages modified as pinchers for feeding and defense?",
+    "a": 2,
+    "opts": [
+      "Crustaceans",
+      "Insects",
+      "Chelicerates",
+      "Centipedes"
+    ],
+    "explanation": "Chelicerates (such as spiders, scorpions, and horseshoe crabs) are characterized by having a cephalothorax (fused head and thorax) and an abdomen, with their first pair of appendages (chelicerae) modified as pinchers or fangs for feeding and defense. The other options are incorrect: crustaceans have a hard exoskeleton with 5 pairs of appendages (head with compound eyes) and antennae as their first appendages; insects have three distinct body parts (head, thorax, and abdomen) with antennae first; and centipedes have a head and segmented body with one pair of legs per segment."
+  },
+  {
+    "section": "6.6",
+    "title": "Invertebrates",
+    "t": "mc",
+    "q": "Within the Trochozoan group of Lophotrochozoans, which organisms are characterized by a three-part body plan and are further classified into classes such as Bivalves, Gastropods, and Cephalopods?",
+    "a": 2,
+    "opts": [
+      "Annelids",
+      "Flatworms",
+      "Molluscs",
+      "Rotifers"
+    ],
+    "explanation": "Molluscs are trochozoans characterized by a three-part body plan (visceral mass, mantle, and foot) and are divided into classes such as Bivalves (clams, mussels), Gastropods (snails, slugs), and Cephalopods (squid, octopuses). The other options are incorrect: Annelids are segmented worms (lacking a three-part plan); flatworms (Platyhelminthes) are acoelomate unsegmented worms; and rotifers are microscopic pseudocoelomates with a ciliated corona."
+  },
+  {
+    "section": "6.6",
+    "title": "Invertebrates",
+    "t": "sa",
+    "q": "According to the text, which of the following characteristics are shared by all animals?",
+    "correct": [
+      "They are heterotrophic and must digest food internally.",
+      "They contain cells that lack cell walls.",
+      "They are generally mobile.",
+      "They exhibit coordinated movement using nerves and muscles.",
+      "They undergo developmental plans controlled by the Hox gene family."
+    ],
+    "opts": [
+      "They are heterotrophic and must digest food internally.",
+      "They contain cells that lack cell walls.",
+      "They are generally mobile.",
+      "They possess a closed circulatory system.",
+      "They exhibit coordinated movement using nerves and muscles.",
+      "They undergo developmental plans controlled by the Hox gene family."
+    ],
+    "explanation": "The notes list key common features of all animals: they are multicellular heterotrophs that ingest and digest food internally; their cells lack cell walls; they are generally mobile; they coordinate movement using nerves and muscles; and their developmental plans are regulated by the Hox gene family. A closed circulatory system is not shared by all animals (many invertebrates like sponges, cnidarians, nematodes, and arthropods lack a closed circulatory system, having open systems or none at all)."
+  },
+  {
+    "section": "6.7",
+    "title": "Vertebrates",
+    "t": "mc",
+    "q": "Which of the following nonvertebrate chordates retains all four basic chordate characteristics throughout their entire adult life?",
+    "a": 1,
+    "opts": [
+      "Sea squirts (urochordates)",
+      "Lancelets (cephalochordates)",
+      "Jawless fish (agnathans)",
+      "Coelacanths (lobe-finned fish)"
+    ],
+    "explanation": "Lancelets (cephalochordates) are marine nonvertebrate chordates that maintain all four chordate characteristics (notochord, dorsal hollow nerve cord, pharyngeal pouches, and postanal tail) throughout their entire adult lives. Sea squirts (urochordates) possess these characteristics as larvae but lose most of them (except pharyngeal slits) as adults. Jawless fish and coelacanths are vertebrate chordates, not nonvertebrate chordates."
+  },
+  {
+    "section": "6.7",
+    "title": "Vertebrates",
+    "t": "mc",
+    "q": "What evolutionary transition in fish is believed to have directly given rise to the first terrestrial amphibians?",
+    "a": 2,
+    "opts": [
+      "Jawless fish developing cylindrical shapes and non-scaly skin.",
+      "Cartilaginous fish developing teethlike scales and 5-7 gill slits.",
+      "Lobe-finned fish developing fleshy fins supported by bones.",
+      "Ray-finned fish developing swim bladders for buoyancy control."
+    ],
+    "explanation": "Lobe-finned fish (sarcopterygians, including lungfish and coelacanths) possess fleshy fins supported by internal bones, which are homologous to the limbs of tetrapods. This group is believed to have given rise to the first terrestrial amphibians. Jawless fish (lampreys, hagfish) and cartilaginous fish (sharks, rays) did not lead to tetrapods, and ray-finned fish (the majority of modern bony fish) possess fan-like fins supported by bony rays that did not transition into terrestrial limbs."
+  },
+  {
+    "section": "6.7",
+    "title": "Vertebrates",
+    "t": "mc",
+    "q": "How are reptile lineages grouped based on the presence and number of openings in the skull behind the eye-socket, and which group led to the evolution of mammals?",
+    "a": 2,
+    "opts": [
+      "Anapsid (0 openings) led to mammals.",
+      "Diapsid (2 openings) led to mammals.",
+      "Synapsid (1 opening) led to mammals.",
+      "Triapsid (3 openings) led to mammals."
+    ],
+    "explanation": "Reptilian lineages are grouped by the openings in the skull behind the eye socket: Anapsids have no openings (represented by turtles); Diapsids have two openings (represented by most reptiles and birds); and Synapsids have one opening. The synapsid lineage led to the evolution of mammals. There is no biological classification called 'triapsid'."
+  },
+  {
+    "section": "6.7",
+    "title": "Vertebrates",
+    "t": "mc",
+    "q": "Which of the following represents the correct classification and examples of mammals based on their mode of offspring development?",
+    "a": 0,
+    "opts": [
+      "Monotremes (platypus, echidna) lay eggs; Marsupials (kangaroo, koala) nourish embryos in a pouch; Placental mammals develop fully internally.",
+      "Monotremes nourish embryos in a pouch; Marsupials lay eggs; Placental mammals develop via a yolk sac only.",
+      "Monotremes develop fully internally; Marsupials lay eggs; Placental mammals lack mammary glands.",
+      "Monotremes lay eggs; Marsupials develop fully internally; Placental mammals develop inside a pouch."
+    ],
+    "explanation": "Mammals are divided into three groups based on development: Monotremes (like the platypus and echidna) lay eggs; Marsupials (like kangaroos and koalas) give birth to underdeveloped young that complete development in a maternal pouch nourished by a yolk-based placenta; and Placental mammals complete development internally supported by a placenta. The other options are incorrect because they swap these reproductive mechanisms or state that placentals lack mammary glands (all mammals have mammary glands)."
+  },
+  {
+    "section": "6.7",
+    "title": "Vertebrates",
+    "t": "mc",
+    "q": "Which of the following traits distinguishes birds from the rest of the traditional class Reptilia, enabling them to generate and regulate metabolic heat to maintain their body temperature?",
+    "a": 2,
+    "opts": [
+      "They have anapsid skulls.",
+      "They are ectothermic.",
+      "They are endothermic.",
+      "They have a three-chambered heart."
+    ],
+    "explanation": "Birds are endotherms, meaning they generate and regulate metabolic heat to maintain a constant body temperature, distinguishing them from traditional reptiles, which are ectothermic (dependent on environmental heat). The other options are incorrect: birds have diapsid skulls, not anapsid (no openings) skulls; and birds have a four-chambered heart (not three-chambered) to support their high metabolic rate."
+  },
+  {
+    "section": "6.7",
+    "title": "Vertebrates",
+    "t": "mc",
+    "q": "What type of circulatory system is found in amphibians, and how many chambers does their heart contain?",
+    "a": 2,
+    "opts": [
+      "Single-looped circulatory pathway; 2 chambers",
+      "Open circulatory pathway; 3 chambers",
+      "Double-looped circulatory pathway; 3 chambers",
+      "Double-looped circulatory pathway; 4 chambers"
+    ],
+    "explanation": "Amphibians have a closed circulatory system characterized by a double-looped circulatory pathway (systemic and pulmonary circuits) and a 3-chambered heart (consisting of two atria and one ventricle). The other options are incorrect: fish have a single-loop system with a 2-chambered heart; all vertebrates have closed, not open, circulatory systems; and birds, mammals, and crocodilians have a 4-chambered heart."
+  },
+  {
+    "section": "6.7",
+    "title": "Vertebrates",
+    "t": "sa",
+    "q": "According to the text, which of the following are the four basic characteristics that all chordates possess at some point in their life cycle?",
+    "correct": [
+      "Notochord",
+      "Dorsal tubular nerve cord",
+      "Pharyngeal pouches",
+      "Postanal tail"
+    ],
+    "opts": [
+      "Notochord",
+      "Dorsal tubular nerve cord",
+      "Pharyngeal pouches",
+      "Postanal tail",
+      "Vertebral column",
+      "Watertight skin",
+      "Mammary glands"
+    ],
+    "explanation": "All chordates share four diagnostic features at some point in their development: a dorsal supporting rod (notochord), a dorsal tubular nerve cord, pharyngeal pouches (or slits), and a postanal tail. The other options are incorrect: a vertebral column is unique to vertebrates (replacing the notochord); watertight skin is an adaptation of terrestrial amniotes (reptiles, mammals); and mammary glands are unique to mammals."
+  }
+]

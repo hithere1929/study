@@ -1,0 +1,1103 @@
+[
+  {
+    "section": "4.1",
+    "title": "DNA Advances through 20th Century",
+    "t": "mc",
+    "q": "In Frederick Griffith's late 1920s experiments with Streptococcus pneumoniae, what structural feature distinguished the virulent S strain from the non-virulent R strain?",
+    "a": 1,
+    "opts": [
+      "An outer membrane composed of specific glycoproteins that bind to alveolar receptors.",
+      "A polysaccharide capsule that protects the S strain from body defenses.",
+      "A peptidoglycan cell wall containing lipopolysaccharides that trigger sepsis.",
+      "The presence of flagella that allow the S strain to rapidly migrate through lung tissue."
+    ],
+    "explanation": "The correct answer is correct because, as shown in Griffith's experiments, the virulent S (smooth) strain is surrounded by a polysaccharide capsule that protects it from the host organism's immune system, allowing it to cause pneumonia. The non-virulent R (rough) strain lacks this capsule and is easily destroyed by host defenses. The other options are incorrect: 'An outer membrane composed of specific glycoproteins...' is incorrect because Streptococcus pneumoniae is a Gram-positive bacterium and does not have an outer membrane or specific glycoproteins for alveolar receptors described in these experiments. 'A peptidoglycan cell wall containing lipopolysaccharides...' is incorrect because S. pneumoniae is Gram-positive (lacking lipopolysaccharides/LPS), and both strains contain peptidoglycan cell walls; it is the polysaccharide capsule that distinguishes their virulence. 'The presence of flagella...' is incorrect because S. pneumoniae is a non-motile bacterium and does not possess flagella."
+  },
+  {
+    "section": "4.1",
+    "title": "DNA Advances through 20th Century",
+    "t": "mc",
+    "q": "During the early 1940s, Oswald Avery and his colleagues used specific enzymes to identify the transforming principle from heat-killed S cells. Which enzyme treatment prevented the transformation of live R cells into virulent S cells, and what did this indicate?",
+    "a": 0,
+    "opts": [
+      "DNase treatment, indicating that deoxyribonucleic acid is the transforming agent.",
+      "Protease treatment, indicating that proteins are the molecules responsible for virulence.",
+      "RNase treatment, indicating that ribonucleic acid acts as the hereditary transmitter.",
+      "Lipase treatment, indicating that lipids compose the capsule required for infectious transfer."
+    ],
+    "explanation": "The correct answer is correct because in Avery's early 1940s experiments, treating the heat-killed S strain extract with DNase (which degrades DNA) was the only treatment that prevented the transformation of live non-virulent R cells into virulent S cells. This demonstrated that DNA, not protein or RNA, is the transforming principle. The other options are incorrect: 'Protease treatment...' is incorrect because protease degrades proteins, but cells missing protein were still able to transform R cells, showing proteins were not the transforming principle. 'RNase treatment...' is incorrect because RNase degrades RNA, but cells missing RNA were still able to transform R cells, showing RNA was not the transforming principle. 'Lipase treatment...' is incorrect because lipase degrades lipids, which were not the transforming principle and not the molecule tested to define the transforming principle in these experiments."
+  },
+  {
+    "section": "4.1",
+    "title": "DNA Advances through 20th Century",
+    "t": "mc",
+    "q": "In the Hershey-Chase experiments, which radioisotopes were used to label phage proteins and DNA, respectively, and where was the radioactivity detected after centrifugation?",
+    "a": 2,
+    "opts": [
+      "32P for proteins (detected in the pellet) and 35S for DNA (detected in the supernatant).",
+      "35S for proteins (detected in the pellet) and 32P for DNA (detected in the supernatant).",
+      "35S for proteins (detected in the supernatant) and 32P for DNA (detected in the pellet).",
+      "32P for proteins (detected in the supernatant) and 35S for DNA (detected in the pellet)."
+    ],
+    "explanation": "The correct answer is correct because Hershey and Chase used radioactive sulfur (35S) to label proteins (since sulfur is found in amino acids like cysteine and methionine but not DNA) and radioactive phosphorus (32P) to label DNA (since phosphorus is in the nucleic acid backbone but not proteins). After infection, blending, and centrifugation, the lighter viral protein coats (labeled with 35S) remained in the liquid supernatant, while the heavier bacterial cells containing the injected viral DNA (labeled with 32P) settled into the pellet. The other options are incorrect: '32P for proteins... and 35S for DNA...' is incorrect because it swaps the radioisotopes (phosphorus is in DNA, sulfur is in proteins). '35S for proteins (detected in the pellet) and 32P for DNA (detected in the supernatant)' is incorrect because the proteins remain outside the cells (supernatant) and DNA enters the cells (pellet). '32P for proteins (detected in the supernatant) and 35S for DNA (detected in the pellet)' is incorrect because it swaps both the isotope labels and their biological location."
+  },
+  {
+    "section": "4.1",
+    "title": "DNA Advances through 20th Century",
+    "t": "mc",
+    "q": "In the early 1950s Hershey-Chase experiment, what was the specific purpose of using a kitchen blender prior to centrifugation?",
+    "a": 1,
+    "opts": [
+      "To lyse the bacterial cells to release the newly synthesized viral progeny.",
+      "To shear the empty viral protein coats (phage ghosts) off the surface of the bacterial cells.",
+      "To homogenize the nutrient medium to ensure uniform distribution of radioactive isotopes.",
+      "To denature the phage DNA so that it could be easily separated from the bacterial genome."
+    ],
+    "explanation": "The correct answer is correct because the kitchen blender provided physical agitation to shear the empty viral protein coats (phage ghosts) off the outer surface of the bacterial cells after the virus had injected its genetic material. This allowed the separation of the viral coats from the host cells. The other options are incorrect: 'To lyse the bacterial cells...' is incorrect because lysing the bacteria would release the contents, defeating the purpose of separating the extracellular viral coats from the intracellular contents. 'To homogenize the nutrient medium...' is incorrect because homogeneity was not the goal; separation of the two components was required. 'To denature the phage DNA...' is incorrect because denaturing the DNA was not performed and would not aid in separating the viral coats from the bacterial cell surface."
+  },
+  {
+    "section": "4.1",
+    "title": "DNA Advances through 20th Century",
+    "t": "mc",
+    "q": "Which technique did Maurice Wilkins and Rosalind Franklin utilize to image DNA, providing the critical data that James Watson and Francis Crick used to model the double helix in 1953?",
+    "a": 2,
+    "opts": [
+      "Transmission electron microscopy (TEM) of heavy metal-stained DNA.",
+      "Nuclear magnetic resonance (NMR) spectroscopy of purified nucleotides.",
+      "X-ray diffraction of purified and crystallized DNA molecules.",
+      "Density gradient ultracentrifugation using cesium chloride isotopes."
+    ],
+    "explanation": "The correct answer is correct because Rosalind Franklin and Maurice Wilkins used X-ray diffraction to analyze purified and crystallized DNA fibers. The resulting diffraction pattern (especially Photo 51) provided James Watson and Francis Crick with the key mathematical parameters (such as the helical shape, width, and spacing of bases) to build their double helix model. The other options are incorrect: 'Transmission electron microscopy (TEM)...' is incorrect because TEM was not sufficiently advanced to resolve the double helix structure of DNA in the early 1950s. 'Nuclear magnetic resonance (NMR) spectroscopy...' is incorrect because NMR was not used for structure determination of DNA at that time. 'Density gradient ultracentrifugation...' is incorrect because this technique separates molecules based on density (used later by Meselson and Stahl to prove semi-conservative replication), not to image structural details."
+  },
+  {
+    "section": "4.1",
+    "title": "DNA Advances through 20th Century",
+    "t": "mc",
+    "q": "Which of the following is a correct detail regarding the publication and recognition of the DNA double helix model?",
+    "a": 0,
+    "opts": [
+      "The paper was published in Nature, was one page long, and contained a single hand-drawn image of the DNA structure.",
+      "James Watson and Francis Crick won the Nobel Prize in Medicine in 1953 immediately following the publication.",
+      "Rosalind Franklin shared the 1963 Nobel Prize in Medicine with Watson, Crick, and Wilkins before her passing.",
+      "The double helix model was presented alongside a 100-page comprehensive mathematical analysis of DNA replication."
+    ],
+    "explanation": "The correct answer is correct because Watson and Crick's seminal paper proposing the double helix model was published in the journal Nature in 1953, was only one page long, and featured a single hand-drawn diagram illustrating the double-stranded helical structure of DNA. The other options are incorrect: 'James Watson and Francis Crick won the Nobel Prize... in 1953 immediately...' is incorrect because they won the Nobel Prize in Medicine in 1962, not 1953. 'Rosalind Franklin shared the 1963 Nobel Prize...' is incorrect because Franklin passed away in 1958, and Nobel Prizes are not awarded posthumously; the prize was shared in 1962 by Watson, Crick, and Wilkins. 'The double helix model was presented alongside a 100-page comprehensive mathematical analysis...' is incorrect because the publication was incredibly concise (one page) and did not include a 100-page mathematical appendix."
+  },
+  {
+    "section": "4.1",
+    "title": "DNA Advances through 20th Century",
+    "t": "sa",
+    "q": "In the mid-20th century, before the molecular structure of DNA was fully solved, scientists understood that the genetic material must meet which of the following functional requirements? (Select all that apply)",
+    "correct": [
+      "Able to store information for structure, development, and metabolism",
+      "Stable so it can be replicated with high accuracy",
+      "Able to undergo rare changes called mutations to provide genetic variability"
+    ],
+    "opts": [
+      "Able to store information for structure, development, and metabolism",
+      "Stable so it can be replicated with high accuracy",
+      "Able to undergo rare changes called mutations to provide genetic variability",
+      "Capable of direct translation into proteins without any intermediate nucleic acid templates",
+      "Completely resistant to chemical modification or sequence alterations over time"
+    ],
+    "explanation": "The correct answer is correct because before the structure of DNA was solved, scientists established that genetic material must perform three key functions: (1) store information that controls the structure, development, and metabolic activities of the cell; (2) be stable enough to be replicated with high fidelity during cell division so that genetic information is preserved; and (3) be capable of undergoing rare mutations to generate the genetic variation necessary for evolution. The other options are incorrect: 'Capable of direct translation into proteins without any intermediate nucleic acid templates' is incorrect because translation requires intermediate templates (mRNA). 'Completely resistant to chemical modification or sequence alterations over time' is incorrect because genetic material must be capable of undergoing rare changes (mutations) to allow for genetic diversity and evolution."
+  },
+  {
+    "section": "4.1",
+    "title": "DNA Advances through 20th Century",
+    "t": "sa",
+    "q": "During Oswald Avery's early 1940s experiments, which experimental conditions resulted in the transformation of non-virulent rough (R) Streptococcus pneumoniae into virulent smooth (S) cells, causing death when injected into mice? (Select all that apply)",
+    "correct": [
+      "Heat-killed S cells treated with protease mixed with live R cells",
+      "Heat-killed S cells treated with RNase mixed with live R cells"
+    ],
+    "opts": [
+      "Heat-killed S cells treated with protease mixed with live R cells",
+      "Heat-killed S cells treated with RNase mixed with live R cells",
+      "Heat-killed S cells treated with DNase mixed with live R cells",
+      "Live S cells treated with DNase mixed with heat-killed R cells"
+    ],
+    "explanation": "The correct answer is correct because in Avery's experiments, treating heat-killed S cells with protease (which destroys proteins) or RNase (which destroys RNA) left the DNA intact. When these mixtures were added to live R cells, the DNA transformed the non-virulent R cells into virulent S cells, causing the death of the mice. The other options are incorrect: 'Heat-killed S cells treated with DNase mixed with live R cells' is incorrect because DNase destroys the transforming principle (DNA), preventing transformation. 'Live S cells treated with DNase mixed with heat-killed R cells' is incorrect because this does not describe the transformation experiment of live R cells by S cell extracts."
+  },
+  {
+    "section": "4.2",
+    "title": "DNA Structure",
+    "t": "mc",
+    "q": "What types of bonds connect the nucleotides within a single DNA strand to form the backbone, and what bonds hold the two strands together in a double helix?",
+    "a": 0,
+    "opts": [
+      "Phosphodiester bonds within a strand; hydrogen bonds between strands.",
+      "Hydrogen bonds within a strand; ionic bonds between strands.",
+      "Peptide bonds within a strand; phosphodiester bonds between strands.",
+      "Glycosidic bonds within a strand; disulfide bonds between strands."
+    ],
+    "explanation": "The correct answer is correct because nucleotides within a single DNA strand are linked covalently by phosphodiester bonds, which connect the 3' carbon of one deoxyribose sugar to the 5' phosphate group of the next nucleotide, forming the sugar-phosphate backbone. The two complementary strands are held together in a double helix by weak hydrogen bonds between the opposite nitrogenous bases (A-T and G-C). The other options are incorrect: 'Hydrogen bonds within a strand; ionic bonds between strands' is incorrect because hydrogen bonds connect the strands, not nucleotides within a single strand, and ionic bonds are not involved in pairing the strands. 'Peptide bonds within a strand; phosphodiester bonds between strands' is incorrect because peptide bonds link amino acids in proteins, not nucleotides in DNA. 'Glycosidic bonds within a strand; disulfide bonds between strands' is incorrect because glycosidic bonds connect the sugar to the nitrogenous base, and disulfide bonds stabilize protein tertiary structures, not DNA double strands."
+  },
+  {
+    "section": "4.2",
+    "title": "DNA Structure",
+    "t": "mc",
+    "q": "How many hydrogen bonds form between the complementary base pairs in a DNA molecule?",
+    "a": 3,
+    "opts": [
+      "Adenine and thymine form 3 hydrogen bonds; guanine and cytosine form 2 hydrogen bonds.",
+      "Adenine and thymine form 2 hydrogen bonds; guanine and cytosine form 2 hydrogen bonds.",
+      "Adenine and thymine form 3 hydrogen bonds; guanine and cytosine form 3 hydrogen bonds.",
+      "Adenine and thymine form 2 hydrogen bonds; guanine and cytosine form 3 hydrogen bonds."
+    ],
+    "explanation": "The correct answer is correct because complementary base pairing rules dictate that Adenine (A) pairs with Thymine (T) via 2 hydrogen bonds, whereas Guanine (G) pairs with Cytosine (C) via 3 hydrogen bonds. The other options are incorrect: 'Adenine and thymine form 3 hydrogen bonds; guanine and cytosine form 2...' is incorrect because it swaps the number of bonds for the pairs. 'Adenine and thymine form 2...; guanine and cytosine form 2...' is incorrect because G-C pairs form 3 hydrogen bonds. 'Adenine and thymine form 3...; guanine and cytosine form 3...' is incorrect because A-T pairs form only 2 hydrogen bonds."
+  },
+  {
+    "section": "4.2",
+    "title": "DNA Structure",
+    "t": "mc",
+    "q": "Which of the following correctly classifies the nitrogenous bases based on their ring structures?",
+    "a": 1,
+    "opts": [
+      "Cytosine and guanine are purines (single-ring); adenine and thymine are pyrimidines (double-ring).",
+      "Adenine and guanine are purines (double-ring); thymine and cytosine are pyrimidines (single-ring).",
+      "Thymine and guanine are purines (single-ring); adenine and cytosine are pyrimidines (double-ring).",
+      "Adenine and cytosine are purines (double-ring); guanine and thymine are pyrimidines (single-ring)."
+    ],
+    "explanation": "The correct answer is correct because Adenine (A) and Guanine (G) are purines, which are nitrogenous bases characterized by a double-ring structure (a six-membered ring fused to a five-membered ring). Thymine (T) and Cytosine (C) are pyrimidines, which have a single six-membered ring structure. The other options are incorrect: 'Cytosine and guanine are purines (single-ring); adenine and thymine are pyrimidines (double-ring)' is incorrect because it misclassifies the rings and names. 'Thymine and guanine are purines (single-ring); adenine and cytosine are pyrimidines (double-ring)' is incorrect because it mixes up the purine/pyrimidine members and their ring numbers. 'Adenine and cytosine are purines (double-ring); guanine and thymine are pyrimidines (single-ring)' is incorrect because cytosine is a single-ring pyrimidine and guanine is a double-ring purine."
+  },
+  {
+    "section": "4.2",
+    "title": "DNA Structure",
+    "t": "mc",
+    "q": "Which histone protein is responsible for assisting the folding process of nucleosomes into the zig-zag folded chromatin structure, rather than forming part of the core histone octamer?",
+    "a": 1,
+    "opts": [
+      "H2A",
+      "H1",
+      "H3",
+      "H4"
+    ],
+    "explanation": "The correct answer is correct because histone H1 acts as the linker histone. It binds to the linker DNA and the nucleosome core to assist in compacting the 'beads-on-a-string' nucleosomal structure into the more condensed zig-zag folded chromatin fiber. The other options are incorrect: H2A, H3, and H4 are incorrect because they, along with H2B, make up the core histone octamer (two copies of each) around which the DNA is wound, rather than serving as the linker protein that assists in the higher-order zig-zag folding."
+  },
+  {
+    "section": "4.2",
+    "title": "DNA Structure",
+    "t": "mc",
+    "q": "Which histones make up the core octamer around which DNA is wound to form a nucleosome?",
+    "a": 0,
+    "opts": [
+      "Two copies each of H2A, H2B, H3, and H4.",
+      "One copy each of H1, H2A, H2B, H3, and H4, plus three linker proteins.",
+      "Two copies of H1, H2A, H2B, and H3.",
+      "Four copies of H3 and four copies of H4."
+    ],
+    "explanation": "The correct answer is correct because the nucleosome core particle (core octamer or octet) is composed of two copies each of four core histones: H2A, H2B, H3, and H4. The other options are incorrect: 'One copy each of H1, H2A, H2B, H3, and H4, plus three linker proteins' is incorrect because H1 is a linker histone and does not form the core octamer, which has two copies of each of the other four histones. 'Two copies of H1, H2A, H2B, and H3' is incorrect because H1 is not in the core octamer, and H4 is missing. 'Four copies of H3 and four copies of H4' is incorrect because the core contains H2A and H2B in addition to H3 and H4."
+  },
+  {
+    "section": "4.2",
+    "title": "DNA Structure",
+    "t": "mc",
+    "q": "Which of the following statements best describes euchromatin and heterochromatin and their transcriptional activity?",
+    "a": 2,
+    "opts": [
+      "Heterochromatin consists of loosely coiled loops containing active genes, while euchromatin is highly compacted and inactive.",
+      "Euchromatin is a highly compacted, dark-staining region containing active genes, while heterochromatin is loosely coiled and inactive.",
+      "Euchromatin consists of loosely coiled loops of active chromatin containing genes being transcribed, while heterochromatin is more compacted and inactive.",
+      "Both euchromatin and heterochromatin represent equivalent levels of chromosome compaction but are found in different parts of the cell cycle."
+    ],
+    "explanation": "The correct answer is correct because euchromatin represents a relaxed, loosely packed state of chromatin that allows transcription machinery (like RNA polymerase) to access DNA, meaning it contains active genes. Heterochromatin is highly condensed and compacted, which physically prevents transcription factors from binding, thus rendering it transcriptionally inactive. The other options are incorrect: 'Heterochromatin consists of loosely coiled loops containing active genes, while euchromatin is highly compacted...' is incorrect because it reverses the definitions. 'Euchromatin is a highly compacted, dark-staining region...' is incorrect because euchromatin is loosely packed and light-staining, not highly compacted or dark-staining. 'Both euchromatin and heterochromatin represent equivalent levels of chromosome compaction...' is incorrect because they represent different levels of packaging and transcriptional activity."
+  },
+  {
+    "section": "4.2",
+    "title": "DNA Structure",
+    "t": "sa",
+    "q": "According to Chargaff's rules and complementary base pairing in DNA, which of the following statements are true? (Select all that apply)",
+    "correct": [
+      "The percentage of adenine in a double-stranded DNA sample is equal to the percentage of thymine.",
+      "The percentage of guanine in a double-stranded DNA sample is equal to the percentage of cytosine.",
+      "Every complementary base pair consists of one purine and one pyrimidine.",
+      "The total amount of purines in a double-stranded DNA sample is equal to the total amount of pyrimidines."
+    ],
+    "opts": [
+      "The percentage of adenine in a double-stranded DNA sample is equal to the percentage of thymine.",
+      "The percentage of guanine in a double-stranded DNA sample is equal to the percentage of cytosine.",
+      "Every complementary base pair consists of one purine and one pyrimidine.",
+      "Adenine and cytosine are complementary base pairs that form three hydrogen bonds.",
+      "The total amount of purines in a double-stranded DNA sample is equal to the total amount of pyrimidines."
+    ],
+    "explanation": "The correct answer is correct because Chargaff's rules established that in double-stranded DNA: (1) Adenine (A) always pairs with Thymine (T), meaning %A = %T; (2) Guanine (G) always pairs with Cytosine (C), meaning %G = %C; (3) Each complementary base pair contains one double-ring purine (A or G) and one single-ring pyrimidine (T or C), which maintains a uniform width of the double helix; and (4) Consequently, the total sum of purines (A+G) equals the total sum of pyrimidines (T+C). The other option is incorrect: 'Adenine and cytosine are complementary base pairs that form three hydrogen bonds' is incorrect because Adenine pairs with Thymine (via 2 hydrogen bonds), and Cytosine pairs with Guanine (via 3 hydrogen bonds)."
+  },
+  {
+    "section": "4.2",
+    "title": "DNA Structure",
+    "t": "sa",
+    "q": "Which of the following are components of a single DNA nucleotide? (Select all that apply)",
+    "correct": [
+      "A 5-carbon sugar called deoxyribose",
+      "A phosphate group (PO4)",
+      "A nitrogenous base such as adenine, thymine, guanine, or cytosine"
+    ],
+    "opts": [
+      "A 5-carbon sugar called deoxyribose",
+      "A phosphate group (PO4)",
+      "A nitrogenous base such as adenine, thymine, guanine, or cytosine",
+      "A 5-carbon sugar called ribose",
+      "A histone protein core"
+    ],
+    "explanation": "The correct answer is correct because a DNA nucleotide consists of three specific components: a 5-carbon sugar (deoxyribose), a phosphate group attached to the sugar's 5' carbon, and one of four nitrogenous bases (adenine, thymine, guanine, or cytosine) attached to the sugar's 1' carbon. The other options are incorrect: 'A 5-carbon sugar called ribose' is incorrect because ribose is the sugar found in RNA nucleotides, whereas DNA contains deoxyribose. 'A histone protein core' is incorrect because histones are proteins around which DNA wraps to form chromatin; they are not molecular components of a single nucleotide."
+  },
+  {
+    "section": "4.3",
+    "title": "DNA Replication, Transcription, Translation",
+    "t": "mc",
+    "q": "During DNA replication, why are Okazaki fragments formed on the lagging strand, and which enzyme subsequently links them together?",
+    "a": 1,
+    "opts": [
+      "DNA polymerase can only synthesize in the 3' to 5' direction, and DNA ligase links the fragments.",
+      "DNA polymerase can only synthesize in the 5' to 3' direction, away from the replication fork; DNA ligase links them.",
+      "Helicase unwinds DNA in short bursts, and topoisomerase seals the resulting fragments.",
+      "RNA polymerase initiates synthesis in the wrong direction, and DNA polymerase I replaces it before ligase links them."
+    ],
+    "explanation": "The correct answer is correct because DNA polymerases can only add nucleotides to the 3' end of a growing strand, meaning synthesis occurs exclusively in the 5' to 3' direction. On the lagging strand, the template runs 5' to 3' relative to the replication fork, so DNA polymerase must synthesize DNA in short segments (Okazaki fragments) moving away from the fork. DNA ligase subsequently links these fragments together by catalyzing the formation of phosphodiester bonds. The other options are incorrect: 'DNA polymerase can only synthesize in the 3' to 5' direction...' is incorrect because DNA synthesis occurs only in the 5' to 3' direction. 'Helicase unwinds DNA in short bursts, and topoisomerase seals...' is incorrect because helicase unwinds DNA continuously and topoisomerase relieves torsional strain ahead of the replication fork, not sealing Okazaki fragments. 'RNA polymerase initiates synthesis in the wrong direction...' is incorrect because RNA primers are synthesized by primase in the correct direction (5' to 3'), and DNA polymerase replaces them before ligase joins them."
+  },
+  {
+    "section": "4.3",
+    "title": "DNA Replication, Transcription, Translation",
+    "t": "mc",
+    "q": "How does the initiation of DNA replication differ between prokaryotes and eukaryotes?",
+    "a": 0,
+    "opts": [
+      "Prokaryotes initiate replication at a single site on their circular chromosome, while eukaryotes initiate at multiple origins of replication along their linear chromosomes.",
+      "Prokaryotes use RNA polymerase to start replication, whereas eukaryotes use DNA polymerase.",
+      "Prokaryotes have multiple origins of replication to speed up division, while eukaryotes have only one origin per chromosome.",
+      "Prokaryotes replicate DNA in the cytoplasm without origins, while eukaryotes replicate DNA in the nucleolus using telomeres."
+    ],
+    "explanation": "The correct answer is correct because prokaryotes typically have a single, small circular chromosome with one origin of replication (oriC). Eukaryotes have much larger linear chromosomes, which would take too long to replicate from a single point; therefore, they initiate replication at multiple origins of replication along each chromosome to complete replication in a timely manner. The other options are incorrect: 'Prokaryotes use RNA polymerase... whereas eukaryotes use DNA polymerase' is incorrect because both utilize RNA primers synthesized by primase, and both use DNA polymerase for elongation. 'Prokaryotes have multiple origins... while eukaryotes have only one' is incorrect because it reverses the actual chromosome structures and origin counts. 'Prokaryotes replicate DNA in the cytoplasm without origins...' is incorrect because prokaryotic replication requires a specific origin of replication to begin."
+  },
+  {
+    "section": "4.3",
+    "title": "DNA Replication, Transcription, Translation",
+    "t": "mc",
+    "q": "What is the specific composition and function of the 5' cap added to eukaryotic pre-mRNA during processing?",
+    "a": 2,
+    "opts": [
+      "It is a poly-A tail of 150–200 adenines that protects the mRNA from nuclear export.",
+      "It is a chain of methylated adenines that prevents splicing of exons.",
+      "It is a modified Guanine nucleotide that tells the ribosome where to attach when translation begins.",
+      "It is a small nuclear ribonucleoprotein (snRNP) that acts as a signal for transcription termination."
+    ],
+    "explanation": "The correct answer is correct because during eukaryotic pre-mRNA processing, a modified guanine nucleotide (7-methylguanosine) is added to the 5' end. This 5' cap prevents mRNA degradation by nucleases and serves as a critical recognition signal for the ribosome, telling it where to attach to initiate translation. The other options are incorrect: 'It is a poly-A tail of 150-200 adenines...' is incorrect because the poly-A tail is added to the 3' end, not the 5' end, and its main role is stability and nuclear export. 'It is a chain of methylated adenines that prevents splicing...' is incorrect because the cap is a single modified guanine and it does not prevent splicing (splicing is required to remove introns). 'It is a small nuclear ribonucleoprotein (snRNP)...' is incorrect because snRNPs make up the spliceosome, which removes introns, and do not act as the 5' cap."
+  },
+  {
+    "section": "4.3",
+    "title": "DNA Replication, Transcription, Translation",
+    "t": "mc",
+    "q": "According to Francis Crick's Wobble Hypothesis, how can cells function with only approximately 40 different tRNA molecules when there are 61 codons specifying amino acids?",
+    "a": 1,
+    "opts": [
+      "The tRNA anticodon can change its sequence dynamically as it travels through the cytosol.",
+      "First two positions of the tRNA anticodon recognize codons differing in the third position.",
+      "The ribosome alters the mRNA sequence during translation to match the available tRNA pool.",
+      "Multiple different amino acids can attach to the same tRNA molecule depending on the cell's energy state."
+    ],
+    "explanation": "The correct answer is correct because Crick's Wobble Hypothesis states that while the first two bases of a codon form strict, standard Watson-Crick base pairs with the anticodon of the tRNA, the base pairing at the third position (the 3' base of the codon and the 5' base of the anticodon) is less constrained ('wobbles'). This allows a single tRNA anticodon to recognize and pair with multiple different codons that differ only in their third position. The other options are incorrect: 'The tRNA anticodon can change its sequence dynamically...' is incorrect because tRNA anticodon sequences are genetically fixed and do not change dynamically. 'The ribosome alters the mRNA sequence...' is incorrect because the ribosome does not change the nucleotide sequence of the mRNA template. 'Multiple different amino acids can attach to the same tRNA...' is incorrect because each tRNA is aminoacylated with one specific amino acid, catalyzed by specific aminoacyl-tRNA synthetases."
+  },
+  {
+    "section": "4.3",
+    "title": "DNA Replication, Transcription, Translation",
+    "t": "mc",
+    "q": "During the elongation phase of translation, what occurs at the E, P, and A sites in the large ribosomal subunit?",
+    "a": 1,
+    "opts": [
+      "The A site holds the growing polypeptide chain, the P site binds the incoming amino acid, and the E site is where splicing occurs.",
+      "The next tRNA enters at the A site, the growing polypeptide chain is elongated at the P site, and the empty tRNA exits from the E site.",
+      "The mRNA binds at the E site, tRNA binds at the P site, and the active peptide bonds are cleaved at the A site.",
+      "The initiator tRNA binds directly to the E site, moves to the A site for elongation, and leaves the ribosome via the P site."
+    ],
+    "explanation": "The correct answer is correct because during translational elongation, the ribosome has three sites: (1) the A (Aminoacyl) site, where the incoming charged tRNA carrying the next amino acid binds; (2) the P (Peptidyl) site, which holds the tRNA carrying the growing polypeptide chain; and (3) the E (Exit) site, where the uncharged, empty tRNA moves and is released from the ribosome. The other options are incorrect: 'The A site holds the growing polypeptide... P site binds incoming... E site is where splicing...' is incorrect because splicing occurs in the nucleus via spliceosomes, not in the ribosome, and the P site holds the growing chain. 'The mRNA binds at the E site...' is incorrect because the mRNA template binds along a groove in the small ribosomal subunit, passing through the tRNA-binding sites. 'The initiator tRNA binds directly to the E site...' is incorrect because the initiator tRNA (tRNA^Met) bypasses the A site and binds directly to the P site to begin translation."
+  },
+  {
+    "section": "4.3",
+    "title": "DNA Replication, Transcription, Translation",
+    "t": "mc",
+    "q": "What specific component of the ribosome catalyzes the formation of the peptide bond between adjacent amino acids during translation?",
+    "a": 2,
+    "opts": [
+      "DNA polymerase III",
+      "A specialized protein enzyme located in the small subunit",
+      "A ribozyme, which is a catalytic RNA molecule within the ribosome",
+      "Aminoacyl-tRNA synthetase"
+    ],
+    "explanation": "The correct answer is correct because the formation of the peptide bond is catalyzed by peptidyl transferase activity, which resides in the large ribosomal subunit. This activity is carried out not by a protein enzyme, but by ribosomal RNA (23S rRNA in prokaryotes, 28S rRNA in eukaryotes), acting as a ribozyme (catalytic RNA). The other options are incorrect: 'DNA polymerase III' is incorrect because it is replication enzyme, not a translation enzyme. 'A specialized protein enzyme located in the small subunit' is incorrect because the catalytic center is in the large subunit, and it is composed of RNA, not protein. 'Aminoacyl-tRNA synthetase' is incorrect because this enzyme acts in the cytoplasm to attach amino acids to their respective tRNA molecules, not inside the ribosome to form peptide bonds."
+  },
+  {
+    "section": "4.3",
+    "title": "DNA Replication, Transcription, Translation",
+    "t": "sa",
+    "q": "Which of the following are distinct structural differences between DNA and RNA? (Select all that apply)",
+    "correct": [
+      "RNA contains the sugar ribose, whereas DNA contains the sugar deoxyribose.",
+      "RNA contains the nitrogenous base uracil, whereas DNA contains thymine.",
+      "RNA is typically single-stranded (though it can fold on itself), whereas DNA is double-stranded.",
+      "RNA molecules are generally much shorter, representing the length of about one gene, whereas DNA molecules are very long."
+    ],
+    "opts": [
+      "RNA contains the sugar ribose, whereas DNA contains the sugar deoxyribose.",
+      "RNA contains the nitrogenous base uracil, whereas DNA contains thymine.",
+      "RNA is typically single-stranded (though it can fold on itself), whereas DNA is double-stranded.",
+      "RNA molecules are generally much shorter, representing the length of about one gene, whereas DNA molecules are very long.",
+      "RNA contains phosphodiester bonds, whereas DNA contains only hydrogen bonds in its backbone."
+    ],
+    "explanation": "The correct answer is correct because DNA and RNA have several fundamental differences: (1) RNA contains a ribose sugar (with a 2'-OH), whereas DNA contains deoxyribose (lacking a 2'-OH); (2) RNA uses the pyrimidine Uracil (U) instead of Thymine (T) to pair with Adenine; (3) RNA is usually single-stranded and can fold into complex 3D structures, while DNA forms a stable double-stranded helix; and (4) RNA molecules are relatively short transcripts representing single genes, whereas DNA molecules are long chromosomal structures containing thousands of genes. The other option is incorrect: 'RNA contains phosphodiester bonds, whereas DNA contains only hydrogen bonds in its backbone' is incorrect because both DNA and RNA have sugar-phosphate backbones held together by covalent phosphodiester bonds."
+  },
+  {
+    "section": "4.3",
+    "title": "DNA Replication, Transcription, Translation",
+    "t": "sa",
+    "q": "Which of the following codons code for a STOP signal during translation? (Select all that apply)",
+    "correct": [
+      "UAA",
+      "UAG",
+      "UGA"
+    ],
+    "opts": [
+      "UAA",
+      "UAG",
+      "UGA",
+      "AUG",
+      "UUA"
+    ],
+    "explanation": "The correct answer is correct because the genetic code uses three specific codons as termination signals for translation: UAA (ochre), UAG (amber), and UGA (opal). When these codons enter the ribosomal A site, they are recognized by release factors rather than tRNAs, triggering the release of the polypeptide chain. The other options are incorrect: 'AUG' is incorrect because it is the start (initiation) codon, specifying the amino acid methionine. 'UUA' is incorrect because it is a sense codon that codes for the amino acid leucine."
+  },
+  {
+    "section": "4.4",
+    "title": "Gene Expression",
+    "t": "mc",
+    "q": "How is the repressible trp operon regulated when tryptophan is abundant in a prokaryotic cell?",
+    "a": 1,
+    "opts": [
+      "Tryptophan acts as an inducer, binding to the operator and causing the repressor to detach.",
+      "Tryptophan binds to the repressor as a co-repressor, causing a conformational change that enables the repressor to bind to the operator and block transcription.",
+      "Tryptophan binds directly to RNA polymerase, preventing it from recognizing the promoter sequence.",
+      "Tryptophan is cleaved by structural enzymes, which signals the regulator gene to stop transcription of the operon."
+    ],
+    "explanation": "The correct answer is correct because the trp operon is a repressible system. When tryptophan is abundant, it binds to the inactive trp repressor protein as a co-repressor. This binding induces a conformational change that activates the repressor, allowing it to bind to the operator region and block RNA polymerase from transcribing the operon. The other options are incorrect: 'Tryptophan acts as an inducer...' is incorrect because an inducer inactivates a repressor (as in the lac operon), whereas tryptophan activates the repressor. 'Tryptophan binds directly to RNA polymerase...' is incorrect because tryptophan binds to the repressor protein, not to the RNA polymerase. 'Tryptophan is cleaved by structural enzymes...' is incorrect because the regulatory pathway is mediated by the repressor-operator interaction, not by structural cleavage signaling the regulator gene."
+  },
+  {
+    "section": "4.4",
+    "title": "Gene Expression",
+    "t": "mc",
+    "q": "In Escherichia coli, what structural gene products are synthesized when lactose binds to the lac operon repressor?",
+    "a": 0,
+    "opts": [
+      "Beta-galactosidase, permease, and transacetylase.",
+      "Tryptophan synthetase, amylase, and protease.",
+      "RNA polymerase, helicase, and ligase.",
+      "Glucose isomerase, kinase, and phosphatase."
+    ],
+    "explanation": "The correct answer is correct because the lac operon consists of three structural genes: lacZ, lacY, and lacA. These genes code for beta-galactosidase (which cleaves lactose into glucose and galactose), permease (which facilitates lactose entry into the cell), and transacetylase (which plays an accessory metabolic role). The other options are incorrect: 'Tryptophan synthetase...' is incorrect because these are products of the trp operon. 'RNA polymerase, helicase, and ligase' is incorrect because these are core enzymes for transcription and DNA replication, not structural products of the lac operon. 'Glucose isomerase...' is incorrect because these enzymes are not encoded by the lac operon."
+  },
+  {
+    "section": "4.4",
+    "title": "Gene Expression",
+    "t": "mc",
+    "q": "What chemical modifications are typically associated with histone tails in euchromatin and heterochromatin, respectively?",
+    "a": 2,
+    "opts": [
+      "Euchromatin histones are methylated, while heterochromatin histones are acetylated.",
+      "Euchromatin histones are phosphorylated, while heterochromatin histones are ubiquitinated.",
+      "Euchromatin histones are acetylated, while heterochromatin histones are methylated.",
+      "Euchromatin histones are carboxylated, while heterochromatin histones are glycosylated."
+    ],
+    "explanation": "The correct answer is correct because histone acetylation (adding acetyl groups to lysine residues on histone tails) neutralizes the positive charge on histones, weakening their interaction with negatively charged DNA. This opens the chromatin structure (forming euchromatin) to allow transcription. Histone methylation (adding methyl groups to histone tails) often leads to DNA compaction (forming heterochromatin), silencing transcription. The other options are incorrect: 'Euchromatin histones are methylated, while heterochromatin histones are acetylated' is incorrect because it reverses the modifications. 'Euchromatin histones are phosphorylated, while heterochromatin histones are ubiquitinated' is incorrect because while these modifications exist, they are not the primary distinguishing marks for euchromatin and heterochromatin transcription activity described here. 'Euchromatin histones are carboxylated...' is incorrect because carboxylation and glycosylation are not the standard regulatory modifications of histone tails for chromatin compaction."
+  },
+  {
+    "section": "4.4",
+    "title": "Gene Expression",
+    "t": "mc",
+    "q": "In eukaryotic cells, how are transcription factors, activators, and repressors post-translationally regulated to control their activity in the nucleus?",
+    "a": 1,
+    "opts": [
+      "They are targeted to the proteasome by ubiquitin tags.",
+      "They are phosphorylated by kinases to activate them, and dephosphorylated by phosphatases.",
+      "They are cleaved by spliceosomes before entering the nucleus.",
+      "They bind to alternative splicing factors in the cytoplasm."
+    ],
+    "explanation": "The correct answer is correct because transcription factors, activators, and repressors in eukaryotic cells are commonly regulated by reversible phosphorylation. Kinases add phosphate groups to specific residues, which can activate the transcription factors or trigger their import into the nucleus, while phosphatases remove these phosphate groups to deactivate them. The other options are incorrect: 'They are targeted to the proteasome by ubiquitin tags' is incorrect because ubiquitination leads to protein degradation (destruction), which is a form of down-regulation, not reversible activation/deactivation control. 'They are cleaved by spliceosomes...' is incorrect because spliceosomes process RNA transcripts, not proteins. 'They bind to alternative splicing factors...' is incorrect because transcription factors operate on DNA in the nucleus, not by binding to splicing factors in the cytoplasm."
+  },
+  {
+    "section": "4.4",
+    "title": "Gene Expression",
+    "t": "mc",
+    "q": "Which organelle-like structure contains proteases that degrade tagged proteins in post-translational control, and what organelle is it a specialized type of?",
+    "a": 2,
+    "opts": [
+      "Ribosomes, which are specialized types of endoplasmic reticulum.",
+      "Centrosomes, which are specialized types of microtubules.",
+      "Proteasomes, which are specialized types of lysosomes.",
+      "Spliceosomes, which are specialized types of nuclei."
+    ],
+    "explanation": "The correct answer is correct because proteasomes are large, cylindrical protein complexes in the cytoplasm and nucleus that function to degrade damaged, unneeded, or tagged proteins (via ubiquitin tags). The notes link them as functionally analogous to lysosomes (the cell's general digestive organelle), representing a specialized mechanism of protein degradation. The other options are incorrect: 'Ribosomes, which are specialized types of endoplasmic reticulum' is incorrect because ribosomes synthesize proteins, they do not degrade them. 'Centrosomes, which are specialized types of microtubules' is incorrect because centrosomes organize microtubules during cell division, they do not degrade proteins. 'Spliceosomes, which are specialized types of nuclei' is incorrect because spliceosomes splice pre-mRNA in the nucleus, they do not degrade proteins."
+  },
+  {
+    "section": "4.4",
+    "title": "Gene Expression",
+    "t": "mc",
+    "q": "Which type of mutation is caused by the insertion or deletion of one or two nucleotides, and what is its typical effect on the resulting protein?",
+    "a": 1,
+    "opts": [
+      "Point mutation, which causes a silent mutation with no effect on the protein's function.",
+      "Frameshift mutation, which alters the reading frame and always renders the protein nonfunctional.",
+      "Nonsense mutation, which increases the protein's activity by removing regulatory domains.",
+      "Transposition, which only affects germ-line cells and has no effect on somatic proteins."
+    ],
+    "explanation": "The correct answer is correct because inserting or deleting one or two nucleotides (a number not divisible by three) shifts the reading frame of the codons in the mRNA. This frameshift mutation changes every codon downstream of the mutation, leading to a completely altered amino acid sequence and typically creating a premature stop codon, which renders the resulting protein completely nonfunctional. The other options are incorrect: 'Point mutation, which causes a silent mutation...' is incorrect because a silent mutation is a single nucleotide substitution that does not change the amino acid sequence, whereas insertions/deletions alter the reading frame. 'Nonsense mutation, which increases the protein's activity...' is incorrect because a nonsense mutation introduces a premature stop codon, which truncates the protein and reduces or destroys its activity, rather than increasing it. 'Transposition...' is incorrect because transposition involves the movement of transposons within the genome, not the simple insertion/deletion of one or two nucleotides, and can affect both somatic and germ-line cells."
+  },
+  {
+    "section": "4.4",
+    "title": "Gene Expression",
+    "t": "sa",
+    "q": "Which of the following levels of gene regulation occur inside the nucleus of a eukaryotic cell? (Select all that apply)",
+    "correct": [
+      "Chromatin structure regulation",
+      "Transcriptional control",
+      "Post-transcriptional control (such as alternative splicing)"
+    ],
+    "opts": [
+      "Chromatin structure regulation",
+      "Transcriptional control",
+      "Post-transcriptional control (such as alternative splicing)",
+      "Translational control",
+      "Post-translational control (such as protein degradation)"
+    ],
+    "explanation": "The correct answer is correct because eukaryotic gene regulation is compartmentalized. In the nucleus, regulation occurs at: (1) the chromatin structure level (determining if DNA is euchromatin or heterochromatin); (2) the transcriptional level (determining if a gene is transcribed using transcription factors); and (3) the post-transcriptional level (processing the pre-mRNA transcript, such as alternative splicing, capping, and polyadenylation). The other options are incorrect: 'Translational control' is incorrect because translation occurs in the cytoplasm at the ribosomes, not inside the nucleus. 'Post-translational control (such as protein degradation)' is incorrect because post-translational modification and protein degradation occur in the cytoplasm and organelles (like proteasomes), not in the nucleus."
+  },
+  {
+    "section": "4.4",
+    "title": "Gene Expression",
+    "t": "sa",
+    "q": "Which of the following statements about eukaryotic gene regulation mechanisms are correct? (Select all that apply)",
+    "correct": [
+      "X-inactivation in genetic females condenses one X chromosome into an inactive Barr Body.",
+      "Genomic imprinting involves the methylation of either the maternal or paternal allele during gamete formation.",
+      "Small RNAs (sRNAs) like microRNAs (miRNAs) and small-interfering RNAs (siRNAs) are involved in translation silencing."
+    ],
+    "opts": [
+      "X-inactivation in genetic females condenses one X chromosome into an inactive Barr Body.",
+      "Genomic imprinting involves the methylation of either the maternal or paternal allele during gamete formation.",
+      "Small RNAs (sRNAs) like microRNAs (miRNAs) and small-interfering RNAs (siRNAs) are involved in translation silencing.",
+      "Eukaryotic genes are organized into operons that share a single promoter and operator region.",
+      "Histone tails in heterochromatin are acetylated to encourage gene transcription."
+    ],
+    "explanation": "The correct answer is correct because eukaryotic gene regulation includes several epigenetic and RNA-mediated mechanisms: (1) X-inactivation, where one of the two X chromosomes in genetic females is condensed into an inactive Barr Body to ensure dosage compensation; (2) Genomic imprinting, where specific maternal or paternal alleles are methylated and silenced during gamete formation; and (3) Small RNAs (like miRNAs and siRNAs), which bind to complementary mRNA molecules in the cytoplasm to trigger their degradation or block their translation (translation silencing). The other options are incorrect: 'Eukaryotic genes are organized into operons...' is incorrect because operons are characteristic of prokaryotic gene regulation, whereas eukaryotic genes are typically transcribed individually under their own promoters. 'Histone tails in heterochromatin are acetylated...' is incorrect because acetylation opens chromatin (euchromatin), whereas heterochromatin histones are methylated."
+  },
+  {
+    "section": "4.5",
+    "title": "Biotech & Genomics",
+    "t": "mc",
+    "q": "What two enzymes are essential for creating recombinant DNA (rDNA) in a plasmid vector, and what are their respective roles?",
+    "a": 1,
+    "opts": [
+      "RNA polymerase transcribes the gene, and helicase winds the plasmid.",
+      "Restriction enzyme cleaves the DNA at specific points creating sticky ends, and DNA ligase seals the foreign gene into the vector.",
+      "DNA polymerase copies the target gene, and topoisomerase relieves torsional strain in the plasmid.",
+      "Reverse transcriptase converts mRNA to DNA, and protease degrades competing bacterial enzymes."
+    ],
+    "explanation": "The correct answer is correct because creating recombinant DNA (rDNA) requires two primary tools: (1) a restriction enzyme (restriction endonuclease) that cuts DNA at specific palindromic recognition sequences, often leaving single-stranded overhangs ('sticky ends'); and (2) DNA ligase, which covalently seals the sugar-phosphate backbone of the foreign DNA fragment into the plasmid vector. The other options are incorrect: 'RNA polymerase... and helicase...' is incorrect because these are transcription and replication enzymes, respectively, and are not used to cleave or seal plasmid vectors in cloning. 'DNA polymerase... and topoisomerase...' is incorrect because DNA polymerase copies DNA, and topoisomerase relieves torsional strain; they do not cut or paste target genes into vectors. 'Reverse transcriptase... and protease...' is incorrect because reverse transcriptase synthesizes cDNA from RNA, and proteases degrade proteins; they do not perform the cutting and splicing of recombinant DNA."
+  },
+  {
+    "section": "4.5",
+    "title": "Biotech & Genomics",
+    "t": "mc",
+    "q": "In the production of transgenic animals, what is the role of silicon-carbide needles in the vortex mixing method?",
+    "a": 1,
+    "opts": [
+      "They chemically dissolve the protective outer membrane of the fertilized animal egg.",
+      "They physically make tiny holes in the egg membrane to allow the foreign DNA to enter.",
+      "They align the chromosome during metaphase to ensure stable integration of the transgene.",
+      "They serve as a matrix to which the foreign DNA binds before it is injected."
+    ],
+    "explanation": "The correct answer is correct because in the vortex mixing method of animal transgenesis, silicon-carbide needles are mixed with fertilized eggs and the foreign DNA. The sharp needles physically poke tiny, transient holes in the egg membrane as they collide, allowing the foreign DNA to enter the egg cell and integrate into the host genome. The other options are incorrect: 'They chemically dissolve...' is incorrect because silicon-carbide is chemically inert and acts physically, not chemically. 'They align the chromosome...' is incorrect because needles have no role in spindle assembly or chromosome alignment during cell division. 'They serve as a matrix...' is incorrect because the needles are used to puncture the membranes, not to bind and transport DNA as a molecular matrix."
+  },
+  {
+    "section": "4.5",
+    "title": "Biotech & Genomics",
+    "t": "mc",
+    "q": "Which of the following describes an ex vivo gene therapy procedure mentioned in the text?",
+    "a": 2,
+    "opts": [
+      "Inhaling a respiratory spray containing normal CFTR genes to treat cystic fibrosis.",
+      "Injecting the SRY gene into a single-cell embryo to determine the offspring's sex.",
+      "Removing bone marrow stem cells from a child with SCID, infecting them with a virus carrying the normal adenosine deaminase (ADA) gene, and returning them to the patient.",
+      "Utilizing bioreactors to harvest human growth hormone produced by recombinant Escherichia coli."
+    ],
+    "explanation": "The correct answer is correct because 'ex vivo' gene therapy involves removing cells from the patient's body, genetically modifying them in the laboratory (outside the body) using a viral vector (such as introducing the normal ADA gene into SCID bone marrow cells), and then transplanting the corrected cells back into the patient. The other options are incorrect: 'Inhaling a respiratory spray...' is incorrect because it describes an in vivo gene therapy procedure where the gene vector is introduced directly into the patient's body (the lungs). 'Injecting the SRY gene into a single-cell embryo...' is incorrect because this describes embryo manipulation rather than gene therapy for an existing patient. 'Utilizing bioreactors to harvest human growth hormone...' is incorrect because this describes transgenic protein production in bacteria, not gene therapy in human patients."
+  },
+  {
+    "section": "4.5",
+    "title": "Biotech & Genomics",
+    "t": "mc",
+    "q": "In the human genome, what classification does the Alu element belong to, and what is its characteristic capability?",
+    "a": 1,
+    "opts": [
+      "It is an exon that codes for a key transcriptional kinase.",
+      "It is a transposon that has the ability to move within and between chromosomes.",
+      "It is a promoter region that initiates the transcription of ribosomal RNA.",
+      "It is a unique non-coding DNA sequence that makes up over 90% of eukaryotic protein coding."
+    ],
+    "explanation": "The correct answer is correct because the Alu element is a prominent retrotransposon (a type of transposable element) in the human genome, representing about 10% of our DNA. It has the capability to copy and paste itself (move) within and between chromosomes, which can occasionally disrupt genes and cause genetic disorders. The other options are incorrect: 'It is an exon...' is incorrect because Alu elements are non-coding repetitive sequences, not exons that code for transcription kinases. 'It is a promoter region...' is incorrect because Alu is a mobile genetic element, not a promoter that initiates rRNA transcription. 'It is a unique non-coding DNA sequence...' is incorrect because Alu elements are repetitive elements, not unique sequences, and unique non-coding DNA is not synonymous with Alu."
+  },
+  {
+    "section": "4.5",
+    "title": "Biotech & Genomics",
+    "t": "mc",
+    "q": "How does a DNA microarray monitor the expression of thousands of genes simultaneously?",
+    "a": 1,
+    "opts": [
+      "By sequencing the primary structure of all cellular proteins on a microscopic glass slide.",
+      "By allowing fluorescently labeled mRNA transcripts from cells to bind to complementary DNA sequences fixed on a slide.",
+      "By using restriction enzymes to digest genomic DNA into tandem repeats that are separated by size.",
+      "By using computerized 3D modeling to predict the tertiary folding of cellular proteins in response to drugs."
+    ],
+    "explanation": "The correct answer is correct because a DNA microarray (gene chip) contains thousands of known, single-stranded DNA sequences fixed at precise locations on a glass slide. When fluorescently labeled mRNA (or cDNA) from a cell is applied, it hybridizes (binds) to its complementary sequence on the slide. The intensity of fluorescence at each spot indicates the expression level of that specific gene. The other options are incorrect: 'By sequencing the primary structure of all cellular proteins...' is incorrect because microarrays analyze nucleic acids (mRNA/cDNA hybridization), not protein primary structure sequencing. 'By using restriction enzymes to digest genomic DNA into tandem repeats...' is incorrect because this describes DNA profiling (RFLP), not gene expression analysis. 'By using computerized 3D modeling to predict...' is incorrect because microarrays are physical hybridization assays, not purely in silico protein-folding simulations."
+  },
+  {
+    "section": "4.5",
+    "title": "Biotech & Genomics",
+    "t": "mc",
+    "q": "Why is a species' proteome significantly larger than its genome?",
+    "a": 1,
+    "opts": [
+      "Proteins are synthesized in the nucleolus where gene copy numbers are amplified.",
+      "Mechanisms such as alternative pre-mRNA splicing allow a single gene to code for multiple distinct proteins.",
+      "Post-translational modification destroys the majority of active genes in the cytoplasm.",
+      "Each codon in the genetic code can be translated into multiple different amino acids depending on the cell's environment."
+    ],
+    "explanation": "The correct answer is correct because alternative pre-mRNA splicing allows a single eukaryotic gene to combine exons in different arrangements. This produces multiple distinct mRNA transcripts from the same gene, which are translated into different protein isoforms, thus making the proteome (total set of proteins) much larger than the genome (total set of genes). The other options are incorrect: 'Proteins are synthesized in the nucleolus where gene copy numbers are amplified' is incorrect because ribosomes in the cytoplasm or rough ER synthesize proteins, and gene amplification is not the reason for the proteome size. 'Post-translational modification destroys the majority of active genes...' is incorrect because post-translational modification modifies proteins, not genes, and does not destroy genes. 'Each codon in the genetic code can be translated into multiple different amino acids...' is incorrect because the genetic code is unambiguous; each codon specifies exactly one amino acid."
+  },
+  {
+    "section": "4.5",
+    "title": "Biotech & Genomics",
+    "t": "sa",
+    "q": "Which of the following biotechnology products are produced using transgenic bacteria grown in bioreactors? (Select all that apply)",
+    "correct": [
+      "Insulin",
+      "Hepatitis B vaccine",
+      "Human growth hormone",
+      "t-PA (tissue plasminogen activator)"
+    ],
+    "opts": [
+      "Insulin",
+      "Hepatitis B vaccine",
+      "Human growth hormone",
+      "t-PA (tissue plasminogen activator)",
+      "Bovine growth hormone (bGH) from transgenic plant seeds"
+    ],
+    "explanation": "The correct answer is correct because insulin, Hepatitis B vaccine, human growth hormone, and t-PA (tissue plasminogen activator) are all well-established biotechnology products produced commercially using transgenic bacteria (like E. coli) grown in large-scale bioreactors. The other option is incorrect: 'Bovine growth hormone (bGH) from transgenic plant seeds' is incorrect because bGH is typically produced in transgenic bacteria (recombinant bovine somatotropin), not harvested from plant seeds."
+  },
+  {
+    "section": "4.5",
+    "title": "Biotech & Genomics",
+    "t": "sa",
+    "q": "Which of the following are components or requirements of a Polymerase Chain Reaction (PCR) mixture? (Select all that apply)",
+    "correct": [
+      "A targeted sequence of DNA to be copied",
+      "A heat-stable DNA polymerase that can withstand high temperatures",
+      "A supply of free nucleotides (dNTPs)"
+    ],
+    "opts": [
+      "A targeted sequence of DNA to be copied",
+      "A heat-stable DNA polymerase that can withstand high temperatures",
+      "A supply of free nucleotides (dNTPs)",
+      "Restriction enzymes to cleave the DNA after each replication cycle",
+      "Plasmids to act as vectors for the amplified fragments"
+    ],
+    "explanation": "The correct answer is correct because PCR requires: (1) the template DNA sequence containing the target region; (2) a heat-stable DNA polymerase (like Taq polymerase) that does not denature at the high temperatures needed to separate DNA strands; and (3) a supply of the four free deoxynucleotide triphosphates (dATP, dTTP, dGTP, dCTP) to serve as building blocks. The other options are incorrect: 'Restriction enzymes...' is incorrect because PCR relies on thermal denaturation to separate DNA strands, not enzymatic cleavage. 'Plasmids to act as vectors...' is incorrect because PCR is an in vitro amplification process and does not require cloning vectors like plasmids."
+  },
+  {
+    "section": "4.6",
+    "title": "Meiosis",
+    "t": "mc",
+    "q": "During which phase of meiosis does synapsis occur, what structure is formed, and what event occurs to increase genetic diversity?",
+    "a": 1,
+    "opts": [
+      "Prophase II; a sister chromatid pair is formed; transcription begins.",
+      "Prophase I; a tetrad is formed; crossing-over occurs.",
+      "Metaphase I; a centromere is aligned; independent assortment occurs.",
+      "Anaphase I; a polar body is formed; fertilization occurs."
+    ],
+    "explanation": "The correct answer is correct because during Prophase I of meiosis, homologous chromosomes pair up lengthwise in a process called synapsis. This pairing forms a structure consisting of four chromatids called a tetrad (or bivalent). During synapsis, non-sister chromatids exchange genetic material in a process called crossing-over, which increases genetic diversity in the resulting gametes. The other options are incorrect: 'Prophase II; a sister chromatid pair is formed...' is incorrect because synapsis and tetrad formation occur in Prophase I, not Prophase II. 'Metaphase I; a centromere is aligned...' is incorrect because centromere alignment occurs in metaphase, but synapsis and crossing-over occur in prophase I. 'Anaphase I; a polar body is formed...' is incorrect because chromosomes separate during anaphase, and polar bodies are formed during cytokinesis in oogenesis."
+  },
+  {
+    "section": "4.6",
+    "title": "Meiosis",
+    "t": "mc",
+    "q": "What is the main difference between Anaphase I and Anaphase II of meiosis?",
+    "a": 1,
+    "opts": [
+      "In Anaphase I, sister chromatids separate; in Anaphase II, homologous chromosomes separate.",
+      "In Anaphase I, homologous chromosomes (tetrads) separate; in Anaphase II, sister chromatids separate.",
+      "In Anaphase I, the nuclear membrane reforms; in Anaphase II, it breaks down.",
+      "In Anaphase I, DNA is replicated; in Anaphase II, chromosomes align at the midline."
+    ],
+    "explanation": "The correct answer is correct because during Anaphase I of meiosis, homologous chromosomes (paired as tetrads) are pulled apart to opposite poles of the cell, while sister chromatids remain attached at their centromeres. In contrast, during Anaphase II, the centromeres split, and sister chromatids separate and are pulled to opposite poles. The other options are incorrect: 'In Anaphase I, sister chromatids separate; in Anaphase II, homologous chromosomes separate' is incorrect because it reverses the events. 'In Anaphase I, the nuclear membrane reforms...' is incorrect because the nuclear membrane does not reform until telophase. 'In Anaphase I, DNA is replicated...' is incorrect because DNA replication occurs only during interphase before meiosis begins, not during anaphase."
+  },
+  {
+    "section": "4.6",
+    "title": "Meiosis",
+    "t": "mc",
+    "q": "Why does oogenesis in human females yield only one mature ovum instead of four viable gametes?",
+    "a": 1,
+    "opts": [
+      "Three of the cells undergo apoptosis due to chromosome damage during prophase I.",
+      "Cytokinesis in meiosis I and II is unequal, allocating most of the cytoplasm to the ovum and producing three degenerating polar bodies.",
+      "The ovaries lack the FSH receptors needed to support more than one cell per cycle.",
+      "The vesicular follicle secretes HCG, which selectively destroys three of the developing cells."
+    ],
+    "explanation": "The correct answer is correct because during oogenesis, cytokinesis is highly unequal. In Meiosis I, the primary oocyte divides into a large secondary oocyte and a tiny first polar body. In Meiosis II, the secondary oocyte divides into a large mature ovum (ootid) and a second polar body. This unequal distribution ensures that the mature ovum retains almost all the cytoplasm, nutrients, and organelles necessary to support the early embryo after fertilization, while the three polar bodies degenerate. The other options are incorrect: 'Three of the cells undergo apoptosis due to chromosome damage...' is incorrect because polar bodies degenerate due to a lack of cytoplasm and nutrients, not due to chromosome damage. 'The ovaries lack the FSH receptors...' is incorrect because FSH stimulates follicle development and is not the structural or cellular reason for unequal cytokinesis. 'The vesicular follicle secretes HCG...' is incorrect because HCG (human chorionic gonadotropin) is secreted by the developing placenta after implantation, not by the ovarian follicle, and does not destroy germ cells."
+  },
+  {
+    "section": "4.6",
+    "title": "Meiosis",
+    "t": "mc",
+    "q": "Which hormone stimulates spermatogenesis in the seminiferous tubules of the testes, and which hormone controls testosterone production by the interstitial cells?",
+    "a": 0,
+    "opts": [
+      "FSH stimulates spermatogenesis; LH controls testosterone production.",
+      "LH stimulates spermatogenesis; GnRH controls testosterone production.",
+      "GnRH stimulates spermatogenesis; FSH controls testosterone production.",
+      "Estrogen stimulates spermatogenesis; progesterone controls testosterone production."
+    ],
+    "explanation": "The correct answer is correct because Follicle-Stimulating Hormone (FSH) binds to Sertoli cells in the seminiferous tubules to stimulate spermatogenesis. Luteinizing Hormone (LH) binds to Leydig (interstitial) cells in the testes to stimulate and control the production of testosterone. The other options are incorrect: 'LH stimulates spermatogenesis; GnRH controls testosterone...' is incorrect because LH controls testosterone production and GnRH is a hypothalamic hormone that stimulates the release of both FSH and LH. 'GnRH stimulates spermatogenesis; FSH controls testosterone...' is incorrect because FSH stimulates spermatogenesis and GnRH does not act directly on the testes. 'Estrogen stimulates spermatogenesis; progesterone controls...' is incorrect because these are the primary female sex hormones and do not control spermatogenesis and testosterone production in males."
+  },
+  {
+    "section": "4.6",
+    "title": "Meiosis",
+    "t": "mc",
+    "q": "In the female ovarian cycle, which hormone promotes the development of the follicle, and what hormone promotes the development of the corpus luteum?",
+    "a": 2,
+    "opts": [
+      "LH promotes the follicle; progesterone promotes the corpus luteum.",
+      "Estrogen promotes the follicle; GnRH promotes the corpus luteum.",
+      "FSH promotes the follicle; LH promotes the corpus luteum.",
+      "Progesterone promotes the follicle; FSH promotes the corpus luteum."
+    ],
+    "explanation": "The correct answer is correct because in the female ovarian cycle, Follicle-Stimulating Hormone (FSH) stimulates the growth and development of the ovarian follicle. A surge in Luteinizing Hormone (LH) triggers ovulation and subsequently promotes the development of the ruptured follicle into the corpus luteum. The other options are incorrect: 'LH promotes the follicle; progesterone promotes...' is incorrect because FSH stimulates follicle growth and LH, not progesterone, stimulates corpus luteum development. 'Estrogen promotes the follicle; GnRH promotes...' is incorrect because estrogen is produced by the follicle and GnRH is a brain hormone that regulates FSH/LH release, rather than directly stimulating follicle or corpus luteum development. 'Progesterone promotes the follicle; FSH promotes...' is incorrect because progesterone is secreted by the corpus luteum and does not stimulate follicle growth."
+  },
+  {
+    "section": "4.6",
+    "title": "Meiosis",
+    "t": "mc",
+    "q": "During ovulation, what specific structure releases the secondary oocyte, and what does this structure develop into post-ovulation?",
+    "a": 1,
+    "opts": [
+      "Primary follicle; develops into a polar body",
+      "Vesicular (Graafian) follicle; develops into the corpus luteum.",
+      "Seminiferous tubule; develops into interstitial cells",
+      "Oviduct; develops into a zygote"
+    ],
+    "explanation": "The correct answer is correct because ovulation is the release of the secondary oocyte from a mature vesicular (Graafian) follicle. After the oocyte is expelled, the empty follicle remains in the ovary and, under the influence of LH, develops into a hormone-secreting structure called the corpus luteum. The other options are incorrect: 'Primary follicle; develops into a polar body' is incorrect because a primary follicle is an early immature stage, and polar bodies are cellular byproducts of unequal cytokinesis in oogenesis. 'Seminiferous tubule; develops into interstitial cells' is incorrect because seminiferous tubules and interstitial cells are components of the male reproductive system (testes). 'Oviduct; develops into a zygote' is incorrect because the oviduct (fallopian tube) is the tube where fertilization occurs, not the structure that releases the oocyte, and a zygote is a fertilized egg."
+  },
+  {
+    "section": "4.6",
+    "title": "Meiosis",
+    "t": "sa",
+    "q": "Which of the following processes contribute directly to the genetic variation observed in offspring produced by sexual reproduction? (Select all that apply)",
+    "correct": [
+      "Crossing-over during Prophase I of meiosis",
+      "Independent assortment of homologous chromosomes during Anaphase I",
+      "Random fertilization of gametes (union of sperm and egg)"
+    ],
+    "opts": [
+      "Crossing-over during Prophase I of meiosis",
+      "Independent assortment of homologous chromosomes during Anaphase I",
+      "Random fertilization of gametes (union of sperm and egg)",
+      "DNA replication before meiosis II",
+      "Unequal division of cytoplasm during cytokinesis I and II in oogenesis"
+    ],
+    "explanation": "The correct answer is correct because sexual reproduction generates genetic diversity through three primary mechanisms: (1) crossing-over during Prophase I of meiosis, which exchanges genetic material between non-sister chromatids to create new recombinant chromosomes; (2) independent assortment of homologous chromosomes during Metaphase I / separation in Anaphase I, which randomly distributes maternal and paternal chromosomes into gametes; and (3) random fertilization, which combines unique sperm and egg cells. The other options are incorrect: 'DNA replication before meiosis II' is incorrect because there is no DNA replication between Meiosis I and Meiosis II. 'Unequal division of cytoplasm during oogenesis' is incorrect because unequal cytokinesis affects the size and viability of the cells, not their genetic variation."
+  },
+  {
+    "section": "4.6",
+    "title": "Meiosis",
+    "t": "sa",
+    "q": "Which of the following statements about meiosis and gametogenesis are correct? (Select all that apply)",
+    "correct": [
+      "Meiosis reduces the chromosome number in reproductive cells by half.",
+      "Spermatogenesis produces four haploid spermatids from a diploid reproductive cell.",
+      "Oogenesis produces one mature ovum and three polar bodies that degenerate."
+    ],
+    "opts": [
+      "Meiosis reduces the chromosome number in reproductive cells by half.",
+      "Spermatogenesis produces four haploid spermatids from a diploid reproductive cell.",
+      "Oogenesis produces one mature ovum and three polar bodies that degenerate.",
+      "Meiosis II is preceded by a round of DNA replication.",
+      "Tetrads are formed when sister chromatids align lengthwise during Prophase II."
+    ],
+    "explanation": "The correct answer is correct because: (1) meiosis is a reduction division that reduces the chromosome number from diploid (2n) to haploid (n); (2) spermatogenesis produces four functional haploid spermatids from each primary spermatocyte; and (3) oogenesis produces only one mature haploid ovum (due to unequal cytokinesis) and three polar bodies that subsequently degenerate. The other options are incorrect: 'Meiosis II is preceded by a round of DNA replication' is incorrect because there is no DNA replication during interkinesis (the period between Meiosis I and II). 'Tetrads are formed when sister chromatids align lengthwise during Prophase II' is incorrect because tetrads are formed by homologous chromosomes pairing during Prophase I, not Prophase II."
+  },
+  {
+    "section": "4.7",
+    "title": "Chromosome-based Syndromes",
+    "t": "mc",
+    "q": "How do the gametic outcomes of primary nondisjunction in Meiosis I differ from secondary nondisjunction in Meiosis II?",
+    "a": 1,
+    "opts": [
+      "Primary nondisjunction produces four normal gametes, while secondary produces only abnormal gametes.",
+      "Primary nondisjunction results in all abnormal gametes (no normal gametes), while secondary nondisjunction results in two normal gametes and two abnormal gametes.",
+      "Primary nondisjunction leads to monosomic offspring, whereas secondary nondisjunction leads only to triploid offspring.",
+      "Primary nondisjunction occurs only in spermatogenesis, whereas secondary nondisjunction occurs only in oogenesis."
+    ],
+    "explanation": "The correct answer is correct because primary nondisjunction occurs in Meiosis I when homologous chromosomes fail to separate, resulting in all four gametes being abnormal (two gametes with n+1 chromosomes and two with n-1). Secondary nondisjunction occurs in Meiosis II when sister chromatids fail to separate in one of the cells, resulting in two normal gametes (n), one gamete with n+1, and one with n-1. The other options are incorrect: 'Primary nondisjunction produces four normal gametes...' is incorrect because it fails to separate chromosomes, leading to abnormal gametes. 'Primary nondisjunction leads to monosomic offspring...' is incorrect because both primary and secondary nondisjunction can lead to monosomic or trisomic offspring depending on which abnormal gamete is fertilized. 'Primary nondisjunction occurs only in spermatogenesis...' is incorrect because both types of nondisjunction can occur in either spermatogenesis or oogenesis."
+  },
+  {
+    "section": "4.7",
+    "title": "Chromosome-based Syndromes",
+    "t": "mc",
+    "q": "Which of the following is the only human autosomal trisomy condition that is survivable beyond childhood?",
+    "a": 2,
+    "opts": [
+      "Trisomy 13",
+      "Trisomy 18",
+      "Trisomy 21 (Down Syndrome)",
+      "Trisomy 7"
+    ],
+    "explanation": "The correct answer is correct because Trisomy 21 (Down Syndrome) is the only autosomal trisomy condition in humans where individuals commonly survive into adulthood. Trisomies of other autosomes are typically lethal in utero or during early infancy. The other options are incorrect: Trisomy 13 (Patau syndrome) and Trisomy 18 (Edwards syndrome) are severe conditions where most affected infants die within their first year of life. Trisomy 7 is completely non-viable, resulting in early miscarriage."
+  },
+  {
+    "section": "4.7",
+    "title": "Chromosome-based Syndromes",
+    "t": "mc",
+    "q": "What is the chromosomal karyotype associated with Turner syndrome, and what are its physical features?",
+    "a": 1,
+    "opts": [
+      "XXY; underdeveloped testes, prostate gland, and lack of facial hair in males.",
+      "XO; broad chest, neck webbing, and underdeveloped ovaries, oviduct, and uterus in females.",
+      "XYY; extreme height, persistent acne, and speech and reading difficulties in males.",
+      "XXX; tall and thin stature with normal fertility and no distinct abnormalities in females."
+    ],
+    "explanation": "The correct answer is correct because Turner syndrome is characterized by a female karyotype with a single X chromosome (XO or 45,X). Physical features include short stature, a broad chest, webbed neck, and underdeveloped ovaries, oviducts, and uterus, leading to infertility. The other options are incorrect: 'XXY; underdeveloped testes...' describes Klinefelter syndrome. 'XYY; extreme height...' describes Jacobs syndrome. 'XXX; tall and thin...' describes Poly-X (Triple X) syndrome."
+  },
+  {
+    "section": "4.7",
+    "title": "Chromosome-based Syndromes",
+    "t": "mc",
+    "q": "Williams syndrome is caused by which structural chromosomal abnormality, and what are its clinical presentations?",
+    "a": 1,
+    "opts": [
+      "A duplication on Chromosome 20; causes eye and internal organ abnormalities.",
+      "A deletion of the end piece of Chromosome 7; causes a pixie-like appearance, poor academic skills but excellent musical abilities, and missing elastin gene.",
+      "A translocation between Chromosomes 9 and 22; causes chronic myelogenous leukemia.",
+      "An inversion on Chromosome 14; causes Burkitt Lymphoma and joint stiffness."
+    ],
+    "explanation": "The correct answer is correct because Williams syndrome is a microdeletion syndrome caused by the deletion of a tiny portion of the end of Chromosome 7. This deletion removes the gene for elastin (causing cardiovascular and skin elasticity issues) and leads to characteristic features: a 'pixie-like' appearance, developmental delays/poor academic skills, but highly developed social, verbal, and musical abilities. The other options are incorrect: 'A duplication on Chromosome 20...' is incorrect because Williams syndrome is a deletion on Chromosome 7, not a duplication on Chromosome 20. 'A translocation between Chromosomes 9 and 22...' describes the Philadelphia chromosome. 'An inversion on Chromosome 14...' is incorrect because Williams syndrome is a deletion."
+  },
+  {
+    "section": "4.7",
+    "title": "Chromosome-based Syndromes",
+    "t": "mc",
+    "q": "Alagille syndrome is caused by a translocation between which two chromosomes, and what does it structurally result in?",
+    "a": 1,
+    "opts": [
+      "Chromosomes 9 and 22; resulting in the Philadelphia chromosome.",
+      "Chromosomes 2 and 20; resulting in a deletion of a portion of Chromosome 20.",
+      "Chromosomes 8 and 14; resulting in a duplication on Chromosome 14.",
+      "Chromosomes 7 and X; resulting in the inactivation of the X chromosome."
+    ],
+    "explanation": "The correct answer is correct because Alagille syndrome is caused by a translocation between Chromosomes 2 and 20. In the process of translocation, a portion of Chromosome 20 is deleted, leading to abnormalities in the eyes, liver, heart, and distinctive facial features. The other options are incorrect: 'Chromosomes 9 and 22...' describes the translocation that forms the Philadelphia chromosome. 'Chromosomes 8 and 14...' describes a translocation associated with Burkitt lymphoma. 'Chromosomes 7 and X...' is incorrect because Alagille syndrome involves Chromosomes 2 and 20."
+  },
+  {
+    "section": "4.7",
+    "title": "Chromosome-based Syndromes",
+    "t": "mc",
+    "q": "Which specific translocation is associated with myelogenous leukemia, creating the 'Philadelphia Chromosome'?",
+    "a": 1,
+    "opts": [
+      "Translocation from Chromosome 2 to 20",
+      "Translocation from Chromosome 22 to 9",
+      "Translocation from Chromosome 8 to 14",
+      "Deletion of the end of Chromosome 7"
+    ],
+    "explanation": "The correct answer is correct because the Philadelphia chromosome is formed by a reciprocal translocation between Chromosome 9 and Chromosome 22. A piece of Chromosome 22 translocates to Chromosome 9, creating an abnormal fusion gene (BCR-ABL) on the shortened Chromosome 22 (the Philadelphia chromosome), which drives overproduction of white blood cells in chronic myelogenous leukemia. The other options are incorrect: 'Translocation from Chromosome 2 to 20' describes Alagille syndrome. 'Translocation from Chromosome 8 to 14' describes Burkitt lymphoma. 'Deletion of the end of Chromosome 7' describes Williams syndrome."
+  },
+  {
+    "section": "4.7",
+    "title": "Chromosome-based Syndromes",
+    "t": "sa",
+    "q": "Which of the following are viable sex chromosome aneuploidies in humans? (Select all that apply)",
+    "correct": [
+      "Turner Syndrome (XO)",
+      "Klinefelter Syndrome (XXY)",
+      "Jacobs Syndrome (XYY)",
+      "Poly-X (XXX)"
+    ],
+    "opts": [
+      "Turner Syndrome (XO)",
+      "Klinefelter Syndrome (XXY)",
+      "Jacobs Syndrome (XYY)",
+      "Poly-X (XXX)",
+      "Monosomy 21"
+    ],
+    "explanation": "The correct answer is correct because humans can survive with several sex chromosome aneuploidies: (1) Turner syndrome (XO), the only viable human monosomy; (2) Klinefelter syndrome (XXY); (3) Jacobs syndrome (XYY); and (4) Poly-X syndrome (XXX). These are viable because of X-inactivation (which silences extra X chromosomes) and the relatively small genetic content of the Y chromosome. The other option is incorrect: 'Monosomy 21' is incorrect because monosomy of any autosome is lethal in humans."
+  },
+  {
+    "section": "4.7",
+    "title": "Chromosome-based Syndromes",
+    "t": "sa",
+    "q": "Which of the following mutations involve changes in chromosome structure (rather than just chromosome number)? (Select all that apply)",
+    "correct": [
+      "Deletion",
+      "Duplication",
+      "Inversion",
+      "Translocation"
+    ],
+    "opts": [
+      "Deletion",
+      "Duplication",
+      "Inversion",
+      "Translocation",
+      "Trisomy"
+    ],
+    "explanation": "The correct answer is correct because mutations in chromosome structure alter the arrangement or quantity of genes within chromosomes. These structural changes include: (1) Deletion (loss of a chromosome segment); (2) Duplication (gain of an extra copy of a chromosome segment); (3) Inversion (a segment rotates 180 degrees); and (4) Translocation (movement of a segment from one chromosome to a non-homologous chromosome). The other option is incorrect: 'Trisomy' is incorrect because it is a change in chromosome number (aneuploidy), not a change in the physical structure of an individual chromosome."
+  },
+  {
+    "section": "4.8",
+    "title": "Mendelian Inheritance P1 - Mendelian Genetics",
+    "t": "mc",
+    "q": "Which genetic theory, popular during Gregor Mendel's time, did his experiments with Pisum sativum disprove, and what theory did he propose instead?",
+    "a": 1,
+    "opts": [
+      "Chromosomal theory; proposed the Gene Linkage theory.",
+      "Blending inheritance; proposed the Particulate Theory of Inheritance.",
+      "Spontaneous generation; proposed the Germ Line theory.",
+      "Epigenetic theory; proposed the Mendelian Locus theory."
+    ],
+    "explanation": "The correct answer is correct because Gregor Mendel's experiments disproved the popular 'blending inheritance' theory, which suggested that offspring phenotypes are a smooth, intermediate blend of parental traits. Mendel instead proposed the 'Particulate Theory of Inheritance,' which argues that traits are inherited as discrete, unchanging units ('particles', now known as genes) that retain their identity across generations. The other options are incorrect: 'Chromosomal theory...' is incorrect because the chromosomal theory of inheritance was proposed later (by Boveri and Sutton) and is supported by Mendel's laws, rather than being disproved by them. 'Spontaneous generation...' is incorrect because spontaneous generation relates to the origin of life from non-living matter, not genetic inheritance. 'Epigenetic theory...' is incorrect because epigenetics was not a recognized theory at the time and does not represent Mendel's primary findings."
+  },
+  {
+    "section": "4.8",
+    "title": "Mendelian Inheritance P1 - Mendelian Genetics",
+    "t": "mc",
+    "q": "Which of the following is a key tenet of Mendel's Law of Segregation?",
+    "a": 1,
+    "opts": [
+      "Genes on the same chromosome always segregate together during cell division.",
+      "The two alleles for a trait separate during gamete formation, so that each gamete contains only one allele.",
+      "The maternal allele is always degraded during oogenesis, leaving only the paternal allele.",
+      "Alleles for different traits assort independently of one another during metaphase I."
+    ],
+    "explanation": "The correct answer is correct because Mendel's Law of Segregation states that diploid organisms possess two alleles for each gene (one on each homologous chromosome), and these two alleles separate (segregate) during gamete formation (meiosis). Consequently, each haploid gamete receives only one of the two alleles. The other options are incorrect: 'Genes on the same chromosome always segregate together...' is incorrect because crossing-over can separate genes on the same chromosome, and this does not describe segregation of alleles of a single gene. 'The maternal allele is always degraded...' is incorrect because both alleles have an equal chance of being passed on to the gamete, and maternal alleles are not systematically degraded. 'Alleles for different traits assort independently...' describes Mendel's Law of Independent Assortment, not the Law of Segregation."
+  },
+  {
+    "section": "4.8",
+    "title": "Mendelian Inheritance P1 - Mendelian Genetics",
+    "t": "mc",
+    "q": "In a standard dihybrid cross between two individuals that are heterozygous for two independently assorting autosomal genes displaying complete dominance, what is the expected F2 phenotypic ratio?",
+    "a": 2,
+    "opts": [
+      "1:1:1:1",
+      "3:1",
+      "9:3:3:1",
+      "1:2:1"
+    ],
+    "explanation": "The correct answer is correct because in a standard dihybrid cross between two individuals that are heterozygous for two independently assorting autosomal genes (e.g., AaBb x AaBb) showing complete dominance, the expected phenotypic ratio in the F2 generation is 9 (double dominant) : 3 (dominant for first trait, recessive for second) : 3 (recessive for first, dominant for second) : 1 (double recessive). The other options are incorrect: '1:1:1:1' is the expected ratio for a dihybrid testcross (AaBb x aabb). '3:1' is the expected phenotypic ratio for a monohybrid cross (Aa x Aa). '1:2:1' is the expected genotypic ratio of a monohybrid cross, or the phenotypic ratio in incomplete dominance/codominance."
+  },
+  {
+    "section": "4.8",
+    "title": "Mendelian Inheritance P1 - Mendelian Genetics",
+    "t": "mc",
+    "q": "What is the expected phenotypic ratio when an individual heterozygous for two traits is crossed with an individual displaying both recessive phenotypes in a two-trait testcross?",
+    "a": 1,
+    "opts": [
+      "9:3:3:1",
+      "1:1:1:1",
+      "3:1",
+      "1:2:1"
+    ],
+    "explanation": "The correct answer is correct because in a two-trait (dihybrid) testcross, an individual heterozygous for both traits (AaBb) is crossed with an individual homozygous recessive for both traits (aabb). The heterozygous parent produces four types of gametes (AB, Ab, aB, ab) in equal frequencies, while the testcross parent produces only one type (ab). This results in offspring with four phenotypes in equal proportions (1:1:1:1). The other options are incorrect: '9:3:3:1' is the ratio for a dihybrid cross between two heterozygotes (AaBb x AaBb). '3:1' is the ratio for a monohybrid cross (Aa x Aa). '1:2:1' is the genotypic ratio for a monohybrid cross."
+  },
+  {
+    "section": "4.8",
+    "title": "Mendelian Inheritance P1 - Mendelian Genetics",
+    "t": "mc",
+    "q": "Which of the following was NOT a reason Gregor Mendel selected the garden pea (Pisum sativum) for his genetic experiments?",
+    "a": 2,
+    "opts": [
+      "Pea plants are easy to cultivate and have a short generation time.",
+      "Peas are normally self-pollinating but can be cross-pollinated by hand.",
+      "Pea plants exhibit complex, intermediate blending traits that are difficult to categorize.",
+      "True-breeding varieties of pea plants were readily available to him."
+    ],
+    "explanation": "The correct answer is correct because Mendel specifically selected garden peas because they had distinct, clear-cut traits with two contrasting phenotypes (such as tall vs. short, yellow vs. green seeds), rather than complex, intermediate blending traits. The discrete nature of these traits allowed him to easily categorize and mathematically analyze the offspring. The other options are incorrect: 'Pea plants are easy to cultivate and have a short generation time', 'Peas are normally self-pollinating...', and 'True-breeding varieties... were readily available' are all actual reasons why Mendel chose the garden pea, as they made controlled breeding experiments feasible and repeatable."
+  },
+  {
+    "section": "4.8",
+    "title": "Mendelian Inheritance P1 - Mendelian Genetics",
+    "t": "mc",
+    "q": "If two heterozygous (Ee) individuals are crossed, what is the probability that an offspring will inherit the homozygous dominant (EE) genotype?",
+    "a": 1,
+    "opts": [
+      "50%",
+      "25%",
+      "75%",
+      "100%"
+    ],
+    "explanation": "The correct answer is correct because crossing two heterozygotes (Ee x Ee) yields a genotypic ratio of 1 EE : 2 Ee : 1 ee according to a standard Punnett square. Therefore, the probability of inheriting the homozygous dominant (EE) genotype is 1 out of 4, or 25%. The other options are incorrect: '50%' is the probability of inheriting the heterozygous (Ee) genotype. '75%' is the probability of showing the dominant phenotype (EE or Ee). '100%' would only occur if both parents were homozygous dominant (EE x EE)."
+  },
+  {
+    "section": "4.8",
+    "title": "Mendelian Inheritance P1 - Mendelian Genetics",
+    "t": "sa",
+    "q": "Which of the following statement(s) are correct description(s) of Gregor Mendel's life and experimental approach? (Select all that apply)",
+    "correct": [
+      "He formulated the fundamental laws of heredity in the early 1860s.",
+      "He carefully gathered and documented mathematical data from his experiments.",
+      "He conducted his breeding experiments using the garden pea, Pisum sativum."
+    ],
+    "opts": [
+      "He formulated the fundamental laws of heredity in the early 1860s.",
+      "He had extensive knowledge of cell structure, mitosis, and meiosis.",
+      "He carefully gathered and documented mathematical data from his experiments.",
+      "He used a high-powered light microscope to visualize gene loci on chromosomes.",
+      "He conducted his breeding experiments using the garden pea, Pisum sativum."
+    ],
+    "explanation": "The correct answer is correct because: (1) Mendel conducted his pea-breeding experiments (Pisum sativum) in his monastery garden and formulated his laws in the early 1860s; and (2) his success was largely due to his rigorous, quantitative approach where he counted and analyzed the mathematical ratios of offspring over multiple generations. The other options are incorrect: 'He had extensive knowledge of cell structure, mitosis, and meiosis' and 'He used a high-powered light microscope to visualize gene loci...' are incorrect because chromatin, chromosomes, and the details of cell division (mitosis/meiosis) were not discovered or understood until decades after Mendel completed his work; he operated purely on macroscopic breeding data."
+  },
+  {
+    "section": "4.8",
+    "title": "Mendelian Inheritance P1 - Mendelian Genetics",
+    "t": "sa",
+    "q": "According to Mendel's Law of Independent Assortment, which of the following statements are correct? (Select all that apply)",
+    "correct": [
+      "Alleles for one trait segregate independently of alleles for other traits.",
+      "All possible combinations of alleles can occur in the resulting gametes.",
+      "The law applies to genes located on separate chromosomes or far apart on the same chromosome."
+    ],
+    "opts": [
+      "Alleles for one trait segregate independently of alleles for other traits.",
+      "All possible combinations of alleles can occur in the resulting gametes.",
+      "Traits like plant height and seed color always assort together because they are linked.",
+      "The law applies to genes located on separate chromosomes or far apart on the same chromosome.",
+      "The law only applies to monohybrid crosses."
+    ],
+    "explanation": "The correct answer is correct because Mendel's Law of Independent Assortment states that: (1) during gamete formation, the segregation of alleles for one gene is independent of the segregation of alleles for any other gene; (2) this results in all possible combinations of alleles occurring in the gametes; and (3) physically, this applies to genes that are located on non-homologous (separate) chromosomes, or located very far apart on the same chromosome such that crossing-over occurs frequently between them. The other options are incorrect: 'Traits like plant height and seed color always assort together because they are linked' is incorrect because Mendel studied unlinked traits that assort independently. 'The law only applies to monohybrid crosses' is incorrect because independent assortment describes the inheritance of two or more different traits (dihybrid or multihybrid crosses)."
+  },
+  {
+    "section": "4.9",
+    "title": "Mendelian Inheritance P2 - Genetic Disorders",
+    "t": "mc",
+    "q": "Osteogenesis imperfecta and hereditary spherocytosis are examples of autosomal dominant disorders. What are their respective molecular causes?",
+    "a": 0,
+    "opts": [
+      "Osteogenesis imperfecta is caused by a mutation in type I collagen synthesis; hereditary spherocytosis is caused by a mutation in the ankyrin-1 gene.",
+      "Osteogenesis imperfecta is caused by a mutation in the dystrophin gene; hereditary spherocytosis is caused by a mutation in the fibrillin-1 gene.",
+      "Osteogenesis imperfecta is caused by a mutation in the elastin gene; hereditary spherocytosis is caused by a mutation in the adenosine deaminase gene.",
+      "Osteogenesis imperfecta is caused by a mutation in copper-transporting ATPases; hereditary spherocytosis is caused by a mutation in hemoglobin beta chain."
+    ],
+    "explanation": "The correct answer is correct because osteogenesis imperfecta (brittle bone disease) is an autosomal dominant disorder caused by a mutation in the genes responsible for synthesizing type I collagen, resulting in weak, easily fractured bones. Hereditary spherocytosis is an autosomal dominant blood disorder caused by a mutation in the ankyrin-1 gene, which codes for a red blood cell membrane protein; this mutation causes red blood cells to become spherical and fragile, leading to their premature destruction. The other options are incorrect: 'dystrophin gene... and fibrillin-1...' is incorrect because dystrophin is mutated in Duchenne muscular dystrophy, and fibrillin-1 is mutated in Marfan syndrome. 'elastin gene... and adenosine deaminase...' is incorrect because elastin is deleted in Williams syndrome, and adenosine deaminase is mutated in SCID. 'copper-transporting ATPases... and hemoglobin beta...' is incorrect because copper transporter mutations cause Menkes/Wilson disease, and hemoglobin beta mutations cause sickle-cell anemia or thalassemia."
+  },
+  {
+    "section": "4.9",
+    "title": "Mendelian Inheritance P2 - Genetic Disorders",
+    "t": "mc",
+    "q": "Which human genetic disorder is a classic example of incomplete dominance, and how does the phenotype differ between heterozygotes and homozygotes for the mutant allele?",
+    "a": 1,
+    "opts": [
+      "Marfan syndrome; heterozygotes have long fingers while homozygotes have weakened aortas.",
+      "Familial hypercholesterolemia (FH); homozygotes suffer childhood heart attacks, while heterozygotes suffer early adulthood heart attacks.",
+      "Cystic fibrosis; homozygotes have thick lung mucus, whereas heterozygotes have mild respiratory allergies.",
+      "Huntington disease; homozygotes exhibit symptoms at birth, whereas heterozygotes exhibit symptoms only in old age."
+    ],
+    "explanation": "The correct answer is correct because Familial Hypercholesterolemia (FH) is a classic human example of incomplete dominance. Individuals homozygous for the mutant allele lack LDL receptors entirely, leading to extremely high blood cholesterol levels and heart attacks in childhood. Heterozygotes have about half the normal number of LDL receptors, resulting in moderately elevated cholesterol and early adulthood cardiovascular disease, while homozygous normal individuals have a normal count of receptors. The other options are incorrect: 'Marfan syndrome...' is incorrect because Marfan syndrome is inherited in a simple dominant fashion and is a prime example of pleiotropy, not incomplete dominance. 'Cystic fibrosis...' is incorrect because cystic fibrosis is an autosomal recessive disorder, and heterozygotes are asymptomatic carriers. 'Huntington disease...' is incorrect because Huntington disease is an autosomal dominant neurodegenerative disorder where heterozygotes and homozygotes exhibit similar disease progression."
+  },
+  {
+    "section": "4.9",
+    "title": "Mendelian Inheritance P2 - Genetic Disorders",
+    "t": "mc",
+    "q": "What gene and chromosome are mutated in Marfan syndrome, which displays pleiotropy by affecting skeleton, heart, and eyes?",
+    "a": 1,
+    "opts": [
+      "The ankyrin-1 gene on Chromosome 8",
+      "The fibrillin gene (FBN1) on Chromosome 15",
+      "The dystrophin gene on the X chromosome",
+      "The elastin gene on Chromosome 7"
+    ],
+    "explanation": "The correct answer is correct because Marfan syndrome is an autosomal dominant connective tissue disorder caused by a mutation in the fibrillin-1 (FBN1) gene located on Chromosome 15. This defect affects elastic fibers, causing systemic skeletal, cardiovascular, and ocular symptoms. The other options are incorrect: 'The ankyrin-1 gene on Chromosome 8' is mutated in hereditary spherocytosis. 'The dystrophin gene on the X chromosome' is mutated in muscular dystrophy. 'The elastin gene on Chromosome 7' is deleted in Williams syndrome."
+  },
+  {
+    "section": "4.9",
+    "title": "Mendelian Inheritance P2 - Genetic Disorders",
+    "t": "mc",
+    "q": "Who discovered X-linked inheritance in the early 1900s, and what model organism was used to observe that only males inherited white eyes in certain crosses?",
+    "a": 1,
+    "opts": [
+      "Oswald Avery using Streptococcus pneumoniae",
+      "Thomas Hunt Morgan using fruit flies (Drosophila)",
+      "Gregor Mendel using garden peas (Pisum sativum)",
+      "Alfred Hershey using bacteriophage viruses"
+    ],
+    "explanation": "The correct answer is correct because X-linked inheritance was discovered in the early 1900s by Thomas Hunt Morgan, who studied inheritance patterns in the fruit fly (Drosophila melanogaster). He observed that when crossing white-eyed males with red-eyed females, the white-eye trait was only inherited by male offspring in subsequent generations, linking the white-eye gene to the X chromosome. The other options are incorrect: 'Oswald Avery using Streptococcus pneumoniae' is incorrect because Avery studied bacterial transformation and identified DNA as the genetic material. 'Gregor Mendel using garden peas' is incorrect because Mendel studied autosomal traits in pea plants and was unaware of sex chromosomes. 'Alfred Hershey using bacteriophage viruses' is incorrect because Hershey studied viral DNA transfer to bacteria, not sex-linked inheritance."
+  },
+  {
+    "section": "4.9",
+    "title": "Mendelian Inheritance P2 - Genetic Disorders",
+    "t": "mc",
+    "q": "Which X-linked recessive disorder in humans disrupts the movement of copper in and out of cells, leading to phenotypes such as kinky hair, seizures, and low body temperature?",
+    "a": 1,
+    "opts": [
+      "Adrenoleukodystrophy",
+      "Menkes syndrome",
+      "Muscular dystrophy",
+      "Hemophilia"
+    ],
+    "explanation": "The correct answer is correct because Menkes syndrome is an X-linked recessive disorder caused by a mutation in a gene encoding a copper-transporting ATPase. This defect disrupts the absorption and distribution of copper in the body, leading to symptoms such as kinky, brittle hair, poor muscle tone, seizures, developmental delays, and low body temperature. The other options are incorrect: 'Adrenoleukodystrophy' is an X-linked recessive disorder that affects peroxisomes and fatty acid transport, not copper transport. 'Muscular dystrophy' is caused by a lack of dystrophin, affecting muscle structure. 'Hemophilia' is caused by a deficiency in blood clotting factors."
+  },
+  {
+    "section": "4.9",
+    "title": "Mendelian Inheritance P2 - Genetic Disorders",
+    "t": "mc",
+    "q": "What is the cellular defect responsible for the X-linked recessive disorder Adrenoleukodystrophy?",
+    "a": 1,
+    "opts": [
+      "Complete absence of the muscle structural protein dystrophin.",
+      "Failure of a carrier protein to transport an enzyme or very long chain fatty acid into peroxisomes.",
+      "Deficiency of clotting factor VIII or IX in the blood plasma.",
+      "Accumulation of methemoglobin in red blood cells."
+    ],
+    "explanation": "The correct answer is correct because Adrenoleukodystrophy (ALD) is an X-linked recessive disorder characterized by the failure of a specific membrane transporter (carrier protein) to move very long chain fatty acids (VLCFAs) or peroxisomal enzymes into the peroxisomes. This leads to the accumulation of VLCFAs in tissues, particularly in the brain and adrenal glands, destroying the myelin sheath. The other options are incorrect: 'Complete absence of the muscle structural protein dystrophin' describes muscular dystrophy. 'Deficiency of clotting factor VIII or IX...' describes hemophilia. 'Accumulation of methemoglobin in red blood cells' describes methemoglobinemia."
+  },
+  {
+    "section": "4.9",
+    "title": "Mendelian Inheritance P2 - Genetic Disorders",
+    "t": "sa",
+    "q": "Which of the following are human medical conditions inherited as X-linked recessive disorders? (Select all that apply)",
+    "correct": [
+      "Hemophilia",
+      "Muscular dystrophy (wasting away of muscle due to lack of dystrophin)",
+      "Color blindness (red- and green-sensitive pigments)"
+    ],
+    "opts": [
+      "Hemophilia",
+      "Muscular dystrophy (wasting away of muscle due to lack of dystrophin)",
+      "Color blindness (red- and green-sensitive pigments)",
+      "Methemoglobinemia",
+      "Osteogenesis imperfecta"
+    ],
+    "explanation": "The correct answer is correct because hemophilia, Duchenne/Becker muscular dystrophy (lack of dystrophin), and red-green color blindness (mutated photopigments) are all classic examples of human X-linked recessive disorders. Males inherit only one X chromosome from their mother, so a single mutant allele on the X chromosome causes the disorder in males. The other options are incorrect: 'Methemoglobinemia' is an autosomal recessive disorder (often caused by a deficiency in NADH methemoglobin reductase). 'Osteogenesis imperfecta' is an autosomal dominant disorder."
+  },
+  {
+    "section": "4.9",
+    "title": "Mendelian Inheritance P2 - Genetic Disorders",
+    "t": "sa",
+    "q": "Which of the following statements about non-Mendelian inheritance patterns are correct? (Select all that apply)",
+    "correct": [
+      "Codominance occurs when both alleles are fully expressed, such as in IAIB blood type.",
+      "Incomplete penetrance occurs when a dominant allele does not always lead to the dominant phenotype, as seen in polydactyly.",
+      "Pleiotropy refers to a single mutant gene affecting multiple, seemingly unrelated physical traits."
+    ],
+    "opts": [
+      "Codominance occurs when both alleles are fully expressed, such as in IAIB blood type.",
+      "Incomplete penetrance occurs when a dominant allele does not always lead to the dominant phenotype, as seen in polydactyly.",
+      "Pleiotropy refers to a single mutant gene affecting multiple, seemingly unrelated physical traits.",
+      "Polygenic inheritance refers to a single gene that controls multiple different traits in the body.",
+      "Multiple allelic traits involve an individual possessing three or more different alleles for a single gene."
+    ],
+    "explanation": "The correct answer is correct because: (1) Codominance is characterized by the full and simultaneous expression of both alleles in the heterozygote (e.g., IAIB blood type shows both A and B antigens); (2) Incomplete penetrance describes a situation where an individual carries a dominant allele but does not display the dominant phenotype (e.g., polydactyly); and (3) Pleiotropy occurs when a single gene mutation has multiple, distinct phenotypic effects throughout the body (e.g., Marfan syndrome). The other options are incorrect: 'Polygenic inheritance refers to a single gene that controls multiple...' is incorrect because polygenic inheritance describes multiple, independent genes collectively influencing a single trait (like skin color or height), which is the opposite of the definition given. 'Multiple allelic traits involve an individual possessing three or more different alleles...' is incorrect because a diploid individual can possess at most two alleles for any given gene, even though the species population as a whole may have three or more alleles."
+  }
+]

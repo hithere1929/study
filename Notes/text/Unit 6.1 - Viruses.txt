@@ -1,0 +1,41 @@
+--- Page 1 ---
+UNIT 6: DIVERSITY OF LIFE FORMS6.1 –VIRUSESBiology 9        Mr. QueenanCh. 21.1 (pg. 682-688)
+
+--- Page 2 ---
+•EQ-Does tech help to clarify or confuse classification of diversity?•Basic Info and Classification•Viral Structure•Life Cycles•Additional Info
+Viruses Outline
+
+
+--- Page 3 ---
+Virus Overview¨Viruses related to a variety of plant, animal, and human disease. ¨Non-cellular construction¨May have DNA or RNA genome¨Able to evolve as a result of mutations¨Require the machinery of the host cell they infect to replicate ¨Not considered living¤Do not have metabolism, cannot respond to stimuli
+
+
+--- Page 4 ---
+Virus Discovery & Classification¨Louis Pasteur –one of the first to determine objects smaller than bacteria with infectious properties¨Confirmed in mid 20thcentury with electron microscopy¨Classification in 2 parts¤First sorts virus into Groups I –IVnBased on structure of genome (DNA vs RNA, Single vs Double Stranded)¤Second similar to Linnaean  classificationnOrder, Family, Genus, Species –No higher levelsnEx –Chickenpox = VaricellovirusZosternSeasonal flu is example of a new strain developing within a single species annually
+
+--- Page 5 ---
+Virus Structure¨Range from 10-400nm in size¨Categorized by 1) shape, 2) genetic material, & 3) presence /absence of outer envelope
+¨All Viruses contain same basic anatomy otherwise:¤Outer capsid made of protein complexes¤Inner core of nucleic acid –3 to 100’s of genes.¨Viruses with no envelope said to be “Naked”¨Enveloped viruses covered in outer coating made of cell plasma membrane.
+
+
+--- Page 6 ---
+Virus Structure
+Notice common components, and differences between different types of virus. Notice the envelope structure around the last example. 
+
+--- Page 7 ---
+Virus Reproduction¨Technically intracellular parasites –Do not contain their own machinery for reproduction¨Gain entry into specific host cell ¤Capsid (or spikes of the envelope) adhere to specific receptor sites on the host cell surface. ¨Viral nucleic acid then enters a cell ¤Viral genome codes for production of protein units in the capsid. Host cell makes the subunits to create new virus particles¨Relies on host cell enzymes, ribosomes, transfer RNA (tRNA), and ATP for its own replication¨Mistakes made in reproduction allow for mutations, and possible viral evolution as a result.
+
+--- Page 8 ---
+Virus Reproduction¨Bacteriophage (“phage”) –Viruses that infect bacterial cells¨Two types of viral life cycles¤Lytic CyclenVirus infects cell, takes over host machinery, bursts cell open to release virusnAttachment, Penetration, Biosynthesis, Maturation, ReleasenEbola Virus ¤Lysogenic cyclenVirus infects cell, but may incorporates its gen. material into host. nIntegration occurs after the penetration stepnNo immediate proliferation; can occur at later time, even years later –may enter lytic cycle at this timenHIV virus is lysogenic –lays dormant until a later time
+
+
+--- Page 9 ---
+Virus Reproduction¨Animal Viruses enter host cell¨Uncoating releases viral DNA or RNA¤If “naked virus”, release is usually lytic bursting of host cell¤If enveloped, “budding” will occurnViral particles reach cell membrane, bud forms out of the cell, and virus becomes enveloped in cell membrane coated in protein and carbohydrates. ¨Retroviruses –RNA Viruses¤Contain a special enzyme -Reverse Transcriptase¤Carries out RNA àcDNA reverse transcription¤cDNA becomes integrated into host DNAnReplicated as host DNA replicates¤Viral DNA is transcribed; new viruses are producednHIV, Human T Lymphotropic Virus 1
+
+
+--- Page 10 ---
+Emerging Viruses¨Viruses who have made a move between species, or infect otherwise unaffected populations¤Ex. –H1N1 flu, West Nile, COVID-19¨Ex-Flu Pandemic ¤A flu virus has an H (hemagglutinin) spike and an N (neuraminidase) spike nH spike allows the virus to bind to the receptor n16 different typesnN spike attacks host plasma membranes nAllows mature viruses to exit the cell n9 different types ¤Each type of spike can occur in different varieties ¤Our immune system only recognizes H spikes and N spikes it has been exposed to
+
+
+--- Page 11 ---
+Virioidsand Prions¨Viriods¤Naked strands of RNA –no capsid¤Associated with many crop disease¤Direct cell to create more virioids¨Prions¤Proteinaceous Infectious Particles¤Similar to proteins that normally exist, but with a different, contagious tertiary conformationnCauses conformation of normal proteins in the organism into prions at exponential ratenAssociated with neurodegenerative diseases, or Transmissible Spongiform Encephalopathies, or TSE’ snMad Cow disease, a BSE, ND in cows that can pass to humans

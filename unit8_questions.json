@@ -1,0 +1,858 @@
+[
+  {
+    "section": "8.1",
+    "title": "Behavioral Ecology",
+    "t": "mc",
+    "q": "Post-birth maternal nurturing behavior in mice is genetically regulated and has been shown to be dependent on the presence of which specific gene?",
+    "opts": [
+      "The behavioral regulator gene Nurt1",
+      "The gene designated fosB",
+      "The neural receptor gene Fmr1",
+      "The endocrine-linked gene Oxtr"
+    ],
+    "a": 1,
+    "explanation": "Correct Answer: 'The gene designated fosB' (Option 1). According to the notes, maternal nurturing behavior in mice post-birth is dependent on the presence of a single gene designated fosB; when mice lack both alleles of this gene, they do not engage in nurturing behavior (like retrieving pups to build a nest) and instead ignore them. \nIncorrect Choices:\n- 'The behavioral regulator gene Nurt1' is incorrect because it is a fabricated name not mentioned in the text.\n- 'The neural receptor gene Fmr1' is incorrect as it is associated with Fragile X syndrome, not mice maternal nurturing behavior in this text.\n- 'The endocrine-linked gene Oxtr' is incorrect because although oxytocin receptors play a role in bonding, the specific single-gene mutation described as regulating this maternal nurturing behavior is fosB."
+  },
+  {
+    "section": "8.1",
+    "title": "Behavioral Ecology",
+    "t": "mc",
+    "q": "In studies of nest-building behavior in lovebirds, how do peach-faced lovebirds carry their nesting materials, and what was observed in their hybrid offspring with Fischer lovebirds?",
+    "opts": [
+      "Peach-faced lovebirds use mud to stick twigs to their backs; hybrid offspring carried twigs in their beaks but dropped them continuously during flight.",
+      "Peach-faced lovebirds carry nesting materials in their beaks; hybrid offspring carried them exclusively in their tail feathers but could not build nests.",
+      "Peach-faced lovebirds collect leaves and carry them in their beaks; hybrid offspring showed a dominant maternal behavior carrying leaves in their talons.",
+      "Peach-faced lovebirds cut short strips of leaves and carry them in their feathers; hybrid offspring had difficulty carrying nesting materials."
+    ],
+    "a": 3,
+    "explanation": "Correct Answer: 'Peach-faced lovebirds cut short strips of leaves and carry them in their feathers; hybrid offspring had difficulty carrying nesting materials' (Option 3). According to the notes, peach-faced lovebirds carry leaf strips tucked into their rump feathers to the nest site, whereas Fischer lovebirds carry materials in their beaks. Their hybrid offspring exhibit intermediate behavior, attempting to tuck strips into their feathers but failing to release them or carry them properly, resulting in severe difficulty carrying nesting materials.\nIncorrect Choices:\n- Option 0 is incorrect because peach-faced lovebirds do not carry twigs using mud on their backs.\n- Option 1 is incorrect because peach-faced lovebirds do not carry materials in their beaks (Fischer lovebirds do), and hybrids do not carry them exclusively in tail feathers.\n- Option 2 is incorrect because lovebirds carry leaf strips in feathers or beaks, not in their talons, and this hybrid behavior is intermediate rather than maternal-dominant."
+  },
+  {
+    "section": "8.1",
+    "title": "Behavioral Ecology",
+    "t": "mc",
+    "q": "Garter snake populations show genetic differences in food preference. Which of the following correctly describes the feeding behaviors of inland and coastal populations, and their hybrids?",
+    "opts": [
+      "Coastal populations are aquatic and feed on slugs; inland populations are terrestrial and eat fish; hybrids refuse slugs.",
+      "Inland populations are terrestrial and feed on slugs; coastal populations are aquatic and eat frogs; hybrids refuse slugs.",
+      "Both populations are terrestrial and feed on frogs; hybrids are aquatic and eat slugs.",
+      "Inland populations are aquatic and feed on frogs and fish; coastal populations are terrestrial and eat slugs; hybrids accept slugs."
+    ],
+    "a": 3,
+    "explanation": "Correct Answer: 'Inland populations are aquatic and feed on frogs and fish; coastal populations are terrestrial and eat slugs; hybrids accept slugs' (Option 3). According to the notes, inland garter snake populations are aquatic and feed on frogs and fish, and they refuse to eat slugs in laboratory settings. Coastal populations are terrestrial and feed primarily on slugs. Hybrid offspring between these two populations accept slugs, demonstrating that food choice in these snakes has a genetic basis.\nIncorrect Choices:\n- Option 0 is incorrect because it swaps the populations' habitats (claiming coastal is aquatic and inland is terrestrial) and says hybrids refuse slugs.\n- Option 1 is incorrect because it swaps the food preferences (claiming inland eats slugs and coastal eats frogs).\n- Option 2 is incorrect because it falsely states both populations eat frogs and that hybrids are aquatic."
+  },
+  {
+    "section": "8.1",
+    "title": "Behavioral Ecology",
+    "t": "mc",
+    "q": "During long-distance travel, a starling uses its ability to change direction in response to environmental cues like the Earth's magnetic field. This specific capability is defined as:",
+    "opts": [
+      "Chemotaxis",
+      "Orientation",
+      "Navigation",
+      "Migration"
+    ],
+    "a": 2,
+    "explanation": "Correct Answer: 'Navigation' (Option 2). According to the notes, navigation is defined as the ability to change direction in response to environmental cues, such as the Earth's magnetic field, which allows birds like starlings to adjust their flight path.\nIncorrect Choices:\n- 'Orientation' is incorrect because it is defined as the ability to travel in a particular direction (e.g., using sun/star cues) but does not involve actively changing direction in response to magnetic cues.\n- 'Migration' is incorrect because it is the broad term for long-distance travel from one location to another, rather than the specific directional adjustment mechanism.\n- 'Chemotaxis' is incorrect because it is a directed movement toward or away from a chemical gradient, not a geomagnetic long-distance navigation mechanism."
+  },
+  {
+    "section": "8.1",
+    "title": "Behavioral Ecology",
+    "t": "mc",
+    "q": "How do foraging honeybees convey both the distance and direction of a food source to other members of their hive?",
+    "opts": [
+      "By performing a waggle dance, which is a form of tactile communication.",
+      "By performing a circular flight outside the hive to guide others visually.",
+      "By releasing specific volatile pheromones at the hive entrance.",
+      "By emitting high-frequency buzzing sounds that vary in pitch and duration."
+    ],
+    "a": 0,
+    "explanation": "Correct Answer: 'By performing a waggle dance, which is a form of tactile communication' (Option 0). According to the notes, foraging honeybees return to the dark hive and use tactile communication, in the form of a waggle dance, to convey the distance and direction of a food source to other hive members.\nIncorrect Choices:\n- Option 1 is incorrect because the honeybees perform the dance inside the dark hive, not outside, so it is not a visual circular flight guidance.\n- Option 2 is incorrect because coordinates are not communicated using volatile pheromones at the entrance.\n- Option 3 is incorrect because honeybees do not use high-frequency buzzing pitch variations to convey distance and direction coordinates."
+  },
+  {
+    "section": "8.1",
+    "title": "Behavioral Ecology",
+    "t": "mc",
+    "q": "Which reproductive strategy is most likely to occur in an environment that cannot support several young, where a single female mates with multiple males?",
+    "opts": [
+      "Polyandry",
+      "Eusociality",
+      "Polygyny",
+      "Monogamy"
+    ],
+    "a": 0,
+    "explanation": "Correct Answer: 'Polyandry' (Option 0). According to the notes, polyandry is a reproductive strategy where one female mates with more than one male. This is most likely to occur in environments that cannot support several young, forcing multiple males to cooperate in raising the offspring of a single female.\nIncorrect Choices:\n- 'Polygyny' is incorrect because it refers to a polygamous system where one male mates with multiple females.\n- 'Monogamy' is incorrect because it refers to one male mating with one female.\n- 'Eusociality' is incorrect because it is a highly cooperative social structure (like in ants or bees) involving sterile castes and division of labor, not a mating system specifically adapted to low offspring support."
+  },
+  {
+    "section": "8.1",
+    "title": "Behavioral Ecology",
+    "t": "sa",
+    "q": "Which of the following statements regarding altruism, inclusive fitness, and reciprocal altruism are supported by the text? (Select all that apply.)",
+    "opts": [
+      "Inclusive fitness includes both the reproductive fitness of oneself and the reproductive fitness of close relatives.",
+      "A meerkat watching over its nieces and nephews is an example of behavior that increases inclusive fitness.",
+      "Reciprocal altruism occurs in groups of animals that are mutually dependent.",
+      "Altruistic helpers in nests never have a chance of acquiring territory of their own.",
+      "Altruistic behavior involves a reduction in the individual's own fitness."
+    ],
+    "correct": [
+      "Altruistic behavior involves a reduction in the individual's own fitness.",
+      "Inclusive fitness includes both the reproductive fitness of oneself and the reproductive fitness of close relatives.",
+      "Reciprocal altruism occurs in groups of animals that are mutually dependent.",
+      "A meerkat watching over its nieces and nephews is an example of behavior that increases inclusive fitness."
+    ],
+    "explanation": "Correct Answers: 'Altruistic behavior involves a reduction in the individual's own fitness.', 'Inclusive fitness includes both the reproductive fitness of oneself and the reproductive fitness of close relatives.', 'Reciprocal altruism occurs in groups of animals that are mutually dependent.', and 'A meerkat watching over its nieces and nephews is an example of behavior that increases inclusive fitness.' (Options 0, 1, 2, 4). According to the notes, altruism is defined as behavior that involves a reduction in individual fitness. Inclusive fitness encompasses both an individual's own reproductive fitness and the reproductive fitness of their close relatives (since they share genes). Reciprocal altruism is observed in mutually dependent groups where temporary fitness reduction is repaid later. A meerkat watching over nieces and nephews is an example of increasing inclusive fitness by helping closely related family members survive and pass on shared genes.\nIncorrect Choice:\n- 'Altruistic helpers in nests never have a chance of acquiring territory of their own' is incorrect because the notes explicitly state that helpers in nests have a 'Chance at acquisition of territory by helping'."
+  },
+  {
+    "section": "8.1",
+    "title": "Behavioral Ecology",
+    "t": "sa",
+    "q": "Which of the following statements about learning, fixed action patterns (FAPs), and conditioning are true? (Select all that apply.)",
+    "opts": [
+      "Classical conditioning involves a paired presentation of two different types of stimuli leading to an association.",
+      "Laughing gull chicks exhibit pecking behavior that is purely genetic and does not improve with experience or food rewards.",
+      "Imprinting occurs during a specific sensitive period when a particular behavior develops.",
+      "Fixed action patterns (FAPs) are completely unchangeable and can never improve with practice.",
+      "Operant conditioning involves the gradual strengthening of stimulus-response connections, such as in animal trick-training."
+    ],
+    "correct": [
+      "Classical conditioning involves a paired presentation of two different types of stimuli leading to an association.",
+      "Operant conditioning involves the gradual strengthening of stimulus-response connections, such as in animal trick-training.",
+      "Imprinting occurs during a specific sensitive period when a particular behavior develops."
+    ],
+    "explanation": "Correct Answers: 'Classical conditioning involves a paired presentation of two different types of stimuli leading to an association.', 'Operant conditioning involves the gradual strengthening of stimulus-response connections, such as in animal trick-training.', and 'Imprinting occurs during a specific sensitive period when a particular behavior develops.' (Options 0, 2, 4). According to the notes, classical conditioning involves the paired presentation of two different stimuli causing an association (e.g. Pavlov's dogs). Operant conditioning involves the gradual strengthening of stimulus-response connections, as seen in animal trick-training using rewards. Imprinting is an imitation of behavior observed during a sensitive period (a specific window of development).\nIncorrect Choices:\n- 'Laughing gull chicks exhibit pecking behavior that is purely genetic and does not improve with experience or food rewards' is incorrect because the notes state that laughing gull chick pecking behavior improves with practice and food rewards.\n- 'Fixed action patterns (FAPs) are completely unchangeable and can never improve with practice' is incorrect because the notes state that scientists have found behaviors once thought to be FAPs can improve with practice."
+  },
+  {
+    "section": "8.2",
+    "title": "Population Ecology",
+    "t": "mc",
+    "q": "Certain insects reproduce only once in their lifetime and then die, whereas most vertebrates, trees, and shrubs experience multiple reproductive events throughout their lifespan. These two strategies are known respectively as:",
+    "opts": [
+      "Semelparity and iteroparity",
+      "Iteroparity and semelparity",
+      "Density-dependence and density-independence",
+      "r-selection and K-selection"
+    ],
+    "a": 0,
+    "explanation": "Correct Answer: 'Semelparity and iteroparity' (Option 0). According to the notes, semelparity is a life history pattern where members of a population have only a single reproductive event in their lifetime (e.g., insects). Iteroparity is a pattern where members experience many reproductive events throughout their lifetime (e.g., most vertebrates, shrubs, and trees).\nIncorrect Choices:\n- 'Iteroparity and semelparity' (Option 1) is incorrect because it reverses the order of the definitions.\n- 'Density-dependence and density-independence' (Option 2) is incorrect because these refer to population regulation mechanisms, not reproductive strategies.\n- 'r-selection and K-selection' (Option 3) is incorrect because these are broad strategies relating to carrying capacity and environmental stability, not specifically defining single vs. multiple reproductive lifespans."
+  },
+  {
+    "section": "8.2",
+    "title": "Population Ecology",
+    "t": "mc",
+    "q": "According to the provided population demographics, in which years did the human population reach the milestones of 3 billion and 8 billion, respectively?",
+    "opts": [
+      "1960 and 2012",
+      "1930 and 2022",
+      "1930 and 2012",
+      "1960 and 2022"
+    ],
+    "a": 3,
+    "explanation": "Correct Answer: '1960 and 2022' (Option 3). According to the demographic milestones listed in the notes, the human population reached 3 billion in 1960 and 8 billion in 2022.\nIncorrect Choices:\n- Option 0 (1960 and 2012) is incorrect because 2012 was the milestone for 6 billion (or 7 billion historically, but not 8 billion).\n- Option 1 (1930 and 2022) is incorrect because 1930 was the milestone for 2 billion.\n- Option 2 (1930 and 2012) is incorrect because these years represent 2 billion and 6 billion, respectively."
+  },
+  {
+    "section": "8.2",
+    "title": "Population Ecology",
+    "t": "mc",
+    "q": "Which type of survivorship curve is characterized by a linear death rate over time that is completely unrelated to the age of the individuals?",
+    "opts": [
+      "Type III survivorship curve",
+      "Both Type I and Type III survivorship curves",
+      "Type I survivorship curve",
+      "Type II survivorship curve"
+    ],
+    "a": 3,
+    "explanation": "Correct Answer: 'Type II survivorship curve' (Option 3). According to the notes, a Type II survivorship curve is characterized by a linear death rate over time, which means mortality is completely unrelated to the age of the individuals.\nIncorrect Choices:\n- 'Type I survivorship curve' is incorrect because it is characterized by most individuals surviving past the midpoint of the lifespan, with death coming near the end.\n- 'Type III survivorship curve' is incorrect because it is typical of populations where most individuals die very young.\n- 'Both Type I and Type III survivorship curves' is incorrect because both describe distinct non-linear age-specific mortality rates."
+  },
+  {
+    "section": "8.2",
+    "title": "Population Ecology",
+    "t": "mc",
+    "q": "Which of the following set of traits is characteristic of K-strategists (equilibrium species)?",
+    "opts": [
+      "Small body size, early maturation, short life span, and minimal parental care.",
+      "Large numbers of offspring, small body size, early maturation, and excellent dispersal ability.",
+      "Large body size, late maturation, long life span, and high parental investment.",
+      "Short life span, late maturation, small body size, and strong competitive ability."
+    ],
+    "a": 2,
+    "explanation": "Correct Answer: 'Large body size, late maturation, long life span, and high parental investment' (Option 2). According to the notes, K-strategists (equilibrium species) produce small numbers of offspring, have a large body size, mature late, have a long lifespan, invest heavily in parental care, and tend to be strong competitors.\nIncorrect Choices:\n- Option 0 describes r-strategists (small body size, early maturation, short lifespan, minimal parental care).\n- Option 1 describes r-strategists (large offspring numbers, small body size, early maturation).\n- Option 3 mixes K-strategist traits (late maturation, strong competitors) with r-strategist traits (short lifespan, small body size), which does not describe K-strategists."
+  },
+  {
+    "section": "8.2",
+    "title": "Population Ecology",
+    "t": "mc",
+    "q": "During which phase of the logistic population growth curve does population growth slow down as environmental resistance increases and resources become scarce?",
+    "opts": [
+      "Stable equilibrium phase",
+      "Exponential growth phase",
+      "Deceleration phase",
+      "Lag phase"
+    ],
+    "a": 2,
+    "explanation": "Correct Answer: 'Deceleration phase' (Option 2). According to the notes, during the deceleration phase of the logistic growth curve, population growth slows down as environmental resistance (such as scarce resources and competition) increases.\nIncorrect Choices:\n- 'Stable equilibrium phase' is incorrect because it is the phase where there is little if any growth, and the population size stabilizes around carrying capacity.\n- 'Exponential growth phase' is incorrect because it is the phase where growth is accelerating rapidly.\n- 'Lag phase' is incorrect because it is the initial phase where growth is slow simply because the population is small."
+  },
+  {
+    "section": "8.2",
+    "title": "Population Ecology",
+    "t": "mc",
+    "q": "What is a demographic transition, as experienced by More-Developed Countries (MDCs)?",
+    "opts": [
+      "A decrease in the birth rate followed by a rapid rise in the death rate, causing population decline.",
+      "Stabilization of population size purely through density-independent natural disasters and emigration.",
+      "An increase in both birth and death rates due to industrialization, resulting in rapid population growth.",
+      "A decrease in the death rate followed by a decrease in the birth rate, leading to stabilized population growth."
+    ],
+    "a": 3,
+    "explanation": "Correct Answer: 'A decrease in the death rate followed by a decrease in the birth rate, leading to stabilized population growth' (Option 3). According to the notes, demographic transition is characterized by a decrease in the death rate (due to medical and industrial advancements) followed by a decrease in the birth rate, which stabilizes population growth in More-Developed Countries (MDCs).\nIncorrect Choices:\n- Option 0 is incorrect because death rates did not rise rapidly during this transition.\n- Option 1 is incorrect because demographic transition is driven by industrialization and socio-economic changes, not natural disasters and emigration.\n- Option 2 is incorrect because the transition involves a decline, not an increase, in both birth and death rates."
+  },
+  {
+    "section": "8.2",
+    "title": "Population Ecology",
+    "t": "sa",
+    "q": "Which of the following factors influence the biotic potential of a population? (Select all that apply.)",
+    "opts": [
+      "The age of the individuals and the number of reproductive opportunities they have",
+      "The presence of disease and predators within the ecosystem",
+      "The usual number of offspring that survive to reproductive age",
+      "The frequency of density-independent natural disasters like volcanic eruptions",
+      "The amount of competition within the population for resources"
+    ],
+    "correct": [
+      "The usual number of offspring that survive to reproductive age",
+      "The presence of disease and predators within the ecosystem",
+      "The amount of competition within the population for resources",
+      "The age of the individuals and the number of reproductive opportunities they have"
+    ],
+    "explanation": "Correct Answers: 'The usual number of offspring that survive to reproductive age', 'The presence of disease and predators within the ecosystem', 'The amount of competition within the population for resources', and 'The age of the individuals and the number of reproductive opportunities they have' (Options 0, 1, 2, 4). According to the notes, biotic potential is the maximum rate of natural increase under unlimited resources, and depends on factors that influence reproduction, including the number of offspring surviving to reproductive age, competition, age and number of reproductive opportunities, and the presence of disease and predators.\nIncorrect Choice:\n- 'The frequency of density-independent natural disasters like volcanic eruptions' is incorrect because density-independent natural disasters represent external environmental resistance, which limits population growth rather than defining the intrinsic reproductive capacity (biotic potential)."
+  },
+  {
+    "section": "8.2",
+    "title": "Population Ecology",
+    "t": "sa",
+    "q": "Which of the following are examples of density-dependent factors that regulate population size? (Select all that apply.)",
+    "opts": [
+      "Predation by carnivores",
+      "Natural disasters such as hurricanes and forest fires",
+      "Sudden changes in local weather patterns or temperature drops",
+      "Competition for food and nesting sites",
+      "Parasitism by endoparasites"
+    ],
+    "correct": [
+      "Predation by carnivores",
+      "Competition for food and nesting sites",
+      "Parasitism by endoparasites"
+    ],
+    "explanation": "Correct Answers: 'Predation by carnivores', 'Competition for food and nesting sites', and 'Parasitism by endoparasites' (Options 0, 3, 4). According to the notes, density-dependent factors are those where the percentage of the population affected increases as the population density increases. These factors include competition, predation, and parasitism.\nIncorrect Choices:\n- 'Natural disasters such as hurricanes and forest fires' and 'Sudden changes in local weather patterns or temperature drops' are incorrect because natural disasters and weather changes are density-independent factors; their occurrence and severity do not depend on population density."
+  },
+  {
+    "section": "8.3",
+    "title": "Community & Ecosystem Ecology",
+    "t": "mc",
+    "q": "How does a species' fundamental niche differ from its realized niche?",
+    "opts": [
+      "The realized niche includes only abiotic factors such as climate, whereas the fundamental niche includes only biotic relationships.",
+      "The fundamental niche is the full range of abiotic conditions under which an organism can survive in the absence of biotic interactions, whereas the realized niche is the actual conditions under which it survives in the presence of competitors, predators, and parasites.",
+      "The realized niche is the complete geographical range of the species, while the fundamental niche is the specific microscopic habitat within that range.",
+      "The fundamental niche is characterized by high levels of resource partitioning, whereas the realized niche represents maximum niche overlap with other species."
+    ],
+    "a": 1,
+    "explanation": "Correct Answer: 'The fundamental niche is the full range of abiotic conditions under which an organism can survive in the absence of biotic interactions, whereas the realized niche is the actual conditions under which it survives in the presence of competitors, predators, and parasites' (Option 1). According to the notes, the fundamental niche is the set of all abiotic factors (climate, habitat) needed for survival in the absence of biotic interactions. The realized niche is the actual set of conditions under which the species survives in nature where biotic factors (competitors, predators, parasites) are present.\nIncorrect Choices:\n- Option 0 is incorrect because it reverses the definitions (claiming realized niche is only abiotic and fundamental is only biotic).\n- Option 2 is incorrect because ecological niches are defined by environmental conditions and functional roles, not geographic ranges versus microscopic divisions.\n- Option 3 is incorrect because resource partitioning is a process that reduces competition to allow species to occupy their realized niches; it does not characterize the fundamental niche."
+  },
+  {
+    "section": "8.3",
+    "title": "Community & Ecosystem Ecology",
+    "t": "mc",
+    "q": "Which evolutionary phenomenon describes the tendency for characteristics of two closely related species to become more divergent when they coexist in the same community compared to when their populations are geographically isolated?",
+    "opts": [
+      "Competitive exclusion",
+      "Character displacement",
+      "Müllerian mimicry",
+      "Primary ecological succession"
+    ],
+    "a": 1,
+    "explanation": "Correct Answer: 'Character displacement' (Option 1). According to the notes, character displacement is the tendency for characteristics of closely related species to become more divergent when they belong to the same community (coexist) compared to when they are geographically isolated, driven by competition and resource partitioning.\nIncorrect Choices:\n- 'Competitive exclusion' is incorrect because it is the principle that no two species can indefinitely occupy the same niche at the same time, leading to the exclusion of one.\n- 'Müllerian mimicry' is incorrect because it is a type of warning coloration shared among dangerous species.\n- 'Primary ecological succession' is incorrect because it is the development of a community in an area with no pre-existing soil."
+  },
+  {
+    "section": "8.3",
+    "title": "Community & Ecosystem Ecology",
+    "t": "mc",
+    "q": "What is the difference between Batesian mimicry and Müllerian mimicry?",
+    "opts": [
+      "In Batesian mimicry, species mimic the sounds of predators, whereas in Müllerian mimicry, species mimic their visual markings.",
+      "In Batesian mimicry, a harmless mimic resembles a dangerous model, whereas in Müllerian mimicry, multiple dangerous species share a common warning coloration and protective defense.",
+      "In Müllerian mimicry, the mimic is always a plant, whereas in Batesian mimicry, the mimic is always a predator.",
+      "In Batesian mimicry, all mimicking species are dangerous, whereas in Müllerian mimicry, the mimicking species are harmless."
+    ],
+    "a": 1,
+    "explanation": "Correct Answer: 'In Batesian mimicry, a harmless mimic resembles a dangerous model, whereas in Müllerian mimicry, multiple dangerous species share a common warning coloration and protective defense' (Option 1). According to the notes, Batesian mimicry occurs when a mimic lacks the defense of the dangerous organism it resembles (a harmless mimic resembling a dangerous model). Müllerian mimicry occurs when multiple species share a protective defense and a common warning coloration.\nIncorrect Choices:\n- Option 0 is incorrect because these mimicry types involve visual warning patterns, not predator sounds.\n- Option 2 is incorrect because mimicry is not restricted to plants acting as mimics and predators as models.\n- Option 3 is incorrect because it reverses the definitions of Batesian and Müllerian mimicry."
+  },
+  {
+    "section": "8.3",
+    "title": "Community & Ecosystem Ecology",
+    "t": "mc",
+    "q": "In ecological succession, which model proposes that colonists of a disturbed area remain and actively prevent the growth of other plant species until those colonists are damaged or die?",
+    "opts": [
+      "Pioneer model",
+      "Facilitation model",
+      "Inhibition model",
+      "Tolerance model"
+    ],
+    "a": 2,
+    "explanation": "Correct Answer: 'Inhibition model' (Option 2). According to the notes, the inhibition model of succession proposes that early colonist species remain and inhibit the growth of other plant species until those colonists are damaged or die.\nIncorrect Choices:\n- 'Pioneer model' is incorrect because it is not a separate succession model; pioneer species are simply the first species to begin secondary succession.\n- 'Facilitation model' is incorrect because it proposes that each stage modifies the environment in a way that facilitates the invasion and replacement by the next stage.\n- 'Tolerance model' is incorrect because it proposes that different plants can colonize at the same time, and successional changes occur as species tolerate different conditions rather than actively inhibiting others."
+  },
+  {
+    "section": "8.3",
+    "title": "Community & Ecosystem Ecology",
+    "t": "mc",
+    "q": "During which step of the nitrogen cycle do soil bacteria convert ammonium ions (NH4+) into nitrate ions (NO3-), which plants can readily assimilate?",
+    "opts": [
+      "Nitrogen fixation",
+      "Nitrification",
+      "Deamination",
+      "Denitrification"
+    ],
+    "a": 1,
+    "explanation": "Correct Answer: 'Nitrification' (Option 1). According to the notes, nitrification is the biological conversion of ammonium ions (NH4+) in the soil into nitrates (NO3-) by nitrifying bacteria, which plants can readily assimilate.\nIncorrect Choices:\n- 'Nitrogen fixation' is incorrect because it is the conversion of atmospheric nitrogen gas (N2) to ammonium ions (NH4+).\n- 'Denitrification' is incorrect because it is the conversion of nitrates back into nitrogen gas (N2) by denitrifying bacteria.\n- 'Deamination' is incorrect because it is the removal of an amino group from an amino acid in organisms (producing ammonia), which is not a soil step of the nitrogen cycle."
+  },
+  {
+    "section": "8.3",
+    "title": "Community & Ecosystem Ecology",
+    "t": "mc",
+    "q": "Why is phosphorus considered a limiting nutrient in many ecosystems, and what is its primary natural source?",
+    "opts": [
+      "It is highly volatile and quickly escapes into the stratosphere through volcanic activity.",
+      "It is only synthesized by marine algae and cannot be accessed by terrestrial plants.",
+      "It is a gaseous cycle element that must be fixed from the atmosphere by specialized soil bacteria.",
+      "It is part of a sedimentary cycle where it is slowly released from rocks through weathering."
+    ],
+    "a": 3,
+    "explanation": "Correct Answer: 'It is part of a sedimentary cycle where it is slowly released from rocks through weathering' (Option 3). According to the notes, the phosphorus cycle is a sedimentary cycle (no gaseous phase) where phosphates are slowly released into the soil from rocks through weathering. Because weathering is extremely slow and phosphates are rapidly used by organisms, phosphorus is a limiting nutrient in many ecosystems.\nIncorrect Choices:\n- Option 0 is incorrect because phosphorus is not highly volatile and does not escape into the stratosphere via volcanic activity.\n- Option 1 is incorrect because phosphorus is not synthesized by marine algae; it is taken up from runoffs and water.\n- Option 2 is incorrect because phosphorus is not a gaseous cycle element fixed from the atmosphere (nitrogen is)."
+  },
+  {
+    "section": "8.3",
+    "title": "Community & Ecosystem Ecology",
+    "t": "sa",
+    "q": "According to the text, which of the following are direct impacts of human activities on biogeochemical cycles? (Select all that apply.)",
+    "opts": [
+      "Causing eutrophication and massive fish kills in aquatic ecosystems due to excess phosphate and nitrogen runoff.",
+      "Promoting the rapid weathering of phosphate-bearing rocks through the use of synthetic detergents.",
+      "Decreasing atmospheric carbon dioxide levels via global deforestation.",
+      "Releasing nitrous oxide (N2O), a greenhouse gas, through the agricultural use of nitrogen-rich fertilizers.",
+      "Draining aquifers in the arid West and southern Florida faster than they are naturally replenished."
+    ],
+    "correct": [
+      "Draining aquifers in the arid West and southern Florida faster than they are naturally replenished.",
+      "Releasing nitrous oxide (N2O), a greenhouse gas, through the agricultural use of nitrogen-rich fertilizers.",
+      "Causing eutrophication and massive fish kills in aquatic ecosystems due to excess phosphate and nitrogen runoff."
+    ],
+    "explanation": "Correct Answers: 'Draining aquifers in the arid West and southern Florida faster than they are naturally replenished.', 'Releasing nitrous oxide (N2O), a greenhouse gas, through the agricultural use of nitrogen-rich fertilizers.', and 'Causing eutrophication and massive fish kills in aquatic ecosystems due to excess phosphate and nitrogen runoff.' (Options 0, 3, 4). According to the notes, human groundwater mining in the arid West and southern Florida is draining aquifers faster than they are naturally replenished. The agricultural use of nitrogen fertilizers releases nitrous oxide (N2O), a greenhouse gas, and runoff containing excess phosphates and nitrogen causes eutrophication (algal blooms leading to massive fish kills).\nIncorrect Choices:\n- 'Decreasing atmospheric carbon dioxide levels via global deforestation' is incorrect because deforestation decreases carbon dioxide uptake, thereby increasing atmospheric carbon dioxide levels.\n- 'Promoting the rapid weathering of phosphate-bearing rocks through the use of synthetic detergents' is incorrect because detergents add phosphates directly to runoff, but they do not weather rocks."
+  },
+  {
+    "section": "8.3",
+    "title": "Community & Ecosystem Ecology",
+    "t": "sa",
+    "q": "Which of the following statements about energy flow and biotic components in an ecosystem are true? (Select all that apply.)",
+    "opts": [
+      "Chemoautotrophs are bacteria that require only inorganic nutrients and an outside energy source (other than light) to produce organic nutrients.",
+      "Energy is recycled within an ecosystem, whereas chemical nutrients flow through it and are eventually lost as heat.",
+      "Typically, only about 10% of the energy at one trophic level is incorporated into the next higher level.",
+      "A detrital food web begins with decomposers rather than primary producers.",
+      "Biomass is calculated by multiplying the number of organisms at each level by their individual lifespan."
+    ],
+    "correct": [
+      "Chemoautotrophs are bacteria that require only inorganic nutrients and an outside energy source (other than light) to produce organic nutrients.",
+      "A detrital food web begins with decomposers rather than primary producers.",
+      "Typically, only about 10% of the energy at one trophic level is incorporated into the next higher level."
+    ],
+    "explanation": "Correct Answers: 'Chemoautotrophs are bacteria that require only inorganic nutrients and an outside energy source (other than light) to produce organic nutrients.', 'A detrital food web begins with decomposers rather than primary producers.', and 'Typically, only about 10% of the energy at one trophic level is incorporated into the next higher level.' (Options 0, 2, 3). According to the notes, chemoautotrophs are bacteria that require only inorganic nutrients and an outside chemical energy source (other than light) to produce organic nutrients. A detrital food web starts with decomposers (which feed on detritus) rather than living producers. Only about 10% of the energy from one trophic level is transferred to the next higher level.\nIncorrect Choices:\n- 'Energy is recycled within an ecosystem, whereas chemical nutrients flow through it and are eventually lost as heat' is incorrect because energy flows one-way and is lost as heat (cannot be recycled), while chemical nutrients are recycled.\n- 'Biomass is calculated by multiplying the number of organisms at each level by their individual lifespan' is incorrect because biomass is calculated by multiplying the number of organisms at each level by their individual weight (not lifespan)."
+  },
+  {
+    "section": "8.4",
+    "title": "Photosynthesis",
+    "t": "mc",
+    "q": "During the noncyclic electron pathway of the light reactions, what are the source of replacement electrons for Photosystem II and the final electron acceptor of Photosystem I, respectively?",
+    "opts": [
+      "Water (H2O) and NADP+",
+      "Carbon dioxide (CO2) and ADP",
+      "Oxygen (O2) and NADPH",
+      "Plastocyanin and RuBP"
+    ],
+    "a": 0,
+    "explanation": "Correct Answer: 'Water (H2O) and NADP+' (Option 0). According to the notes, in the noncyclic electron pathway, PS II captures light energy, causing an electron to be ejected. This electron is replaced by an electron from water (H2O), which is split into O2 and H+. When PS I absorbs light and ejects an electron, this electron is transferred permanently to NADP+, making it the final electron acceptor (forming NADPH).\nIncorrect Choices:\n- Option 1 is incorrect because CO2 is fixed in the Calvin cycle (light-independent reactions) and is not an electron source in the light reactions, while ADP is phosphorylated to ATP (not an electron acceptor).\n- Option 2 is incorrect because oxygen (O2) is a byproduct of water oxidation (not a source of replacement electrons), and NADPH is the reduced product (not the acceptor).\n- Option 3 is incorrect because plastocyanin is an intermediate carrier in the electron transport chain, and RuBP is a CO2 acceptor in the Calvin cycle."
+  },
+  {
+    "section": "8.4",
+    "title": "Photosynthesis",
+    "t": "mc",
+    "q": "In chloroplasts, chemiosmosis generates ATP when hydrogen ions (H+) flow down their electrochemical gradient. Where do these ions accumulate, and through which direction do they flow to drive ATP synthesis?",
+    "opts": [
+      "They accumulate in the cytoplasm and flow into the stroma.",
+      "They accumulate in the stroma and flow into the thylakoid space.",
+      "They accumulate in the thylakoid space and flow out into the stroma.",
+      "They accumulate in the intermembrane space and flow into the matrix."
+    ],
+    "a": 2,
+    "explanation": "Correct Answer: 'They accumulate in the thylakoid space and flow out into the stroma' (Option 2). According to the notes, during electron transport, hydrogen ions (H+) are pumped across the thylakoid membrane from the stroma into the thylakoid space (which acts as a reservoir). They flow down their electrochemical gradient from the thylakoid space back into the stroma through ATP synthase channels, driving ATP synthesis.\nIncorrect Choices:\n- Option 0 is incorrect because the cytoplasm is not the reservoir, nor do they flow from there into the stroma.\n- Option 1 is incorrect because it reverses the direction of chemiosmotic flow (claiming they accumulate in the stroma and flow into the thylakoid space).\n- Option 3 describes the mitochondrial chemiosmosis pathway (intermembrane space and matrix), not the chloroplast thylakoid/stroma pathway."
+  },
+  {
+    "section": "8.4",
+    "title": "Photosynthesis",
+    "t": "mc",
+    "q": "What is the name of the enzyme that catalyzes the initial fixation of carbon dioxide to ribulose-1,5-bisphosphate (RuBP) in the Calvin cycle, and what percentage of chloroplast protein does it typically comprise?",
+    "opts": [
+      "RuBP carboxylase (Rubisco); 20% to 50%",
+      "PEP carboxylase; 10% to 15%",
+      "ATP synthase; 60% to 75%",
+      "G3P dehydrogenase; 5% to 10%"
+    ],
+    "a": 0,
+    "explanation": "Correct Answer: 'RuBP carboxylase (Rubisco); 20% to 50%' (Option 0). According to the notes, the enzyme RuBP carboxylase (Rubisco) catalyzes the fixation of CO2 to RuBP. Because this enzyme is relatively slow, chloroplasts produce large quantities of it, and it makes up 20% to 50% of the total protein content of the chloroplast.\nIncorrect Choices:\n- Option 1 is incorrect because PEP carboxylase is the carbon-fixing enzyme in the mesophyll of C4 and CAM plants, and does not fix CO2 to RuBP, nor does it comprise this high percentage of protein.\n- Option 2 is incorrect because ATP synthase catalyzes ATP production, not carbon fixation.\n- Option 3 is incorrect because G3P dehydrogenase is involved in carbon reduction (converting 3PG to G3P), not the initial fixation of carbon dioxide."
+  },
+  {
+    "section": "8.4",
+    "title": "Photosynthesis",
+    "t": "mc",
+    "q": "For every three turns of the Calvin cycle, what is the net stoichiometry of glyceraldehyde-3-phosphate (G3P) molecules utilized to reform ribulose-1,5-bisphosphate (RuBP)?",
+    "opts": [
+      "6 molecules of G3P are used to reform 6 molecules of RuBP.",
+      "5 molecules of G3P are used to reform 3 molecules of RuBP.",
+      "3 molecules of G3P are used to reform 5 molecules of RuBP.",
+      "2 molecules of G3P are used to reform 1 molecule of RuBP."
+    ],
+    "a": 1,
+    "explanation": "Correct Answer: '5 molecules of G3P are used to reform 3 molecules of RuBP' (Option 1). According to the notes, for every 3 turns of the Calvin cycle, 3 molecules of CO2 are fixed, producing 6 molecules of G3P. One G3P represents net carbohydrate gain, while the other 5 molecules of G3P (5 x 3 carbons = 15 carbons) are used to reform 3 molecules of RuBP (3 x 5 carbons = 15 carbons), allowing the cycle to continue.\nIncorrect Choices:\n- Option 0 is incorrect because 6 G3P (18 carbons) cannot reform 6 RuBP (30 carbons) without 12 more carbons.\n- Option 2 is incorrect because it reverses the stoichiometry (3 G3P = 9 carbons cannot form 5 RuBP = 25 carbons).\n- Option 3 is incorrect because 2 G3P (6 carbons) to 1 RuBP (5 carbons) is unbalanced."
+  },
+  {
+    "section": "8.4",
+    "title": "Photosynthesis",
+    "t": "mc",
+    "q": "How do C4 plants avoid the wasteful process of photorespiration in hot and dry climates?",
+    "opts": [
+      "They lack Photosystem II, preventing the production of oxygen within their chloroplasts.",
+      "They perform the light reactions during the day and the Calvin cycle exclusively at night.",
+      "They fix CO2 to phosphoenolpyruvate (PEP) to form the C4 molecule oxaloacetate, separating carbon fixation from the Calvin cycle.",
+      "They open their stomata wider during midday to maximize CO2 intake and suppress O2 binding."
+    ],
+    "a": 2,
+    "explanation": "Correct Answer: 'They fix CO2 to phosphoenolpyruvate (PEP) to form the C4 molecule oxaloacetate, separating carbon fixation from the Calvin cycle' (Option 2). According to the notes, C4 plants avoid photorespiration by fixing CO2 to a C3 molecule, phosphoenolpyruvate (PEP), using the enzyme PEP carboxylase. This forms the C4 molecule oxaloacetate, which spatially separates initial carbon fixation (in mesophyll cells) from the Calvin cycle (in bundle-sheath cells).\nIncorrect Choices:\n- Option 0 is incorrect because C4 plants possess Photosystem II and generate oxygen; they just segregate Rubisco from it.\n- Option 1 describes CAM plants, which partition carbon fixation temporally (night vs. day), not C4 plants.\n- Option 3 is incorrect because opening stomata wider during midday in hot, dry climates would cause fatal dehydration; they restrict stomatal opening instead."
+  },
+  {
+    "section": "8.4",
+    "title": "Photosynthesis",
+    "t": "mc",
+    "q": "Which of the following describes the temporal partitioning of carbon fixation in Crassulacean-Acid Metabolism (CAM) plants?",
+    "opts": [
+      "Carbon dioxide is fixed during the day using solar energy; at night, the stored C4 molecules are oxidized to produce ATP.",
+      "Carbon dioxide is fixed at night into C4 molecules stored in vacuoles; during the day, these molecules release CO2 to the Calvin cycle.",
+      "Water is split only at night to prevent evaporative loss; carbon dioxide is fixed continuously during the daytime.",
+      "Stomata are opened during the day to capture CO2 and closed at night to perform the light-independent reactions."
+    ],
+    "a": 1,
+    "explanation": "Correct Answer: 'Carbon dioxide is fixed at night into C4 molecules stored in vacuoles; during the day, these molecules release CO2 to the Calvin cycle' (Option 1). According to the notes, CAM plants partition carbon fixation by time. During the night, they open their stomata, fix CO2 into C4 molecules, and store them in large vacuoles. During the day, they close their stomata to conserve water, and the stored C4 molecules release CO2 to the Calvin cycle (utilizing ATP and NADPH produced by the light reactions).\nIncorrect Choices:\n- Option 0 is incorrect because stored C4 molecules are decarboxylated to release CO2, not oxidized to produce ATP at night, and solar energy is captured during the day.\n- Option 2 is incorrect because water is split in light reactions which require solar energy during the day, and carbon is fixed at night, not during the day.\n- Option 3 is incorrect because CAM plants close their stomata during the day and open them at night (the opposite of what is stated)."
+  },
+  {
+    "section": "8.4",
+    "title": "Photosynthesis",
+    "t": "sa",
+    "q": "Which of the following statements correctly describe the reactions of photosynthesis? (Select all that apply.)",
+    "opts": [
+      "Carbon dioxide is reduced to G3P in the thylakoid space during the light reactions.",
+      "The cyclic electron pathway of the light reactions produces both ATP and NADPH.",
+      "Water is oxidized during the light reactions, releasing oxygen gas as a byproduct.",
+      "The light reactions occur in the thylakoid membranes and produce ATP and NADPH.",
+      "The Calvin cycle takes place in the stroma and utilizes ATP and NADPH to reduce CO2."
+    ],
+    "correct": [
+      "The light reactions occur in the thylakoid membranes and produce ATP and NADPH.",
+      "The Calvin cycle takes place in the stroma and utilizes ATP and NADPH to reduce CO2.",
+      "Water is oxidized during the light reactions, releasing oxygen gas as a byproduct."
+    ],
+    "explanation": "Correct Answers: 'The light reactions occur in the thylakoid membranes and produce ATP and NADPH.', 'The Calvin cycle takes place in the stroma and utilizes ATP and NADPH to reduce CO2.', and 'Water is oxidized during the light reactions, releasing oxygen gas as a byproduct.' (Options 2, 3, 4). According to the notes, the light reactions occur in the thylakoid membranes where light energy is captured to produce ATP and NADPH and water is split (oxidized), releasing oxygen as a byproduct. The Calvin cycle occurs in the stroma and utilizes ATP and NADPH to reduce CO2 into carbohydrates.\nIncorrect Choices:\n- 'Carbon dioxide is reduced to G3P in the thylakoid space during the light reactions' is incorrect because CO2 is reduced in the stroma during the Calvin cycle, which is a light-independent process.\n- 'The cyclic electron pathway of the light reactions produces both ATP and NADPH' is incorrect because the cyclic pathway only produces ATP (NADPH is only produced in the noncyclic pathway)."
+  },
+  {
+    "section": "8.4",
+    "title": "Photosynthesis",
+    "t": "sa",
+    "q": "Based on the text, which of the following statements regarding photosynthetic adaptations are correct? (Select all that apply.)",
+    "opts": [
+      "C4 plants are better adapted to high light intensities, high temperatures, and limited rainfall compared to C3 plants.",
+      "CAM plants are adapted to extreme aridity, closing their stomata during the day to conserve water.",
+      "In cool, moist environments, C4 plants outcompete C3 plants due to their superior energy efficiency.",
+      "Photorespiration occurs in C3 plants when O2 combines with RuBP instead of CO2, which represents a wasteful pathway.",
+      "C4 plants fix carbon dioxide directly to a five-carbon ribulose-1,5-bisphosphate molecule to form oxaloacetate."
+    ],
+    "correct": [
+      "C4 plants are better adapted to high light intensities, high temperatures, and limited rainfall compared to C3 plants.",
+      "CAM plants are adapted to extreme aridity, closing their stomata during the day to conserve water.",
+      "Photorespiration occurs in C3 plants when O2 combines with RuBP instead of CO2, which represents a wasteful pathway."
+    ],
+    "explanation": "Correct Answers: 'C4 plants are better adapted to high light intensities, high temperatures, and limited rainfall compared to C3 plants.', 'CAM plants are adapted to extreme aridity, closing their stomata during the day to conserve water.', and 'Photorespiration occurs in C3 plants when O2 combines with RuBP instead of CO2, which represents a wasteful pathway.' (Options 0, 1, 3). According to the notes, C4 plants are adapted to high light, high temperatures, and dry conditions. CAM plants are adapted to extreme aridity, closing stomata in daylight to conserve water. Photorespiration occurs in C3 plants under hot, dry conditions when oxygen binds to RuBP instead of CO2, wasting energy.\nIncorrect Choices:\n- 'In cool, moist environments, C4 plants outcompete C3 plants due to their superior energy efficiency' is incorrect because in cool, moist environments, C4 plants cannot compete with C3 plants due to the extra ATP cost of the C4 pathway.\n- 'C4 plants fix carbon dioxide directly to a five-carbon ribulose-1,5-bisphosphate molecule to form oxaloacetate' is incorrect because C4 plants fix CO2 to the 3-carbon molecule PEP, not to the 5-carbon RuBP."
+  },
+  {
+    "section": "8.5",
+    "title": "Cellular Respiration",
+    "t": "mc",
+    "q": "In the electron transport chain of cellular respiration, cytochromes play a vital role in passing electrons. What is the structural characteristic of cytochromes?",
+    "opts": [
+      "They are lipid-soluble cofactors consisting of long isoprenoid tails.",
+      "They are inorganic copper-sulfur clusters embedded in the matrix.",
+      "They are nucleotide-derived dinucleotides containing flavin rings.",
+      "They are proteins containing heme groups with central iron atoms."
+    ],
+    "a": 3,
+    "explanation": "Correct Answer: 'They are proteins containing heme groups with central iron atoms' (Option 3). According to the notes, cytochromes in the respiratory electron transport chain are structurally characterized as proteins containing heme groups with central iron atoms that undergo reversible oxidation/reduction.\nIncorrect Choices:\n- Option 0 describes lipid-soluble cofactors like coenzyme Q (ubiquinone), which have isoprenoid tails.\n- Option 1 describes copper-sulfur clusters, which are distinct from the heme-containing cytochromes.\n- Option 2 describes flavoproteins (containing flavin rings derived from nucleotides), not cytochromes."
+  },
+  {
+    "section": "8.5",
+    "title": "Cellular Respiration",
+    "t": "mc",
+    "q": "During the Citric Acid Cycle, a two-carbon acetyl group from acetyl-CoA is combined with which starting molecule to form citric acid?",
+    "opts": [
+      "Oxaloacetate",
+      "Pyruvate",
+      "Malate",
+      "Succinate"
+    ],
+    "a": 0,
+    "explanation": "Correct Answer: 'Oxaloacetate' (Option 0). According to the notes, the Citric Acid Cycle begins with the addition of a 2-carbon acetyl group (from acetyl-CoA) to a 4-carbon starting molecule (oxaloacetate) to form a 6-carbon molecule (citric acid).\nIncorrect Choices:\n- 'Pyruvate' is incorrect because it is a 3-carbon molecule produced in glycolysis that is converted to acetyl-CoA in the preparatory reaction, before the cycle begins.\n- 'Malate' and 'Succinate' are incorrect because they are intermediate molecules produced later in the Citric Acid Cycle, not the starting reactant that combines with acetyl-CoA."
+  },
+  {
+    "section": "8.5",
+    "title": "Cellular Respiration",
+    "t": "mc",
+    "q": "In the electron transport chain, how many ATP molecules are typically generated from the electrons delivered by a single molecule of NADH and a single molecule of FADH2, respectively?",
+    "opts": [
+      "3 ATP from NADH and 3 ATP from FADH2",
+      "3 ATP from NADH and 2 ATP from FADH2",
+      "2 ATP from NADH and 3 ATP from FADH2",
+      "1 ATP from NADH and 2 ATP from FADH2"
+    ],
+    "a": 1,
+    "explanation": "Correct Answer: '3 ATP from NADH and 2 ATP from FADH2' (Option 1). According to the notes, in the electron transport chain, electrons from NADH deliver enough energy to pump protons to generate 3 ATP molecules, while those from FADH2 enter later in the chain and generate only 2 ATP molecules.\nIncorrect Choices:\n- Option 0 is incorrect because FADH2 does not yield 3 ATP.\n- Option 2 is incorrect because it reverses the yields (claiming 2 from NADH and 3 from FADH2).\n- Option 3 is incorrect because NADH yields 3 ATP, not 1 ATP."
+  },
+  {
+    "section": "8.5",
+    "title": "Cellular Respiration",
+    "t": "mc",
+    "q": "What is the energy yield and corresponding efficiency of glucose fermentation compared to the complete oxidation of glucose in aerobic respiration?",
+    "opts": [
+      "4 ATP (30.2 kcal) compared to 32 ATP (240 kcal) in aerobic respiration.",
+      "0 ATP (0 kcal) compared to 38 ATP (686 kcal) in aerobic respiration.",
+      "2 ATP (14.6 kcal) compared to 36 or 38 ATP (263 kcal) in aerobic respiration.",
+      "2 ATP (7.3 kcal) compared to 36 ATP (686 kcal) in aerobic respiration."
+    ],
+    "a": 2,
+    "explanation": "Correct Answer: '2 ATP (14.6 kcal) compared to 36 or 38 ATP (263 kcal) in aerobic respiration' (Option 2). According to the notes, fermentation produces only 2 ATP per glucose molecule (yielding 14.6 kcal), whereas complete oxidation in aerobic respiration yields 36 or 38 ATP molecules per glucose molecule (capturing approximately 263 kcal of energy from the 686 kcal total potential energy of glucose).\nIncorrect Choices:\n- Option 0 is incorrect because fermentation yields 2 ATP, not 4 ATP.\n- Option 1 is incorrect because fermentation yields 2 ATP, not 0 ATP.\n- Option 3 is incorrect because the captured energy of aerobic respiration is 263 kcal (36 ATP), whereas 686 kcal is the total free energy of the glucose reactant, not the captured energy."
+  },
+  {
+    "section": "8.5",
+    "title": "Cellular Respiration",
+    "t": "mc",
+    "q": "When amino acids are broken down for energy, what chemical process occurs in the liver to remove the amino group, and what toxic byproduct is generated and subsequently converted to urea?",
+    "opts": [
+      "Decarboxylation; carbon dioxide (CO2)",
+      "Transamination; nitric oxide (NO)",
+      "Phosphboxylation; ammonium hydroxide (NH4OH)",
+      "Deamination; ammonia (NH3)"
+    ],
+    "a": 3,
+    "explanation": "Correct Answer: 'Deamination; ammonia (NH3)' (Option 3). According to the notes, during the breakdown of amino acids for energy, a process called deamination occurs in the liver to remove the amino group (NH2). This results in the production of toxic ammonia (NH3) as a byproduct, which is quickly converted to urea.\nIncorrect Choices:\n- Option 0 is incorrect because decarboxylation removes carboxyl groups and generates carbon dioxide (CO2), not amino groups.\n- Option 1 is incorrect because transamination is the transfer of amino groups to synthesize new amino acids and does not release free ammonia.\n- Option 2 is incorrect because 'phosphboxylation' is a fabricated term and ammonium hydroxide is not the primary byproduct."
+  },
+  {
+    "section": "8.5",
+    "title": "Cellular Respiration",
+    "t": "mc",
+    "q": "In the anabolic pathways of the metabolic pool, how are fats synthesized using intermediates from the respiratory pathways?",
+    "opts": [
+      "Glucose is converted to glycerol, and citric acid is broken down to form fatty acids.",
+      "Pyruvate is converted directly to glycerol, and oxaloacetate is polymerized to form fatty acids.",
+      "NADH is converted to glycerol, and amino acids are combined to form fatty acids.",
+      "G3P is converted to glycerol, and acetyl groups are connected in pairs to form fatty acids."
+    ],
+    "a": 3,
+    "explanation": "Correct Answer: 'G3P is converted to glycerol, and acetyl groups are connected in pairs to form fatty acids' (Option 3). According to the notes, fats are synthesized in anabolic pathways by converting the glycolytic intermediate G3P into glycerol, and connecting 2-carbon acetyl groups (from acetyl-CoA) in pairs to form fatty acid chains.\nIncorrect Choices:\n- Option 0 is incorrect because fatty acids are built by connecting acetyl groups, not by breaking down citric acid.\n- Option 1 is incorrect because glycerol is derived from G3P (not directly from pyruvate), and fatty acids are not formed by polymerizing oxaloacetate.\n- Option 2 is incorrect because NADH is an electron carrier that cannot be converted to glycerol, and fatty acids are built from acetyl groups, not amino acids."
+  },
+  {
+    "section": "8.5",
+    "title": "Cellular Respiration",
+    "t": "sa",
+    "q": "Which of the following statements about the four phases of aerobic cellular respiration are correct? (Select all that apply.)",
+    "opts": [
+      "Glycolysis occurs in the cytoplasm, is anaerobic, and splits glucose into two molecules of pyruvate.",
+      "Substrate-level phosphorylation is the primary method of ATP production in the electron transport chain.",
+      "The preparatory reaction converts both pyruvate molecules into acetyl-CoA within the mitochondrial matrix.",
+      "The citric acid cycle turns twice per glucose molecule, producing a total of 4 CO2, 2 ATP, 6 NADH, and 2 FADH2.",
+      "The electron transport chain is located on the outer mitochondrial membrane in eukaryotic cells."
+    ],
+    "correct": [
+      "Glycolysis occurs in the cytoplasm, is anaerobic, and splits glucose into two molecules of pyruvate.",
+      "The preparatory reaction converts both pyruvate molecules into acetyl-CoA within the mitochondrial matrix.",
+      "The citric acid cycle turns twice per glucose molecule, producing a total of 4 CO2, 2 ATP, 6 NADH, and 2 FADH2."
+    ],
+    "explanation": "Correct Answers: 'Glycolysis occurs in the cytoplasm, is anaerobic, and splits glucose into two molecules of pyruvate.', 'The preparatory reaction converts both pyruvate molecules into acetyl-CoA within the mitochondrial matrix.', and 'The citric acid cycle turns twice per glucose molecule, producing a total of 4 CO2, 2 ATP, 6 NADH, and 2 FADH2.' (Options 0, 2, 3). According to the notes, glycolysis is anaerobic and occurs in the cytoplasm, splitting glucose into two pyruvates. The preparatory reaction converts pyruvate to acetyl-CoA in the mitochondrial matrix. The citric acid cycle occurs in the matrix, turning twice per glucose molecule, and producing 4 CO2, 2 ATP, 6 NADH, and 2 FADH2.\nIncorrect Choices:\n- 'Substrate-level phosphorylation is the primary method of ATP production in the electron transport chain' is incorrect because oxidative phosphorylation (driven by the proton gradient and ATP synthase) is the primary method of ATP production in the ETC.\n- 'The electron transport chain is located on the outer mitochondrial membrane in eukaryotic cells' is incorrect because the ETC is located on the cristae of the inner mitochondrial membrane in eukaryotic cells."
+  },
+  {
+    "section": "8.5",
+    "title": "Cellular Respiration",
+    "t": "sa",
+    "q": "In the absence of oxygen, what occurs during fermentation to allow glycolysis to continue? (Select all that apply.)",
+    "opts": [
+      "NADH transfers its electrons to pyruvate, recycling back to NAD+.",
+      "The citric acid cycle continues to operate at a reduced rate to produce FADH2.",
+      "Yeast cells produce ethyl alcohol, which can eventually become toxic to them.",
+      "Pyruvate is reduced to either lactate or ethyl alcohol and carbon dioxide.",
+      "The electron transport chain uses lactate as a final electron acceptor in place of oxygen."
+    ],
+    "correct": [
+      "Pyruvate is reduced to either lactate or ethyl alcohol and carbon dioxide.",
+      "NADH transfers its electrons to pyruvate, recycling back to NAD+.",
+      "Yeast cells produce ethyl alcohol, which can eventually become toxic to them."
+    ],
+    "explanation": "Correct Answers: 'Pyruvate is reduced to either lactate or ethyl alcohol and carbon dioxide.', 'NADH transfers its electrons to pyruvate, recycling back to NAD+.', and 'Yeast cells produce ethyl alcohol, which can eventually become toxic to them.' (Options 0, 2, 3). According to the notes, in the absence of oxygen, fermentation occurs, reducing pyruvate to either lactate or ethyl alcohol and CO2. During this reduction, NADH transfers its electrons to pyruvate, which recycles it back to NAD+ to allow glycolysis to continue. In yeasts, this process produces ethyl alcohol, which becomes toxic and kills the yeast at high concentrations.\nIncorrect Choices:\n- 'The citric acid cycle continues to operate at a reduced rate to produce FADH2' is incorrect because the citric acid cycle cannot run under anaerobic conditions as NAD+ and FAD are not recycled.\n- 'The electron transport chain uses lactate as a final electron acceptor in place of oxygen' is incorrect because the ETC shuts down completely without oxygen and cannot use lactate."
+  },
+  {
+    "section": "8.6",
+    "title": "Major Ecosystems of the Biosphere",
+    "t": "mc",
+    "q": "What atmospheric phenomenon occurs at approximately 30 degrees north and south latitude, resulting in the creation of the great deserts of the world?",
+    "opts": [
+      "Rising air currents block all solar radiation, leading to extreme cooling and low evaporation rates.",
+      "Cold air from the poles rises rapidly, creating regions of low pressure with high precipitation.",
+      "Warm, moist air from the equator cools and sinks, creating regions of high pressure with very little rainfall.",
+      "Monsoon winds blow continuously offshore, carrying moisture away from the land surfaces."
+    ],
+    "a": 2,
+    "explanation": "Correct Answer: 'Warm, moist air from the equator cools and sinks, creating regions of high pressure with very little rainfall' (Option 2). According to the notes, warm, moist air at the equator rises and loses its moisture as rain. This rising air moves toward the poles, but at approximately 30 degrees north and south latitude, it cools and sinks, creating regions of high pressure with very dry air and little rainfall, which gives rise to the great deserts of the world.\nIncorrect Choices:\n- Option 0 is incorrect because rising air currents at 30 degrees latitude do not block solar radiation to cause cooling and low evaporation.\n- Option 1 is incorrect because it describes rising air at 60 degrees latitude causing low pressure with high precipitation (forest zones), not deserts.\n- Option 3 is incorrect because monsoons blow onshore (bringing rain) and are regional coastal phenomena, not the cause of global desert bands at 30 degrees."
+  },
+  {
+    "section": "8.6",
+    "title": "Major Ecosystems of the Biosphere",
+    "t": "mc",
+    "q": "Why are trees completely absent from the Arctic Tundra biome?",
+    "opts": [
+      "There is a lack of animal life to disperse tree seeds across the landscape.",
+      "The soil is highly acidic with high concentrations of toxic hydrogen sulfide from hydrothermal activity.",
+      "High density of chaparral shrubs suppresses tree saplings through chemical inhibition.",
+      "The growing season is too short, and roots cannot penetrate the permanently frozen permafrost layer or anchor in shallow boggy soil."
+    ],
+    "a": 3,
+    "explanation": "Correct Answer: 'The growing season is too short, and roots cannot penetrate the permanently frozen permafrost layer or anchor in shallow boggy soil' (Option 3). According to the notes, trees are absent from the Arctic Tundra because the growing season is too short, and their roots cannot penetrate the permanently frozen subsoil layer (permafrost) or establish an anchor in the waterlogged, shallow boggy soil.\nIncorrect Choices:\n- Option 0 is incorrect because the absence of trees is due to physical and climatic limitations (permafrost, short season), not a lack of animal seed dispersers.\n- Option 1 is incorrect because tundra soils do not have high concentrations of toxic hydrogen sulfide from hydrothermal vent activity.\n- Option 2 is incorrect because chaparral is a completely different shrubland biome (dry summers/wet winters, like in California) and does not inhabit the Arctic Tundra."
+  },
+  {
+    "section": "8.6",
+    "title": "Major Ecosystems of the Biosphere",
+    "t": "mc",
+    "q": "During summer stratification in temperate lakes, which layer represents the cold, deep bottom zone?",
+    "opts": [
+      "Hypolimnion",
+      "Thermocline",
+      "Profundal",
+      "Epilimnion"
+    ],
+    "a": 0,
+    "explanation": "Correct Answer: 'Hypolimnion' (Option 0). According to the notes, during summer stratification in temperate lakes, the hypolimnion is the cold, deep bottom zone of water.\nIncorrect Choices:\n- 'Epilimnion' is incorrect because it is the warm surface layer of water.\n- 'Thermocline' is incorrect because it is the middle transition zone where temperature changes rapidly with depth.\n- 'Profundal' is incorrect because it is a life zone defined by light penetration (located below the light penetration depth), not a temperature-stratified layer."
+  },
+  {
+    "section": "8.6",
+    "title": "Major Ecosystems of the Biosphere",
+    "t": "mc",
+    "q": "What is the primary chemical energy source that supports the chemoautotrophic organisms living around hydrothermal vents in the abyssal plain?",
+    "opts": [
+      "Nitrous oxide (N2O)",
+      "Hydrogen sulfide (H2S)",
+      "Glucose (C6H12O6)",
+      "Methane (CH4)"
+    ],
+    "a": 1,
+    "explanation": "Correct Answer: 'Hydrogen sulfide (H2S)' (Option 1). According to the notes, at hydrothermal vents in the abyssal plain, seawater reacts with sulfate in cracks in the ocean floor under intense heat to form hydrogen sulfide (H2S). This H2S serves as the primary chemical energy source for chemoautotrophic organisms.\nIncorrect Choices:\n- Option 0 (Nitrous oxide) is a greenhouse gas associated with fertilizer runoff, not deep ocean vents.\n- Option 2 (Glucose) is an organic product of autotrophy, not an inorganic energy source for chemoautotrophy.\n- Option 3 (Methane) is not the primary sulfur-based chemical energy source formed from sulfates at these hydrothermal vents."
+  },
+  {
+    "section": "8.6",
+    "title": "Major Ecosystems of the Biosphere",
+    "t": "mc",
+    "q": "Which of the following describes the chaparral shrubland biome in California?",
+    "opts": [
+      "A tropical shrubland dominated by woody plants and swamps, with soils that never dry out.",
+      "An alpine ecosystem located above the tree line where soils are rich in peat deposits.",
+      "A dense shrubland adapted to dry summers and wet winters, which lacks an understory and ground litter, making it highly flammable.",
+      "A biome with constant rainfall year-round, characterized by a tall canopy of evergreen conifers."
+    ],
+    "a": 2,
+    "explanation": "Correct Answer: 'A dense shrubland adapted to dry summers and wet winters, which lacks an understory and ground litter, making it highly flammable' (Option 2). According to the notes, the chaparral shrubland biome in California occurs along coasts with dry summers and wet winters, where shrubs are adapted to arid conditions. It lacks an understory and ground litter, which makes it highly flammable and prone to wildfires.\nIncorrect Choices:\n- Option 0 describes a tropical wetland or swamp, not chaparral.\n- Option 1 describes an alpine tundra or bog ecosystem, not a coastal shrubland.\n- Option 3 describes a temperate rainforest or coniferous forest biome with high year-round rainfall."
+  },
+  {
+    "section": "8.6",
+    "title": "Major Ecosystems of the Biosphere",
+    "t": "mc",
+    "q": "Which ocean current is responsible for carrying cold water northward along the western coast of South America, and what happens to it during an El Niño Southern Oscillation event?",
+    "opts": [
+      "The Humboldt Current; the cold upwelling along the coast subsides.",
+      "The Gulf Stream; the current reverses direction and warms the poles.",
+      "The trade winds; they shift clockwise in the Southern Hemisphere.",
+      "The doldrums current; it generates high-velocity onshore monsoon winds."
+    ],
+    "a": 0,
+    "explanation": "Correct Answer: 'The Humboldt Current; the cold upwelling along the coast subsides' (Option 0). According to the notes, the Humboldt Current carries cold water northward along the western coast of South America. During an El Niño Southern Oscillation (ENSO) event, this cold upwelling off the coast subsides as trade winds weaken.\nIncorrect Choices:\n- Option 1 is incorrect because the Gulf Stream is a warm current in the Northern Hemisphere (warming North America and Europe), not South America.\n- Option 2 is incorrect because trade winds are winds, not ocean currents, and they do not shift clockwise in the Southern Hemisphere during ENSO.\n- Option 3 is incorrect because the doldrums are regions of calm winds near the equator, not a current carrying cold water, and they do not generate high-velocity monsoons."
+  },
+  {
+    "section": "8.6",
+    "title": "Major Ecosystems of the Biosphere",
+    "t": "sa",
+    "q": "Which of the following correctly pair a type of wetland with its defining ecological characteristics? (Select all that apply.)",
+    "opts": [
+      "Marshes – frequently or continually inundated by water, dominated by herbaceous vegetation.",
+      "Swamps – wetlands dominated by woody plants, trees, or shrubs.",
+      "Bogs – characterized by acidic waters, peat deposits, and sphagnum moss.",
+      "Oligotrophic pools – hyper-saline wetlands that form rain shadows.",
+      "Estuaries – brackish wetlands dominated by dense coniferous taiga forests."
+    ],
+    "correct": [
+      "Marshes – frequently or continually inundated by water, dominated by herbaceous vegetation.",
+      "Swamps – wetlands dominated by woody plants, trees, or shrubs.",
+      "Bogs – characterized by acidic waters, peat deposits, and sphagnum moss."
+    ],
+    "explanation": "Correct Answers: 'Marshes – frequently or continually inundated by water, dominated by herbaceous vegetation.', 'Swamps – wetlands dominated by woody plants, trees, or shrubs.', and 'Bogs – characterized by acidic waters, peat deposits, and sphagnum moss.' (Options 0, 1, 2). According to the notes, marshes are wetlands frequently or continually flooded and dominated by herbaceous vegetation. Swamps are wetlands dominated by woody plants or shrubs. Bogs are characterized by acidic waters, peat deposits, and sphagnum moss.\nIncorrect Choices:\n- 'Oligotrophic pools – hyper-saline wetlands that form rain shadows' is incorrect because 'oligotrophic' refers to nutrient-poor lakes, not saline pools, and rain shadows are topographic windward/leeward mountain features.\n- 'Estuaries – brackish wetlands dominated by dense coniferous taiga forests' is incorrect because estuaries are coastal regions where fresh water and salt water mix; they are not dominated by coniferous taiga forests (which are terrestrial subarctic biomes)."
+  },
+  {
+    "section": "8.6",
+    "title": "Major Ecosystems of the Biosphere",
+    "t": "sa",
+    "q": "Which of the following life zones in lakes are correctly defined? (Select all that apply.)",
+    "opts": [
+      "Profundal zone – the deep, open water zone located below the depth of light penetration.",
+      "Epilimnion zone – the transition zone of rapid temperature change.",
+      "Limnetic zone – the open, sunlit surface waters away from the shore.",
+      "Littoral zone – the area closest to the shore where aquatic plants can grow.",
+      "Benthic zone – the soil-water interface at the very bottom of the lake."
+    ],
+    "correct": [
+      "Littoral zone – the area closest to the shore where aquatic plants can grow.",
+      "Limnetic zone – the open, sunlit surface waters away from the shore.",
+      "Profundal zone – the deep, open water zone located below the depth of light penetration.",
+      "Benthic zone – the soil-water interface at the very bottom of the lake."
+    ],
+    "explanation": "Correct Answers: 'Littoral zone – the area closest to the shore where aquatic plants can grow.', 'Limnetic zone – the open, sunlit surface waters away from the shore.', 'Profundal zone – the deep, open water zone located below the depth of light penetration.', and 'Benthic zone – the soil-water interface at the very bottom of the lake.' (Options 0, 2, 3, 4). According to the notes, the littoral zone is closest to the shore where plants can grow. The limnetic zone is the sunlit area of open surface water away from the shore. The profundal zone is located below light penetration. The benthic zone is the soil-water interface at the bottom.\nIncorrect Choice:\n- 'Epilimnion zone – the transition zone of rapid temperature change' is incorrect because the epilimnion is the warm surface layer of a lake, whereas the transition zone of rapid temperature change is the thermocline."
+  },
+  {
+    "section": "8.7",
+    "title": "Conservation of Biodiversity",
+    "t": "mc",
+    "q": "How is the blood of the horseshoe crab (Limulus) utilized as a direct economic and medicinal value of biodiversity?",
+    "opts": [
+      "It is synthesized into a powerful chemotherapeutic drug to treat pediatric leukemia.",
+      "It serves as the primary organic source for mass-producing penicillin.",
+      "It is injected into patients to treat chronic cardiovascular blockages.",
+      "It is used to ensure that medical devices remain free of bacterial contamination."
+    ],
+    "a": 3,
+    "explanation": "Correct Answer: 'It is used to ensure that medical devices remain free of bacterial contamination' (Option 3). According to the notes, the blood of the horseshoe crab (Limulus) is harvested to produce Limulus Amebocyte Lysate (LAL), which clots in the presence of bacterial endotoxins and is used in medicine to test and ensure that medical devices, injectables, and vaccines are free of bacterial contamination.\nIncorrect Choices:\n- Option 0 is incorrect because the drug used to treat leukemia is derived from the Rosy Periwinkle, not the horseshoe crab.\n- Option 1 is incorrect because penicillin is produced by the Penicillium fungus, not horseshoe crabs.\n- Option 2 is incorrect because horseshoe crab blood is not injected into patients to treat cardiovascular blockages."
+  },
+  {
+    "section": "8.7",
+    "title": "Conservation of Biodiversity",
+    "t": "mc",
+    "q": "What ecological consequence occurred in the aquatic food web when the opossum shrimp was introduced to serve as a food source for salmon?",
+    "opts": [
+      "The shrimp overpopulated and consumed all the benthic detritus, causing eutrophication.",
+      "The shrimp competed with salmon for zooplankton, resulting in a decline in salmon populations and their predators.",
+      "The shrimp acted as a vector for a viral disease that decimated both salmon and trout.",
+      "The salmon shifted to feeding exclusively on the shrimp, leading to an overabundance of zooplankton."
+    ],
+    "a": 1,
+    "explanation": "Correct Answer: 'The shrimp competed with salmon for zooplankton, resulting in a decline in salmon populations and their predators' (Option 1). According to the notes, the introduction of the opossum shrimp as a food source for salmon backfired because the shrimp competed directly with the salmon for zooplankton, resulting in a decline in salmon populations and the other organisms (like eagles and bears) that fed on them.\nIncorrect Choices:\n- Option 0 is incorrect because the shrimp did not cause eutrophication by consuming benthic detritus.\n- Option 2 is incorrect because the decline was caused by food resource competition, not a viral disease.\n- Option 3 is incorrect because the introduction did not result in an overabundance of zooplankton; it severely depleted zooplankton."
+  },
+  {
+    "section": "8.7",
+    "title": "Conservation of Biodiversity",
+    "t": "mc",
+    "q": "According to the statistics in the text, which threat is the leading cause of species extinction, affecting approximately 85% of species?",
+    "opts": [
+      "Overexploitation",
+      "Habitat loss",
+      "Pollution",
+      "Exotic species"
+    ],
+    "a": 1,
+    "explanation": "Correct Answer: 'Habitat loss' (Option 1). According to the statistics in the notes, habitat loss is the leading cause of species extinction, affecting approximately 85% of endangered species.\nIncorrect Choices:\n- 'Exotic species' is the second leading cause, affecting 50% of species.\n- 'Pollution' is the third leading cause, affecting 24% of species.\n- 'Overexploitation' affects 17% of species."
+  },
+  {
+    "section": "8.7",
+    "title": "Conservation of Biodiversity",
+    "t": "mc",
+    "q": "What is the difference between a flagship species and a keystone species in conservation biology?",
+    "opts": [
+      "A flagship species is a migratory bird used to map international borders, while a keystone species is always a top mammalian carnivore.",
+      "A flagship species is a charismatic organism that evokes a strong emotional response in humans, whereas a keystone species is one that strongly influences the viability of the entire community.",
+      "A flagship species is the first pioneer species to colonize an area, whereas a keystone species is a decomposer.",
+      "A flagship species is an exotic species introduced by humans, while a keystone species is native and endangered."
+    ],
+    "a": 1,
+    "explanation": "Correct Answer: 'A flagship species is a charismatic organism that evokes a strong emotional response in humans, whereas a keystone species is one that strongly influences the viability of the entire community' (Option 1). According to the notes, a flagship species (referred to as a flagstone species in the text) is a charismatic species that evokes a strong emotional response in humans, helping raise environmental awareness and funding. A keystone species is one that strongly influences the viability of the entire community, and whose extinction can lead to secondary extinctions.\nIncorrect Choices:\n- Option 0 is incorrect because flagship species are not used to map international borders, nor are keystone species always top mammalian carnivores.\n- Option 2 is incorrect because flagship species are not pioneer species, and keystone species are not necessarily decomposers.\n- Option 3 is incorrect because flagship species are not exotic species introduced by humans."
+  },
+  {
+    "section": "8.7",
+    "title": "Conservation of Biodiversity",
+    "t": "mc",
+    "q": "In landscape conservation, how does the edge effect influence a patch of habitat when it undergoes fragmentation?",
+    "opts": [
+      "The edge effect increases the overall biodiversity by creating a buffer zone that mimics a tropical rainforest.",
+      "Fragmentation creates smaller patches, which increases the proportion of the habitat subject to the edge effect and reduces the amount of typical interior habitat.",
+      "A larger patch size increases the edge-to-interior ratio, enhancing the reproductive success of interior species.",
+      "The edge of a patch becomes completely barren, preventing any species from crossing between fragments."
+    ],
+    "a": 1,
+    "explanation": "Correct Answer: 'Fragmentation creates smaller patches, which increases the proportion of the habitat subject to the edge effect and reduces the amount of typical interior habitat' (Option 1). According to the notes, the edge around a habitat patch has conditions different from the patch interior. Creating smaller patches through fragmentation increases the proportion of individuals subject to the edge effect and reduces the amount of typical interior habitat.\nIncorrect Choices:\n- Option 0 is incorrect because the edge effect typically reduces typical interior biodiversity and does not mimic a tropical rainforest.\n- Option 2 is incorrect because larger patch sizes decrease, not increase, the edge-to-interior ratio.\n- Option 3 is incorrect because the edge does not become completely barren or block all movement, though it alters conditions."
+  },
+  {
+    "section": "8.7",
+    "title": "Conservation of Biodiversity",
+    "t": "mc",
+    "q": "Which of the following is one of the three core principles of restoration ecology?",
+    "opts": [
+      "Postpone restoration projects until the ecosystem has completely collapsed to ensure a clean slate.",
+      "Focus exclusively on restoring flagship species while ignoring community-level interactions.",
+      "Introduce exotic competitor species immediately to accelerate ecological succession.",
+      "Use biological techniques to mimic natural processes once the natural history is understood."
+    ],
+    "a": 3,
+    "explanation": "Correct Answer: 'Use biological techniques to mimic natural processes once the natural history is understood' (Option 3). According to the notes, one of the three core principles of restoration ecology is to use biological techniques to mimic natural processes once the natural history of the ecosystem is understood.\nIncorrect Choices:\n- Option 0 contradicts the principle to 'begin as soon as possible before remaining fragments are lost.'\n- Option 1 is incorrect because restoration ecology focuses on restoring the entire ecosystem, not just flagship species.\n- Option 2 is incorrect because introducing exotic competitors is highly detrimental and is not a restoration principle."
+  },
+  {
+    "section": "8.7",
+    "title": "Conservation of Biodiversity",
+    "t": "sa",
+    "q": "Which of the following are classified as indirect values of biodiversity based on the services ecosystems provide? (Select all that apply.)",
+    "opts": [
+      "Decomposers recycling waste organic material back into inorganic nutrients.",
+      "Forests soaking up excess water to reduce flooding and prevent soil erosion.",
+      "Biogeochemical cycles that regulate water, carbon, nitrogen, and phosphorus.",
+      "The harvesting of wild marine fish and shellfish for human food consumption.",
+      "Extracting active compounds from the Rosy Periwinkle to treat leukemia."
+    ],
+    "correct": [
+      "Biogeochemical cycles that regulate water, carbon, nitrogen, and phosphorus.",
+      "Decomposers recycling waste organic material back into inorganic nutrients.",
+      "Forests soaking up excess water to reduce flooding and prevent soil erosion."
+    ],
+    "explanation": "Correct Answers: 'Biogeochemical cycles that regulate water, carbon, nitrogen, and phosphorus.', 'Decomposers recycling waste organic material back into inorganic nutrients.', and 'Forests soaking up excess water to reduce flooding and prevent soil erosion.' (Options 0, 1, 2). According to the notes, indirect values of biodiversity are services provided by ecosystems simply by their existence without direct consumption. These include waste recycling by decomposers, climate regulation, biogeochemical cycling of elements, and water absorption by forests that prevents erosion and flooding.\nIncorrect Choices:\n- 'The harvesting of wild marine fish and shellfish for human food consumption' is incorrect because harvesting wild fish is a direct consumptive use value.\n- 'Extracting active compounds from the Rosy Periwinkle to treat leukemia' is incorrect because extracting compounds for drugs is a direct medicinal value."
+  },
+  {
+    "section": "8.7",
+    "title": "Conservation of Biodiversity",
+    "t": "sa",
+    "q": "Which of the following examples of exotic species and their impacts are mentioned in the text? (Select all that apply.)",
+    "opts": [
+      "Mongooses introduced to Hawaii to control rat populations, which instead began preying on native birds.",
+      "Opossum shrimp introduced to compete with salmon for algae in freshwater lakes.",
+      "Japanese Kudzu vines introduced to the Southern United States to stop erosion, which subsequently overtook native plants.",
+      "Zebra mussels introduced to the Great Lakes, causing widespread clog of water pipelines.",
+      "Cane toads introduced to Australia to control beetles, which poisoned native predators."
+    ],
+    "correct": [
+      "Japanese Kudzu vines introduced to the Southern United States to stop erosion, which subsequently overtook native plants.",
+      "Mongooses introduced to Hawaii to control rat populations, which instead began preying on native birds."
+    ],
+    "explanation": "Correct Answers: 'Japanese Kudzu vines introduced to the Southern United States to stop erosion, which subsequently overtook native plants.' and 'Mongooses introduced to Hawaii to control rat populations, which instead began preying on native birds.' (Options 0, 2). According to the notes, Japanese Kudzu vines were introduced to the Southern US to stop erosion but overtook native plants, and the mongoose was introduced to Hawaii to control rats but preyed on native birds instead.\nIncorrect Choices:\n- 'Opossum shrimp introduced to compete with salmon for algae in freshwater lakes' is incorrect because the notes state that opossum shrimp competed with salmon for zooplankton (not algae).\n- 'Zebra mussels introduced to the Great Lakes, causing widespread clog of water pipelines' and 'Cane toads introduced to Australia to control beetles, which poisoned native predators' are incorrect because, although they are famous invasive species, they are not mentioned in this specific notes text."
+  }
+]

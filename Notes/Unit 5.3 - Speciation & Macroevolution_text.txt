@@ -1,0 +1,72 @@
+--- Page 1 ---
+UNIT 5: MECHANISMS & PATTERNS OF EVOLUTION5.3 –SPECIATION & MACROEVOLUTIONBiology 9        Mr. QueenanCh. 18.3 (pg. 592-595) & Ch. 20.2 (pg. 652-658)
+
+--- Page 2 ---
+5.3 –Opening Question¨Examine the tortoises from Lesson 1 to the left.¨With a partner, determine what evidence could be used to make the case for each of the tortoises below to be grouped into their own unique species. How could a scientist verify each species as unique?
+
+
+--- Page 3 ---
+•How New Species Evolve•Modes of Speciation•Principles of Macroevolution
+What exactly is a species?
+
+--- Page 4 ---
+How New Species Evolve¨Macroevolutionis best observed within the fossil record.¤Shows evolution on a large scale¨Involves speciation.¤Splitting of one species into 2 or more new species¤Macroevolution is the result of accumulation of microevolutions that result in formation of new species¨Every species has its own evolutionary history¤Species concept –Refers to the different ways in which a species is defined¤Taxonomistsanalyze and define species
+
+--- Page 5 ---
+How New Species Evolve¨Morphological Species Concept¤Based on analysis of diagnostic traitsdistinguishing one species from another.¤Can be distinguished anatomically¤Method used by Linnaeus¤Most species are described this way¨Drawbacks¤Some species, like different bacteria, have no observable, morphological traits to analyze¤Cryptic species –some species look so similar, it is difficult to identify them as distinct species. 
+
+
+--- Page 6 ---
+How New Species Evolve¨Evolutionary Species Concept¤The evolutionary species concept distinguishes species from one another based on morphological (structural) traits¤Critical traits for distinguishing species are called diagnostic traits¤Members of a species must share the same, distinct, evolutionary pathway
+
+
+--- Page 7 ---
+How New Species Evolve¨Phylogenetic Species Concept¤Relies on the identification of species based on common ancestry¤Evolutionary “family tree”, or phylogenetic tree used¤A branch that contains all descendants of a common ancestor is known as monophyletic–criterion used for defining a species¤Advantage is it relies on DNA sequence, and not morphological traits
+
+
+--- Page 8 ---
+How New Species Evolve¨Biological Species Concept¤Populations of the same species breed only among themselves¤Experience reproductive isolation from other such populations¤Often cannot be tested, because very few species in nature overlap in their distribution to even observe reproductive isolation
+
+--- Page 9 ---
+How New Species Evolve¨Reproductive isolating mechanisms inhibit gene flow between species -Two general types:¨Prezygotic Isolating Mechanisms –prevent mating attempts or make it unlikely that fertilization will be successful¤Habitat Isolation -species occupy different habitats¤Temporal Isolation -each reproduces at a different time¤Behavioral Isolation -courtship patterns for recognizing mates¤Mechanical Isolation -incompatible animal genitalia or plant floral structures¤Gamete Isolation -gametes that meet do not fuse to become a zygote
+
+--- Page 10 ---
+How New Species Evolve
+Example of temporal isolation –Frogs from Ithica, New York above, have breeding period peaks that differ between species. 
+
+--- Page 11 ---
+How New Species Evolve¨Reproductive Isolating Mechanisms (cont.)¨Postzygotic Isolating Mechanisms-Prevent hybrid offspring from developing or breeding¤Hybrid Inviability-hybrid zygote is not viable and dies¤Hybrid Sterility -hybrid zygote develops into a sterile adult
+
+
+--- Page 12 ---
+Modes of Speciation¨Researchers recognize 2 modes of speciation¤One requires populations to be physically isolated from one another, and the other does not. ¨Allopatric Speciation¤Two geographically isolated populations of one species become different species over time¤Can be due to differing selection pressures in differing environments¤Reinforcement occurs when two populations come back together and not longer reproduce because they no longer recognize each other as mates due to changes 
+
+
+--- Page 13 ---
+Modes of Speciation¨Sympatric Speciation¤One population develops into two or more reproductively isolated groups -No prior geographic isolation¤In plants, sympatric speciation often involves polyploidy(more than the diploid [2n] number)¤A polyploid plant can reproduce with itself, but cannot reproduce with the 2n population because not all the chromosomes would be able to pair during meiosis.nTwo types of polyploidy are known:nAutoploidy -diploid plant produces diploid gametes due to nondisjunction during meiosis.nIf diploid gamete fuses with a haploid gamete, a triploid plant results.nA triploid (3n) plant is sterile and cannot produce offspringnAlloploidy -more complicated process than autoploidynRequires two different but related species of plantsnHybridization is followed by doubling of the chromosomes.
+
+--- Page 14 ---
+Modes of Speciation¨Adaptive Radiation¤Occurs when members of a species invade several new geographically separate environments¤The populations become adapted to the different environments¤Many new species evolve from the single ancestral speciesnDarwin’s finches are an example
+
+
+--- Page 15 ---
+Modes of Speciation¨Convergent Evolution¤Occurs when a similar biological trait evolves in two unrelated species as a result of exposure to similar environments.¤Traits evolving in this manner are termed analogous traits.¤Similar function, but different originnbird wing vs. bat wingnChichlidsin 2 African lakesnMore closely related to species in own lake than morphological similar from other lake
+
+
+--- Page 16 ---
+Principles of Macroevolution¨Macroevolution¤Evolution at the species or higher level of classification¤Some evolutionists support a gradualisticmodelnEvolution at the species level occurs graduallynSpeciation occurs after populations become isolatednEach group continues its own evolutionary pathwaynThe gradualisticmodel suggests that it is difficult to indicate when speciation occurred¤Some paleontologists support the punctuated equilibrium modelnSpecies can appear quite suddenlynSpecies then remain essentially unchanged phenotypically during a period of stasis (sameness) until they undergo extinction.nThis model states that periods of equilibrium are punctuated by speciation
+
+--- Page 17 ---
+Principles of Macroevolution
+
+
+--- Page 18 ---
+Principles of Macroevolution¨Developmental Genes and Macroevolution¤Genes can bring about radical changes in body shapes and organs.¤Gene expression can influence developmentnA change in gene expression could stop a developmental process or continue it beyond its normal time.nUsing modern technology, researchers discovered genes whose differential expression can bring about changes in body shapes and organs.nPax6in eye developmentnTbx5in limb developmentnHoxgenes in development of overall shape
+
+
+--- Page 19 ---
+Principles of Macroevolution¨Macroevolution is not goal-oriented¤The evolution of the horse (Equus)nStudied since the 1870snModel for gradual, straight-line evolution with the modern-horse as its goalnThree trends were particularly evident during the evolution of the horse:nIncrease in overall sizenToe reductionnChange in tooth size and shape¤Discovery of more fossils has led to recognition that:nThe lineage of a horse is complicated by the presence of many ancestors with varied traitsnThe direct ancestor of Equus is not knownnEach ancestral species was adapted to its environmentnSpeciation, diversification, and extinction are common occurrences in the fossil record
+
+--- Page 20 ---
+Principles of Macroevolution¨Macroevolution is not goal-oriented¤The evolution of the horse (Equus)
+

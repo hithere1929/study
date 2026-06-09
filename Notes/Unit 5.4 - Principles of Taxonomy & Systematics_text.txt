@@ -1,0 +1,51 @@
+--- Page 1 ---
+UNIT 5: MECHANISMS & PATTERNS OF EVOLUTION5.4 –PRINCIPLES OF TAXONOMY & SYSTEMATICSBiology 9        Mr. QueenanCh. 18.4 (pg. 596-599) & Ch. 19.1-19.2 (pg. 612-618)
+
+--- Page 2 ---
+Systemics Biology¨Taxonomyis the branch of biology concerned with identifying, naming, and classifying organisms.¤A natural system of classification reflects the evolutionary history of organisms. ¤Naming and identifying organisms began with the Greeks and Romans. nAristotle classified organisms into groups such as horses, birds, and oaks ¤In the Middle Ages, organisms were described using Latin names
+
+--- Page 3 ---
+Systemics Biology¨In the mid-eighteenth century, Carolus Linnaeus developed the system of binomial nomenclature ¤First word is the genus name ¤Second word is the specific epithet nRefers to one species (of potentially many) within its genus ¤A species is referred to by the full binomial name (Genus species) ¤Genus name can be used alone to refer to a group of related species
+
+
+--- Page 4 ---
+Systemics Biology¨Who determines the scientific name? How are they derived?¤Really up to the person who discovers a species that has not been previously named –Latin used because it was considered universal nAlligator mississippiensisnAmerican Alligator, named for locationnStrigophilusgarylarsoniinOwl mite, named after cartoonist Gary Larson¨Modern taxonomists use the following classification: ¤Species ¤Genus–one or more species ¤Family–one or more genera ¤Order–one or more families ¤Class–one or more orders ¤Phylum–one or more classes ¤Kingdom–one or more phyla ¤Domain–one or more kingdoms
+
+--- Page 5 ---
+Systemics Biology
+
+
+--- Page 6 ---
+Systemics Biology¨The higher the category, the more inclusive ¨Organisms in the same domain have general characteristics in common ¨Members of a species share very specific characteristics. ¨The task of creating standardized rules of nomenclature is difficult and has, most recently, been aided by the process of DNA barcoding ¤Compares short fragments of DNA sequences from an unknown organism to a large database of sequences from known organisms.¨Traditionally, taxonomists relied on anatomical data ¤Consortium for the Barcode of Life (CBOL), proposes that all scientists will be able to identify a species with the flick of a handheld scanner.nLike the 11-digit Universal Product Code (UPC) used in a supermarket, DNA is the UPC of organisms on Earth nA DNA–bar-coding device would provide a fast and inexpensive way to catalog organisms.
+
+--- Page 7 ---
+The Three Domain System¨Up until 20thcentury, only 2 kingdoms –Plantae or Animalia¤By 1969, 5 kingdoms considered to encompass all life¤Sequencing of rRNA suggests that all organisms evolved along three distinct lineages, nSo different they needed to be categorized in a level broader than kingdom¨Domain Bacteria ¤Prokaryotic unicellular organisms that reproduce asexually. ¤Cyanobacteria are large photosynthetic prokaryotes. ¤Most bacteria are heterotrophic (break down organic remains) ¤Important in ecosystems -keeping chemical cycling going. ¤Some bacteria are parasitic and cause disease. 
+
+--- Page 8 ---
+The Three Domain System¨Domain Archaea ¤Prokaryotic unicellular organisms that reproduce asexually. ¤Live in extreme environments. ¤Cell wall is diverse but not the same as the bacterial cell wall.¨Domain Eukarya ¤Unicellular and multicellular organisms ¤Cells with a membrane-bounded nucleus ¤Sexual reproduction is common ¤Contains four kingdoms nKingdom Protista nKingdom Fungi nKingdom Plantae nKingdom Animalia
+
+
+--- Page 9 ---
+Phylogeny¨Systematicsis the study of diversity of organisms using information from cellular to population levels ¨One goal of systematics is to determine phylogeny(evolutionary history) of a group ¨Phylogeny is often represented as a phylogenetic tree ¤A diagram indicating lines of descent ¤Each branching point: nIs a divergence from a common ancestor nRepresents an organism that gives rise to two or more new groups¨Classification lists the unique characters of each taxon and is intended to reflect phylogeny ¤Ancestral traits: nPresent in all members of a group, and nPresent in the common ancestor ¤Derived traits: nPresent in some members of a group, but absent in the common ancestor
+
+--- Page 10 ---
+Phylogeny
+
+
+--- Page 11 ---
+Phylogeny¨Cladisticsis a way to analyze primitive and derived characters and by the construction of phylogenetic trees called a cladogramon the basis of shared derived characters. ¤Arrange taxa into a cladogram ¨A cladogram is a special type of phylogenetic tree ¤Aclade is an evolutionary branch that includes: nA common ancestor, together with all its descendent species ¤It traces the evolutionary history of the group being studied.¨Cladistsare guided by the principle of parsimony—the minimum number of assumptions is most logical.¤The best cladogram is one in which the fewest number of shared derived characters are left unexplained or that minimizes the number of assumed evolutionary changes. ¨Reliability of cladograms is dependent on the knowledge and skill of an investigator
+
+--- Page 12 ---
+Phylogeny
+
+
+--- Page 13 ---
+Phylogeny¨Tracing Phylogeny ¤Fossil TraitsnFossil record is incomplete nIt is often difficult to determine the phylogeny of a fossil ¤Homology nRefers to features that stem from a common ancestor nHomologous structures are related to each other through common descent ¤Analogy nSimilarity due to convergent evolution nAnalogous structureshave the same function in different groups but do not have a common ancestry nStructures look similar due to adaptation to similar environments
+
+--- Page 14 ---
+Phylogeny¨Tracing Phylogeny ¤Behavioral Traits nParental care, mating calls, etc. ¤Molecular Traits nSystematics assumes: nTwo species with similar base-pair sequences are assumed to be closely related nTwo species with differing base-pair sequences are assumed to be only distantly related
+
+
+--- Page 15 ---
+Phylogeny¨Tracing Phylogeny ¤Protein Comparisons nImmunological techniquesnDegree of cross reaction used to judge relationship nAmino acid sequencing nSimilar sequence in the same protein indicates a close relationship ¤Molecular Clock nUse neutral (non-adaptive) nucleotide sequences nAssumes a constant rate of mutation over time
+

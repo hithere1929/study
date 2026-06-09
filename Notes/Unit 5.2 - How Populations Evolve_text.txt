@@ -1,0 +1,100 @@
+--- Page 1 ---
+UNIT 5: MECHANISMS & PATTERNS OF EVOLUTION5.2 –HOW POPULATIONS EVOLVEBiology 9        Mr. QueenanCh. 18.2 (pg. 585-591)
+
+--- Page 2 ---
+5.2 –Opening Question¨Identify differences that can be observed in the hares below.¨Which of these differences could be an evolutionary advantage, and which could be a disadvantage?
+
+
+--- Page 3 ---
+5.2 –Opening Question¨Fur color is biggest observable difference. ¨Selection pressures will ultimately determine whether a trait is an evolutionary advantage or disadvantage…
+
+
+--- Page 4 ---
+How Populations Evolve
+
+
+--- Page 5 ---
+Genes, Populations, & Evolution¨A populationis all the members of a single species occupying a particular area at the same time.¨Diversity exists among members of a population.¨Population genetics is the study of this diversity in terms of allele differences.¤Evaluates the diversity of a population by studying genotype and phenotype frequencies over time¨In the 1930s, population geneticists began to describe variations in a population in terms of alleles¨Microevolution pertains to evolutionary changes within a population.¤Various alleles at all the gene loci in all individuals make up the gene pool of the population.¤The gene pool of a population can be described in terms of:nGenotype frequenciesnAllele frequencies
+
+
+--- Page 6 ---
+Genes, Populations, & Evolution¨Allele Frequencies¤The proportion of each allele within a population’s gene pool.¤Frequencies of the dominant and recessive allele must add up to 1.nThis relationship is described by the expression p + q = 1nGenotype frequencies follow the equation p2+ 2pq + q2np is the frequency of one allele and q is the frequency of the other¤Microevolution involves a change in these allele frequencies within populations over time.¤If the gene frequencies do not change over time, microevolution has not occurred.
+
+--- Page 7 ---
+Genes, Populations, & Evolution
+Population of moths outside London –25 moths collected for 3 seasons and allele frequency remained the same (p=0.2, q=0.8).  Since alleles same -no evolution
+
+--- Page 8 ---
+Genes, Populations, & Evolution¨A population where alleles do not change over time is said to be in genetic equilibrium, or Hardy-Weinberg Equilibrium¨Hardy-Weinberg Equilibrium states that allele frequencies in a population will remain constant assuming all the following occur:nNo Mutations nNo Migration (Gene Flow)nRandom Mating nNo Genetic DriftnNo Selection¨Although possible in theory, HWE can NEVER be achieved in wild populations because all 5 conditions can never be met
+
+--- Page 9 ---
+Genes, Populations, & Evolution¨Hardy-Weinberg Equilibrium:¤Required conditions are rarely (if ever) met¤Deviations from a Hardy-Weinberg equilibrium indicate that evolution has taken place¤Analysis of allele changes in populations over time determines the extent to which evolution has occurred.
+
+
+--- Page 10 ---
+Genes, Populations, & Evolution
+
+
+--- Page 11 ---
+Genes, Populations, & Evolution¨Causes of Microevolution¨Genetic mutations¤The raw material for evolutionary change¤Provide new alleles¤Some mutations might be more adaptive than othersnEx: Genetic mutations affecting pigment color in peppered moths have provided the variation needed for natural selection to occur¤Although inherited mutations are rare, they are the driver of evolution
+
+--- Page 12 ---
+Genes, Populations, & Evolution¨Causes of Microevolution¨Gene Flow (gene migration)¤Movement of alleles between populations when:nGametes or seeds (in plants) are carried into another populationnBreeding individuals migrate into or out of population¤Continual gene flow reduces genetic divergence between populationsnPopulations become more similar over time¤When no migration, populations become more divergent over time
+
+
+--- Page 13 ---
+Genes, Populations, & Evolution¨Causes of Microevolution¨Genetic Drift¤Changes in the allele frequencies of a population due to chance rather than selection by the environment¤Does not necessarily lead to adaptation to the environment¤Occurs by disproportionate random sampling from populationnCan cause the gene pools of two isolated populations to become dissimilarnSome alleles are lost and others become fixed (unopposed)¤Likely to occur:nAfter a bottlenecknWhen severe inbreeding occurs, ornWhen founders start a new population¤Stronger effect in small populations
+
+
+--- Page 14 ---
+Genes, Populations, & Evolution¨Bottleneck Effect¤A random event prevents a majority of individuals from entering the next generation¤The next generation is composed of alleles that just happened to make it¨Founder Effect¤When a new population is started from just a few individuals¤The alleles carried by population founders are dictated by chance¤Formerly rare alleles will either:nOccur at a higher frequency in the new population, ornBe absent in new population
+
+--- Page 15 ---
+Genes, Populations, & Evolution
+
+
+--- Page 16 ---
+Genes, Populations, & Evolution¨Causes of Microevolution¨Nonrandom Mating¤When individuals do not choose mates randomly¤Assortative mating:nIndividuals select mates with the same phenotype with respect to a certain characteristicnIndividuals reject mates with differing phenotypenEx. Mating for desired features such as body size, feather length, coat color¨Natural selection is the last criteria, and how it works within populations will be discussed in detail
+
+--- Page 17 ---
+Natural SelectionProcesses of Evolution¤Most traits are polygenic -variations in the trait result in a bell-shaped curve (From Unit 4)¤Three types of selection occur:¤Directional SelectionnThe curve shifts in one direction¤Stabilizing SelectionnThe peak of the curve increases and tails decrease¤Disruptive SelectionnThe curve has twopeaks
+
+
+--- Page 18 ---
+Natural Selection¤Directional SelectionnThe curve shifts in one directionnBacteria become resistant to antibioticsnIncreasing body size in horse evolution
+
+
+--- Page 19 ---
+Natural Selection¤Stabilizing SelectionnThe peak of the curve increases and tails decreasenHuman babies with low or high birth weight are less likely to survive
+
+
+--- Page 20 ---
+Natural Selection¤Disruptive SelectionnThe curve has two peaksnBritish land snails vary because a wide geographic range causes selection to vary
+
+
+--- Page 21 ---
+Natural Selection¤Sexual selection-adaptive changes in males and females lead to an increased ability to secure a mate.nMale Competition -increased ability to compete with other males for a matenMales can father many offspring because they continuously produce sperm in great quantity.nCompete to inseminate as many females as possible.nDominance Hierarchies in some groups limit access to femalesnFemale Choice -choose to select a male with the best fitness (ability to produce surviving offspring).nChoice of a mate is a serious consideration because females produce few eggsnGood genes hypothesis: Females choose mates on the basis of traits that improve the chance of survival.nRunaway hypothesis: Females choose mates on the basis of traits that improve male appearance.
+
+--- Page 22 ---
+Natural Selection¤Male Competition -DimorphismnThere is a phenotypic difference between males and females of a populationsnMale baboons larger than femalenMale birds with flamboyant coloration (peacock vs peahen)
+
+
+--- Page 23 ---
+Natural Selection¤Male Competition -TerritorialitynDominant males use different methods to communicate to others that the territory, and its females belong to that dominant membernVocalizationnDisplays of dominance
+
+
+--- Page 24 ---
+Natural Selection¤Competition -HumansnA study of sexual selection among humans shows that female choice and male competition apply to humans toonWomen must invest more in having a child than men.nMen need only contribute spermnGenerally more available for mating than are women.nMore available men results in competitionnMen also have a choicenPrefer women who are most likely to present them with children.
+
+--- Page 25 ---
+Maintenance of Diversity¨Adaptation of a population to the biotic and abiotic environment requires:nVariation -The members of a population differ from one anothernInheritance -Many differences are heritable genetic differencesnDifferential Adaptiveness -Some differences affect survivabilitynDifferential Reproduction –Some differences affect the likelihood of successful reproduction¤Results in:nA change in allele frequencies of the gene poolnImproved fitness of the populationnMajor cause of microevolution
+
+--- Page 26 ---
+Maintenance of Diversity¤Genetic VariabilitynPopulations with limited variation may not be able to adapt to new conditionsnMaintenance of variability is advantageous to the populationnOnly exposed alleles are subject to natural selection¤Natural selection causes imperfect adaptationsnDepends on evolutionary historynImperfections are common because of necessary compromisesnThe environment plays a role in maintaining diversitynDisruptive selection due to environmental differences promotes polymorphisms in a populationnIf a population occupies a wide range, it may have several subpopulations designated as subspeciesnThe environment includes selecting agents that help maintain diversity
+
+--- Page 27 ---
+Maintenance of Diversity¤Recessive alleles:nHeterozygotes shelter recessive alleles from selectionnHeterozygotes allow even lethal alleles to remain in the population at low frequencies virtually forevernSometimes recessive alleles confer an advantage to heterozygotesnThe sickle-cell anemia allele is detrimental in homozygotenHowever, heterozygotes are more likely to survive malarianThe sickle-cell allele occurs at a higher frequency in malaria prone areasnHeterozygote AdvantagenAssists the maintenance of genetic, and therefore phenotypic, variations in future generations.nIn sickle cell disease heterozygous individuals don’t die from sickle-cell disease, and they don’t die from malaria.
+
+--- Page 28 ---
+Maintenance of Diversity
+

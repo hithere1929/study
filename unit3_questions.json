@@ -1,0 +1,575 @@
+[
+  {
+    "section": "3.1",
+    "title": "Cell Biology",
+    "t": "mc",
+    "q": "Which of the following scientists was the first to observe living cells, specifically noting microorganisms like the algae Spirogyra and Vorticella under the microscope, and referring to them as 'animalcules'?",
+    "a": 2,
+    "opts": [
+      "Robert Hooke",
+      "Rudolf Virchow",
+      "Anton van Leeuwenhoek",
+      "Theodor Schwann"
+    ],
+    "explanation": "Correct Answer: Anton van Leeuwenhoek. Leeuwenhoek was the first to observe living cells under a microscope, specifically noting microorganisms like the algae Spirogyra and Vorticella, which he called 'animalcules' (now known as protists).\n\nIncorrect Options:\n- Robert Hooke: He observed thin slices of non-living cork cells and coined the term 'cells' because they reminded him of the cubicles (cells) where monks lived.\n- Rudolf Virchow: He contributed to the cell theory by concluding that cells come only from the reproduction of existing cells.\n- Theodor Schwann: He was a zoologist who concluded that all animals are composed of cells."
+  },
+  {
+    "section": "3.1",
+    "title": "Cell Biology",
+    "t": "mc",
+    "q": "When a cell grows, how do its volume and surface area change relative to each other, and what is the consequence of this relationship on cell size?",
+    "a": 1,
+    "opts": [
+      "The surface area increases faster than the volume, which creates a transport bottleneck that forces cells to remain microscopic.",
+      "The volume increases much faster than the surface area, limiting cell size to ensure adequate exchange of nutrients and waste.",
+      "The volume and surface area increase at identical rates, meaning cell size is restricted only by the density of the nuclear matrix.",
+      "The surface area increases while the volume remains constant, which allows cells to expand without affecting metabolic rate."
+    ],
+    "explanation": "Correct Answer: The volume increases much faster than the surface area, limiting cell size to ensure adequate exchange of nutrients and waste. As a cell grows, its volume increases as a cubic function (r^3) while its surface area increases as a quadratic function (r^2). This creates a transport bottleneck because the surface area becomes insufficient to handle the metabolic import of nutrients and export of waste required by the larger volume. Therefore, cell size is kept microscopic.\n\nIncorrect Options:\n- The surface area increasing faster than volume is mathematically incorrect for three-dimensional spheres or cubes.\n- The volume and surface area do not increase at identical rates.\n- The surface area cannot increase while the volume remains constant during normal cell growth."
+  },
+  {
+    "section": "3.1",
+    "title": "Cell Biology",
+    "t": "mc",
+    "q": "What is the specific composition and function of the cytosol as described in the notes?",
+    "a": 2,
+    "opts": [
+      "It is the membrane-bound control center containing DNA, composed of approximately 50% protein and 50% lipids.",
+      "It is the structural protein skeleton of the cell that maintains nuclear shape and coordinates ribosome movement.",
+      "It is the part of the cytoplasm including molecules and ribosomes, composed of approximately 20% protein.",
+      "It is the outer membrane boundary that acts as a physical barrier, consisting of about 10% cytosol fluid."
+    ],
+    "explanation": "Correct Answer: It is the part of the cytoplasm including molecules and ribosomes, composed of approximately 20% protein. The notes distinguish the cytoplasm (the region within the plasma membrane excluding the nucleus) from the cytosol, which is the fluid/gel-like part containing molecules and small particles like ribosomes, and is comprised of about 20% protein.\n\nIncorrect Options:\n- The membrane-bound control center containing DNA is the nucleus, not the cytosol.\n- The structural protein skeleton that maintains nuclear shape is the nuclear matrix.\n- The outer membrane boundary that acts as a physical barrier is the plasma membrane, which is not composed of 10% cytosol fluid."
+  },
+  {
+    "section": "3.1",
+    "title": "Cell Biology",
+    "t": "mc",
+    "q": "Which protein structure is specifically responsible for maintaining the shape of the cell's control center (nucleus)?",
+    "a": 1,
+    "opts": [
+      "Microtubule network",
+      "Nuclear matrix",
+      "Cytoplasmic skeleton",
+      "Nucleoid barrier"
+    ],
+    "explanation": "Correct Answer: Nuclear matrix. Eukaryotic cells contain a protein skeleton known as the nuclear matrix specifically located inside the nucleus (the control center) to maintain its shape.\n\nIncorrect Options:\n- Microtubule network: Part of the cytoplasmic cytoskeleton, involved in organelle and chromosome movement.\n- Cytoplasmic skeleton: The cytoskeleton that supports overall cell shape and transport, not nuclear shape.\n- Nucleoid barrier: A distractor, as prokaryotic nucleoids do not have membranes or a nuclear matrix."
+  },
+  {
+    "section": "3.1",
+    "title": "Cell Biology",
+    "t": "mc",
+    "q": "In prokaryotic cells, where is the genetic material concentrated, and how does the evolutionary relationship of Archaea compare to Bacteria?",
+    "a": 0,
+    "opts": [
+      "The DNA is concentrated in a nucleoid; Archaea are evolutionary closer to eukaryotes than Bacteria are.",
+      "The DNA is concentrated in a membrane-bound nucleus; Archaea are closer to first cellular life than Bacteria are.",
+      "The DNA is concentrated in a nuclear matrix; Bacteria are evolutionary closer to eukaryotes than Archaea are.",
+      "The DNA is concentrated in a cytosol; both Bacteria and Archaea evolved directly from eukaryotic cells."
+    ],
+    "explanation": "Correct Answer: The DNA is concentrated in a nucleoid; Archaea are evolutionary closer to eukaryotes than Bacteria are. Prokaryotes lack a membrane-bound nucleus, and their DNA is concentrated in a region called the nucleoid. Evolutionarily, prokaryotes are divided into Bacteria (similar to the first cellular life forms) and Archaea (which are more closely related to eukaryotic cells).\n\nIncorrect Options:\n- Prokaryotic DNA is not located in a membrane-bound nucleus or a nuclear matrix, and Bacteria are not closer to eukaryotes than Archaea are.\n- Prokaryotic DNA is in the nucleoid, and Bacteria did not evolve from eukaryotes."
+  },
+  {
+    "section": "3.1",
+    "title": "Cell Biology",
+    "t": "sa",
+    "q": "According to the cell theory summarized from the 16th to 19th centuries, which of the following statements are correct? (Select all that apply)",
+    "correct": [
+      "All living organisms are composed of one or more cells.",
+      "Cells are the basic units of structure and function in an organism.",
+      "Cells come only from the reproduction of existing cells."
+    ],
+    "opts": [
+      "All living organisms are composed of one or more cells.",
+      "Cells are the basic units of structure and function in an organism.",
+      "Cells can arise spontaneously from non-living matter under optimal conditions.",
+      "Cells come only from the reproduction of existing cells.",
+      "All cells must possess a membrane-bound nucleus to perform chemical reactions."
+    ],
+    "explanation": "Correct Answers:\n- All living organisms are composed of one or more cells: This is the first postulate of the cell theory.\n- Cells are the basic units of structure and function in an organism: This is the second postulate of the cell theory.\n- Cells come only from the reproduction of existing cells: This is the third postulate, showing life does not arise spontaneously.\n\nIncorrect Options:\n- 'Cells can arise spontaneously from non-living matter...': The cell theory disproved spontaneous generation; cells only come from pre-existing cells.\n- 'All cells must possess a membrane-bound nucleus...': Incorrect because prokaryotes (bacteria and archaea) carry out all necessary life reactions without a nucleus."
+  },
+  {
+    "section": "3.1",
+    "title": "Cell Biology",
+    "t": "sa",
+    "q": "Which of the following characteristics are clarified by microscopy as basic characteristics shared by all living things? (Select all that apply)",
+    "correct": [
+      "Separate their constant internal environment from the changing external environment",
+      "Consist of organized parts and share a common history",
+      "Obtain energy from surroundings and perform chemical reactions",
+      "Change with time, respond to the environment, and reproduce"
+    ],
+    "opts": [
+      "Separate their constant internal environment from the changing external environment",
+      "Consist of organized parts and share a common history",
+      "Obtain energy from surroundings and perform chemical reactions",
+      "Possess specialized cells organized into tissues, organs, and organ systems",
+      "Change with time, respond to the environment, and reproduce"
+    ],
+    "explanation": "Correct Answers:\n- Separate their constant internal environment from the changing external environment: All cells have a plasma membrane maintaining homeostasis.\n- Consist of organized parts and share a common history: All life is organized and evolutionarily related.\n- Obtain energy from surroundings and perform chemical reactions: Metabolism is universal.\n- Change with time, respond to the environment, and reproduce: Growth, responsiveness, and reproduction define life.\n\nIncorrect Option:\n- 'Possess specialized cells organized into tissues, organs, and organ systems': This is incorrect because unicellular organisms (like bacteria and protists) are living things but consist of only a single, unspecialized cell and completely lack tissues, organs, or organ systems."
+  },
+  {
+    "section": "3.2",
+    "title": "Organelles",
+    "t": "mc",
+    "q": "What component is present between the phospholipid tails in the plasma membrane, and what is its function?",
+    "a": 0,
+    "opts": [
+      "Cholesterol, which maintains structural firmness, prevents freezing at low temperatures, and preserves membrane fluidity.",
+      "Integral proteins, which form pores and actively transport large ions through the hydrophobic core.",
+      "Peripheral proteins, which bind to chemical messengers like hormones and initiate intracellular signals.",
+      "Glycoprotein receptors, which act as cell-surface labels and allow cells to stick to the extracellular matrix."
+    ],
+    "explanation": "Correct Answer: Cholesterol, which maintains structural firmness, prevents freezing at low temperatures, and preserves membrane fluidity. Sterols, specifically cholesterol in animal membranes, fit between the hydrophobic fatty acid tails of phospholipids to stabilize the membrane structure, prevent crystallization (freezing) in cold temperatures, and regulate fluidity.\n\nIncorrect Options:\n- Integral proteins span the membrane to form transport channels or receptors, but they do not reside between the lipid tails to regulate membrane fluidity.\n- Peripheral proteins lie on only one side of the membrane and do not pass into the hydrophobic core.\n- Glycoprotein receptors face the external environment to act as cell-surface identifiers and adhesion molecules, not inside the tail region."
+  },
+  {
+    "section": "3.2",
+    "title": "Organelles",
+    "t": "mc",
+    "q": "How do ribosomes become attached to the endoplasmic reticulum (ER) to form the rough ER?",
+    "a": 1,
+    "opts": [
+      "Free ribosomes within the nucleolus are permanently bound to the lipid membrane before being transported out into the cytosol.",
+      "A signal peptide on the synthesizing protein is recognized by a signal recognition particle, which carries the ribosome to the ER.",
+      "Enzymes in the cisternae glycosylate the ribosomal subunits, causing them to bind covalently to the outer phospholipid bilayer.",
+      "The nuclear matrix forces ribosomes through the nuclear pores, depositing them directly onto the surface of the adjacent smooth ER."
+    ],
+    "explanation": "Correct Answer: A signal peptide on the synthesizing protein is recognized by a signal recognition particle, which carries the ribosome to the ER. When a ribosome begins translating a protein with an ER targeting signal, the signal peptide is bound by a signal recognition particle (SRP). The SRP halts translation and docks the ribosome to the ER membrane, where translation resumes and the protein is co-translationally translocated.\n\nIncorrect Options:\n- Ribosome assembly begins in the nucleolus but is completed in the cytoplasm; ribosomes are not permanently bound to ER membranes in the nucleolus.\n- Ribosome binding is not covalent and is not driven by ribosomal subunit glycosylation (glycosylation occurs inside the ER on the synthesized proteins).\n- The nuclear matrix is internal to the nucleus and does not force ribosomes onto smooth ER (smooth ER lacks ribosomes entirely)."
+  },
+  {
+    "section": "3.2",
+    "title": "Organelles",
+    "t": "mc",
+    "q": "Which of the following processes is a function of lysosomes in animal cells, as detailed in the notes?",
+    "a": 2,
+    "opts": [
+      "Synthesizing sterols like cholesterol and releasing Ca2+ in muscle cells.",
+      "Neutralizing free radicals and producing hydrogen peroxide to kill bacteria.",
+      "Breaking down glycogen in the liver to release glucose into the bloodstream.",
+      "Converting stored fats in developing plant embryos into usable carbohydrates."
+    ],
+    "explanation": "Correct Answer: Breaking down glycogen in the liver to release glucose into the bloodstream. Lysosomes contain hydrolytic digestive enzymes that break down large molecules, including glycogen in liver cells to release glucose. They also digest damaged organelles (autophagy) and destroy dying cells (autolysis).\n\nIncorrect Options:\n- Synthesizing cholesterol and releasing Ca2+ in muscle cells is a function of the smooth ER.\n- Neutralizing free radicals and producing hydrogen peroxide is a function of peroxisomes.\n- Converting stored fats in seeds into carbohydrates is a function of glyoxysomes."
+  },
+  {
+    "section": "3.2",
+    "title": "Organelles",
+    "t": "mc",
+    "q": "What is the primary role of glyoxysomes, and where are they typically found?",
+    "a": 0,
+    "opts": [
+      "They are specialized peroxisomes found in seeds that break down stored fats to provide energy for the developing embryo.",
+      "They are digestive vesicles in liver cells that break down glycogen to maintain constant blood glucose levels.",
+      "They are protein-rich organelles in muscles that release calcium ions to initiate sarcomere contraction.",
+      "They are pigment-containing plastids in flower petals that attract pollinators by synthesizing carotenoids."
+    ],
+    "explanation": "Correct Answer: They are specialized peroxisomes found in seeds that break down stored fats to provide energy for the developing embryo. Glyoxysomes contain enzymes that initiate the conversion of fatty acids into carbohydrates (the glyoxylate cycle) to sustain plant seedlings before they can perform photosynthesis.\n\nIncorrect Options:\n- Liver lysosomes break down glycogen to maintain blood glucose.\n- The smooth ER (sarcoplasmic reticulum) in muscles stores and releases calcium ions.\n- Chromoplasts are plastids in flower petals that store pigments."
+  },
+  {
+    "section": "3.2",
+    "title": "Organelles",
+    "t": "mc",
+    "q": "Which cytoskeletal component is a rod made of coiled protein fibers, anchors the nucleus and other organelles, and is produced in high quantities by hair follicles?",
+    "a": 2,
+    "opts": [
+      "Microtubules",
+      "Actin filaments",
+      "Intermediate filaments",
+      "Basal bodies"
+    ],
+    "explanation": "Correct Answer: Intermediate filaments. Intermediate filaments are coiled, cable-like protein fibers (e.g., keratin) that anchor the nucleus and other organelles, maintain the shape of the nuclear envelope, and are produced in high amounts by hair follicles.\n\nIncorrect Options:\n- Microtubules: Hollow tubes composed of tubulin that maintain cell shape and act as tracks for organelle movement.\n- Actin filaments: Thin threads of actin involved in cell crawling, pinching during cytokinesis, and muscle contraction.\n- Basal bodies: Microtubule-organizing structures located at the base of cilia and flagella."
+  },
+  {
+    "section": "3.2",
+    "title": "Organelles",
+    "t": "mc",
+    "q": "How and where is the primary cell wall of plant cells synthesized and its growth direction determined?",
+    "a": 1,
+    "opts": [
+      "Cellulose is synthesized in the Golgi apparatus and transported via vesicles along microtubules to establish a random growth path.",
+      "Cellulose is synthesized directly on the plasma membrane surface by enzymes guided by microtubules, which orient growth in one direction.",
+      "Cellulose is synthesized in the smooth ER and secreted through nuclear pores, which allows expansion in all directions simultaneously.",
+      "Cellulose is synthesized by ribosomes in the nucleoplasm and deposited outside the membrane by motor proteins moving along actin filaments."
+    ],
+    "explanation": "Correct Answer: Cellulose is synthesized directly on the plasma membrane surface by enzymes guided by microtubules, which orient growth in one direction. Enzymes embedded in the plasma membrane synthesize cellulose chains and deposit them extracellularly. Microtubules underneath the membrane guide the path of these enzymes, orienting the cellulose fibers and dictating the direction in which the primary cell wall expands.\n\nIncorrect Options:\n- While non-cellulose cell wall components are synthesized in the Golgi and transported via vesicles, cellulose is synthesized directly at the membrane.\n- Cellulose is not synthesized in the smooth ER, nor does it pass through nuclear pores.\n- Cellulose is a carbohydrate (polysaccharide) synthesized by membrane enzymes, not a protein synthesized by nucleoplasmic ribosomes."
+  },
+  {
+    "section": "3.2",
+    "title": "Organelles",
+    "t": "mc",
+    "q": "All plastids in a plant cell arise from a common precursor called the proplastid. Which of the following correctly pairs a plastid with its function?",
+    "a": 3,
+    "opts": [
+      "Amyloplasts: colorless plastids that perform fatty acid synthesis and amino acid synthesis.",
+      "Chromoplasts: green plastids containing thylakoid systems that capture light energy for glucose synthesis.",
+      "Leucoplasts: colorless plastids that store starch granules made of polymerized glucose.",
+      "Leucoplasts: colorless plastids that perform fatty acid and amino acid synthesis."
+    ],
+    "explanation": "Correct Answer: Leucoplasts: colorless plastids that perform fatty acid and amino acid synthesis. According to the notes, leucoplasts are colorless plastids that carry out biosynthetic functions, specifically the synthesis of fatty acids and amino acids.\n\nIncorrect Options:\n- Amyloplasts store starch granules (polymerized glucose); they do not perform fatty acid/amino acid synthesis.\n- Chloroplasts (not chromoplasts) are the green, thylakoid-containing plastids that perform photosynthesis.\n- Amyloplasts, not leucoplasts, are specifically defined as starch-storing plastids."
+  },
+  {
+    "section": "3.2",
+    "title": "Organelles",
+    "t": "sa",
+    "q": "Which of the following functions or characteristics are correctly associated with the smooth endoplasmic reticulum (ER)? (Select all that apply)",
+    "correct": [
+      "Builds lipids such as cholesterol",
+      "Synthesizes steroid hormones like estrogen and testosterone",
+      "Releases calcium ions (Ca2+) in muscle cells to stimulate contraction",
+      "Detoxifies drugs and poisons in the liver and kidneys"
+    ],
+    "opts": [
+      "Builds lipids such as cholesterol",
+      "Produces digestive enzymes that accumulate in vesicles",
+      "Synthesizes steroid hormones like estrogen and testosterone",
+      "Releases calcium ions (Ca2+) in muscle cells to stimulate contraction",
+      "Detoxifies drugs and poisons in the liver and kidneys"
+    ],
+    "explanation": "Correct Answers:\n- Builds lipids such as cholesterol: Smooth ER is the site of lipid synthesis.\n- Synthesizes steroid hormones like estrogen and testosterone: Steroid hormones are derived from cholesterol in the smooth ER.\n- Releases calcium ions (Ca2+) in muscle cells to stimulate contraction: In muscle cells, the specialized smooth ER (sarcoplasmic reticulum) stores and releases Ca2+.\n- Detoxifies drugs and poisons in the liver and kidneys: Enzymes in the smooth ER convert toxins into water-soluble substances.\n\nIncorrect Option:\n- 'Produces digestive enzymes that accumulate in vesicles': This is a function of the rough ER, which is covered in ribosomes that synthesize proteins like digestive enzymes."
+  },
+  {
+    "section": "3.2",
+    "title": "Organelles",
+    "t": "sa",
+    "q": "Which of the following structures are bounded by a double layer of membrane and contain their own DNA, supporting the Endosymbiotic Theory? (Select all that apply)",
+    "correct": [
+      "Mitochondria",
+      "Chloroplasts"
+    ],
+    "opts": [
+      "Mitochondria",
+      "Golgi apparatus",
+      "Chloroplasts",
+      "Lysosomes",
+      "Peroxisomes"
+    ],
+    "explanation": "Correct Answers: Mitochondria and Chloroplasts. Both mitochondria and chloroplasts (a type of plant plastid) possess a double membrane and contain their own circular DNA, reflecting their prokaryotic origins under the Endosymbiotic Theory.\n\nIncorrect Options:\n- Golgi apparatus, Lysosomes, and Peroxisomes are single-membrane-bound organelles and do not contain DNA."
+  },
+  {
+    "section": "3.3",
+    "title": "Chromosomes",
+    "t": "mc",
+    "q": "What is the primary function of histone proteins in eukaryotic chromosomes, and how does the packaging of DNA change between cell divisions?",
+    "a": 1,
+    "opts": [
+      "Histones catalyze DNA replication, and DNA remains tightly packed as chromosomes throughout the cell cycle.",
+      "Histones maintain chromosome shape and assist in packaging; DNA uncoils into chromatin between cell divisions for transcription.",
+      "Histones regulate gene expression at the nuclear envelope, and DNA remains as chromatin during cell division.",
+      "Histones attach chromatids to spindle fibers, and DNA replicates continuously to form circular loops between divisions."
+    ],
+    "explanation": "Correct Answer: Histones maintain chromosome shape and assist in packaging; DNA uncoils into chromatin between cell divisions for transcription. Eukaryotic DNA wraps around histone proteins to condense into chromosomes. Between cell divisions, the DNA uncoils into chromatin to allow accessibility for transcription and translation enzymes.\n\nIncorrect Options:\n- Histones do not catalyze DNA replication (enzymes like DNA polymerase do), and DNA does not remain tightly packed throughout the entire cell cycle.\n- Histones do not regulate gene expression at the nuclear envelope, and DNA condenses (rather than remains as chromatin) during cell division.\n- Histones do not attach chromatids to spindle fibers (kinetochores do), and eukaryotic chromosomes are linear, not circular loops."
+  },
+  {
+    "section": "3.3",
+    "title": "Chromosomes",
+    "t": "mc",
+    "q": "Which of the following statements about chromatids and centromeres is correct?",
+    "a": 0,
+    "opts": [
+      "Chromatids form as DNA replicates before cell division, and they are held together by the centromere until they separate.",
+      "Chromatids are homologous chromosome pairs that are joined at the centromere until nuclear division occurs.",
+      "Chromatids are circular DNA structures in prokaryotes that are anchored to the centromere on the plasma membrane.",
+      "Chromatids represent the histone-depleted regions of chromosomes that attach to centromeres to initiate transcription."
+    ],
+    "explanation": "Correct Answer: Chromatids form as DNA replicates before cell division, and they are held together by the centromere until they separate. DNA replication in the S phase produces two identical sister chromatids for each chromosome. These remain joined at the centromere until they are separated during anaphase of mitosis.\n\nIncorrect Options:\n- Chromatids are identical copies of a single replicated chromosome, not homologous chromosome pairs (which are maternal and paternal copies).\n- Chromatids are linear eukaryotic structures; prokaryotes have circular DNA, no histones, and no centromeres.\n- Chromatids are fully wrapped around histones, not histone-depleted, and the centromere binds spindle fibers rather than initiating transcription."
+  },
+  {
+    "section": "3.3",
+    "title": "Chromosomes",
+    "t": "mc",
+    "q": "How many total chromosomes, sex chromosomes, and autosomes does a normal human diploid cell possess?",
+    "a": 0,
+    "opts": [
+      "46 total chromosomes: 2 sex chromosomes and 44 autosomes.",
+      "46 total chromosomes: 22 homologous autosomes and 24 sex chromosomes.",
+      "23 total chromosomes: 1 sex chromosome and 22 autosomes.",
+      "48 total chromosomes: 4 sex chromosomes and 44 autosomes."
+    ],
+    "explanation": "Correct Answer: 46 total chromosomes: 2 sex chromosomes and 44 autosomes. A normal human diploid somatic cell has 46 chromosomes, consisting of 2 sex chromosomes (XX in females, XY in males) and 44 autosomes (22 homologous pairs).\n\nIncorrect Options:\n- Somatic cells have 44 autosomes, not 22 homologous autosomes mixed with 24 sex chromosomes.\n- 23 total chromosomes (1 sex chromosome, 22 autosomes) describes a haploid human reproductive cell (gamete).\n- 48 total chromosomes is abnormal in humans."
+  },
+  {
+    "section": "3.3",
+    "title": "Chromosomes",
+    "t": "mc",
+    "q": "What is a karyotype, and what does a normal human karyotype display?",
+    "a": 1,
+    "opts": [
+      "A diagram of active RNA transcription; it shows 46 single-stranded messenger RNA molecules translocating from a ribosome.",
+      "A photomicrograph of chromosomes in a dividing cell; it shows 22 homologous pairs of autosomes and 2 sex chromosomes.",
+      "A chemical assay of the nuclear matrix; it shows the quantitative ratio of histone proteins to nucleoid DNA sequences.",
+      "A microscopic view of circular plasmids; it shows the specific sequence of prokaryotic genes located in the cytosol."
+    ],
+    "explanation": "Correct Answer: A photomicrograph of chromosomes in a dividing cell; it shows 22 homologous pairs of autosomes and 2 sex chromosomes. A karyotype is a visual image of chromosomes taken from a dividing cell (usually metaphase) showing the 46 chromosomes organized by homologous pairs.\n\nIncorrect Options:\n- A karyotype is a photographic image of chromosomes, not a diagram of active RNA transcription or a chemical assay of the nuclear matrix.\n- Karyotypes show eukaryotic chromosomes, not circular prokaryotic plasmids."
+  },
+  {
+    "section": "3.3",
+    "title": "Chromosomes",
+    "t": "mc",
+    "q": "How do prokaryotic chromosomes differ structurally from eukaryotic chromosomes according to the notes?",
+    "a": 1,
+    "opts": [
+      "They are linear molecules wrapped around histone proteins and located within a double-membrane nucleoplasm.",
+      "They consist of a single, circular chromosome attached to the inside of the cell membrane in the nucleoid region.",
+      "They consist of multiple chromatin fibers that remain condensed throughout the entire cell life cycle.",
+      "They are composed of double-stranded RNA plasmids that float freely in the cytosol without any protein association."
+    ],
+    "explanation": "Correct Answer: They consist of a single, circular chromosome attached to the inside of the cell membrane in the nucleoid region. Prokaryotes have a simple chromosome structure consisting of a single circular DNA molecule that lacks histone proteins and is attached to the cell membrane.\n\nIncorrect Options:\n- Eukaryotic chromosomes are linear molecules wrapped around histones inside a double-membrane nucleus.\n- Eukaryotes have multiple chromatin fibers that condense during division, not prokaryotes.\n- Prokaryotic chromosomes are double-stranded DNA, not RNA."
+  },
+  {
+    "section": "3.3",
+    "title": "Chromosomes",
+    "t": "sa",
+    "q": "Which of the following statements correctly distinguish haploid and diploid cells in humans? (Select all that apply)",
+    "correct": [
+      "Diploid cells (2n) contain two sets of chromosomes, which includes 2 autosomes for each homologous pair and 2 sex chromosomes.",
+      "Haploid cells (1n) contain only one set of chromosomes, representing half the number found in diploid cells.",
+      "Human reproductive cells (sperm and egg) are haploid, having 22 autosomes and 1 sex chromosome.",
+      "A human diploid cell has a chromosome number of 46, while a haploid cell has 23."
+    ],
+    "opts": [
+      "Diploid cells (2n) contain two sets of chromosomes, which includes 2 autosomes for each homologous pair and 2 sex chromosomes.",
+      "Haploid cells (1n) contain only one set of chromosomes, representing half the number found in diploid cells.",
+      "Human reproductive cells (sperm and egg) are haploid, having 22 autosomes and 1 sex chromosome.",
+      "A human diploid cell has a chromosome number of 46, while a haploid cell has 23.",
+      "All somatic cells are haploid and contain only maternal chromosomes."
+    ],
+    "explanation": "Correct Answers:\n- Diploid cells (2n) contain two sets of chromosomes, which includes 2 autosomes for each homologous pair and 2 sex chromosomes.\n- Haploid cells (1n) contain only one set of chromosomes, representing half the number found in diploid cells.\n- Human reproductive cells (sperm and egg) are haploid, having 22 autosomes and 1 sex chromosome.\n- A human diploid cell has a chromosome number of 46, while a haploid cell has 23.\n\nIncorrect Option:\n- 'All somatic cells are haploid and contain only maternal chromosomes': Somatic cells are diploid (2n) and contain both maternal and paternal homologous chromosome copies."
+  },
+  {
+    "section": "3.3",
+    "title": "Chromosomes",
+    "t": "sa",
+    "q": "Which of the following characteristics describe homologous chromosomes? (Select all that apply)",
+    "correct": [
+      "They are the same size and shape.",
+      "They carry the same genes for the same traits.",
+      "One copy of each homologue is received from each parent in sexually reproducing organisms."
+    ],
+    "opts": [
+      "They are the same size and shape.",
+      "They are physically joined at the centromere throughout the entire cell cycle.",
+      "They carry the same genes for the same traits.",
+      "One copy of each homologue is received from each parent in sexually reproducing organisms.",
+      "They are identical sister chromatids produced during DNA replication."
+    ],
+    "explanation": "Correct Answers:\n- They are the same size and shape.\n- They carry the same genes for the same traits (at the same loci).\n- One copy of each homologue is received from each parent in sexually reproducing organisms.\n\nIncorrect Options:\n- 'They are physically joined at the centromere throughout the entire cell cycle': Homologous chromosomes are separate chromosomes and are never joined at the centromere; only sister chromatids of a single chromosome are joined at the centromere.\n- 'They are identical sister chromatids produced during DNA replication': Homologous chromosomes carry the same genes but have different parental alleles, making them genetically similar but not identical copies like sister chromatids."
+  },
+  {
+    "section": "3.4",
+    "title": "The Cell Cycle",
+    "t": "mc",
+    "q": "During prophase of mitosis, what are the two types of spindle fibers that make up the mitotic spindle, and how do their attachment sites differ?",
+    "a": 0,
+    "opts": [
+      "Kinetochore fibers attach to a disc-shaped protein in the centromere, whereas polar fibers extend between centrosomes without attaching to chromosomes.",
+      "Polar fibers bind to the histones of the sister chromatids, while kinetochore fibers connect the nuclear envelope directly to the centrioles.",
+      "Mitotic fibers anchor to the cell wall in plant cells, whereas chromatin fibers attach exclusively to the centrioles in animal cells.",
+      "Centrosomal fibers attach to the nucleolus during nuclear envelope breakdown, while cytoplasmic fibers bind to the cell plate midline."
+    ],
+    "explanation": "Correct Answer: Kinetochore fibers attach to a disc-shaped protein in the centromere, whereas polar fibers extend between centrosomes without attaching to chromosomes. During mitosis, kinetochore fibers bind to the kinetochore (protein disk in the centromere) to pull sister chromatids apart, while polar fibers extend across the cell to push the spindle poles apart.\n\nIncorrect Options:\n- Polar fibers do not bind to histones, and kinetochores do not connect the nuclear envelope to centrioles.\n- Spindle fibers do not anchor to the cell wall, and chromatin does not attach to centrioles.\n- The nucleolus breaks down during prophase and is not an attachment site."
+  },
+  {
+    "section": "3.4",
+    "title": "The Cell Cycle",
+    "t": "mc",
+    "q": "Which phase of mitosis is characterized by chromosomes being most easily visible, making it the stage from which karyotypes are typically taken?",
+    "a": 1,
+    "opts": [
+      "Prophase",
+      "Metaphase",
+      "Anaphase",
+      "Telophase"
+    ],
+    "explanation": "Correct Answer: Metaphase. During metaphase, chromosomes are at their maximum condensation and are aligned at the equator (metaphase plate) of the cell. This makes them highly visible and distinct under a microscope, which is ideal for preparing a karyotype.\n\nIncorrect Options:\n- Prophase: Chromosomes are still condensing, and the nuclear envelope is still breaking down.\n- Anaphase: Chromatids have separated and are moving to opposite poles.\n- Telophase: Chromosomes have reached the poles and are uncoiling back into chromatin."
+  },
+  {
+    "section": "3.4",
+    "title": "The Cell Cycle",
+    "t": "mc",
+    "q": "What cellular structures and mechanisms are responsible for carrying out cytokinesis in animal cells versus plant cells?",
+    "a": 1,
+    "opts": [
+      "In animal cells, Golgi-derived vesicles fuse to form a rigid cell plate; in plant cells, actin filaments contract to form a cleavage furrow.",
+      "In animal cells, microfilaments pinch the cell at the cleavage furrow; in plant cells, Golgi vesicles fuse at the midline to form a cell plate.",
+      "In animal cells, polar fibers constrict the nuclear matrix; in plant cells, the secondary cell wall expands outwards until it splits the cytosol.",
+      "In animal cells, centrioles migrate to the center to divide the cytoplasm; in plant cells, spindle fibers synthesize cellulose at the periphery."
+    ],
+    "explanation": "Correct Answer: In animal cells, microfilaments pinch the cell at the cleavage furrow; in plant cells, Golgi vesicles fuse at the midline to form a cell plate. Animal cells lack cell walls and divide their cytoplasm via a contractile ring of actin microfilaments that pinches the membrane inward (cleavage furrow). Plant cells have rigid cell walls, preventing pinching; instead, Golgi-derived vesicles carrying cell wall materials fuse at the cell's center to build a cell plate, which matures into a new cell wall.\n\nIncorrect Options:\n- The mechanisms for animal and plant cells are reversed in the option starting with 'In animal cells, Golgi-derived vesicles...'.\n- Polar fibers and the nuclear matrix do not constrict the cell.\n- Centrioles organize microtubules and do not migrate to divide the cytoplasm, and spindle fibers do not synthesize cellulose."
+  },
+  {
+    "section": "3.4",
+    "title": "The Cell Cycle",
+    "t": "mc",
+    "q": "Which checkpoint of the cell cycle is responsible for having DNA repair enzymes check the results of DNA replication before mitosis begins?",
+    "a": 2,
+    "opts": [
+      "G1 (Cell growth) checkpoint",
+      "S (Synthesis) checkpoint",
+      "G2 (DNA synthesis) checkpoint",
+      "M (Mitosis) checkpoint"
+    ],
+    "explanation": "Correct Answer: G2 (DNA synthesis) checkpoint. At the G2 checkpoint (occurring after the S phase and before mitosis), DNA repair enzymes check the newly replicated DNA. If the DNA is undamaged, the cell is allowed to enter mitosis (M phase); if damaged, the cycle halts for repair.\n\nIncorrect Options:\n- G1 (Cell growth) checkpoint: Checks cell size, health, and nutrients before DNA replication begins.\n- S (Synthesis) checkpoint: This is not one of the three primary cell cycle checkpoints (G1, G2, M) that regulates entrance into mitosis.\n- M (Mitosis) checkpoint: Occurs during mitosis to ensure chromosomes are properly attached to spindle fibers before division."
+  },
+  {
+    "section": "3.4",
+    "title": "The Cell Cycle",
+    "t": "mc",
+    "q": "What occurs to the chromosome state of a cell during the S phase of interphase?",
+    "a": 1,
+    "opts": [
+      "The DNA is uncoiled into chromatin, and the chromosome number is halved to prepare for gamete fusion.",
+      "The DNA is replicated, forming sister chromatids and transiently making the cell's chromosome state 4n.",
+      "The DNA is condensed into chromosomes, which immediately align along the metaphase plate.",
+      "The DNA is transcribed into messenger RNA, leaving the chromosome number unchanged at 1n."
+    ],
+    "explanation": "Correct Answer: The DNA is replicated, forming sister chromatids and transiently making the cell's chromosome state 4n. S (Synthesis) phase is dedicated to replicating the cell's DNA. This results in the formation of identical sister chromatids for each chromosome, doubling the DNA content (transiently doubling the chromosome set state to 4n prior to division).\n\nIncorrect Options:\n- The S phase does not halve the chromosome number (which happens in meiosis).\n- DNA remains uncoiled as chromatin during interphase; condensation and alignment on the metaphase plate happen during mitosis.\n- Somatic eukaryotic cells are diploid (2n), not haploid (1n), and replication (not transcription) is the primary S-phase event."
+  },
+  {
+    "section": "3.4",
+    "title": "The Cell Cycle",
+    "t": "sa",
+    "q": "Which of the following events occur during prophase of mitosis in eukaryotic cells? (Select all that apply)",
+    "correct": [
+      "The nucleolus and nuclear membrane are broken down.",
+      "DNA shortens and coils tightly into chromosomes from chromatin.",
+      "Two pairs of centrosomes appear next to the disappearing nucleus.",
+      "Mitotic spindle fibers begin to radiate from the moving centrosomes."
+    ],
+    "opts": [
+      "The nucleolus and nuclear membrane are broken down.",
+      "Chromosomes reach opposite ends of the cell and spindle fibers disassemble.",
+      "DNA shortens and coils tightly into chromosomes from chromatin.",
+      "Two pairs of centrosomes appear next to the disappearing nucleus.",
+      "Mitotic spindle fibers begin to radiate from the moving centrosomes."
+    ],
+    "explanation": "Correct Answers:\n- The nucleolus and nuclear membrane are broken down: Allows the mitotic spindle access to the chromosomes.\n- DNA shortens and coils tightly into chromosomes from chromatin: Protects DNA from damage during movement.\n- Two pairs of centrosomes appear next to the disappearing nucleus: Centrosomes organize the spindle poles.\n- Mitotic spindle fibers begin to radiate from the moving centrosomes: Prepares the apparatus for chromosome alignment.\n\nIncorrect Option:\n- 'Chromosomes reach opposite ends of the cell and spindle fibers disassemble': This describes telophase (the final stage of mitosis), not prophase."
+  },
+  {
+    "section": "3.4",
+    "title": "The Cell Cycle",
+    "t": "sa",
+    "q": "According to the notes, which of the following statements about binary fission in prokaryotes are true? (Select all that apply)",
+    "correct": [
+      "Binary fission is a form of asexual reproduction where DNA is copied and the cell splits into two.",
+      "Two identical chromosomes attach to the inner cell membrane during the fission process.",
+      "A new cell membrane begins to form between the copies of DNA, constricting the cell at the center."
+    ],
+    "opts": [
+      "Binary fission is a form of asexual reproduction where DNA is copied and the cell splits into two.",
+      "The single circular chromosome associates with histone proteins to form chromosomes before copying.",
+      "Two identical chromosomes attach to the inner cell membrane during the fission process.",
+      "A new cell membrane begins to form between the copies of DNA, constricting the cell at the center.",
+      "A cell plate formed by Golgi vesicles is required to divide the prokaryotic cell wall."
+    ],
+    "explanation": "Correct Answers:\n- Binary fission is a form of asexual reproduction where DNA is copied and the cell splits into two.\n- Two identical chromosomes attach to the inner cell membrane during the fission process.\n- A new cell membrane begins to form between the copies of DNA, constricting the cell at the center.\n\nIncorrect Options:\n- 'The single circular chromosome associates with histone proteins...': Prokaryotes lack histone proteins and do not condense their circular DNA into eukaryotic-style chromosomes.\n- 'A cell plate formed by Golgi vesicles is required...': Prokaryotes lack a Golgi apparatus and do not form a cell plate; cytokinesis occurs through constriction of the cell membrane."
+  },
+  {
+    "section": "3.5",
+    "title": "Stem Cells & Cancer",
+    "t": "mc",
+    "q": "Which type of stem cell is specifically located in the bone marrow and responsible for the repair of tissue, bone, cartilage, and fat?",
+    "a": 1,
+    "opts": [
+      "Hematopoietic stem cells",
+      "Mesenchymal stem cells",
+      "Induced pluripotent stem cells",
+      "Embryonic stem cells"
+    ],
+    "explanation": "Correct Answer: Mesenchymal stem cells. Mesenchymal stem cells are somatic (tissue-specific) stem cells located in the bone marrow that are responsible for repairing structural tissues, including bone, cartilage, fat, and connective tissues.\n\nIncorrect Options:\n- Hematopoietic stem cells: Bone marrow stem cells that differentiate into all blood cell lineages, not bone or cartilage.\n- Induced pluripotent stem cells: Eukaryotic somatic cells reprogrammed in the lab to act like embryonic stem cells.\n- Embryonic stem cells: Derived from the blastocyst, capable of becoming any cell type, but not located in adult bone marrow."
+  },
+  {
+    "section": "3.5",
+    "title": "Stem Cells & Cancer",
+    "t": "mc",
+    "q": "What role does the protein p53 play at the G1 cell cycle checkpoint when DNA damage is recognized?",
+    "a": 1,
+    "opts": [
+      "It degrades intracellular caspases to prevent cell death and accelerates the transition into the S phase.",
+      "It stops the cell cycle, attempts to initiate DNA repair, and triggers apoptosis if repair is unsuccessful.",
+      "It acts as a cell membrane receptor that binds specific growth factors to bypass normal contact inhibition.",
+      "It replicates damaged chromatids and forces the cell to enter the non-dividing G0 stage permanently."
+    ],
+    "explanation": "Correct Answer: It stops the cell cycle, attempts to initiate DNA repair, and triggers apoptosis if repair is unsuccessful. p53 is a crucial tumor suppressor protein. If DNA damage is detected at the G1 checkpoint, p53 accumulates, halts cell cycle progression, and activates repair pathways. If repair fails, p53 signals caspase activation to execute apoptosis (programmed cell death).\n\nIncorrect Options:\n- p53 initiates rather than prevents apoptosis and halts rather than accelerates transition to S phase.\n- p53 is an intracellular transcription factor, not a membrane-bound growth factor receptor.\n- p53 does not replicate DNA and does not force replication of damaged chromatids."
+  },
+  {
+    "section": "3.5",
+    "title": "Stem Cells & Cancer",
+    "t": "mc",
+    "q": "Which class of enzymes is responsible for executing the destruction of the cell during the programmed cell death pathway (apoptosis)?",
+    "a": 0,
+    "opts": [
+      "Caspases",
+      "Cyclins",
+      "Proto-oncogenes",
+      "Polymerases"
+    ],
+    "explanation": "Correct Answer: Caspases. Caspases are a family of proteolytic enzymes that are activated in a cascade during apoptosis. They systematically cleave key proteins to disassemble and destroy the cell from within.\n\nIncorrect Options:\n- Cyclins: Regulatory proteins that bind and activate CDKs to drive cell cycle progression.\n- Proto-oncogenes: Normal cellular genes that promote division and cell growth (gas pedals).\n- Polymerases: Enzymes responsible for replicating and transcribing nucleic acids."
+  },
+  {
+    "section": "3.5",
+    "title": "Stem Cells & Cancer",
+    "t": "mc",
+    "q": "How does the replicative capacity of cancer cells compare to that of normal human cells, and what term describes their loss of restraint when touching other cells?",
+    "a": 0,
+    "opts": [
+      "Cancer cells divide indefinitely and have lost contact inhibition; normal cells divide about 50 times and stop when touching others.",
+      "Cancer cells divide about 50 times and lose angiogenesis; normal cells divide indefinitely and stop when touching others.",
+      "Cancer cells divide indefinitely and gain contact inhibition; normal cells divide about 100 times and never stop when touching others.",
+      "Cancer cells divide up to 10 times and lose cell signaling; normal cells divide indefinitely and ignore neighboring cells."
+    ],
+    "explanation": "Correct Answer: Cancer cells divide indefinitely and have lost contact inhibition; normal cells divide about 50 times and stop when touching others. Cancer cells are immortal (dividing indefinitely) and lack contact inhibition, causing them to grow on top of one another and form tumors. Normal somatic cells can divide about 50 times before entering senescence and show contact inhibition, stopping division when they make contact with neighboring cells.\n\nIncorrect Options:\n- Normal cells do not divide indefinitely, and cancer cells do not lose angiogenesis (they trigger it).\n- Cancer cells do not gain contact inhibition, and normal cells do not divide indefinitely.\n- Cancer cells divide indefinitely (far more than 10 times), and normal cells do not ignore neighboring cells."
+  },
+  {
+    "section": "3.5",
+    "title": "Stem Cells & Cancer",
+    "t": "mc",
+    "q": "What is the functional difference between proto-oncogenes and tumor suppressor genes in cell cycle regulation?",
+    "a": 1,
+    "opts": [
+      "Proto-oncogenes inhibit the cell cycle and promote apoptosis, while tumor suppressor genes promote the cell cycle and prevent apoptosis.",
+      "Proto-oncogenes promote the cell cycle and prevent apoptosis, while tumor suppressor genes inhibit the cell cycle and promote apoptosis.",
+      "Proto-oncogenes repair mutated DNA sequences, while tumor suppressor genes degrade cyclins and prevent chromosomal duplications.",
+      "Proto-oncogenes signal the cell to enter G0 permanently, while tumor suppressor genes code for growth factor membrane receptors."
+    ],
+    "explanation": "Correct Answer: Proto-oncogenes promote the cell cycle and prevent apoptosis, while tumor suppressor genes inhibit the cell cycle and promote apoptosis. Proto-oncogenes encode proteins that drive cell cycle progression (acting as the gas pedal), whereas tumor suppressors encode proteins that halt the cell cycle or promote apoptosis to prevent uncontrolled division (acting as the brake pedal).\n\nIncorrect Options:\n- The roles are completely reversed in the option stating proto-oncogenes inhibit the cell cycle.\n- Proto-oncogenes promote growth, not general DNA sequence repair, and do not degrade cyclins.\n- Proto-oncogenes do not signal cells to permanently enter G0, and tumor suppressors do not typically code for growth factor receptors."
+  },
+  {
+    "section": "3.5",
+    "title": "Stem Cells & Cancer",
+    "t": "sa",
+    "q": "Which of the following characteristics are typical of cancer cells as described in the notes? (Select all that apply)",
+    "correct": [
+      "They lack differentiation and do not perform specialized functions.",
+      "They possess abnormal nuclei, which may include incorrect chromosome numbers.",
+      "They undergo metastasis by invading underlying layers and entering the blood supply.",
+      "They trigger angiogenesis, signaling the creation of new blood vessels to supply nutrients."
+    ],
+    "opts": [
+      "They lack differentiation and do not perform specialized functions.",
+      "They undergo apoptosis readily when DNA damage is detected.",
+      "They possess abnormal nuclei, which may include incorrect chromosome numbers.",
+      "They undergo metastasis by invading underlying layers and entering the blood supply.",
+      "They trigger angiogenesis, signaling the creation of new blood vessels to supply nutrients."
+    ],
+    "explanation": "Correct Answers:\n- They lack differentiation and do not perform specialized functions: They do not contribute to tissue function.\n- They possess abnormal nuclei, which may include incorrect chromosome numbers: They show chromosomal instability.\n- They undergo metastasis by invading underlying layers and entering the blood supply: They spread to distant tissues.\n- They trigger angiogenesis, signaling the creation of new blood vessels: They secure nutrients for tumor growth.\n\nIncorrect Option:\n- 'They undergo apoptosis readily when DNA damage is detected': Cancer cells evade apoptosis due to mutations in checkpoint proteins (like p53), allowing damaged cells to survive and divide."
+  },
+  {
+    "section": "3.5",
+    "title": "Stem Cells & Cancer",
+    "t": "sa",
+    "q": "Which of the following statements about stem cells are correct? (Select all that apply)",
+    "correct": [
+      "Embryonic stem cells are derived from the blastocyst and can become any type of cell in the body.",
+      "Hematopoietic stem cells are tissue-specific stem cells that can differentiate into all types of blood cells.",
+      "Induced pluripotent stem cells are engineered in the lab from somatic cells to act like embryonic stem cells.",
+      "Once stem cells undergo differentiation, they are terminally differentiated and cannot return to stem cells."
+    ],
+    "opts": [
+      "Embryonic stem cells are derived from the blastocyst and can become any type of cell in the body.",
+      "Hematopoietic stem cells are tissue-specific stem cells that can differentiate into all types of blood cells.",
+      "Induced pluripotent stem cells are engineered in the lab from somatic cells to act like embryonic stem cells.",
+      "Once stem cells undergo differentiation, they are terminally differentiated and cannot return to stem cells.",
+      "All somatic stem cells are permanent residents of the G1 phase and are incapable of undergoing mitosis."
+    ],
+    "explanation": "Correct Answers:\n- Embryonic stem cells are derived from the blastocyst and can become any type of cell in the body: They are pluripotent.\n- Hematopoietic stem cells are tissue-specific stem cells that can differentiate into all types of blood cells: They are multipotent.\n- Induced pluripotent stem cells are engineered in the lab from somatic cells to act like embryonic stem cells: They are reprogrammed somatic cells.\n- Once stem cells undergo differentiation, they are terminally differentiated and cannot return to stem cells: Normal physiological lineage commitment is unidirectional.\n\nIncorrect Option:\n- 'All somatic stem cells are permanent residents of the G1 phase and are incapable of undergoing mitosis': Somatic stem cells must undergo mitosis to self-renew and provide progeny for differentiation."
+  }
+]
