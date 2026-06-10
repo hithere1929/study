@@ -306,15 +306,15 @@
     "section": "1.3",
     "title": "The Process of Science",
     "t": "mc",
-    "q": "According to the Unit 1.3 notes, what are two fundamental theories of biology?",
-    "a": 1,
+    "q": "According to Unit 1.3, what is the key distinction between a hypothesis and a scientific theory?",
+    "a": 2,
     "opts": [
-      "The Theory of Homeostasis and the Gene Theory",
-      "The Theory of Evolution and the Cell Theory",
-      "The Germ Theory and the Theory of Biogenesis",
-      "The Theory of Natural Selection and the DNA Theory"
+      "A hypothesis is used only in controlled experiments, while a theory is based on observation alone.",
+      "A theory is an early, untested explanation, while a hypothesis has been tested and confirmed.",
+      "A hypothesis is a testable explanation for a specific observation, while a scientific theory is broader in scope and supported by a large, growing body of evidence.",
+      "A theory explains only biological phenomena, while a hypothesis can apply to any scientific discipline."
     ],
-    "explanation": "The Unit 1.3 notes explicitly list the Theory of Evolution (all living things have a common ancestor, but each is adapted to a particular way of life) and the Cell Theory (all organisms are composed of cells, and new cells only come from pre-existing cells) as two fundamental theories of biology. Therefore, the second option is correct. The other options are incorrect because the Theory of Homeostasis, Gene Theory, Germ Theory, Theory of Biogenesis, Theory of Natural Selection, and DNA Theory are not listed as the two fundamental theories of biology in the Unit 1.3 notes."
+    "explanation": "According to Unit 1.3, a hypothesis is a possible, testable explanation for a natural event — an informed statement, not merely a guess, that can be tested using the scientific method. A scientific theory, by contrast, is much broader in scope than a hypothesis and is supported by a large and usually growing body of evidence. The Theory of Evolution and the Cell Theory are given as examples of fundamental theories. Option A is incorrect because hypotheses are formed before experiments begin, not exclusively used within them. Option B reverses the relationship — theories are not early or untested; they represent the most well-supported explanations in science. Option D is incorrect because the notes do not limit theories to biology only."
   },
   {
     "section": "1.3",

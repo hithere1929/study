@@ -1024,15 +1024,15 @@
     "section": "4.9",
     "title": "Mendelian Inheritance P2 - Genetic Disorders",
     "t": "mc",
-    "q": "Who discovered X-linked inheritance in the early 1900s, and what model organism was used to observe that only males inherited white eyes in certain crosses?",
-    "a": 1,
+    "q": "Morgan's team observed that white eye color in Drosophila appeared only in male offspring, never in females, even though overall inheritance ratios matched autosomal patterns. What explains this result?",
+    "a": 3,
     "opts": [
-      "Oswald Avery using Streptococcus pneumoniae",
-      "Thomas Hunt Morgan using fruit flies (Drosophila)",
-      "Gregor Mendel using garden peas (Pisum sativum)",
-      "Alfred Hershey using bacteriophage viruses"
+      "White eye color is autosomal dominant; females are protected by a second copy of the autosome.",
+      "The Y chromosome carries a dominant red-eye allele that overrides the white-eye allele in males.",
+      "Females produce a developmental hormone that suppresses X-linked recessive traits from being expressed.",
+      "White eye color is X-linked recessive; males are hemizygous (only one X chromosome) and express whatever allele is present, while females require two copies of the recessive allele to show the trait."
     ],
-    "explanation": "The correct answer is correct because X-linked inheritance was discovered in the early 1900s by Thomas Hunt Morgan, who studied inheritance patterns in the fruit fly (Drosophila melanogaster). He observed that when crossing white-eyed males with red-eyed females, the white-eye trait was only inherited by male offspring in subsequent generations, linking the white-eye gene to the X chromosome. The other options are incorrect: 'Oswald Avery using Streptococcus pneumoniae' is incorrect because Avery studied bacterial transformation and identified DNA as the genetic material. 'Gregor Mendel using garden peas' is incorrect because Mendel studied autosomal traits in pea plants and was unaware of sex chromosomes. 'Alfred Hershey using bacteriophage viruses' is incorrect because Hershey studied viral DNA transfer to bacteria, not sex-linked inheritance."
+    "explanation": "White eye color in Drosophila is an X-linked recessive trait. Males have only one X chromosome (XY), making them hemizygous — they express whichever allele is on their single X with no second copy to mask it. Females (XX) need two copies of the recessive white-eye allele to express the trait; a single copy is masked by the dominant red-eye allele on the other X. This is why Morgan's team saw only males with white eyes even though overall ratios followed the 3:1 pattern of regular autosomal dominance. The Y chromosome does not carry X-linked genes at all. Option A is incorrect because the white-eye gene is X-linked, not autosomal. Option C is incorrect; no such hormonal mechanism is described in the notes."
   },
   {
     "section": "4.9",

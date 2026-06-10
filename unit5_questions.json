@@ -3,15 +3,15 @@
     "section": "5.1",
     "title": "Darwin & Evidence for Evolution",
     "t": "mc",
-    "q": "Which eighteenth-century naturalist cataloged a 44-volume work on plants and animals, and suggested evolutionary mechanisms such as environmental influences, migration, geographic isolation, and the struggle for existence?",
-    "a": 2,
+    "q": "Unit 5.1 describes evolution as the 'unifying principle of biology.' Which statement best explains what this means?",
+    "a": 0,
     "opts": [
-      "Carolus Linnaeus, who developed binomial nomenclature and advocated for the fixity of species.",
-      "Jean-Baptiste de Lamarck, who proposed the inheritance of acquired characteristics and adaptation to environment.",
-      "Count Buffon, a French naturalist who provided evidence of descent with modification and suggested environmental influences.",
-      "Georges Cuvier, who founded the science of paleontology and proposed catastrophism to explain fossil layers."
+      "Evolution explains both the similarities among living organisms (reflecting common ancestry) and the diversity of life (as populations adapted to different environments over time).",
+      "Evolution applies only to animals, providing a single framework that explains all animal anatomy and behavior.",
+      "Evolution is the only biological theory with no known exceptions, making it the single most testable claim in science.",
+      "Evolution unifies biology by showing that all organisms alive today emerged simultaneously from one common ancestor event."
     ],
-    "explanation": "Correct Answer: Count Buffon. Count Buffon was a French naturalist who cataloged a 44-volume work on plants and animals. He provided early evidence of descent with modification and suggested evolutionary mechanisms such as environmental influences, migration, geographic isolation, and the struggle for existence.\n\nIncorrect Choices:\n- Carolus Linnaeus developed the system of binomial nomenclature but strongly advocated for the \"fixity of species,\" believing each species had an ideal structure, function, and place in the scala naturae.\n- Jean-Baptiste de Lamarck proposed the inheritance of acquired characteristics (Lamarckianism) as a testable evolutionary hypothesis, not a 44-volume catalog of plants and animals.\n- Georges Cuvier founded the science of paleontology and proposed catastrophism to explain fossil layers while remaining a staunch believer in the fixity of species and special creation."
+    "explanation": "According to the Unit 5.1 notes, evolution is called the unifying principle of biology because it simultaneously explains the unity of life (similarities between living things reflect common ancestors) and the diversity of life (each lineage has adapted to a particular way of life). This dual explanatory power is what makes it foundational to all of biology rather than just one subfield. Option B is incorrect because evolution applies to all life, not only animals. Option C is incorrect — the notes do not claim evolution has no exceptions, and that is not the reason it is considered a unifying principle. Option D is incorrect because evolution describes gradual divergence over time from common ancestors, not a single simultaneous origin event."
   },
   {
     "section": "5.1",

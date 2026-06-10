@@ -3,15 +3,15 @@
     "section": "6.1",
     "title": "Viruses",
     "t": "mc",
-    "q": "Who was one of the first scientists to propose or determine the existence of infectious agents smaller than bacteria, which were later confirmed using mid-20th-century electron microscopy?",
-    "a": 0,
+    "q": "According to Unit 6.1, why are viruses NOT classified as living organisms?",
+    "a": 1,
     "opts": [
-      "Louis Pasteur",
-      "Antonie van Leeuwenhoek",
-      "Robert Koch",
-      "Alexander Fleming"
+      "Viruses are too small to carry out any chemical reactions, making life classification impossible.",
+      "Viruses lack metabolism and cannot respond to stimuli, and they require the machinery of a host cell to replicate rather than reproducing independently.",
+      "Viruses are composed only of protein with no nucleic acids, so they cannot store or transmit genetic information.",
+      "Viruses cannot evolve because they lack DNA, keeping their structure unchanged across generations."
     ],
-    "explanation": "Louis Pasteur was one of the first scientists to propose and determine the existence of infectious agents smaller than bacteria with infectious properties, which were later confirmed in the mid-20th century using electron microscopy. Antonie van Leeuwenhoek is known for being the first to observe microorganisms (which he called 'animalcules') using simple microscopes, but did not propose the existence of viruses. Robert Koch formulated Koch's postulates to identify specific bacterial pathogens causing diseases, not viruses. Alexander Fleming discovered penicillin, the first true antibiotic, from the mold Penicillium, which targets bacteria rather than viruses."
+    "explanation": "The Unit 6.1 notes explicitly state that viruses are not considered living because they do not have metabolism and cannot respond to stimuli. Additionally, they require the machinery of a host cell to replicate — they cannot reproduce independently. Option A is incorrect because size alone does not determine whether something is classified as living. Option C is incorrect because viruses do contain nucleic acids (either DNA or RNA) within their capsid as their inner core of genetic material. Option D is incorrect because the notes explicitly state that viruses are able to evolve as a result of mutations, confirming that they have a genome capable of change over time."
   },
   {
     "section": "6.1",
@@ -108,15 +108,15 @@
     "section": "6.2",
     "title": "Prokaryotes",
     "t": "mc",
-    "q": "Who officially disproved the theory of spontaneous generation of prokaryotes in the 1850s?",
-    "a": 1,
+    "q": "Which structural feature, according to Unit 6.2, is shared by ALL prokaryotes and distinguishes them from eukaryotes?",
+    "a": 2,
     "opts": [
-      "Robert Koch",
-      "Louis Pasteur",
-      "Antony van Leeuwenhoek",
-      "Francesco Redi"
+      "Prokaryotes have a membrane-bound nucleus that protects their DNA from cytoplasmic enzymes.",
+      "Prokaryotes contain chloroplasts and mitochondria that enable photosynthesis and cellular respiration.",
+      "Prokaryotes lack a membrane-bounded nucleus (with DNA concentrated in a nucleoid region) and lack membranous organelles.",
+      "Prokaryotes reproduce exclusively by conjugation, passing DNA through a sex pilus to neighboring cells."
     ],
-    "explanation": "Louis Pasteur officially disproved the theory of spontaneous generation of prokaryotes in the 1850s, demonstrating that microorganisms do not arise from non-living matter. Robert Koch developed postulates to link specific microbes to specific diseases but did not disprove spontaneous generation. Antony van Leeuwenhoek was the first to observe bacteria but did not disprove spontaneous generation. Francesco Redi performed experiments on rotting meat in the 17th century to disprove the spontaneous generation of macro-organisms like maggots, not prokaryotes."
+    "explanation": "According to Unit 6.2, prokaryotes are defined by the absence of a membrane-bounded nucleus — DNA is instead found in a region called the nucleoid — and by the absence of membranous organelles. These two features together are the fundamental structural distinction from eukaryotes. Option A is the exact opposite of the defining characteristic; prokaryotes lack a membrane-bound nucleus, not have one. Option B is incorrect because chloroplasts and mitochondria are membrane-bound organelles, which prokaryotes do not possess. Option D is incorrect because while conjugation is one method of genetic recombination, the primary reproductive mode of prokaryotes is binary fission, not conjugation."
   },
   {
     "section": "6.2",
