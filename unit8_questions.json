@@ -140,15 +140,15 @@
     "section": "8.2",
     "title": "Population Ecology",
     "t": "mc",
-    "q": "According to the provided population demographics, in which years did the human population reach the milestones of 3 billion and 8 billion, respectively?",
-    "opts": [
-      "1960 and 2012",
-      "1930 and 2022",
-      "1930 and 2012",
-      "1960 and 2022"
-    ],
+    "q": "According to Unit 8.2, what are the two distinct types of overpopulation that can threaten an environment?",
     "a": 3,
-    "explanation": "Correct Answer: '1960 and 2022' (Option 3). According to the demographic milestones listed in the notes, the human population reached 3 billion in 1960 and 8 billion in 2022.\nIncorrect Choices:\n- Option 0 (1960 and 2012) is incorrect because 2012 was the milestone for 6 billion (or 7 billion historically, but not 8 billion).\n- Option 1 (1930 and 2022) is incorrect because 1930 was the milestone for 2 billion.\n- Option 2 (1930 and 2012) is incorrect because these years represent 2 billion and 6 billion, respectively."
+    "opts": [
+      "Overpopulation caused by immigration from less-developed countries, and overpopulation caused by high birth rates in developed nations.",
+      "Overpopulation due to lack of predators, and overpopulation due to disease resistance spreading through the population.",
+      "Overpopulation caused by the exponential growth phase exceeding the deceleration phase, and overpopulation caused by an insufficient carrying capacity.",
+      "Overpopulation due to population growth (too many individuals), and overpopulation due to increased resource consumption per capita (fewer individuals consuming at unsustainably high rates)."
+    ],
+    "explanation": "Unit 8.2 notes that environmental impact is measured in terms of population size, resource consumption per capita, and resultant pollution. Correspondingly, two types of overpopulation are defined: (1) overpopulation due to population growth — there are simply too many individuals for the environment to support; and (2) overpopulation due to increased resource consumption — a smaller population consuming at an extremely high per-capita rate can still exceed the carrying capacity. This distinction is important because addressing overpopulation requires targeting the correct factor. Options A and B describe drivers of population change, not the two defined types of overpopulation. Option C conflates population growth models with the concept of overpopulation."
   },
   {
     "section": "8.2",

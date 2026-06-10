@@ -31,15 +31,15 @@
     "section": "5.1",
     "title": "Darwin & Evidence for Evolution",
     "t": "mc",
-    "q": "Which group of vegetables did Charles Darwin use as an example of artificial selection, showing that they are all derived from the single species Brassica oleracea?",
-    "a": 2,
+    "q": "According to Unit 5.1, all domestic dog breeds are descended from the gray wolf, which began to be domesticated approximately 14,000 years ago. What does this example best demonstrate about artificial selection?",
+    "a": 0,
     "opts": [
-      "Broccoli, cauliflower, and wild mustard",
-      "Radish, turnip, and kale",
-      "Chinese cabbage, Brussels sprouts, and Kohlrabi",
-      "Cabbage, broccoli, and spinach"
+      "A single ancestral species can produce extremely diverse phenotypes when humans selectively choose which individuals reproduce — demonstrating that heritable variation and selective pressure are sufficient to drive major phenotypic change.",
+      "Artificial selection requires geographic isolation between populations for new phenotypes to develop, as seen in dog breeds developed in different regions.",
+      "Dog breeds represent distinct new species created through artificial selection, proving that selection alone can produce reproductive isolation within a short timeframe.",
+      "Domestic dogs acquired new traits through the inheritance of characteristics developed during the wolves’ lifetimes, such as tameness from repeated human contact."
     ],
-    "explanation": "Correct Answer: Chinese cabbage, Brussels sprouts, and Kohlrabi.\n\nExplanation: The notes explicitly identify Chinese cabbage, Brussels sprouts, and Kohlrabi as agricultural vegetables derived from the single ancestral species Brassica oleracea through human-directed artificial selection (selective breeding for specific structural traits).\n\nIncorrect Choices:\n- Broccoli, cauliflower, and wild mustard: Wild mustard is the ancestral parent plant from which Brassica oleracea vegetables were derived, rather than a vegetable group selected from it.\n- Radish, turnip, and kale: Radishes and turnips belong to different species and genera (Raphanus sativus and Brassica rapa, respectively) and are not descendants of Brassica oleracea.\n- Cabbage, broccoli, and spinach: Spinach is a member of the Amaranthaceae family and is entirely unrelated to the Brassica genus."
+    "explanation": "Unit 5.1 states that Darwin used the example of artificial selection to demonstrate his ideas on natural selection. All domestic dog breeds descend from the gray wolf; breeders chose which traits to perpetuate by selecting which individuals would reproduce, and the process of diversification led to extreme phenotypic differences. This shows that heritable variation combined with consistent selective pressure is sufficient to drive enormous phenotypic change. Option B is incorrect because geographic isolation is not required — artificial selection operates within a single breeding population. Option C is incorrect because dog breeds are not separate species; they can still interbreed. Option D describes Lamarckian inheritance of acquired characteristics, which is incorrect."
   },
   {
     "section": "5.1",
