@@ -8567,48 +8567,89 @@ async function renderNotesDocument(targetPage = 1, token = notesRenderToken) {
 }
 
 function notesKeywords(text) {
-  const stop = new Set('the and for are not but all can has had its one two was use due per via now new may yet also both true none some each form type used made when from into with that this then than they them their there these those have been were does most more less very only such even well just many much other often about which where would could should after before during through between while until since every correct incorrect following according explains select apply best least what when where why who being'.split(' '));
+  const stop = new Set('the and for are not but all can has had its one two three was use due per via now new may yet also both true none some each form type used made when from into with that this then than they them their there these those have been were does most more less very only such even well just many much other often about which where would could should after before during through between while until since every being cause causes caused causing result results example examples disorder disorders molecular respective describe describes identify identifies process processes structure structures function functions include includes including involved involves affect affects affecting related relate relating known called found shown seen correct incorrect following according explains explain select apply best least what when where why who how'.split(' '));
   const words = (text.toLowerCase().match(/[a-z][a-z0-9-]{2,}/g) || []).filter(w => !stop.has(w));
-  return [...new Set(words)].sort((a,b) => b.length - a.length).slice(0, 18);
+  return [...new Set(words)].sort((a,b) => b.length - a.length).slice(0, 22);
 }
 
 function termStem(term) {
-  return term.length >= 6 ? term.slice(0, Math.ceil(term.length * 0.72)) : term;
+  return term.length >= 6 ? term.slice(0, Math.ceil(term.length * 0.78)) : term;
 }
+
+function escRe(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }
 
 function bestNotesPage(section, query, questionObj = null) {
   const pages = BIO_NOTES_PAGE_INDEX[section] || [];
   if (!pages.length) return { page: 1, score: 0, terms: [] };
-  const terms = notesKeywords(query);
-  const extraText = questionObj ? [...(questionObj.opts || []), questionObj.explanation || ''].join(' ') : '';
-  const extraTerms = extraText ? notesKeywords(extraText).filter(t => !terms.includes(t)) : [];
-  const allTerms = [...terms, ...extraTerms];
+
+  // ── signals by weight ────────────────────────────────────────────────────
+  const queryTerms = notesKeywords(query);
+
+  // Correct answer text is the single strongest signal — its exact words
+  // appear on the target slide. Weight 3.5×.
+  let correctText = '';
+  if (questionObj?.t === 'mc' && questionObj.opts?.[questionObj.a] != null) {
+    correctText = questionObj.opts[questionObj.a];
+  } else if (questionObj?.correct) {
+    correctText = [].concat(questionObj.correct).join(' ');
+  }
+  const correctTerms = notesKeywords(correctText);
+
+  // Explanation describes exactly what the slide covers. Weight 1.8×.
+  const explTerms = notesKeywords((questionObj?.explanation || '').slice(0, 700))
+    .filter(t => !correctTerms.includes(t));
+
+  const termWeight = new Map();
+  queryTerms.forEach(t   => termWeight.set(t, Math.max(termWeight.get(t) || 0, 1.0)));
+  explTerms.forEach(t    => termWeight.set(t, Math.max(termWeight.get(t) || 0, 1.8)));
+  correctTerms.forEach(t => termWeight.set(t, Math.max(termWeight.get(t) || 0, 3.5)));
+  const allTerms = [...termWeight.keys()];
+
+  // ── IDF ─────────────────────────────────────────────────────────────────
   const idf = {};
   allTerms.forEach(term => {
     const stem = termStem(term);
     const df = pages.filter(p => p.includes(stem)).length;
-    idf[term] = Math.log((pages.length + 1) / (df + 1)) + 1;
+    // Pure log(N/df) — terms on every page get IDF≈0, unique terms get high IDF
+    idf[term] = Math.max(0.1, Math.log((pages.length + 1) / (df + 0.5)));
   });
+
+  // ── BM25 parameters ─────────────────────────────────────────────────────
+  // k1=1.2: TF saturates quickly (tf=4 → same effect as tf=2, roughly)
+  // b=0.75: longer pages get length-penalized so they can't win by bulk
+  const k1 = 1.2, b = 0.75;
+  const avgdl = pages.reduce((s, p) => s + p.length, 0) / pages.length;
+
+  // ── phrase bonuses ───────────────────────────────────────────────────────
+  const bigramBonus = [];
+  const addBigrams = (terms, bonus) => {
+    for (let i = 0; i < terms.length - 1; i++) {
+      bigramBonus.push({ ph: terms[i] + ' ' + terms[i + 1], bonus });
+      bigramBonus.push({ ph: terms[i + 1] + ' ' + terms[i], bonus: bonus * 0.55 });
+    }
+  };
+  addBigrams(correctTerms, 60); // consecutive correct-answer words on a page → huge signal
+  addBigrams(queryTerms, 22);
+  addBigrams(explTerms, 14);
+
+  // ── score pages ─────────────────────────────────────────────────────────
   let bestPage = 1, bestScore = -1;
   pages.forEach((text, index) => {
+    const dl = text.length;
     let score = 0;
-    terms.forEach(term => {
-      const stem = termStem(term);
-      const tf = (text.match(new RegExp(stem, 'g')) || []).length;
-      if (tf > 0) score += tf * idf[term] * Math.min(term.length, 14);
+    allTerms.forEach(term => {
+      const re = new RegExp(escRe(termStem(term)), 'g');
+      const tf = (text.match(re) || []).length;
+      if (tf > 0) {
+        const bm25tf = (tf * (k1 + 1)) / (tf + k1 * (1 - b + b * dl / avgdl));
+        score += idf[term] * bm25tf * Math.min(term.length, 14) * termWeight.get(term);
+      }
     });
-    for (let i = 0; i < terms.length - 1; i++) {
-      if (text.includes(terms[i] + ' ' + terms[i + 1])) score += 30;
-      if (text.includes(terms[i + 1] + ' ' + terms[i])) score += 18;
-    }
-    extraTerms.forEach(term => {
-      const stem = termStem(term);
-      const tf = (text.match(new RegExp(stem, 'g')) || []).length;
-      if (tf > 0) score += tf * idf[term] * Math.min(term.length, 10) * 0.35;
-    });
+    bigramBonus.forEach(({ ph, bonus }) => { if (text.includes(ph)) score += bonus; });
     if (score > bestScore) { bestScore = score; bestPage = index + 1; }
   });
-  return { page: bestPage, score: bestScore, terms };
+
+  return { page: bestPage, score: bestScore, terms: queryTerms };
 }
 
 async function searchNotes(queryOverride, questionObj = null) {
@@ -8629,12 +8670,17 @@ async function searchNotes(queryOverride, questionObj = null) {
     return;
   }
   document.querySelectorAll('.notes-highlight').forEach(el => el.classList.remove('notes-highlight'));
-  const terms = notesKeywords(query);
+  const highlightTerms = notesKeywords(query);
+  if (questionObj?.t === 'mc' && questionObj.opts?.[questionObj.a] != null) {
+    notesKeywords(questionObj.opts[questionObj.a]).forEach(t => { if (!highlightTerms.includes(t)) highlightTerms.push(t); });
+  } else if (questionObj?.correct) {
+    notesKeywords([].concat(questionObj.correct).join(' ')).forEach(t => { if (!highlightTerms.includes(t)) highlightTerms.push(t); });
+  }
   const target = document.querySelector(`.notes-page[data-page="${match.page}"]`);
   const highlights = [];
   target?.querySelectorAll('.notes-text-layer span').forEach(span => {
     const t = span.dataset.text;
-    if (terms.some(term => t.includes(termStem(term)))) {
+    if (highlightTerms.some(term => t.includes(termStem(term)))) {
       span.classList.add('notes-highlight');
       highlights.push(span);
     }
