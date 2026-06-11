@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Comprehensive Biology Study Suite &amp; Final Exam Simulator</title>
 <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@300;400;500;600;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="final-blueprint.css">
 <style>
   :root[data-theme="light"] {
     --bg: #faf9f6;
@@ -8246,6 +8247,8 @@ function showView(viewId) {
     renderUnitView(mainView, unitNum);
   } else if (viewId === 'practice-exam') {
     renderPracticeExamSetup(mainView);
+  } else if (viewId === 'final-blueprint-2026' && appState.subject === 'bio') {
+    renderFinalBlueprint(mainView);
   } else if (viewId === 'final-exam-simulator') {
     renderFinalExamView(mainView);
   } else if (viewId === 'history-final-exam') {
@@ -8291,6 +8294,7 @@ function rebuildSubjectNavigation() {
         [5,'Evolution'],[6,'Diversity of Life'],[7,'Plants & Animals'],[8,'Ecology & Energy']
       ].map(([u,n]) => `<li><button class="unit-nav-btn" data-target="unit-${u}"><span class="unit-nav-name"><span class="unit-indicator-dot" data-unit="${u}"></span> Unit ${u}: ${n}</span><span class="unit-nav-progress" id="nav-prog-${u}">0%</span></button></li>`).join('')}
       <li style="margin-top:8px;border-top:1px dashed var(--border);padding-top:8px;"><h2 class="dashboard-title" style="font-size:11px;text-transform:uppercase;color:var(--text-dim);letter-spacing:.05em;margin-bottom:6px;">Evaluations</h2><button class="unit-nav-btn" data-target="final-exam-simulator"><span class="unit-nav-name">⚡ 2026 Final Exam Sim</span><span class="unit-badge">Outline</span></button></li>
+      <li><button class="unit-nav-btn" data-target="final-blueprint-2026"><span class="unit-nav-name">Final Blueprint Study</span><span class="unit-badge">New</span></button></li>
       <li><button class="unit-nav-btn" data-target="practice-exam"><span class="unit-nav-name">🎯 Random Practice Test</span><span class="unit-nav-progress">Test</span></button></li>
       <li><button class="unit-nav-btn" data-target="active-recall"><span class="unit-nav-name">Reading Active Recall</span><span class="unit-nav-progress">1,025 pages</span></button></li><li style="margin-top:8px;border-top:1px dashed var(--border);padding-top:8px;"><button class="unit-nav-btn" data-target="memory-lab"><span class="unit-nav-name">Memory Lab</span><span class="unit-nav-progress">Recall</span></button></li>`;
   } else {
@@ -9199,6 +9203,9 @@ function renderOverallDashboard(container) {
       <p>This study tool provides over 390 highly granular, detailed practice questions spanning Units 1 through 8. Complete study sections, immediate answer checking, and a customizable practice exam mode are included to ensure complete preparation.</p>
       
       <div style="display:flex; gap: 12px; margin-top: 18px; flex-wrap: wrap;">
+        <button class="q-btn primary" onclick="showView('final-blueprint-2026')" style="padding: 10px 20px; font-weight: 600;">
+          Open Final Blueprint Study
+        </button>
         <button class="q-btn primary" onclick="showView('final-exam-simulator')" style="background: var(--wrong); border-color: var(--wrong); padding: 10px 20px; font-weight: 600; display:flex; align-items:center; gap: 8px;">
           ⚡ Open 2026 Biology Final Exam Simulator
         </button>
@@ -11322,5 +11329,7 @@ document.addEventListener('DOMContentLoaded', () => {
   showView('dashboard');
 });
 </script>
+<script src="final-blueprint-content.js"></script>
+<script src="final-blueprint.js"></script>
 </body>
 </html>
