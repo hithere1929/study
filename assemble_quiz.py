@@ -32,6 +32,34 @@ for p in range(1, 5):
     else:
         print(f"Warning: {file_name} not found!")
 
+# 3. Read all active recall JSON files
+active_recall_data = {}
+for u in range(1, 9):
+    file_name = f"unit{u}_active_recall.json"
+    file_path = os.path.join(base_dir, file_name)
+    if os.path.exists(file_path):
+        with open(file_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            active_recall_data[u] = data
+            print(f"Loaded active recall Unit {u}: {len(data)} pages.")
+    else:
+        active_recall_data[u] = []
+        print(f"Warning: {file_name} not found (using empty list).")
+
+# 4. Read all history question JSON files
+history_data = {}
+for u in range(5, 9):
+    file_name = f"history_unit{u}_questions.json"
+    file_path = os.path.join(base_dir, file_name)
+    if os.path.exists(file_path):
+        with open(file_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            history_data[u] = data
+            print(f"Loaded history Unit {u}: {len(data)} questions.")
+    else:
+        history_data[u] = []
+        print(f"Warning: {file_name} not found (using empty list).")
+
 # HTML template definition
 html_template = """<!DOCTYPE html>
 <html lang="en" data-theme="light">
@@ -1203,9 +1231,15 @@ html_template = """<!DOCTYPE html>
   <!-- LEFT SIDEBAR -->
   <aside class="sidebar">
     
+    <!-- Subject Switcher -->
+    <div class="sidebar-box" style="padding: 10px; display: flex; gap: 8px; margin-bottom: 0;">
+      <button class="q-btn primary" id="subject-bio-btn" style="flex: 1; text-align: center; padding: 8px 4px; font-weight: 700; margin: 0; font-size: 12.5px; border-radius: 8px;" onclick="setSubject('biology')">🧬 Biology</button>
+      <button class="q-btn" id="subject-hist-btn" style="flex: 1; text-align: center; padding: 8px 4px; font-weight: 700; margin: 0; font-size: 12.5px; border-radius: 8px;" onclick="setSubject('history')">📜 History</button>
+    </div>
+    
     <!-- Progress Panel -->
     <div class="sidebar-box">
-      <h2 class="dashboard-title">Study Progress</h2>
+      <h2 class="dashboard-title" id="progress-panel-title">Biology Study Progress</h2>
       <div class="progress-ring-box">
         <div>
           <div class="score-display" id="overall-pct">0%</div>
@@ -1232,76 +1266,10 @@ html_template = """<!DOCTYPE html>
     </div>
     
     <!-- Navigation Links -->
-    <div class="sidebar-box" style="flex-grow: 1;">
+    <div class="sidebar-box" style="flex-grow: 1; margin-bottom: 0;">
       <h2 class="dashboard-title" style="font-size: 13px; text-transform: uppercase; color: var(--text-dim); letter-spacing: 0.05em; margin-bottom: 10px;">Study Rooms</h2>
-      <ul class="unit-nav-list">
-        <li>
-          <button class="unit-nav-btn active" data-target="dashboard">
-            <span class="unit-nav-name">📊 Study Dashboard</span>
-          </button>
-        </li>
-        <li>
-          <button class="unit-nav-btn" data-target="unit-1">
-            <span class="unit-nav-name"><span class="unit-indicator-dot" data-unit="1"></span> Unit 1: Sci &amp; Safety</span>
-            <span class="unit-nav-progress" id="nav-prog-1">0%</span>
-          </button>
-        </li>
-        <li>
-          <button class="unit-nav-btn" data-target="unit-2">
-            <span class="unit-nav-name"><span class="unit-indicator-dot" data-unit="2"></span> Unit 2: Biomolecules</span>
-            <span class="unit-nav-progress" id="nav-prog-2">0%</span>
-          </button>
-        </li>
-        <li>
-          <button class="unit-nav-btn" data-target="unit-3">
-            <span class="unit-nav-name"><span class="unit-indicator-dot" data-unit="3"></span> Unit 3: Cell Biology</span>
-            <span class="unit-nav-progress" id="nav-prog-3">0%</span>
-          </button>
-        </li>
-        <li>
-          <button class="unit-nav-btn" data-target="unit-4">
-            <span class="unit-nav-name"><span class="unit-indicator-dot" data-unit="4"></span> Unit 4: Genetics &amp; DNA</span>
-            <span class="unit-nav-progress" id="nav-prog-4">0%</span>
-          </button>
-        </li>
-        <li>
-          <button class="unit-nav-btn" data-target="unit-5">
-            <span class="unit-nav-name"><span class="unit-indicator-dot" data-unit="5"></span> Unit 5: Evolution</span>
-            <span class="unit-nav-progress" id="nav-prog-5">0%</span>
-          </button>
-        </li>
-        <li>
-          <button class="unit-nav-btn" data-target="unit-6">
-            <span class="unit-nav-name"><span class="unit-indicator-dot" data-unit="6"></span> Unit 6: Diversity of Life</span>
-            <span class="unit-nav-progress" id="nav-prog-6">0%</span>
-          </button>
-        </li>
-        <li>
-          <button class="unit-nav-btn" data-target="unit-7">
-            <span class="unit-nav-name"><span class="unit-indicator-dot" data-unit="7"></span> Unit 7: Plants &amp; Animals</span>
-            <span class="unit-nav-progress" id="nav-prog-7">0%</span>
-          </button>
-        </li>
-        <li>
-          <button class="unit-nav-btn" data-target="unit-8">
-            <span class="unit-nav-name"><span class="unit-indicator-dot" data-unit="8"></span> Unit 8: Ecology &amp; Energy</span>
-            <span class="unit-nav-progress" id="nav-prog-8">0%</span>
-          </button>
-        </li>
-        
-        <li style="margin-top: 8px; border-top: 1px dashed var(--border); padding-top: 8px;">
-          <h2 class="dashboard-title" style="font-size: 11px; text-transform: uppercase; color: var(--text-dim); letter-spacing: 0.05em; margin-bottom: 6px;">Evaluations</h2>
-          <button class="unit-nav-btn" data-target="final-exam-simulator">
-            <span class="unit-nav-name">⚡ 2026 Final Exam Sim</span>
-            <span class="unit-badge" style="background:var(--wrong-soft); color:var(--wrong-ink); border-color:var(--wrong-soft-2);">Outline</span>
-          </button>
-        </li>
-        <li>
-          <button class="unit-nav-btn" data-target="practice-exam">
-            <span class="unit-nav-name">🎯 Random Practice Test</span>
-            <span class="unit-nav-progress">Test</span>
-          </button>
-        </li>
+      <ul class="unit-nav-list" id="unit-nav-list-container">
+        <!-- Populated dynamically via JS -->
       </ul>
     </div>
 
@@ -1359,18 +1327,33 @@ html_template = """<!DOCTYPE html>
 // RAW QUIZ DATA INJECTED
 const QUIZ_DATA = %s;
 const EXAM_DATA = %s;
+const ACTIVE_RECALL_DATA = %s;
+const HISTORY_DATA = %s;
+const ULTIMATE_STUDY_DATA = %s;
 
 // Global application state
 let appState = {
   theme: 'light',
   feedbackMode: 'immediate', // 'immediate' or 'section'
-  currentView: 'dashboard', // 'dashboard', 'unit-1'..'unit-8', 'practice-exam', 'final-exam-simulator'
+  currentView: 'dashboard', // 'dashboard', 'unit-1'..'unit-8', 'practice-exam', 'final-exam-simulator', 'active-recall', 'ultimate-study'
+  currentSubject: 'biology', // 'biology' or 'history'
   userAnswers: {}, // key: q_unit_section_idx -> { selected: [indices], locked: true, correct: boolean }
+  activeRecallAnswers: {}, // key: ar_unit_page_qidx -> { selected: [indices], locked: true, correct: boolean }
+  activeRecallUnit: 1,
+  activeRecallPage: 1,
   
   // Final Exam Simulator Session State
   examSession: null, // Active exam session details (MC answers, text responses, time left)
   examResult: null,   // Completed, graded exam results for review
-  examGradingMode: 'end' // 'end' (check at end, recommended) or 'during' (check during test)
+  examGradingMode: 'end', // 'end' (check at end, recommended) or 'during' (check during test)
+  
+  // Ultimate Study Mode State
+  ultimateStudyMastery: {}, // key: topic_id -> mastery level (0=unopened, 1=reviewing, 2=mastered)
+  ultimateActiveTopic: 'u1_t1', // active topic ID or 'active-outline' or 'oe_...'
+  ultimateOpenEndedDrafts: {}, // key: prompt_id -> text draft, and prompt_id + '_done' -> boolean
+  ultimateRecallBlanks: {}, // key: blank_id/card_id -> value or state
+  ultimateActiveOutlineUnit: 1,
+  ultimateZenMode: false
 };
 
 // Load saved state from localStorage
@@ -1396,6 +1379,30 @@ function loadState() {
     appState.feedbackMode = savedMode;
   }
   
+  const savedSubject = localStorage.getItem('quiz_subject_v1');
+  if (savedSubject) {
+    appState.currentSubject = savedSubject;
+  }
+  
+  const savedRecallAnswers = localStorage.getItem('quiz_recall_answers_v1');
+  if (savedRecallAnswers) {
+    try {
+      appState.activeRecallAnswers = JSON.parse(savedRecallAnswers);
+    } catch(e) {
+      appState.activeRecallAnswers = {};
+    }
+  }
+  
+  const savedRecallUnit = localStorage.getItem('quiz_recall_unit_v1');
+  if (savedRecallUnit) {
+    appState.activeRecallUnit = parseInt(savedRecallUnit) || 1;
+  }
+  
+  const savedRecallPage = localStorage.getItem('quiz_recall_page_v1');
+  if (savedRecallPage) {
+    appState.activeRecallPage = parseInt(savedRecallPage) || 1;
+  }
+  
   // Load active final exam session or graded result
   const savedExamSession = localStorage.getItem('bio_final_exam_session');
   if (savedExamSession) {
@@ -1414,20 +1421,63 @@ function loadState() {
       appState.examResult = null;
     }
   }
+
+  // Load Ultimate Study state
+  const savedUltimateMastery = localStorage.getItem('ultimate_study_mastery_v1');
+  if (savedUltimateMastery) {
+    try { appState.ultimateStudyMastery = JSON.parse(savedUltimateMastery); } catch(e) {}
+  }
+  if (!appState.ultimateStudyMastery) appState.ultimateStudyMastery = {};
+
+  const savedUltimateActive = localStorage.getItem('ultimate_active_topic_v1');
+  if (savedUltimateActive) appState.ultimateActiveTopic = savedUltimateActive;
+
+  const savedUltimateDrafts = localStorage.getItem('ultimate_oe_drafts_v1');
+  if (savedUltimateDrafts) {
+    try { appState.ultimateOpenEndedDrafts = JSON.parse(savedUltimateDrafts); } catch(e) {}
+  }
+  if (!appState.ultimateOpenEndedDrafts) appState.ultimateOpenEndedDrafts = {};
+
+  const savedUltimateBlanks = localStorage.getItem('ultimate_recall_blanks_v1');
+  if (savedUltimateBlanks) {
+    try { appState.ultimateRecallBlanks = JSON.parse(savedUltimateBlanks); } catch(e) {}
+  }
+  if (!appState.ultimateRecallBlanks) appState.ultimateRecallBlanks = {};
+
+  const savedUltimateOutlineUnit = localStorage.getItem('ultimate_outline_unit_v1');
+  if (savedUltimateOutlineUnit) appState.ultimateActiveOutlineUnit = parseInt(savedUltimateOutlineUnit) || 1;
+
+  const savedUltimateZen = localStorage.getItem('ultimate_zen_mode_v1');
+  if (savedUltimateZen) appState.ultimateZenMode = savedUltimateZen === 'true';
 }
 
 // Save study progress state
 function saveState() {
   localStorage.setItem('bio_quiz_state_v3', JSON.stringify(appState.userAnswers));
+  localStorage.setItem('quiz_recall_answers_v1', JSON.stringify(appState.activeRecallAnswers));
+  localStorage.setItem('quiz_recall_unit_v1', appState.activeRecallUnit);
+  localStorage.setItem('quiz_recall_page_v1', appState.activeRecallPage);
+  localStorage.setItem('quiz_subject_v1', appState.currentSubject);
+
+  // Save Ultimate Study state
+  localStorage.setItem('ultimate_study_mastery_v1', JSON.stringify(appState.ultimateStudyMastery));
+  localStorage.setItem('ultimate_active_topic_v1', appState.ultimateActiveTopic);
+  localStorage.setItem('ultimate_oe_drafts_v1', JSON.stringify(appState.ultimateOpenEndedDrafts));
+  localStorage.setItem('ultimate_recall_blanks_v1', JSON.stringify(appState.ultimateRecallBlanks));
+  localStorage.setItem('ultimate_outline_unit_v1', appState.ultimateActiveOutlineUnit || 1);
+  localStorage.setItem('ultimate_zen_mode_v1', appState.ultimateZenMode);
+
   flashSaveIndicator();
 }
 
 function flashSaveIndicator() {
   const indicator = document.getElementById('save-indicator');
-  indicator.classList.add('active');
-  setTimeout(() => {
-    indicator.classList.remove('active');
-  }, 1200);
+  if (indicator) {
+    indicator.classList.add('active');
+    setTimeout(() => {
+      indicator.classList.remove('active');
+    }, 1200);
+  }
 }
 
 // Save active exam simulator session state
@@ -1448,6 +1498,10 @@ function saveExamResult() {
   }
 }
 
+function getActiveQuizData() {
+  return appState.currentSubject === 'biology' ? QUIZ_DATA : HISTORY_DATA;
+}
+
 // Calculate scores for the study guide
 function calculateProgress() {
   let stats = {
@@ -1458,15 +1512,19 @@ function calculateProgress() {
     units: {}
   };
   
-  for (let u = 1; u <= 8; u++) {
+  const data = getActiveQuizData();
+  const startUnit = appState.currentSubject === 'biology' ? 1 : 5;
+  const endUnit = 8;
+  
+  for (let u = startUnit; u <= endUnit; u++) {
     stats.units[u] = { total: 0, answered: 0, correct: 0 };
-    if (!QUIZ_DATA[u]) continue;
+    if (!data[u]) continue;
     
-    stats.totalQuestions += QUIZ_DATA[u].length;
-    stats.units[u].total = QUIZ_DATA[u].length;
+    stats.totalQuestions += data[u].length;
+    stats.units[u].total = data[u].length;
     
-    QUIZ_DATA[u].forEach((q, idx) => {
-      const qKey = `q_${u}_${q.section}_${idx}`;
+    data[u].forEach((q, idx) => {
+      const qKey = appState.currentSubject === 'biology' ? `q_${u}_${q.section}_${idx}` : `q_hist_${u}_${q.section}_${idx}`;
       const ans = appState.userAnswers[qKey];
       
       if (ans && ans.locked) {
@@ -1489,6 +1547,12 @@ function calculateProgress() {
 function updateDashboardUI() {
   const stats = calculateProgress();
   
+  // Title of the progress panel
+  const panelTitle = document.getElementById('progress-panel-title');
+  if (panelTitle) {
+    panelTitle.textContent = appState.currentSubject === 'biology' ? 'Biology Study Progress' : 'History Study Progress';
+  }
+  
   // Overall display
   const overallPct = stats.totalQuestions > 0 ? Math.round((stats.correct / stats.totalQuestions) * 100) : 0;
   const overallAnsPct = stats.totalQuestions > 0 ? Math.round((stats.answered / stats.totalQuestions) * 100) : 0;
@@ -1501,12 +1565,16 @@ function updateDashboardUI() {
   document.getElementById('stat-wrong').textContent = stats.wrong;
   
   // Nav items progress
-  for (let u = 1; u <= 8; u++) {
+  const startUnit = appState.currentSubject === 'biology' ? 1 : 5;
+  const endUnit = 8;
+  for (let u = startUnit; u <= endUnit; u++) {
     const uStats = stats.units[u];
-    const uPct = uStats.total > 0 ? Math.round((uStats.answered / uStats.total) * 100) : 0;
-    const progLabel = document.getElementById(`nav-prog-${u}`);
-    if (progLabel) {
-      progLabel.textContent = uPct + '%';
+    if (uStats) {
+      const uPct = uStats.total > 0 ? Math.round((uStats.answered / uStats.total) * 100) : 0;
+      const progLabel = document.getElementById(`nav-prog-${u}`);
+      if (progLabel) {
+        progLabel.textContent = uPct + '%';
+      }
     }
   }
 }
@@ -1541,11 +1609,14 @@ function showView(viewId) {
     renderPracticeExamSetup(mainView);
   } else if (viewId === 'final-exam-simulator') {
     renderFinalExamView(mainView);
+  } else if (viewId === 'active-recall') {
+    renderActiveRecallView(mainView);
+  } else if (viewId === 'ultimate-study') {
+    renderUltimateStudyView(mainView);
   }
   
   window.scrollTo(0, 0);
 }
-
 // Shuffles an array helper
 function shuffleArray(array) {
   let arr = [...array];
@@ -1559,7 +1630,7 @@ function shuffleArray(array) {
 // ── OVERALL DASHBOARD VIEW RENDERER ──
 function renderOverallDashboard(container) {
   const stats = calculateProgress();
-  const unitSummaries = {
+  const bioSummaries = {
     1: "Lab Safety, Biological Hierarchy, Scientific Method, Microscopy, Bioethics",
     2: "Inorganic/Organic Chemistry, Carbohydrates, Lipids, Proteins, Nucleic Acids, Osmosis, Enzymes",
     3: "Cell Structures, Eukaryotic Organelles, Chromosomes, Mitosis, Cancer, Stem Cells",
@@ -1569,21 +1640,67 @@ function renderOverallDashboard(container) {
     7: "Plant Tissues/Organs, Stomata & Xylem Transport, Phloem Pressure Flow, Hormones, Tropisms, Animal Tissues, Heart Circulation, Lungs, Nervous System, Skeletons",
     8: "Behavioral Ecology, Population Growth, Food Webs & Communities, Photosynthesis (Calvin Cycle), Respiration (Glycolysis, Krebs), Biomes, Conservation"
   };
+  const histSummaries = {
+    5: "Causes of the Industrial Revolution, James Watt and Steam, Inventions, Urbanization, Capitalism vs Communism (Marx & Adam Smith), Social Darwinism, Art Movements",
+    6: "Nationalism, Congress of Vienna, French Revolutions, Latin American Independence, Unifications of Germany (Bismarck) and Italy (Cavour & Garibaldi), Victorian Britain, Ottoman Empire Decline, Russian Modernization",
+    7: "Motives & Forms of Imperialism, Scramble for Africa, Berlin Conference, King Leopold Congo, Muhammad Ali Egypt, Young Turks, Sepoy Rebellion in India, Opium Wars in China, Meiji Restoration",
+    8: "MANIIA Causes of WWI, Assassination of Franz Ferdinand, Trench Warfare & Technology, Sykes-Picot, Russian Revolution, US Entry, Treaty of Versailles & League of Nations"
+  };
+  
+  const isBio = appState.currentSubject === 'biology';
+  const summaries = isBio ? bioSummaries : histSummaries;
+  const startUnit = isBio ? 1 : 5;
+  const endUnit = 8;
+  
+  // Calculate Active Recall progress for Bio
+  let arTotalPages = 0;
+  let arCompletedPages = 0;
+  if (isBio && typeof ACTIVE_RECALL_DATA !== 'undefined') {
+    for (let u = 1; u <= 8; u++) {
+      const pages = ACTIVE_RECALL_DATA[u] || [];
+      arTotalPages += pages.length;
+      pages.forEach(p => {
+        let pageDone = true;
+        if (!p.questions || p.questions.length === 0) {
+          pageDone = true;
+        } else {
+          p.questions.forEach((q, qIdx) => {
+            const arKey = `ar_${u}_${p.page}_${qIdx}`;
+            if (!appState.activeRecallAnswers[arKey] || !appState.activeRecallAnswers[arKey].locked) {
+              pageDone = false;
+            }
+          });
+        }
+        if (pageDone) arCompletedPages++;
+      });
+    }
+  }
+  const arPct = arTotalPages > 0 ? Math.round((arCompletedPages / arTotalPages) * 100) : 0;
+  const sgPct = stats.totalQuestions > 0 ? Math.round((stats.answered / stats.totalQuestions) * 100) : 0;
   
   let html = `
     <div class="hero-panel">
-      <div class="hero-eyebrow">Biology 9 · Comprehensive Final Exam Study Suite</div>
-      <h1>Master the Biology Curriculum</h1>
-      <p>This study tool provides over 390 highly granular, detailed practice questions spanning Units 1 through 8. Complete study sections, immediate answer checking, and a customizable practice exam mode are included to ensure complete preparation.</p>
+      <div class="hero-eyebrow">${isBio ? 'Biology 9' : 'World History'} · Comprehensive Study Suite</div>
+      <h1>Master the ${isBio ? 'Biology' : 'History'} Curriculum</h1>
+      <p>
+        ${isBio 
+          ? 'This study tool provides over 390 highly granular practice questions and an interactive Active Recall deck spanning Units 1 through 8. Check your answers instantly or at the end of each section.' 
+          : 'This study room covers World History Units 5 through 8 (Industrial Revolution, Nationalism, Imperialism, and World War I) with rigorous multiple-choice and select-all questions.'}
+      </p>
       
+      ${isBio ? `
       <div style="display:flex; gap: 12px; margin-top: 18px; flex-wrap: wrap;">
         <button class="q-btn primary" onclick="showView('final-exam-simulator')" style="background: var(--wrong); border-color: var(--wrong); padding: 10px 20px; font-weight: 600; display:flex; align-items:center; gap: 8px;">
           ⚡ Open 2026 Biology Final Exam Simulator
         </button>
+        <button class="q-btn" onclick="showView('active-recall')" style="padding: 10px 20px; font-weight: 600; display:flex; align-items:center; gap: 8px; border-color: var(--accent); color: var(--accent);">
+          📖 Open Active Recall Reading Deck
+        </button>
       </div>
+      ` : ''}
       
       <div style="margin-top: 16px; padding: 10px 14px; background: var(--correct-soft); border-left: 4px solid var(--correct); border-radius: 6px; font-size: 13px; color: var(--correct-ink); font-weight: 500; display: flex; align-items: center; gap: 8px;">
-        <span>🛡️ All curriculum questions and simulated exam content have been cross-referenced and verified to align 100% with the provided course notes.</span>
+        <span>🛡️ All curriculum questions and study room content have been cross-referenced and verified to align 100% with the provided course notes.</span>
       </div>
       
       <div class="mode-select-bar">
@@ -1594,12 +1711,41 @@ function renderOverallDashboard(container) {
         </div>
       </div>
     </div>
-    
+  `;
+  
+  // Show double progress block for Bio
+  if (isBio) {
+    html += `
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 24px;">
+        <div class="sidebar-box" style="margin-bottom: 0;">
+          <h2 class="dashboard-title" style="font-size:15px; margin-bottom:6px;">🧬 Study Guide Practice Questions</h2>
+          <div style="font-size: 13px; color: var(--text-secondary); margin-bottom: 6px;">
+            Completed: <strong>${stats.answered} / ${stats.totalQuestions}</strong> (${sgPct}%)
+          </div>
+          <div class="bar-container" style="height: 8px; margin-top:0;">
+            <div class="bar-fill" style="width: ${sgPct}%; background: var(--accent);"></div>
+          </div>
+        </div>
+        <div class="sidebar-box" style="margin-bottom: 0;">
+          <h2 class="dashboard-title" style="font-size:15px; margin-bottom:6px;">📖 Active Recall Reading Pages</h2>
+          <div style="font-size: 13px; color: var(--text-secondary); margin-bottom: 6px;">
+            Completed: <strong>${arCompletedPages} / ${arTotalPages}</strong> (${arPct}%)
+          </div>
+          <div class="bar-container" style="height: 8px; margin-top:0;">
+            <div class="bar-fill" style="width: ${arPct}%; background: var(--correct);"></div>
+          </div>
+        </div>
+      </div>
+    `;
+  }
+  
+  html += `
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
   `;
   
-  for (let u = 1; u <= 8; u++) {
+  for (let u = startUnit; u <= endUnit; u++) {
     const uStats = stats.units[u];
+    if (!uStats) continue;
     const answered = uStats.answered;
     const total = uStats.total;
     const correct = uStats.correct;
@@ -1607,14 +1753,14 @@ function renderOverallDashboard(container) {
     const scorePct = answered > 0 ? Math.round((correct / answered) * 100) : 0;
     
     html += `
-      <div class="sidebar-box unit-card" data-unit="${u}" style="display:flex; flex-direction:column; justify-content:space-between; height: 100%;">
+      <div class="sidebar-box unit-card" data-unit="${u}" style="display:flex; flex-direction:column; justify-content:space-between; height: 100%; margin-bottom:0;">
         <div>
           <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom: 8px;">
             <h3 style="font-family:'DM Serif Display', serif; font-size: 18px;">Unit ${u}</h3>
             <span class="unit-badge" style="font-size: 10px;">${total} Qs</span>
           </div>
           <p style="font-size: 13px; color: var(--text-secondary); line-height: 1.4; margin-bottom: 12px; height: 75px; overflow: hidden;">
-            ${unitSummaries[u]}
+            ${summaries[u] || ''}
           </p>
         </div>
         
@@ -1656,7 +1802,7 @@ function renderOverallDashboard(container) {
 
 // ── UNIT DETAIL VIEW RENDERER ──
 function renderUnitView(container, unitNum) {
-  const questions = QUIZ_DATA[unitNum] || [];
+  const questions = getActiveQuizData()[unitNum] || [];
   
   // Group questions by section
   let sectionsMap = {};
@@ -2073,7 +2219,7 @@ function gradeQuestion(unitNum, sec, idx, qBlock, q, state) {
 }
 
 function updateSectionProgressText(unitNum, sec) {
-  const questions = QUIZ_DATA[unitNum] || [];
+  const questions = getActiveQuizData()[unitNum] || [];
   let secQs = questions.filter(q => q.section === sec);
   let total = secQs.length;
   let answered = 0;
@@ -2095,7 +2241,7 @@ function updateSectionProgressText(unitNum, sec) {
 // Section End Grader: grade all questions in a section at once
 function checkAllSectionQuestions(unitNum, sec) {
   const container = document.getElementById(`sec-qs-container-${sec.replace('.', '_')}`);
-  const questions = QUIZ_DATA[unitNum] || [];
+  const questions = getActiveQuizData()[unitNum] || [];
   
   let sectionAnswersUnsavedCount = 0;
   
@@ -3043,8 +3189,10 @@ function renderPracticeExamSetup(container) {
 
 function total_questions_count() {
   let total = 0;
-  for (let u = 1; u <= 8; u++) {
-    if (QUIZ_DATA[u]) total += QUIZ_DATA[u].length;
+  const data = getActiveQuizData();
+  const startUnit = appState.currentSubject === 'biology' ? 1 : 5;
+  for (let u = startUnit; u <= 8; u++) {
+    if (data[u]) total += data[u].length;
   }
   return total;
 }
@@ -3055,9 +3203,11 @@ function startPracticeExam() {
   
   // Aggregate all questions
   let allQs = [];
-  for (let u = 1; u <= 8; u++) {
-    if (!QUIZ_DATA[u]) continue;
-    QUIZ_DATA[u].forEach((q, idx) => {
+  const data = getActiveQuizData();
+  const startUnit = appState.currentSubject === 'biology' ? 1 : 5;
+  for (let u = startUnit; u <= 8; u++) {
+    if (!data[u]) continue;
+    data[u].forEach((q, idx) => {
       allQs.push({ ...q, unit: u, originalIdx: idx });
     });
   }
@@ -3415,6 +3565,12 @@ function stopMusic() {
 function initAudioAnalyser() {
   if (audioSourceConnected) return; // Already connected
   
+  // If running via file:// protocol, avoid createMediaElementSource to prevent complete silencing
+  if (window.location.protocol === 'file:') {
+    console.warn('Running via file:// protocol. Bypassing Web Audio node routing to prevent local CORS mute.');
+    return;
+  }
+  
   try {
     audioCtx = new (window.AudioContext || window.webkitAudioContext)();
     analyser = audioCtx.createAnalyser();
@@ -3531,6 +3687,502 @@ function stopScreenShake() {
   if (vignette) vignette.style.boxShadow = 'inset 0 0 120px rgba(139, 0, 255, 0), inset 0 0 60px rgba(0, 0, 0, 0)';
 }
 
+// ── SUBJECT & NAVIGATION CONTROL ──
+function setSubject(subj) {
+  if (window.event) window.event.stopPropagation();
+  appState.currentSubject = subj;
+  saveState();
+  
+  // Update switcher UI
+  const bioBtn = document.getElementById('subject-bio-btn');
+  const histBtn = document.getElementById('subject-hist-btn');
+  if (bioBtn && histBtn) {
+    if (subj === 'biology') {
+      bioBtn.classList.add('primary');
+      histBtn.classList.remove('primary');
+    } else {
+      bioBtn.classList.remove('primary');
+      histBtn.classList.add('primary');
+    }
+  }
+  
+  // Re-render navigation sidebar
+  renderSidebarNav();
+  
+  // Go to dashboard
+  showView('dashboard');
+}
+
+function renderSidebarNav() {
+  const container = document.getElementById('unit-nav-list-container');
+  if (!container) return;
+  
+  let html = '';
+  const isBio = appState.currentSubject === 'biology';
+  
+  if (isBio) {
+    html += `
+      <li>
+        <button class="unit-nav-btn ${appState.currentView === 'dashboard' ? 'active' : ''}" data-target="dashboard">
+          <span class="unit-nav-name">📊 Study Dashboard</span>
+        </button>
+      </li>
+      <li>
+        <button class="unit-nav-btn ${appState.currentView === 'active-recall' ? 'active' : ''}" data-target="active-recall">
+          <span class="unit-nav-name">📖 Active Recall Reading</span>
+        </button>
+      </li>
+      <li>
+        <button class="unit-nav-btn ${appState.currentView === 'ultimate-study' ? 'active' : ''}" data-target="ultimate-study">
+          <span class="unit-nav-name">⚡ Ultimate Outline Study</span>
+          <span class="unit-badge" style="background:var(--amber-soft); color:var(--amber-ink); border-color:var(--amber-border);">Core</span>
+        </button>
+      </li>
+    `;
+    
+    const bioUnitNames = {
+      1: "Sci & Safety",
+      2: "Biomolecules",
+      3: "Cell Biology",
+      4: "Genetics & DNA",
+      5: "Evolution",
+      6: "Diversity of Life",
+      7: "Plants & Animals",
+      8: "Ecology & Energy"
+    };
+    
+    for (let u = 1; u <= 8; u++) {
+      html += `
+        <li>
+          <button class="unit-nav-btn ${appState.currentView === 'unit-' + u ? 'active' : ''}" data-target="unit-${u}">
+            <span class="unit-nav-name"><span class="unit-indicator-dot" data-unit="${u}"></span> Unit ${u}: ${bioUnitNames[u]}</span>
+            <span class="unit-nav-progress" id="nav-prog-${u}">0%</span>
+          </button>
+        </li>
+      `;
+    }
+    
+    html += `
+      <li style="margin-top: 8px; border-top: 1px dashed var(--border); padding-top: 8px;">
+        <h2 class="dashboard-title" style="font-size: 11px; text-transform: uppercase; color: var(--text-dim); letter-spacing: 0.05em; margin-bottom: 6px;">Evaluations</h2>
+        <button class="unit-nav-btn ${appState.currentView === 'final-exam-simulator' ? 'active' : ''}" data-target="final-exam-simulator">
+          <span class="unit-nav-name">⚡ 2026 Final Exam Sim</span>
+          <span class="unit-badge" style="background:var(--wrong-soft); color:var(--wrong-ink); border-color:var(--wrong-soft-2);">Outline</span>
+        </button>
+      </li>
+      <li>
+        <button class="unit-nav-btn ${appState.currentView === 'practice-exam' ? 'active' : ''}" data-target="practice-exam">
+          <span class="unit-nav-name">🎯 Random Practice Test</span>
+          <span class="unit-nav-progress">Test</span>
+        </button>
+      </li>
+    `;
+  } else {
+    html += `
+      <li>
+        <button class="unit-nav-btn ${appState.currentView === 'dashboard' ? 'active' : ''}" data-target="dashboard">
+          <span class="unit-nav-name">📊 Study Dashboard</span>
+        </button>
+      </li>
+    `;
+    
+    const histUnitNames = {
+      5: "Industrial Rev",
+      6: "Nationalism & Rev",
+      7: "Imperialism",
+      8: "World War I"
+    };
+    
+    for (let u = 5; u <= 8; u++) {
+      html += `
+        <li>
+          <button class="unit-nav-btn ${appState.currentView === 'unit-' + u ? 'active' : ''}" data-target="unit-${u}">
+            <span class="unit-nav-name"><span class="unit-indicator-dot" data-unit="${u}"></span> Unit ${u}: ${histUnitNames[u]}</span>
+            <span class="unit-nav-progress" id="nav-prog-${u}">0%</span>
+          </button>
+        </li>
+      `;
+    }
+    
+    html += `
+      <li style="margin-top: 8px; border-top: 1px dashed var(--border); padding-top: 8px;">
+        <h2 class="dashboard-title" style="font-size: 11px; text-transform: uppercase; color: var(--text-dim); letter-spacing: 0.05em; margin-bottom: 6px;">Evaluations</h2>
+      </li>
+      <li>
+        <button class="unit-nav-btn ${appState.currentView === 'practice-exam' ? 'active' : ''}" data-target="practice-exam">
+          <span class="unit-nav-name">🎯 Random Practice Test</span>
+          <span class="unit-nav-progress">Test</span>
+        </button>
+      </li>
+    `;
+  }
+  
+  container.innerHTML = html;
+  
+  // Bind listeners
+  container.querySelectorAll('.unit-nav-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      showView(btn.dataset.target);
+    });
+  });
+  
+  updateDashboardUI();
+}
+
+// ── ACTIVE RECALL READING ROOM ──
+function renderActiveRecallView(container) {
+  const selectedUnit = appState.activeRecallUnit;
+  const pages = ACTIVE_RECALL_DATA[selectedUnit] || [];
+  
+  if (pages.length === 0) {
+    container.innerHTML = `
+      <div class="sidebar-box" style="text-align: center; padding: 40px 20px;">
+        <h2 style="font-family:'DM Serif Display', serif; margin-bottom: 12px;">Active Recall Data Loading...</h2>
+        <p style="color: var(--text-secondary); font-size:14px;">Active recall reading content is still being generated or is missing for Unit ${selectedUnit}. Please ensure the subagents have finished and compiled.</p>
+      </div>
+    `;
+    return;
+  }
+  
+  if (appState.activeRecallPage < 1 || appState.activeRecallPage > pages.length) {
+    appState.activeRecallPage = 1;
+  }
+  
+  const currentPageIdx = appState.activeRecallPage - 1;
+  const pageData = pages[currentPageIdx];
+  
+  let completedPages = 0;
+  pages.forEach(p => {
+    let pageDone = true;
+    if (!p.questions || p.questions.length === 0) {
+      pageDone = true;
+    } else {
+      p.questions.forEach((q, qIdx) => {
+        const arKey = `ar_${selectedUnit}_${p.page}_${qIdx}`;
+        if (!appState.activeRecallAnswers[arKey] || !appState.activeRecallAnswers[arKey].locked) {
+          pageDone = false;
+        }
+      });
+    }
+    if (pageDone) completedPages++;
+  });
+  
+  const progressPct = Math.round((completedPages / pages.length) * 100);
+  
+  let unitTabsHtml = '';
+  for (let u = 1; u <= 8; u++) {
+    unitTabsHtml += `
+      <button class="q-btn ${selectedUnit === u ? 'primary' : ''}" style="padding: 6px 12px; font-weight: 600; font-size:12.5px; border-radius:6px;" onclick="selectRecallUnit(${u})">
+        Unit ${u}
+      </button>
+    `;
+  }
+  
+  let jumpOptionsHtml = '';
+  pages.forEach((p, idx) => {
+    jumpOptionsHtml += `<option value="${idx + 1}" ${appState.activeRecallPage === idx + 1 ? 'selected' : ''}>Page ${idx + 1}: ${p.slide_title.substring(0, 40)}${p.slide_title.length > 40 ? '...' : ''}</option>`;
+  });
+  
+  let html = `
+    <div style="display:flex; align-items:center; gap: 12px; margin-bottom: 8px;">
+      <button class="q-btn" onclick="showView('dashboard')">← Dashboard</button>
+      <span class="unit-badge">🧬 Active Recall Study Room</span>
+    </div>
+    <h1 style="font-family:'DM Serif Display', serif; font-size: 32px; margin-bottom: 12px;">Active Recall &amp; Reading Deck</h1>
+    <p style="color:var(--text-secondary); margin-bottom: 20px; font-size:14.5px;">
+      Read through the detailed explanations of each slide from the notes, then answer the questions to lock in your active recall memory.
+    </p>
+    
+    <div style="display: flex; gap: 8px; margin-bottom: 16px; overflow-x: auto; padding-bottom: 6px; border-bottom: 1px solid var(--border);">
+      ${unitTabsHtml}
+    </div>
+    
+    <div class="sidebar-box" style="margin-bottom: 20px; padding: 14px 18px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px;">
+      <div style="flex-grow: 1; min-width: 200px;">
+        <div style="font-size: 13px; font-weight: 600; margin-bottom: 4px; display:flex; justify-content:space-between;">
+          <span>Unit ${selectedUnit} Reading Progress</span>
+          <span>${completedPages} / ${pages.length} Pages Read (${progressPct}%)</span>
+        </div>
+        <div class="bar-container" style="height: 8px; margin-top:0;">
+          <div class="bar-fill" style="width: ${progressPct}%; background: var(--correct);"></div>
+        </div>
+      </div>
+      <button class="q-btn danger" style="padding: 6px 12px; font-size:12px;" onclick="resetRecallUnit(${selectedUnit})">Reset Unit Progress</button>
+    </div>
+    
+    <div class="section-card" style="border-top: 4px solid var(--accent);">
+      <div class="section-header" style="cursor: default; background: var(--surface2); display:flex; justify-content:space-between; align-items:center; padding: 14px 20px;">
+        <div class="section-header-left" style="display:flex; flex-direction:column; gap:2px; align-items:flex-start;">
+          <span class="section-badge" style="background: var(--accent-soft); color: var(--accent-ink);">PAGE ${appState.activeRecallPage} OF ${pages.length}</span>
+          <span style="font-size: 11px; color: var(--text-dim); font-family: 'DM Mono', monospace; margin-top: 4px;">File: ${pageData.filename} &middot; Section: ${pageData.section_title}</span>
+        </div>
+        <div style="display: flex; align-items: center; gap: 8px;">
+          <button class="q-btn" style="padding: 4px 10px; font-size:12px;" ${appState.activeRecallPage === 1 ? 'disabled' : ''} onclick="navigateRecallPage(-1)">← Prev</button>
+          <select class="form-select" style="padding: 4px 8px; font-size:12px; max-width: 140px; margin: 0;" onchange="jumpRecallPage(this.value)">
+            ${jumpOptionsHtml}
+          </select>
+          <button class="q-btn" style="padding: 4px 10px; font-size:12px;" ${appState.activeRecallPage === pages.length ? 'disabled' : ''} onclick="navigateRecallPage(1)">Next →</button>
+        </div>
+      </div>
+      
+      <div class="section-body open" style="padding: 24px;">
+        <h2 style="font-family:'DM Serif Display', serif; font-size: 23px; margin-bottom: 16px; border-bottom: 1px solid var(--border); padding-bottom: 8px;">
+          ${pageData.slide_title}
+        </h2>
+        
+        <details style="margin-bottom: 20px; background: var(--surface2); border: 1px solid var(--border); border-radius: 8px;">
+          <summary style="padding: 10px 14px; font-size: 13px; font-weight: 600; color: var(--text-secondary); cursor: pointer; user-select: none;">
+            📄 Show Original Slide Text
+          </summary>
+          <div style="padding: 14px; font-size: 13.5px; white-space: pre-wrap; font-family: 'DM Mono', monospace; line-height: 1.5; border-top: 1px solid var(--border); color: var(--text-secondary);">
+            ${pageData.original_text || '(No text on this slide)'}
+          </div>
+        </details>
+        
+        <div style="background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 20px; margin-bottom: 24px; box-shadow: 0 1px 3px rgba(0,0,0,0.01);">
+          <div style="font-family: 'DM Mono', monospace; font-size: 11px; text-transform: uppercase; color: var(--accent); font-weight: 700; margin-bottom: 8px; letter-spacing:0.05em;">Detailed Concept Explanation</div>
+          <div style="font-size: 15px; line-height: 1.7; color: var(--text-primary);">
+            ${pageData.explanation.replace(/\\n/g, '<br style="margin-bottom: 8px;">')}
+          </div>
+        </div>
+        
+        <div style="border-top: 1px dashed var(--border); padding-top: 20px;">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom: 16px;">
+            <h3 style="font-family:'DM Serif Display', serif; font-size: 19px; display:flex; align-items:center; gap:8px;">
+              <span>🧠 Active Recall Self-Test</span>
+            </h3>
+            <button class="q-btn danger" style="padding: 4px 10px; font-size:11.5px;" onclick="resetRecallPage(${selectedUnit}, ${appState.activeRecallPage})">Reset Page Qs</button>
+          </div>
+          
+          <div id="recall-qs-container">
+            <!-- Questions rendered here -->
+          </div>
+        </div>
+        
+      </div>
+    </div>
+  `;
+  
+  container.innerHTML = html;
+  
+  const qContainer = document.getElementById('recall-qs-container');
+  renderRecallQuestions(qContainer, selectedUnit, appState.activeRecallPage, pageData.questions || []);
+}
+
+function selectRecallUnit(u) {
+  appState.activeRecallUnit = u;
+  appState.activeRecallPage = 1;
+  saveState();
+  renderActiveRecallView(document.getElementById('main-view'));
+}
+
+function navigateRecallPage(direction) {
+  appState.activeRecallPage += direction;
+  saveState();
+  renderActiveRecallView(document.getElementById('main-view'));
+}
+
+function jumpRecallPage(val) {
+  appState.activeRecallPage = parseInt(val) || 1;
+  saveState();
+  renderActiveRecallView(document.getElementById('main-view'));
+}
+
+function renderRecallQuestions(container, unitNum, pageNum, questions) {
+  container.innerHTML = '';
+  
+  if (questions.length === 0) {
+    container.innerHTML = `<div style="font-size: 14px; color: var(--text-dim); font-style: italic;">No active recall questions for this page. Read the explanation and proceed!</div>`;
+    return;
+  }
+  
+  questions.forEach((q, idx) => {
+    const arKey = `ar_${unitNum}_${pageNum}_${idx}`;
+    const savedState = appState.activeRecallAnswers[arKey] || { selected: [], locked: false, correct: false };
+    
+    const qBlock = document.createElement('div');
+    qBlock.className = 'q-block';
+    
+    const meta = document.createElement('div');
+    meta.className = 'q-meta';
+    
+    const badge = document.createElement('span');
+    badge.className = 'q-type-badge';
+    badge.textContent = `Question ${idx + 1}`;
+    meta.appendChild(badge);
+    
+    const stateBadge = document.createElement('span');
+    stateBadge.className = 'q-state-badge';
+    if (savedState.locked) {
+      stateBadge.classList.add(savedState.correct ? 'correct' : 'wrong');
+      stateBadge.textContent = savedState.correct ? '\u2713 Correct' : '\u2717 Incorrect';
+    }
+    meta.appendChild(stateBadge);
+    
+    qBlock.appendChild(meta);
+    
+    const text = document.createElement('div');
+    text.className = 'q-text';
+    text.textContent = q.q;
+    qBlock.appendChild(text);
+    
+    const optsDiv = document.createElement('div');
+    optsDiv.className = 'opts-container';
+    
+    q.opts.forEach((optText, optIdx) => {
+      const label = document.createElement('label');
+      label.className = 'opt-label';
+      if (savedState.selected.includes(optIdx)) label.classList.add('selected');
+      if (savedState.locked) {
+        label.classList.add('locked');
+        if (optIdx === q.a) {
+          label.classList.add('correct');
+        } else if (savedState.selected.includes(optIdx)) {
+          label.classList.add('wrong');
+        }
+      }
+      
+      const input = document.createElement('input');
+      input.type = 'radio';
+      input.className = 'opt-input';
+      input.name = `opt_ar_${unitNum}_${pageNum}_${idx}`;
+      input.value = optIdx;
+      input.checked = savedState.selected.includes(optIdx);
+      input.disabled = savedState.locked;
+      
+      input.addEventListener('change', () => {
+        if (savedState.locked) return;
+        savedState.selected = [optIdx];
+        qBlock.querySelectorAll('.opt-label').forEach(lbl => lbl.classList.remove('selected'));
+        label.classList.add('selected');
+        
+        const checkBtn = qBlock.querySelector('.check-answer-btn');
+        if (checkBtn) checkBtn.style.display = 'inline-flex';
+        
+        appState.activeRecallAnswers[arKey] = { selected: savedState.selected, locked: false, correct: false };
+        localStorage.setItem('quiz_recall_answers_v1', JSON.stringify(appState.activeRecallAnswers));
+      });
+      
+      label.appendChild(input);
+      
+      const letter = document.createElement('span');
+      letter.className = 'opt-letter';
+      letter.textContent = String.fromCharCode(65 + optIdx) + '.';
+      label.appendChild(letter);
+      
+      const textSpan = document.createElement('span');
+      textSpan.className = 'opt-text';
+      textSpan.textContent = optText;
+      label.appendChild(textSpan);
+      
+      optsDiv.appendChild(label);
+    });
+    qBlock.appendChild(optsDiv);
+    
+    const feedback = document.createElement('div');
+    feedback.className = 'q-feedback';
+    if (savedState.locked) {
+      feedback.classList.add('show', savedState.correct ? 'good' : 'bad');
+      const correctLetter = String.fromCharCode(65 + q.a);
+      let feedbackText = '';
+      if (savedState.correct) {
+        feedbackText = `<strong>\u2713 Correct! You chose ${correctLetter}.</strong>`;
+      } else {
+        const userLetter = savedState.selected.length > 0 ? String.fromCharCode(65 + savedState.selected[0]) : 'None';
+        feedbackText = `<strong>\u2717 Incorrect. You chose ${userLetter}. The correct answer is ${correctLetter}.</strong>`;
+      }
+      feedback.innerHTML = `${feedbackText}<br style="margin-bottom:6px;">${q.exp || q.explanation || ''}`;
+    }
+    qBlock.appendChild(feedback);
+    
+    const actions = document.createElement('div');
+    actions.className = 'q-actions';
+    if (!savedState.locked) {
+      const checkBtn = document.createElement('button');
+      checkBtn.className = 'q-btn primary check-answer-btn';
+      checkBtn.textContent = 'Check Answer';
+      checkBtn.style.display = savedState.selected.length > 0 ? 'inline-flex' : 'none';
+      checkBtn.addEventListener('click', () => {
+        if (savedState.selected.length === 0) return;
+        gradeRecallQuestion(unitNum, pageNum, idx, qBlock, q, savedState);
+        checkBtn.style.display = 'none';
+      });
+      actions.appendChild(checkBtn);
+    }
+    qBlock.appendChild(actions);
+    
+    container.appendChild(qBlock);
+  });
+}
+
+function gradeRecallQuestion(unitNum, pageNum, idx, qBlock, q, state) {
+  if (state.locked) return;
+  state.locked = true;
+  
+  const isCorrect = state.selected.includes(q.a);
+  state.correct = isCorrect;
+  
+  const arKey = `ar_${unitNum}_${pageNum}_${idx}`;
+  appState.activeRecallAnswers[arKey] = {
+    selected: state.selected,
+    locked: true,
+    correct: isCorrect
+  };
+  
+  localStorage.setItem('quiz_recall_answers_v1', JSON.stringify(appState.activeRecallAnswers));
+  
+  const stateBadge = qBlock.querySelector('.q-state-badge');
+  stateBadge.className = 'q-state-badge ' + (isCorrect ? 'correct' : 'wrong');
+  stateBadge.textContent = isCorrect ? '\u2713 Correct' : '\u2717 Incorrect';
+  
+  const correctLetter = String.fromCharCode(65 + q.a);
+  let feedbackText = '';
+  if (isCorrect) {
+    feedbackText = `<strong>\u2713 Correct! You chose ${correctLetter}.</strong>`;
+  } else {
+    const userLetter = state.selected.length > 0 ? String.fromCharCode(65 + state.selected[0]) : 'None';
+    feedbackText = `<strong>\u2717 Incorrect. You chose ${userLetter}. The correct answer is ${correctLetter}.</strong>`;
+  }
+  
+  const feedback = qBlock.querySelector('.q-feedback');
+  feedback.className = 'q-feedback show ' + (isCorrect ? 'good' : 'bad');
+  feedback.innerHTML = `${feedbackText}<br style="margin-bottom:6px;">${q.exp || q.explanation || ''}`;
+  
+  qBlock.querySelectorAll('.opt-label').forEach((label, oIdx) => {
+    label.classList.add('locked');
+    if (oIdx === q.a) {
+      label.classList.add('correct');
+    } else if (state.selected.includes(oIdx)) {
+      label.classList.add('wrong');
+    }
+  });
+  
+  renderActiveRecallView(document.getElementById('main-view'));
+}
+
+function resetRecallPage(unitNum, pageNum) {
+  if (window.event) window.event.stopPropagation();
+  Object.keys(appState.activeRecallAnswers).forEach(key => {
+    if (key.startsWith(`ar_${unitNum}_${pageNum}_`)) {
+      delete appState.activeRecallAnswers[key];
+    }
+  });
+  localStorage.setItem('quiz_recall_answers_v1', JSON.stringify(appState.activeRecallAnswers));
+  renderActiveRecallView(document.getElementById('main-view'));
+}
+
+function resetRecallUnit(unitNum) {
+  if (window.event) window.event.stopPropagation();
+  if (!confirm(`Reset all answers in Unit ${unitNum} recall reading?`)) return;
+  Object.keys(appState.activeRecallAnswers).forEach(key => {
+    if (key.startsWith(`ar_${unitNum}_`)) {
+      delete appState.activeRecallAnswers[key];
+    }
+  });
+  localStorage.setItem('quiz_recall_answers_v1', JSON.stringify(appState.activeRecallAnswers));
+  renderActiveRecallView(document.getElementById('main-view'));
+}
+
 // ── SECTION RESET / SHUFFLE ──
 let sectionShuffleMap = {}; // key: 'unit_sec' -> shuffled index array
 
@@ -3546,14 +4198,15 @@ function saveShuffleState() {
 }
 
 function reRenderSectionOnly(unitNum, sec) {
-  const questions = QUIZ_DATA[unitNum] || [];
+  const data = getActiveQuizData();
+  const questions = data[unitNum] || [];
   const secQs = [];
   questions.forEach((q, idx) => {
     if (q.section === sec) secQs.push({ q, idx });
   });
   
   // Apply shuffle if exists
-  const shuffleKey = `${unitNum}_${sec}`;
+  const shuffleKey = appState.currentSubject === 'biology' ? `${unitNum}_${sec}` : `hist_${unitNum}_${sec}`;
   let orderedQs = secQs;
   if (sectionShuffleMap[shuffleKey]) {
     const order = sectionShuffleMap[shuffleKey];
@@ -3569,7 +4222,7 @@ function reRenderSectionOnly(unitNum, sec) {
   // Update section progress text
   let answered = 0;
   secQs.forEach(({ q, idx }) => {
-    const qKey = `q_${unitNum}_${sec}_${idx}`;
+    const qKey = appState.currentSubject === 'biology' ? `q_${unitNum}_${sec}_${idx}` : `q_hist_${unitNum}_${sec}_${idx}`;
     if (appState.userAnswers[qKey] && appState.userAnswers[qKey].locked) answered++;
   });
   const progEl = document.getElementById(`sec-prog-${sec.replace('.', '_')}`);
@@ -3577,12 +4230,13 @@ function reRenderSectionOnly(unitNum, sec) {
 }
 
 function resetSection(unitNum, sec) {
-  if (!confirm('Reset all answers in section ' + sec + '? This will clear your progress for this section.')) return;
+  if (window.event) window.event.stopPropagation();
   
-  const questions = QUIZ_DATA[unitNum] || [];
+  const data = getActiveQuizData();
+  const questions = data[unitNum] || [];
   questions.forEach((q, idx) => {
     if (q.section === sec) {
-      const qKey = `q_${unitNum}_${sec}_${idx}`;
+      const qKey = appState.currentSubject === 'biology' ? `q_${unitNum}_${sec}_${idx}` : `q_hist_${unitNum}_${sec}_${idx}`;
       delete appState.userAnswers[qKey];
     }
   });
@@ -3593,7 +4247,9 @@ function resetSection(unitNum, sec) {
 }
 
 function shuffleSection(unitNum, sec) {
-  const questions = QUIZ_DATA[unitNum] || [];
+  if (window.event) window.event.stopPropagation();
+  const data = getActiveQuizData();
+  const questions = data[unitNum] || [];
   const sectionIndices = [];
   questions.forEach((q, idx) => {
     if (q.section === sec) sectionIndices.push(idx);
@@ -3605,14 +4261,15 @@ function shuffleSection(unitNum, sec) {
     [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
   }
   
-  const key = `${unitNum}_${sec}`;
+  const key = appState.currentSubject === 'biology' ? `${unitNum}_${sec}` : `hist_${unitNum}_${sec}`;
   sectionShuffleMap[key] = shuffled;
   saveShuffleState();
   reRenderSectionOnly(unitNum, sec);
 }
 
 function unshuffleSection(unitNum, sec) {
-  const key = `${unitNum}_${sec}`;
+  if (window.event) window.event.stopPropagation();
+  const key = appState.currentSubject === 'biology' ? `${unitNum}_${sec}` : `hist_${unitNum}_${sec}`;
   delete sectionShuffleMap[key];
   saveShuffleState();
   reRenderSectionOnly(unitNum, sec);
@@ -3657,17 +4314,9 @@ function setupMusicPlayer() {
 document.addEventListener('DOMContentLoaded', () => {
   loadState();
   loadShuffleState();
-  updateDashboardUI();
+  renderSidebarNav();
   setupResetModal();
   setupMusicPlayer();
-  
-  // Add sidebar nav listener
-  document.querySelectorAll('.unit-nav-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      const target = btn.dataset.target;
-      showView(target);
-    });
-  });
   
   // Theme toggle
   document.getElementById('theme-toggle').addEventListener('click', () => {
@@ -3681,20 +4330,45 @@ document.addEventListener('DOMContentLoaded', () => {
   // Default to dashboard
   showView('dashboard');
 });
+/* ULTIMATE_JS_CONTENT */
 </script>
 </body>
 </html>
 """
 
-# Serialize raw study data and exam data
+# Serialize raw data
 study_data_json = json.dumps(study_data, ensure_ascii=False)
 exam_data_json = json.dumps(exam_data, ensure_ascii=False)
+active_recall_json = json.dumps(active_recall_data, ensure_ascii=False)
+history_json = json.dumps(history_data, ensure_ascii=False)
+
+# Load compiled ultimate study data
+ultimate_study_data = {}
+ultimate_study_data_path = os.path.join(base_dir, "ultimate_study_data.json")
+if os.path.exists(ultimate_study_data_path):
+    with open(ultimate_study_data_path, "r", encoding="utf-8") as f:
+        ultimate_study_data = json.load(f)
+ultimate_study_json = json.dumps(ultimate_study_data, ensure_ascii=False)
+
+# Load ultimate study JS script
+ultimate_js_content = ""
+ultimate_js_path = r"C:\Users\elieu\.gemini\antigravity\brain\a37b27ff-fecd-4f79-bc15-556af791e659\scratch\ultimate_study.js"
+if os.path.exists(ultimate_js_path):
+    with open(ultimate_js_path, "r", encoding="utf-8") as f:
+        ultimate_js_content = f.read()
 
 # Insert the data into template using string replace instead of % formatting
-final_html = html_template.replace("%s", study_data_json, 1).replace("%s", exam_data_json, 1)
+final_html = html_template.replace("%s", study_data_json, 1) \
+                           .replace("%s", exam_data_json, 1) \
+                           .replace("%s", active_recall_json, 1) \
+                           .replace("%s", history_json, 1) \
+                           .replace("%s", ultimate_study_json, 1)
+
+# Replace JS content placeholder
+final_html = final_html.replace("/* ULTIMATE_JS_CONTENT */", ultimate_js_content)
 
 # Write to file
 with open(output_file, "w", encoding="utf-8") as f:
     f.write(final_html)
 
-print("Assembly complete! Generated index.html with Final Exam Simulator.")
+print("Assembly complete! Generated index.html with Final Exam Simulator & Ultimate Outline Study Mode.")
