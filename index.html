@@ -1573,6 +1573,55 @@ function shuffleArray(array) {
   return arr;
 }
 
+function naturalChoiceOrder(q) {
+  return q.opts.map((_, idx) => idx);
+}
+
+function shuffledChoiceOrder(q) {
+  return shuffleArray(naturalChoiceOrder(q));
+}
+
+function isValidChoiceOrder(order, q) {
+  if (!Array.isArray(order) || order.length !== q.opts.length) return false;
+  const seen = new Set(order);
+  if (seen.size !== q.opts.length) return false;
+  return order.every(idx => Number.isInteger(idx) && idx >= 0 && idx < q.opts.length);
+}
+
+function ensureFinalExamChoiceOrders(session) {
+  if (!session) return false;
+  let changed = false;
+  if (!session.choiceOrders) {
+    session.choiceOrders = {};
+    changed = true;
+  }
+  ['part1', 'part2', 'part3'].forEach(partKey => {
+    if (!Array.isArray(session.choiceOrders[partKey])) {
+      session.choiceOrders[partKey] = [];
+      changed = true;
+    }
+    EXAM_DATA[partKey].forEach((q, idx) => {
+      if (!isValidChoiceOrder(session.choiceOrders[partKey][idx], q)) {
+        session.choiceOrders[partKey][idx] = shuffledChoiceOrder(q);
+        changed = true;
+      }
+    });
+  });
+  return changed;
+}
+
+function getChoiceOrder(choiceOrders, partKey, idx, q) {
+  const partOrders = choiceOrders && choiceOrders[partKey];
+  const order = partOrders && partOrders[idx];
+  return isValidChoiceOrder(order, q) ? order : naturalChoiceOrder(q);
+}
+
+function displayLetterForChoice(order, originalChoiceIdx) {
+  if (originalChoiceIdx === null || originalChoiceIdx === undefined || originalChoiceIdx === -1) return 'None';
+  const displayIdx = order.indexOf(originalChoiceIdx);
+  return displayIdx >= 0 ? String.fromCharCode(65 + displayIdx) : 'None';
+}
+
 // ── OVERALL DASHBOARD VIEW RENDERER ──
 function renderOverallDashboard(container) {
   const stats = calculateProgress();
@@ -2289,6 +2338,11 @@ function startFinalExamSimulation() {
     part1Answers: Array(EXAM_DATA.part1.length).fill(null),
     part2Answers: Array(EXAM_DATA.part2.length).fill(null),
     part3Answers: Array(EXAM_DATA.part3.length).fill(null),
+    choiceOrders: {
+      part1: EXAM_DATA.part1.map(q => shuffledChoiceOrder(q)),
+      part2: EXAM_DATA.part2.map(q => shuffledChoiceOrder(q)),
+      part3: EXAM_DATA.part3.map(q => shuffledChoiceOrder(q))
+    },
     
     // Part 4 written responses: key is unit number -> { selectedOption: 'A'|'B', answerText: '...' }
     part4Responses: {
@@ -2310,6 +2364,7 @@ function startFinalExamSimulation() {
 
 function renderFinalExamRoom(container) {
   const session = appState.examSession;
+  if (ensureFinalExamChoiceOrders(session)) saveExamSession();
   
   // Timer interval setup
   if (session.timerInterval) clearInterval(session.timerInterval);
@@ -2427,24 +2482,25 @@ function renderFinalExamRoom(container) {
   
   // Render Part 1 Questions
   const p1Container = document.getElementById('part-1-qs');
-  renderExamMCList(p1Container, EXAM_DATA.part1, session.part1Answers, 'p1');
+  renderExamMCList(p1Container, EXAM_DATA.part1, session.part1Answers, 'p1', session.choiceOrders, 'part1');
   
   // Render Part 2 Questions
   const p2Container = document.getElementById('part-2-qs');
-  renderExamMCList(p2Container, EXAM_DATA.part2, session.part2Answers, 'p2');
+  renderExamMCList(p2Container, EXAM_DATA.part2, session.part2Answers, 'p2', session.choiceOrders, 'part2');
   
   // Render Part 3 Questions
   const p3Container = document.getElementById('part-3-qs');
-  renderExamMCList(p3Container, EXAM_DATA.part3, session.part3Answers, 'p3');
+  renderExamMCList(p3Container, EXAM_DATA.part3, session.part3Answers, 'p3', session.choiceOrders, 'part3');
   
   // Render Part 4 Written Questions
   const p4Container = document.getElementById('part-4-prompts');
   renderExamWrittenList(p4Container, EXAM_DATA.part4, session.part4Responses);
 }
 
-function renderExamMCList(container, questionList, answerArray, namePrefix) {
+function renderExamMCList(container, questionList, answerArray, namePrefix, choiceOrders, partKey) {
   container.innerHTML = '';
   questionList.forEach((q, idx) => {
+    const order = getChoiceOrder(choiceOrders, partKey, idx, q);
     const qBlock = document.createElement('div');
     qBlock.className = 'q-block';
     
@@ -2462,9 +2518,11 @@ function renderExamMCList(container, questionList, answerArray, namePrefix) {
     const optsDiv = document.createElement('div');
     optsDiv.className = 'opts-container';
     
-    q.opts.forEach((optText, optIdx) => {
+    order.forEach((optIdx, displayIdx) => {
+      const optText = q.opts[optIdx];
       const label = document.createElement('label');
       label.className = 'opt-label';
+      label.dataset.optionIndex = optIdx;
       if (answerArray[idx] === optIdx) label.classList.add('selected');
       
       const input = document.createElement('input');
@@ -2484,7 +2542,7 @@ function renderExamMCList(container, questionList, answerArray, namePrefix) {
       
       const letter = document.createElement('span');
       letter.className = 'opt-letter';
-      letter.textContent = String.fromCharCode(65 + optIdx) + '.';
+      letter.textContent = String.fromCharCode(65 + displayIdx) + '.';
       label.appendChild(letter);
       
       const textSpan = document.createElement('span');
@@ -2511,8 +2569,8 @@ function renderExamMCList(container, questionList, answerArray, namePrefix) {
       checkBtn.addEventListener('click', () => {
         if (answerArray[idx] === null || answerArray[idx] === undefined) return;
         const isCorrect = (answerArray[idx] === q.a);
-        const userLetter = String.fromCharCode(65 + answerArray[idx]);
-        const correctLetter = String.fromCharCode(65 + q.a);
+        const userLetter = displayLetterForChoice(order, answerArray[idx]);
+        const correctLetter = displayLetterForChoice(order, q.a);
         
         fb.className = 'q-feedback show ' + (isCorrect ? 'good' : 'bad');
         if (isCorrect) {
@@ -2525,8 +2583,9 @@ function renderExamMCList(container, questionList, answerArray, namePrefix) {
         if (q.explanations) {
           const expBox = document.createElement('div');
           expBox.style.cssText = 'margin-top:8px;font-size:13px;line-height:1.5;';
-          q.explanations.forEach((exp, eIdx) => {
-            const letter = String.fromCharCode(65 + eIdx);
+          order.forEach((eIdx, displayIdx) => {
+            const exp = q.explanations[eIdx];
+            const letter = String.fromCharCode(65 + displayIdx);
             const p = document.createElement('p');
             p.style.marginBottom = '4px';
             if (eIdx === q.a) {
@@ -2544,7 +2603,8 @@ function renderExamMCList(container, questionList, answerArray, namePrefix) {
         }
         
         // Color the options
-        qBlock.querySelectorAll('.opt-label').forEach((lbl, oIdx) => {
+        qBlock.querySelectorAll('.opt-label').forEach(lbl => {
+          const oIdx = Number(lbl.dataset.optionIndex);
           lbl.classList.add('locked');
           lbl.style.pointerEvents = 'none';
           if (oIdx === q.a) lbl.classList.add('correct');
@@ -2704,6 +2764,7 @@ function submitFinalExamSimulation() {
     part1Answers: session.part1Answers,
     part2Answers: session.part2Answers,
     part3Answers: session.part3Answers,
+    choiceOrders: session.choiceOrders,
     part4Responses: session.part4Responses,
     
     // Scores
@@ -2825,22 +2886,23 @@ function renderFinalExamReview(container) {
   
   // Render Graded MCs
   const r1 = document.getElementById('rev-part-1-qs');
-  renderExamGradedMC(r1, EXAM_DATA.part1, res.part1Answers);
+  renderExamGradedMC(r1, EXAM_DATA.part1, res.part1Answers, res.choiceOrders, 'part1');
   
   const r2 = document.getElementById('rev-part-2-qs');
-  renderExamGradedMC(r2, EXAM_DATA.part2, res.part2Answers);
+  renderExamGradedMC(r2, EXAM_DATA.part2, res.part2Answers, res.choiceOrders, 'part2');
   
   const r3 = document.getElementById('rev-part-3-qs');
-  renderExamGradedMC(r3, EXAM_DATA.part3, res.part3Answers);
+  renderExamGradedMC(r3, EXAM_DATA.part3, res.part3Answers, res.choiceOrders, 'part3');
   
   // Render Written self-grader
   const r4 = document.getElementById('rev-part-4-written');
   renderExamGradedWritten(r4, EXAM_DATA.part4, res.part4Responses, res.p4Grades);
 }
 
-function renderExamGradedMC(container, questionList, answerArray) {
+function renderExamGradedMC(container, questionList, answerArray, choiceOrders, partKey) {
   container.innerHTML = '';
   questionList.forEach((q, idx) => {
+    const order = getChoiceOrder(choiceOrders, partKey, idx, q);
     const userChoice = answerArray[idx];
     const isCorrect = (userChoice === q.a);
     
@@ -2872,7 +2934,8 @@ function renderExamGradedMC(container, questionList, answerArray) {
     const optsDiv = document.createElement('div');
     optsDiv.className = 'opts-container';
     
-    q.opts.forEach((optText, optIdx) => {
+    order.forEach((optIdx, displayIdx) => {
+      const optText = q.opts[optIdx];
       const label = document.createElement('label');
       label.className = 'opt-label locked';
       if (userChoice === optIdx) label.classList.add('selected');
@@ -2885,7 +2948,7 @@ function renderExamGradedMC(container, questionList, answerArray) {
       
       const letter = document.createElement('span');
       letter.className = 'opt-letter';
-      letter.textContent = String.fromCharCode(65 + optIdx) + '.';
+      letter.textContent = String.fromCharCode(65 + displayIdx) + '.';
       label.appendChild(letter);
       
       const textSpan = document.createElement('span');
@@ -2901,8 +2964,8 @@ function renderExamGradedMC(container, questionList, answerArray) {
     // Add feedback row with user choice and correct answer
     const feedback = document.createElement('div');
     feedback.className = 'q-feedback show ' + (isCorrect ? 'good' : 'bad');
-    const userLetter = userChoice !== undefined && userChoice !== null && userChoice !== -1 ? String.fromCharCode(65 + userChoice) : 'None';
-    const correctLetter = String.fromCharCode(65 + q.a);
+    const userLetter = displayLetterForChoice(order, userChoice);
+    const correctLetter = displayLetterForChoice(order, q.a);
     if (isCorrect) {
       feedback.innerHTML = `<strong>✓ Correct! You chose ${correctLetter}.</strong>`;
     } else {
@@ -2919,11 +2982,11 @@ function renderExamGradedMC(container, questionList, answerArray) {
     expTitle.textContent = 'Option-by-Option Explanations';
     expBox.appendChild(expTitle);
     
-    q.opts.forEach((optText, optIdx) => {
+    order.forEach((optIdx, displayIdx) => {
       const expItem = document.createElement('div');
       expItem.className = 'opt-exp-item';
       
-      const letterChar = String.fromCharCode(65 + optIdx);
+      const letterChar = String.fromCharCode(65 + displayIdx);
       const isThisCorrect = (optIdx === q.a);
       const isUserSelected = (userChoice === optIdx);
       
