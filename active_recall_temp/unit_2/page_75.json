@@ -1,0 +1,22 @@
+{
+  "unit": 2,
+  "page": 75,
+  "filename": "Unit_2_3.txt",
+  "section_title": "Movement of Molecules",
+  "page_num_in_file": 1,
+  "slide_title": "UNIT 2: MOVEMENT OF MOLECULESBiology 9              Mr. QueenanText -Ch 8.3 (p 260-273)",
+  "explanation": "This is the title slide for Unit 2: Movement of Molecules for Biology 9 with Mr. Queenan, which covers Textbook Chapter 8.3 on pages 260-273.",
+  "questions": [
+    {
+      "q": "Which chapter and page range of the textbook correspond to the Movement of Molecules section?",
+      "opts": [
+        "Chapter 2.3 (p 52-56)",
+        "Chapter 8.3 (p 260-273)",
+        "Chapter 9.1 (p 280-290)",
+        "Chapter 10.2 (p 300-315)"
+      ],
+      "a": 1,
+      "exp": "The slide title explicitly references 'Text -Ch 8.3 (p 260-273)'."
+    }
+  ]
+}

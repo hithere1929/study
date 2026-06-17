@@ -1,0 +1,34 @@
+{
+  "unit": 6,
+  "page": 29,
+  "filename": "Unit_6_3.txt",
+  "section_title": "Protists",
+  "page_num_in_file": 5,
+  "slide_title": "Diversity",
+  "original_text": "Diversity\nExamples of members of each of the supergroupsCommon ancestors were the first EukaryotesNotice \u2013Supergroups above Kingdom level classificationPlants fall under Archaeplastida SupergroupFungi fall under OpisthokontasupergroupAnimals fall under  OpisthokontasupergroupFungi and Animals more closely related than animals and plants",
+  "explanation": "The common ancestors of the eukaryotic supergroups were the first Eukaryotes. Eukaryotic supergroups are positioned above the Kingdom level of classification. Land plants belong to the Archaeplastida supergroup. Both Fungi and Animals are classified within the Opisthokonta supergroup. This shared evolutionary lineage indicates that Fungi and Animals are more closely related to each other than animals are to plants.",
+  "questions": [
+    {
+      "q": "Under which supergroup are plants classified?",
+      "opts": [
+        "Opisthokonta",
+        "Archaeplastida",
+        "Chromalveolata",
+        "Excavata"
+      ],
+      "a": 1,
+      "exp": "According to the slide, 'Plants fall under Archaeplastida Supergroup'."
+    },
+    {
+      "q": "Which organisms are more closely related according to eukaryotic supergroup classification?",
+      "opts": [
+        "Animals and plants",
+        "Fungi and plants",
+        "Fungi and animals",
+        "Plants and bacteria"
+      ],
+      "a": 2,
+      "exp": "The notes state: 'Fungi and Animals more closely related than animals and plants' because they both fall under the Opisthokonta supergroup."
+    }
+  ]
+}

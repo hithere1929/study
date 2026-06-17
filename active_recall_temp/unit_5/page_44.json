@@ -1,0 +1,23 @@
+{
+  "unit": 5,
+  "page": 44,
+  "filename": "Unit_5_2.txt",
+  "section_title": "How Populations Evolve",
+  "page_num_in_file": 23,
+  "slide_title": "Natural Selection",
+  "original_text": "Natural Selection\n\u00a4Male Competition -Territoriality\n  nDominant males use different methods to communicate to others that the territory, and its females belong to that dominant member\n    nVocalization\n    nDisplays of dominance",
+  "explanation": "Territoriality is a key behavior in male competition. Dominant males defend a specific geographic area containing resources and females. They communicate ownership and warn rivals that the territory and the females within it belong to them through methods such as vocalizations (calls or sounds) and visual displays of dominance.",
+  "questions": [
+    {
+      "q": "How do dominant males communicate to rivals that a territory and its females belong to them?",
+      "opts": [
+        "Through genetic drift and gene flow",
+        "Through vocalizations and displays of dominance",
+        "By changing their physical body size dynamically",
+        "By entering Hardy-Weinberg equilibrium"
+      ],
+      "a": 1,
+      "exp": "Dominant males use methods like vocalization and visual displays of dominance to signal territorial ownership and assert access to breeding females."
+    }
+  ]
+}

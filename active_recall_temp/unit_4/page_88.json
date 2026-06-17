@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 88,
+  "filename": "Unit_4_5.txt",
+  "section_title": "Biotech & Genomics",
+  "page_num_in_file": 8,
+  "slide_title": "The Polymerase Chain Reaction (PCR)\nThe Amoeba Sisters -PCR",
+  "original_text": "The Polymerase Chain Reaction (PCR)\nThe Amoeba Sisters -PCR",
+  "explanation": "This slide introduces the Polymerase Chain Reaction (PCR) by referencing a video from 'The Amoeba Sisters - PCR'.",
+  "questions": [
+    {
+      "q": "What topic does the referenced Amoeba Sisters video cover?",
+      "opts": [
+        "Gel Electrophoresis",
+        "The Polymerase Chain Reaction (PCR)",
+        "Genomic Imprinting",
+        "Alternative Splicing"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide title and video reference both specify 'PCR' (Polymerase Chain Reaction). The other options are incorrect."
+    }
+  ]
+}

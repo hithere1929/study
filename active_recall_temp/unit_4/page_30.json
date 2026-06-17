@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 30,
+  "filename": "Unit_4_3.txt",
+  "section_title": "DNA Replication, Transcription, Translation",
+  "page_num_in_file": 2,
+  "slide_title": "Central Dogma of Biology",
+  "original_text": "Central Dogma of Biology",
+  "explanation": "This page introduces the Central Dogma of Biology, which describes the flow of genetic information within a biological system, typically summarized as DNA to RNA to Protein.",
+  "questions": [
+    {
+      "q": "What general molecular pathway does the Central Dogma of Biology describe?",
+      "opts": [
+        "The flow of genetic information from DNA to RNA to protein",
+        "The pathway of glucose breakdown in cellular respiration",
+        "The steps of active transport across the cell membrane",
+        "The stages of the cell cycle and mitosis"
+      ],
+      "a": 0,
+      "exp": "Option A is correct because the Central Dogma describes the pathway of genetic information flow (typically DNA -> RNA -> protein). The other options describe cellular respiration, membrane transport, and cell cycle division, which are not the Central Dogma."
+    }
+  ]
+}

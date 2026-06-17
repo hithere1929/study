@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 31,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 16,
+  "slide_title": "Rough ER",
+  "original_text": "Rough ER\nSystem of interconnected flattened sacs covered with ribosomes\nProduces phospholipidsand proteins\nProteins fold and take final shape at ER. Contains enzymes that can attach carbohydrates to form phospholipids\nProteins are exported from cell or inserted into cell’s own membrane\nEx: digestive enzymes are made, accumulate inside ER, little sacs (vesicles) pinch off from ends of rough ER and store enzymes until they are released from the cell\nMost abundant in cells that produce large amounts of proteins for transport\nDigestive glands and antibody-producingcells",
+  "explanation": "The Rough Endoplasmic Reticulum (Rough ER) is a system of interconnected flattened sacs covered with ribosomes. It produces phospholipids and proteins, which fold and assume their final shapes within the ER. It also contains enzymes that attach carbohydrates to form phospholipids (or glycoproteins). These proteins are destined for export from the cell or insertion into the cell's own membrane. For instance, digestive enzymes are made and accumulate inside the ER, and small sacs (vesicles) pinch off from the ends of the Rough ER to store and transport them until release. Rough ER is most abundant in cells specializing in protein export, such as digestive glands and antibody-producing cells.",
+  "questions": [
+    {
+      "q": "In which cell types would you expect to find the most abundant Rough ER?",
+      "opts": [
+        "Cells that do not produce any proteins",
+        "Digestive glands and antibody-producing cells",
+        "Red blood cells",
+        "Epidermal skin cells"
+      ],
+      "a": 1,
+      "exp": "The slide states that Rough ER is most abundant in cells that produce large amounts of proteins for transport, such as digestive glands and antibody-producing cells."
+    },
+    {
+      "q": "What structure on the surface of the Rough ER gives it its 'rough' appearance and is responsible for protein synthesis?",
+      "opts": [
+        "Cisternae",
+        "Ribosomes",
+        "Lysosomes",
+        "Golgi bodies"
+      ],
+      "a": 1,
+      "exp": "The Rough ER is covered with ribosomes, which synthesize proteins."
+    }
+  ]
+}

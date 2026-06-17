@@ -1,0 +1,34 @@
+{
+  "unit": 6,
+  "page": 3,
+  "filename": "Unit_6_1.txt",
+  "section_title": "Viruses",
+  "page_num_in_file": 3,
+  "slide_title": "Virus Overview\u00a8Viruses related to a variety of plant, animal, and human disease. \u00a8Non-cellular construction\u00a8May have DNA or RNA genome\u00a8Able to evolve as a result of mutations\u00a8Require the machinery of the host cell they infect to replicate \u00a8Not considered living\u00a4Do not have metabolism, cannot respond to stimuli",
+  "original_text": "Virus Overview\u00a8Viruses related to a variety of plant, animal, and human disease. \u00a8Non-cellular construction\u00a8May have DNA or RNA genome\u00a8Able to evolve as a result of mutations\u00a8Require the machinery of the host cell they infect to replicate \u00a8Not considered living\u00a4Do not have metabolism, cannot respond to stimuli",
+  "explanation": "Viruses are infectious agents associated with a wide variety of diseases in plants, animals, and humans. They feature a non-cellular construction and can possess either a DNA or RNA genome. Because they can acquire mutations, they are able to evolve. However, they are not considered living organisms because they do not have a metabolism and cannot respond to environmental stimuli. To replicate, they must infect a host cell and exploit its cellular machinery.",
+  "questions": [
+    {
+      "q": "Which of the following biological features is NOT characteristic of viruses according to the overview?",
+      "opts": [
+        "Non-cellular construction",
+        "Possession of a DNA or RNA genome",
+        "Ability to replicate independently without a host cell",
+        "Ability to evolve via mutations"
+      ],
+      "a": 2,
+      "exp": "Viruses require the machinery of the host cell they infect in order to replicate; they cannot replicate independently."
+    },
+    {
+      "q": "What primary reasons are given for why viruses are not considered living?",
+      "opts": [
+        "They are too small to be seen with light microscopes and contain RNA.",
+        "They do not have a metabolism and cannot respond to stimuli.",
+        "They lack any genetic material and cannot mutate.",
+        "They are unable to cause disease in plant and animal tissues."
+      ],
+      "a": 1,
+      "exp": "Viruses are not considered living because they lack their own metabolism and cannot respond to external stimuli."
+    }
+  ]
+}

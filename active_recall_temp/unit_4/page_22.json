@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 22,
+  "filename": "Unit_4_2.txt",
+  "section_title": "DNA Structure",
+  "page_num_in_file": 8,
+  "slide_title": "Thymine (T)Cytosine (C)Pyrimidines",
+  "original_text": "Thymine (T)Cytosine (C)Pyrimidines\nAdenine (A)Guanine (G)Purines",
+  "explanation": "This slide serves as a visual layout showing the classification of the four DNA bases. Thymine (T) and Cytosine (C) are grouped under Pyrimidines. Adenine (A) and Guanine (G) are grouped under Purines.",
+  "questions": [
+    {
+      "q": "Under which category do Cytosine and Thymine fall?",
+      "opts": [
+        "Purines",
+        "Pyrimidines",
+        "Nucleosides",
+        "Riboses"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide classifies Thymine (T) and Cytosine (C) as Pyrimidines. Adenine and Guanine are Purines (Option A)."
+    }
+  ]
+}

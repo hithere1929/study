@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 49,
+  "filename": "Unit_7_3.txt",
+  "section_title": "Plant Control of Growth Responses",
+  "page_num_in_file": 14,
+  "slide_title": "Plant Responses: Phototropism & Thigmotropism",
+  "original_text": "Plant Responses Phototropism Positive phototropism of stems nOccurs because cells on the shady side of the stem elongate due to the presence of auxin nA pigment in the cell membrane (phototropin) absorbs blue light & initiates phototropism Thigmotropism Unusual growth due to contact with solid objects nCoiling of tendrils Thigmomorphogenesisoccurs when the entire plant responds to the presence of environmental stimuli nWind/Rain",
+  "explanation": "This slide covers phototropism, thigmotropism, and thigmomorphogenesis. Positive phototropism in stems causes them to bend toward light because auxin accumulates on the shady side of the stem, stimulating cell elongation there. The light signal is detected by phototropin, a blue-light absorbing receptor pigment located in the cell membrane. Thigmotropism is a growth response to contact with solid objects, such as the coiling of tendrils around a support. Thigmomorphogenesis refers to structural changes in the entire plant's growth pattern (such as growing shorter or sturdier) in response to environmental mechanical forces like wind or rain.",
+  "questions": [
+    {
+      "q": "Which pigment absorbs blue light to initiate phototropism in stems?",
+      "opts": [
+        "Phytochrome",
+        "Chlorophyll",
+        "Phototropin",
+        "Carotenoid"
+      ],
+      "a": 2,
+      "exp": "Phototropin is a blue-light photoreceptor in the cell membrane that initiates phototropism."
+    },
+    {
+      "q": "What term describes the structural growth response of an entire plant to mechanical forces like wind and rain?",
+      "opts": [
+        "Thigmotropism",
+        "Thigmomorphogenesis",
+        "Gravitropism",
+        "Nastic movement"
+      ],
+      "a": 1,
+      "exp": "Thigmomorphogenesis is the growth response of an entire plant to mechanical stimuli like wind or rain, whereas thigmotropism is localized growth (like coiling) upon contact."
+    }
+  ]
+}

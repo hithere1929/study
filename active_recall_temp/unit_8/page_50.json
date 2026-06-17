@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 50,
+  "filename": "Unit_8_3.txt",
+  "section_title": "Community & Ecosystem Ecology",
+  "page_num_in_file": 16,
+  "slide_title": "Dynamics of an Ecosystem¨The Phosphorus Cycle¤Phosphates from ocean sediment move onto land through uplift¤Slow weathering places phosphorous ions in soil¤Ions taken up by plants to use in phospholipids, DNA, RNA¤Animals eat plants, transferring phosphates¤Death returns these phosphates back to ecosystem for usenBecause weathering is a slow process, and phosphates are being used, availability of phosphate can be a limiting inorganic nutrient¨Human Activities¤Phosphates are used in fertilizers,animal feeds, and detergents¤Excess phosphates in water supplies can lead to eutrophicationnAlgal blooms that can lead tomassive fish kills",
+  "original_text": "Dynamics of an Ecosystem¨The Phosphorus Cycle¤Phosphates from ocean sediment move onto land through uplift¤Slow weathering places phosphorous ions in soil¤Ions taken up by plants to use in phospholipids, DNA, RNA¤Animals eat plants, transferring phosphates¤Death returns these phosphates back to ecosystem for usenBecause weathering is a slow process, and phosphates are being used, availability of phosphate can be a limiting inorganic nutrient¨Human Activities¤Phosphates are used in fertilizers,animal feeds, and detergents¤Excess phosphates in water supplies can lead to eutrophicationnAlgal blooms that can lead tomassive fish kills",
+  "explanation": "The phosphorus cycle is a sedimentary cycle. Phosphates originate in ocean sediments and move onto land via geological uplift. Slow weathering of rocks releases phosphate ions into the soil, where they are taken up by plants to synthesize vital macromolecules (phospholipids, DNA, and RNA). Herbivores and other consumers acquire phosphates by eating plants, and the death and decomposition of organisms return phosphates back to the soil. Because weathering is extremely slow, phosphorus acts as a limiting inorganic nutrient in ecosystems. Human activities disrupt this cycle through the widespread use of phosphates in fertilizers, animal feeds, and detergents. Runoff containing excess phosphates into aquatic systems causes eutrophication, which triggers massive algal blooms and subsequent fish kills.",
+  "questions": [
+    {
+      "q": "Why is phosphate often a limiting inorganic nutrient in ecosystems?",
+      "opts": [
+        "Because weathering of rocks to release phosphate ions is a very slow process.",
+        "Because organisms do not require phosphorus for any biological molecules.",
+        "Because nitrogen-fixing bacteria actively destroy phosphate in the soil.",
+        "Because geological uplift prevents phosphorus from reaching the land."
+      ],
+      "a": 0,
+      "exp": "The notes state: 'Because weathering is a slow process, and phosphates are being used, availability of phosphate can be a limiting inorganic nutrient.'"
+    },
+    {
+      "q": "What ecological problem occurs when excess phosphates from fertilizers and detergents enter water supplies?",
+      "opts": [
+        "Nitrification of the water column",
+        "Groundwater mining depletion",
+        "Eutrophication, leading to algal blooms and massive fish kills",
+        "Batesian mimicry of aquatic plants"
+      ],
+      "a": 2,
+      "exp": "The notes state that excess phosphates in water supplies 'can lead to eutrophication' which results in 'Algal blooms that can lead to massive fish kills.'"
+    }
+  ]
+}

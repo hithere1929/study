@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 41,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 5,
+  "slide_title": "Covalent Bonds",
+  "original_text": "Covalent Bonds¨Types of covalent bonds:¤Single bondnDenoted with a single, solid line representing 2 elements sharing 1 pair of electrons¤Double bondnDenoted with a pair of solid, parallel lines representing 2 elementssharing 2 pairs of electrons¤Triple bondnDenoted with 3 solid, parallel lines representing 2 elements sharing 3 pairs of electrons",
+  "explanation": "Covalent bonds can be categorized based on the number of electron pairs shared between two atoms. A single bond is represented by a single solid line and involves two atoms sharing one pair of electrons. A double bond is shown as a pair of parallel solid lines, representing the sharing of two pairs of electrons. A triple bond is denoted by three parallel solid lines, representing two elements sharing three pairs of electrons.",
+  "questions": [
+    {
+      "q": "What does a double covalent bond represent?",
+      "opts": [
+        "Two atoms sharing one pair of electrons.",
+        "Two atoms sharing two pairs of electrons.",
+        "Two atoms sharing three pairs of electrons.",
+        "An ionic attraction between two charged atoms."
+      ],
+      "a": 1,
+      "exp": "A double bond represents two elements sharing two pairs (four total) of electrons, shown as two parallel lines."
+    },
+    {
+      "q": "How is a triple covalent bond denoted in a structural chemical formula?",
+      "opts": [
+        "A single solid line",
+        "A dashed line",
+        "Two parallel solid lines",
+        "Three parallel solid lines"
+      ],
+      "a": 3,
+      "exp": "A triple bond is denoted using three solid, parallel lines to represent the sharing of three electron pairs."
+    }
+  ]
+}

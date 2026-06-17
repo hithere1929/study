@@ -1,0 +1,34 @@
+{
+  "unit": 1,
+  "page": 21,
+  "filename": "Unit_1_2.txt",
+  "section_title": "Intro to Biology",
+  "page_num_in_file": 8,
+  "slide_title": "Characteristics of Life",
+  "original_text": "Characteristics of Life\n3.Living things maintain homeostasis\u2013Living organisms must maintain a state of biological balance to survive\u2013There is a tolerance range for survival\u2013These biological adjustments do not require conscious activity \u2013controlled mostly by nervous systems\u2013Examples:\u2013Body temperature and sweat\u2013Blood sugar level regulation\u2013pH",
+  "explanation": "This slide covers the third characteristic of life: living things maintain homeostasis. Homeostasis is the maintenance of a state of biological balance required for survival. Organisms operate within a specific tolerance range. Crucially, these biological adjustments do not require conscious activity and are controlled mostly by nervous systems. Examples of homeostasis include body temperature regulation (such as sweating to cool down), blood sugar level regulation, and pH maintenance.",
+  "questions": [
+    {
+      "q": "How is homeostasis defined on this slide?",
+      "opts": [
+        "The capability of moving from place to place",
+        "Maintaining a state of biological balance to survive within a tolerance range",
+        "The union of sperm and egg to create new life",
+        "Performing chemical reactions to obtain solar energy"
+      ],
+      "a": 1,
+      "exp": "The slide states: 'Living organisms must maintain a state of biological balance to survive' and 'There is a tolerance range for survival.'"
+    },
+    {
+      "q": "What control system is mostly responsible for the unconscious adjustments that maintain homeostasis?",
+      "opts": [
+        "The muscular system",
+        "The digestive system",
+        "The nervous system",
+        "The respiratory system"
+      ],
+      "a": 2,
+      "exp": "The text states that these adjustments 'do not require conscious activity \u2013 controlled mostly by nervous systems'."
+    }
+  ]
+}

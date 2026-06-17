@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 132,
+  "filename": "Unit_4_7.txt",
+  "section_title": "Chromosome-based Syndromes",
+  "page_num_in_file": 4,
+  "slide_title": "Aneuploidy¨Euploidy–The correct number of chromosomes for a species¨Aneuploidy–Change in chromosome number resulting from nondisjunction¤Monosomy and Trisomy are two aneuploid statesnMonosomy-(2n –1); 1 copy of chromosome missing in cellnTrisomy–(2n + 1); 1 additional copy of chromosome in cell¤Primary nondisjunction occurs during Meiosis InBoth pairs of chromosomes go to one cellnResults in NO normal gametes¤Secondary nondisjunction occurs during Meiosis IInSister chromatid in one cell fail to separate and go to same gametenResults in 2 normal gametes",
+  "original_text": "Aneuploidy¨Euploidy–The correct number of chromosomes for a species¨Aneuploidy–Change in chromosome number resulting from nondisjunction¤Monosomy and Trisomy are two aneuploid statesnMonosomy-(2n –1); 1 copy of chromosome missing in cellnTrisomy–(2n + 1); 1 additional copy of chromosome in cell¤Primary nondisjunction occurs during Meiosis InBoth pairs of chromosomes go to one cellnResults in NO normal gametes¤Secondary nondisjunction occurs during Meiosis IInSister chromatid in one cell fail to separate and go to same gametenResults in 2 normal gametes",
+  "explanation": "Euploidy refers to having the correct, normal number of chromosomes characteristic of a species. Aneuploidy is an altered chromosome number resulting from nondisjunction. Two common aneuploid states are monosomy (2n - 1), where one chromosome copy is missing, and trisomy (2n + 1), where there is one additional chromosome copy. Nondisjunction can be primary or secondary. Primary nondisjunction occurs during Meiosis I when both homologous chromosomes in a pair go to the same cell, resulting in zero normal gametes. Secondary nondisjunction occurs during Meiosis II when sister chromatids fail to separate in one of the cells, resulting in two normal gametes.",
+  "questions": [
+    {
+      "q": "What is the difference between monosomy and trisomy?",
+      "opts": [
+        "Monosomy is represented as (2n + 1); trisomy is (2n - 1).",
+        "Monosomy is represented as (2n - 1) with one missing chromosome copy; trisomy is (2n + 1) with one additional copy.",
+        "Monosomy only occurs in sex chromosomes; trisomy only occurs in autosomes.",
+        "Monosomy results from mitotic errors; trisomy results from meiotic errors."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'Monosomy-(2n – 1); 1 copy of chromosome missing in cell' and 'Trisomy–(2n + 1); 1 additional copy of chromosome in cell.'"
+    },
+    {
+      "q": "How do the gamete outcomes of primary and secondary nondisjunction compare?",
+      "opts": [
+        "Primary nondisjunction results in all normal gametes; secondary results in none.",
+        "Primary nondisjunction occurs during Meiosis I and results in no normal gametes; secondary nondisjunction occurs during Meiosis II and results in 2 normal gametes.",
+        "Primary nondisjunction occurs during mitosis; secondary occurs during meiosis.",
+        "Both result in exactly two normal gametes."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide explains: 'Primary nondisjunction occurs during Meiosis I... Results in NO normal gametes' and 'Secondary nondisjunction occurs during Meiosis II... Results in 2 normal gametes.'"
+    }
+  ]
+}

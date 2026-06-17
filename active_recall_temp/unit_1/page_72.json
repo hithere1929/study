@@ -1,0 +1,34 @@
+{
+  "unit": 1,
+  "page": 72,
+  "filename": "Unit_1_5.txt",
+  "section_title": "Biotechnology and Bioethics",
+  "page_num_in_file": 7,
+  "slide_title": "Biotechnology",
+  "original_text": "\u2013Biotechnologyis simply defined as the exploitation of biological processes for industrial and other purposes\u2013Humans also unintentionally caused\u2013the evolution of antibiotic-resistant bacteria\u2013the evolution of pesticide-resistant pests\u2013the loss of species through habitat loss and global climate change.\u2013Could this have been avoided?",
+  "explanation": "This slide defines biotechnology as the exploitation of biological processes for industrial and other purposes. It notes that human activities have also unintentionally caused negative environmental and biological consequences. These include: the evolution of antibiotic-resistant bacteria, the evolution of pesticide-resistant pests, and the loss of species through habitat destruction and global climate change. It ends by asking whether these outcomes could have been avoided.",
+  "questions": [
+    {
+      "q": "How is biotechnology defined on this slide?",
+      "opts": [
+        "The study of evolutionary relationships between organisms",
+        "The exploitation of biological processes for industrial and other purposes",
+        "The process of using a microscope to view cells",
+        "The sequence of steps in the scientific method"
+      ],
+      "a": 1,
+      "exp": "The slide defines biotechnology as: 'simply defined as the exploitation of biological processes for industrial and other purposes'."
+    },
+    {
+      "q": "Which of the following is listed as an UNINTENTIONAL consequence of human activity?",
+      "opts": [
+        "The development of the first compound light microscope",
+        "The evolution of antibiotic-resistant bacteria and pesticide-resistant pests",
+        "More productive agricultural crops through selective breeding",
+        "Establishing guidelines for MSDS chemical safety sheets"
+      ],
+      "a": 1,
+      "exp": "The slide lists 'the evolution of antibiotic-resistant bacteria' and 'the evolution of pesticide-resistant pests' under unintentional causes of human activity."
+    }
+  ]
+}

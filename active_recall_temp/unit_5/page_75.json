@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 75,
+  "filename": "Unit_5_4.txt",
+  "section_title": "Principles of Taxonomy & Systematics",
+  "page_num_in_file": 6,
+  "slide_title": "Systemics Biology",
+  "original_text": "Systemics Biology\n\u00a8The higher the category, the more inclusive\n\u00a8Organisms in the same domain have general characteristics in common\n\u00a8Members of a species share very specific characteristics.\n\u00a8The task of creating standardized rules of nomenclature is difficult and has, most recently, been aided by the process of DNA barcoding\n\u00a4Compares short fragments of DNA sequences from an unknown organism to a large database of sequences from known organisms.\n\u00a8Traditionally, taxonomists relied on anatomical data\n\u00a4Consortium for the Barcode of Life (CBOL), proposes that all scientists will be able to identify a species with the flick of a handheld scanner.\n  nLike the 11-digit Universal Product Code (UPC) used in a supermarket, DNA is the UPC of organisms on Earth\n  nA DNA\u2013bar-coding device would provide a fast and inexpensive way to catalog organisms.",
+  "explanation": "Within the taxonomic hierarchy, higher categories are more inclusive; organisms grouped in the same domain share only general traits, whereas members of a species share highly specific characteristics. While taxonomists traditionally relied on anatomical data to classify organisms, modern classification is aided by DNA barcoding. This technology compares short fragments of DNA from an unknown organism against a database of known sequences. The Consortium for the Barcode of Life (CBOL) proposes that scientists will be able to instantly identify species using handheld scanners, treating DNA as the universal product code (UPC) of life. This barcoding system offers a rapid, inexpensive method for cataloging biodiversity.",
+  "questions": [
+    {
+      "q": "What is DNA barcoding?",
+      "opts": [
+        "A method of labeling fossils with physical barcode stickers",
+        "Comparing short DNA fragments of an unknown organism to a database of known sequences for identification",
+        "Mapping the entire genome of an organism in a database",
+        "The selective breeding of plants to create polyploid hybrids"
+      ],
+      "a": 1,
+      "exp": "DNA barcoding is the identification of species by comparing short fragments of their DNA sequences to a reference database of known organisms."
+    },
+    {
+      "q": "What analogy is used to describe the role of DNA in identifying organisms on Earth?",
+      "opts": [
+        "An evolutionary family tree",
+        "A 11-digit Universal Product Code (UPC) used in supermarkets",
+        "A geological clock",
+        "A digital hand scanner"
+      ],
+      "a": 1,
+      "exp": "The notes compare DNA to the 11-digit Universal Product Code (UPC) used in supermarkets, acting as the 'UPC of organisms on Earth'."
+    }
+  ]
+}

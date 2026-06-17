@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 164,
+  "filename": "Unit_4_8.txt",
+  "section_title": "Mendelian Inheritance P1 - Mendelian Genetics",
+  "page_num_in_file": 19,
+  "slide_title": "Classical View of Homologous Chromosomes",
+  "original_text": "Classical View of Homologous Chromosomes",
+  "explanation": "The classical view of homologous chromosomes shows that they are pairs of chromosomes carrying alleles for the same traits at corresponding gene loci. They consist of one maternal chromosome and one paternal chromosome.",
+  "questions": [
+    {
+      "q": "Where are alleles of the same gene located on homologous chromosomes?",
+      "opts": [
+        "At different loci on non-homologous chromosomes.",
+        "At a particular gene locus on each chromosome of the homologous pair.",
+        "Only on the sex chromosomes.",
+        "In the nucleolus."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because alleles of the same gene occupy the same relative position (locus) on homologous chromosomes."
+    }
+  ]
+}

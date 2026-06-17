@@ -1,0 +1,23 @@
+{
+  "unit": 7,
+  "page": 64,
+  "filename": "Unit_7_4.txt",
+  "section_title": "Plant Reproduction",
+  "page_num_in_file": 10,
+  "slide_title": "Seed Development",
+  "original_text": "Seed Development Development: Programmed series of stages from a simple to a more complex form Development of a eudicot embryo nAfter double fertilization, the zygote divides repeatedly to form a proembryoand a suspensor",
+  "explanation": "Development is a programmed series of structural and functional changes from simple to complex forms. In eudicot seeds, following double fertilization, the diploid zygote undergoes repeated cell division to form two structures: the proembryo (which will develop into the plant embryo) and the suspensor (which anchors the embryo and transfers nutrients to it).",
+  "questions": [
+    {
+      "q": "In eudicot seed development, what two structures are directly formed by the division of the zygote?",
+      "opts": [
+        "Pollen tube and style",
+        "Proembryo and suspensor",
+        "Seed coat and endosperm",
+        "Epicotyl and hypocotyl"
+      ],
+      "a": 1,
+      "exp": "The zygote divides repeatedly to form a proembryo (the precursor to the embryo) and a suspensor."
+    }
+  ]
+}

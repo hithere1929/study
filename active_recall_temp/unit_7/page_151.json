@@ -1,0 +1,23 @@
+{
+  "unit": 7,
+  "page": 151,
+  "filename": "Unit_7_8.txt",
+  "section_title": "Nervous System",
+  "page_num_in_file": 13,
+  "slide_title": "The Central Nervous System: The Brain Diagrams",
+  "original_text": "The Central Nervous System The Brain Parts Diagrams",
+  "explanation": "This slide is a visual transition displaying diagram models of the human brain's anatomical components.",
+  "questions": [
+    {
+      "q": "What is the primary content of this slide?",
+      "opts": [
+        "ECG graphs",
+        "Brain parts diagrams",
+        "Sensory transduction tables",
+        "Alveolar exchange animations"
+      ],
+      "a": 1,
+      "exp": "This slide provides diagrams showing the various parts of the human brain."
+    }
+  ]
+}

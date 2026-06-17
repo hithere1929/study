@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 107,
+  "filename": "Unit_7_6.txt",
+  "section_title": "Circulation & Cardiovascular System",
+  "page_num_in_file": 13,
+  "slide_title": "The Human Cardiovascular System: Conduction System & ECG",
+  "original_text": "The Human Cardiovascular System Heartbeat Pulseis a wave effect passing down the walls of the arterial blood vessels when the aorta expands and recoils falling ventricular systole Rhythmic contraction of the heart is due to the cardiac conduction system Sinoatrial node (SA) keeps the heartbeat regular (pacemaker) Atrioventricular node (AV) signals ventricles to contract Electrocardiogram (ECG) A recording of electrical changes that occur in the myocardium during cardiac cycle When SA node triggers an impulse, atrial fibers produce an electrical charge (P wave) P wave indicates the atria are about to contract QRS complex signals that the ventricles are about to contract and the atria are relaxing T wave is due to electrical changes occurring as the ventricular muscle fibers recover",
+  "explanation": "This slide discusses the electrical control of the heart. 1) Pulse: a pressure wave traveling along arterial walls as the aorta expands and recoils following ventricular systole. 2) Conduction system: the rhythmic contraction of the heart is driven by the cardiac conduction system. The Sinoatrial (SA) node acts as the pacemaker, initiating the impulse and keeping the rhythm regular. The Atrioventricular (AV) node delays the signal before sending it to stimulate ventricular contraction. 3) Electrocardiogram (ECG): records electrical changes in the heart muscle (myocardium). The ECG trace contains: a) P wave: representing atrial depolarization, indicating the atria are about to contract. b) QRS complex: representing ventricular depolarization, indicating the ventricles are about to contract (and the atria are relaxing). c) T wave: representing ventricular repolarization, showing the recovery of the ventricular fibers.",
+  "questions": [
+    {
+      "q": "Which node of the heart's conduction system acts as the primary pacemaker?",
+      "opts": [
+        "Atrioventricular (AV) node",
+        "Sinoatrial (SA) node",
+        "Bundle of His",
+        "Pacemaker neuron"
+      ],
+      "a": 1,
+      "exp": "The sinoatrial (SA) node is the primary pacemaker of the heart, initiating electrical impulses to regulate the heartbeat."
+    },
+    {
+      "q": "What does the QRS complex represent on an electrocardiogram (ECG)?",
+      "opts": [
+        "The recovery of the ventricular muscle fibers",
+        "The initiation of the impulse by the SA node",
+        "The ventricles being about to contract and the atria relaxing",
+        "The closure of the semilunar valves"
+      ],
+      "a": 2,
+      "exp": "The QRS complex corresponds to ventricular depolarization (indicating they are about to contract) and atrial repolarization (relaxing)."
+    },
+    {
+      "q": "What is a pulse?",
+      "opts": [
+        "The rate of blood flow through the capillaries",
+        "A pressure wave passing down the walls of arteries as the aorta expands and recoils after ventricular systole",
+        "The electrical charge produced during the T wave of an ECG",
+        "The amount of oxygen bound to hemoglobin"
+      ],
+      "a": 1,
+      "exp": "A pulse is the expansion and recoil of arterial walls felt as a wave in response to blood ejected from the left ventricle."
+    }
+  ]
+}

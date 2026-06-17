@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 91,
+  "filename": "Unit_6_7.txt",
+  "section_title": "Vertebrates",
+  "page_num_in_file": 12,
+  "slide_title": "Diversity -Mammals\u00a8Include largest animals to live, with the following unifying characteristics:\u00a4Hair\u2013ornamental or purpose\u00a4Mammary glands\u00a4Skeleton\u2013holds larger brain than reptiles\u00a4Internal Organs \u2013efficient respand circ, 4 chamber heart, developed nervous system\u00a4Internal development \u2013born alive after development\u00a8Mammalanevolution based on type of offspring birth state\u00a4Monotremes \u2013egg laying mammalnOnly includes duck-billed platypus & Echidna\u00a4Marsupials \u2013Pouched mammals (embryos nourished by a yolk based placenta in pouchnKangaroo, koala, wombats, opossums\u00a4Placental \u2013Placenta internal for full growth and developmentnAll other animals",
+  "original_text": "Diversity -Mammals\u00a8Include largest animals to live, with the following unifying characteristics:\u00a4Hair\u2013ornamental or purpose\u00a4Mammary glands\u00a4Skeleton\u2013holds larger brain than reptiles\u00a4Internal Organs \u2013efficient respand circ, 4 chamber heart, developed nervous system\u00a4Internal development \u2013born alive after development\u00a8Mammalanevolution based on type of offspring birth state\u00a4Monotremes \u2013egg laying mammalnOnly includes duck-billed platypus & Echidna\u00a4Marsupials \u2013Pouched mammals (embryos nourished by a yolk based placenta in pouchnKangaroo, koala, wombats, opossums\u00a4Placental \u2013Placenta internal for full growth and developmentnAll other animals",
+  "explanation": "Mammals share unifying characteristics: hair (ornamental or functional), mammary glands, a skeleton housing a larger brain than reptiles, efficient respiration and circulation with a 4-chambered heart, a developed nervous system, and internal development where offspring are born alive. Mammals are classified into three groups based on offspring birth state: 1) Monotremes (egg-laying mammals) - only includes the duck-billed platypus and Echidna; 2) Marsupials (pouched mammals), whose embryos are nourished by a yolk-based placenta in a pouch (kangaroos, koalas, wombats, opossums); and 3) Placental mammals, which feature an internal placenta for full embryonic growth and development (all other mammals).",
+  "questions": [
+    {
+      "q": "Which mammalian group consists of egg-laying mammals, and what are its only living members?",
+      "opts": [
+        "Marsupials; kangaroo and opossum",
+        "Monotremes; duck-billed platypus and Echidna",
+        "Placental mammals; koala and wombat",
+        "Synapsids; turtles and birds"
+      ],
+      "a": 1,
+      "exp": "The notes state that Monotremes are 'egg laying mammal' and 'Only includes duck-billed platypus & Echidna'."
+    },
+    {
+      "q": "How do marsupial embryos receive nourishment?",
+      "opts": [
+        "Directly from the yolk inside an egg shell on land",
+        "By a yolk-based placenta inside a maternal pouch",
+        "Through a complex internal placenta for their entire development until full growth",
+        "Via absorption from surrounding water using flagella"
+      ],
+      "a": 1,
+      "exp": "The notes define Marsupials as 'Pouched mammals (embryos nourished by a yolk based placenta in pouch)'."
+    },
+    {
+      "q": "What internal organ structures define mammals?",
+      "opts": [
+        "Double-looped pathway with a 3-chambered heart",
+        "Efficient respiration and circulation, a 4-chambered heart, and a developed nervous system",
+        "Single-loop pathway with a 2-chambered heart",
+        "Complete absence of specialized respiratory and circulatory structures"
+      ],
+      "a": 1,
+      "exp": "The notes state that mammals have 'efficient resp and circ, 4 chamber heart, developed nervous system' as internal organ features."
+    }
+  ]
+}

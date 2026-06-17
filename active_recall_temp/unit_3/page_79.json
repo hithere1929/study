@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 79,
+  "filename": "Unit_3_4.txt",
+  "section_title": "The Cell Cycle",
+  "page_num_in_file": 6,
+  "slide_title": "Eukaryotic Cell Division",
+  "original_text": "Eukaryotic Cell Division\nBoth cytoplasm and nucleus need to divide\nChromosomes and cytoplasm equally divided between offspring cells \n2 types of cell division: \nMitosis: results in new cells genetically identical to original cell\nOccurs in organisms undergoing growth, repair, development, or asexual reproduction \nAsexual reproduction: production of offspring from a single parent (i.e. binary fission)",
+  "explanation": "Eukaryotic cell division is more complex than prokaryotic division, requiring both the nucleus and the cytoplasm to divide. This division ensures that chromosomes and cytoplasm are equally partitioned between offspring cells. There are two primary types of eukaryotic cell division. The first is mitosis, which produces new cells that are genetically identical to the original cell. Mitosis is used for growth, tissue repair, development, or asexual reproduction (the production of offspring from a single parent, similar in concept to binary fission).",
+  "questions": [
+    {
+      "q": "What are the primary purposes of mitosis in eukaryotic organisms?",
+      "opts": [
+        "Producing haploid gametes for sexual reproduction",
+        "Growth, repair, development, or asexual reproduction",
+        "Synthesizing proteins and ribosomes",
+        "Replicating circular DNA at the cell membrane"
+      ],
+      "a": 1,
+      "exp": "The slide states that mitosis occurs in organisms undergoing growth, repair, development, or asexual reproduction."
+    }
+  ]
+}

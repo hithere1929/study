@@ -1,0 +1,27 @@
+{
+  "id": "u6_t3",
+  "title": "Prokaryote Characteristics",
+  "cheat_card": [
+    "<b>Structure</b>: Prokaryotes (1-10 μm) lack a membrane-bound nucleus and organelles; they have circular DNA in a <b>nucleoid</b> region, accessory DNA rings called <b>plasmids</b>, and a cell wall containing peptidoglycan (in Domain Bacteria).",
+    "<b>Reproduction</b>: They reproduce asexually by <b>binary fission</b>. Genetic recombination occurs via <b>conjugation</b> (transfer via sex pilus), <b>transformation</b> (uptake of environmental DNA), and <b>transduction</b> (viral-mediated DNA transfer by bacteriophages).",
+    "<b>Oxygen Tolerance</b>: Prokaryotes vary in oxygen requirements: <i>obligate aerobes</i> require oxygen, <i>obligate anaerobes</i> are killed by oxygen, and <i>facultative anaerobes</i> grow in either condition.",
+    "<b>Gram Staining</b>: Domain Bacteria cells are diagnosed via Gram stain; <b>Gram-positive</b> bacteria retain the dye and appear purple, whereas <b>Gram-negative</b> bacteria do not retain the dye and appear pink.",
+    "<b>Archaea Extremophiles</b>: Archaea lack peptidoglycan and include <b>methanogens</b> (anaerobic methane-producers), <b>halophiles</b> (require high salt), and <b>thermoacidophiles</b> (survive low pH and temperatures >80ºC due to unusual membrane lipids)."
+  ],
+  "memory_anchor": "### Methods of Bacterial Genetic Recombination\n\n* **Conjugation**: **Cell-to-Cell Connection** $\\rightarrow$ A donor cell extends a **sex pilus** to connect directly to a recipient cell, transferring a plasmid or portion of the chromosome.\n* **Transformation**: **Taking Environmental DNA** $\\rightarrow$ A bacterium imports naked fragments of DNA released by dead/lysed cells from the surrounding environment.\n* **Transduction**: **Trojan Virus Delivery** $\\rightarrow$ A bacteriophage (viral vector) accidentally packages bacterial DNA during its assembly and transfers it to the next host cell.\n\n### Gram Stain Summary:\n* **Gram-positive** = Purple (thick peptidoglycan layer retains crystal violet dye).\n* **Gram-negative** = Pink (thin peptidoglycan layer, outer membrane washes out dye).",
+  "flashcards": [
+    {
+      "q": "Explain the difference between binary fission and the three methods of genetic recombination in prokaryotes.",
+      "a": "Binary fission is the asexual process by which a single prokaryote duplicates its DNA and splits into two identical cells. Genetic recombination methods introduce variation: conjugation transfers DNA between cells via a sex pilus, transformation takes up free environmental DNA, and transduction transfers DNA using a virus (bacteriophage) vector."
+    },
+    {
+      "q": "Compare the cell wall characteristics and Gram-staining behavior of Gram-positive and Gram-negative bacteria.",
+      "a": "Gram-positive bacteria have cell walls with thick peptidoglycan layers that retain dye during staining, causing them to appear purple. Gram-negative bacteria have thinner peptidoglycan layers and an outer membrane, do not retain the dye, and appear pink."
+    },
+    {
+      "q": "What unique adaptations allow thermoacidophiles to survive in hot sulfur springs and hydrothermal vents?",
+      "a": "Thermoacidophiles have unusual lipids in their plasma membranes that convey tolerance to high temperatures (above 80ºC) and highly acidic (low pH) environments. They are also chemoautotrophic, oxidizing inorganic compounds (like sulfides) for energy."
+    }
+  ],
+  "outline_blanks": "Prokaryotes reproduce asexually by [[binary fission]] but undergo genetic recombination through processes like [[conjugation]], where DNA passes through a sex pilus. Bacteria are categorized by Gram staining into purple-colored [[Gram-positive]] or pink-colored [[Gram-negative]] groups. Within Archaea, specialized extremophiles called [[thermoacidophiles]] survive temperatures above 80ºC due to unique lipids in their [[plasma membranes]]."
+}

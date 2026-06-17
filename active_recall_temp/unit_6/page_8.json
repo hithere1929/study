@@ -1,0 +1,44 @@
+{
+  "unit": 6,
+  "page": 8,
+  "filename": "Unit_6_1.txt",
+  "section_title": "Viruses",
+  "page_num_in_file": 8,
+  "slide_title": "Virus Reproduction\u00a8Bacteriophage (\u201cphage\u201d) \u2013Viruses that infect bacterial cells\u00a8Two types of viral life cycles\u00a4Lytic CyclenVirus infects cell, takes over host machinery, bursts cell open to release virusnAttachment, Penetration, Biosynthesis, Maturation, ReleasenEbola Virus \u00a4Lysogenic cyclenVirus infects cell, but may incorporates its gen. material into host. nIntegration occurs after the penetration stepnNo immediate proliferation; can occur at later time, even years later \u2013may enter lytic cycle at this timenHIV virus is lysogenic \u2013lays dormant until a later time",
+  "explanation": "Bacteriophages, or phages, are viruses that infect bacterial cells. Viruses replicate using two main types of life cycles: the lytic cycle and the lysogenic cycle. In the lytic cycle, the virus infects the cell, takes control of the host machinery to synthesize new viruses, and bursts the host cell open to release them. The lytic cycle proceeds through five distinct stages: Attachment, Penetration, Biosynthesis, Maturation, and Release. The Ebola virus behaves via a lytic cycle. In the lysogenic cycle, the virus infects the cell but integrates its genetic material into the host genome (integration occurs after penetration). There is no immediate viral proliferation, and the virus can remain dormant for years before potentially entering the lytic cycle. HIV is an example of a lysogenic virus that remains dormant before replicating.",
+  "questions": [
+    {
+      "q": "What is a bacteriophage?",
+      "opts": [
+        "A type of bacterium that infects animal viruses",
+        "A virus that infects bacterial cells",
+        "A photosynthetic prokaryote",
+        "An organelle found inside viruses"
+      ],
+      "a": 1,
+      "exp": "The notes define Bacteriophage ('phage') as 'Viruses that infect bacterial cells'."
+    },
+    {
+      "q": "What are the five steps of the lytic cycle in order?",
+      "opts": [
+        "Attachment, Biosynthesis, Penetration, Maturation, Release",
+        "Attachment, Penetration, Biosynthesis, Maturation, Release",
+        "Penetration, Integration, Biosynthesis, Maturation, Release",
+        "Attachment, Integration, Biosynthesis, Maturation, Release"
+      ],
+      "a": 1,
+      "exp": "The notes list the lytic cycle steps in this order: Attachment, Penetration, Biosynthesis, Maturation, Release."
+    },
+    {
+      "q": "How does the lysogenic cycle differ from the lytic cycle?",
+      "opts": [
+        "The lysogenic cycle does not involve host cell infection",
+        "The lysogenic cycle involves immediate destruction of the host cell",
+        "The lysogenic cycle involves integrating the viral genome into the host's genetic material, allowing it to lay dormant",
+        "The lysogenic cycle does not require host cell machinery for replication"
+      ],
+      "a": 2,
+      "exp": "In the lysogenic cycle, the virus incorporates its genetic material into the host (integration) after penetration and exhibits no immediate proliferation, laying dormant."
+    }
+  ]
+}

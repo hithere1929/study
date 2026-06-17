@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 79,
+  "filename": "Unit_8_5.txt",
+  "section_title": "Cellular Respiration",
+  "page_num_in_file": 7,
+  "slide_title": "Outside the Mitochondria: Glycolysis¨Glycolysis occurs in cytoplasm outside mitochondria¤Energy Investment Step:nTwo ATP are used to activate glucosenGlucose splits into two G3P molecules¤Energy Harvesting Step:nOxidation of G3P occurs by removal of electrons and hydrogen ionsnTwo electrons and one hydrogen ion are accepted by NAD+resulting in two NADHnFour ATP are produced by substrate-level phosphorylationnNet gain of two ATP (4 ATP produced -2 ATP consumed)nBoth G3Ps converted to pyruvates",
+  "original_text": "Outside the Mitochondria: Glycolysis¨Glycolysis occurs in cytoplasm outside mitochondria¤Energy Investment Step:nTwo ATP are used to activate glucosenGlucose splits into two G3P molecules¤Energy Harvesting Step:nOxidation of G3P occurs by removal of electrons and hydrogen ionsnTwo electrons and one hydrogen ion are accepted by NAD+resulting in two NADHnFour ATP are produced by substrate-level phosphorylationnNet gain of two ATP (4 ATP produced -2 ATP consumed)nBoth G3Ps converted to pyruvates",
+  "explanation": "Glycolysis takes place in the cytoplasm outside the mitochondria and is divided into two parts. In the Energy Investment Step, two ATP molecules are consumed to activate glucose, which is then split into two 3-carbon G3P molecules. In the Energy Harvesting Step, G3P is oxidized by removing electrons and hydrogen ions. Two NAD+ molecules accept these electrons and protons to form two NADH. Four ATP molecules are generated through substrate-level phosphorylation, resulting in a net gain of two ATP (4 produced minus 2 consumed). Ultimately, both G3P molecules are converted into pyruvate.",
+  "questions": [
+    {
+      "q": "What is the net ATP yield of glycolysis, and how is it calculated?",
+      "opts": [
+        "4 ATP net; 4 ATP produced and 0 ATP consumed",
+        "2 ATP net; 4 ATP produced and 2 ATP consumed",
+        "36 ATP net; 38 ATP produced and 2 ATP consumed",
+        "0 ATP net; 2 ATP produced and 2 ATP consumed"
+      ],
+      "a": 1,
+      "exp": "The notes show that glycolysis uses 2 ATP in the investment step and produces 4 ATP in the harvesting step: 'Net gain of two ATP (4 ATP produced - 2 ATP consumed).'"
+    },
+    {
+      "q": "By what mechanism is ATP produced during the energy harvesting step of glycolysis?",
+      "opts": [
+        "Chemiosmosis",
+        "Photophosphorylation",
+        "Substrate-level phosphorylation",
+        "Oxidative phosphorylation"
+      ],
+      "a": 2,
+      "exp": "The notes state that during glycolysis, 'Four ATP are produced by substrate-level phosphorylation.'"
+    }
+  ]
+}

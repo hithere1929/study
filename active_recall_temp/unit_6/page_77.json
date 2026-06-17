@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 77,
+  "filename": "Unit_6_6.txt",
+  "section_title": "Invertebrates",
+  "page_num_in_file": 10,
+  "slide_title": "Diversity -Ecdysozoans\u00a8Arthropods (Arthropoda)\u00a4Members have exoskeleton, jointed appendages, brain and nervous system, and a variety of respiratory organsnSome go through a process of metamorphosis\u00a4Phylum contains:nCrustaceans \u2013hard crusty exoskeleton made of chitin and calcium carbonate. Head with compound eyes, and 5 pairs of appendagesnCopepod, krill, crayfishnMillipedes & Centipedes \u2013Distinguished by # of pairs of leg on body segmentsnInsects \u2013have head, thorax, and abdomen. Head has sense organs, thorax has 3 pairs of legs and 1 or 2 pairs of wingsnGrasshopper, bee, butterflynChelicerates \u2013First pair of appendages pincher-like for feeding and defense, second pair can have multiple functions. Have a cephalothorax (fused head and thorax) followed by abdomen.nHorseshoe crab, Arachnids (ticks, mites, spiders, scorpions)",
+  "original_text": "Diversity -Ecdysozoans\u00a8Arthropods (Arthropoda)\u00a4Members have exoskeleton, jointed appendages, brain and nervous system, and a variety of respiratory organsnSome go through a process of metamorphosis\u00a4Phylum contains:nCrustaceans \u2013hard crusty exoskeleton made of chitin and calcium carbonate. Head with compound eyes, and 5 pairs of appendagesnCopepod, krill, crayfishnMillipedes & Centipedes \u2013Distinguished by # of pairs of leg on body segmentsnInsects \u2013have head, thorax, and abdomen. Head has sense organs, thorax has 3 pairs of legs and 1 or 2 pairs of wingsnGrasshopper, bee, butterflynChelicerates \u2013First pair of appendages pincher-like for feeding and defense, second pair can have multiple functions. Have a cephalothorax (fused head and thorax) followed by abdomen.nHorseshoe crab, Arachnids (ticks, mites, spiders, scorpions)",
+  "explanation": "Arthropods (Arthropoda) have an exoskeleton, jointed appendages, a brain and nervous system, and a variety of respiratory organs, and some undergo metamorphosis. The phylum contains: 1) Crustaceans, which have a hard exoskeleton made of chitin and calcium carbonate, compound eyes on the head, and 5 pairs of appendages (e.g., copepods, krill, crayfish); 2) Millipedes & Centipedes, which are distinguished by the number of leg pairs on their body segments; 3) Insects, which have a head with sense organs, a thorax with 3 pairs of legs and 1 or 2 pairs of wings, and an abdomen (e.g., grasshoppers, bees, butterflies); and 4) Chelicerates, which have a cephalothorax (fused head and thorax) and an abdomen, with the first pair of appendages being pincher-like for feeding and defense, and the second pair serving multiple functions (includes horseshoe crabs and arachnids like ticks, mites, spiders, and scorpions).",
+  "questions": [
+    {
+      "q": "What composition makes up the hard exoskeleton of crustaceans?",
+      "opts": [
+        "Cellulose and silica",
+        "Chitin and calcium carbonate",
+        "Peptidoglycan and lipids",
+        "Lignin and protein"
+      ],
+      "a": 1,
+      "exp": "The notes state that crustaceans have a 'hard crusty exoskeleton made of chitin and calcium carbonate'."
+    },
+    {
+      "q": "Which insect body segment bears the three pairs of legs and the wings?",
+      "opts": [
+        "Head",
+        "Thorax",
+        "Abdomen",
+        "Cephalothorax"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'thorax has 3 pairs of legs and 1 or 2 pairs of wings'."
+    },
+    {
+      "q": "What characterizes the body plans and first appendages of Chelicerates?",
+      "opts": [
+        "Head, thorax, and abdomen; 5 pairs of walking legs",
+        "A cephalothorax and abdomen; pincher-like first appendages",
+        "Repeating segments; one pair of legs per segment",
+        "Three-part body with a coiled shell; ciliated lophophore tentacles"
+      ],
+      "a": 1,
+      "exp": "The notes state that Chelicerates 'Have a cephalothorax... followed by abdomen' and the 'First pair of appendages pincher-like for feeding and defense'."
+    }
+  ]
+}

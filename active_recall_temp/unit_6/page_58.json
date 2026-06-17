@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 58,
+  "filename": "Unit_6_5.txt",
+  "section_title": "Plant Evolution & Diversity",
+  "page_num_in_file": 8,
+  "slide_title": "Evolution of Vascular Plants\u00a8Vascular Plants \u2013Have roots that absorb water and nutrients from soil, and transport through a network of tubes\u00a4Xylemconducts water and dissolved minerals up from roots \u00a4Phloemconducts sucrose and other organic compounds throughout the plant \u00a4Ligninstrengthens walls of conducting cells in xylem \u00a4Most seedless vascular plants are homosporousnWindblown spores are dispersal agents \u00a4All seed plants are heterosporousand have male and female gametophytes nSeeds disperse offspring",
+  "original_text": "Evolution of Vascular Plants\u00a8Vascular Plants \u2013Have roots that absorb water and nutrients from soil, and transport through a network of tubes\u00a4Xylemconducts water and dissolved minerals up from roots \u00a4Phloemconducts sucrose and other organic compounds throughout the plant \u00a4Ligninstrengthens walls of conducting cells in xylem \u00a4Most seedless vascular plants are homosporousnWindblown spores are dispersal agents \u00a4All seed plants are heterosporousand have male and female gametophytes nSeeds disperse offspring",
+  "explanation": "Vascular plants possess roots that absorb water and nutrients from the soil, transporting them through a network of specialized tubes. The vascular tissue includes: 1) Xylem, which conducts water and dissolved minerals upward from the roots, and features walls reinforced with lignin to strengthen the conducting cells; and 2) Phloem, which conducts sucrose and other organic compounds throughout the plant. Most seedless vascular plants are homosporous, producing a single type of spore that acts as a windblown dispersal agent. In contrast, all seed plants are heterosporous, having distinct male and female gametophytes, and they use seeds to disperse their offspring.",
+  "questions": [
+    {
+      "q": "Which vascular tissue conducts sucrose and organic compounds throughout the plant?",
+      "opts": [
+        "Xylem",
+        "Phloem",
+        "Stomata",
+        "Rhizoid"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Phloem conducts sucrose and other organic compounds throughout the plant'."
+    },
+    {
+      "q": "What substance is responsible for strengthening the walls of water-conducting cells in the xylem?",
+      "opts": [
+        "Cellulose",
+        "Peptidoglycan",
+        "Chitin",
+        "Lignin"
+      ],
+      "a": 3,
+      "exp": "The notes specify that 'Lignin strengthens walls of conducting cells in xylem'."
+    },
+    {
+      "q": "How do seedless vascular plants compare to seed plants in terms of spore type and offspring dispersal?",
+      "opts": [
+        "Seedless vascular plants are homosporous (dispersed by spores), whereas seed plants are heterosporous (dispersed by seeds).",
+        "Seedless vascular plants are heterosporous, while seed plants are homosporous.",
+        "Both seedless and seed vascular plants are homosporous.",
+        "Seedless vascular plants use flagellated sperm only, while seed plants lack gametophytes."
+      ],
+      "a": 0,
+      "exp": "The notes state: 'Most seedless vascular plants are homosporous... windblown spores are dispersal agents' and 'All seed plants are heterosporous... Seeds disperse offspring'."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 7,
+  "page": 76,
+  "filename": "Unit_7_5.txt",
+  "section_title": "Animal Organization",
+  "page_num_in_file": 3,
+  "slide_title": "Types of Tissues: Introduction",
+  "original_text": "Types of Tissues Tissues are a collection of specialized cells organized to perform a common function 4 main categories of tissue: Epithelial Connective Muscular Nervous",
+  "explanation": "A tissue is defined as a collection of specialized cells organized to perform a common physiological function. In animals, tissues are classified into four primary categories: epithelial tissue, connective tissue, muscular tissue, and nervous tissue.",
+  "questions": [
+    {
+      "q": "What are the four primary categories of animal tissues?",
+      "opts": [
+        "Protoderm, Ground, Procambium, Meristematic",
+        "Epithelial, Connective, Muscular, Nervous",
+        "Dermal, Vascular, Ground, Skeletal",
+        "Simple, Compound, Dehiscent, Indehiscent"
+      ],
+      "a": 1,
+      "exp": "The four main categories of animal tissue are epithelial, connective, muscular, and nervous tissue."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 70,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 34,
+  "slide_title": "4: Nucleic Acids",
+  "original_text": "4: Nucleic Acids¨Nucleic acid: very large, complex organic molecules that store and transfer important information in the cell¤Deoxyribonucleic acid (DNA)¤Ribonucleic acid (RNA)¨DNA contains information that determines characteristics of an organism and directs cellular activities¨RNA stores and transfers information from DNA that is essential for manufacturing proteins¤Can also act as enzymes (ribozymes)¨Polymers composed of thousands of linked monomers known as nucleotides¤Linked by phosphodiesterbond¤3 main components of nucleotide: phosphate group, 5-carbon sugar, ring-shaped nitrogenous base",
+  "explanation": "Nucleic acids are large, complex organic macromolecules that store and transfer essential information within cells. The two primary types are deoxyribonucleic acid (DNA) and ribonucleic acid (RNA). DNA holds the genetic instructions that determine an organism's traits and direct cellular processes. RNA's primary role is to store and transfer instructions from DNA to guide the synthesis of proteins, and some RNA molecules can also act as catalysts (known as ribozymes). Nucleic acids are polymers composed of thousands of linked nucleotide monomers connected by phosphodiester bonds. Each nucleotide consists of three components: a phosphate group, a 5-carbon sugar, and a ring-shaped nitrogenous base.",
+  "questions": [
+    {
+      "q": "What are the three components of a nucleotide monomer?",
+      "opts": [
+        "Glycerol, fatty acid, and phosphate group",
+        "Amino group, carboxyl group, and R group",
+        "Phosphate group, 5-carbon sugar, and nitrogenous base",
+        "Ribose sugar, adenine, and three phosphates"
+      ],
+      "a": 2,
+      "exp": "A nucleotide consists of a phosphate group, a 5-carbon sugar (ribose or deoxyribose), and a nitrogenous base."
+    },
+    {
+      "q": "What is the function of RNA in the cell?",
+      "opts": [
+        "It forms a waterproof barrier on the cell membrane.",
+        "It stores and transfers genetic information from DNA to direct protein synthesis, and can act as an enzyme.",
+        "It serves as a high-energy storage molecule like glycogen.",
+        "It is the main structural component of hair and nails."
+      ],
+      "a": 1,
+      "exp": "RNA is responsible for storing and transferring information from DNA that is essential for making proteins, and it can also exhibit catalytic activity as a ribozyme."
+    }
+  ]
+}

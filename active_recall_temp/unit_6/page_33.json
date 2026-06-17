@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 33,
+  "filename": "Unit_6_3.txt",
+  "section_title": "Protists",
+  "page_num_in_file": 9,
+  "slide_title": "Supergroup Amoebazoa\u00a8Protozoans that move by pseudopod (False-foot)\u00a8Amoeboid\u00a4Ingest food through phagocytosis using pseudopod\u00a4Digest using a food vacuole \u00a4One infectious amoeboid causes dysentery\u00a8Slime molds\u00a4Decomposer that feeds on dead plant material\u00a4Not fungi because they lack cell walls and have flagella for a portion of their life\u00a4Plasmodium nA slug-like slime moldnConsumes decaying matter from forest floornIndividual amoeboid cells come together to form pseudoplasmodiumnDevelop sporangium and spores when conditions are not favorable, germinate when conditions are",
+  "original_text": "Supergroup Amoebazoa\u00a8Protozoans that move by pseudopod (False-foot)\u00a8Amoeboid\u00a4Ingest food through phagocytosis using pseudopod\u00a4Digest using a food vacuole \u00a4One infectious amoeboid causes dysentery\u00a8Slime molds\u00a4Decomposer that feeds on dead plant material\u00a4Not fungi because they lack cell walls and have flagella for a portion of their life\u00a4Plasmodium nA slug-like slime moldnConsumes decaying matter from forest floornIndividual amoeboid cells come together to form pseudoplasmodiumnDevelop sporangium and spores when conditions are not favorable, germinate when conditions are",
+  "explanation": "Supergroup Amoebozoa (Amoebazoa) includes protozoans that move using pseudopods (false-feet). Amoeboids ingest food via phagocytosis using their pseudopods and digest it within food vacuoles. One infectious amoeboid species causes dysentery. Slime molds, also in this supergroup, are decomposers that feed on dead plant material. They are not fungi because they lack cell walls and possess flagella during a portion of their life cycle. A plasmodial slime mold acts as a slug-like organism that consumes decaying matter on the forest floor. Individual amoeboid cells aggregate to form a pseudoplasmodium, which develops a sporangium and spores during unfavorable conditions, germinating when conditions improve.",
+  "questions": [
+    {
+      "q": "What structures do Amoebozoa use to move and ingest food?",
+      "opts": [
+        "Cilia",
+        "Flagella",
+        "Pseudopods",
+        "Apicoplasts"
+      ],
+      "a": 2,
+      "exp": "The notes state that Amoebozoa are 'Protozoans that move by pseudopod (False-foot)' and 'Ingest food through phagocytosis using pseudopod'."
+    },
+    {
+      "q": "Why are slime molds not classified as fungi?",
+      "opts": [
+        "They are autotrophic photoautotrophs.",
+        "They lack cell walls and have flagella for a portion of their life.",
+        "They contain a porous silica shell.",
+        "They lack membrane-bound organelles."
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Not fungi because they lack cell walls and have flagella for a portion of their life'."
+    },
+    {
+      "q": "What happens when conditions are not favorable for a slime mold?",
+      "opts": [
+        "It undergoes lytic bursting immediately.",
+        "It undergoes conjugation via a sex pilus.",
+        "It develops a sporangium and spores.",
+        "It forms an envelope containing lipids."
+      ],
+      "a": 2,
+      "exp": "The notes state that slime molds 'Develop sporangium and spores when conditions are not favorable'."
+    }
+  ]
+}

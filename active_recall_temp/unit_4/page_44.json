@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 44,
+  "filename": "Unit_4_3.txt",
+  "section_title": "DNA Replication, Transcription, Translation",
+  "page_num_in_file": 19,
+  "slide_title": "mRNA Processing¨Newly formed pre-mRNA must undergo processing before it leaves the nucleus¤mRNA receives a capat its 5’ endnModified Guanine. Tells a ribosome where to attached when translation begins¤Poly-A Tail –150-200 adenine (A) added to 3’ end. nFacilitates transport out of nucleusnHelps initiate loading into ribosomenDelays degradation of mRNA by hydrolytic enzymes¤Contains mix of intronsand exonsnIntron–Non-protein coding region of pre-mRNAnExon–Protein coding region of pre-mRNAnTo create the final mature mRNA, a spliceosomewill cut out the intron regions",
+  "original_text": "mRNA Processing¨Newly formed pre-mRNA must undergo processing before it leaves the nucleus¤mRNA receives a capat its 5’ endnModified Guanine. Tells a ribosome where to attached when translation begins¤Poly-A Tail –150-200 adenine (A) added to 3’ end. nFacilitates transport out of nucleusnHelps initiate loading into ribosomenDelays degradation of mRNA by hydrolytic enzymes¤Contains mix of intronsand exonsnIntron–Non-protein coding region of pre-mRNAnExon–Protein coding region of pre-mRNAnTo create the final mature mRNA, a spliceosomewill cut out the intron regions",
+  "explanation": "In eukaryotic cells, newly transcribed pre-mRNA must undergo mRNA processing within the nucleus before it can be exported to the cytoplasm. This processing involves three key modifications: first, a cap consisting of a modified guanine nucleotide is added to the 5' end of the mRNA, which signals the ribosome where to attach when translation starts. Second, a Poly-A Tail—consisting of 150 to 200 adenine nucleotides—is added to the 3' end. This tail facilitates mRNA transport out of the nucleus, helps initiate ribosome loading, and delays the degradation of the mRNA by hydrolytic enzymes. Third, the pre-mRNA contains a mixture of exons (coding regions) and introns (non-coding regions). A molecular complex called a spliceosome cuts out the introns and splices the exons together, producing a mature mRNA ready for translation.",
+  "questions": [
+    {
+      "q": "What is the function of the 5' modified guanine cap added during mRNA processing?",
+      "opts": [
+        "It signals where the spliceosome should cut out introns.",
+        "It tells the ribosome where to attach to initiate translation.",
+        "It prevents DNA replication from occurring.",
+        "It contains the poly-adenylation signals."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states that the 5' cap is a 'Modified Guanine' that 'Tells a ribosome where to attached when translation begins.' The other options are incorrect."
+    },
+    {
+      "q": "What makes up the non-protein-coding regions of pre-mRNA that must be removed by spliceosomes?",
+      "opts": [
+        "Exons",
+        "Promoters",
+        "Introns",
+        "Poly-A tails"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide defines an 'Intron' as the 'Non-protein coding region of pre-mRNA' and states that 'a spliceosome will cut out the intron regions.' Exons (Option A) are the coding regions, promoters (Option B) are DNA sequences, and Poly-A tails (Option D) are added to the 3' end."
+    }
+  ]
+}

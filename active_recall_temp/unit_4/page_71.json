@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 71,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 22,
+  "slide_title": "3) Post-Transcriptional Control¨Small RNA (sRNA)¤Only~ 1.5% of all DNA in a cell encodes for genes¤For longest time, remaining 98.5% was considered “junk”¤Now know that this region contains sRNA, involved with regulationnCan alter the compaction of DNA so genes are not accessiblenSource of microRNAs (miRNAs).nSmall pieces of DNA that bind to a dampen translation in the cytoplasmnSource of small-interfering RNA (siRNAs)nJoin with an enzyme to silence mRNA products from being translatednmiRNA & siRNA now used in gene therapy. Won Nobel Price 2006",
+  "original_text": "3) Post-Transcriptional Control¨Small RNA (sRNA)¤Only~ 1.5% of all DNA in a cell encodes for genes¤For longest time, remaining 98.5% was considered “junk”¤Now know that this region contains sRNA, involved with regulationnCan alter the compaction of DNA so genes are not accessiblenSource of microRNAs (miRNAs).nSmall pieces of DNA that bind to a dampen translation in the cytoplasmnSource of small-interfering RNA (siRNAs)nJoin with an enzyme to silence mRNA products from being translatednmiRNA & siRNA now used in gene therapy. Won Nobel Price 2006",
+  "explanation": "Only about 1.5% of the total DNA in a cell actually codes for genes. For a long time, the other 98.5% of DNA was considered 'junk DNA.' However, it is now known that this non-coding region contains small RNA (sRNA) genes involved in genetic regulation. These sRNA molecules can alter the compaction of DNA so that genes are rendered inaccessible to transcription. This non-coding region is the source of microRNAs (miRNAs)—which are described on the slide as small pieces of DNA that bind to and dampen translation in the cytoplasm (note that miRNAs are functional RNA, but they originate from genomic DNA loci). It is also the source of small-interfering RNAs (siRNAs), which join with an enzyme to silence mRNA products, preventing them from being translated. Both miRNAs and siRNAs are currently utilized in gene therapy, a pioneering discovery that won the Nobel Prize in 2006.",
+  "questions": [
+    {
+      "q": "What percentage of a cell's DNA encodes for genes, and what was the historical view of the remaining majority?",
+      "opts": [
+        "Only ~1.5% encodes for genes; the remaining ~98.5% was long considered 'junk' but is now known to contain regulatory sRNA.",
+        "Only ~1.5% is regulatory DNA; the remaining ~98.5% encodes for active proteins.",
+        "Exactly 50% encodes for structural proteins; the remaining 50% is exclusively used during cell division.",
+        "Around 98.5% encodes for genes; the remaining 1.5% is useless 'junk' DNA."
+      ],
+      "a": 0,
+      "exp": "Option A is correct because the slide states: 'Only ~1.5% of all DNA in a cell encodes for genes' and 'For longest time, remaining 98.5% was considered \"junk\"' but 'Now know that this region contains sRNA, involved with regulation.' The other choices distort these statistics."
+    },
+    {
+      "q": "How do small-interfering RNAs (siRNAs) regulate gene expression?",
+      "opts": [
+        "They replicate tRNA molecules in the nucleolus.",
+        "They join with an enzyme to silence mRNA products from being translated.",
+        "They bind to histone proteins to acetylate them.",
+        "They act as promoters to speed up RNA polymerase transcription."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide explicitly states that siRNAs 'Join with an enzyme to silence mRNA products from being translated.' The other options describe activities unrelated to siRNA function."
+    }
+  ]
+}

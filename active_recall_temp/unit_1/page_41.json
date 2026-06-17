@@ -1,0 +1,34 @@
+{
+  "unit": 1,
+  "page": 41,
+  "filename": "Unit_1_3.txt",
+  "section_title": "The Process of Science",
+  "page_num_in_file": 7,
+  "slide_title": "The Scientific Method",
+  "original_text": "\u2013Hypothesis\u2013A hypothesis is a possible explanation for a natural event\u2013Scientists use inductive reasoning, or creative thinking to combine isolated facts into a cohesive whole\u2013Inductive reasoning makes generalizations based on collecting and analyzing a large number of specific observations.\u2013A hypothesis is not merely a guess.\u2013Informed statement that can be tested according to the process of science!",
+  "explanation": "This slide defines a hypothesis as a possible explanation for a natural event. Scientists use inductive reasoning (or creative thinking) to link isolated facts into a single explanation. Inductive reasoning is the process of making general principles based on collecting and analyzing many specific observations. Crucially, a hypothesis is not just a guess; it is an informed statement that is testable through scientific experimentation.",
+  "questions": [
+    {
+      "q": "What is a hypothesis according to this slide?",
+      "opts": [
+        "A random guess about a natural phenomenon",
+        "A possible explanation for a natural event that is an informed, testable statement",
+        "A proven fact that cannot be disproven",
+        "A set of procedures used to collect data"
+      ],
+      "a": 1,
+      "exp": "The slide defines a hypothesis as a 'possible explanation for a natural event' and an 'Informed statement that can be tested'."
+    },
+    {
+      "q": "What type of reasoning combines isolated facts into a cohesive whole and makes generalizations from many specific observations?",
+      "opts": [
+        "Deductive reasoning",
+        "Inductive reasoning",
+        "Reductive reasoning",
+        "Analytic reasoning"
+      ],
+      "a": 1,
+      "exp": "The slide states: 'Scientists use inductive reasoning... Inductive reasoning makes generalizations based on collecting and analyzing a large number of specific observations.'"
+    }
+  ]
+}

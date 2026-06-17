@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 40,
+  "filename": "Unit_7_3.txt",
+  "section_title": "Plant Control of Growth Responses",
+  "page_num_in_file": 5,
+  "slide_title": "Plant Hormones: Introduction",
+  "original_text": "Plant Hormones Hormones Chemical signal to coordinate cell responses; Enable plant cells to communicate nAre usually synthesized in one part of the plant nTravel within phloem or from cell to cell in response to the appropriate stimulus 5 main types of plant hormones Auxins Gibberellins Cytokinins Abscisic Acid Ethylene",
+  "explanation": "Plant hormones are chemical messengers that coordinate cell responses and facilitate communication between cells. They are typically synthesized in one part of the plant and transported to other regions via the phloem or through cell-to-cell movement in response to specific stimuli. The five primary classes of plant hormones are auxins, gibberellins, cytokinins, abscisic acid (ABA), and ethylene.",
+  "questions": [
+    {
+      "q": "Which of the following is NOT one of the five primary classes of plant hormones?",
+      "opts": [
+        "Gibberellins",
+        "Abscisic Acid",
+        "Systemin",
+        "Ethylene"
+      ],
+      "a": 2,
+      "exp": "The five main types of plant hormones are auxins, gibberellins, cytokinins, abscisic acid, and ethylene. Systemin is a polypeptide defense signal, not one of the five classic hormones."
+    },
+    {
+      "q": "How do plant hormones typically move through the plant body?",
+      "opts": [
+        "Through the xylem only",
+        "Within the phloem or from cell to cell",
+        "By evaporating through the stomata",
+        "Via the Casparian strip"
+      ],
+      "a": 1,
+      "exp": "Hormones are typically synthesized in one location and travel through the phloem or pass from cell to cell to reach target tissues."
+    }
+  ]
+}

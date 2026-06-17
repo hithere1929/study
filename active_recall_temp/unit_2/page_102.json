@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 102,
+  "filename": "Unit_2_4.txt",
+  "section_title": "Metabolism",
+  "page_num_in_file": 5,
+  "slide_title": "Energy",
+  "original_text": "Energy¨Thermal energyis a type of kinetic energy associated with the random movement of atoms or molecules.¨Thermal energy in transfer from one object to another is called heat.¨Light is also a type of kinetic energy; it can be harnessed to power photosynthesis.",
+  "explanation": "Thermal energy is a specific type of kinetic energy that arises from the random, constant movement of atoms or molecules within matter. When thermal energy is transferred from one object to another, it is referred to as heat. Light is another form of kinetic energy consisting of electromagnetic radiation, which can be harnessed by photosynthetic organisms to power the synthesis of organic molecules.",
+  "questions": [
+    {
+      "q": "What is thermal energy in transfer from one object to another called?",
+      "opts": [
+        "Temperature",
+        "Heat",
+        "Entropy",
+        "Potential energy"
+      ],
+      "a": 1,
+      "exp": "Thermal energy in transit between objects is scientifically referred to as heat."
+    },
+    {
+      "q": "Which type of kinetic energy is harnessed by plants to power photosynthesis?",
+      "opts": [
+        "Heat",
+        "Chemical energy",
+        "Light",
+        "Gravitational energy"
+      ],
+      "a": 2,
+      "exp": "Light is a type of kinetic energy that photosynthetic organisms capture to drive the synthesis of sugar."
+    }
+  ]
+}

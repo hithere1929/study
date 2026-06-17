@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 21,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 5,
+  "slide_title": "Plasma Membrane",
+  "original_text": "Plasma Membrane\nFunctions: \nOnly allows certain materials to pass through\nSeparates metabolic reactions from the external environment\nAllows cells to excrete wastes and interact with the environment\nComposition (also other organelle membranes):\nPrimarily phospholipids\nPolar phosphate head; 2 non-polar fatty acid tails\nHeads face outwards – interacting with water; tails face inward – separated from water\nForms lipid bilayer\nSterols present between tails of phospholipids; most notably cholesterol\nMaintains firm structure, fluidity and prevents freezing at low temperature",
+  "explanation": "The plasma membrane performs crucial functions: it selectively allows certain materials to pass through, separates internal metabolic reactions from the external environment, and allows cells to excrete wastes and interact with their surroundings. The membrane's composition (which is shared by other organelle membranes) is primarily phospholipids, consisting of a polar phosphate head and two non-polar fatty acid tails. These molecules organize into a lipid bilayer where the polar heads face outward to interact with water, and the non-polar tails face inward, shielded from water. Sterols, most notably cholesterol, are embedded between the fatty acid tails to maintain structural firmness and fluidity, and to prevent the membrane from freezing at low temperatures.",
+  "questions": [
+    {
+      "q": "Which lipid component is found between the fatty acid tails of the plasma membrane to maintain structure, fluidity, and prevent freezing?",
+      "opts": [
+        "Glycoproteins",
+        "Cholesterol (sterols)",
+        "Ribosomal RNA",
+        "Triglycerides"
+      ],
+      "a": 1,
+      "exp": "The slide states that sterols, most notably cholesterol, are present between the tails of phospholipids to maintain firm structure, fluidity, and prevent freezing at low temperatures."
+    },
+    {
+      "q": "How are phospholipids arranged in the plasma membrane bilayer?",
+      "opts": [
+        "Polar heads face inward; non-polar tails face outward.",
+        "Polar heads face outward; non-polar tails face inward.",
+        "Both heads and tails face outward toward water.",
+        "They form a single monolayer with tails facing the nucleus."
+      ],
+      "a": 1,
+      "exp": "The polar phosphate heads face outward, interacting with water, while the non-polar fatty acid tails face inward, separated from water."
+    }
+  ]
+}

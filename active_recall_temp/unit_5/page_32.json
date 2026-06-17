@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 32,
+  "filename": "Unit_5_2.txt",
+  "section_title": "How Populations Evolve",
+  "page_num_in_file": 11,
+  "slide_title": "Genes, Populations, & Evolution",
+  "original_text": "Genes, Populations, & Evolution\n\u00a8Causes of Microevolution\n\u00a8Genetic mutations\n\u00a4The raw material for evolutionary change\n\u00a4Provide new alleles\n\u00a4Some mutations might be more adaptive than others\n  nEx: Genetic mutations affecting pigment color in peppered moths have provided the variation needed for natural selection to occur\n\u00a4Although inherited mutations are rare, they are the driver of evolution",
+  "explanation": "This slide identifies genetic mutations as the primary cause of microevolution. Genetic mutations serve as the fundamental 'raw material' for evolutionary change because they are the sole source of brand-new alleles. Some mutations can prove to be adaptive, offering a survival or reproductive benefit under certain environmental conditions. For example, random genetic mutations that altered the pigment color in peppered moths provided the phenotypic variation that natural selection acted upon during the Industrial Revolution. Although inherited mutations are rare events in individual organisms, they are the essential drivers that make long-term evolution possible.",
+  "questions": [
+    {
+      "q": "What is considered the ultimate 'raw material' for evolutionary change because it provides new alleles?",
+      "opts": [
+        "Gene flow",
+        "Genetic drift",
+        "Natural selection",
+        "Genetic mutations"
+      ],
+      "a": 3,
+      "exp": "Mutations are the raw material for evolutionary change because they are the only mechanism that generates new alleles in a gene pool."
+    },
+    {
+      "q": "Using the peppered moth example, how do mutations facilitate natural selection?",
+      "opts": [
+        "Mutations allow the moths to migrate to new geographic locations.",
+        "Mutations provide the variation (e.g. pigment color) that selection pressures can act upon.",
+        "Mutations guarantee that all moths will survive regardless of environmental changes.",
+        "Mutations eliminate the need for reproduction."
+      ],
+      "a": 1,
+      "exp": "Mutations create phenotypic variations (such as dark vs light pigment in moths) that allow environmental selection pressures to favor one variation over another."
+    }
+  ]
+}

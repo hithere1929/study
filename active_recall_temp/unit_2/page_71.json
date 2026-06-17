@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 71,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 35,
+  "slide_title": "Nucleic Acids",
+  "original_text": "Nucleic Acids¨DNA nitrogenous bases are¤adenine (A),¤thymine (T),¤cytosine (C), and¤guanine (G).¨RNA also has A, C, and G, but instead of T, it has uracil (U).¨RNA is usually a single polynucleotide strand.¨DNA is a doublehelix, in which two polynucleotide strands wrap around each other.¤The two strands are associated because particular bases always hydrogen-bond to one another.¤A pairs with T, and C pairs with G, producing base pairs.",
+  "explanation": "Nucleic acids exhibit differences in their nitrogenous bases and strandedness. In DNA, the nitrogenous bases are adenine (A), thymine (T), cytosine (C), and guanine (G). RNA contains the same bases except that thymine is replaced by uracil (U). Structurally, RNA is typically a single polynucleotide strand, whereas DNA is a double helix consisting of two polynucleotide strands wrapped around each other. These two DNA strands associate because their nitrogenous bases hydrogen-bond specifically to each other: adenine (A) always pairs with thymine (T), and cytosine (C) always pairs with guanine (G), creating base pairs.",
+  "questions": [
+    {
+      "q": "Which nitrogenous base is unique to RNA and replaces thymine (T) in DNA?",
+      "opts": [
+        "Adenine",
+        "Cytosine",
+        "Uracil",
+        "Guanine"
+      ],
+      "a": 2,
+      "exp": "RNA contains uracil (U) instead of thymine (T), which is found in DNA."
+    },
+    {
+      "q": "How do the two strands of DNA associate to form a double helix?",
+      "opts": [
+        "They form ionic bonds between phosphate groups.",
+        "They form covalent glycosidic bonds.",
+        "Specific nitrogenous bases hydrogen-bond to one another (A with T, and C with G).",
+        "They are linked together by peptide bonds."
+      ],
+      "a": 2,
+      "exp": "The double helix is held together by hydrogen bonds between complementary base pairs: adenine pairs with thymine, and cytosine pairs with guanine."
+    }
+  ]
+}

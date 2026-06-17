@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 41,
+  "filename": "Unit_7_3.txt",
+  "section_title": "Plant Control of Growth Responses",
+  "page_num_in_file": 6,
+  "slide_title": "Plant Hormones: Auxins",
+  "original_text": "Plant Hormones Auxins Produced in shoot apical meristem Found in young leaves, flowers, and fruits Effects of auxin on growth and development: Apically produced auxin prevents the growth of axillary buds nApical dominance  terminal growth dominant Promotes growth of roots and fruit Prevents loss of leaves and fruit Promotes positive phototropism of stems Auxins can cause stems to bend When a stem is exposed to unidirectional light, auxin moves to the shady sides Auxin binds to plasma membrane receptors; the complex leads to the activation of a proton pump Activated proton pumps H+out of cell nCell wall loosens nTurgor pressure increases due to the entry of water nCell enlarges",
+  "explanation": "Auxins are key plant hormones produced in the shoot apical meristem and found in young leaves, flowers, and fruits. Auxin establishes apical dominance, where auxin produced at the shoot tip inhibits the growth of axillary buds, prioritizing vertical terminal growth. Auxin also promotes root and fruit development, prevents the premature loss (abscission) of leaves and fruit, and drives positive phototropism in stems. Under unidirectional light, auxin migrates to the shaded side of the stem. It binds to membrane receptors, triggering proton pumps to actively pump hydrogen ions ($H^+$) out of the cell into the cell wall. This acidic environment loosens the cell wall structure (Acid Growth Hypothesis). Consequently, water enters the cell due to osmosis, increasing turgor pressure and causing the cells on the shady side to elongate, which bends the stem toward the light.",
+  "questions": [
+    {
+      "q": "What is the mechanism by which auxin causes cells to elongate during phototropism?",
+      "opts": [
+        "It stimulates the active transport of water out of cells.",
+        "It activates proton pumps, pumping H+ out of the cell to loosen the cell wall so turgor pressure can enlarge it.",
+        "It deposits secondary lignin to harden the cell wall.",
+        "It triggers cell division in the cork cambium."
+      ],
+      "a": 1,
+      "exp": "Auxin activates proton pumps to pump H+ out of the cell. This loosens the cell wall, allowing water to enter by osmosis, increasing turgor pressure and expanding the cell."
+    },
+    {
+      "q": "What term describes the phenomenon where auxin produced at the stem tip prevents the growth of axillary buds?",
+      "opts": [
+        "Thigmotropism",
+        "Apical dominance",
+        "Senescence",
+        "Abscission"
+      ],
+      "a": 1,
+      "exp": "Apical dominance is the suppression of lateral (axillary) bud growth by auxin produced at the apical meristem, promoting vertical growth."
+    },
+    {
+      "q": "When a stem is exposed to light from only one direction, how does auxin redistribute?",
+      "opts": [
+        "It moves to the illuminated side.",
+        "It moves to the shady side.",
+        "It travels down to the root cap and stops moving.",
+        "It is completely broken down by the light."
+      ],
+      "a": 1,
+      "exp": "Under unidirectional light, auxin accumulates on the shady side of the stem, stimulating cell elongation there and causing the stem to bend toward the light."
+    }
+  ]
+}

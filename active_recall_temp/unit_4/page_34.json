@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 34,
+  "filename": "Unit_4_3.txt",
+  "section_title": "DNA Replication, Transcription, Translation",
+  "page_num_in_file": 7,
+  "slide_title": "Parental DNAReplication fork",
+  "original_text": "Parental DNAReplication fork\nDNA ligase\nDNA polymerasemoleculeThis daughterstrand issynthesizedcontinuouslyThis daughterstrand issynthesizedin pieces",
+  "explanation": "This slide is a diagram showing the replication fork. It illustrates one daughter strand (the leading strand) being synthesized continuously by a DNA polymerase molecule moving toward the replication fork. The other daughter strand (the lagging strand) is synthesized discontinuously in pieces (Okazaki fragments) by a DNA polymerase molecule moving away from the fork. The diagram also shows DNA ligase joining these pieces together.",
+  "questions": [
+    {
+      "q": "In the replication fork diagram, how are the two new daughter strands synthesized?",
+      "opts": [
+        "Both strands are synthesized continuously.",
+        "Both strands are synthesized in pieces.",
+        "One strand is synthesized continuously, and the other is synthesized in pieces.",
+        "Neither strand is synthesized, they are copied using RNA templates."
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide labels 'This daughter strand is synthesized continuously' and 'This daughter strand is synthesized in pieces.' Options A, B, and D are incorrect."
+    }
+  ]
+}

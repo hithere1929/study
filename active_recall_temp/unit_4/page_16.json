@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 16,
+  "filename": "Unit_4_2.txt",
+  "section_title": "DNA Structure",
+  "page_num_in_file": 2,
+  "slide_title": "DNA Structure",
+  "original_text": "DNA Structure\nTwist",
+  "explanation": "This page represents an intro slide for DNA Structure, highlighting the characteristic twist of the double helical structure of DNA.",
+  "questions": [
+    {
+      "q": "What fundamental structural characteristic of DNA is referenced on this page?",
+      "opts": [
+        "Linear folding",
+        "Triple bonding",
+        "The twist of the double helix",
+        "Supercoiling around histones"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide highlights 'DNA Structure' alongside the term 'Twist,' representing the helical structure."
+    }
+  ]
+}

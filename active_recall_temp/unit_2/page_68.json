@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 68,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 32,
+  "slide_title": "3: Waxes",
+  "original_text": "3: Waxes¨Wax: type of structural lipid with a long fatty acid chainjoined to long alcohol chain¤Waterproof¨Plants use waxes as an outer coating for protection of leaves¨Earwax prevents microorganisms from entering the ear canal",
+  "explanation": "Waxes are a type of structural lipid composed of a long fatty acid chain joined to a long alcohol chain. Waxes are highly waterproof, which makes them useful for protective barriers in organisms. For example, plants secrete a waxy cuticle as an outer coating on their leaves to prevent water loss and offer protection, while animals produce earwax to trap and prevent microorganisms from entering the ear canal.",
+  "questions": [
+    {
+      "q": "What are the chemical components that make up a wax molecule?",
+      "opts": [
+        "A glycerol molecule and three fatty acids",
+        "A long fatty acid chain joined to a long alcohol chain",
+        "Four fused carbon rings",
+        "A phosphate group, ribose, and nitrogenous base"
+      ],
+      "a": 1,
+      "exp": "Waxes are structurally defined by having a long fatty acid chain linked to a long alcohol chain."
+    },
+    {
+      "q": "What is the primary physical property of waxes that makes them useful for leaves and ear canals?",
+      "opts": [
+        "They are highly soluble in water.",
+        "They are waterproof (hydrophobic).",
+        "They are gaseous at room temperature.",
+        "They act as chemical catalysts."
+      ],
+      "a": 1,
+      "exp": "Waxes are waterproof, allowing them to prevent water loss in plants and block microorganisms in animal ear canals."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 137,
+  "filename": "Unit_2_5.txt",
+  "section_title": "Enzymes",
+  "page_num_in_file": 15,
+  "slide_title": "Enzymes",
+  "original_text": "Enzymes¨Enzyme inhibitors are important in regulating cell metabolism.¨In some reactions, the product may act as an inhibitor of one of the enzymes in the pathway that produced it. This is called feedback inhibition.\nFeedback inhibition: Enzyme 1 -> Reaction 1 -> Product A -> Enzyme 2 -> Reaction 2 -> Product B -> Enzyme 3 -> Reaction 3 -> Product C -> Product D inhibits Enzyme 1",
+  "explanation": "Enzyme inhibitors play a critical physiological role in regulating metabolic pathways within cells. In many metabolic pathways, the final end product of the pathway acts as an inhibitor of one of the early enzymes in the sequence that produced it. This self-regulating mechanism is known as feedback inhibition. When the concentration of the end product increases, it shuts down its own synthesis pathway, preventing the cell from wasting resources.",
+  "questions": [
+    {
+      "q": "What is feedback inhibition?",
+      "opts": [
+        "When an enzyme is activated by its substrate.",
+        "When the final product of a metabolic pathway acts as an inhibitor of an enzyme early in the pathway.",
+        "When cells use heat to denature enzymes.",
+        "When white blood cells engulf pathogens."
+      ],
+      "a": 1,
+      "exp": "Feedback inhibition is a regulatory mechanism where the end product of a pathway inhibits an upstream enzyme to stop further production."
+    }
+  ]
+}

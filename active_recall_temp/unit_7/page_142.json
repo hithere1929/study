@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 142,
+  "filename": "Unit_7_8.txt",
+  "section_title": "Nervous System",
+  "page_num_in_file": 4,
+  "slide_title": "Evolution of the Nervous System: Vertebrates",
+  "original_text": "Evolution of the Nervous System Vertebrate Nervous System Organization Central nervous system Develops from an embryonic dorsal neural tube Cephalization and bilateral symmetry result in several paired sensory receptors Eyes, ears, olfactory structures Vertebrate brain is organized into three areas Hindbrain Midbrain Forebrain",
+  "explanation": "The vertebrate nervous system is characterized by a central nervous system (CNS) that develops from an embryonic dorsal neural tube. Bilateral symmetry and cephalization result in paired sensory receptors located in the head (eyes, ears, and olfactory structures). The vertebrate brain is structurally organized into three primary regions: the hindbrain, midbrain, and forebrain.",
+  "questions": [
+    {
+      "q": "From what embryonic structure does the vertebrate central nervous system develop?",
+      "opts": [
+        "A ventral nerve cord",
+        "A dorsal neural tube",
+        "A pharyngeal outgrowth",
+        "A loose nerve net"
+      ],
+      "a": 1,
+      "exp": "The vertebrate central nervous system develops from a hollow, dorsal neural tube during embryonic development."
+    },
+    {
+      "q": "What are the three evolutionary divisions of the vertebrate brain?",
+      "opts": [
+        "Cerebrum, cerebellum, and medulla",
+        "Hindbrain, midbrain, and forebrain",
+        "Somatic, autonomic, and enteric",
+        "Gray matter, white matter, and meninges"
+      ],
+      "a": 1,
+      "exp": "The vertebrate brain is divided into three major regions: the hindbrain, midbrain, and forebrain."
+    }
+  ]
+}

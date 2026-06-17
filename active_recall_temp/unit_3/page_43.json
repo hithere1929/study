@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 43,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 28,
+  "slide_title": "Cytoskeleton",
+  "original_text": "Cytoskeleton\nMicrotubules:\nHollow tubes composed of protein tubulin\nRadiate outward from a central point called centrosomenear the nucleus\nHold organelles in place, maintain the cell shape and act as tracksto guide organelles and molecules as they move within the cell\nActin Filaments:\nLong threads of bead-like protein called actin\nLinked end to end and wrapped around each other\nContribute to cell movement \nCrawling of white blood cells; contraction of muscle cells\nIntermediate Filaments:\nRods (protein fibers coiled into cable) that anchor nucleus and other organellesin place in the cell\nMaintain internal shape of nucleus\nProduced in high quantity by hair follicles and main component of hair",
+  "explanation": "This slide details the three main components of the cytoskeleton. Microtubules are hollow cylinders composed of the protein tubulin. They radiate outward from a central region near the nucleus called the centrosome, holding organelles in place, maintaining cell shape, and serving as tracks for molecular transport. Actin Filaments are long, thin threads of the bead-like protein actin, wound around one another. They contribute to cell movements, such as the crawling behavior of white blood cells and the contraction of muscle cells. Intermediate Filaments are cable-like coiled rods of fibrous proteins that anchor the nucleus and other organelles in place, maintain the internal shape of the nuclear envelope, and are produced in high quantities by hair follicles (serving as the main component of hair).",
+  "questions": [
+    {
+      "q": "Which cytoskeletal component is described as hollow tubes made of tubulin that radiate outward from the centrosome?",
+      "opts": [
+        "Actin filaments",
+        "Intermediate filaments",
+        "Microtubules",
+        "Centrioles"
+      ],
+      "a": 2,
+      "exp": "Microtubules are hollow tubes composed of the protein tubulin that radiate outward from the centrosome near the nucleus."
+    },
+    {
+      "q": "What is the main function of intermediate filaments?",
+      "opts": [
+        "Assisting in muscle contraction and white blood cell crawling",
+        "Anchoring the nucleus and other organelles in place and maintaining nuclear shape",
+        "Synthesizing tubulin proteins in the cytosol",
+        "Conducting electrical signals across the cell"
+      ],
+      "a": 1,
+      "exp": "Intermediate filaments are rods that anchor the nucleus and other organelles in place and maintain the internal shape of the nucleus."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 83,
+  "filename": "Unit_3_4.txt",
+  "section_title": "The Cell Cycle",
+  "page_num_in_file": 10,
+  "slide_title": "Mitosis",
+  "original_text": "Mitosis\nContinuous process that allows organized distribution of copied DNA to offspring cells \nM (Mitotic) Stageinvolves mitosis(nuclear division) and cytokinesis(division of cytoplasm)\nMitosis divided into 4 phases: prophase, metaphase, anaphase, telophase \nWhen divisions complete, two daughter cells are present",
+  "explanation": "Mitosis is a continuous process that ensures the organized and equal distribution of copied DNA to offspring cells. The M (mitotic) stage of the cell cycle involves two distinct processes: mitosis (the division of the nucleus) and cytokinesis (the division of the cytoplasm). Mitosis is traditionally divided into four sequential phases: prophase, metaphase, anaphase, and telophase. Once both nuclear and cytoplasmic division are complete, two distinct daughter cells are present.",
+  "questions": [
+    {
+      "q": "What are the two major events of the M (mitotic) stage of the cell cycle?",
+      "opts": [
+        "Interphase and cell growth",
+        "DNA replication and translation",
+        "Mitosis (nuclear division) and cytokinesis (cytoplasmic division)",
+        "G1 phase and S phase"
+      ],
+      "a": 2,
+      "exp": "The M stage involves mitosis (nuclear division) and cytokinesis (division of cytoplasm)."
+    },
+    {
+      "q": "What is the correct order of the four phases of mitosis?",
+      "opts": [
+        "Metaphase, Prophase, Anaphase, Telophase",
+        "Prophase, Metaphase, Anaphase, Telophase",
+        "Anaphase, Telophase, Prophase, Metaphase",
+        "Prophase, Anaphase, Metaphase, Telophase"
+      ],
+      "a": 1,
+      "exp": "Mitosis is divided into prophase, metaphase, anaphase, and telophase."
+    }
+  ]
+}

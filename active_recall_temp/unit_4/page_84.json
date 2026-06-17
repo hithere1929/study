@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 84,
+  "filename": "Unit_4_5.txt",
+  "section_title": "Biotech & Genomics",
+  "page_num_in_file": 3,
+  "slide_title": "DNA Cloning¨Recombinant DNA (rDNA)contains DNA from two or more different sources¤Requires:nA vectornintroduces rDNA into host cellnPlaspids (small accessory rings of DNA from bacteria) are common vectorsnTwo enzymes are required to introduce foreign DNA into vector DNAnA restriction enzyme -cleaves DNAnA DNA ligase enzyme -seals DNA into an opening created by the restriction enzyme",
+  "original_text": "DNA Cloning¨Recombinant DNA (rDNA)contains DNA from two or more different sources¤Requires:nA vectornintroduces rDNA into host cellnPlaspids (small accessory rings of DNA from bacteria) are common vectorsnTwo enzymes are required to introduce foreign DNA into vector DNAnA restriction enzyme -cleaves DNAnA DNA ligase enzyme -seals DNA into an opening created by the restriction enzyme",
+  "explanation": "Recombinant DNA (rDNA) is defined as DNA that contains sequences originating from two or more different sources. Producing rDNA requires a vector, which is a DNA molecule used to carry the foreign genetic material into a host cell. Plasmids—referred to as 'plaspids' on the slide, which are small accessory rings of double-stranded DNA found in bacteria—are commonly used as vectors. Constructing rDNA requires two essential enzymes: a restriction enzyme, which acts like molecular scissors to cleave the vector DNA, and a DNA ligase enzyme, which seals the foreign DNA fragment into the opening created by the restriction enzyme.",
+  "questions": [
+    {
+      "q": "What is a vector in recombinant DNA technology, and what is a common example?",
+      "opts": [
+        "An enzyme that cuts DNA; DNA polymerase.",
+        "A molecule that introduces rDNA into a host cell; plasmids (small accessory rings of DNA from bacteria).",
+        "A cell that destroys foreign DNA; a macrophage.",
+        "A protein that binds to promoter regions; a transcription factor."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states that a vector 'introduces rDNA into host cell' and that 'Plaspids (small accessory rings of DNA from bacteria) are common vectors.' The other choices are incorrect."
+    },
+    {
+      "q": "What are the roles of the restriction enzyme and DNA ligase in making recombinant DNA?",
+      "opts": [
+        "The restriction enzyme replicates the DNA, while DNA ligase proofreads it.",
+        "The restriction enzyme dephosphorylates the DNA, while DNA ligase cleaves it.",
+        "The restriction enzyme cleaves the DNA, while DNA ligase seals the foreign DNA into the opening.",
+        "The restriction enzyme transcribes the DNA, while DNA ligase translates it."
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide states: 'A restriction enzyme - cleaves DNA' and 'A DNA ligase enzyme - seals DNA into an opening created by the restriction enzyme.' The other options confuse these enzymes' functions."
+    }
+  ]
+}

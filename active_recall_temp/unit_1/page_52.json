@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 52,
+  "filename": "Unit_1_4.txt",
+  "section_title": "Microscopy",
+  "page_num_in_file": 2,
+  "slide_title": "Goals\u2013Understand the location andpurpose of:\u2013Illumination source\u2013Lenses\u2013Apertures\u2013Detectors\u2013Understand the relationship between size and scale\u2013Understand what magnification and resolution mean and how they are related",
+  "original_text": "Goals\u2013Understand the location andpurpose of:\u2013Illumination source\u2013Lenses\u2013Apertures\u2013Detectors\u2013Understand the relationship between size and scale\u2013Understand what magnification and resolution mean and how they are related",
+  "explanation": "This slide lists the learning objectives for the microscopy unit. Students are expected to understand the location and purpose of four key microscope components: the illumination source, lenses, apertures, and detectors. They must also comprehend the relationship between size and scale, and understand the meanings and relationship between magnification and resolution.",
+  "questions": [
+    {
+      "q": "Which of the following is NOT listed as a key microscope component students must understand on this slide?",
+      "opts": [
+        "Illumination source",
+        "Lenses",
+        "Centrifuge rotors",
+        "Detectors"
+      ],
+      "a": 2,
+      "exp": "The list of components is: 'Illumination source', 'Lenses', 'Apertures', and 'Detectors'."
+    }
+  ]
+}

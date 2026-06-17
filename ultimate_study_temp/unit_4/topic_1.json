@@ -1,0 +1,26 @@
+{
+  "id": "u4_t1",
+  "title": "DNA Structure",
+  "cheat_card": [
+    "<b>DNA (deoxyribonucleic acid)</b> is composed of two long polynucleotide strands wrapped in a <b>double helix</b>, with each turn containing <b>~10 nucleotides</b>.",
+    "Each <b>nucleotide</b> monomer consists of a <b>5-carbon deoxyribose sugar</b>, a <b>phosphate group</b>, and one of four nitrogenous bases (<b>A, T, G, C</b>).",
+    "The <b>sugar-phosphate backbone</b> is held together by covalent <b>phosphodiester bonds</b>, while the bases face the center to form <b>complementary hydrogen-bonded pairs</b> (<b>A=T</b> with 2 hydrogen bonds, <b>G≡C</b> with 3 hydrogen bonds).",
+    "Based on <b>Chargaff's rules</b>, the percentage of <b>Adenine equals Thymine</b> and <b>Guanine equals Cytosine</b> because a double-ringed <b>purine</b> always pairs with a single-ringed <b>pyrimidine</b>."
+  ],
+  "memory_anchor": "| Base Type | Nitrogenous Bases | Ring Structure | Hydrogen Bonds |\n|---|---|---|---|\n| **Purines** | Adenine (A), Guanine (G) | Double-ring | A pairs with T (2 H-bonds) |\n| **Pyrimidines** | Thymine (T), Cytosine (C) | Single-ring | G pairs with C (3 H-bonds) |",
+  "flashcards": [
+    {
+      "q": "If a double-stranded DNA sample is found to consist of 22% cytosine, what are the percentages of the other three nitrogenous bases in the sample?",
+      "a": "According to Chargaff's rules, the percentage of cytosine equals guanine, so Guanine is 22%. Together, C + G = 44%. The remaining 56% is split equally between Adenine and Thymine, meaning Adenine is 28% and Thymine is 28%."
+    },
+    {
+      "q": "Explain the difference in chemical bonding that holds the DNA sugar-phosphate 'handrails' together versus the bonds holding the 'rungs' together.",
+      "a": "The sugar-phosphate handrails are held together by strong covalent phosphodiester bonds between the phosphate group of one nucleotide and the deoxyribose sugar of the next. The rungs are held together by relatively weak, complementary hydrogen bonds between the purine and pyrimidine bases facing the center."
+    },
+    {
+      "q": "What are the structural components of a single DNA nucleotide, and how do purines and pyrimidines differ?",
+      "a": "A DNA nucleotide consists of a phosphate group, a 5-carbon deoxyribose sugar, and a nitrogenous base. Purines (Adenine and Guanine) have a double-ring chemical structure, whereas pyrimidines (Thymine and Cytosine) have a single-ring chemical structure."
+    }
+  ],
+  "outline_blanks": "DNA is a double-stranded helix where the monomeric [[nucleotides]] are connected by covalent [[phosphodiester bonds]] along the sugar-phosphate backbone. According to Chargaff's rules, the double-ringed [[purines]], which include adenine and guanine, form complementary [[hydrogen bonds]] with single-ringed [[pyrimidines]], which include thymine and cytosine."
+}

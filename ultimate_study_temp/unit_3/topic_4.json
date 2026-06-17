@@ -1,0 +1,26 @@
+{
+  "id": "u3_t4",
+  "title": "Endosymbiotic Theory",
+  "cheat_card": [
+    "The <b>Endosymbiotic Theory</b> posits that <b>mitochondria</b> and <b>chloroplasts</b> originated when large ancestral eukaryotic cells <b>engulfed independent prokaryotes</b>.",
+    "This theory explains why both organelles are bound by their own <b>double-layer phospholipid membranes</b> (an outer membrane from the host cell's vesicle and an inner membrane from the prokaryote).",
+    "Both mitochondria and chloroplasts contain their <b>own genetic information</b>, consisting of a <b>single circular DNA molecule</b> that is highly similar to bacterial genomes.",
+    "Furthermore, chloroplasts can only arise from the <b>division of pre-existing chloroplasts</b>, and both organelles reproduce independently of the host cell in a process resembling <b>binary fission</b>."
+  ],
+  "memory_anchor": "### Evidence for Endosymbiosis (Mnemonic: M.A.D.D.)\n* **M**embranes: Double membrane structure (inner is bacterial-like, outer is eukaryotic vesicle-like).\n* **A**ntibiotic Susceptibility: Susceptible to antibiotics, indicating bacterial origins.\n* **D**NA: Contain their own circular DNA, naked and unbound by histones.\n* **D**ivision: Replicate independently via binary fission-like division.",
+  "flashcards": [
+    {
+      "q": "What evolutionary event does the Endosymbiotic Theory describe, and which two eukaryotic organelles are the focus of this theory?",
+      "a": "The theory describes the origin of complex eukaryotic cells, stating that mitochondria and chloroplasts evolved from free-living, independent prokaryotes that were engulfed by a larger ancestral eukaryotic cell, forming a stable symbiotic relationship."
+    },
+    {
+      "q": "List three specific pieces of structural and genetic evidence supporting the prokaryotic origin of mitochondria and chloroplasts.",
+      "a": "1) Both organelles are surrounded by a double-layer phospholipid membrane. 2) Both contain their own genetic material in the form of a single, circular DNA molecule. 3) Both replicate independently within the cell using a division process similar to binary fission."
+    },
+    {
+      "q": "How does the reproduction of chloroplasts provide evidence for endosymbiosis?",
+      "a": "According to slide notes, chloroplasts cannot be created from scratch by the eukaryotic cell's nuclear DNA; they can only arise from the division of pre-existing chloroplasts, which mirrors autonomous bacterial reproduction."
+    }
+  ],
+  "outline_blanks": "The [[Endosymbiotic Theory]] states that mitochondria and chloroplasts arose when large eukaryotic cells engulfed [[independent prokaryotes]]. This explains why these organelles are bound by [[double membranes]] and contain their own circular [[DNA]], replicating through a process similar to bacterial division."
+}

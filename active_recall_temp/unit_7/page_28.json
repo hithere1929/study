@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 28,
+  "filename": "Unit_7_2.txt",
+  "section_title": "Plant Nutrition and Transport",
+  "page_num_in_file": 7,
+  "slide_title": "Water & Mineral Uptake: Adaptations & Mutualisms",
+  "original_text": "Water & Mineral Uptake Some plants have adaptations or mutualistic relationships with other organisms to assist with water and mineral uptake Rhizobiumbacteria Can live in root nodules on plants, and break down nitrogen. Receive carbohydrates from plant in return Mycorrhizae Mutualistic between plant roots and fungus Almost ALL plants have mycorrhizae Increase surface area of root system for plants, and break down organic matter in soil, freeing up nutrients for plant Root provides sugars and amino acids for fungus Other methods much less common Parasitic plants tap into other plant xylem (dodders, pinedrops) Carnivorous plants capture and digest insects (Venus flytrap)",
+  "explanation": "Plants exhibit adaptations and mutualisms to facilitate water and nutrient acquisition. Rhizobium bacteria form symbiotic associations with certain plants, residing in root nodules where they break down (fix) atmospheric nitrogen; in return, the plant provides the bacteria with carbohydrates. Mycorrhizae are mutualistic associations between plant roots and fungi, present in almost all plant species. Fungal hyphae increase the root surface area for water and mineral absorption and decompose organic matter in the soil to release nutrients; the plant root supplies the fungus with sugars and amino acids. Less common nutritional adaptations include parasitic plants (such as dodders and pinedrops) that tap into the xylem of host plants to extract nutrients, and carnivorous plants (such as the Venus flytrap) that capture and digest insects to obtain nitrogen in nutrient-poor environments.",
+  "questions": [
+    {
+      "q": "In the mutualism between Rhizobium bacteria and plants, what do the bacteria receive from the plant?",
+      "opts": [
+        "Nitrogen gas",
+        "Carbohydrates",
+        "Fungal hyphae",
+        "Water transport pumps"
+      ],
+      "a": 1,
+      "exp": "Rhizobium bacteria fix nitrogen for the plant and receive carbohydrates (sugars) in return."
+    },
+    {
+      "q": "What is the primary function of mycorrhizae in plant nutrition?",
+      "opts": [
+        "They capture and digest insects to supply nitrogen.",
+        "They tap into host xylem to steal water.",
+        "They increase root surface area and break down organic matter to free up nutrients.",
+        "They produce root nodules to house nitrogen-fixing bacteria."
+      ],
+      "a": 2,
+      "exp": "Mycorrhizae (fungus-root associations) enhance water and mineral absorption by expanding root surface area and digesting soil organic matter."
+    },
+    {
+      "q": "Which of the following is a parasitic plant that extracts nutrients by tapping into the xylem of a host plant?",
+      "opts": [
+        "Venus flytrap",
+        "Rhizobium",
+        "Dodder",
+        "Legume"
+      ],
+      "a": 2,
+      "exp": "Dodders and pinedrops are parasitic plants that tap into the vascular systems of host plants to acquire nutrients."
+    }
+  ]
+}

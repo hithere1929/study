@@ -1,0 +1,23 @@
+{
+  "unit": 5,
+  "page": 23,
+  "filename": "Unit_5_2.txt",
+  "section_title": "How Populations Evolve",
+  "page_num_in_file": 2,
+  "slide_title": "5.2 \u2013Opening Question",
+  "original_text": "5.2 \u2013Opening Question\u00a8Identify differences that can be observed in the hares below.\u00a8Which of these differences could be an evolutionary advantage, and which could be a disadvantage?",
+  "explanation": "This slide introduces Section 5.2 with an opening question that prompts students to observe and identify differences in the appearance of hares shown in an accompanying image. The exercise asks students to evaluate which of these phenotypic differences might confer an evolutionary advantage or disadvantage in a given environment.",
+  "questions": [
+    {
+      "q": "What group of animals is analyzed in the opening question of Section 5.2 to discuss traits and evolutionary advantage?",
+      "opts": [
+        "Finches",
+        "Hares",
+        "Moths",
+        "Tortoises"
+      ],
+      "a": 1,
+      "exp": "The opening question asks students to identify differences in the 'hares below' and evaluate their evolutionary advantages or disadvantages."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 16,
+  "filename": "Unit_7_1.txt",
+  "section_title": "Plant Structure & Organization",
+  "page_num_in_file": 16,
+  "slide_title": "Organization and Diversity of Stems: Herbaceous Stems",
+  "original_text": "Organization and Diversity of Stems Herbaceous Stems Mature non-woody stems exhibit only primary growth Outermost tissue covered with waxy cuticle Stems have distinctive vascular bundles Herbaceous eudicots -Vascular bundles arranged in distinct ring Monocots -Vascular bundles scattered throughout stem",
+  "explanation": "Herbaceous stems are mature, non-woody stems that undergo only primary growth (growth in length). The outer surface is covered with a waxy cuticle that limits water loss. The vascular tissues in herbaceous stems are grouped into vascular bundles. The spatial arrangement of these bundles differs between monocots and eudicots: in herbaceous eudicot stems, the vascular bundles are organized in a distinct ring; in monocots, the vascular bundles are scattered randomly throughout the ground tissue of the stem.",
+  "questions": [
+    {
+      "q": "How do vascular bundles differ in arrangement between monocot stems and herbaceous eudicot stems?",
+      "opts": [
+        "Monocots have vascular bundles arranged in a distinct ring, while eudicots have them scattered.",
+        "Monocots have vascular bundles scattered throughout the stem, while herbaceous eudicots have them arranged in a distinct ring.",
+        "Monocots lack vascular bundles entirely, while eudicots have them in a central core.",
+        "Both have scattered bundles, but monocots lack a protective cuticle."
+      ],
+      "a": 1,
+      "exp": "In monocot stems, vascular bundles are scattered throughout the stem. In herbaceous eudicots, vascular bundles are arranged in a distinct ring."
+    },
+    {
+      "q": "What type of growth is exhibited by mature herbaceous stems?",
+      "opts": [
+        "Both primary and secondary growth",
+        "Only secondary growth",
+        "Only primary growth",
+        "Neither primary nor secondary growth"
+      ],
+      "a": 2,
+      "exp": "Herbaceous stems are non-woody and exhibit only primary growth (lengthwise growth)."
+    }
+  ]
+}

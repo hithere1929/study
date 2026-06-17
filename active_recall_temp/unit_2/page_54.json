@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 54,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 18,
+  "slide_title": "2: Proteins",
+  "original_text": "2: Proteins¨Proteins: organic compounds composed mainly of carbon, hydrogen, oxygen& nitrogen¤Formed by the linkage of monomers: amino acids¨Most common molecule in the body (after water)¤Hair, nails, horns, skin, muscles, enzymes, etc. all composed of proteins¤100,000’s of protein structures have been identified",
+  "explanation": "Proteins are organic compounds composed primarily of carbon, hydrogen, oxygen, and nitrogen. They are formed by linking together monomer units known as amino acids. Next to water, proteins are the most abundant molecules in the human body, forming structures such as hair, nails, horns, skin, muscles, and enzymes. To date, hundreds of thousands of unique protein structures have been identified.",
+  "questions": [
+    {
+      "q": "What are the monomer building blocks of proteins?",
+      "opts": [
+        "Monosaccharides",
+        "Fatty acids",
+        "Amino acids",
+        "Nucleotides"
+      ],
+      "a": 2,
+      "exp": "Proteins are polymers formed by linking together amino acid monomers."
+    },
+    {
+      "q": "Which element is found in proteins that is typically absent in simple carbohydrates?",
+      "opts": [
+        "Carbon",
+        "Hydrogen",
+        "Oxygen",
+        "Nitrogen"
+      ],
+      "a": 3,
+      "exp": "Proteins are composed mainly of carbon, hydrogen, oxygen, and nitrogen. Nitrogen is a key element in proteins, whereas simple carbohydrates (C, H, O) do not contain nitrogen."
+    }
+  ]
+}

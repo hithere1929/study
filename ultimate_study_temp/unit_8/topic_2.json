@@ -1,0 +1,30 @@
+{
+  "id": "u8_t2",
+  "title": "Conditioning",
+  "cheat_card": [
+    "<b>Associative learning</b> involves a change in behavior through linking two events, split into <b>classical</b> and <b>operant conditioning</b>.",
+    "<b>Classical conditioning</b> pairs two different types of stimuli to elicit an involuntary response (e.g., <b>Pavlov's dogs</b> salivating to a bell associated with food).",
+    "<b>Operant conditioning</b> strengthens stimulus-response connections through trial and reinforcement/reward (e.g., <b>animal trick-training</b>).",
+    "<b>Imprinting</b> occurs when an animal mimics a behavior during a highly sensitive, restrictive <b>sensitive period</b> right after birth.",
+    "<b>Insight learning</b> is solving a novel problem without prior experience by drawing on past experiences in other contexts."
+  ],
+  "memory_anchor": "Conditioning Types:\n- Classical = Stimulus-Stimulus (Pavlov's bell + food = saliva)\n- Operant = Stimulus-Response (Trick + Reward = behavior strengthened)\n- Insight = Sudden solution (No trial-and-error)",
+  "flashcards": [
+    {
+      "q": "How does classical conditioning differ from operant conditioning in terms of stimuli and responses?",
+      "q_id": "u8_t2_f1",
+      "a": "Classical conditioning pairs two different stimuli to elicit an involuntary, automatic response (like Pavlov's dogs salivating at a bell), whereas operant conditioning strengthens a voluntary behavior through rewards or reinforcement."
+    },
+    {
+      "q": "What is the biological term for a durable change in behavior brought about by experience, and what is a sensitive period?",
+      "q_id": "u8_t2_f2",
+      "a": "A durable change in behavior brought about by experience is called learning. A sensitive period is a defined window of time during development when a specific behavior (like imprinting) must be learned."
+    },
+    {
+      "q": "What is insight learning and how does it differ from trial-and-error learning?",
+      "q_id": "u8_t2_f3",
+      "a": "Insight learning is solving a problem without prior direct experience, where the animal draws upon prior experiences from different circumstances to formulate a new solution, rather than slowly establishing stimulus-response connections."
+    }
+  ],
+  "outline_blanks": "Associative learning can occur via [[classical conditioning]], where two different stimuli are paired (like Pavlov's dogs salivating at a bell), or [[operant conditioning]], which strengthens stimulus-response connections through trial and reward. In contrast, [[insight learning]] allows an animal to solve a new problem without prior experience by drawing on past memories."
+}

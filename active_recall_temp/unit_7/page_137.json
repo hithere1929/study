@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 137,
+  "filename": "Unit_7_7.txt",
+  "section_title": "Respiratory System",
+  "page_num_in_file": 20,
+  "slide_title": "Respiration and Human Health: Lung Disorders",
+  "original_text": "Respiration and Human Health Disorders Affecting the Lungs Pneumonia Viral, bacterial, or fungal infection of the lungs in which bronchi and alveoli fill with fluid Pulmonary tuberculosis Caused by Mycobacterium tuberculosis Results in lung damage and reduced function Pulmonary fibrosis Fibrous connective tissue builds up in the lungs Emphysema Alveoli are distended and walls are damaged, reducing the surface area available for gas exchange Lung Cancer Begins with thickening and callusing of the cells lining the airways Atypical cells appear in the thickened lining Cells from the tumor break loose and metastasize",
+  "explanation": "This slide details major lung disorders: 1) Pneumonia: a viral, bacterial, or fungal infection where the bronchi and alveoli fill with fluid. 2) Pulmonary tuberculosis: caused by Mycobacterium tuberculosis, resulting in significant lung damage. 3) Pulmonary fibrosis: a buildup of fibrous connective tissue that reduces lung elasticity. 4) Emphysema: a disease where alveoli become distended and their walls are damaged, reducing the surface area for gas exchange. 5) Lung Cancer: begins with the thickening of airway linings, followed by the appearance of atypical cells and tumor formation, which can metastasize.",
+  "questions": [
+    {
+      "q": "Which lung disease is characterized by the destruction of alveolar walls and reduced gas-exchange surface area?",
+      "opts": [
+        "Pneumonia",
+        "Pulmonary fibrosis",
+        "Emphysema",
+        "Asthma"
+      ],
+      "a": 2,
+      "exp": "Emphysema is characterized by damaged and distended alveolar walls, which decreases the surface area available for diffusion."
+    },
+    {
+      "q": "What is the primary pathological feature of pneumonia?",
+      "opts": [
+        "Fibrous connective tissue buildup in the pleural cavity",
+        "Spasms of the smooth muscle in the bronchioles",
+        "Bronchi and alveoli filling with fluid due to infection",
+        "Tumor cells breaking loose and metastasizing"
+      ],
+      "a": 2,
+      "exp": "Pneumonia is an infection of the lungs that causes the bronchi and alveoli to fill with fluid, compromising gas exchange."
+    },
+    {
+      "q": "What pathogen is responsible for pulmonary tuberculosis?",
+      "opts": [
+        "Streptococcus pyogenes",
+        "Mycobacterium tuberculosis",
+        "Influenza virus",
+        "Megakaryocyte fungi"
+      ],
+      "a": 1,
+      "exp": "Pulmonary tuberculosis is caused by the bacterium Mycobacterium tuberculosis."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 65,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 29,
+  "slide_title": "3: Saturated vs. Unsaturated Triglycerides",
+  "original_text": "3: Saturated vs. Unsaturated Triglycerides",
+  "explanation": "This slide serves as a visual layout showing the structural differences between saturated and unsaturated triglycerides.",
+  "questions": [
+    {
+      "q": "What comparison is displayed on this slide?",
+      "opts": [
+        "Hydrolysis vs Condensation",
+        "Saturated vs Unsaturated Triglycerides",
+        "DNA vs RNA structures",
+        "Acids vs Bases"
+      ],
+      "a": 1,
+      "exp": "The slide title is '3: Saturated vs. Unsaturated Triglycerides'."
+    }
+  ]
+}

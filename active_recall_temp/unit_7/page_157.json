@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 157,
+  "filename": "Unit_7_8.txt",
+  "section_title": "Nervous System",
+  "page_num_in_file": 19,
+  "slide_title": "The Peripheral Nervous System: Somatic & Autonomic",
+  "original_text": "The Peripheral Nervous System Somatic System Includes cranial nerves and spinal nervesnGather information from sensors and conduct decisions to effectorsnControls the skeletal muscles Voluntary Autonomic system Controls the smooth muscles, cardiac muscles, and glands Innervates all internal organs Usually involuntary Divided into two divisionsnSympathetic divisionnParasympathetic division Utilizes two neurons and one ganglion for each impulse",
+  "explanation": "The Peripheral Nervous System (PNS) connects the CNS to effectors and receptors. It is divided into: 1) Somatic system: includes cranial and spinal nerves. It gathers sensory inputs and conducts motor decisions to voluntary skeletal muscles. 2) Autonomic system: regulates involuntary activity of smooth muscles, cardiac muscles, and glands, innervating all internal organs. It is divided into the sympathetic and parasympathetic divisions. The autonomic motor pathway is unique because it utilizes a two-neuron relay (preganglionic and postganglionic) and one intervening ganglion to transmit each impulse, unlike the single-neuron somatic pathway.",
+  "questions": [
+    {
+      "q": "Which division of the PNS controls skeletal muscles voluntarily?",
+      "opts": [
+        "Autonomic system",
+        "Somatic system",
+        "Limbic system",
+        "Sympathetic division"
+      ],
+      "a": 1,
+      "exp": "The somatic system is responsible for conducting voluntary motor commands to skeletal muscles."
+    },
+    {
+      "q": "How does the motor pathway of the autonomic system differ from that of the somatic system?",
+      "opts": [
+        "The autonomic system uses a dorsal neural tube.",
+        "The autonomic system utilizes a two-neuron pathway and one ganglion for each impulse.",
+        "The autonomic system does not use neurotransmitters.",
+        "The autonomic system is under voluntary control."
+      ],
+      "a": 1,
+      "exp": "Somatic motor pathways use a single neuron to reach the target muscle, whereas autonomic pathways use two neurons (preganglionic and postganglionic) and synapse within a ganglion."
+    }
+  ]
+}

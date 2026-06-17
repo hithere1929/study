@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 156,
+  "filename": "Unit_7_8.txt",
+  "section_title": "Nervous System",
+  "page_num_in_file": 18,
+  "slide_title": "The Central Nervous System: Learning and Memory",
+  "original_text": "The Central Nervous System Learning and Memory Memory The ability to hold a thought in mind or recall events from the past Learning Takes place when we retain and use past memories Short term memory is associated with the prefrontal area of the frontal lobe Long term memory is associated with the hippocampus",
+  "explanation": "Memory is the cognitive ability to hold a thought in mind or recall past events, and learning occurs when past memories are retained and applied. Memory is structurally divided: 1) Short-term memory: is associated with the prefrontal area of the frontal lobe. 2) Long-term memory: is processed and stored with the help of the hippocampus.",
+  "questions": [
+    {
+      "q": "Which brain region is primarily associated with short-term memory?",
+      "opts": [
+        "The occipital lobe",
+        "The prefrontal area of the frontal lobe",
+        "The medulla oblongata",
+        "The cerebellum"
+      ],
+      "a": 1,
+      "exp": "Short-term memory processing is localized in the prefrontal cortex of the frontal lobe."
+    },
+    {
+      "q": "What brain structure is critical for long-term memory?",
+      "opts": [
+        "The pons",
+        "The hippocampus",
+        "The basal nuclei",
+        "The olfactory bulb"
+      ],
+      "a": 1,
+      "exp": "Long-term memory storage and consolidation are heavily dependent on the hippocampus, a structure in the limbic system."
+    }
+  ]
+}

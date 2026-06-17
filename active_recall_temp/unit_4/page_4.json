@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 4,
+  "filename": "Unit_4_1.txt",
+  "section_title": "DNA Advances through 20th Century",
+  "page_num_in_file": 4,
+  "slide_title": "Back to the Future¨We will circle back later this unit to discuss Gregor Mendel and his studies that investigated how traits were inherited¤Start this unit with understanding studies that followed Mendel into what hereditary material was.¤Start small, and zoom out¤Understand emergent properties of geneticmaterial from the nucleotide out to heredity.",
+  "original_text": "Back to the Future¨We will circle back later this unit to discuss Gregor Mendel and his studies that investigated how traits were inherited¤Start this unit with understanding studies that followed Mendel into what hereditary material was.¤Start small, and zoom out¤Understand emergent properties of geneticmaterial from the nucleotide out to heredity.",
+  "explanation": "This page introduces the learning strategy and path for molecular genetics. While Gregor Mendel's classic inheritance studies will be discussed later in the unit, this section begins by looking at the scientific discoveries that followed Mendel, focusing on identifying what the hereditary material actually is. The approach is to 'start small and zoom out,' examining the emergent properties of genetic material starting from the individual nucleotide level and building up to the level of heredity.",
+  "questions": [
+    {
+      "q": "According to the plan outlined on the slide, how will Gregor Mendel's studies be integrated into the unit?",
+      "opts": [
+        "They will be studied at the very start of the unit.",
+        "They will be skipped entirely to focus on modern DNA technology.",
+        "They will be discussed later in the unit, after understanding what the hereditary material is.",
+        "They will only be studied in the laboratory portion of the course."
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide states 'We will circle back later this unit to discuss Gregor Mendel and his studies.' Option A is incorrect because the unit starts with studies that followed Mendel to discover what hereditary material was. Options B and D are incorrect because they contradict the slide's outline."
+    },
+    {
+      "q": "What is the pedagogical approach described for studying genetic material in this unit?",
+      "opts": [
+        "Start large (heredity) and zoom in to the nucleotide level.",
+        "Start small (nucleotide level) and zoom out to heredity.",
+        "Focus exclusively on biochemical reactions without discussing organisms.",
+        "Memorize terms in alphabetical order."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide says 'Start small, and zoom out' and 'Understand emergent properties of genetic material from the nucleotide out to heredity.' Option A is the opposite of the slide's instruction, and options C and D are incorrect."
+    }
+  ]
+}

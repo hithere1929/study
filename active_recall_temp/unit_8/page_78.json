@@ -1,0 +1,23 @@
+{
+  "unit": 8,
+  "page": 78,
+  "filename": "Unit_8_5.txt",
+  "section_title": "Cellular Respiration",
+  "page_num_in_file": 6,
+  "slide_title": "Cellular Respiration \nCellular respiration results in net gain of 36-38 ATP molecules per glucose, depending on the cell",
+  "original_text": "Cellular Respiration \nCellular respiration results in net gain of 36-38 ATP molecules per glucose, depending on the cell",
+  "explanation": "This slide notes the overall energy yield of aerobic cellular respiration. Complete breakdown of one molecule of glucose results in a net gain of 36 to 38 ATP molecules, with the exact amount depending on the specific cell type.",
+  "questions": [
+    {
+      "q": "What is the net gain of ATP molecules per glucose molecule from complete cellular respiration?",
+      "opts": [
+        "2 ATP",
+        "4 ATP",
+        "36-38 ATP",
+        "32-34 ATP"
+      ],
+      "a": 2,
+      "exp": "The notes state: 'Cellular respiration results in net gain of 36-38 ATP molecules per glucose, depending on the cell.'"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 69,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 19,
+  "slide_title": "2) Transcriptional Control¨Transcription factors, activators, enhancers and repressors all always found within the nucleus¨Must be activated to do their job¤Kinases–Phosphorylate these molecules to activate their activity¤Phosphatases–Dephosphorylate the moleculesnTogether these play a role in cell signaling network for cell growth",
+  "original_text": "2) Transcriptional Control¨Transcription factors, activators, enhancers and repressors all always found within the nucleus¨Must be activated to do their job¤Kinases–Phosphorylate these molecules to activate their activity¤Phosphatases–Dephosphorylate the moleculesnTogether these play a role in cell signaling network for cell growth",
+  "explanation": "Transcription factors, activators, enhancers, and repressors are always localized within the cell nucleus. However, they must be activated to carry out their functions. This activation is regulated by enzymes: Kinases activate these regulatory molecules by transferring phosphate groups to them (phosphorylation), while phosphatases deactivate them by removing phosphate groups (dephosphorylation). Together, these enzymes play a key role in the cell signaling networks that control cell growth.",
+  "questions": [
+    {
+      "q": "Which enzymes are responsible for phosphorylating and activating transcription factors and regulators in the nucleus?",
+      "opts": [
+        "Phosphatases",
+        "Kinases",
+        "Polymerases",
+        "Ligases"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'Kinases - Phosphorylate these molecules to activate their activity.' Phosphatases (Option A) dephosphorylate the molecules, polymerases construct nucleic acids, and ligases seal DNA nicks."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 105,
+  "filename": "Unit_8_6.txt",
+  "section_title": "Major Ecosystems of the Biosphere",
+  "page_num_in_file": 14,
+  "slide_title": "Aquatic Ecosystems¨Lakes¤Bodies of water classified by nutrient statusnOligotrophic-Nutrient-poornEutrophic-Nutrient-richnOligotrophic lakes can become eutrophic lakes through the process of eutrophication¤In temperate zones, deep lakes are stratified in the summer and winter and have distinct vertical zonesnIn summer, lakes have three layers that differ in temperature:nEpilimnion –surface layer (warm water)nThermocline–middle layer (cooler than epilimnion)nHypolimnion–bottom layer (cold)nFall overturnnEpilimnion water becomes cooler than the water in the hypolimnionnCauses the surface water to sink and deep water to risenProcess continues until temperature is uniform throughout the lakenSpring overturnnAs ice melts, cooler water on top sinks below warmer water on the bottom",
+  "original_text": "Aquatic Ecosystems¨Lakes¤Bodies of water classified by nutrient statusnOligotrophic-Nutrient-poornEutrophic-Nutrient-richnOligotrophic lakes can become eutrophic lakes through the process of eutrophication¤In temperate zones, deep lakes are stratified in the summer and winter and have distinct vertical zonesnIn summer, lakes have three layers that differ in temperature:nEpilimnion –surface layer (warm water)nThermocline–middle layer (cooler than epilimnion)nHypolimnion–bottom layer (cold)nFall overturnnEpilimnion water becomes cooler than the water in the hypolimnionnCauses the surface water to sink and deep water to risenProcess continues until temperature is uniform throughout the lakenSpring overturnnAs ice melts, cooler water on top sinks below warmer water on the bottom",
+  "explanation": "Lakes are categorized by their nutrient levels: oligotrophic lakes are nutrient-poor, while eutrophic lakes are nutrient-rich. Oligotrophic lakes can naturally or artificially shift to eutrophic states through eutrophication. In temperate regions, deep lakes undergo seasonal thermal stratification. In the summer, three distinct thermal layers form: the epilimnion (warm surface water), the thermocline (cooler middle transition layer), and the hypolimnion (cold bottom water). During the fall overturn, surface water cools and sinks, displacing the bottom water upward until the temperature is uniform. Similarly, during the spring overturn, melting ice creates cool surface water that sinks below the warmer bottom water, mixing the lake's nutrients and oxygen.",
+  "questions": [
+    {
+      "q": "What are the three thermal layers of a temperate lake in summer, from top to bottom?",
+      "opts": [
+        "Hypolimnion, Epilimnion, Thermocline",
+        "Epilimnion, Thermocline, Hypolimnion",
+        "Oligotrophic, Eutrophic, Peat",
+        "Marshes, Swamps, Bogs"
+      ],
+      "a": 1,
+      "exp": "The notes state that in summer, deep lakes have three temperature layers: 'Epilimnion – surface layer (warm water)', 'Thermocline – middle layer', and 'Hypolimnion – bottom layer (cold).'"
+    },
+    {
+      "q": "What happens during a fall overturn in a stratified lake?",
+      "opts": [
+        "The bottom layer freezes completely, turning the lake into a bog.",
+        "The surface water cools, becomes denser, and sinks, causing deep water to rise until the lake temperature is uniform.",
+        "Algae bloom massively, converting the epilimnion into a swamp.",
+        "Descending winds cause water to rotate clockwise."
+      ],
+      "a": 1,
+      "exp": "The notes state that during a fall overturn, 'Epilimnion water becomes cooler than the water in the hypolimnion; Causes the surface water to sink and deep water to rise' until the temperature is uniform."
+    }
+  ]
+}

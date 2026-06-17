@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 3,
+  "filename": "Unit_1_1.txt",
+  "section_title": "Lab Safety",
+  "page_num_in_file": 3,
+  "slide_title": "The Golden Rule",
+  "original_text": "The Golden Rule\nFollow all instructions given by the lab manager and/or supervisors.",
+  "explanation": "This page introduces the single most important rule in the laboratory, termed 'The Golden Rule'. It requires individuals to follow all instructions provided by the lab manager and/or supervisors without exception.",
+  "questions": [
+    {
+      "q": "According to the slide, what is 'The Golden Rule' of lab safety?",
+      "opts": [
+        "Always wear a lab coat and gloves",
+        "Keep your workspace clean and organized",
+        "Follow all instructions given by the lab manager and/or supervisors",
+        "Report all minor accidents at the end of the class period"
+      ],
+      "a": 2,
+      "exp": "The slide explicitly defines 'The Golden Rule' as: 'Follow all instructions given by the lab manager and/or supervisors.'"
+    }
+  ]
+}

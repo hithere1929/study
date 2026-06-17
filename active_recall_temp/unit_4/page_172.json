@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 172,
+  "filename": "Unit_4_8.txt",
+  "section_title": "Mendelian Inheritance P1 - Mendelian Genetics",
+  "page_num_in_file": 30,
+  "slide_title": "PunnetSquare\nEvery time a couple has an offspring, the offspring has an equal chance of inheriting each of the probable traitsFor a single allele, all offspring will have a 25%chance of inheriting any genotype.Probability of a dominant phenotype 75% or 3:1For a dihybrid cross, 1:16 chance of each combination of alleles. For dominance, ratio is always 9:3:3:1 for traits with autosomal dominance/recessive",
+  "original_text": "PunnetSquare\nEvery time a couple has an offspring, the offspring has an equal chance of inheriting each of the probable traitsFor a single allele, all offspring will have a 25%chance of inheriting any genotype.Probability of a dominant phenotype 75% or 3:1For a dihybrid cross, 1:16 chance of each combination of alleles. For dominance, ratio is always 9:3:3:1 for traits with autosomal dominance/recessive",
+  "explanation": "For each fertilization event, the offspring has an equal chance of inheriting any of the possible parental alleles. In a monohybrid cross of two heterozygotes, there is a 25% (1/4) chance for each genotype (e.g., EE, Ee, eE, ee), resulting in a 75% (3/4) probability of expressing the dominant phenotype, which represents the classic 3:1 ratio. In a dihybrid cross, there is a 1/16 chance for each specific combination of alleles, leading to a classic 9:3:3:1 phenotypic ratio for traits that exhibit standard autosomal dominant/recessive inheritance.",
+  "questions": [
+    {
+      "q": "What is the probability that offspring of two heterozygous parents will show the dominant phenotype?",
+      "opts": [
+        "25% (1/4)",
+        "50% (1/2)",
+        "75% (3/4)",
+        "100%"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide states: 'Probability of a dominant phenotype 75% or 3:1'."
+    },
+    {
+      "q": "What is the classic phenotypic ratio for a dihybrid cross involving two traits with autosomal dominance/recessive inheritance?",
+      "opts": [
+        "1:2:1",
+        "3:1",
+        "9:3:3:1",
+        "1:1:1:1"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide states: 'For a dihybrid cross, 1:16 chance of each combination of alleles. For dominance, ratio is always 9:3:3:1'."
+    }
+  ]
+}

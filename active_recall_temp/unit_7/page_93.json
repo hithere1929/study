@@ -1,0 +1,23 @@
+{
+  "unit": 7,
+  "page": 93,
+  "filename": "Unit_7_5.txt",
+  "section_title": "Animal Organization",
+  "page_num_in_file": 20,
+  "slide_title": "Homeostasis",
+  "original_text": "Homeostasis",
+  "explanation": "This slide is a divider page introducing the concept of homeostasis.",
+  "questions": [
+    {
+      "q": "What is the topic of this slide?",
+      "opts": [
+        "Homeostasis",
+        "Cardiovascular Pathways",
+        "Dermal Tissue",
+        "Tissue Culture"
+      ],
+      "a": 0,
+      "exp": "The slide serves as a section divider for Homeostasis."
+    }
+  ]
+}

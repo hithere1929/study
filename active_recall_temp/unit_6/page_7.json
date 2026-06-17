@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 7,
+  "filename": "Unit_6_1.txt",
+  "section_title": "Viruses",
+  "page_num_in_file": 7,
+  "slide_title": "Virus Reproduction",
+  "original_text": "Virus Reproduction\u00a8Technically intracellular parasites \u2013Do not contain their own machinery for reproduction\u00a8Gain entry into specific host cell \u00a4Capsid (or spikes of the envelope) adhere to specific receptor sites on the host cell surface. \u00a8Viral nucleic acid then enters a cell \u00a4Viral genome codes for production of protein units in the capsid. Host cell makes the subunits to create new virus particles\u00a8Relies on host cell enzymes, ribosomes, transfer RNA (tRNA), and ATP for its own replication\u00a8Mistakes made in reproduction allow for mutations, and possible viral evolution as a result.",
+  "explanation": "Viruses are obligate intracellular parasites because they lack their own machinery for reproduction. To replicate, they must enter a specific host cell. This entry is initiated when the viral capsid or the spikes of its envelope adhere to specific receptor sites on the host cell surface. After attachment, the viral nucleic acid enters the host cell. The viral genome then directs the host cell to synthesize capsid protein subunits, which assemble into new viral particles. In this process, the virus relies completely on the host cell's enzymes, ribosomes, transfer RNA (tRNA), and ATP. Mistakes made during viral genome replication introduce mutations, which can lead to viral evolution.",
+  "questions": [
+    {
+      "q": "How does a virus gain entry into a specific host cell?",
+      "opts": [
+        "By engulfing the host cell using phagocytosis",
+        "By the adhesion of the capsid or envelope spikes to specific receptor sites on the host cell surface",
+        "By releasing toxic enzymes that digest the entire host membrane",
+        "By utilizing viral active transport proteins powered by viral ATP"
+      ],
+      "a": 1,
+      "exp": "The notes state that the capsid (or spikes of the envelope) adhere to specific receptor sites on the host cell surface to gain entry."
+    },
+    {
+      "q": "Which host cell resources does the virus rely on for its replication?",
+      "opts": [
+        "Host cell enzymes, ribosomes, tRNA, and ATP",
+        "Host cell nucleus, cell wall, and lysosomes",
+        "Host cell vacuoles, chloroplasts, and cytoskeleton",
+        "Host cell DNA polymerase only"
+      ],
+      "a": 0,
+      "exp": "The notes state that the virus 'Relies on host cell enzymes, ribosomes, transfer RNA (tRNA), and ATP for its own replication'."
+    },
+    {
+      "q": "What is the biological consequence of replication errors during viral reproduction?",
+      "opts": [
+        "They prevent the host cell from dividing",
+        "They result in the destruction of the viral genome",
+        "They allow for mutations and potential viral evolution",
+        "They cause the virus to transition into a prokaryote"
+      ],
+      "a": 2,
+      "exp": "The notes indicate that 'Mistakes made in reproduction allow for mutations, and possible viral evolution as a result.'"
+    }
+  ]
+}

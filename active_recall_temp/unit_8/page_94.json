@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 94,
+  "filename": "Unit_8_6.txt",
+  "section_title": "Major Ecosystems of the Biosphere",
+  "page_num_in_file": 3,
+  "slide_title": "Climate and the Biosphere¨Climate¤Prevailing weather conditions in a region¤Determined primarily by temperature and precipitation¤Influenced by a multitude of factors including latitude, tilt of the earth’s axis, and topography¨Solar radiation¤Direct at the equator¤Tilt of the earth causes one pole to be closer than the other to the sunnAccounts for the seasons that occur in all parts of the Earth except the equator¤At the equator, warm, moist air rises and loses its moisture as it cools in the form of rain¤Rising air moves toward the poles, but at 30 degrees north and south latitude it cools and sinksnCreates areas of high pressure with little rainfallnGreat deserts of Africa, Australia, and the Americas¤At 60 degrees north and south latitude, warm air rises and cools, producing an area of low pressure with high rainfallnGreat forests of the temperate zone",
+  "original_text": "Climate and the Biosphere¨Climate¤Prevailing weather conditions in a region¤Determined primarily by temperature and precipitation¤Influenced by a multitude of factors including latitude, tilt of the earth’s axis, and topography¨Solar radiation¤Direct at the equator¤Tilt of the earth causes one pole to be closer than the other to the sunnAccounts for the seasons that occur in all parts of the Earth except the equator¤At the equator, warm, moist air rises and loses its moisture as it cools in the form of rain¤Rising air moves toward the poles, but at 30 degrees north and south latitude it cools and sinksnCreates areas of high pressure with little rainfallnGreat deserts of Africa, Australia, and the Americas¤At 60 degrees north and south latitude, warm air rises and cools, producing an area of low pressure with high rainfallnGreat forests of the temperate zone",
+  "explanation": "Climate refers to the prevailing weather conditions in a region, determined primarily by temperature and precipitation, and shaped by latitude, axis tilt, and topography. Solar radiation hits the equator directly. The Earth's tilt causes one hemisphere to be closer to the sun than the other at any time, creating seasons everywhere except the equator. Global air circulation drives precipitation patterns: 1) At the equator, warm, moist air rises, cools, and drops heavy rain. 2) At 30° North and South latitudes, this dry, cooled air sinks, forming high-pressure regions with extremely low rainfall, where the world's major deserts are located. 3) At 60° North and South latitudes, air rises and cools again, creating low-pressure regions with high rainfall, sustaining the great temperate forests.",
+  "questions": [
+    {
+      "q": "What happens to rising air at 30 degrees North and South latitude, and what biomes form there?",
+      "opts": [
+        "It rises further and cools, creating rainforests.",
+        "It cools and sinks, creating high-pressure regions with little rain and forming great deserts.",
+        "It mixes with polar winds to create temperate deciduous forests.",
+        "It remains completely calm, forming the doldrums."
+      ],
+      "a": 1,
+      "exp": "The notes state: 'at 30 degrees north and south latitude it cools and sinks; Creates areas of high pressure with little rainfall; Great deserts of Africa, Australia, and the Americas.'"
+    },
+    {
+      "q": "Why are there no distinct seasons at the equator?",
+      "opts": [
+        "Because the Earth's rotation slows down at the equator.",
+        "Because solar radiation is direct and the tilt does not change the equator's proximity to the sun significantly.",
+        "Because of the high pressure zones present at 30 degrees latitude.",
+        "Because there are no landmasses at the equator."
+      ],
+      "a": 1,
+      "exp": "The notes state that solar radiation is 'Direct at the equator' and the 'Tilt of the earth causes one pole to be closer than the other to the sun; Accounts for the seasons that occur in all parts of the Earth except the equator.'"
+    }
+  ]
+}

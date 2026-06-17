@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 114,
+  "filename": "Unit_4_6.txt",
+  "section_title": "Meiosis",
+  "page_num_in_file": 8,
+  "slide_title": "Meiosis I¨Metaphase I:¤Tetrads line up randomly along midline of dividing cell¤Orientation of chromosome pair random with respect to poles of cell¤Spindle fibers from one pole attach to centromere of one homologous chromosome¤Spindle fibers from opposite pole attach to centromere of other homologous chromosome¨Anaphase I:¤Each homologous chromosome moves to opposite pole of dividing cellnTetrad is separated; not sister chromatids as in mitosis¤Independent assortment occurs –random separation of homologous chromosomesnAdds to genetic diversity/variation",
+  "original_text": "Meiosis I¨Metaphase I:¤Tetrads line up randomly along midline of dividing cell¤Orientation of chromosome pair random with respect to poles of cell¤Spindle fibers from one pole attach to centromere of one homologous chromosome¤Spindle fibers from opposite pole attach to centromere of other homologous chromosome¨Anaphase I:¤Each homologous chromosome moves to opposite pole of dividing cellnTetrad is separated; not sister chromatids as in mitosis¤Independent assortment occurs –random separation of homologous chromosomesnAdds to genetic diversity/variation",
+  "explanation": "During Metaphase I, tetrads align randomly along the midline of the cell, with each homologous pair oriented randomly toward either spindle pole. Spindle fibers from opposite poles attach to the centromeres of the respective homologous chromosomes. In Anaphase I, the homologous chromosomes are pulled apart and move to opposite poles of the cell. This separates the tetrad, leaving sister chromatids joined at their centromeres (unlike in mitotic anaphase, where sister chromatids separate). This random segregation of maternal and paternal homologous chromosomes is called independent assortment, which contributes to genetic variation.",
+  "questions": [
+    {
+      "q": "How does chromosome separation in Anaphase I differ from mitosis?",
+      "opts": [
+        "Homologous chromosomes are separated in Anaphase I, while sister chromatids remain joined; in mitosis, sister chromatids separate.",
+        "Sister chromatids are separated in Anaphase I, while homologous chromosomes remain joined; in mitosis, tetrads separate.",
+        "Chromosomes are degraded in Anaphase I; they are replicated in mitosis.",
+        "Spindle fibers do not attach to centromeres in Anaphase I; they attach in mitosis."
+      ],
+      "a": 0,
+      "exp": "Option A is correct because the slide states: 'Tetrad is separated; not sister chromatids as in mitosis' under Anaphase I."
+    },
+    {
+      "q": "What is independent assortment?",
+      "opts": [
+        "The random matching of sperm and egg during fertilization.",
+        "The random separation of homologous chromosomes during Anaphase I.",
+        "The random splicing of exons during post-transcriptional control.",
+        "The random insertion of transposons into chromosomes."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide defines independent assortment as 'random separation of homologous chromosomes' during Anaphase I."
+    }
+  ]
+}

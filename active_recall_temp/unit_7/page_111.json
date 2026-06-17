@@ -1,0 +1,23 @@
+{
+  "unit": 7,
+  "page": 111,
+  "filename": "Unit_7_6.txt",
+  "section_title": "Circulation & Cardiovascular System",
+  "page_num_in_file": 17,
+  "slide_title": "Blood: Functions",
+  "original_text": "Blood Transports substances to and from capillaries for exchange with tissue fluid Helps destroy pathogenic microorganisms Distributes antibodies Maintains water balance and pH Regulates body temperature Carries platelets and factors to promote clotting and prevent blood loss",
+  "explanation": "Blood is a vital fluid connective tissue with several key homeostatic functions: 1) Transport: it carries nutrients, gases, and wastes to and from capillaries for exchange with tissue fluids. 2) Defense: it helps destroy pathogens and distributes antibodies throughout the body. 3) Regulation: it maintains the body's water balance, blood pH, and body temperature. 4) Hemostasis: it carries platelets and clotting factors to promote coagulation and prevent blood loss from damaged vessels.",
+  "questions": [
+    {
+      "q": "Which of the following is a homeostatic function of blood?",
+      "opts": [
+        "Transporting substances to and from capillaries for tissue exchange",
+        "Maintaining water balance and pH",
+        "Regulating body temperature and carrying clotting factors",
+        "All of the above"
+      ],
+      "a": 3,
+      "exp": "Blood functions in transport (gases/nutrients), protection (white blood cells/antibodies/platelets), and regulation (water balance, pH, temperature)."
+    }
+  ]
+}

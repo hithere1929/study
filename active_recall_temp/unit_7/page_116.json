@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 116,
+  "filename": "Unit_7_6.txt",
+  "section_title": "Circulation & Cardiovascular System",
+  "page_num_in_file": 22,
+  "slide_title": "Blood: Platelets & Clotting",
+  "original_text": "Blood Platelets  Result from fragmentation of megakaryocytes Involved in blood clotting (coagulation) A blood clot consists of RBC s & Fibrin threads",
+  "explanation": "Platelets (thrombocytes) are cell fragments formed by the fragmentation of large cells in the bone marrow called megakaryocytes. Platelets are essential for blood clotting (coagulation). A mature blood clot consists of a meshwork of insoluble fibrin threads that trap red blood cells (RBCs) to seal a damaged vessel.",
+  "questions": [
+    {
+      "q": "What cell type fragments to produce platelets in the bone marrow?",
+      "opts": [
+        "Fibroblasts",
+        "Megakaryocytes",
+        "Monocytes",
+        "Statoliths"
+      ],
+      "a": 1,
+      "exp": "Platelets are formed from the cellular fragmentation of large bone marrow cells called megakaryocytes."
+    },
+    {
+      "q": "What are the structural components of a blood clot?",
+      "opts": [
+        "Elastic fibers and osteocytes",
+        "Red blood cells and fibrin threads",
+        "White blood cells and collagen",
+        "Platelets and heparin"
+      ],
+      "a": 1,
+      "exp": "A blood clot consists of a network of sticky fibrin threads that trap red blood cells to block blood loss."
+    }
+  ]
+}

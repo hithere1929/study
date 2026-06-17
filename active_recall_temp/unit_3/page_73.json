@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 73,
+  "filename": "Unit_3_3.txt",
+  "section_title": "Chromosomes",
+  "page_num_in_file": 14,
+  "slide_title": "Prokaryotic Chromosomes",
+  "original_text": "Prokaryotic Chromosomes\nProkaryotic chromosome much simpler\nSingle, circular chromosome attached to inside of cell membrane \nAlso compacted to fit within cell \nRegion known as the nucleoid\nBetween cell divisions: DNA less compacted as chromatin\nIn preparation for/during cell division: DNA highlycompacted to form chromosomes",
+  "explanation": "Prokaryotic chromosomes are structurally much simpler than eukaryotic ones. A prokaryote typically contains a single, circular chromosome that is attached to the inner surface of the cell membrane and compacted to fit within a region called the nucleoid. Between cell divisions, the DNA is less compacted and exists as chromatin. In preparation for and during cell division, the DNA condenses tightly into a highly compacted chromosome structure.",
+  "questions": [
+    {
+      "q": "Which of the following describes a prokaryotic chromosome?",
+      "opts": [
+        "Multiple linear chromosomes enclosed in a nuclear membrane",
+        "A single, circular chromosome attached to the inside of the cell membrane",
+        "A double helix wrapped around histone proteins inside a nucleolus",
+        "A rod-shaped chromosome lacking a nucleoid region"
+      ],
+      "a": 1,
+      "exp": "Prokaryotic chromosomes are simpler, consisting of a single, circular chromosome attached to the inside of the cell membrane."
+    }
+  ]
+}

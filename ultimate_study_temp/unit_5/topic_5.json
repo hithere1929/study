@@ -1,0 +1,27 @@
+{
+  "id": "u5_t5",
+  "title": "Speciation",
+  "cheat_card": [
+    "<b>Species Concepts & Clades</b>: The <i>Biological Species Concept</i> defines a species by reproductive isolation. The <i>Phylogenetic Species Concept</i> relies on DNA sequencing to identify <i>monophyletic</i> groups (a common ancestor and all descendants).",
+    "<b>Prezygotic Isolating Mechanisms</b>: Barriers that prevent fertilization, including <i>habitat isolation</i>, <i>temporal isolation</i> (e.g., frogs breeding in different weeks), <i>behavioral isolation</i> (courtship), <i>mechanical isolation</i> (genital mismatch), and <i>gamete isolation</i>.",
+    "<b>Postzygotic Isolating Mechanisms</b>: Prevent hybrid offspring from propagating, occurring via <i>hybrid inviability</i> (zygote dies) or <i>hybrid sterility</i> (hybrid develops but is sterile).",
+    "<b>Allopatric vs. Sympatric Speciation</b>: <i>Allopatric speciation</i> requires physical geographic barriers. <i>Sympatric speciation</i> occurs in the same location, often driven in plants by <i>polyploidy</i> (e.g., <i>autoploidy</i> via nondisjunction producing sterile 3n plants, or <i>alloploidy</i> via hybridization).",
+    "<b>Macroevolution Models</b>: The <i>gradualistic model</i> proposes slow, continuous evolutionary change. The <i>punctuated equilibrium model</i> proposes long periods of stasis (sameness) interrupted by sudden speciation events."
+  ],
+  "memory_anchor": "### Reproductive Isolating Mechanisms\n\n| Barrier Category | Specific Mechanism | Slide Description / Example |\n| :--- | :--- | :--- |\n| **Prezygotic** | Habitat Isolation | Species live in different niches (e.g. trees vs. ground) |\n| **Prezygotic** | Temporal Isolation | Different breeding seasons/times (e.g. Ithaca frogs) |\n| **Prezygotic** | Behavioral Isolation | Different courtship displays or mating songs |\n| **Prezygotic** | Mechanical Isolation | Incompatible reproductive organs |\n| **Prezygotic** | Gamete Isolation | Sperm and egg fail to fuse chemically |\n| **Postzygotic** | Hybrid Inviability | Hybrid zygote fails to survive or develop |\n| **Postzygotic** | Hybrid Sterility | Hybrid survives but cannot reproduce (e.g. mules) |",
+  "flashcards": [
+    {
+      "q": "Explain the difference between autoploidy and alloploidy as pathways to sympatric speciation in plants.",
+      "a": "Autoploidy occurs when a single diploid species produces diploid gametes due to nondisjunction during meiosis, which when fused with a haploid gamete forms a sterile triploid (3n) plant. Alloploidy involves hybridization between two different but related plant species followed by a doubling of chromosomes, resulting in a fertile polyploid."
+    },
+    {
+      "q": "How does the punctuated equilibrium model differ from the gradualistic model regarding the tempo of evolution?",
+      "a": "The gradualistic model proposes that evolution occurs slowly and continuously, making it difficult to define the exact moment of speciation. The punctuated equilibrium model states that species remain unchanged for long periods of stasis (equilibrium), which are punctuated by rapid speciation events."
+    },
+    {
+      "q": "What are analogous traits, and how do they arise in nature?",
+      "a": "Analogous traits are similar biological structures that evolve in unrelated species as a result of exposure to similar environmental select pressures (convergent evolution), such as bat wings versus bird wings, rather than shared ancestry."
+    }
+  ],
+  "outline_blanks": "Speciation can occur through [[allopatric speciation]] which requires geographic barriers, or through [[sympatric speciation]] which does not. Reproductive isolation is maintained by [[prezygotic]] barriers like temporal or behavioral isolation, or by [[postzygotic]] barriers like hybrid sterility. The timeline of macroevolution is debated between the gradualistic model and the [[punctuated equilibrium]] model, which features long periods of stasis."
+}

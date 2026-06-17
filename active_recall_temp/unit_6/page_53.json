@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 53,
+  "filename": "Unit_6_5.txt",
+  "section_title": "Plant Evolution & Diversity",
+  "page_num_in_file": 3,
+  "slide_title": "Plant Evolution & Ancestry\u00a8Multicellular, photosynthetic eukaryotes, marked by adaptation to land existence\u00a4Thought to have evolved from green algae; Charophytes closest by RNA analysis\u00a4Adaptation to land required ability to survive threat of drying out; but CO2more available\u00a4Able to store excess carbohydrates as starch\u00a4Cellulose cell walls",
+  "original_text": "Plant Evolution & Ancestry\u00a8Multicellular, photosynthetic eukaryotes, marked by adaptation to land existence\u00a4Thought to have evolved from green algae; Charophytes closest by RNA analysis\u00a4Adaptation to land required ability to survive threat of drying out; but CO2more available\u00a4Able to store excess carbohydrates as starch\u00a4Cellulose cell walls",
+  "explanation": "Plants are multicellular, photosynthetic eukaryotes that adapted to a terrestrial lifestyle. RNA analysis suggests that plants evolved from green algae, with Charophytes being their closest relative. Adapting to land required plants to overcome the threat of desiccation (drying out); however, a significant advantage of land was that carbon dioxide (CO2) was much more available in the air. Plants store excess carbohydrates as starch and have cell walls made of cellulose.",
+  "questions": [
+    {
+      "q": "Which group of green algae is closest to land plants according to RNA analysis?",
+      "opts": [
+        "Chlorophytes",
+        "Charophytes",
+        "Dinoflagellates",
+        "Red Algae"
+      ],
+      "a": 1,
+      "exp": "The notes state that 'Charophytes closest by RNA analysis' when tracing plant evolution from green algae."
+    },
+    {
+      "q": "What advantage did adapting to land offer to early plants?",
+      "opts": [
+        "Lower threat of drying out",
+        "CO2 was more available",
+        "Presence of peptidoglycan in the soil",
+        "Lack of solar radiation"
+      ],
+      "a": 1,
+      "exp": "The notes state that land adaptation featured 'CO2 more available'."
+    },
+    {
+      "q": "What substance makes up plant cell walls, and how do they store excess carbohydrates?",
+      "opts": [
+        "Chitin; stored as glycogen",
+        "Peptidoglycan; stored as starch",
+        "Cellulose; stored as starch",
+        "Silica; stored as glucose"
+      ],
+      "a": 2,
+      "exp": "According to the notes, plants have 'Cellulose cell walls' and are 'Able to store excess carbohydrates as starch'."
+    }
+  ]
+}

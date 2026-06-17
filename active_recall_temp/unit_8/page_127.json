@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 127,
+  "filename": "Unit_8_7.txt",
+  "section_title": "Conservation of Biodiversity",
+  "page_num_in_file": 17,
+  "slide_title": "Causes of Extinction¨Overexploitation¤The number of individuals taken from the population is so great that the population becomes severely reduced in numbers¤Positive feedback cyclenThe smaller the population, the more valuable its members, and the greater the incentive to capture the few remaining organisms¤The market forces driving overexploitation:nExotic Pets, Poaching, & Overfishing",
+  "original_text": "Causes of Extinction¨Overexploitation¤The number of individuals taken from the population is so great that the population becomes severely reduced in numbers¤Positive feedback cyclenThe smaller the population, the more valuable its members, and the greater the incentive to capture the few remaining organisms¤The market forces driving overexploitation:nExotic Pets, Poaching, & Overfishing",
+  "explanation": "Overexploitation occurs when humans harvest individuals from a population at such a high rate that the population becomes critically depleted. This process frequently sets off a destructive positive feedback loop: as the species becomes rarer, the market value of its individual members increases, which in turn escalates the financial incentive to capture or kill the few remaining organisms. The primary market forces that drive overexploitation are the exotic pet trade, poaching, and commercial overfishing.",
+  "questions": [
+    {
+      "q": "What positive feedback loop is associated with the overexploitation of species?",
+      "opts": [
+        "Smaller populations lead to higher rates of photosynthesis and recovery.",
+        "As population size decreases, the value of individual members increases, raising the incentive to capture remaining individuals.",
+        "Overfishing reduces the food supply, forcing fishermen to switch to aquaculture.",
+        "Increased poaching leads to landscape restoration to protect the animals."
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Positive feedback cycle: The smaller the population, the more valuable its members, and the greater the incentive to capture the few remaining organisms.'"
+    },
+    {
+      "q": "Which of the following are listed as the primary market forces driving overexploitation?",
+      "opts": [
+        "Colonization, Agriculture, and Accidental Transport",
+        "Exotic Pets, Poaching, and Overfishing",
+        "Ecotourism, Waste Recycling, and Water Provision",
+        "Acid Deposition, Eutrophication, and Ozone Depletion"
+      ],
+      "a": 1,
+      "exp": "The notes identify the market forces driving overexploitation as: 'Exotic Pets, Poaching, & Overfishing.'"
+    }
+  ]
+}

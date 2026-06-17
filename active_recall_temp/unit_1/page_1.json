@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 1,
+  "filename": "Unit_1_1.txt",
+  "section_title": "Lab Safety",
+  "page_num_in_file": 1,
+  "slide_title": "Lab Safety Mr. Queenan–Biology 9Unit 1",
+  "original_text": "Lab Safety Mr. Queenan–Biology 9Unit 1",
+  "explanation": "This is the title slide for Unit 1, which introduces the topic of Lab Safety for Mr. Queenan's Biology 9 course.",
+  "questions": [
+    {
+      "q": "What is the primary topic of the introductory slide for Mr. Queenan's Biology 9 Unit 1?",
+      "opts": [
+        "Cell Biology",
+        "Ecology and Ecosystems",
+        "Lab Safety",
+        "Genetics and Inheritance"
+      ],
+      "a": 2,
+      "exp": "The slide content explicitly states 'Lab Safety Mr. Queenan-Biology 9 Unit 1', establishing Lab Safety as the opening topic of the course."
+    }
+  ]
+}

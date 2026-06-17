@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 48,
+  "filename": "Unit_4_3.txt",
+  "section_title": "DNA Replication, Transcription, Translation",
+  "page_num_in_file": 28,
+  "slide_title": "Translation –Role of tRNA¨tRNAmolecules transfer amino acids to the ribozomes.¤tRNA-flat, single stranded folded structure resembling a clover¨There is at least one tRNAfor each of the 20 amino acids¤Amino acid binds at the 3’ end off the tRNAmolecule¤tRNAanticodon –region that is complementary to the 5’à3’ codon on the mRNA strand¨Fewer tRNAmolecules than codons (only 40)¤Francis Crick –Wobble Hypothesis¤First two positions of tRNAmolecule can recognize up to 4 codons. Differ only by 3rdposition. ¤Wobble allows for correct sequence to create proteinnOne reason genetic code is said to be degenerate¨Enzymes help with linking the tRNAto amino acids",
+  "original_text": "Translation –Role of tRNA¨tRNAmolecules transfer amino acids to the ribozomes.¤tRNA-flat, single stranded folded structure resembling a clover¨There is at least one tRNAfor each of the 20 amino acids¤Amino acid binds at the 3’ end off the tRNAmolecule¤tRNAanticodon –region that is complementary to the 5’à3’ codon on the mRNA strand¨Fewer tRNAmolecules than codons (only 40)¤Francis Crick –Wobble Hypothesis¤First two positions of tRNAmolecule can recognize up to 4 codons. Differ only by 3rdposition. ¤Wobble allows for correct sequence to create proteinnOne reason genetic code is said to be degenerate¨Enzymes help with linking the tRNAto amino acids",
+  "explanation": "During translation, transfer RNA (tRNA) molecules transport amino acids to the ribosomes. A tRNA molecule is a single-stranded RNA chain folded into a flat shape resembling a clover leaf. There is at least one specific tRNA for each of the 20 amino acids, and the amino acid binds to the 3' end of the tRNA. The opposite end of the tRNA contains an anticodon—a three-nucleotide sequence complementary to the 5' to 3' codon on mRNA. Interestingly, there are fewer tRNA molecules (only about 40) than codons. To explain this, Francis Crick proposed the Wobble Hypothesis, which suggests that the base-pairing rules are relaxed at the third position of the codon. This wobble allows the first two positions of the tRNA anticodon to pair with up to four different codons that differ only at their third base. This flexibility is a primary reason the genetic code is described as degenerate, and specific enzymes are required to link each tRNA to its corresponding amino acid.",
+  "questions": [
+    {
+      "q": "Where does an amino acid attach to a tRNA molecule?",
+      "opts": [
+        "At the 5' end",
+        "At the 3' end",
+        "At the loop containing the anticodon",
+        "In the middle of the clover structure"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states 'Amino acid binds at the 3’ end of the tRNA molecule.' The anticodon is at the opposite loop. Options A and D are incorrect."
+    },
+    {
+      "q": "What is the 'Wobble Hypothesis' proposed by Francis Crick?",
+      "opts": [
+        "It states that ribosomes move along mRNA in a shaky, unstable motion.",
+        "It explains how a tRNA molecule can recognize multiple codons because base-pairing rules are relaxed at the third position.",
+        "It describes how mutations shift the reading frame of codons.",
+        "It asserts that proteins fold randomly before reaching their target organelles."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide describes Crick's Wobble Hypothesis where the 'first two positions of tRNA molecule can recognize up to 4 codons' and they 'Differ only by 3rd position.' This allows fewer tRNA molecules to cover the various codons. Options A, C, and D are incorrect."
+    }
+  ]
+}

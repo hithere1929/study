@@ -1,0 +1,30 @@
+{
+  "id": "u8_t4",
+  "title": "Energy flow",
+  "cheat_card": [
+    "Energy flows in a <b>one-way direction</b> through ecosystems from <b>autotrophs (producers)</b> to <b>heterotrophs (consumers)</b>.",
+    "The <b>10% rule</b> states that only about 10% of energy is transferred to the next trophic level, while <b>90% is lost as heat</b>, following the Laws of Thermodynamics.",
+    "<b>Grazing food webs</b> start with living autotrophs; <b>detrital food webs</b> begin with decomposers and detritus.",
+    "<b>Biomass</b> is the number of organisms at each level multiplied by their weight.",
+    "Unlike energy, toxic pollutants undergo <b>biomagnification</b>, becoming increasingly concentrated at higher trophic levels."
+  ],
+  "memory_anchor": "Energy vs. Toxins:\n- Energy DECREASES up the pyramid (10% rule, 90% lost as heat).\n- Toxins INCREASE up the pyramid (Biomagnification in fat tissue).",
+  "flashcards": [
+    {
+      "q": "Why is energy flow through an ecosystem considered a one-way path, and what happens to the energy that is not transferred?",
+      "q_id": "u8_t4_f1",
+      "a": "Energy flow is one-way because energy enters as solar radiation, gets captured by producers, and is passed up trophic levels. Energy not transferred (roughly 90%) is lost to the environment as heat, satisfying the Laws of Thermodynamics."
+    },
+    {
+      "q": "Contrast the starting points of a grazing food web versus a detrital food web.",
+      "q_id": "u8_t4_f2",
+      "a": "A grazing food web begins with living autotrophs (photoautotrophs/producers), whereas a detrital food web begins with detritus (dead organic matter) and decomposers/detritivores."
+    },
+    {
+      "q": "How does biomagnification differ from the normal pattern of energy transfer in an ecological pyramid?",
+      "q_id": "u8_t4_f3",
+      "a": "While energy decreases by approximately 90% at each step up the ecological pyramid, persistent chemical pollutants are not broken down or excreted, resulting in their concentration increasing (biomagnification) at higher trophic levels."
+    }
+  ],
+  "outline_blanks": "Energy enters ecosystems through producers and moves up trophic levels, but only about [[10%]] of energy is transferred to the next level, with the rest lost as [[heat]]. In contrast to energy loss, toxic pollutants undergo [[biomagnification]], which causes them to become more concentrated in apex predators."
+}

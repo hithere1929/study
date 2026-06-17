@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 47,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 11,
+  "slide_title": "Practice Exercise",
+  "original_text": "Practice Exercise¨On a sheet of paper using C and H atoms only, draw the following:¤A 5 carbon structure¤A 3 carbon structure¤A 4 carbon structure with a single bonded –OH group",
+  "explanation": "This is a student practice exercise. It asks students to draw three carbon-based structures using carbon (C) and hydrogen (H) atoms only: a 5-carbon structure, a 3-carbon structure, and a 4-carbon structure that includes a single-bonded hydroxyl (-OH) group.",
+  "questions": [
+    {
+      "q": "Which functional group is requested to be drawn on the 4-carbon structure in this practice exercise?",
+      "opts": [
+        "Carboxyl group",
+        "Amino group",
+        "Hydroxyl group (-OH)",
+        "Phosphate group"
+      ],
+      "a": 2,
+      "exp": "The prompt asks to draw 'a 4 carbon structure with a single bonded –OH group', which is a hydroxyl group."
+    }
+  ]
+}

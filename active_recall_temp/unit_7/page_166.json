@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 166,
+  "filename": "Unit_7_9.txt",
+  "section_title": "Sense Organs",
+  "page_num_in_file": 6,
+  "slide_title": "Sense of Vision: Light Detection in Arthropods",
+  "original_text": "Sense of Vision How Animals Detect Light Photoreceptorsare sensory receptors that are sensitive to light Arthropods Contain compound eyes composed of many independent ommatidia Photoreceptors generate nerve impulses which pass to the brain by way of optic nerve fibers Insects have limited color vision, some able to see UV",
+  "explanation": "Vision depends on photoreceptors, which are sensory receptors sensitive to light. Arthropods (such as insects) possess compound eyes. A compound eye is composed of numerous independent visual units called ommatidia. Photoreceptors within each ommatidium generate nerve impulses in response to light, which travel to the brain via optic nerve fibers. Insects have limited color vision, but some can detect ultraviolet (UV) light.",
+  "questions": [
+    {
+      "q": "What are compound eyes in arthropods composed of?",
+      "opts": [
+        "A single lens and thousands of retinas",
+        "Many independent visual units called ommatidia",
+        "Chemoreceptors and taste pores",
+        "Cartilage rings and myelin sheaths"
+      ],
+      "a": 1,
+      "exp": "Arthropod compound eyes are made of many individual structural and functional units called ommatidia."
+    },
+    {
+      "q": "Which wavelength of light can some insects detect that is invisible to humans?",
+      "opts": [
+        "Infrared light",
+        "Ultraviolet (UV) light",
+        "Gamma rays",
+        "Radio waves"
+      ],
+      "a": 1,
+      "exp": "Many insects can perceive ultraviolet (UV) light, which lies outside the visible spectrum for humans."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "u3_t7",
+  "title": "Chromosomes",
+  "cheat_card": [
+    "DNA in human cells contains <b>~3 billion nucleotides</b>. To fit in the nucleus, DNA wraps around proteins called <b>histones</b> to maintain shape and aid in packaging.",
+    "Between cell divisions, DNA is less tightly packed as <b>chromatin</b> so it can undergo transcription. During division, it condenses into rod-shaped <b>chromosomes</b>.",
+    "Replicated chromosomes consist of two identical halves called <b>chromatids</b>, which are held together at the <b>centromere</b> until they separate during cell division.",
+    "Humans have <b>46 chromosomes</b>: 2 sex chromosomes (XX for females, XY for males) and <b>44 autosomes</b>. The two copies of each autosome are <b>homologous chromosomes</b> (same size, shape, and gene content).",
+    "<b>Diploid (2n) cells</b> contain two sets of chromosomes (46 in humans), while <b>haploid (1n) gametes</b> (sperm and egg cells) contain only one set of chromosomes (23 in humans)."
+  ],
+  "memory_anchor": "### DNA Compaction Hierarchy\n**Nucleotides** (~3 billion) → **Double Helix** → **Wrapped around Histones** → **Chromatin** (uncoiled between divisions) → **Chromosomes** (supercoiled during division, consisting of 2 **Chromatids** joined at the **Centromere**).",
+  "flashcards": [
+    {
+      "q": "What is the difference between chromatin and a chromosome, and when does each state exist in the cell cycle?",
+      "a": "Chromatin is the loose, uncoiled state of DNA wrapped around histones that exists between cell divisions, allowing DNA to be read for transcription and translation. A chromosome is the highly compacted, rod-shaped state of DNA that forms during cell division, ensuring the genome can be divided equally."
+    },
+    {
+      "q": "Define homologous chromosomes and explain how they are inherited in a sexually reproducing diploid organism.",
+      "a": "Homologous chromosomes (homologues) are pairs of autosomes that have the same size, shape, and carry the same genes for the same traits. In a diploid organism, one chromosome of each homologous pair is inherited from the maternal parent, and the other is inherited from the paternal parent."
+    },
+    {
+      "q": "What are karyotypes, which stage of cell division are they typically captured from, and why?",
+      "a": "A karyotype is a photomicrograph of chromosomes in a dividing cell. They are typically taken during metaphase because this is the stage of mitosis where chromosomes are most condensed and easily visible."
+    }
+  ],
+  "outline_blanks": "Human cells package 3 billion nucleotides of DNA by wrapping it around [[histones]] to form less-packed [[chromatin]] between divisions, which condenses into [[chromosomes]] during division. Diploid cells are abbreviated [[2n]] and contain 46 chromosomes, whereas haploid gametes are abbreviated [[1n]] and contain [[23]] chromosomes."
+}

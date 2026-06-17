@@ -1,0 +1,35 @@
+{
+  "prompt_heredity_a": {
+    "title": "Meiosis & Genetic Variation",
+    "prompt": "Describe the stages of meiosis I and meiosis II. Explain how independent assortment, crossing-over, and random fertilization contribute to genetic variation in offspring.",
+    "mnemonic": "C.I.R. (Crossing over during Prophase I, Independent assortment during Anaphase I, Random union of gametes during fertilization)",
+    "keywords": [
+      "homologous chromosomes",
+      "synapsis",
+      "tetrad",
+      "crossing-over",
+      "genetic recombination",
+      "independent assortment",
+      "haploid",
+      "fertilization"
+    ],
+    "model_answer": "Meiosis is a two-step nuclear division process that reduces chromosome number from diploid to haploid, producing four genetically unique haploid gametes. In Prophase I, homologous chromosomes pair lengthwise in a process called synapsis, forming a tetrad. Non-sister chromatids twist and exchange genetic material during crossing-over, resulting in genetic recombination. During Anaphase I, independent assortment occurs as homologous chromosomes separate randomly and migrate to opposite poles, creating new combinations of maternal and paternal chromosomes in the haploid cells. Following Meiosis II, which separates sister chromatids, genetic diversity is further expanded in sexual reproduction by random fertilization, the union of unique male and female gametes to form a diploid zygote."
+  },
+  "prompt_heredity_b": {
+    "title": "Extensions of Mendelian Genetics",
+    "prompt": "Explain how codominance, incomplete dominance, and pleiotropy extend the range of Mendelian genetics. Provide a specific human example for each mechanism and describe the underlying genetics.",
+    "mnemonic": "C.I.P. (Codominance = both alleles expressed, Incomplete dominance = intermediate phenotype, Pleiotropy = one gene affects multiple traits)",
+    "keywords": [
+      "codominance",
+      "incomplete dominance",
+      "pleiotropy",
+      "ABO blood types",
+      "antigen",
+      "intermediate",
+      "Familial Hypercholesterolemia",
+      "Marfan syndrome",
+      "fibrillin"
+    ],
+    "model_answer": "Inheritance patterns often extend beyond simple Mendelian dominant-recessive rules. In codominance, more than one allele is fully expressed in a heterozygote. A prime human example is ABO blood types, where the IA and IB alleles are codominant, leading to the expression of both the A and B antigen on red blood cells of IAIB individuals. In incomplete dominance, the heterozygote exhibits a phenotype that is intermediate between the two homozygotes. For example, in Familial Hypercholesterolemia, heterozygotes have an intermediate level of blood cholesterol and suffer early adulthood heart attacks, while mutant homozygotes have severe childhood heart attacks. Finally, pleiotropy occurs when a single mutated gene affects multiple, seemingly unrelated physical traits. This is demonstrated in Marfan syndrome, where a mutation in the fibrillin (FBN1) gene on chromosome 15 disrupts connective tissue, causing disproportionately long limbs, a weakened aorta, and poor eyesight."
+  }
+}

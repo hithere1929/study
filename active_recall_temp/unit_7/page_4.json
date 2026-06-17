@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 4,
+  "filename": "Unit_7_1.txt",
+  "section_title": "Plant Structure & Organization",
+  "page_num_in_file": 4,
+  "slide_title": "Organs of Flowering Plants: Roots & Stems",
+  "original_text": "Organs of Flowering Plants Roots Generally the root system is at least equivalent in size and extent to the shoot system Anchors plant in soil Absorbs water and minerals from the soil Produces hormones Root hairs: Projections from epidermal root-hair cells Greatly increase absorptive capacity of root Stems Shoot system of a plant is composed of the stem, branches, and leaves Stem is the main axis of a plant that elongates and produces leaves Nodes occur where leaves are attached to the stem Internode is region between nodes Axillary buds can produce new branches of the stem (or flowers) Stem also has vascular tissue that transports water and minerals",
+  "explanation": "This slide details the structure and function of roots and stems in flowering plants. The root system, which is usually equal to or larger than the shoot system in size, anchors the plant in the soil, absorbs water and minerals, and produces hormones. Root hairs, which are projections of root epidermal cells, significantly enhance the root's ability to absorb water and minerals. The shoot system includes the stem, branches, and leaves. The stem serves as the main elongating axis that produces leaves. Leaves attach to the stem at nodes, and the space between these nodes is called the internode. Axillary buds, located at the nodes, can grow into new branches or flowers. The stem contains vascular tissue to transport water, minerals, and other substances.",
+  "questions": [
+    {
+      "q": "What structures project from the epidermal cells of roots to increase their absorptive surface area?",
+      "opts": [
+        "Axillary buds",
+        "Trichomes",
+        "Root hairs",
+        "Vascular rays"
+      ],
+      "a": 2,
+      "exp": "Root hairs are cellular projections from epidermal root-hair cells that greatly increase the root's absorptive capacity."
+    },
+    {
+      "q": "What is the name of the stem region located between the points where leaves are attached?",
+      "opts": [
+        "Node",
+        "Internode",
+        "Axil",
+        "Petiole"
+      ],
+      "a": 1,
+      "exp": "Nodes are the points where leaves attach to the stem, and the internode is the region between those nodes."
+    },
+    {
+      "q": "Which of the following is NOT a main function of roots as described in the text?",
+      "opts": [
+        "Anchoring the plant in soil",
+        "Absorbing water and minerals",
+        "Producing plant hormones",
+        "Elongating the main axis to produce leaves"
+      ],
+      "a": 3,
+      "exp": "Elongating the main axis to produce leaves is a function of the stem, not the roots. The roots function to anchor the plant, absorb water/minerals, and produce hormones."
+    }
+  ]
+}

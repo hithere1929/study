@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 17,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 17,
+  "slide_title": "Section 2: Energy",
+  "original_text": "Section 2: Energy",
+  "explanation": "This slide marks the beginning of Section 2, which focuses on Energy.",
+  "questions": [
+    {
+      "q": "What is the focus of Section 2?",
+      "opts": [
+        "Composition of Matter",
+        "Energy",
+        "Water & Solutions",
+        "Macromolecules"
+      ],
+      "a": 1,
+      "exp": "The section title slide is explicitly named 'Section 2: Energy'."
+    }
+  ]
+}

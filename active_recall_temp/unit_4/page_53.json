@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 53,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 2,
+  "slide_title": "Gene Expression/Regulation Outline1.Prokaryotic Regulation2.Eukaryotic Regulation1.Chromatin2.Transcriptional Control3.Post-Transcriptional Control4.Translational Control5.Post-Translational Control3.MutationsAmoeba Sisters -Gene Regulation",
+  "original_text": "Gene Expression/Regulation Outline1.Prokaryotic Regulation2.Eukaryotic Regulation1.Chromatin2.Transcriptional Control3.Post-Transcriptional Control4.Translational Control5.Post-Translational Control3.MutationsAmoeba Sisters -Gene Regulation",
+  "explanation": "This page outlines the topics covered in Gene Expression and Regulation. It is structured into three main parts: 1) Prokaryotic Regulation; 2) Eukaryotic Regulation (which covers five levels of control: chromatin structure, transcriptional control, post-transcriptional control, translational control, and post-translational control); and 3) Mutations. It also references an Amoeba Sisters video on Gene Regulation.",
+  "questions": [
+    {
+      "q": "How many levels of eukaryotic regulation control are listed in the outline on this slide?",
+      "opts": [
+        "3 levels",
+        "5 levels",
+        "7 levels",
+        "10 levels"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide lists 5 sub-points under Eukaryotic Regulation: Chromatin, Transcriptional Control, Post-Transcriptional Control, Translational Control, and Post-Translational Control."
+    }
+  ]
+}

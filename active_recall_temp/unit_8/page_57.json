@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 57,
+  "filename": "Unit_8_4.txt",
+  "section_title": "Photosynthesis",
+  "page_num_in_file": 4,
+  "slide_title": "Photosynthetic Organisms¨Photosynthesis takes place in the green portions of plants¤Leaf of flowering plant contains mesophyll tissue¤Cells containing chloroplastsare specialized to carry out photosynthesis¨The raw materials for photosynthesis are carbon dioxide and water¤Roots absorb water that moves up vascular tissue¤Carbon dioxide enters a leaf through small openings called stomataand diffuses into chloroplasts in mesophyll cells¤In stroma, CO2is combined with H2O to form C6H12O6(sugar)¨Energy supplied by light¤Chlorophylland other pigments absorb solar energy and energize electrons prior to reduction of CO2to a carbohydrate",
+  "original_text": "Photosynthetic Organisms¨Photosynthesis takes place in the green portions of plants¤Leaf of flowering plant contains mesophyll tissue¤Cells containing chloroplastsare specialized to carry out photosynthesis¨The raw materials for photosynthesis are carbon dioxide and water¤Roots absorb water that moves up vascular tissue¤Carbon dioxide enters a leaf through small openings called stomataand diffuses into chloroplasts in mesophyll cells¤In stroma, CO2is combined with H2O to form C6H12O6(sugar)¨Energy supplied by light¤Chlorophylland other pigments absorb solar energy and energize electrons prior to reduction of CO2to a carbohydrate",
+  "explanation": "Photosynthesis occurs within the green portions of plants. In flowering plants, the leaves contain specialized mesophyll tissue composed of cells rich in chloroplasts, which are the organelles dedicated to photosynthesis. The raw materials required are carbon dioxide (CO2) and water (H2O). Plant roots absorb water, which travels up to the leaves via vascular tissue, while CO2 enters the leaf through microscopic openings called stomata. CO2 then diffuses into the chloroplasts of mesophyll cells. Within the fluid-filled stroma of the chloroplast, carbon dioxide is combined with water to form the sugar glucose (C6H12O6). Solar energy is absorbed by chlorophyll and other pigments, which energizes electrons, a step necessary for the chemical reduction of CO2 into a carbohydrate.",
+  "questions": [
+    {
+      "q": "Through what structures does carbon dioxide enter a plant leaf?",
+      "opts": [
+        "Mesophyll cells",
+        "Stomata",
+        "Vascular tissue",
+        "Thylakoid membranes"
+      ],
+      "a": 1,
+      "exp": "The notes state that 'Carbon dioxide enters a leaf through small openings called stomata.'"
+    },
+    {
+      "q": "Where in the chloroplast is carbon dioxide combined with water to form glucose (sugar)?",
+      "opts": [
+        "Thylakoid space",
+        "Stroma",
+        "Stomata",
+        "Reaction center"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'In stroma, CO2 is combined with H2O to form C6H12O6 (sugar).'"
+    }
+  ]
+}

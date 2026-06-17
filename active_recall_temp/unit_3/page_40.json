@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 40,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 25,
+  "slide_title": "Mitochondria",
+  "original_text": "Mitochondria\nOrganelles that transfer energyfrom organic molecules to ATP;has its own DNA\nATP ultimately provides energy for majority of chemical reactions of the cell\nThe number of mitochondria per cell depends on its level of activity\nMusclecells: highly active \nhundredsof mitochondria; fat storagecells: low activity \nfewmitochondria\nHas inner and outer phospholipid membranes\nOuter membrane separates mitochondrion from cytosol\nInner membrane has many folds known as cristae, which contain proteins that perform energy-harvesting chemical reactions",
+  "explanation": "Mitochondria are double-membraned organelles responsible for transferring chemical energy from organic molecules to adenosine triphosphate (ATP), and they contain their own DNA. ATP serves as the primary energy currency for most cellular chemical reactions. The number of mitochondria inside a cell varies directly with its metabolic activity level; highly active muscle cells contain hundreds of mitochondria, whereas low-activity fat storage cells contain very few. The mitochondrion consists of an outer phospholipid membrane that separates it from the cytosol, and a highly folded inner membrane. These folds are called cristae, and they contain the embedded proteins that carry out energy-harvesting reactions.",
+  "questions": [
+    {
+      "q": "What is the name of the folds in the inner mitochondrial membrane that contain proteins for energy-harvesting chemical reactions?",
+      "opts": [
+        "Cisternae",
+        "Cristae",
+        "Thylakoids",
+        "Matrix"
+      ],
+      "a": 1,
+      "exp": "The inner membrane of the mitochondrion has many folds known as cristae."
+    },
+    {
+      "q": "Why do muscle cells contain hundreds of mitochondria while fat storage cells contain very few?",
+      "opts": [
+        "Muscle cells store fat, which requires mitochondria to synthesize.",
+        "Muscle cells are highly active and require more ATP, whereas fat cells have low activity.",
+        "Fat cells lack a cell membrane to house mitochondria.",
+        "Muscle cells lack nuclei, so they use mitochondria for control."
+      ],
+      "a": 1,
+      "exp": "The number of mitochondria depends on cellular activity: highly active muscle cells need hundreds of mitochondria for energy, whereas fat storage cells have low activity and thus few."
+    }
+  ]
+}

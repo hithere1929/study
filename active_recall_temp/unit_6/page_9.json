@@ -1,0 +1,44 @@
+{
+  "unit": 6,
+  "page": 9,
+  "filename": "Unit_6_1.txt",
+  "section_title": "Viruses",
+  "page_num_in_file": 9,
+  "slide_title": "Virus Reproduction\u00a8Animal Viruses enter host cell\u00a8Uncoating releases viral DNA or RNA\u00a4If \u201cnaked virus\u201d, release is usually lytic bursting of host cell\u00a4If enveloped, \u201cbudding\u201d will occurnViral particles reach cell membrane, bud forms out of the cell, and virus becomes enveloped in cell membrane coated in protein and carbohydrates. \u00a8Retroviruses \u2013RNA Viruses\u00a4Contain a special enzyme -Reverse Transcriptase\u00a4Carries out RNA \u00e0cDNA reverse transcription\u00a4cDNA becomes integrated into host DNAnReplicated as host DNA replicates\u00a4Viral DNA is transcribed; new viruses are producednHIV, Human T Lymphotropic Virus 1",
+  "explanation": "When animal viruses infect a cell, they undergo an uncoating process that releases their viral DNA or RNA. The method of viral release depends on the presence of an envelope. Naked viruses (lacking an envelope) typically release new particles by bursting (lysing) the host cell. Enveloped viruses exit via budding: the viral particles migrate to the host cell membrane, form a bud, and exit, wrapping themselves in a portion of the host cell's membrane that has been modified with viral proteins and carbohydrates. Retroviruses are RNA viruses that possess the enzyme reverse transcriptase, which transcribes viral RNA into complementary DNA (cDNA). This cDNA integrates into the host cell's genome and replicates alongside it. The viral DNA is later transcribed to produce new viral particles. HIV and Human T Lymphotropic Virus 1 are examples of retroviruses.",
+  "questions": [
+    {
+      "q": "How are enveloped animal viruses typically released from host cells?",
+      "opts": [
+        "By lytic bursting that immediately destroys the cell",
+        "Through a process called budding, where they exit wrapped in the host cell membrane",
+        "By active transport through protein channels",
+        "By transforming into naked viruses"
+      ],
+      "a": 1,
+      "exp": "The notes state that if the virus is enveloped, budding occurs, where viral particles reach the cell membrane and exit, becoming enveloped in cell membrane."
+    },
+    {
+      "q": "What is the function of the enzyme Reverse Transcriptase in retroviruses?",
+      "opts": [
+        "It replicates host cell DNA directly",
+        "It converts host cell proteins into viral capsid proteins",
+        "It synthesizes cDNA from a viral RNA template",
+        "It breaks down the host cell membrane to allow budding"
+      ],
+      "a": 2,
+      "exp": "Reverse transcriptase carries out RNA to cDNA reverse transcription, allowing the retroviral genome to integrate into the host DNA."
+    },
+    {
+      "q": "Which of the following is an example of a retrovirus mentioned in the text?",
+      "opts": [
+        "Bacteriophage",
+        "Ebola virus",
+        "Human T Lymphotropic Virus 1",
+        "Varicellovirus Zoster"
+      ],
+      "a": 2,
+      "exp": "The notes list HIV and Human T Lymphotropic Virus 1 as examples of retroviruses."
+    }
+  ]
+}

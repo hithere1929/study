@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 83,
+  "filename": "Unit_2_3.txt",
+  "section_title": "Movement of Molecules",
+  "page_num_in_file": 9,
+  "slide_title": "Concentration Gradient",
+  "original_text": "Concentration Gradient¨Most molecules follow a concentration gradient¤Move from areas of higher concentration to lower until equilibrium is reached¤Ex. Oxygen and Carbon Dioxide in the cell. \nnOxygen is always flowing:\nnInto the cell because oxygen is being used\nnCarbon dioxide is always flowing:\nnOut of the cell because it is building up as a waste product of reactions",
+  "explanation": "Most molecules move down a concentration gradient, moving from an area of higher concentration to an area of lower concentration until an equilibrium is established. A key cellular example is the movement of gases: oxygen is constantly consumed by metabolic reactions inside the cell, creating a low internal concentration that drives oxygen to flow into the cell; conversely, carbon dioxide builds up inside the cell as a waste product of chemical reactions, creating a high internal concentration that drives carbon dioxide to flow out of the cell.",
+  "questions": [
+    {
+      "q": "How does a concentration gradient determine the direction of molecular movement?",
+      "opts": [
+        "Molecules move from lower to higher concentration.",
+        "Molecules move randomly without any direction.",
+        "Molecules move from areas of higher concentration to areas of lower concentration.",
+        "Molecules are forced to stay in equilibrium and cannot move."
+      ],
+      "a": 2,
+      "exp": "A concentration gradient drives the passive net movement of molecules from areas of high concentration to areas of low concentration."
+    },
+    {
+      "q": "Why does oxygen constantly flow into a cell down its concentration gradient?",
+      "opts": [
+        "The cell actively pumps oxygen out.",
+        "Oxygen is constantly being used up inside the cell, keeping its internal concentration low.",
+        "Oxygen is chemically attracted to the polar heads of phospholipids.",
+        "The outside of the cell has no oxygen."
+      ],
+      "a": 1,
+      "exp": "Oxygen flows into the cell because it is continuously consumed by cellular processes, keeping the concentration lower inside than outside."
+    }
+  ]
+}

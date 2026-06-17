@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 12,
+  "filename": "Unit_8_1.txt",
+  "section_title": "Behavioral Ecology",
+  "page_num_in_file": 12,
+  "slide_title": "Behaviors that Increase Fitness¨Territoriality and Fitness¤Territorialityis protecting an area against other individualsnMale gibbons maintain their territory by singing and fight to defend their territorynDefending a territory costs energynBenefits of territoriality include a source of food, the right to one or more females, a place to rear young, and a place providing protection from predators¤Territoriality is more likely to occur during times of reproduction¤Foraging for FoodnAnimals must acquire a food source that will provide more energy than the effort of acquiring the foodnThe optimal foraging model states that it is adaptive for foraging behavior to be as energetically efficient as possible",
+  "original_text": "Behaviors that Increase Fitness¨Territoriality and Fitness¤Territorialityis protecting an area against other individualsnMale gibbons maintain their territory by singing and fight to defend their territorynDefending a territory costs energynBenefits of territoriality include a source of food, the right to one or more females, a place to rear young, and a place providing protection from predators¤Territoriality is more likely to occur during times of reproduction¤Foraging for FoodnAnimals must acquire a food source that will provide more energy than the effort of acquiring the foodnThe optimal foraging model states that it is adaptive for foraging behavior to be as energetically efficient as possible",
+  "explanation": "This page explores two fitness-increasing behaviors: territoriality and foraging. Territoriality is the act of protecting a physical area against other individuals. For example, male gibbons maintain and defend their territory by singing and fighting. While defending territory costs energy, the benefits include securing a food source, obtaining the right to mate with one or more females, having a safe location to rear young, and finding protection from predators. Territoriality is particularly likely to occur during reproductive periods. Foraging for food is also subject to selection: animals must acquire food that provides more energy than the energy expended to obtain it. The optimal foraging model posits that it is adaptive for foraging behaviors to be as energetically efficient as possible.",
+  "questions": [
+    {
+      "q": "What is territoriality and when is it most likely to occur?",
+      "opts": [
+        "Defending an area against others; most common during times of reproduction",
+        "Sharing resources cooperatively; most common during winters",
+        "Searching for new environments; most common during food shortages",
+        "Abandoning nesting sites; most common after offspring hatch"
+      ],
+      "a": 0,
+      "exp": "The notes define territoriality as 'protecting an area against other individuals' and state it is 'more likely to occur during times of reproduction.'"
+    },
+    {
+      "q": "According to the optimal foraging model, what makes foraging behavior adaptive?",
+      "opts": [
+        "Spending the maximum amount of energy to find the rarest food type",
+        "Being as energetically efficient as possible, acquiring more energy than is spent",
+        "Foraging only in groups to ensure equal resource distribution",
+        "Focusing exclusively on plant matter to minimize hunting danger"
+      ],
+      "a": 1,
+      "exp": "The notes state that the optimal foraging model asserts 'it is adaptive for foraging behavior to be as energetically efficient as possible' and that animals 'must acquire a food source that will provide more energy than the effort of acquiring the food.'"
+    }
+  ]
+}

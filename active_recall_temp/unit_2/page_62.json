@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 62,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 26,
+  "slide_title": "3: Fatty Acids",
+  "original_text": "3: Fatty Acids¨Fatty acids: unbranched carbon chains with a carboxyl group that make up most lipids¤Carboxyl end of molecule is polar(hydrophilic) and attracted to water molecules¤Hydrocarbon end of molecule is nonpolar(hydrophobic) and repels water molecules¨When carbon is bonded to 4atoms, it is “saturated”¨When carbon forms double bonds within the chain, it is bonded to less than 4 atoms, and is “unsaturated”",
+  "explanation": "Fatty acids are long, unbranched carbon chains terminated by a carboxyl group, and they serve as the building blocks for most lipids. Fatty acids are amphipathic: the carboxyl end is polar and hydrophilic (attracted to water), while the long hydrocarbon chain end is nonpolar and hydrophobic (repelling water). A fatty acid is classified as saturated when every carbon atom in the chain is bonded to four other atoms (containing only single bonds). It is classified as unsaturated when double bonds form between carbon atoms in the chain, meaning those carbons are bonded to fewer than four atoms.",
+  "questions": [
+    {
+      "q": "Which part of a fatty acid molecule is polar and hydrophilic?",
+      "opts": [
+        "The hydrocarbon chain end",
+        "The carboxyl group end",
+        "The glycerol backbone",
+        "The nitrogenous base"
+      ],
+      "a": 1,
+      "exp": "The carboxyl group end of a fatty acid is polar and attracted to water (hydrophilic), whereas the hydrocarbon chain is nonpolar and hydrophobic."
+    },
+    {
+      "q": "What is the difference between a saturated and an unsaturated fatty acid?",
+      "opts": [
+        "Saturated fatty acids contain double bonds, while unsaturated fatty acids contain only single bonds.",
+        "Saturated fatty acids have carbons bonded to the maximum of 4 atoms, while unsaturated fatty acids contain carbon-carbon double bonds.",
+        "Saturated fatty acids dissolve in water, while unsaturated fatty acids do not.",
+        "Unsaturated fatty acids have a carboxyl group, while saturated fatty acids do not."
+      ],
+      "a": 1,
+      "exp": "Saturated fatty acids have no double bonds, so each carbon is bonded to 4 atoms (saturated with hydrogen). Unsaturated fatty acids contain one or more carbon-carbon double bonds, meaning some carbons bond to fewer than 4 atoms."
+    }
+  ]
+}

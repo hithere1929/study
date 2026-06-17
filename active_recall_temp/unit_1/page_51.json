@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 51,
+  "filename": "Unit_1_4.txt",
+  "section_title": "Microscopy",
+  "page_num_in_file": 1,
+  "slide_title": "Intro to MicroscopyMr. Queenan\u2013Biology 9Unit 1",
+  "original_text": "Intro to MicroscopyMr. Queenan\u2013Biology 9Unit 1",
+  "explanation": "This slide is the title page for the 'Intro to Microscopy' section of Unit 1 in Mr. Queenan's Biology 9 course.",
+  "questions": [
+    {
+      "q": "What is the topic of the new section introduced on Page 51?",
+      "opts": [
+        "The Cell Cycle",
+        "Organic Chemistry",
+        "Intro to Microscopy",
+        "Genetics and Heredity"
+      ],
+      "a": 2,
+      "exp": "The slide title reads: 'Intro to Microscopy Mr. Queenan\u2013Biology 9 Unit 1'."
+    }
+  ]
+}

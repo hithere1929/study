@@ -1,0 +1,27 @@
+{
+  "id": "u1_t4",
+  "title": "Microscope Mechanics",
+  "cheat_card": [
+    "A <b>compound light microscope</b> utilizes multiple lenses to multiply magnification: the <b>condenser</b> lens concentrates light onto the specimen, the <b>objective</b> lens collects light from the specimen, and the <b>ocular</b> lens magnifies it for the detector.",
+    "The focal length of a microscope lens is <b>fixed</b>; focusing requires changing the <b>physical distance</b> between the lens and the object, while changing magnification requires switching to a lens with a <b>different focal length</b>.",
+    "<b>Resolution</b> is the ability to distinguish two adjacent points. The human eye's limit is <b>0.2 mm (200 µm)</b>, whereas a light microscope's resolution is limited to <b>0.2 µm</b> by the wavelength of visible light.",
+    "<b>Electron microscopes</b> use a focused beam of electrons with a much shorter wavelength than light, providing higher resolution. <b>Scanning Electron Microscopes (SEM)</b> show 3D surface details, whereas <b>Transmission Electron Microscopes (TEM)</b> view internal structures.",
+    "Magnification is calculated as <b>image size divided by object size</b>. Because resizing an image invalidates this written value, quality micrographs must include a <b>scale bar</b>, which remains accurate during resizing."
+  ],
+  "memory_anchor": "### Microscopy Tool Comparison:\n| Feature | Light Microscope (LM) | Scanning Electron (SEM) | Transmission Electron (TEM) |\n|---|---|---|---|\n| **Radiation Source** | Visible white light (LED/Tungsten) | Focused electron beam | Focused electron beam |\n| **Max Resolution Limit** | **0.2 µm** | **~1-10 nm** (much higher) | **<1 nm** (highest) |\n| **Image Focus Area** | Internal/External (light must pass) | Surface only (electrons scan surface) | Internal details (electrons pass through) |\n| **Color Capability** | Full color spectrum | Black and white only | Black and white only |\n| **Sample Prep Thickness** | Thin section (~1 µm) or small cell | Surface coating, thickness variable | Extremely thin slices |",
+  "flashcards": [
+    {
+      "q": "If a student is using a microscope with a 10x ocular lens and switches from a 10x objective to a 40x objective, explain what happens to the total magnification and how the physical focus must be adjusted if focal length is fixed.",
+      "a": "The total magnification increases from 100x (10x × 10x) to 400x (10x × 40x). Because the focal length of a lens is fixed, the student must adjust the physical distance between the objective lens and the slide to bring the image back into focus."
+    },
+    {
+      "q": "Calculate the magnification of a microscope image if the actual diameter of a cell is 8 µm and its diameter in the printed micrograph is 16 mm.",
+      "a": "First, convert both measurements to the same unit. 16 mm is equal to 16,000 µm. Magnification = image size / object size = 16,000 µm / 8 µm = 2,000X."
+    },
+    {
+      "q": "Why are scanning electron microscope (SEM) images strictly black and white, and why can they not be used to study the internal organelles of a eukaryotic cell?",
+      "a": "SEM images are black and white because they use an electron beam, and the wavelength of electrons lies outside the visible light spectrum that defines color. They cannot show internal organelles because SEM scans only the surface of the specimen; electrons do not pass through it (TEM must be used to view internal structures)."
+    }
+  ],
+  "outline_blanks": "To focus an image under a compound microscope, the distance from the lens to the object is changed because the focal length is [[fixed]]. The limit of resolution for a light microscope is [[0.2 µm]] due to the wavelength of visible light, whereas electron microscopes achieve far greater resolution. To visualize the three-dimensional surface of a specimen, a scientist would use [[SEM]], while a [[TEM]] would be required to view internal structures."
+}

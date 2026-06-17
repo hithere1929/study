@@ -1,0 +1,23 @@
+{
+  "unit": 8,
+  "page": 68,
+  "filename": "Unit_8_4.txt",
+  "section_title": "Photosynthesis",
+  "page_num_in_file": 15,
+  "slide_title": "Plants as Carbon Dioxide Fixers",
+  "original_text": "Plants as Carbon Dioxide Fixers\n¨From figure:¨CC reactions multiplied by 3¤For every 3 turns of the Calvin Cycle, 5 molecules of G3P used to reform 3 molecules of RuBP , allowing the cycle to continue¤5x3C in G3P = 3X5C in RuBP",
+  "explanation": "To maintain a continuous cycle, the Calvin cycle must regenerate RuBP. In terms of stoichiometry, for every 3 turns of the cycle (which fixes 3 molecules of CO2), 5 molecules of the 3-carbon compound G3P (glyceraldehyde-3-phosphate) are used to reform 3 molecules of the 5-carbon compound RuBP (ribulose-1,5-bisphosphate). This chemical rearrangement balances mathematically: 5 molecules of 3-carbon G3P (15 total carbons) are converted back into 3 molecules of 5-carbon RuBP (15 total carbons).",
+  "questions": [
+    {
+      "q": "How many molecules of G3P are required to regenerate 3 molecules of RuBP in the Calvin cycle?",
+      "opts": [
+        "3 molecules",
+        "5 molecules",
+        "6 molecules",
+        "10 molecules"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'For every 3 turns of the Calvin Cycle, 5 molecules of G3P used to reform 3 molecules of RuBP, allowing the cycle to continue' (5x3C in G3P = 3X5C in RuBP)."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 61,
+  "filename": "Unit_1_4.txt",
+  "section_title": "Microscopy",
+  "page_num_in_file": 11,
+  "slide_title": "Size and Scale",
+  "original_text": "Size and Scale\nPico              <            Nano          <            Micro           <          Milli<        Meter10-10-10-12                         10-9-10-7                              10-6-10-4                                 10-3                             >1\nMaking note of these units and how many decimal places are changed when converting units is important to understand, and will be something you see throughout your science education and careers.",
+  "explanation": "This slide presents a scale of metric prefixes used in science, ordered from smallest to largest: Pico (10^-12), Nano (10^-9 to 10^-7), Micro (10^-6 to 10^-4), Milli (10^-3), and Meter (>1). It emphasizes that understanding these units and the decimal place changes during conversion is important for science education and careers.",
+  "questions": [
+    {
+      "q": "Which of the following shows the correct order of metric scale prefixes from smallest to largest?",
+      "opts": [
+        "Milli < Micro < Nano < Pico",
+        "Pico < Nano < Micro < Milli",
+        "Micro < Nano < Pico < Milli",
+        "Nano < Pico < Milli < Micro"
+      ],
+      "a": 1,
+      "exp": "The slide shows: 'Pico < Nano < Micro < Milli < Meter' with their respective exponential powers."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 32,
+  "filename": "Unit_4_3.txt",
+  "section_title": "DNA Replication, Transcription, Translation",
+  "page_num_in_file": 4,
+  "slide_title": "DNA Replication¨Process by which DNA is copied in a dividing cell¤Mitosis, meiosis or binary fission¨The 2 nucleotide strands of the helix separate (melt)¨Complementary strands: each serves as a template for a new daughter strand1.Helicasesseparate/unwind the DNA strands1.Break the H-bonds between bases2.Y-shaped region results: replication fork2.DNA polymerases bind to DNA molecule, add complementary nucleotides, catalyze formation of covalent bond between nucleotides1.H-bonds spontaneously form between complementary bases between new and old strand3.DNA polymerases complete replication; fall off¨Result: 2 separate, identical DNA molecules ready for cell division",
+  "original_text": "DNA Replication¨Process by which DNA is copied in a dividing cell¤Mitosis, meiosis or binary fission¨The 2 nucleotide strands of the helix separate (melt)¨Complementary strands: each serves as a template for a new daughter strand1.Helicasesseparate/unwind the DNA strands1.Break the H-bonds between bases2.Y-shaped region results: replication fork2.DNA polymerases bind to DNA molecule, add complementary nucleotides, catalyze formation of covalent bond between nucleotides1.H-bonds spontaneously form between complementary bases between new and old strand3.DNA polymerases complete replication; fall off¨Result: 2 separate, identical DNA molecules ready for cell division",
+  "explanation": "DNA replication is the process by which a cell copies its DNA prior to division (whether through mitosis, meiosis, or prokaryotic binary fission). The process begins when the two complementary strands of the double helix separate (sometimes called 'melting'). Because they are complementary, each original strand serves as a template for synthesizing a new daughter strand. The replication process proceeds in three main steps: First, enzymes called helicases separate and unwind the DNA strands by breaking the hydrogen bonds holding the base pairs together. This unwinding forms a Y-shaped region called the replication fork. Second, enzymes called DNA polymerases bind to the separated DNA strands, add complementary nucleotides, and catalyze the formation of covalent bonds between the newly added nucleotides. Meanwhile, hydrogen bonds spontaneously form between the complementary bases of the new and template strands. Third, once the replication is complete, the DNA polymerases release and fall off the DNA molecule. The final result is two separate, identical DNA molecules, each ready for cell division.",
+  "questions": [
+    {
+      "q": "Which enzyme is responsible for separating and unwinding the DNA strands by breaking hydrogen bonds during replication?",
+      "opts": [
+        "DNA polymerase",
+        "Helicase",
+        "DNA ligase",
+        "RNA polymerase"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'Helicases separate/unwind the DNA strands' and 'Break the H-bonds between bases.' DNA polymerase (Option A) adds complementary nucleotides. DNA ligase (Option C) joins Okazaki fragments. RNA polymerase (Option D) is involved in transcription, not DNA replication."
+    },
+    {
+      "q": "What is the Y-shaped region that results from the unwinding of the DNA double helix during replication?",
+      "opts": [
+        "Origin of replication",
+        "Replication fork",
+        "Nucleosome",
+        "Template strand"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide defines the Y-shaped region as the 'replication fork.' Origin of replication is the starting site, and nucleosome is DNA packaging. Template strand is the original DNA strand."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 167,
+  "filename": "Unit_7_9.txt",
+  "section_title": "Sense Organs",
+  "page_num_in_file": 7,
+  "slide_title": "Sense of Vision: Anatomy of the Human Eye",
+  "original_text": "Sense of Vision The Human Eye Three Layers Sclera-Opaque outer layer Fibrous layer covering most of the eye In front of the eye, the sclera becomes the transparent cornea Conjunctiva covers surface of the sclera and keeps the eyes moist Choroid-Thin middle layer Contains blood vessels In front of the eye, the choroid thickens to form the ciliary body and the iris The iris regulates the size of the pupil The lenshelps form images Retina-Inner layer Contains photoreceptors called rod cells and cone cells Contains the fovea centralis Region of densely packed cone cells where light is focused Site where optic nerve connects to the eye creates a blind spot, as no receptors are present",
+  "explanation": "The human eye consists of three concentric layers: 1) Sclera: the opaque, white outer fibrous layer protecting the eye. At the front, it becomes the transparent cornea, which refracts light. The conjunctiva covers the sclera and keeps the eye moist. 2) Choroid: the thin, vascular middle layer. At the front, it thickens into the ciliary body (controlling lens shape) and the colored iris. The iris regulates pupil size to control light entry, and the lens focuses light to form images. 3) Retina: the innermost layer containing rod cells (low-light vision) and cone cells (color and detail). The fovea centralis is a specialized, cone-dense retinal region where light is focused for maximum sharpness. The site where the optic nerve exits the retina lacks photoreceptors, creating a blind spot.",
+  "questions": [
+    {
+      "q": "What transparent structure does the sclera become at the front of the eye?",
+      "opts": [
+        "Pupil",
+        "Lens",
+        "Cornea",
+        "Fovea centralis"
+      ],
+      "a": 2,
+      "exp": "The outer white sclera transitions into the transparent, light-refracting cornea at the front of the eye."
+    },
+    {
+      "q": "What is the function of the iris?",
+      "opts": [
+        "It contains rods and cones to detect light.",
+        "It regulates the size of the pupil to control light entry.",
+        "It changes the shape of the lens during accommodation.",
+        "It moistens the outer surface of the cornea."
+      ],
+      "a": 1,
+      "exp": "The iris is a muscular ring that controls the diameter of the pupil, regulating how much light enters the eye."
+    },
+    {
+      "q": "Why is there a blind spot in the human eye?",
+      "opts": [
+        "Because the cornea is opaque in that region",
+        "Because the optic nerve connects to the retina at this point, leaving no space for photoreceptors",
+        "Because the fovea centralis contains only blue cones",
+        "Because the lens cannot focus light on the ciliary body"
+      ],
+      "a": 1,
+      "exp": "The blind spot occurs where ganglion cell axons bundle to form the optic nerve and exit the eye, meaning no rods or cones are present in that specific area."
+    }
+  ]
+}

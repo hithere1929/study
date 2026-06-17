@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 2,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 2,
+  "slide_title": "Section 1: Composition of Matter",
+  "original_text": "Section 1: Composition of Matter",
+  "explanation": "This slide serves as the transition page introducing Section 1, which focuses on the Composition of Matter.",
+  "questions": [
+    {
+      "q": "What is the primary topic of Section 1 as introduced on this page?",
+      "opts": [
+        "Cell Structure",
+        "Composition of Matter",
+        "Energy and Metabolism",
+        "Genetics"
+      ],
+      "a": 1,
+      "exp": "The title of the slide is 'Section 1: Composition of Matter', which specifies the topic of this section."
+    }
+  ]
+}

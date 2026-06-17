@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 173,
+  "filename": "Unit_7_9.txt",
+  "section_title": "Sense Organs",
+  "page_num_in_file": 13,
+  "slide_title": "Senses of Hearing and Balance: Mechanism of Hearing",
+  "original_text": "Senses of Hearing and Balance The Auditory Canal and Middle Ear Sound waves enter the auditory canal Sound waves strike the tympanic membrane, causing it to vibrate Malleus takes pressure from inner surface of tympanic membrane Passes it via the incus to the stapes, multiplying the pressure along the way Stapes strikes the membrane of oval window, passing pressure to fluid within the cochlea Inner Ear Spiral organ (organ of Corti) contains hair cells that synapse with nerve fibers of the cochlear nerve Mechanoreceptors for sound are the hair cells of the cochlear canal Sound causes the basilar membrane to vibrate The stereocilia of the hair cells bend Nerve impulses begin in the cochlear nerve and travel to the brain stem, then to the auditory center of the cerebral cortex",
+  "explanation": "Sound waves enter the auditory canal and vibrate the tympanic membrane. The malleus, incus, and stapes transmit and amplify this pressure, with the stapes striking the oval window. This creates pressure waves in the cochlear fluid, causing the basilar membrane of the spiral organ (organ of Corti) to vibrate. This vibration bends the stereocilia of sensory hair cells (the mechanoreceptors for sound). Bending of the stereocilia generates nerve impulses that travel along the cochlear nerve to the brain stem, and then to the auditory cortex.",
+  "questions": [
+    {
+      "q": "How is sound amplified within the middle ear?",
+      "opts": [
+        "The auditory canal contracts to focus air.",
+        "The three ossicles (malleus, incus, stapes) multiply pressure as they transmit vibrations to the oval window.",
+        "The Eustachian tube active-transports sound waves.",
+        "The hair cells release norepinephrine into the middle ear."
+      ],
+      "a": 1,
+      "exp": "The physical arrangement and leverage of the middle ear ossicles amplify sound pressure waves before they reach the inner ear."
+    },
+    {
+      "q": "What is the sensory organ containing the mechanoreceptors (hair cells) for hearing?",
+      "opts": [
+        "The lateral line system",
+        "The spiral organ (organ of Corti) in the cochlea",
+        "The vestibule ampulla",
+        "The tympanum membrane"
+      ],
+      "a": 1,
+      "exp": "The spiral organ (organ of Corti) within the cochlea houses the sensory hair cells that convert fluid vibrations into nerve impulses."
+    },
+    {
+      "q": "What cellular event directly initiates nerve impulses in the cochlear nerve?",
+      "opts": [
+        "The breakdown of glycogen in the middle ear",
+        "The bending of the hair cells' stereocilia as the basilar membrane vibrates",
+        "The fusion of rod cells with the choroid",
+        "The flow of lymph into the shoulder region"
+      ],
+      "a": 1,
+      "exp": "Bending of the stereocilia on hair cells opens ion channels, depolarizing the cell and initiating nerve impulses along the cochlear nerve."
+    }
+  ]
+}

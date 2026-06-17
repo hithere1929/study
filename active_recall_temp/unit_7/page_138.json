@@ -1,0 +1,23 @@
+{
+  "unit": 7,
+  "page": 138,
+  "filename": "Unit_7_7.txt",
+  "section_title": "Respiratory System",
+  "page_num_in_file": 21,
+  "slide_title": "Respiration and Human Health",
+  "original_text": "Respiration and Human Health",
+  "explanation": "This slide serves as a transition section divider for Respiration and Human Health.",
+  "questions": [
+    {
+      "q": "What is the topic of this slide?",
+      "opts": [
+        "Respiration and Human Health",
+        "Gas Exchange Surfaces",
+        "Breathing and Transport of Gases",
+        "Evolution of the Nervous System"
+      ],
+      "a": 0,
+      "exp": "The slide is a section divider for Respiration and Human Health."
+    }
+  ]
+}

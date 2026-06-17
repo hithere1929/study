@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 86,
+  "filename": "Unit_7_5.txt",
+  "section_title": "Animal Organization",
+  "page_num_in_file": 13,
+  "slide_title": "Organs, Organ Systems, & Body Cavities",
+  "original_text": "Organs, Organ Systems, & Body Cavities Organ Composed of two or more tissue types working together for a particular function Organ System Composed of various organs that cooperate to carry out a general process Ex: the digestion of food Body Cavities Dorsal cavity (toward the back) Contains the cranial cavity and the vertebral canal The brain is in the cranial cavity, and The spinal cord is in the vertebral canal Ventral cavity (toward the front) is divided into The thoracic cavity (includes heart and lungs) The abdominal cavity (most other internal organs), and The pelvic cavity (certain reproductive organs)",
+  "explanation": "1) An organ consists of two or more tissue types working together to perform a specific function. 2) An organ system is composed of several organs cooperating to perform a general process, such as digestion. 3) The animal body features two main cavities: a) Dorsal cavity (toward the back): containing the cranial cavity (housing the brain) and the vertebral canal (housing the spinal cord). b) Ventral cavity (toward the front): divided into the thoracic cavity (housing the heart and lungs), the abdominal cavity (housing most other internal organs), and the pelvic cavity (housing certain reproductive and excretory organs).",
+  "questions": [
+    {
+      "q": "Which organs are located in the dorsal cavity?",
+      "opts": [
+        "Heart and lungs",
+        "Brain and spinal cord",
+        "Stomach and liver",
+        "Uterus and bladder"
+      ],
+      "a": 1,
+      "exp": "The dorsal cavity contains the cranial cavity (housing the brain) and the vertebral canal (housing the spinal cord)."
+    },
+    {
+      "q": "What are the three divisions of the ventral cavity?",
+      "opts": [
+        "Cranial cavity, vertebral canal, and thoracic cavity",
+        "Thoracic cavity, abdominal cavity, and pelvic cavity",
+        "Cranial cavity, thoracic cavity, and abdominal cavity",
+        "Dorsal cavity, ventral cavity, and pelvic cavity"
+      ],
+      "a": 1,
+      "exp": "The ventral cavity is divided into the thoracic cavity (heart/lungs), abdominal cavity (digestive organs), and pelvic cavity (reproductive organs)."
+    }
+  ]
+}

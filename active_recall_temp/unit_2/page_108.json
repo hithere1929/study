@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 108,
+  "filename": "Unit_2_4.txt",
+  "section_title": "Metabolism",
+  "page_num_in_file": 11,
+  "slide_title": "Exergonic Reactions",
+  "original_text": "Exergonic Reactions¨Exergonic reactionsrelease energy.¥These reactions release the energy in covalent bonds of the reactants.¥Examples?¥Burning wood releases the energy in glucose as heat and light.¥Cellular respiration\nninvolves many steps,\nnreleases energy slowly, and\nnuses some of the released energy to produce ATP.",
+  "explanation": "Exergonic reactions are chemical reactions that release energy by breaking down reactant molecules and releasing the chemical energy stored in their covalent bonds. An everyday example of an exergonic reaction is burning wood, which releases the chemical energy stored in glucose covalent bonds as thermal energy (heat) and light. A biological example is cellular respiration, a multi-step pathway that breaks down glucose slowly, harvesting the released energy to synthesize ATP.",
+  "questions": [
+    {
+      "q": "What is the source of the energy released during an exergonic reaction?",
+      "opts": [
+        "The destruction of the atoms' nuclei.",
+        "The covalent bonds of the reactant molecules.",
+        "Thermal energy absorbed from the surroundings.",
+        "The kinetic movement of the water solvent."
+      ],
+      "a": 1,
+      "exp": "Exergonic reactions release the potential chemical energy stored within the covalent bonds of the reactants."
+    },
+    {
+      "q": "How does cellular respiration function as an exergonic process?",
+      "opts": [
+        "It absorbs light to build glucose molecules.",
+        "It breaks down glucose in a single, explosive step to warm the cell.",
+        "It involves many steps, releasing energy slowly to produce ATP.",
+        "It requires a constant input of ATP energy to break down water."
+      ],
+      "a": 2,
+      "exp": "Cellular respiration is a slow, multi-step exergonic process that captures released chemical energy to generate ATP."
+    }
+  ]
+}

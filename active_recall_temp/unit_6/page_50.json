@@ -1,0 +1,23 @@
+{
+  "unit": 6,
+  "page": 50,
+  "filename": "Unit_6_4.txt",
+  "section_title": "Fungi",
+  "page_num_in_file": 14,
+  "slide_title": "Overview",
+  "original_text": "Overview",
+  "explanation": "This slide serves as the overview and summary page for the unit on Fungi (6.4).",
+  "questions": [
+    {
+      "q": "Which kingdom has been summarized prior to this overview slide?",
+      "opts": [
+        "Plantae",
+        "Fungi",
+        "Animalia",
+        "Protista"
+      ],
+      "a": 1,
+      "exp": "This slide marks the overview for the Fungi section (Unit 6.4)."
+    }
+  ]
+}

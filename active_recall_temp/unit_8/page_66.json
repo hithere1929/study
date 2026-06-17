@@ -1,0 +1,23 @@
+{
+  "unit": 8,
+  "page": 66,
+  "filename": "Unit_8_4.txt",
+  "section_title": "Photosynthesis",
+  "page_num_in_file": 13,
+  "slide_title": "Plants as Carbon Dioxide Fixers¨The Calvin Cycle¤A cyclical series of reactions¤Utilizes atmospheric carbon dioxide to produce carbohydrates¤Known as C3photosynthesis¤Involves three stages:nCarbon dioxide fixationnCarbon dioxide reductionnRuBP regeneration",
+  "original_text": "Plants as Carbon Dioxide Fixers¨The Calvin Cycle¤A cyclical series of reactions¤Utilizes atmospheric carbon dioxide to produce carbohydrates¤Known as C3photosynthesis¤Involves three stages:nCarbon dioxide fixationnCarbon dioxide reductionnRuBP regeneration",
+  "explanation": "The Calvin cycle is a cyclical series of reactions that takes place in the stroma of chloroplasts. It utilizes atmospheric carbon dioxide to produce carbohydrates. This pathway is also known as C3 photosynthesis. The Calvin cycle involves three distinct, sequential stages: 1) Carbon dioxide fixation, where CO2 is captured; 2) Carbon dioxide reduction, where the carbon compounds are reduced; and 3) Ribulose-1,5-bisphosphate (RuBP) regeneration, which resets the cycle to accept more CO2.",
+  "questions": [
+    {
+      "q": "What is the alternative name for the Calvin cycle, and what are its three stages in order?",
+      "opts": [
+        "C4 photosynthesis; Fixation, Reduction, and Phosphorylation",
+        "C3 photosynthesis; Carbon dioxide fixation, Carbon dioxide reduction, and RuBP regeneration",
+        "CAM photosynthesis; Day reactions, Night reactions, and Vacuolar storage",
+        "Light-independent cycle; Chemiosmosis, Photolysis, and Glycolysis"
+      ],
+      "a": 1,
+      "exp": "The notes state that the Calvin cycle is 'Known as C3 photosynthesis' and involves three stages: 'Carbon dioxide fixation', 'Carbon dioxide reduction', and 'RuBP regeneration.'"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 36,
+  "filename": "Unit_4_3.txt",
+  "section_title": "DNA Replication, Transcription, Translation",
+  "page_num_in_file": 9,
+  "slide_title": "ParentalDNAmoleculeOrigin ofreplicationParental strandDaughter strand",
+  "original_text": "ParentalDNAmoleculeOrigin ofreplicationParental strandDaughter strand\nTwo daughterDNAmolecules\nProkaryotic\nEukaryotic",
+  "explanation": "This slide contains a diagram comparing prokaryotic and eukaryotic DNA replication. In prokaryotes, replication starts at a single origin of replication on the circular chromosome and moves bi-directionally. In eukaryotes, multiple replication bubbles form along the linear DNA molecule at multiple origins of replication, eventually merging to yield two complete daughter DNA molecules.",
+  "questions": [
+    {
+      "q": "In the diagram comparing replication types, what shape is the chromosome in prokaryotic replication?",
+      "opts": [
+        "Linear",
+        "Circular",
+        "Spiral",
+        "Zig-zag"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the diagram illustrates prokaryotic replication on a circular chromosome, which is a characteristic of prokaryotes mentioned on previous slides."
+    }
+  ]
+}

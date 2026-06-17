@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 38,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 23,
+  "slide_title": "Protein Synthesis",
+  "original_text": "Protein Synthesis\nProduction of protein \none of the major functions of the cell\nGeneral process from synthesis to export:\nProteins assembled by ribosomes on the rough ER\nVesicles transportproteins to the Golgi\nProteins are modifiedby the Golgi and enter newvesicles\nSome vesicles release proteins outside the cell (cell signaling, hormones, etc.)\nSome vesicles remain in the cell and become lysosomes, peroxisomes, etc.\nProcesses like this that use these organelles known as Endomembrane System",
+  "explanation": "Protein synthesis and export represent one of the major functions of a cell. The general pathway proceeds as follows: proteins are first assembled by ribosomes bound to the Rough ER; next, vesicles transport these newly synthesized proteins to the Golgi apparatus; the Golgi modifies the proteins and packages them into new vesicles. From there, some vesicles migrate to the plasma membrane and release their contents outside the cell (such as hormones or signaling molecules), while other vesicles remain inside the cell to function as lysosomes, peroxisomes, or other organelles. This interconnected pathway of organelles and vesicles is known collectively as the Endomembrane System.",
+  "questions": [
+    {
+      "q": "What is the correct pathway of a secretory protein through the endomembrane system?",
+      "opts": [
+        "Golgi -> Vesicle -> Rough ER -> Ribosome",
+        "Ribosome on Rough ER -> Vesicle -> Golgi -> Vesicle -> Destination (inside or outside cell)",
+        "Nucleus -> Lysosome -> Golgi -> Plasma membrane",
+        "Smooth ER -> Ribosome -> Peroxisome -> Cytosol"
+      ],
+      "a": 1,
+      "exp": "As described in the slide, proteins are assembled by ribosomes on the rough ER, transported by vesicles to the Golgi, modified by the Golgi, and then packaged into new vesicles for export or internal use."
+    }
+  ]
+}

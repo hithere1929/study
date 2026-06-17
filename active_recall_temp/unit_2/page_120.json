@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 120,
+  "filename": "Unit_2_4.txt",
+  "section_title": "Metabolism",
+  "page_num_in_file": 23,
+  "slide_title": "Metabolism",
+  "original_text": "Metabolism",
+  "explanation": "This slide serves as a heading placeholder for concepts regarding cell metabolism.",
+  "questions": [
+    {
+      "q": "What is the topic of this slide?",
+      "opts": [
+        "Respiration",
+        "Photosynthesis",
+        "Metabolism",
+        "Enzymes"
+      ],
+      "a": 2,
+      "exp": "The slide is titled 'Metabolism'."
+    }
+  ]
+}

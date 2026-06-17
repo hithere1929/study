@@ -1,0 +1,34 @@
+{
+  "unit": 6,
+  "page": 23,
+  "filename": "Unit_6_2.txt",
+  "section_title": "Prokaryotes",
+  "page_num_in_file": 12,
+  "slide_title": "Domain Archaea\u00a8Archaea were earlier considered bacteria \u00a4Discovered that the base sequence of their rRNA differs from Bacteria \u00a4Other differences: nArchaea do not have peptidoglycan in their cell walls like the Bacteria nArchaea biochemical more like Eukarya than BacterianArchaea now thought to be more closely related to Eukarya than to Bacteria\u00a8Most are chemoautotrophs \u00a8Some mutualistic, Some commensalistic\u00a8None known to be parasitic \u00a8None are photosynthetic",
+  "original_text": "Domain Archaea\u00a8Archaea were earlier considered bacteria \u00a4Discovered that the base sequence of their rRNA differs from Bacteria \u00a4Other differences: nArchaea do not have peptidoglycan in their cell walls like the Bacteria nArchaea biochemical more like Eukarya than BacterianArchaea now thought to be more closely related to Eukarya than to Bacteria\u00a8Most are chemoautotrophs \u00a8Some mutualistic, Some commensalistic\u00a8None known to be parasitic \u00a8None are photosynthetic",
+  "explanation": "Archaea were once classified as bacteria, but scientists discovered that their ribosomal RNA (rRNA) base sequences differ from those of bacteria. Other key differences include: Archaea cell walls lack peptidoglycan, and their biochemistry is more similar to Eukarya than to Bacteria. Thus, Archaea are now considered more closely related to Eukarya than to Bacteria. Most Archaea are chemoautotrophs. They can form mutualistic or commensalistic relationships, but none are known to be parasitic, and none are photosynthetic.",
+  "questions": [
+    {
+      "q": "Which of the following is a key difference between Archaea and Bacteria?",
+      "opts": [
+        "Archaea possess cell walls containing peptidoglycan.",
+        "Archaea ribosomal RNA base sequences differ from Bacteria, and their cell walls lack peptidoglycan.",
+        "Bacteria are biochemical generalists, whereas Archaea are always parasites.",
+        "Archaea are photosynthetic, whereas Bacteria are not."
+      ],
+      "a": 1,
+      "exp": "The notes state that Archaea rRNA base sequence differs from Bacteria, and 'Archaea do not have peptidoglycan in their cell walls like the Bacteria'."
+    },
+    {
+      "q": "Which of the following statements about Archaea nutrition and ecology is true?",
+      "opts": [
+        "Most are photoautotrophs.",
+        "Many species are known human parasites.",
+        "Most are chemoautotrophs, and none are known to be parasitic.",
+        "All Archaea are obligate aerobes."
+      ],
+      "a": 2,
+      "exp": "The notes explicitly state: 'Most are chemoautotrophs' and 'None known to be parasitic'."
+    }
+  ]
+}

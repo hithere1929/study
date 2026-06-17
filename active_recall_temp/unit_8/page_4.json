@@ -1,0 +1,45 @@
+{
+  "unit": 8,
+  "page": 4,
+  "filename": "Unit_8_1.txt",
+  "section_title": "Behavioral Ecology",
+  "page_num_in_file": 4,
+  "slide_title": "Inheritance Influences Behavior¨Experiments That Suggest that Behavior has a Genetic Basis¤Nest-Building Behavior in Lovebirds nFischer lovebirds and peach-faced lovebirds build nests and carry leaves in different ways (Peach cut shorter strips and carry in their feathers to nest)nHybrid offspring between these two species had difficulty carrying nesting materials¤Food Choice in Garter SnakesnInland populations are aquatic and feed on frogs and fish while coastal populations are terrestrial and feed primarily on slugsnInland populations refuse to consume slugs in the laboratory, however, hybrid offspring between these two species accept slugs as a food source¤Twin Studies in HumansnHuman twins separated at birth and raised under different environmental conditions have been shown to have similar food preferences, activity patterns, and select mates with similar characteristics nScott & Mark Kelly¤Nurturing Behavior in micenMaternal behavior port-birth found to be dependent on the presence of a single gene termed fosB",
+  "original_text": "Inheritance Influences Behavior¨Experiments That Suggest that Behavior has a Genetic Basis¤Nest-Building Behavior in Lovebirds nFischer lovebirds and peach-faced lovebirds build nests and carry leaves in different ways (Peach cut shorter strips and carry in their feathers to nest)nHybrid offspring between these two species had difficulty carrying nesting materials¤Food Choice in Garter SnakesnInland populations are aquatic and feed on frogs and fish while coastal populations are terrestrial and feed primarily on slugsnInland populations refuse to consume slugs in the laboratory, however, hybrid offspring between these two species accept slugs as a food source¤Twin Studies in HumansnHuman twins separated at birth and raised under different environmental conditions have been shown to have similar food preferences, activity patterns, and select mates with similar characteristics nScott & Mark Kelly¤Nurturing Behavior in micenMaternal behavior port-birth found to be dependent on the presence of a single gene termed fosB",
+  "explanation": "Multiple experiments provide evidence that behavior has a genetic basis. First, Fischer and peach-faced lovebirds differ in how they build nests: peach-faced lovebirds cut shorter strips of leaves and carry them tucked in their feathers, and hybrid offspring between these two species display significant difficulty in carrying nesting materials due to conflicting inherited behaviors. Second, garter snake food choices demonstrate genetic inheritance: inland populations are aquatic and eat frogs/fish, rejecting slugs in laboratory experiments, while coastal populations are terrestrial and primarily eat slugs; their hybrid offspring accept slugs as a food source. Third, studies of human twins (such as Scott and Mark Kelly) separated at birth and raised in distinct environments show that they share similar food preferences, activity patterns, and mate selection characteristics. Fourth, post-birth maternal nurturing behavior in mice has been shown to depend directly on the presence of a single gene designated as fosB.",
+  "questions": [
+    {
+      "q": "What happens when Fischer lovebirds and peach-faced lovebirds are hybridized, with respect to nest-building behavior?",
+      "opts": [
+        "The hybrid offspring build nests perfectly using peach-faced techniques only.",
+        "The hybrid offspring exhibit difficulty carrying nesting materials.",
+        "The hybrid offspring refuse to build nests at all.",
+        "The hybrid offspring only carry nesting material in their feet."
+      ],
+      "a": 1,
+      "exp": "The notes state that hybrid offspring between these two species had difficulty carrying nesting materials, pointing to a genetic conflict in behavioral patterns."
+    },
+    {
+      "q": "How do inland garter snakes, coastal garter snakes, and their hybrid offspring differ in food preference?",
+      "opts": [
+        "Inland snakes eat slugs, coastal snakes eat frogs/fish, and hybrids reject both.",
+        "Inland snakes eat frogs/fish, coastal snakes eat slugs, and hybrids accept slugs.",
+        "Inland snakes eat frogs/fish, coastal snakes eat slugs, and hybrids reject slugs.",
+        "All three groups accept both slugs and frogs/fish equally."
+      ],
+      "a": 1,
+      "exp": "According to the notes, inland populations are aquatic/feed on frogs and fish and refuse slugs in the lab, coastal populations feed primarily on slugs, and hybrid offspring accept slugs as a food source."
+    },
+    {
+      "q": "Maternal nurturing behavior in mice post-birth has been shown to depend on which specific gene?",
+      "opts": [
+        "fosB",
+        "p53",
+        "BRCA1",
+        "Sox9"
+      ],
+      "a": 0,
+      "exp": "The notes state that maternal behavior post-birth in mice was found to be dependent on the presence of a single gene termed fosB."
+    }
+  ]
+}

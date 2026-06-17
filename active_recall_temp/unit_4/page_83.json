@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 83,
+  "filename": "Unit_4_5.txt",
+  "section_title": "Biotech & Genomics",
+  "page_num_in_file": 2,
+  "slide_title": "DNA Cloning¨Cloningis the production of identical copies of DNA, cells, or organisms¤Members of a bacterial colony on a petri dish are clones because they all came from division of the same cell.¤Identical twins are clonesnA single embryo separates to become two.¨Gene cloning is production of many identical copies of the same gene.¤If the inserted gene is replicated and expressed, we can recover the cloned gene or protein product.¤Cloned genes have many research purposes¤Humans can be treated with gene therapy",
+  "original_text": "DNA Cloning¨Cloningis the production of identical copies of DNA, cells, or organisms¤Members of a bacterial colony on a petri dish are clones because they all came from division of the same cell.¤Identical twins are clonesnA single embryo separates to become two.¨Gene cloning is production of many identical copies of the same gene.¤If the inserted gene is replicated and expressed, we can recover the cloned gene or protein product.¤Cloned genes have many research purposes¤Humans can be treated with gene therapy",
+  "explanation": "Cloning refers to the biological process of generating genetically identical copies of DNA, cells, or entire organisms. The slide outlines examples: members of a bacterial colony on a petri dish are clones because they all originate from the binary fission of a single parental cell, and identical twins are clones because they arise from a single embryo that separates into two individuals. Gene cloning is a specific form of cloning where many identical copies of a particular gene are produced. If the cloned gene is inserted, replicated, and expressed in a host organism, scientists can harvest either the gene itself or its expressed protein product. These cloned genes are valuable for research and can be used in gene therapy to treat human genetic conditions.",
+  "questions": [
+    {
+      "q": "Which of the following describes cloning and provides an example mentioned on the slide?",
+      "opts": [
+        "The production of identical copies of DNA, cells, or organisms; members of a bacterial colony on a petri dish.",
+        "The creation of novel genetic sequences by mutating DNA; somatic cell diversification.",
+        "The destruction of abnormal cells in the body; tumor suppressor genes.",
+        "The random separation of maternal and paternal chromosomes; gamete formation."
+      ],
+      "a": 0,
+      "exp": "Option A is correct because the slide defines cloning as 'the production of identical copies of DNA, cells, or organisms' and provides the example of 'Members of a bacterial colony on a petri dish' and 'Identical twins.' The other choices are incorrect definitions."
+    },
+    {
+      "q": "What is gene cloning, and what can be recovered if the cloned gene is expressed?",
+      "opts": [
+        "Gene cloning is the deletion of harmful mutations; it allows the cell to recover normal division.",
+        "Gene cloning is the production of many identical copies of the same gene; the gene itself or its protein product can be recovered.",
+        "Gene cloning is the synthesis of synthetic histone proteins; the chromatin structure can be recovered.",
+        "Gene cloning is the transcription of introns; snRNA can be recovered."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide defines gene cloning as 'production of many identical copies of the same same gene' and notes 'we can recover the cloned gene or protein product' if it is expressed. The other options are incorrect."
+    }
+  ]
+}

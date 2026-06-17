@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 19,
+  "filename": "Unit_1_2.txt",
+  "section_title": "Intro to Biology",
+  "page_num_in_file": 4,
+  "slide_title": "Characteristics of Life",
+  "original_text": "Characteristics of Life\n1.All living things are organized\u2013Start with basic units of organization, and move up in complexity \n\u2013Can start from small to large or large to small but, there is an important reason to think from small to large\n\u2013As you move up the hierarchy in complexity, new EMERGENT PROPERTIESdevelop",
+  "explanation": "This slide describes the first characteristic of life: all living things are organized. Organization starts with basic units and increases in complexity. Although one can think from small to large or large to small, thinking from small to large is preferred because, as you move up the hierarchy of structural complexity, new emergent properties develop that were not present at simpler levels.",
+  "questions": [
+    {
+      "q": "What develops as you move up the biological hierarchy of organization from smaller to larger, more complex levels?",
+      "opts": [
+        "Evolutionary mutations",
+        "Emergent properties",
+        "Chemical reductionism",
+        "Atmospheric pressure"
+      ],
+      "a": 1,
+      "exp": "The text states that 'As you move up the hierarchy in complexity, new EMERGENT PROPERTIES develop.'"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 27,
+  "filename": "Unit_5_2.txt",
+  "section_title": "How Populations Evolve",
+  "page_num_in_file": 6,
+  "slide_title": "Genes, Populations, & Evolution",
+  "original_text": "Genes, Populations, & Evolution\n\u00a8Allele Frequencies\n\u00a4The proportion of each allele within a population\u2019s gene pool.\n\u00a4Frequencies of the dominant and recessive allele must add up to 1.\n  nThis relationship is described by the expression p + q = 1\n  nGenotype frequencies follow the equation p2+ 2pq + q2\n  np is the frequency of one allele and q is the frequency of the other\n\u00a4Microevolution involves a change in these allele frequencies within populations over time.\n\u00a4If the gene frequencies do not change over time, microevolution has not occurred.",
+  "explanation": "Allele frequencies represent the proportion of each allele within a population's gene pool. In a simple two-allele system (dominant and recessive), the frequencies of the two alleles must sum to 1, represented mathematically by the equation p + q = 1 (where p is the frequency of one allele and q is the other). The resulting genotype frequencies in the population follow the Hardy-Weinberg expansion: p^2 + 2pq + q^2 = 1. Microevolution is defined as a change in these allele frequencies within a population over time. If these frequencies remain completely unchanged over generations, microevolution has not occurred.",
+  "questions": [
+    {
+      "q": "What mathematical equation describes the relationship between the allele frequencies of a two-allele system in a gene pool?",
+      "opts": [
+        "p2 + 2pq + q2 = 0",
+        "p + q = 1",
+        "p - q = 1",
+        "p * q = 2"
+      ],
+      "a": 1,
+      "exp": "The relationship between allele frequencies is described by the equation p + q = 1, where p and q represent the frequencies of the two alleles."
+    },
+    {
+      "q": "How is microevolution defined in terms of allele frequencies?",
+      "opts": [
+        "The formation of a new species due to geological separation",
+        "The total extinction of recessive alleles in a population",
+        "A change in allele frequencies within a population over time",
+        "The accumulation of physical traits that cannot be inherited"
+      ],
+      "a": 2,
+      "exp": "Microevolution involves a change in the allele frequencies within a population over time. If they do not change, microevolution has not occurred."
+    }
+  ]
+}

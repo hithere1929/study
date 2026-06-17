@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 59,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 44,
+  "slide_title": "Cell Comparison",
+  "original_text": "Cell Comparison\nvesicle",
+  "explanation": "This page is a placeholder or slide for Cell Comparison, highlighting a vesicle.",
+  "questions": [
+    {
+      "q": "What structure is mentioned on the Cell Comparison slide?",
+      "opts": [
+        "Ribosome",
+        "Vesicle",
+        "Mitochondria",
+        "Nucleus"
+      ],
+      "a": 1,
+      "exp": "The text on this slide contains the word 'vesicle' under the slide title 'Cell Comparison'."
+    }
+  ]
+}

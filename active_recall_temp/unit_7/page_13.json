@@ -1,0 +1,23 @@
+{
+  "unit": 7,
+  "page": 13,
+  "filename": "Unit_7_1.txt",
+  "section_title": "Plant Structure & Organization",
+  "page_num_in_file": 13,
+  "slide_title": "Organization and Diversity of Roots: Monocot Roots",
+  "original_text": "Organization and Diversity of Roots Monocot roots: Ground tissue of root’s pithis surrounded by vascular ring Have the same growth zones as eudicot roots, but do not undergo secondary growth Have pericycle, endodermis, cortex, and epidermis",
+  "explanation": "Monocot roots possess the same protective and structural tissues as eudicot roots, including the epidermis, cortex, endodermis, and pericycle, and they exhibit the same three developmental zones (cell division, elongation, and maturation). However, they differ in two main ways: monocot roots do not undergo secondary (thickening) growth, and their vascular tissues (xylem and phloem) are arranged in a ring that surrounds a central core of ground tissue called the pith.",
+  "questions": [
+    {
+      "q": "Which of the following is true about monocot roots?",
+      "opts": [
+        "They undergo extensive secondary growth via the vascular cambium.",
+        "They lack an endodermis and pericycle.",
+        "They have a central core of ground tissue (pith) surrounded by a vascular ring.",
+        "They lack a zone of maturation and do not produce root hairs."
+      ],
+      "a": 2,
+      "exp": "Monocot roots have a central pith composed of ground tissue, which is surrounded by a ring of vascular tissue. They do not undergo secondary growth."
+    }
+  ]
+}

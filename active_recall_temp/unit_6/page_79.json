@@ -1,0 +1,23 @@
+{
+  "unit": 6,
+  "page": 79,
+  "filename": "Unit_6_6.txt",
+  "section_title": "Invertebrates",
+  "page_num_in_file": 12,
+  "slide_title": "Overview",
+  "original_text": "Overview\nClearer version of the invertebrate overview can be found on p526",
+  "explanation": "This slide serves as an overview for the invertebrate section, directing students to page 526 of the textbook for a clearer illustration.",
+  "questions": [
+    {
+      "q": "Where can a clearer version of the invertebrate overview be found?",
+      "opts": [
+        "Text page 385",
+        "Text page 526",
+        "Text page 800",
+        "Text page 704"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Clearer version of the invertebrate overview can be found on p526'."
+    }
+  ]
+}

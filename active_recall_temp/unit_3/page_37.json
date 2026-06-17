@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 37,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 22,
+  "slide_title": "Vesicles",
+  "original_text": "Vesicles\nGlyoxysomes: specialized peroxisomesfound on seeds of some plants\nBreak down stored fatsto provide energy for developing plant embryo\nEndosome: results when a cell engulfs material by surrounding it with the plasma membrane, then pocket formed buds off to become vesicle within cell\nLysosomes can fuse with endosomes to digest engulfed material\nFood vacuole: stores nutrients",
+  "explanation": "This slide describes several specific types of vesicles. Glyoxysomes are specialized peroxisomes found in the seeds of certain plants; they function to break down stored fats to supply energy for the developing plant embryo. An endosome is a vesicle that forms when a cell engulfs extracellular material by surrounding it with its plasma membrane, which then pinches off internally. Lysosomes can fuse with these endosomes to digest the engulfed contents. A food vacuole is another type of vesicle whose primary function is to store nutrients.",
+  "questions": [
+    {
+      "q": "What is the function of glyoxysomes in the seeds of some plants?",
+      "opts": [
+        "They perform photosynthesis to produce glucose.",
+        "They break down stored fats to provide energy for the developing plant embryo.",
+        "They form endosomes by engulfing external proteins.",
+        "They synthesize cell walls during cell division."
+      ],
+      "a": 1,
+      "exp": "Glyoxysomes are specialized peroxisomes found in some plant seeds that break down stored fats to provide energy for the developing plant embryo."
+    },
+    {
+      "q": "How is an endosome formed?",
+      "opts": [
+        "By budding off from the Golgi apparatus.",
+        "When a cell engulfs material by surrounding it with the plasma membrane, which then buds off internally.",
+        "By the crystallization of cytosol proteins.",
+        "When a lysosome fuses with a peroxisome."
+      ],
+      "a": 1,
+      "exp": "An endosome results when a cell engulfs material by surrounding it with the plasma membrane, and the formed pocket buds off to become a vesicle within the cell."
+    }
+  ]
+}

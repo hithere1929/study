@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 98,
+  "filename": "Unit_7_6.txt",
+  "section_title": "Circulation & Cardiovascular System",
+  "page_num_in_file": 4,
+  "slide_title": "Transport in Invertebrates: Open vs. Closed Circulatory Systems",
+  "original_text": "Transport in Invertebrates Invertebrates with a Circulatory System Two types of circulatory fluids: Blood-contained within blood vessels Hemolymph mixture of blood and tissue fluid that fills the body cavity and surrounds internal organs Open Circulatory System Heart pumps hemolymph via vessels Vessels empty into tissue spaces Closed Circulatory System Heart pumps blood to capillaries Gases and materials diffuse to and from nearby cells Vessels return blood to heart without contact between blood and tissues",
+  "explanation": "Invertebrates with a circulatory system utilize one of two circulatory fluids: 1) Blood: contained entirely within blood vessels. 2) Hemolymph: a mixture of blood and interstitial fluid that fills the body cavity (hemocoel) and bathes internal organs. Circulatory systems are classified as: 1) Open circulatory systems: where a heart pumps hemolymph through vessels that empty into open tissue spaces, bathing organs directly. 2) Closed circulatory systems: where a heart pumps blood through vessels to capillaries, where gas and nutrient exchange occurs by diffusion, and vessels return the blood directly to the heart without it contacting tissues directly.",
+  "questions": [
+    {
+      "q": "What is hemolymph?",
+      "opts": [
+        "A fluid that contains only red blood cells",
+        "A mixture of blood and tissue fluid that directly bathes internal organs",
+        "The inorganic matrix of supportive bone tissue",
+        "The liquid that flows through the sieve tube elements of phloem"
+      ],
+      "a": 1,
+      "exp": "Hemolymph is a combination of blood and tissue fluid that fills the body cavity and surrounds organs in animals with open circulatory systems."
+    },
+    {
+      "q": "In which type of circulatory system does the heart pump blood to capillaries, where diffusion occurs, and vessels return the blood to the heart without it leaving the vessels?",
+      "opts": [
+        "Open circulatory system",
+        "Closed circulatory system",
+        "Pseudocoelomate system",
+        "Water vascular system"
+      ],
+      "a": 1,
+      "exp": "In a closed circulatory system, blood is confined to vessels and capillaries, and returns to the heart without spilling into body cavities."
+    }
+  ]
+}

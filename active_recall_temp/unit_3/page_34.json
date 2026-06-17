@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 34,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 19,
+  "slide_title": "Vesicles",
+  "original_text": "Vesicles\nSmall, spherical sacs surrounded by a single membrane; classified by their contents\nOften migrateand mergewith plasma membrane, releasing their contents outside of the cell\nLysosome: vesicles that bud from Golgiand contain digestive enzymes\nCan break down large molecules such as proteins, nucleic acids, carbohydrates, phospholipids\nBreaks down glycogen in the liver to release glucose into bloodstream\nWhite blood cells use them to break down bacteria\nDigest non-functioning organelles through a process called autophagy\nResponsible for breaking down cells when they are ready to dienProcess is called autolysis\nMaintain health of organism by destroying extra, improperly or non-functioning cells",
+  "explanation": "Vesicles are small, spherical, single-membrane-bound sacs classified by their specific contents. They often migrate and merge with the plasma membrane to release contents outside the cell. Lysosomes are vesicles that bud from the Golgi apparatus and contain powerful digestive enzymes. They break down large molecules (proteins, nucleic acids, carbohydrates, lipids), degrade glycogen in the liver to release glucose into the bloodstream, and help white blood cells destroy bacteria. Lysosomes digest worn-out or non-functioning cell organelles through autophagy, and they digest entire cells when they are programmed to die via autolysis. These processes maintain overall organismal health by purging excess, malfunctioning, or dead cells.",
+  "questions": [
+    {
+      "q": "What is the process called when lysosomes digest non-functioning organelles?",
+      "opts": [
+        "Autolysis",
+        "Autophagy",
+        "Endocytosis",
+        "Phagocytosis"
+      ],
+      "a": 1,
+      "exp": "The slide states that lysosomes digest non-functioning organelles through a process called autophagy."
+    },
+    {
+      "q": "What is the difference between autophagy and autolysis?",
+      "opts": [
+        "Autophagy is lipid synthesis; autolysis is protein breakdown.",
+        "Autophagy is digesting non-functioning organelles; autolysis is breaking down entire cells when they are ready to die.",
+        "Autophagy is cell division; autolysis is cell movement.",
+        "Autophagy is performed by ribosomes; autolysis is performed by the nucleus."
+      ],
+      "a": 1,
+      "exp": "The slide distinguishes autophagy (digesting non-functioning organelles) from autolysis (breaking down cells when they are ready to die)."
+    }
+  ]
+}

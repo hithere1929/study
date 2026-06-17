@@ -1,0 +1,32 @@
+{
+  "option_a": {
+    "prompt": "Explain the steps and molecular components involved in transcription and translation in eukaryotic cells, detailing the processes and cellular locations, including post-transcriptional modifications.",
+    "keywords": [
+      "promoter",
+      "RNA polymerase",
+      "introns",
+      "exons",
+      "spliceosome",
+      "codon",
+      "anticodon",
+      "ribosome",
+      "tRNA",
+      "mRNA"
+    ],
+    "model_answer": "Transcription occurs in the nucleus where RNA polymerase binds to a promoter on the DNA template and synthesizes a pre-mRNA transcript in the 5' to 3' direction. Eukaryotic pre-mRNA must undergo RNA processing before exiting the nucleus, which involves adding a 5' modified Guanine cap and a 3' poly-A tail, and splicing by the spliceosome to remove non-coding introns and join coding exons. The mature mRNA then enters the cytoplasm for translation. Here, the ribosome (large and small subunits) binds the mRNA and reads it in triplet codons starting at AUG. Transfer RNA (tRNA) molecules carry specific amino acids to the ribosome, matching their complementary anticodon to the mRNA codon. The ribosome catalyzes peptide bond formation between amino acids, elongating the polypeptide chain until a stop codon triggers release of the finished protein."
+  },
+  "option_b": {
+    "prompt": "Describe how the prokaryotic lac operon regulates gene expression in both the repressed (off) and induced (on) states, detailing the roles of all regulatory components.",
+    "keywords": [
+      "promoter",
+      "operator",
+      "repressor",
+      "inducer",
+      "lactose",
+      "structural genes",
+      "RNA polymerase",
+      "active"
+    ],
+    "model_answer": "The lac operon is an inducible system that controls the expression of lactose-metabolizing enzymes in prokaryotes. In the repressed state, which occurs in the absence of lactose, the regulator gene produces an active repressor protein that binds tightly to the operator region. This physical block prevents RNA polymerase from binding to the promoter, turning transcription of the structural genes off. In the induced state, when lactose is present in the environment, lactose acts as an inducer by binding directly to the repressor. This binding causes a shape change that inactivates the repressor, causing it to fall off the operator. With the operator clear, RNA polymerase is free to bind to the promoter and transcribe the structural genes (lacZ, lacY, lacA) to produce the enzymes needed to metabolize lactose."
+  }
+}

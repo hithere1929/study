@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 148,
+  "filename": "Unit_7_8.txt",
+  "section_title": "Nervous System",
+  "page_num_in_file": 10,
+  "slide_title": "Nervous Tissue: Transmission Across a Synapse & Integration",
+  "original_text": "Nervous Tissue Transmission Across a Synapse A synapse is a region where neurons nearly touch Small gap between neurons is the synaptic cleft Transmission across a synapse is carried out by neurotransmitters Sudden rise in calcium in the axon terminal of one neuron Calcium stimulates synaptic vesicles to merge with the presynaptic membrane Neurotransmitter molecules are released into the synaptic cleft Synaptic Integration A single neuron is on the receiving end of Many excitatory signals, and Many inhibitory signals Integration The summing of excitatory and inhibitory signals The receiving dendrite must receive enough + or  signal to cross a threshold and continue propagating action potentialSynapse Video Clip",
+  "explanation": "A synapse is the region where neurons nearly touch, separated by a small gap called the synaptic cleft. Transmission is mediated by chemical neurotransmitters: when an action potential reaches the axon terminal, calcium ($Ca^{2+}$) channels open, and the influx of calcium stimulates synaptic vesicles to fuse with the presynaptic membrane, releasing neurotransmitters into the cleft. A postsynaptic neuron receives many excitatory and inhibitory signals. Synaptic integration is the summing of these inputs. The postsynaptic neuron will only fire an action potential if the integrated net signal crosses the threshold.",
+  "questions": [
+    {
+      "q": "What ion triggers the release of neurotransmitters from synaptic vesicles at the presynaptic membrane?",
+      "opts": [
+        "Sodium (Na+)",
+        "Potassium (K+)",
+        "Calcium (Ca2+)",
+        "Bicarbonate (HCO3-)"
+      ],
+      "a": 2,
+      "exp": "An action potential arriving at the axon terminal triggers an influx of calcium ions, which signals synaptic vesicles to fuse with the membrane and release neurotransmitters."
+    },
+    {
+      "q": "What is synaptic integration?",
+      "opts": [
+        "The myelination of the axon to increase signal speed",
+        "The mathematical summing of excitatory and inhibitory signals by a receiving neuron",
+        "The fusion of the axon terminal with the postsynaptic dendrite",
+        "The recycling of neurotransmitters by the glial cells"
+      ],
+      "a": 1,
+      "exp": "Synaptic integration is the process by which a neuron sums all the excitatory and inhibitory inputs it receives to determine if it will generate an action potential."
+    }
+  ]
+}

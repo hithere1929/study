@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 32,
+  "filename": "Unit_7_2.txt",
+  "section_title": "Plant Nutrition and Transport",
+  "page_num_in_file": 11,
+  "slide_title": "Transport Mechanisms: Cohesion-Tension Model",
+  "original_text": "Transport Mechanisms Cohesion-tension model of xylem transport suggests a passive xylem transport. Cohesion is the tendency of water molecules to cling together. Adhesion is the ability of the polar water molecules to interact with molecules of vessel walls A continuous water column moves passively upward due to transpiration. Leaves Transpirationcauses water loss through stomata. Water molecules that evaporate are replaced by water molecules from leaf veins. Due to cohesion, transpiration exerts a pulling force (tension) drawing water through the xylem to the leaf cells. Waxy cuticle prevents water loss when stomata are closed. Stem Tension in xylem pulls the water column upward. Roots Water enters xylem passively by osmosis and is pulled upward due to tension in xylem.",
+  "explanation": "The cohesion-tension model describes the passive transport of water through xylem. Cohesion is the attraction between polar water molecules that allows them to cling together, forming a continuous water column. Adhesion is the interaction of polar water molecules with the cellulose walls of xylem vessels, preventing the water column from slipping downward. In the leaves, transpiration (water loss by evaporation through stomata) creates tension (a pulling force) because evaporating water molecules must be replaced by water from leaf veins. Due to cohesion, this tension pulls the entire water column upward through the stem xylem. In the roots, water enters the xylem passively by osmosis and is pulled upward by this same transpirational tension. When stomata are closed, a waxy cuticle on the leaf surface prevents excessive water loss.",
+  "questions": [
+    {
+      "q": "What is the difference between cohesion and adhesion in xylem transport?",
+      "opts": [
+        "Cohesion is water molecules clinging to each other; adhesion is water molecules interacting with vessel walls.",
+        "Cohesion is water molecules interacting with vessel walls; adhesion is water molecules clinging to each other.",
+        "Cohesion is the active pumping of water; adhesion is passive water movement.",
+        "Cohesion occurs in roots; adhesion occurs only in leaves."
+      ],
+      "a": 0,
+      "exp": "Cohesion refers to water molecules binding to each other. Adhesion refers to water molecules binding to the cell walls of the xylem vessels."
+    },
+    {
+      "q": "What generates the tension (pulling force) that drives water upward according to the cohesion-tension model?",
+      "opts": [
+        "Active pumping of water by root hairs",
+        "Transpiration (evaporation) of water from leaves",
+        "The opening of lenticels in the bark",
+        "High solute concentration in the xylem"
+      ],
+      "a": 1,
+      "exp": "Evaporation of water (transpiration) from the leaves creates a negative pressure (tension) that pulls the water column upward."
+    },
+    {
+      "q": "Which leaf structure acts to limit water loss when the stomata are closed?",
+      "opts": [
+        "Sieve plate",
+        "Waxy cuticle",
+        "Lenticels",
+        "Tracheids"
+      ],
+      "a": 1,
+      "exp": "The waxy cuticle on the leaf epidermis prevents water loss when the stomata are closed."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 157,
+  "filename": "Unit_4_8.txt",
+  "section_title": "Mendelian Inheritance P1 - Mendelian Genetics",
+  "page_num_in_file": 12,
+  "slide_title": "Mendel’s Monohybrid Cross",
+  "original_text": "Mendel’s Monohybrid Cross",
+  "explanation": "In Mendel's monohybrid crosses, self-pollination of the F1 generation produces the F2 generation, resulting in a predictable 3:1 ratio of dominant to recessive phenotypes.",
+  "questions": [
+    {
+      "q": "What is the expected phenotypic ratio of dominant to recessive traits in the F2 generation of a monohybrid cross?",
+      "opts": [
+        "1:1",
+        "3:1",
+        "9:3:3:1",
+        "1:2:1"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the selfing of heterozygotes in a monohybrid cross results in a 3:1 phenotypic ratio (three dominant to one recessive)."
+    }
+  ]
+}

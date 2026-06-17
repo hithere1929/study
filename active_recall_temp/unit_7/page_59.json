@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 59,
+  "filename": "Unit_7_4.txt",
+  "section_title": "Plant Reproduction",
+  "page_num_in_file": 5,
+  "slide_title": "Reproductive Strategies: Flowers",
+  "original_text": "Reproductive Strategies Flowers Flowering occurs in response to environmental signals such as day length In monocots, flower parts occur in threes and multiples of three In eudicots, flower parts occur in fours or fives and multiples of four or five A typical flower has four whorls of modified leaves attached to a receptacleat the end of a flower stalk called a peduncle Sepals-protect the bud Petals-attract pollinators Stamens-are male portion of flower Anther-Saclike container Filament-Slender stalk Carpelis the female portion of flower Stigma-Enlarged sticky knob Style-Slender stalk Ovary-Enlarged base enclosing ovules Some plants can have multiple fused carpal, that develop and are known as compound  ex. orange",
+  "explanation": "Flowering is initiated by environmental cues like photoperiod (day length). Monocots and eudicots display differences in floral structure: monocot flower parts are arranged in groups or multiples of three, whereas eudicot flower parts are arranged in groups or multiples of four or five. A typical flower has four whorls of modified leaves attached to the receptacle (the swollen tip of the flower stalk, or peduncle): 1) Sepals: protect the developing flower bud. 2) Petals: attract animal pollinators. 3) Stamens (male organs): consist of a pollen-producing sac (anther) on a slender stalk (filament). 4) Carpels (female organs): consist of a sticky pollen-receptive tip (stigma), a stalk (style), and an base (ovary) that encloses one or more ovules. Fused carpels form a compound carpel, as seen in fruits like oranges.",
+  "questions": [
+    {
+      "q": "What is the difference between monocot and eudicot flowers regarding their floral parts?",
+      "opts": [
+        "Monocots have parts in 4s or 5s, while eudicots have them in 3s.",
+        "Monocots have parts in 3s, while eudicots have them in 4s or 5s.",
+        "Monocots lack petals, while eudicots lack sepals.",
+        "Monocots have staminate flowers only, while eudicots have carpellate flowers."
+      ],
+      "a": 1,
+      "exp": "Monocot flowers have parts in threes and multiples of three. Eudicot flowers have parts in fours or fives and their multiples."
+    },
+    {
+      "q": "Which of the following describes the male reproductive organ of a flower?",
+      "opts": [
+        "A carpel, consisting of stigma, style, and ovary",
+        "A stamen, consisting of an anther and a filament",
+        "A peduncle, consisting of a receptacle and a sepal",
+        "A petal, consisting of nectar glands and trichomes"
+      ],
+      "a": 1,
+      "exp": "The stamen is the male portion of the flower and consists of the anther (saclike container) and filament (slender stalk)."
+    },
+    {
+      "q": "What is a compound carpel, and what is an example?",
+      "opts": [
+        "Multiple fused stamens; ex. grass",
+        "Multiple fused carpels; ex. orange",
+        "A flower with sepals and petals fused; ex. rose",
+        "A seed containing multiple embryos; ex. corn"
+      ],
+      "a": 1,
+      "exp": "A compound carpel consists of multiple fused carpels, as observed in an orange."
+    }
+  ]
+}

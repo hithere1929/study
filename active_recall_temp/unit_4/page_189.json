@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 189,
+  "filename": "Unit_4_9.txt",
+  "section_title": "Mendelian Inheritance P2 - Genetic Disorders",
+  "page_num_in_file": 15,
+  "slide_title": "Extending the Range of Mendelian Genetics",
+  "original_text": "Extending the Range of Mendelian Genetics",
+  "explanation": "This slide continues the discussion on the extensions of Mendelian genetics, which address inheritance patterns that cannot be fully explained by simple dominant/recessive rules of single genes.",
+  "questions": [
+    {
+      "q": "Which of the following traits is typically explained by extending the range of Mendelian genetics rather than simple dominance?",
+      "opts": [
+        "Purple flower color in peas",
+        "Sickle cell anemia",
+        "Wrinkled seed shape in peas",
+        "Yellow seed color"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because sickle cell anemia is mentioned on the previous slide as an example of pleiotropy, which is an extension of Mendelian inheritance."
+    }
+  ]
+}

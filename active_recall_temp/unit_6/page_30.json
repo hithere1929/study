@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 30,
+  "filename": "Unit_6_3.txt",
+  "section_title": "Protists",
+  "page_num_in_file": 6,
+  "slide_title": "Supergroup Archaeplastida\u00a8Include land plants and other photosynthetic organisms, contain plastids from cyanobacteria\u00a4Red & Green Algae\u00a4Contain Chlorophyll a & b\u00a8Green algae broken into 2 groups\u00a4ChlorophytesnChlamydomonas\u2013can exist in sexual life cyclenVolvox\u2013colonialnUlva-multicellular \u00a4Chorophytes\u2013Filamentous (most closely related to land plantsnSpirogyranChara\u00a8Red algae\u00a4Contain red and blue accessory pigments\u00a4Used to produce agar \u2013lab substrate\u00a4Carrageenanextracts used in chocolate and cosmetics\u00a4Porphyraused for seaweed wrappings on sushi",
+  "original_text": "Supergroup Archaeplastida\u00a8Include land plants and other photosynthetic organisms, contain plastids from cyanobacteria\u00a4Red & Green Algae\u00a4Contain Chlorophyll a & b\u00a8Green algae broken into 2 groups\u00a4ChlorophytesnChlamydomonas\u2013can exist in sexual life cyclenVolvox\u2013colonialnUlva-multicellular \u00a4Chorophytes\u2013Filamentous (most closely related to land plantsnSpirogyranChara\u00a8Red algae\u00a4Contain red and blue accessory pigments\u00a4Used to produce agar \u2013lab substrate\u00a4Carrageenanextracts used in chocolate and cosmetics\u00a4Porphyraused for seaweed wrappings on sushi",
+  "explanation": "Supergroup Archaeplastida includes land plants and other photosynthetic organisms that contain plastids derived from cyanobacteria. This group features red and green algae, which contain chlorophyll a and b. Green algae are split into two groups: 1) Chlorophytes, such as Chlamydomonas (exhibits a sexual life cycle), Volvox (colonial), and Ulva (multicellular); and 2) Charophytes, which are filamentous algae that are most closely related to land plants, including Spirogyra and Chara. Red algae contain red and blue accessory pigments and have various commercial uses, including the production of agar (lab substrate), carrageenan extracts (used in chocolate and cosmetics), and Porphyra (seaweed wrappings for sushi).",
+  "questions": [
+    {
+      "q": "Which green algae group is most closely related to land plants?",
+      "opts": [
+        "Chlorophytes",
+        "Charophytes",
+        "Red algae",
+        "Cyanobacteria"
+      ],
+      "a": 1,
+      "exp": "The notes state that Charophytes are filamentous and 'most closely related to land plants'."
+    },
+    {
+      "q": "What is Porphyra used for?",
+      "opts": [
+        "Producing agar in laboratory substrates",
+        "Seaweed wrappings on sushi",
+        "Extracting carrageenan for cosmetics",
+        "Photosynthetic oxygen generation in marshes"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Porphyra used for seaweed wrappings on sushi'."
+    },
+    {
+      "q": "Which of the following is a multicellular Chlorophyte?",
+      "opts": [
+        "Ulva",
+        "Volvox",
+        "Spirogyra",
+        "Chara"
+      ],
+      "a": 0,
+      "exp": "The notes list 'Ulva-multicellular' as a Chlorophyte green algae."
+    }
+  ]
+}

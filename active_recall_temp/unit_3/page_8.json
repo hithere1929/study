@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 8,
+  "filename": "Unit_3_1.txt",
+  "section_title": "Cell Biology",
+  "page_num_in_file": 8,
+  "slide_title": "Diversity of Cells",
+  "original_text": "Diversity of Cells\nCells, both among and within, organisms are very diverse:\nVary in shape, size, internal organization, function\nVarying function of cells a product of their different structures\nCan be simpleor complexdepending on function\nStructure has evolvedto allow most effective functionality",
+  "explanation": "Cells, both among and within organisms, exhibit immense diversity. They vary significantly in their shape, size, internal organization, and function. The varying function of cells is directly a product of their different structures; structure has evolved over time to allow the most effective functionality, whether simple or complex depending on the cell's function.",
+  "questions": [
+    {
+      "q": "Which of the following is the primary reason why different cell types have different functions?",
+      "opts": [
+        "They contain different genetic codes.",
+        "They vary in their structures, which have evolved for specific functions.",
+        "They belong to different taxonomic kingdoms.",
+        "They are formed in different parts of the organism."
+      ],
+      "a": 1,
+      "exp": "The slide states that the varying function of cells is a product of their different structures, which evolved to allow most effective functionality."
+    }
+  ]
+}

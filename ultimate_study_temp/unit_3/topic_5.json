@@ -1,0 +1,26 @@
+{
+  "id": "u3_t5",
+  "title": "Organelle Interaction",
+  "cheat_card": [
+    "The <b>Endomembrane System</b> regulates protein synthesis, modification, and transport: proteins are built by <b>ribosomes</b> on the <b>rough ER</b>, packaged into <b>vesicles</b>, and sent to the <b>Golgi apparatus</b>.",
+    "The <b>Golgi apparatus</b> (system of 3-23 flattened sacs) receives vesicles at its <b>cis face</b>, modifies them (e.g., adding carbohydrates), and packages them into new vesicles at the <b>trans face</b> for export or intracellular use.",
+    "<b>Rough ER</b> folds proteins and produces phospholipids, whereas <b>Smooth ER</b> lacks ribosomes, builds lipids (cholesterol, hormones), releases <b>Ca2+</b> in muscle cells, and <b>detoxifies drugs</b> in the liver.",
+    "<b>Lysosomes</b> bud from the Golgi and contain digestive enzymes for cellular recycling (<b>autophagy</b>) or cell self-destruction (<b>autolysis</b>); <b>peroxisomes</b> (not made by Golgi) neutralize free radicals and produce <b>H2O2</b>."
+  ],
+  "memory_anchor": "### Secretion Pathway Flowchart\n**Ribosome** (translates protein on Rough ER) → **Transport Vesicle** (pinches off ER) → **Cis Face of Golgi** (receives) → **Golgi Cisternae** (modifies & labels) → **Trans Face of Golgi** (packages) → **Secretory Vesicle** (buds off Golgi) → **Plasma Membrane** (exocytosis/secretion).",
+  "flashcards": [
+    {
+      "q": "Trace the pathway of a digestive enzyme from its synthesis to its final function inside a lysosome.",
+      "a": "The enzyme is synthesized by a ribosome on the rough ER, where it folds. It is transported via a vesicle that buds from the rough ER and fuses with the cis face of the Golgi. The Golgi modifies and labels the enzyme, which then buds off the Golgi inside a vesicle that remains in the cell as a functional lysosome."
+    },
+    {
+      "q": "Contrast the structural origins and metabolic functions of lysosomes and peroxisomes.",
+      "a": "Lysosomes bud directly from the Golgi apparatus and contain digestive enzymes that break down macromolecules, old organelles (autophagy), or whole cells (autolysis). Peroxisomes do not arise from the Golgi; they contain enzymes that neutralize free radicals, produce hydrogen peroxide (H2O2) during drug/alcohol detoxification in the liver, and break down fatty acids."
+    },
+    {
+      "q": "What are the specific synthetic and regulatory functions of the smooth endoplasmic reticulum?",
+      "a": "The smooth ER lacks ribosomes and is responsible for building lipids (such as cholesterol and steroid hormones like estrogen and testosterone), regulating muscle contraction by releasing calcium ions (Ca2+), and detoxifying drugs and poisons in the liver and kidneys."
+    }
+  ],
+  "outline_blanks": "Protein synthesis begins on [[ribosomes]] bound to the [[rough ER]], where proteins fold. Vesicles then transport these proteins to the [[Golgi apparatus]] for modification and labeling, before new vesicles carry them to the [[plasma membrane]] for secretion or retain them as [[lysosomes]] for digestion."
+}

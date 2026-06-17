@@ -1,0 +1,30 @@
+{
+  "id": "u8_t7",
+  "title": "Conservation",
+  "cheat_card": [
+    "Biodiversity includes <b>genetic diversity</b> (variation in a population), <b>community diversity</b> (species interactions), and <b>landscape diversity</b> (ecosystem networks).",
+    "<b>Biodiversity hotspots</b> contain 44% of higher plants and 35% of terrestrial vertebrates in only <b>1.4% of Earth's land area</b>.",
+    "Major causes of extinction are <b>habitat loss (85%)</b>, <b>exotic species (50%)</b>, <b>pollution (24%)</b>, and <b>overexploitation (17%)</b>.",
+    "Key conservation terms include <b>keystone species</b> (essential for community viability), <b>flagstone species</b> (charismatic species eliciting human emotion), and the <b>edge effect</b> (adverse boundary conditions in fragmented habitats).",
+    "Principles of <b>restoration ecology</b>: begin ASAP, use biological techniques to mimic natural processes, and target sustainable development."
+  ],
+  "memory_anchor": "Extinction Threats (H.E.P.O.D.):\n- Habitat Loss: 85%\n- Exotic Species: 50%\n- Pollution: 24%\n- Overexploitation: 17%\n- Disease: 3%",
+  "flashcards": [
+    {
+      "q": "Compare genetic, community (ecosystem), and landscape diversity as levels of biodiversity.",
+      "q_id": "u8_t7_f1",
+      "a": "Genetic diversity is the variation within a single population; community diversity depends on interactions between different species in an area; landscape diversity involves multiple interacting ecosystems within a region, threatened by fragmentation."
+    },
+    {
+      "q": "What are the percentage impacts of the four major causes of extinction listed in conservation biology?",
+      "q_id": "u8_t7_f2",
+      "a": "The major causes and percentages of species affected are habitat loss (85%), exotic species (50%), pollution (24%), and overexploitation (17%)."
+    },
+    {
+      "q": "What are the three core principles of restoration ecology?",
+      "q_id": "u8_t7_f3",
+      "a": "The three principles are: (1) begin restoration as soon as possible before fragments are lost, (2) understand natural history to use biological techniques that mimic natural processes, and (3) aim for sustainable development."
+    }
+  ],
+  "outline_blanks": "Biodiversity conservation is prioritized at genetic, community, and landscape levels, with [[habitat loss]] being the leading cause of extinction at 85%. Techniques focus on preserving [[keystone]] species that maintain community structure, avoiding fragmentation that exacerbates the [[edge effect]], and restoring habitats using sustainable principles."
+}

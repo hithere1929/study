@@ -1,0 +1,26 @@
+{
+  "id": "u7_t11",
+  "title": "Muscle Contraction",
+  "cheat_card": [
+    "Muscular tissue contains contractile <b>actin</b> (thin) and <b>myosin</b> (thick) filaments. Skeletal muscle is voluntary and striated; smooth muscle is involuntary and non-striated; cardiac muscle is striated, involuntary, and joined by <b>intercalated disks</b>.",
+    "<b>Neuromuscular Junction</b>: Action potential at motor neuron axon terminal triggers calcium influx &rarr; exocytosis of <b>acetylcholine (ACh)</b> &rarr; binds sarcolemma receptors &rarr; propagates action potential down <b>T-tubules</b>.",
+    "<b>Sarcoplasmic Reticulum (SR)</b>: Action potential in T-tubules activates receptors to open calcium release channels, releasing stored <b>calcium (Ca2+)</b> into the sarcoplasm.",
+    "<b>Sliding Filament Theory</b>: Calcium binds to <b>troponin</b>, which shifts <b>tropomyosin</b> to uncover myosin-binding sites on actin. Myosin heads form <b>cross-bridges</b> with actin, perform a power stroke (releasing ADP/Pi), bind ATP to detach, and hydrolyze it to cock back for another cycle."
+  ],
+  "memory_anchor": "<h3>Skeletal Muscle Contraction Flow</h3><ol><li><b>ACh Release</b> at Neuromuscular Junction &rarr; Muscle Action Potential.</li><li><b>Action Potential</b> travels down <b>T-tubules</b> &rarr; Calcium release from <b>Sarcoplasmic Reticulum</b>.</li><li><b>Calcium binds Troponin</b> &rarr; <b>Tropomyosin</b> shifts &rarr; Actin active sites exposed.</li><li><b>Cross-bridges form</b> (Myosin binds Actin) &rarr; Power stroke slides filaments &rarr; Sarcomere contracts.</li></ol>",
+  "flashcards": [
+    {
+      "q": "How does a neuronal impulse trigger the release of calcium within a muscle cell?",
+      "a": "The action potential reaches the neuromuscular junction, triggering the exocytosis of acetylcholine (ACh). ACh binds to receptors on the muscle sarcolemma, generating a muscle action potential. This potential propagates down the T-tubules, activating voltage-sensitive receptors that open calcium release channels in the sarcoplasmic reticulum, releasing calcium into the sarcoplasm."
+    },
+    {
+      "q": "Describe the roles of troponin and tropomyosin in regulating muscle contraction.",
+      "a": "In relaxed muscle, tropomyosin covers the myosin-binding sites on actin, blocking cross-bridge formation. When calcium is released, it binds to troponin, causing a conformational change that pulls tropomyosin away from the active sites. This exposes the binding sites, allowing myosin heads to bind to actin."
+    },
+    {
+      "q": "Outline the steps of the cross-bridge cycle (sliding filament theory) during contraction.",
+      "a": "1) Myosin heads bind to the exposed active sites on actin to form cross-bridges. 2) The power stroke occurs as ADP and inorganic phosphate are released, causing the myosin head to bend and pull the actin filament inward. 3) ATP binds to the myosin head, causing it to detach from actin. 4) ATP hydrolysis (ATP -> ADP + Pi) cock-charges the myosin head back into its high-energy state."
+    }
+  ],
+  "outline_blanks": "Muscle contraction is initiated when an action potential travels down [[T-tubules]] to trigger calcium release from the [[sarcoplasmic reticulum]]. Calcium binds to [[troponin]], which shifts [[tropomyosin]] to expose active sites on actin. Myosin heads then form [[cross-bridges]] and perform a power stroke to contract."
+}

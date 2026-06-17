@@ -1,0 +1,23 @@
+{
+  "unit": 8,
+  "page": 86,
+  "filename": "Unit_8_5.txt",
+  "section_title": "Cellular Respiration",
+  "page_num_in_file": 14,
+  "slide_title": "Inside the Mitochondria",
+  "original_text": "Inside the Mitochondria",
+  "explanation": "This transition slide marks the shift to reactions occurring inside the mitochondria, which include the preparatory reaction, citric acid cycle, and electron transport chain.",
+  "questions": [
+    {
+      "q": "Which of the following processes does NOT occur inside the mitochondria?",
+      "opts": [
+        "Preparatory reaction",
+        "Citric acid cycle",
+        "Electron transport chain",
+        "Glycolysis"
+      ],
+      "a": 3,
+      "exp": "Glycolysis occurs outside the mitochondria, in the cytoplasm. The prep reaction, citric acid cycle, and ETC all occur inside the mitochondria."
+    }
+  ]
+}

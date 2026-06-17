@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 154,
+  "filename": "Unit_4_8.txt",
+  "section_title": "Mendelian Inheritance P1 - Mendelian Genetics",
+  "page_num_in_file": 9,
+  "slide_title": "Mendel’s Monohybrid Cross",
+  "original_text": "Mendel’s Monohybrid Cross",
+  "explanation": "Mendel's monohybrid cross experiments involved breeding individuals that differed in only one trait to observe how traits are inherited and passed down through the P, F1, and F2 generations.",
+  "questions": [
+    {
+      "q": "What type of cross did Mendel perform to examine the inheritance of a single trait?",
+      "opts": [
+        "Dihybrid cross",
+        "Monohybrid cross",
+        "Testcross",
+        "Trihybrid cross"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because Mendel's monohybrid cross is designed to study the inheritance pattern of a single trait."
+    }
+  ]
+}

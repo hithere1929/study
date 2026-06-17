@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 63,
+  "filename": "Unit_8_4.txt",
+  "section_title": "Photosynthesis",
+  "page_num_in_file": 10,
+  "slide_title": "Plants as Solar Energy Converters¨To Summarize:¤PS II:nConsists of a pigment complex and electron acceptorsnReceives electrons from the splitting of waternOxygen is released as a gas¤Electron transport chain:nConsists of cytochrome complexes and plastoquinonenCarries electrons between PS II and PS InAlso pumps H+from the stroma into the thylakoid space¤PS I:nHas a pigment complex and electron acceptorsnAdjacent to the enzyme that reduces NADP+to NADPH¤ATP synthase complex:nHas a channel for H+flownH+ flow through the channel drives ATP synthase to join ADP and Pi",
+  "original_text": "Plants as Solar Energy Converters¨To Summarize:¤PS II:nConsists of a pigment complex and electron acceptorsnReceives electrons from the splitting of waternOxygen is released as a gas¤Electron transport chain:nConsists of cytochrome complexes and plastoquinonenCarries electrons between PS II and PS InAlso pumps H+from the stroma into the thylakoid space¤PS I:nHas a pigment complex and electron acceptorsnAdjacent to the enzyme that reduces NADP+to NADPH¤ATP synthase complex:nHas a channel for H+flownH+ flow through the channel drives ATP synthase to join ADP and Pi",
+  "explanation": "This slide summarizes the structural components of the light reactions: 1) Photosystem II (PS II): composed of a pigment complex and electron acceptors; it receives electrons from split water molecules and releases oxygen gas. 2) Electron Transport Chain (ETC): composed of cytochrome complexes and plastoquinone; it transfers electrons from PS II to PS I while pumping H+ from the stroma into the thylakoid space. 3) Photosystem I (PS I): contains a pigment complex and electron acceptors, positioned next to the enzyme that reduces NADP+ to NADPH. 4) ATP Synthase Complex: contains an ion channel that allows H+ to flow down their gradient, driving the enzymatic joining of ADP and inorganic phosphate (Pi) to produce ATP.",
+  "questions": [
+    {
+      "q": "Which components make up the electron transport chain in the thylakoid membrane?",
+      "opts": [
+        "Cytochrome complexes and plastoquinone",
+        "NADP+ reductase and ATP synthase",
+        "Chlorophyll a and stomata",
+        "Water molecules and oxygen gas"
+      ],
+      "a": 0,
+      "exp": "The notes state that the Electron transport chain 'Consists of cytochrome complexes and plastoquinone.'"
+    },
+    {
+      "q": "What drives the ATP synthase complex to produce ATP from ADP and Pi?",
+      "opts": [
+        "The direct absorption of green light wavelengths",
+        "The flow of H+ through its channel",
+        "The splitting of carbon dioxide gas",
+        "The accumulation of NADPH in the thylakoid space"
+      ],
+      "a": 1,
+      "exp": "The notes state that the ATP synthase complex 'Has a channel for H+ flow' and 'H+ flow through the channel drives ATP synthase to join ADP and Pi.'"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 155,
+  "filename": "Unit_7_8.txt",
+  "section_title": "Nervous System",
+  "page_num_in_file": 17,
+  "slide_title": "The Central Nervous System: RAS & Limbic System",
+  "original_text": "The Central Nervous System The Reticular Activating System (RAS) A complex network of: nNuclei (masses of gray matter) nNerve fibers that extend the length of the brain stem The reticular formation is a major component of the RAS The RAS arouses the cerebrum via the thalamus and causes a person to be alert Limbic System Complex network of tracts and  nuclei  Incorporates the medial portions of the cerebral lobes, the basal nuclei, and the diencephalon Integrates higher mental functions and primitive emotions Important structures in the limbic system are the hippocampusand the amygdala",
+  "explanation": "This slide describes two major functional networks: 1) Reticular Activating System (RAS): a network of gray matter nuclei and nerve fibers running through the brain stem. Its major component is the reticular formation. The RAS filters sensory input and arouses the cerebrum via the thalamus, causing alertness and maintaining consciousness. 2) Limbic System: a network of tracts and nuclei incorporating parts of the cerebral lobes, basal nuclei, and diencephalon. It integrates higher mental functions (learning/reasoning) with primitive emotions (fear, anger, pleasure). Two key limbic structures are the hippocampus (memory) and the amygdala (emotion).",
+  "questions": [
+    {
+      "q": "What is the primary function of the Reticular Activating System (RAS)?",
+      "opts": [
+        "It controls the secretions of the pituitary gland.",
+        "It arouses the cerebrum via the thalamus to maintain alertness and consciousness.",
+        "It serves as a pathway for reflex arcs in the spinal cord.",
+        "It coordinates the five tastes on the tongue."
+      ],
+      "a": 1,
+      "exp": "The RAS is responsible for filtering sensory information and triggering cortical arousal, keeping a person alert and awake."
+    },
+    {
+      "q": "Which system integrates higher mental functions and primitive emotions, and what are two of its key structures?",
+      "opts": [
+        "Somatic system; pons and medulla",
+        "Limbic system; hippocampus and amygdala",
+        "Autonomic system; sympathetic and parasympathetic nerves",
+        "Tracheal system; trachea and air sacs"
+      ],
+      "a": 1,
+      "exp": "The limbic system integrates higher cognitive functions with emotional states, and contains the hippocampus and the amygdala."
+    }
+  ]
+}

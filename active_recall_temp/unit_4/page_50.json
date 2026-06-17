@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 50,
+  "filename": "Unit_4_3.txt",
+  "section_title": "DNA Replication, Transcription, Translation",
+  "page_num_in_file": 29,
+  "slide_title": "Translation",
+  "original_text": "Translation\nProcess by which protein is constructed from mRNA instructions; uses all forms of RNA; occurs in cytosol\n1.Initiation -2 ribosomal subunits, tRNA, mRNA join together ¤Enzymes attach corresponding amino acid to end of each tRNAmolecule according to genetic code¤Opposite end of tRNAcontains anticodon: 3 nucleotide sequence that is complementary to codon in mRNA¤Ex: tRNAwith anticodon UAC will bind to mRNA codon AUG and carry amino acid methionine (start)\n2.Next tRNApairs its anticodon with mRNA codon¤Ribosome detaches methionine from first tRNA; forms peptide bond between it and next amino acid¤First tRNAleaves ribosome¤Ribosome moves to next codon in sequence\n3.Elongation-Polypeptide chain continues to grow¤tRNAscome in carrying amino acids¤Translocation-Growing chain transferred from one tRNAto amino acid attached to next tRNA\n4.Termination-Ribosome reaches STOP codon; newly synthesized polypeptide is released\n5.Translational components come apart; free to translate another mRNA",
+  "explanation": "Translation is the cellular process by which proteins are synthesized from the instructions on an mRNA molecule. This process occurs in the cytosol and requires all three forms of RNA (mRNA, tRNA, and rRNA). Translation proceeds in five stages: 1) Initiation: The small and large ribosomal subunits, mRNA, and an initiator tRNA join together. Specific enzymes attach corresponding amino acids to their respective tRNAs. The anticodon of the tRNA binds to the complementary codon on mRNA; for example, an initiator tRNA with the anticodon UAC binds to the start codon AUG and carries the amino acid methionine. 2) Next tRNA pairing: A second tRNA binds to the adjacent mRNA codon. The ribosome releases the methionine from the first tRNA and catalyzes a peptide bond between it and the second amino acid. The first tRNA exits, and the ribosome advances. 3) Elongation: As the ribosome translocates along the mRNA, new tRNAs enter carrying amino acids, and the growing polypeptide chain is continuously transferred to the newly arrived amino acid. 4) Termination: When the ribosome reaches a STOP codon, translation stops and the completed polypeptide is released. 5) Disassembly: The translational components dissociate and are recycled to translate other mRNA molecules.",
+  "questions": [
+    {
+      "q": "During initiation, what mRNA codon binds to the tRNA with the anticodon UAC, and what amino acid does it carry?",
+      "opts": [
+        "AUG; glycine",
+        "AUG; methionine",
+        "UAC; methionine",
+        "UAA; stop"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states 'tRNA with anticodon UAC will bind to mRNA codon AUG and carry amino acid methionine.' The other options are incorrect."
+    },
+    {
+      "q": "What is the step during translation elongation where the growing polypeptide chain is transferred to the amino acid on the incoming tRNA, and the ribosome moves to the next codon?",
+      "opts": [
+        "Transcription",
+        "Termination",
+        "Translocation",
+        "Splicing"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide defines this elongation movement as 'Translocation - Growing chain transferred from one tRNA to amino acid attached to next tRNA.' Splicing is mRNA processing, termination is the end step, and transcription is RNA synthesis."
+    }
+  ]
+}

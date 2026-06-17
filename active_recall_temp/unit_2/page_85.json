@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 85,
+  "filename": "Unit_2_3.txt",
+  "section_title": "Movement of Molecules",
+  "page_num_in_file": 11,
+  "slide_title": "Passive Transport -Osmosis",
+  "original_text": "Passive Transport -Osmosis¨Osmosis–The diffusion of water across a semipermeable membrane from high to low concentration¤Water flows from areas of high osmotic pressure to low osmotic pressure\nnThis is the process by which wateris absorbed by the kidneys in the body &\nnTaken up by capillaries in tissues &\nnHow water crosses membranes",
+  "explanation": "Osmosis is a specialized form of passive transport defined as the diffusion of water across a semipermeable membrane from an area of higher water concentration to an area of lower water concentration. Water flows from areas of high osmotic pressure to low osmotic pressure. Osmosis is the primary mechanism by which water crosses membranes, is absorbed by the kidneys, and is taken up by capillaries in tissues.",
+  "questions": [
+    {
+      "q": "What is osmosis?",
+      "opts": [
+        "The diffusion of solutes across a selectively permeable membrane.",
+        "The movement of water across a semipermeable membrane from high to low water concentration.",
+        "The active transport of water using ATP.",
+        "The movement of gases from high to low pressure."
+      ],
+      "a": 1,
+      "exp": "Osmosis is specifically the passive diffusion of water molecules across a semipermeable membrane from an area of higher water concentration to lower water concentration."
+    },
+    {
+      "q": "Which of the following processes in the human body relies on osmosis?",
+      "opts": [
+        "The synthesis of proteins by ribosomes",
+        "The replication of DNA in the nucleus",
+        "The absorption of water by the kidneys and uptake by tissue capillaries",
+        "The electrical conduction of nerve impulses"
+      ],
+      "a": 2,
+      "exp": "Water absorption by the kidneys and capillary uptake in tissues are major physiological processes driven by osmosis."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 119,
+  "filename": "Unit_8_7.txt",
+  "section_title": "Conservation of Biodiversity",
+  "page_num_in_file": 9,
+  "slide_title": "Value of Biodiversity¨Direct Value¤Agricultural ValuenWheat, corn, and rice are derived from wild plants that were modified to increase their yieldnNatural predators of plant pests have been introduced to agricultural systems to reduce the impact of the pest on plant yields¤Consumptive Use ValuenHumans have had success cultivating crops, domesticating animals, growing trees in plantations, etc.nHowever, most freshwater and marine harvests must be hunted, rather than grown via aquaculture, for human consumptionnAdditional products associated with the environment are sold commerciallynWild fruits, vegetables, skins, fibers, beeswax and seaweednProfits from the sale of these products provide an economic benefit to the human population",
+  "original_text": "Value of Biodiversity¨Direct Value¤Agricultural ValuenWheat, corn, and rice are derived from wild plants that were modified to increase their yieldnNatural predators of plant pests have been introduced to agricultural systems to reduce the impact of the pest on plant yields¤Consumptive Use ValuenHumans have had success cultivating crops, domesticating animals, growing trees in plantations, etc.nHowever, most freshwater and marine harvests must be hunted, rather than grown via aquaculture, for human consumptionnAdditional products associated with the environment are sold commerciallynWild fruits, vegetables, skins, fibers, beeswax and seaweednProfits from the sale of these products provide an economic benefit to the human population",
+  "explanation": "This slide details the agricultural and consumptive use values of biodiversity. Agricultural value: major staple crops like wheat, corn, and rice were originally bred from wild plants. Additionally, introducing natural predators of agricultural pests serves as a biological control to protect crop yields without chemical pesticides. Consumptive use value: while humans cultivate crops and domesticate livestock, the majority of freshwater and marine seafood is still harvested ('hunted') from wild populations rather than produced via aquaculture. Additionally, wild products gathered from natural ecosystems—such as wild fruits, vegetables, skins, fibers, beeswax, and seaweed—are sold commercially, providing substantial economic benefits.",
+  "questions": [
+    {
+      "q": "What is a major consumptive use value of aquatic biodiversity highlighted in the notes?",
+      "opts": [
+        "Most freshwater and marine harvests must be hunted from the wild for human consumption.",
+        "All fish are grown using artificial aquaculture methods.",
+        "Water is evaporated directly into the stroma of crops.",
+        "Fishes are used exclusively to produce agricultural fertilizers."
+      ],
+      "a": 0,
+      "exp": "The notes state: 'most freshwater and marine harvests must be hunted, rather than grown via aquaculture, for human consumption.'"
+    },
+    {
+      "q": "How is agricultural value enhanced by wild species according to this slide?",
+      "opts": [
+        "Wild plants are burned to release carbon dioxide for crops.",
+        "Natural predators of plant pests are introduced to reduce pest impacts on yields.",
+        "Crops are crossed with seaweed to survive droughts.",
+        "Essential amino acids are extracted from wild soil bacteria."
+      ],
+      "a": 1,
+      "exp": "The notes state that 'Natural predators of plant pests have been introduced to agricultural systems to reduce the impact of the pest on plant yields.'"
+    }
+  ]
+}

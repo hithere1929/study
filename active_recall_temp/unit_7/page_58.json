@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 58,
+  "filename": "Unit_7_4.txt",
+  "section_title": "Plant Reproduction",
+  "page_num_in_file": 4,
+  "slide_title": "Reproductive Strategies: Microspores & Megaspores",
+  "original_text": "Reproductive Strategies A flower produces two types of spores Microspore-Male gametophyte Undergoes mitosis Becomes pollen grain Megaspore-Female gametophyte Undergoes mitosis Becomes the female gametophyte, an embryo sac within an ovulewithin an ovary Ovule becomes a seed Ovary becomes a fruit",
+  "explanation": "Flowering plants are heterosporous, producing two distinct types of spores: 1) Microspores: male spores that develop in the anther. A microspore undergoes mitosis to become a pollen grain, which is the male gametophyte. 2) Megaspores: female spores that develop in the ovary. A megaspore undergoes mitosis to become the female gametophyte (embryo sac), which is housed inside an ovule within the ovary. After fertilization, the ovule matures into a seed, and the ovary develops into a fruit.",
+  "questions": [
+    {
+      "q": "What structure is formed when a microspore undergoes mitosis?",
+      "opts": [
+        "An embryo sac",
+        "A seed",
+        "A pollen grain",
+        "A fruit"
+      ],
+      "a": 2,
+      "exp": "The microspore undergoes mitosis to become a pollen grain, which represents the male gametophyte."
+    },
+    {
+      "q": "Following fertilization, what do the ovule and the ovary become, respectively?",
+      "opts": [
+        "The seed coat and the embryo",
+        "The pollen grain and the embryo sac",
+        "The seed and the fruit",
+        "The endosperm and the zygote"
+      ],
+      "a": 2,
+      "exp": "The ovule matures to become the seed, and the ovary matures to become the fruit."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "option_a": {
+    "prompt": "Describe the process of speciation, distinguishing between allopatric and sympatric speciation, and explain the roles of prezygotic and postzygotic isolating mechanisms in maintaining species boundaries.",
+    "keywords": [
+      "allopatric speciation",
+      "sympatric speciation",
+      "prezygotic",
+      "postzygotic",
+      "geographic isolation",
+      "polyploidy",
+      "reproductive isolation",
+      "hybrid sterility"
+    ],
+    "model_answer": "Speciation is the splitting of one species into two or more new species. Allopatric speciation occurs when two populations of a species become geographically isolated and diverge over time due to different selection pressures. In contrast, sympatric speciation occurs without geographic isolation, often in plants through polyploidy (such as autoploidy or alloploidy), which immediately restricts breeding. Both modes rely on reproductive isolation to maintain species boundaries. This isolation is achieved via prezygotic isolating mechanisms (like habitat, temporal, behavioral, mechanical, or gamete isolation), which prevent mating attempts or fertilization. If mating occurs, postzygotic mechanisms (such as hybrid inviability or hybrid sterility) prevent hybrid offspring from developing or reproducing, ensuring the gene pools remain distinct."
+  },
+  "option_b": {
+    "prompt": "Explain the concept of Hardy-Weinberg Equilibrium, state the five conditions required to maintain it, and describe how deviations from these conditions lead to microevolution.",
+    "keywords": [
+      "hardy-weinberg equilibrium",
+      "mutations",
+      "gene flow",
+      "genetic drift",
+      "nonrandom mating",
+      "natural selection",
+      "bottleneck",
+      "founder effect",
+      "allele frequencies"
+    ],
+    "model_answer": "The Hardy-Weinberg equilibrium states that allele frequencies in a population remain constant over time, indicating that no evolution is occurring. To maintain this equilibrium, five conditions must be met: no mutations, no migration (gene flow), random mating, no genetic drift, and no natural selection. In wild populations, these conditions are never fully met, and deviations lead to microevolution. For instance, random mutations introduce new alleles. Gene flow moves alleles between populations. Genetic drift causes chance changes in allele frequencies, particularly in small populations, often following a bottleneck event or a founder effect. Furthermore, nonrandom mating alters genotype frequencies, and natural selection favors individuals with higher fitness, shifting allele frequencies toward adaptive traits."
+  }
+}

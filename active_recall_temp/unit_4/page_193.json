@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 193,
+  "filename": "Unit_4_9.txt",
+  "section_title": "Mendelian Inheritance P2 - Genetic Disorders",
+  "page_num_in_file": 19,
+  "slide_title": "X-Linked Inheritance\nIt was strange to Morgan’s team that even though the inheritance followed the 3:1 of regular autosomal dominance, only males ever had white eyes!Males that express a trait because they only receive one copy are called Hemizygous",
+  "original_text": "X-Linked Inheritance\nIt was strange to Morgan’s team that even though the inheritance followed the 3:1 of regular autosomal dominance, only males ever had white eyes!Males that express a trait because they only receive one copy are called Hemizygous",
+  "explanation": "During their fruit fly experiments, Thomas Hunt Morgan's team noticed that while eye color inheritance followed a general 3:1 dominant-to-recessive ratio, only male flies expressed the white-eyed phenotype. This occurred because the eye color gene is X-linked. Because males only have a single X chromosome (XY), they have only one copy of X-linked genes. Males are therefore called hemizygous for these traits, meaning any recessive allele on their single X chromosome will be expressed.",
+  "questions": [
+    {
+      "q": "What term describes males who express X-linked recessive traits because they only have a single X chromosome?",
+      "opts": [
+        "Homozygous",
+        "Heterozygous",
+        "Hemizygous",
+        "Codominant"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide defines: 'Males that express a trait because they only receive one copy are called Hemizygous'."
+    },
+    {
+      "q": "Why did only male fruit flies show white eyes in Morgan's initial crosses?",
+      "opts": [
+        "The white eye allele is lethal in females.",
+        "The gene for eye color is on the Y chromosome.",
+        "The gene for eye color is X-linked, so males (XY) express the recessive trait with only one copy.",
+        "Male flies undergo more frequent mutations."
+      ],
+      "a": 2,
+      "exp": "Option C is correct because X-linked eye color alleles are on the X chromosome; males have only one X chromosome (XY) and show the recessive eye color if that single chromosome carries the allele."
+    }
+  ]
+}

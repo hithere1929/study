@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 53,
+  "filename": "Unit_7_3.txt",
+  "section_title": "Plant Control of Growth Responses",
+  "page_num_in_file": 18,
+  "slide_title": "Plant Responses: Flowering Photoperiods",
+  "original_text": "Plant Responses Flowering Flowering plants can be divided into three groups based on their flowering status. nShort-day plants flower when the day length is shorter than a critical length nLong-day plants flower when the day length is longer than a critical length nDay-neutral plants are not dependent on day length for flowering Some plants may require a specific sequence of day lengths in order to flower",
+  "explanation": "Flowering plants are categorized into three groups based on how photoperiod affects their flowering: 1) Short-day plants: flower when the day length is shorter (meaning the continuous dark period is longer) than a critical threshold. 2) Long-day plants: flower when the day length is longer (continuous dark period is shorter) than a critical threshold. 3) Day-neutral plants: flower independently of day length. Additionally, some plants require a specific sequence of photoperiods to trigger flowering.",
+  "questions": [
+    {
+      "q": "What characterizes short-day plants?",
+      "opts": [
+        "They only flower when the day length is longer than a critical length.",
+        "They only flower when the day length is shorter than a critical length.",
+        "They do not require light for photosynthesis.",
+        "They flower only during the summer solstice."
+      ],
+      "a": 1,
+      "exp": "Short-day plants flower when the day length is shorter than a critical length (corresponding to a long night)."
+    },
+    {
+      "q": "Which plants are unaffected by day length when it comes to initiating flowering?",
+      "opts": [
+        "Short-day plants",
+        "Long-day plants",
+        "Day-neutral plants",
+        "Sequence-dependent plants"
+      ],
+      "a": 2,
+      "exp": "Day-neutral plants are not dependent on day length to trigger flowering."
+    }
+  ]
+}

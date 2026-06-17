@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 14,
+  "filename": "Unit_5_1.txt",
+  "section_title": "Darwin & Evidence for Evolution",
+  "page_num_in_file": 14,
+  "slide_title": "Darwin\u2019s Theory of Evolution",
+  "original_text": "Darwin\u2019s Theory of Evolution\n\u00a8Darwin explained that his ideas on natural selection could be observed in human artificial selection\n\u00a4A breeder chooses which traits to perpetuate and selects the plants and animals that will reproduce\n\u00a4All dogs are descended from the gray wolf\n   nBegan to be domesticated about 14,000 years ago.\n   nThe process of diversification led to extreme phenotypic differences\n   nThe wolves under domestication were separated from other wolves.\n   nEach human tribe selected for whatever traits appealed to them.\n\u00a4Artificial selection in plants:\n   nThe following vegetables are derived from a single species, Brassica oleracea:\n   nChinese cabbage, Brussel sprouts, and Kohlrabi.",
+  "explanation": "Darwin noted that the dynamics of natural selection could be illustrated by human artificial selection. In artificial selection, a breeder determines which traits to perpetuate by selecting specific plants and animals to reproduce. An example of this is the domestic dog; all modern dogs descended from the gray wolf, which was domesticated approximately 14,000 years ago. Domestication isolated these wolves from wild populations, and human tribes selectively bred them for traits they preferred, leading to extreme phenotypic differences. Artificial selection is also evident in agriculture; plants like Chinese cabbage, Brussels sprouts, and Kohlrabi were all cultivated from a single wild mustard species, Brassica oleracea.",
+  "questions": [
+    {
+      "q": "Approximately how long ago did the domestication of dogs from their gray wolf ancestors begin?",
+      "opts": [
+        "1,400 years ago",
+        "14,000 years ago",
+        "140,000 years ago",
+        "4,000 years ago"
+      ],
+      "a": 1,
+      "exp": "The notes state that dogs began to be domesticated from the gray wolf about 14,000 years ago."
+    },
+    {
+      "q": "Which of the following vegetables are derived from the single plant species Brassica oleracea through artificial selection?",
+      "opts": [
+        "Carrots, potatoes, and onions",
+        "Chinese cabbage, Brussels sprouts, and Kohlrabi",
+        "Corn, wheat, and barley",
+        "Tomatoes, peppers, and eggplants"
+      ],
+      "a": 1,
+      "exp": "The slide specifies that Chinese cabbage, Brussels sprouts, and Kohlrabi are derived from the single species Brassica oleracea."
+    }
+  ]
+}

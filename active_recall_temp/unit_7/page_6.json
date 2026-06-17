@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 6,
+  "filename": "Unit_7_1.txt",
+  "section_title": "Plant Structure & Organization",
+  "page_num_in_file": 6,
+  "slide_title": "Tissues of Flowering Plants: Meristems",
+  "original_text": "Tissues of Flowering Plants Meristematic tissue enables flowering plants to grow throughout their lifetime Apical meristems at the tips of stems and roots increase the length of these tissues Apical meristem produces three types of meristem, which produce three specialized tissues Epidermal tissue Ground tissue Vascular tissue",
+  "explanation": "Flowering plants display indeterminate growth throughout their lifetimes, a capability made possible by meristematic tissue. Apical meristems, found at the tips of roots and stems, are responsible for primary growth, which increases the length of these organs. The apical meristem gives rise to three transitional meristems, which subsequently differentiate into three specialized mature tissue systems: epidermal tissue (outer protective layer), ground tissue (fills the interior of the plant and performs multiple metabolic functions), and vascular tissue (transports fluids and nutrients).",
+  "questions": [
+    {
+      "q": "What specific tissue type allows flowering plants to grow throughout their entire lifetime?",
+      "opts": [
+        "Vascular tissue",
+        "Meristematic tissue",
+        "Ground tissue",
+        "Epidermal tissue"
+      ],
+      "a": 1,
+      "exp": "Meristematic tissue consists of actively dividing cells that permit continuous, lifelong growth in flowering plants."
+    },
+    {
+      "q": "Where are apical meristems located, and what is their primary function?",
+      "opts": [
+        "At the nodes of stems; to produce new branches",
+        "Under the bark of woody plants; to increase plant width",
+        "At the tips of stems and roots; to increase the length of these structures",
+        "Within the vascular bundles; to facilitate transport of water and food"
+      ],
+      "a": 2,
+      "exp": "Apical meristems are situated at the tips of stems and roots, where they divide to extend the length of the plant (primary growth)."
+    }
+  ]
+}

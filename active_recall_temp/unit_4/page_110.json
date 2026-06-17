@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 110,
+  "filename": "Unit_4_6.txt",
+  "section_title": "Meiosis",
+  "page_num_in_file": 4,
+  "slide_title": "Intro to Meiosis¨Process of nuclear division that reduces chromosome number in new cells to half original cell¨Meiosisproduces gametes –haploid reproductive cells ¤Human gametes: sperm and egg¤Each contain 1n chromosomes (23)¤Fusion of sperm & egg produces 2n zygotewith 46 chromosomes¨Cells still undergo G1, S and G2 phases of interphase in preparation of first division ¨Cells will divide twice:¤Diploid (2n) cells produce 4 haploid (1n) cells; rather than 2 diploid cells as in mitosis¨First cell division: meiosis I¨Second cell division: meiosis II",
+  "original_text": "Intro to Meiosis¨Process of nuclear division that reduces chromosome number in new cells to half original cell¨Meiosisproduces gametes –haploid reproductive cells ¤Human gametes: sperm and egg¤Each contain 1n chromosomes (23)¤Fusion of sperm & egg produces 2n zygotewith 46 chromosomes¨Cells still undergo G1, S and G2 phases of interphase in preparation of first division ¨Cells will divide twice:¤Diploid (2n) cells produce 4 haploid (1n) cells; rather than 2 diploid cells as in mitosis¨First cell division: meiosis I¨Second cell division: meiosis II",
+  "explanation": "Meiosis is a form of nuclear division that reduces the chromosome number in the daughter cells to half of that in the parent cell. It produces gametes, which are haploid (1n) reproductive cells (sperm and egg in humans), each carrying 23 chromosomes. Fertilization, which is the fusion of a sperm and egg, forms a diploid (2n) zygote with 46 chromosomes. Prior to dividing, meiotic cells undergo interphase (G1, S, and G2 phases). Meiosis involves two successive cell divisions: meiosis I and meiosis II. As a result, a single diploid (2n) cell divides to produce four haploid (1n) daughter cells, in contrast to mitosis which yields two diploid cells.",
+  "questions": [
+    {
+      "q": "What is the chromosome number in human gametes (sperm and egg) and the resulting zygote, respectively?",
+      "opts": [
+        "Gametes: 46 (2n); Zygote: 23 (1n)",
+        "Gametes: 23 (1n); Zygote: 46 (2n)",
+        "Gametes: 46 (2n); Zygote: 92 (4n)",
+        "Gametes: 11.5 (0.5n); Zygote: 23 (1n)"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states that human gametes 'Each contain 1n chromosomes (23)' and that the 'Fusion of sperm & egg produces 2n zygote with 46 chromosomes.' The other options contain incorrect chromosome numbers."
+    },
+    {
+      "q": "How many daughter cells are produced at the end of meiosis, and what is their ploidy level?",
+      "opts": [
+        "Two diploid (2n) daughter cells",
+        "Four haploid (1n) daughter cells",
+        "Four diploid (2n) daughter cells",
+        "Two haploid (1n) daughter cells"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide explains that during meiosis 'Cells will divide twice' resulting in 'Diploid (2n) cells produce 4 haploid (1n) cells.' Mitosis produces two diploid cells."
+    }
+  ]
+}

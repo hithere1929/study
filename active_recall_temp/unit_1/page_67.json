@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 67,
+  "filename": "Unit_1_5.txt",
+  "section_title": "Biotechnology and Bioethics",
+  "page_num_in_file": 2,
+  "slide_title": "The Biologist",
+  "original_text": "\u2013What is a biologist?\u2013Are all biologists scientists?\u2013Is education necessary to be a biologist?\u2013Why do scientists, especially biologists, feel an ethical responsibility to the world around them?",
+  "explanation": "This slide poses introductory discussion questions about the role of a biologist. It asks: 'What is a biologist?', 'Are all biologists scientists?', 'Is education necessary to be a biologist?', and 'Why do scientists, especially biologists, feel an ethical responsibility to the world around them?'",
+  "questions": [
+    {
+      "q": "Which question is raised on this slide regarding the career and ethical role of biologists?",
+      "opts": [
+        "How do you isolate DNA?",
+        "Why do scientists, especially biologists, feel an ethical responsibility to the world around them?",
+        "How many species exist in Domain Eukarya?",
+        "What is the magnification of the ocular lens?"
+      ],
+      "a": 1,
+      "exp": "This exact question is listed on the slide: 'Why do scientists, especially biologists, feel an ethical responsibility to the world around them?'"
+    }
+  ]
+}

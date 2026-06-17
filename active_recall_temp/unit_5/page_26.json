@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 26,
+  "filename": "Unit_5_2.txt",
+  "section_title": "How Populations Evolve",
+  "page_num_in_file": 5,
+  "slide_title": "Genes, Populations, & Evolution",
+  "original_text": "Genes, Populations, & Evolution\n\u00a8A populationis all the members of a single species occupying a particular area at the same time.\n\u00a8Diversity exists among members of a population.\n\u00a8Population genetics is the study of this diversity in terms of allele differences.\n\u00a4Evaluates the diversity of a population by studying genotype and phenotype frequencies over time\n\u00a8In the 1930s, population geneticists began to describe variations in a population in terms of alleles\n\u00a8Microevolution pertains to evolutionary changes within a population.\n\u00a4Various alleles at all the gene loci in all individuals make up the gene pool of the population.\n\u00a4The gene pool of a population can be described in terms of:\n  nGenotype frequencies\n  nAllele frequencies",
+  "explanation": "This page introduces the foundation of population genetics. A population is defined as all the members of a single species occupying a particular area at the same time. Genetic diversity is inherent in populations, and population genetics is the scientific study of this diversity in terms of allele differences, evaluating changes in genotype and phenotype frequencies over time. In the 1930s, geneticists began describing these population variations specifically using alleles. Microevolution refers to evolutionary changes that occur within a population. The gene pool is the collection of all the alleles at all gene loci across all individuals in that population, and it can be quantitatively described using genotype frequencies and allele frequencies.",
+  "questions": [
+    {
+      "q": "What is the definition of a population in the context of genetics and evolution?",
+      "opts": [
+        "All the different species living in a particular area at different times",
+        "All members of a single species occupying a particular area at the same time",
+        "A group of organisms that are genetically identical",
+        "The total number of genes in a particular habitat"
+      ],
+      "a": 1,
+      "exp": "The notes define a population as 'all the members of a single species occupying a particular area at the same time.'"
+    },
+    {
+      "q": "What makes up the gene pool of a population?",
+      "opts": [
+        "The geographic boundaries that isolate a species",
+        "The somatic cells that undergo mitosis",
+        "Various alleles at all the gene loci in all individuals of the population",
+        "The external physical traits determined by environmental selection pressures"
+      ],
+      "a": 2,
+      "exp": "The gene pool consists of the collection of all the various alleles at all the gene loci across all the individuals in a population."
+    }
+  ]
+}

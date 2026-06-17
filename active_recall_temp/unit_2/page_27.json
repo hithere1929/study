@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 27,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 27,
+  "slide_title": "3: Heat Capacity",
+  "original_text": "3: Heat Capacity¨Water has high heat capacity¤Ability to absorb or release relatively large amounts of heat energy with only a slight change in temperature¤Due to H bonding –energy is absorbed to break H bonds and is released when H bonds form¨First, energy input breaks H bonds, then increases movement of moleculescausing increase in temperature¨When temperature drops, H bonds re-form and release heat energy\nEx: Heat from sun absorbed by water which cools the air; at night, gradual cooling of water warms the air",
+  "explanation": "Water possesses a high heat capacity, which is the ability to absorb or release relatively large quantities of heat energy while undergoing only a minimal change in temperature. This property is due to hydrogen bonding. When thermal energy is added to water, the energy input is first consumed to break hydrogen bonds before it can increase the movement of water molecules to raise the temperature. Conversely, when the temperature drops, hydrogen bonds re-form and release heat energy. For example, during the day, water absorbs heat from the sun and cools the surrounding air; at night, the gradual cooling of the water releases heat, warming the air.",
+  "questions": [
+    {
+      "q": "Why is water able to absorb large amounts of heat with only a slight change in temperature?",
+      "opts": [
+        "Because its molecules have high density.",
+        "Because added energy is first used to break hydrogen bonds before it can speed up molecular movement.",
+        "Because it is an inorganic salt.",
+        "Because covalent bonds between hydrogen and oxygen are constantly breaking."
+      ],
+      "a": 1,
+      "exp": "Water's high heat capacity is due to hydrogen bonds: input energy is first absorbed to break these bonds, and only after that does it increase molecular motion to raise the temperature."
+    },
+    {
+      "q": "What happens at the molecular level when the temperature of water drops?",
+      "opts": [
+        "Hydrogen bonds are destroyed, absorbing heat.",
+        "Covalent bonds are formed, absorbing heat.",
+        "Hydrogen bonds re-form, releasing heat energy.",
+        "Water molecules speed up and release heat."
+      ],
+      "a": 2,
+      "exp": "When water temperature drops, hydrogen bonds re-form, which releases heat energy into the surrounding environment."
+    }
+  ]
+}

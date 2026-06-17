@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 134,
+  "filename": "Unit_2_5.txt",
+  "section_title": "Enzymes",
+  "page_num_in_file": 12,
+  "slide_title": "Enzymes",
+  "original_text": "Enzymes¨Many enzymes require nonprotein helpers called cofactors, which¥bind to the active site and¥function in catalysis.¨Some cofactors are inorganic, such as the ions of zinc, iron, or copper.¨If a cofactor is an organic molecule, such as most vitamins, it is called a coenzyme.¥Acetyl CoA, CoQ10¥Enzymes and coenzymes/cofactors work together to signal processes to start, run, and end throughout biological systems",
+  "explanation": "To perform catalysis, many enzymes require nonprotein helpers known as cofactors. Cofactors bind to the enzyme's active site and participate directly in the catalytic process. Inorganic cofactors include metallic ions such as zinc, iron, or copper. If the cofactor is an organic molecule, it is specifically termed a coenzyme; examples include most vitamins, Acetyl CoA, and CoQ10. Enzymes, cofactors, and coenzymes work in concert to coordinate and signal metabolic pathways to start, run, and terminate throughout biological systems.",
+  "questions": [
+    {
+      "q": "What is a coenzyme?",
+      "opts": [
+        "An inorganic helper ion like zinc or copper.",
+        "An organic cofactor, such as a vitamin, that helps enzymes function.",
+        "A protein that binds to DNA to block transcription.",
+        "A specialized carbohydrate chain on the cell membrane."
+      ],
+      "a": 1,
+      "exp": "An organic cofactor is called a coenzyme. Many vitamins, Acetyl CoA, and CoQ10 function as coenzymes."
+    },
+    {
+      "q": "Which of the following are examples of inorganic cofactors?",
+      "opts": [
+        "Vitamins and Acetyl CoA",
+        "Ions of zinc, iron, or copper",
+        "Glucose and Galactose",
+        "Amino acids and Lipids"
+      ],
+      "a": 1,
+      "exp": "Inorganic cofactors are typically metal ions, such as those of zinc, iron, or copper."
+    }
+  ]
+}

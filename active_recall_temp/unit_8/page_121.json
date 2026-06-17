@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 121,
+  "filename": "Unit_8_7.txt",
+  "section_title": "Conservation of Biodiversity",
+  "page_num_in_file": 11,
+  "slide_title": "Value of Biodiversity¨Provision of Fresh Water¤The water cycle provides fresh water to terrestrial ecosystems¤Humans use this fresh water in innumerable ways¤Freshwater ecosystems provide us with a large diversity of species we can use as a source of food¤Forests and some other natural ecosystems soak up water and release it at a regular rate, thereby reducing flooding¨Prevention of Soil Erosion¤Intact ecosystems naturally retain soil and prevent soil erosion¤The importance of this attribute is particularly observed after deforestation¨Regulation of Climate¤Trees provide shade and reduce the need for fans and air conditioners in the summer¤Globally, forests restore the climate by incorporating carbon dioxide from the atmosphere¤Reduction of forests reduces the carbon dioxide uptake and oxygen output through Photosynthesis¨Ecotourism¤In the United States, nearly $4 billion is spent on fees, travel, lodging, and food within natural settings¤Many underdeveloped countries in tropical regions take advantage of this by offering “ecotours” of the local biodiversity",
+  "original_text": "Value of Biodiversity¨Provision of Fresh Water¤The water cycle provides fresh water to terrestrial ecosystems¤Humans use this fresh water in innumerable ways¤Freshwater ecosystems provide us with a large diversity of species we can use as a source of food¤Forests and some other natural ecosystems soak up water and release it at a regular rate, thereby reducing flooding¨Prevention of Soil Erosion¤Intact ecosystems naturally retain soil and prevent soil erosion¤The importance of this attribute is particularly observed after deforestation¨Regulation of Climate¤Trees provide shade and reduce the need for fans and air conditioners in the summer¤Globally, forests restore the climate by incorporating carbon dioxide from the atmosphere¤Reduction of forests reduces the carbon dioxide uptake and oxygen output through Photosynthesis¨Ecotourism¤In the United States, nearly $4 billion is spent on fees, travel, lodging, and food within natural settings¤Many underdeveloped countries in tropical regions take advantage of this by offering “ecotours” of the local biodiversity",
+  "explanation": "This slide details indirect values of biodiversity: 1) Provision of Fresh Water: the water cycle supplies fresh water, and ecosystems like forests act as sponges to absorb rain and release it slowly, mitigating flooding. 2) Prevention of Soil Erosion: intact root networks anchor soil; deforestation severely increases erosion. 3) Climate Regulation: locally, trees provide shade, reducing cooling energy needs; globally, forests act as carbon sinks, taking up CO2 and releasing O2 via photosynthesis. 4) Ecotourism: in the US, individuals spend nearly $4 billion annually traveling to natural areas, and many developing nations generate significant revenue by offering ecotours of their biodiversity.",
+  "questions": [
+    {
+      "q": "How do intact forests reduce the severity of flooding?",
+      "opts": [
+        "They block the windward side of mountain ranges completely.",
+        "They soak up water and release it at a regular rate rather than letting it run off all at once.",
+        "They speed up the evaporation of oceans.",
+        "They convert water into inorganic phosphate."
+      ],
+      "a": 1,
+      "exp": "The notes state that 'Forests and some other natural ecosystems soak up water and release it at a regular rate, thereby reducing flooding.'"
+    },
+    {
+      "q": "What is the global climate effect of reducing forest cover?",
+      "opts": [
+        "It increases local shade and cools the Earth.",
+        "It reduces carbon dioxide uptake and oxygen output through photosynthesis.",
+        "It decreases the rate of cellular respiration in soils.",
+        "It stops groundwater mining entirely."
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Reduction of forests reduces the carbon dioxide uptake and oxygen output through Photosynthesis.'"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 131,
+  "filename": "Unit_4_7.txt",
+  "section_title": "Chromosome-based Syndromes",
+  "page_num_in_file": 3,
+  "slide_title": "Chromosomes¨Crossing-over is a critical feature of Meiosis 1 that leads to genetic diversity¤Majority of the time, this crossing-over, and subsequent separation of chromosomes occurs without complications¤In mitosis, there are checkpoints to ensure proper lining up of chromosomes on the metaphase plate and attachment of spindle fibers. ¤These checks are not included in meiosis, and as a result, some rounds of meiosis may result in failure of chromosomes to separatenNondisjunctionnResults in net gain or loss of a chromosome (+1 or -1)",
+  "original_text": "Chromosomes¨Crossing-over is a critical feature of Meiosis 1 that leads to genetic diversity¤Majority of the time, this crossing-over, and subsequent separation of chromosomes occurs without complications¤In mitosis, there are checkpoints to ensure proper lining up of chromosomes on the metaphase plate and attachment of spindle fibers. ¤These checks are not included in meiosis, and as a result, some rounds of meiosis may result in failure of chromosomes to separatenNondisjunctionnResults in net gain or loss of a chromosome (+1 or -1)",
+  "explanation": "Crossing-over is a key mechanism in Meiosis I (written as 'Meiosis 1' on the slide) that increases genetic diversity. Usually, crossing-over and the subsequent segregation of chromosomes occur without complications. However, meiosis lacks the checkpoints found in mitosis that ensure chromosomes align properly on the metaphase plate and spindle fibers attach correctly. Consequently, chromosomes may fail to separate properly during meiosis, an error known as nondisjunction. Nondisjunction results in a gamete with a net gain or loss of a chromosome (+1 or -1).",
+  "questions": [
+    {
+      "q": "Why does chromosome segregation occasionally fail during meiosis compared to mitosis?",
+      "opts": [
+        "Meiosis is a faster process that skips DNA replication completely.",
+        "Meiosis does not include the checkpoints found in mitosis that verify proper chromosome alignment and spindle attachment.",
+        "Crossing-over always destroys the centromeres of homologous chromosomes.",
+        "Meiosis occurs in somatic cells where checkpoints are disabled."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide explains: 'In mitosis, there are checkpoints to ensure proper lining up... These checks are not included in meiosis, and as a result, some rounds of meiosis may result in failure of chromosomes to separate.'"
+    },
+    {
+      "q": "What is the term for the failure of chromosomes to separate during cell division, and what is its outcome?",
+      "opts": [
+        "Synapsis; it results in a normal tetrad.",
+        "Nondisjunction; it results in a net gain or loss of a chromosome (+1 or -1).",
+        "Alternative splicing; it results in different protein products.",
+        "Genomic imprinting; it results in methylated alleles."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide defines the failure to separate as 'Nondisjunction' and notes it 'Results in net gain or loss of a chromosome (+1 or -1).'"
+    }
+  ]
+}

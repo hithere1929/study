@@ -1,0 +1,34 @@
+{
+  "unit": 1,
+  "page": 64,
+  "filename": "Unit_1_4.txt",
+  "section_title": "Microscopy",
+  "page_num_in_file": 14,
+  "slide_title": "Magnification",
+  "original_text": "\u2013Reliability of Magnification Value\u2013The magnification value given by a microscope is only valid if the size of the image is UNCHANGED.\u2013Enlarging the image increases the magnification.\u2013Shrinking the image reduces the magnification.\u2013Quality images always have a scale bar; scale bar remains valid when the size of the image is changed.\n2X",
+  "explanation": "This slide discusses the reliability of printed or displayed magnification values. The magnification value stated by a microscope is only valid if the image size remains unchanged. Enlarging an image increases the magnification, whereas shrinking it reduces the magnification. Therefore, high-quality scientific images include a scale bar, which remains valid even when the overall size of the image is changed.",
+  "questions": [
+    {
+      "q": "Under what condition is the numerical magnification value printed on a microscope image no longer valid?",
+      "opts": [
+        "If the staining dye fades",
+        "If the size of the image is enlarged or shrunken",
+        "If the scale bar is too long",
+        "If the microscope bulb is changed"
+      ],
+      "a": 1,
+      "exp": "The slide states: 'The magnification value given by a microscope is only valid if the size of the image is UNCHANGED. Enlarging the image increases... Shrinking... reduces...'"
+    },
+    {
+      "q": "Why is a scale bar preferred over a simple magnification number on scientific images?",
+      "opts": [
+        "It is easier to print in color.",
+        "It remains valid even when the size of the image is changed.",
+        "It shows the focal length of the objective lens.",
+        "It measures the wavelength of the illumination source."
+      ],
+      "a": 1,
+      "exp": "The slide notes: 'scale bar remains valid when the size of the image is changed.'"
+    }
+  ]
+}

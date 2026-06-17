@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 127,
+  "filename": "Unit_2_5.txt",
+  "section_title": "Enzymes",
+  "page_num_in_file": 5,
+  "slide_title": "Enzymes",
+  "original_text": "Enzymes¨Enzymes¥function as biological catalysts,¥increase the rate of a reaction without being consumed by the reaction, and¥are usually proteins (although some RNA molecules can function as enzymes (Ribozymes)).¨Enzymes speed up a reaction by lowering the activation energy needed for a reaction to begin.",
+  "explanation": "Enzymes are specialized biological catalysts that accelerate chemical reactions without being consumed or permanently altered in the process. Most enzymes are proteins, though some RNA molecules (known as ribozymes) can also act as catalysts. Enzymes speed up chemical reactions in cells by lowering the activation energy barrier required for the reaction to initiate, allowing reactions to occur rapidly at normal body temperatures.",
+  "questions": [
+    {
+      "q": "How do enzymes speed up chemical reactions in cells?",
+      "opts": [
+        "By increasing the temperature of the cell.",
+        "By increasing the amount of reactants.",
+        "By lowering the activation energy barrier needed for the reaction to begin.",
+        "By consuming the products of the reaction."
+      ],
+      "a": 2,
+      "exp": "Enzymes accelerate chemical reactions by lowering the activation energy needed to start them, allowing reactions to proceed under physiological conditions."
+    },
+    {
+      "q": "What are catalysts that consist of RNA molecules called?",
+      "opts": [
+        "Enzymatic proteins",
+        "Ribozymes",
+        "Polypeptides",
+        "Coenzymes"
+      ],
+      "a": 1,
+      "exp": "While most enzymes are proteins, catalytic RNA molecules are known as ribozymes."
+    }
+  ]
+}

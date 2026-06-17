@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 88,
+  "filename": "Unit_6_7.txt",
+  "section_title": "Vertebrates",
+  "page_num_in_file": 9,
+  "slide_title": "Diversity -Reptiles\u00a8Terrestrial animals, which includes birds in class Reptilia, with the following unifying characteristics:\u00a4Paired limbs \u20132 pairs, usually 5 toes each. Adapted for climbing, running, paddling, or flying\u00a4Skin\u2013Thick and dry, impermeable to water, scaly\u00a4Efficient breathing  -lungs better developed than amphibians\u00a4Efficient circulation \u2013Heart prevents mixing of blood\u00a4Efficient excretion \u2013well developed kidneys\u00a4Ectotherms\u00a4Well-adapted reproduction\u2013internal fertilization. Amniotic egg\u00a8Amphibians gave rise to reptiles according to multiple lineages",
+  "original_text": "Diversity -Reptiles\u00a8Terrestrial animals, which includes birds in class Reptilia, with the following unifying characteristics:\u00a4Paired limbs \u20132 pairs, usually 5 toes each. Adapted for climbing, running, paddling, or flying\u00a4Skin\u2013Thick and dry, impermeable to water, scaly\u00a4Efficient breathing  -lungs better developed than amphibians\u00a4Efficient circulation \u2013Heart prevents mixing of blood\u00a4Efficient excretion \u2013well developed kidneys\u00a4Ectotherms\u00a4Well-adapted reproduction\u2013internal fertilization. Amniotic egg\u00a8Amphibians gave rise to reptiles according to multiple lineages",
+  "explanation": "Reptiles are terrestrial animals (which taxonomically includes birds in class Reptilia) that share several unifying characteristics: 1) Paired limbs: 2 pairs, typically with 5 toes each, adapted for climbing, running, paddling, or flying; 2) Skin: thick, dry, scaly, and impermeable to water; 3) Efficient breathing: lungs are better developed than in amphibians; 4) Efficient circulation: the heart prevents the mixing of oxygenated and deoxygenated blood; 5) Efficient excretion: well-developed kidneys; 6) Ectothermy; and 7) Reproduction: internal fertilization and production of amniotic eggs. Multiple lineages of amphibians gave rise to reptiles.",
+  "questions": [
+    {
+      "q": "What type of skin and breathing system are characteristic of reptiles?",
+      "opts": [
+        "Smooth, non-scaly skin with small lungs",
+        "Thick, dry, scaly skin impermeable to water, with lungs better developed than in amphibians",
+        "Porous skin with no lungs",
+        "Moist skin containing stomata for gas exchange"
+      ],
+      "a": 1,
+      "exp": "The notes list 'Skin\u2013Thick and dry, impermeable to water, scaly' and 'Efficient breathing - lungs better developed than amphibians'."
+    },
+    {
+      "q": "What reproductive features are characteristic of reptiles?",
+      "opts": [
+        "External fertilization in water and jelly-coated eggs",
+        "Internal fertilization and amniotic eggs",
+        "Asexual reproduction and spore production",
+        "Placental internal development only"
+      ],
+      "a": 1,
+      "exp": "The notes state that reptiles have 'Well-adapted reproduction\u2013internal fertilization. Amniotic egg'."
+    },
+    {
+      "q": "Which animal group is identified as having given rise to reptiles?",
+      "opts": [
+        "Cartilaginous fish",
+        "Amphibians",
+        "Lycophytes",
+        "Yeasts"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Amphibians gave rise to reptiles according to multiple lineages'."
+    }
+  ]
+}

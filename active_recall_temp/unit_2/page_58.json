@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 58,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 22,
+  "slide_title": "2: Di-& Polypeptides",
+  "original_text": "2: Di-& Polypeptides¨Two amino acids covalently bond to form a dipeptide¤Condensationreaction¤Bond between amino acids known as peptide bond¨Polypeptide: long chain of amino acids¨Proteins often composed of one or more polypeptides¤Can be very large, containing hundreds of amino acids¤Often bend and foldon themselves based on interactions between R groups of amino acids\nnHydrogen bonding\nnHydrophilic/hydrophobic interactions¨Protein shape also influenced by temperature, pH, solvent, salt content",
+  "explanation": "Two amino acids covalently bond to form a dipeptide through a condensation reaction, with the resulting link between them called a peptide bond. A polypeptide is a long chain of amino acids, and functional proteins are composed of one or more of these chains, which can contain hundreds of amino acids. Polypeptide chains bend and fold into specific shapes based on intermolecular interactions between their R groups, such as hydrogen bonding and hydrophilic or hydrophobic interactions. Additionally, a protein's final three-dimensional shape is highly sensitive to environmental factors, including temperature, pH, the type of solvent, and salt concentration.",
+  "questions": [
+    {
+      "q": "What is the name of the covalent bond that links amino acids together in a polypeptide?",
+      "opts": [
+        "Glycosidic bond",
+        "Ester bond",
+        "Peptide bond",
+        "Phosphodiester bond"
+      ],
+      "a": 2,
+      "exp": "The covalent bond formed between the amino group of one amino acid and the carboxyl group of another is a peptide bond."
+    },
+    {
+      "q": "Which environmental factors can influence the final shape of a protein?",
+      "opts": [
+        "Gravity and altitude only",
+        "Temperature, pH, solvent, and salt content",
+        "Carbon dioxide concentration only",
+        "Light intensity and water pressure"
+      ],
+      "a": 1,
+      "exp": "Protein folding and shape are influenced by environmental factors such as temperature, pH, solvent, and salt content."
+    }
+  ]
+}

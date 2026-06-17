@@ -1,0 +1,23 @@
+{
+  "unit": 8,
+  "page": 74,
+  "filename": "Unit_8_5.txt",
+  "section_title": "Cellular Respiration",
+  "page_num_in_file": 2,
+  "slide_title": "•Cellular Respiration•Outside of the Mitochondria: Glycolysis•Outside of the Mitochondria: Fermentation•Inside the Mitochondria•Metabolic Pool",
+  "original_text": "•Cellular Respiration•Outside of the Mitochondria: Glycolysis•Outside of the Mitochondria: Fermentation•Inside the Mitochondria•Metabolic Pool\nCellular Respiration Outline",
+  "explanation": "This slide provides an outline of the Cellular Respiration section: 1) Cellular Respiration Overview, 2) Outside of the Mitochondria: Glycolysis, 3) Outside of the Mitochondria: Fermentation, 4) Inside the Mitochondria, and 5) The Metabolic Pool.",
+  "questions": [
+    {
+      "q": "Which of the following topics is listed as taking place outside of the mitochondria in the Cellular Respiration outline?",
+      "opts": [
+        "Glycolysis and Fermentation",
+        "The Citric Acid Cycle",
+        "Chemiosmosis",
+        "The Electron Transport Chain"
+      ],
+      "a": 0,
+      "exp": "The outline lists 'Outside of the Mitochondria: Glycolysis' and 'Outside of the Mitochondria: Fermentation.'"
+    }
+  ]
+}

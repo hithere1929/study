@@ -1,0 +1,30 @@
+{
+  "id": "u8_t5",
+  "title": "Biomes",
+  "cheat_card": [
+    "Biomes are major terrestrial ecosystems characterized by <b>temperature and precipitation</b>, changing with latitude and altitude.",
+    "The <b>tundra</b> covers 20% of Earth's land surface, characterized by a permanently frozen <b>permafrost</b> layer that prevents tree root growth.",
+    "<b>Taiga (coniferous forest)</b> features cone-bearing trees with needles adapted to cold, whereas <b>temperate deciduous forests</b> have four distinct seasons and abundant ground-life.",
+    "<b>Tropical rainforests</b> feature high rain/warmth, vertical layering (understory, canopy), <b>epiphytes</b>, and <b>nutrient-poor soil</b> due to rapid nutrient recycling.",
+    "<b>Deserts</b> occur at 30\u00b0 latitude with <25 cm rainfall; <b>shrublands (chaparral)</b> have dry summers/wet winters and are highly flammable."
+  ],
+  "memory_anchor": "Biome Quick Guide:\n- Tundra: Permafrost, no trees\n- Taiga: Needle leaves, cone trees\n- Deciduous: 4 seasons, rich ground-life\n- Tropical: Canopy, nutrient-poor soil, epiphytes\n- Shrubland: Chaparral, flammable\n- Desert: <25cm rain, 30 degrees latitude",
+  "flashcards": [
+    {
+      "q": "Why are trees absent in the tundra biome, and what percentage of Earth's land surface does it cover?",
+      "q_id": "u8_t5_f1",
+      "a": "The tundra covers 20% of Earth's land surface. Trees cannot grow there because the growing season is too short, roots cannot penetrate the permanently frozen permafrost layer, and the shallow, boggy soil does not support anchoring."
+    },
+    {
+      "q": "Why are tropical rainforest soils nutrient-poor despite the biome's high biodiversity and plant density?",
+      "q_id": "u8_t5_f2",
+      "a": "The soils are nutrient-poor because the warm temperatures and high moisture levels cause extremely rapid decomposition and immediate re-absorption of nutrients by plants, leaving little organic matter in the soil."
+    },
+    {
+      "q": "Compare the climate characteristics of chaparral (shrublands) and deserts.",
+      "q_id": "u8_t5_f3",
+      "a": "Chaparral has dry summers and wet winters with highly flammable shrubs. Deserts have annual rainfall under 25 cm, large temperature variations between day and night, and occur around 30\u00b0 latitude due to descending dry air currents."
+    }
+  ],
+  "outline_blanks": "Terrestrial biomes are defined by temperature and precipitation. The tundra is characterized by a permanently frozen [[permafrost]] layer that prevents tree growth, while tropical rainforests feature complex vertical structures and [[nutrient-poor]] soils. Temperate deciduous forests experience [[four]] distinct seasons and support diverse ground-life."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "u6_t4",
+  "title": "Virus vs Bacteria",
+  "cheat_card": [
+    "<b>Life and Cellularity</b>: Bacteria are living, unicellular organisms (1-10 μm) with ribosomes and active metabolisms. Viruses are non-living, non-cellular particles (10-400 nm) that lack metabolism and cannot generate ATP.",
+    "<b>Genome Composition</b>: Bacteria always have double-stranded DNA genomes located in a <b>nucleoid</b> region, plus accessory plasmids. Viruses can have <i>either DNA or RNA</i> genomes (single or double-stranded).",
+    "<b>Reproductive Machinery</b>: Bacteria reproduce independently via asexual <b>binary fission</b>. Viruses are obligate intracellular parasites that must hijack host ribosomes, tRNA, enzymes, and ATP to replicate.",
+    "<b>Cell Wall and Outer Structures</b>: Bacteria are protected by cell walls containing <b>peptidoglycan</b>. Viruses lack cell walls, consisting only of a protein <b>capsid</b> shell (and an optional host-derived lipid envelope).",
+    "<b>Antibiotic Response</b>: Bacterial infections can be treated with <b>antibiotics</b> which target peptidoglycan cell walls or prokaryotic ribosomes. Viruses lack these pathways and structures, making them unaffected by antibiotics."
+  ],
+  "memory_anchor": "### Key Differences: Virus vs. Bacteria\n\n| Property | Virus | Bacteria |\n| :--- | :--- | :--- |\n| **Classification** | Non-cellular, Non-living | Cellular (Prokaryote), Living |\n| **Average Size** | 10–400 **nanometers** (nm) | 1–10 **micrometers** (μm) |\n| **Genetics** | DNA *or* RNA (Single or Double stranded) | Double-stranded DNA (circular in nucleoid) |\n| **Reproduction** | Hijacks host machinery | Independent (Binary Fission) |\n| **Outer Boundary** | Protein capsid $\\pm$ lipid envelope | Peptidoglycan cell wall + plasma membrane |\n| **Treatment** | Vaccines, antivirals (No antibiotics!) | Antibiotics |",
+  "flashcards": [
+    {
+      "q": "Compare the genomes of viruses and bacteria in terms of structure and location.",
+      "a": "Bacterial genomes consist of double-stranded DNA located in a non-membrane-bound nucleoid region, along with small rings of accessory DNA called plasmids. Viral genomes can consist of either DNA or RNA, which may be single- or double-stranded, enclosed within a protein capsid."
+    },
+    {
+      "q": "Why are viruses unable to replicate independently, whereas bacteria can?",
+      "a": "Bacteria possess full cellular machinery, including ribosomes, tRNA, metabolic enzymes, and ATP synthesis pathways to support independent replication and binary fission. Viruses lack ribosomes, tRNA, and metabolic pathways, making them obligate intracellular parasites that must hijack a host cell's machinery to synthesize their components."
+    },
+    {
+      "q": "Explain why penicillin, which inhibits peptidoglycan synthesis, is effective against bacterial infections but has no effect on viral infections.",
+      "a": "Penicillin targets the synthesis of peptidoglycan, which is a major component of the bacterial cell wall. Viruses do not have cell walls or peptidoglycan (consisting instead of a protein capsid and genome), so they are completely unaffected by drugs targeting these structures."
+    }
+  ],
+  "outline_blanks": "While bacteria are living cells ranging from 1 to 10 [[micrometers]] in size, viruses are much smaller non-cellular structures measuring between 10 and 400 [[nanometers]]. Bacteria possess a cell wall made of [[peptidoglycan]] and reproduce via binary fission, whereas viruses are obligate intracellular parasites containing a protein [[capsid]]. Consequently, bacterial infections are treatable with [[antibiotics]], which are ineffective against viral particles."
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 100,
+  "filename": "Unit_2_4.txt",
+  "section_title": "Metabolism",
+  "page_num_in_file": 3,
+  "slide_title": "Energy",
+  "original_text": "Energy¨Cells transform energy as they perform work¤Cells are miniature chemical factories, housing thousands of chemical reactions.¤Some of these chemical reactions release energy, and others require energy.",
+  "explanation": "Cells act as miniature chemical factories, carrying out thousands of chemical reactions to perform cellular work. In doing so, cells continuously transform energy from one form to another. Depending on the reaction, some of these chemical pathways release energy, while others require an input of energy to proceed.",
+  "questions": [
+    {
+      "q": "How do cells perform work at the chemical level?",
+      "opts": [
+        "By creating energy from nothing.",
+        "By transforming energy through thousands of chemical reactions, some of which release energy while others require it.",
+        "By remaining completely static and in equilibrium.",
+        "By converting all organic matter into inorganic salts."
+      ],
+      "a": 1,
+      "exp": "Cells are like chemical factories that perform work by housing thousands of chemical reactions, transforming energy as some reactions release energy and others consume it."
+    }
+  ]
+}

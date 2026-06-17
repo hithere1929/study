@@ -1,0 +1,27 @@
+{
+  "id": "u4_t6",
+  "title": "Operon",
+  "cheat_card": [
+    "An <b>operon</b> is a cluster of structural genes in prokaryotes transcribed together under the control of a single promoter and regulatory elements.",
+    "An operon contains: a <b>regulator gene</b> (codes for repressor), a <b>promoter</b> (RNA polymerase binding site), an <b>operator</b> (repressor binding site), and <b>structural genes</b>.",
+    "The <b>trp operon</b> is a <b>repressible (normally ON)</b> anabolic operon. When tryptophan levels are high, tryptophan acts as a <b>co-repressor</b>, binding the repressor to the operator to block transcription.",
+    "The <b>lac operon</b> is an <b>inducible (normally OFF)</b> catabolic operon. When lactose is present, it acts as an <b>inducer</b>, binding the repressor to change its shape and release the operator.",
+    "Induction of the lac operon leads to the transcription of structural genes coding for <b>Beta-galactosidase</b>, <b>permease</b>, and <b>transacetylase</b>."
+  ],
+  "memory_anchor": "| Operon Type | Default State | Metabolic Process | Inducer/Co-repressor | Repressor Action When Bound |\n|---|---|---|---|---|\n| **lac (Inducible)** | OFF | Catabolic (breaks down lactose) | Lactose (Inducer) | Falls off operator (transcription occurs) |\n| **trp (Repressible)** | ON | Anabolic (synthesizes tryptophan) | Tryptophan (Co-repressor) | Binds to operator (blocks transcription) |",
+  "flashcards": [
+    {
+      "q": "Describe the mechanism of the repressible trp operon when tryptophan concentration in the cell is high.",
+      "a": "When tryptophan levels are high, tryptophan acts as a co-repressor and binds to the repressor protein. This binding causes a conformational change that enables the repressor to bind to the operator, blocking RNA polymerase from transcribing the structural genes."
+    },
+    {
+      "q": "How does the presence of lactose induce transcription of the lac operon?",
+      "a": "When lactose is present, it acts as an inducer and binds directly to the repressor protein. This causes the repressor to change shape and dissociate from the operator, allowing RNA polymerase to bind the promoter and transcribe the structural genes."
+    },
+    {
+      "q": "What are the structural genes of the lac operon, and what are their general functions?",
+      "a": "The lac operon contains three structural genes: lacZ (codes for beta-galactosidase to cleave lactose), lacY (codes for permease to transport lactose into the cell), and lacA (codes for transacetylase). They function together to metabolize lactose."
+    }
+  ],
+  "outline_blanks": "Prokaryotic genes are organized into [[operons]]. The trp operon is [[repressible]] and is turned off when tryptophan binds the repressor as a [[co-repressor]]. The lac operon is [[inducible]] because lactose acts as an [[inducer]] that binds the repressor, releasing it from the [[operator]] so transcription can proceed."
+}

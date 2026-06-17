@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 179,
+  "filename": "Unit_4_9.txt",
+  "section_title": "Mendelian Inheritance P2 - Genetic Disorders",
+  "page_num_in_file": 5,
+  "slide_title": "Autosomal Recessive Pedigree",
+  "original_text": "Autosomal Recessive Pedigree",
+  "explanation": "An autosomal recessive pedigree traces the inheritance of a recessive trait on an autosome. In such pedigrees, the disease can skip generations, and two unaffected heterozygous parents (carriers) can have an affected offspring (aa).",
+  "questions": [
+    {
+      "q": "Which of the following is a classic feature of an autosomal recessive pedigree?",
+      "opts": [
+        "The trait appears in every single generation without fail.",
+        "Affected individuals must always have two affected parents.",
+        "Unaffected parents can have an affected child if both parents are carriers.",
+        "Only males are affected."
+      ],
+      "a": 2,
+      "exp": "Option C is correct because if a disease is autosomal recessive, two carrier parents (Aa x Aa) are phenotypically unaffected but have a 25% chance of producing an affected (aa) child."
+    }
+  ]
+}

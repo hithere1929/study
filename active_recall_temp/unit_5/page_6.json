@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 6,
+  "filename": "Unit_5_1.txt",
+  "section_title": "Darwin & Evidence for Evolution",
+  "page_num_in_file": 6,
+  "slide_title": "History of Evolutionary Thought",
+  "original_text": "History of Evolutionary Thought\n¨Cuvier\n¤Staunch believer in fixity of species and special creation\n¤Used comparative anatomy to develop a system of classification\n¤Founded the science of paleontology\n¤Proposed catastrophism\nnLocal catastrophes in the past had caused the Earth’s strata to have a mix of new fossils\nnAfter each catastrophe, the region was repopulated by species from a surrounding area\nnThe result of catastrophes was change appearing over time",
+  "explanation": "Georges Cuvier was a firm believer in the fixity of species and special creation. He used comparative anatomy to develop an animal classification system and is credited with founding the science of paleontology (the study of fossils). To explain why different fossil layers contained different species without accepting evolution, Cuvier proposed 'catastrophism.' This hypothesis suggested that localized natural catastrophes occurred in the past, causing the mix of fossils found in the Earth's rock strata. After a catastrophe wiped out local life, the devastated region was repopulated by species migrating from surrounding, unaffected areas. Thus, Cuvier argued that the change in fossils over time was due to catastrophism and repopulation rather than species changing or evolving.",
+  "questions": [
+    {
+      "q": "Which scientific field was founded by Georges Cuvier?",
+      "opts": [
+        "Biogeography",
+        "Paleontology",
+        "Genetics",
+        "Uniformitarianism"
+      ],
+      "a": 1,
+      "exp": "The notes state that Cuvier founded the science of paleontology and used comparative anatomy to develop a system of classification."
+    },
+    {
+      "q": "According to Georges Cuvier's hypothesis of catastrophism, how did different fossil layers form?",
+      "opts": [
+        "Organisms gradually evolved new characteristics over millions of years.",
+        "Constant rates of erosion and uplift gradually buried organisms.",
+        "Local catastrophes wiped out organisms, and the area was repopulated by species from surrounding regions.",
+        "Organisms strove toward perfection, modifying their own anatomy over their lifetimes."
+      ],
+      "a": 2,
+      "exp": "Catastrophism proposed that local catastrophes caused the mix of fossils in the Earth's strata, and after each event, the region was repopulated by species from surrounding areas, creating the appearance of change over time."
+    }
+  ]
+}

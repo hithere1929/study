@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 54,
+  "filename": "Unit_7_3.txt",
+  "section_title": "Plant Control of Growth Responses",
+  "page_num_in_file": 19,
+  "slide_title": "Plant Responses: Biotic Environment & Defenses",
+  "original_text": "Plant Responses Responses to the biotic environment Plants are always under attack by herbivores and parasites. Physical and Chemical Defenses nCuticle-covered epidermis and bark nSecondary metabolites nTannins tea leaves nAlkaloids morphine, nicotine, caffeine nCyanogenic glycosides -Sugar containing group that metabolizes into cyanide and inhibit cellular respiration\n Wound responses proteinase inhibitors and systemin produced in plant, and triggered to release when a wound is made on plant nHypersensitive response (HR) initiates wound response and seals wounded area nIndirect defenses prevent egg laying in insects nMutualistic relationships with animals acacia tree and acacia ant nTree has swollen thorns that hurt other organisms, but ants can live in hollow interior and get nutrients, and will protect the plant from predators",
+  "explanation": "Plants have evolved diverse physical and chemical defenses to protect themselves from herbivores and parasites. 1) Physical defenses: include the waxy cuticle and tough bark. 2) Chemical defenses: include secondary metabolites like tannins (found in tea), alkaloids (such as morphine, nicotine, and caffeine), and cyanogenic glycosides (which break down into toxic cyanide to inhibit cellular respiration). 3) Wound responses: involve the systemic release of chemicals like systemin and proteinase inhibitors to deter herbivores when tissue is damaged. 4) Hypersensitive response (HR): a localized tissue defense that seals off and isolates infected/wounded areas. 5) Indirect defenses: mechanisms that prevent insects from laying eggs. 6) Mutualisms: such as between the acacia tree and acacia ants. The tree provides shelter (hollow, swollen thorns) and food; in return, the ants defend the tree from herbivores and other competitors.",
+  "questions": [
+    {
+      "q": "How do cyanogenic glycosides protect plants from herbivores?",
+      "opts": [
+        "They attract predators like ants to eat the herbivore.",
+        "They release toxic cyanide that inhibits cellular respiration in the herbivore.",
+        "They dissolve the herbivore's exoskeleton.",
+        "They promote rapid healing of the plant's waxy cuticle."
+      ],
+      "a": 1,
+      "exp": "Cyanogenic glycosides release cyanide, which acts as a cellular toxin by inhibiting respiration."
+    },
+    {
+      "q": "What is the role of acacia ants in their mutualism with the acacia tree?",
+      "opts": [
+        "They disperse the tree's seeds.",
+        "They pollinate the tree's flowers.",
+        "They live in hollow thorns and protect the tree from predators.",
+        "They decompose the tree's bark to enrich the soil."
+      ],
+      "a": 2,
+      "exp": "Acacia ants live in the tree's swollen, hollow thorns and defend it against herbivores and predators."
+    },
+    {
+      "q": "Which defense response involves rapid, localized cell death to seal off a wounded or infected area?",
+      "opts": [
+        "Hypersensitive response (HR)",
+        "Thigmomorphogenesis",
+        "Nastic movement",
+        "Photoperiodism"
+      ],
+      "a": 0,
+      "exp": "The hypersensitive response (HR) initiates a localized defense that seals off the wounded or infected area to prevent pathogen spread."
+    }
+  ]
+}

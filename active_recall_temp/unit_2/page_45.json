@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 45,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 9,
+  "slide_title": "Energy Currency",
+  "original_text": "Energy Currency¨Processes of life require constant supply of energy¤Available to cells in the form of molecules that can store large amounts of energy in their chemical bonds¤Most commonly adenosine triphosphate, ATP\nnComposed of 5-carbon sugar (ribose), nitrogen-containing double ring (adenine), 3 covalently linked phosphategroups¨Covalent bonds between phosphates relatively unstable because of their net negative charge and close proximityto each other¤Hydrolysis of ATP molecules releases energy that can be used by the cell to drive necessary chemical reactions",
+  "explanation": "The processes of life require a continuous supply of energy, which is made available to cells through molecules capable of storing significant amounts of energy in their chemical bonds. The primary energy currency molecule used by cells is adenosine triphosphate (ATP). ATP is composed of three parts: a 5-carbon sugar (ribose), a nitrogen-containing double ring structure (adenine), and three covalently linked phosphate groups. The covalent bonds linking the phosphate groups are relatively unstable because the phosphates carry net negative charges and are situated in close proximity, causing them to repel one another. The hydrolysis of ATP breaks these unstable bonds, releasing energy that cells use to fuel vital chemical reactions.",
+  "questions": [
+    {
+      "q": "What are the three components that make up an ATP molecule?",
+      "opts": [
+        "Glucose, adenine, and two phosphate groups",
+        "Ribose (5-carbon sugar), adenine (nitrogen double ring), and three phosphate groups",
+        "Deoxyribose, cytosine, and one phosphate group",
+        "Glycerol, fatty acids, and a carboxyl group"
+      ],
+      "a": 1,
+      "exp": "ATP is composed of a 5-carbon sugar (ribose), a nitrogen-containing double ring (adenine), and three phosphate groups."
+    },
+    {
+      "q": "Why are the covalent bonds between the phosphate groups in ATP relatively unstable?",
+      "opts": [
+        "They are weak hydrogen bonds.",
+        "The phosphate groups have negative charges and are in close proximity, creating repulsive forces.",
+        "They are double covalent bonds that break easily in water.",
+        "They are ionic bonds between a metal and a non-metal."
+      ],
+      "a": 1,
+      "exp": "The negative charges on the closely positioned phosphate groups repel each other, making the covalent bonds between them unstable and high in potential energy."
+    }
+  ]
+}

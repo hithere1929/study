@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 46,
+  "filename": "Unit_4_3.txt",
+  "section_title": "DNA Replication, Transcription, Translation",
+  "page_num_in_file": 21,
+  "slide_title": "Genetic Code¨Gene expression: amino acids assembled based on instructions encoded in sequence of nucleotides in mRNA¨Genetic code: rules that relate how sequence of bases in nucleotides correspond to particular amino acid¤3 adjacent nucleotides in mRNA specify an amino acid in a polypeptidenKnown as a codon¤1 codon known as START; always found at the beginning of mRNA sequence; codes for amino acid methioninenAUG¤3 codons known as STOP; signifies end of polypeptide moleculenUAA, UAG, UGA¨Code is nearly universal among organisms¤Supports the idea all organisms came from common ancestor¨61 codons code for 20 amino acids + 3 STOP¨No codon codes for more than one amino acid; some amino acids encoded by 2 or more codons¤Code is unambiguous and redundant",
+  "original_text": "Genetic Code¨Gene expression: amino acids assembled based on instructions encoded in sequence of nucleotides in mRNA¨Genetic code: rules that relate how sequence of bases in nucleotides correspond to particular amino acid¤3 adjacent nucleotides in mRNA specify an amino acid in a polypeptidenKnown as a codon¤1 codon known as START; always found at the beginning of mRNA sequence; codes for amino acid methioninenAUG¤3 codons known as STOP; signifies end of polypeptide moleculenUAA, UAG, UGA¨Code is nearly universal among organisms¤Supports the idea all organisms came from common ancestor¨61 codons code for 20 amino acids + 3 STOP¨No codon codes for more than one amino acid; some amino acids encoded by 2 or more codons¤Code is unambiguous and redundant",
+  "explanation": "Gene expression is the process where amino acids are assembled into polypeptides based on genetic instructions carried by the nucleotide sequence in mRNA. The genetic code consists of rules that translate this nucleotide sequence into specific amino acids. Every group of three adjacent nucleotides in mRNA is called a codon, which specifies one amino acid. The code features one START codon, AUG, which is located at the beginning of the mRNA sequence and codes for the amino acid methionine. There are three STOP codons (UAA, UAG, and UGA) that signal the end of a polypeptide chain. The genetic code is nearly universal across all living organisms, suggesting a common evolutionary origin. Of the 64 possible codons, 61 code for the 20 amino acids (including the AUG start codon), and the remaining 3 are stop codons. The genetic code is unambiguous (no single codon codes for more than one amino acid) and redundant (several different codons can code for the same amino acid).",
+  "questions": [
+    {
+      "q": "What is the sequence of the start codon, and which amino acid does it code for?",
+      "opts": [
+        "UAC; methionine",
+        "AUG; methionine",
+        "UAA; tryptophan",
+        "AUG; glycine"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states that the start codon is AUG, coding for the amino acid methionine. Options A, C, and D are incorrect."
+    },
+    {
+      "q": "The genetic code is described as 'unambiguous and redundant.' What does 'unambiguous' mean in this context?",
+      "opts": [
+        "A single codon can code for multiple different amino acids.",
+        "No codon codes for more than one amino acid.",
+        "Many different codons code for the same amino acid.",
+        "All organisms use completely different genetic codes."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states 'No codon codes for more than one amino acid' to describe the unambiguous nature. Option C describes redundancy. Options A and D are incorrect."
+    }
+  ]
+}

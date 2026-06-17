@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 75,
+  "filename": "Unit_3_4.txt",
+  "section_title": "The Cell Cycle",
+  "page_num_in_file": 2,
+  "slide_title": "Questions",
+  "original_text": "Questions\nAre cell division and mitosis interchangeable terms?\nHow does cell division relate to reproduction?",
+  "explanation": "This page poses introductory questions regarding whether cell division and mitosis are interchangeable, and how cell division relates to reproduction.",
+  "questions": [
+    {
+      "q": "Which question is asked on this introductory slide?",
+      "opts": [
+        "How do chromosomes replicate?",
+        "Are cell division and mitosis interchangeable terms?",
+        "What are the phases of interphase?",
+        "What is the difference between mitosis and meiosis?"
+      ],
+      "a": 1,
+      "exp": "The slide explicitly asks: 'Are cell division and mitosis interchangeable terms?'"
+    }
+  ]
+}

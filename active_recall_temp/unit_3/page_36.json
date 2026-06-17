@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 36,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 21,
+  "slide_title": "Other Vesicles",
+  "original_text": "Other Vesicles\nPeroxisome: similar to lysosome; contains different enzymes, notproduced by Golgi\nAbundant in liverand kidneycells \nneutralize free radicals(highly reactive oxygen molecules that can damage cells), detoxifyalcohol and other drugs\nProduce hydrogen peroxide (H2O2)when breaking down alcohol and killing bacteria\nAlso break down fatty acids that mitochondria can use as an energy source",
+  "explanation": "Peroxisomes are spherical organelles similar to lysosomes, but they contain different sets of enzymes and are not produced by the Golgi apparatus. They are especially abundant in liver and kidney cells, where they function to neutralize free radicals (highly reactive oxygen-containing molecules that damage cells) and detoxify alcohol and other drugs. A byproduct of their drug breakdown and bacterial killing is hydrogen peroxide (H2O2). In addition to detoxification, peroxisomes break down fatty acids into simpler compounds that mitochondria can subsequently use as an energy source.",
+  "questions": [
+    {
+      "q": "Which organelle is similar to a lysosome, is not produced by the Golgi apparatus, and is responsible for neutralizing free radicals and producing hydrogen peroxide?",
+      "opts": [
+        "Ribosome",
+        "Endosome",
+        "Peroxisome",
+        "Glyoxysome"
+      ],
+      "a": 2,
+      "exp": "The slide describes peroxisomes as similar to lysosomes but containing different enzymes, not produced by the Golgi, and producing hydrogen peroxide (H2O2) when breaking down alcohol and killing bacteria."
+    },
+    {
+      "q": "In which organs of the body are peroxisomes especially abundant to detoxify alcohol and other drugs?",
+      "opts": [
+        "Heart and lungs",
+        "Liver and kidneys",
+        "Brain and spinal cord",
+        "Stomach and small intestine"
+      ],
+      "a": 1,
+      "exp": "Peroxisomes are abundant in liver and kidney cells, where they neutralize free radicals and detoxify substances."
+    }
+  ]
+}

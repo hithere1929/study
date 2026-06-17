@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 11,
+  "filename": "Unit_4_1.txt",
+  "section_title": "DNA Advances through 20th Century",
+  "page_num_in_file": 11,
+  "slide_title": "Historical Basis –Watson, Crick, Wilkins, & Franklin¨After DNA was determined to be hereditary material –next challenge: determine its structure¨Maurice Wilkins, Rosalind Franklinpurifiedand crystallized DNA, used a technique called X-ray diffractionto image it¨James Watson, Francis Crick used this information to propose a model for DNA structure in 1953¤Publicationin Nature: 1 page long with 1 hand drawn image of the structure¤Won Nobel Prizein Medicine, 1963, along with Wilkinsfor the discovery¤Franklin died from radiation exposure before award was given, but is recognized for producing the famous image that led to the discovery of the structure¨Proposed structure:¤2 chains wrapped around each other to form a double helix (winding, spiral staircase)¤Also proposed a mechanismforreplicationof DNA",
+  "original_text": "Historical Basis –Watson, Crick, Wilkins, & Franklin¨After DNA was determined to be hereditary material –next challenge: determine its structure¨Maurice Wilkins, Rosalind Franklinpurifiedand crystallized DNA, used a technique called X-ray diffractionto image it¨James Watson, Francis Crick used this information to propose a model for DNA structure in 1953¤Publicationin Nature: 1 page long with 1 hand drawn image of the structure¤Won Nobel Prizein Medicine, 1963, along with Wilkinsfor the discovery¤Franklin died from radiation exposure before award was given, but is recognized for producing the famous image that led to the discovery of the structure¨Proposed structure:¤2 chains wrapped around each other to form a double helix (winding, spiral staircase)¤Also proposed a mechanismforreplicationof DNA",
+  "explanation": "After DNA was identified as the hereditary material, the next major challenge in molecular biology was to determine its molecular structure. Maurice Wilkins and Rosalind Franklin purified and crystallized DNA, using a technique called X-ray diffraction to capture its physical shape. James Watson and Francis Crick then used Franklin's and Wilkins's imaging data to build a model for the structure of DNA in 1953, which they published in a brief, one-page article in the journal Nature that featured a single hand-drawn diagram. For their discoveries, Watson, Crick, and Wilkins were awarded the Nobel Prize in Medicine in 1963 (according to the course slide). Rosalind Franklin passed away due to radiation exposure before the award was given, but she is highly recognized for producing the famous X-ray diffraction image that made the double helix model possible. The proposed DNA structure consists of two strands wrapped around each other in a double helix, resembling a winding spiral staircase, and it also suggests a mechanism for DNA replication.",
+  "questions": [
+    {
+      "q": "What scientific technique did Rosalind Franklin and Maurice Wilkins use to capture images of DNA?",
+      "opts": [
+        "Electron microscopy",
+        "X-ray diffraction",
+        "Centrifugation",
+        "Gel electrophoresis"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states they 'used a technique called X-ray diffraction to image it.' The other options are incorrect as they represent other laboratory techniques not mentioned on the slide for this purpose."
+    },
+    {
+      "q": "According to the slide, why didn't Rosalind Franklin receive the Nobel Prize along with Watson, Crick, and Wilkins?",
+      "opts": [
+        "She did not participate in the research.",
+        "Her contribution was not recognized at all.",
+        "She died from radiation exposure before the award was given.",
+        "The Nobel Prize committee only allows three recipients per prize."
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide states 'Franklin died from radiation exposure before award was given, but is recognized for producing the famous image.' The other options are incorrect or contradict the slide's details."
+    }
+  ]
+}

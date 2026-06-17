@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 99,
+  "filename": "Unit_2_4.txt",
+  "section_title": "Metabolism",
+  "page_num_in_file": 2,
+  "slide_title": "Question",
+  "original_text": "Question¨Why do we produce heat when it is hot (85°F) outside, even though our body temperature is 98.6°F?¨Our bodies are always producing heat. ¨At these higher temperatures, we are producing more heat than we need to maintain a core body temperature 98.6°F. ¨Thus, we sweat and behave in ways that help release our extra heat generated in cellular respiration.",
+  "explanation": "Our bodies generate heat continuously as a byproduct of metabolic processes like cellular respiration. Because of this constant production, when the environmental temperature is high (such as 85°F), our bodies generate more heat than is necessary to maintain our internal core body temperature of 98.6°F. To prevent overheating, we engage in physiological and behavioral mechanisms, such as sweating, to release this excess metabolic heat.",
+  "questions": [
+    {
+      "q": "Why do our bodies produce heat even when the external temperature is hot?",
+      "opts": [
+        "Our bodies absorb heat directly from the air to speed up reactions.",
+        "Heat is a constant byproduct of cellular respiration and other metabolic activities.",
+        "We stop sweating when it is hot outside.",
+        "To match our temperature with the environment."
+      ],
+      "a": 1,
+      "exp": "Our bodies are always producing heat because cellular respiration and other metabolic processes constantly generate heat as a byproduct."
+    }
+  ]
+}

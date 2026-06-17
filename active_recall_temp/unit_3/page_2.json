@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 2,
+  "filename": "Unit_3_1.txt",
+  "section_title": "Cell Biology",
+  "page_num_in_file": 2,
+  "slide_title": "How does structure relate to function on a cellular level?",
+  "original_text": "How does structure relate to function on a cellular level?\nUnit Essential Question",
+  "explanation": "This page introduces the Unit Essential Question: 'How does structure relate to function on a cellular level?' This question serves as the guiding inquiry for understanding cell biology and the organization of cellular components.",
+  "questions": [
+    {
+      "q": "What is the Unit Essential Question introduced on this page?",
+      "opts": [
+        "How do cells replicate their genetic material?",
+        "How does structure relate to function on a cellular level?",
+        "What are the differences between plant and animal cells?",
+        "How do cell membranes regulate transport?"
+      ],
+      "a": 1,
+      "exp": "The page explicitly lists the Unit Essential Question as 'How does structure relate to function on a cellular level?'"
+    }
+  ]
+}

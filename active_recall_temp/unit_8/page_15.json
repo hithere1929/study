@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 15,
+  "filename": "Unit_8_1.txt",
+  "section_title": "Behavioral Ecology",
+  "page_num_in_file": 15,
+  "slide_title": "Behaviors that Increase Fitness¨Altruism Versus Self-Interest¨Altruism¤Behavior that involves a reduction in individual fitness¤Loss may be compensated by an increase in the fitness of another member of the society¨Inclusive Fitness ¤Reproductive fitness of self, and¤Reproductive fitness of relativesnMeerkat watching over “nieces and nephews” –increased fitness for family genetic line¨Genetic relatedness may underlie many/most acts of apparent altruism¨Reciprocal altruism occurs in groups of animals that are mutually dependent¤Bird staying behind in nest to help parent raise siblings from a more recent clutchnIncreased family fitness  -genes preservednChance at acquisition of territory by helping",
+  "original_text": "Behaviors that Increase Fitness¨Altruism Versus Self-Interest¨Altruism¤Behavior that involves a reduction in individual fitness¤Loss may be compensated by an increase in the fitness of another member of the society¨Inclusive Fitness ¤Reproductive fitness of self, and¤Reproductive fitness of relativesnMeerkat watching over “nieces and nephews” –increased fitness for family genetic line¨Genetic relatedness may underlie many/most acts of apparent altruism¨Reciprocal altruism occurs in groups of animals that are mutually dependent¤Bird staying behind in nest to help parent raise siblings from a more recent clutchnIncreased family fitness  -genes preservednChance at acquisition of territory by helping",
+  "explanation": "This slide contrasts altruism with self-interest. Altruism is defined as behavior that reduces an individual's own reproductive fitness while potentially increasing the fitness of another societal member. Genetic relatedness often underlies altruistic acts, which is tied to the concept of inclusive fitness. Inclusive fitness is the sum of an individual's own reproductive success plus the reproductive success of their genetic relatives (e.g., a meerkat guarding its nieces and nephews, which ensures the survival of shared family genes). Reciprocal altruism occurs in mutually dependent groups where individuals assist non-relatives with the expectation of future repayment, though the slide also notes helpers (like birds staying at a nest to help parents raise siblings from a newer clutch) preserve family genes (increasing family fitness) and gain a chance to eventually inherit the territory.",
+  "questions": [
+    {
+      "q": "What is inclusive fitness?",
+      "opts": [
+        "The number of offspring an individual can produce without any helpers",
+        "The reproductive fitness of the individual plus the reproductive fitness of their genetic relatives",
+        "The physical fitness level of an animal compared to its competitors",
+        "The ability of an animal to survive in diverse habitats"
+      ],
+      "a": 1,
+      "exp": "The notes define inclusive fitness as: 'Reproductive fitness of self, and Reproductive fitness of relatives.'"
+    },
+    {
+      "q": "How does helper behavior in nesting birds (staying behind to raise siblings) benefit the helper's evolutionary fitness?",
+      "opts": [
+        "It has no benefit and represents pure biological loss.",
+        "It increases family fitness (preserving genes) and offers a chance to acquire territory.",
+        "It allows the helper to mate with the parent.",
+        "It forces the parents to leave the nest and find new territory immediately."
+      ],
+      "a": 1,
+      "exp": "The notes explain that a helper bird staying behind results in 'Increased family fitness - genes preserved' and gives a 'Chance at acquisition of territory by helping.'"
+    }
+  ]
+}

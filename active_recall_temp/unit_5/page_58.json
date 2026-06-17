@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 58,
+  "filename": "Unit_5_3.txt",
+  "section_title": "Speciation & Macroevolution",
+  "page_num_in_file": 9,
+  "slide_title": "How New Species Evolve",
+  "original_text": "How New Species Evolve\n\u00a8Reproductive isolating mechanisms inhibit gene flow between species -Two general types:\n\u00a8Prezygotic Isolating Mechanisms \u2013prevent mating attempts or make it unlikely that fertilization will be successful\n\u00a4Habitat Isolation -species occupy different habitats\n\u00a4Temporal Isolation -each reproduces at a different time\n\u00a4Behavioral Isolation -courtship patterns for recognizing mates\n\u00a4Mechanical Isolation -incompatible animal genitalia or plant floral structures\n\u00a4Gamete Isolation -gametes that meet do not fuse to become a zygote",
+  "explanation": "Reproductive isolating mechanisms are biological barriers that prevent interbreeding and inhibit gene flow between different species. These are categorized into two general types, starting with Prezygotic Isolating Mechanisms, which prevent mating attempts or ensure that fertilization is unsuccessful if mating occurs. The slide lists five prezygotic mechanisms: (1) Habitat Isolation (species live in different habitats); (2) Temporal Isolation (species reproduce at different times of the day, season, or year); (3) Behavioral Isolation (species have unique courtship rituals or signals for mate recognition); (4) Mechanical Isolation (incompatible genitalia in animals or anatomical differences in plant flowers); and (5) Gamete Isolation (sperm and egg meet but are biochemically incompatible and cannot fuse to form a zygote).",
+  "questions": [
+    {
+      "q": "What is the primary function of prezygotic isolating mechanisms?",
+      "opts": [
+        "To cause hybrid offspring to be sterile",
+        "To prevent mating attempts or make fertilization unlikely to succeed",
+        "To double the chromosome number in plant hybrids",
+        "To force gene flow between different populations"
+      ],
+      "a": 1,
+      "exp": "Prezygotic isolating mechanisms act before zygote formation, preventing mating attempts or ensuring that fertilization does not succeed."
+    },
+    {
+      "q": "Which type of prezygotic isolation is caused by species reproducing at different times of the year or season?",
+      "opts": [
+        "Habitat Isolation",
+        "Temporal Isolation",
+        "Behavioral Isolation",
+        "Mechanical Isolation"
+      ],
+      "a": 1,
+      "exp": "Temporal isolation refers to reproductive isolation arising because species breed at different times."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 11,
+  "filename": "Unit_1_1.txt",
+  "section_title": "Lab Safety",
+  "page_num_in_file": 11,
+  "slide_title": "Chemical & Sample Safety",
+  "original_text": "Chemical & Sample Safety",
+  "explanation": "This slide is titled 'Chemical & Sample Safety' and contains no additional body text, serving as a divider or slide heading within the lab safety presentation.",
+  "questions": [
+    {
+      "q": "What heading is displayed on Unit 1, page 11?",
+      "opts": [
+        "Emergency Procedures",
+        "Chemical & Sample Safety",
+        "Lab Safety Basics",
+        "Introduction to Biology"
+      ],
+      "a": 1,
+      "exp": "The title of this page is 'Chemical & Sample Safety'."
+    }
+  ]
+}

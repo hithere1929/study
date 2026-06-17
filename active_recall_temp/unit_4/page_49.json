@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 49,
+  "filename": "Unit_4_3.txt",
+  "section_title": "DNA Replication, Transcription, Translation",
+  "page_num_in_file": 28,
+  "slide_title": "Translation –Role of rRNA/Ribosomes ",
+  "original_text": "Translation –Role of rRNA/Ribosomes ¨rRNA codes for 2 ribosomal subunits¤Large and small subunit make up all ribosomes. ¤Join together at start of translation¨Ribosomes can remain in cytoplasm or attached to ER¨Ribosome has a binding site for mRNA, and 3 binding sites for tRNA¤E, P , & A sites in large subunitnE –Exit –location where the used tRNAexitsnP –Protein –where tRNAbound to amino acid is processed to elongate the protein chainnA –Amino Acid –where next amino acid anticodon enters and waits to move to P site¨Enzyme Ribozyme helps create peptide bond between neighboring amino acids",
+  "explanation": "Ribosomes are the organelles where translation occurs, and they are composed of a large and a small ribosomal subunit, both containing ribosomal RNA (rRNA). These two subunits join together around mRNA at the start of translation. In the cell, ribosomes can remain free in the cytoplasm or become attached to the endoplasmic reticulum (ER). A ribosome has a single binding site for mRNA and three specialized binding sites for tRNA within its large subunit: the E (Exit) site, where the spent tRNA exits the ribosome; the P (Protein) site, where the tRNA holding the growing polypeptide chain is positioned; and the A (Amino Acid) site, where the incoming tRNA carrying the next amino acid enters. A catalytic RNA (ribozyme) within the ribosome catalyzes the formation of peptide bonds between adjacent amino acids.",
+  "questions": [
+    {
+      "q": "What are the three tRNA binding sites in the large ribosomal subunit, and what does the 'A' site represent?",
+      "opts": [
+        "A, B, C; 'A' stands for Activation site.",
+        "E, P, A; 'A' stands for Amino Acid site where the next incoming tRNA enters.",
+        "E, P, A; 'A' stands for Exit site where tRNA leaves.",
+        "X, Y, Z; 'A' stands for Attachment site."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide lists the three sites as E, P, and A, defining the 'A' site as 'Amino Acid - where next amino acid anticodon enters and waits to move to P site.' Option C is incorrect because 'E' stands for Exit. Options A and D are incorrect."
+    },
+    {
+      "q": "What role does the 'P' site play during translation?",
+      "opts": [
+        "It is where the ribosome binds to the ER membrane.",
+        "It is the exit site where empty tRNAs are ejected.",
+        "It is where the tRNA bound to the growing polypeptide chain is processed to elongate the protein.",
+        "It is where the mRNA cap is cleaved."
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide defines the 'P' site as: 'Protein - where tRNA bound to amino acid is processed to elongate the protein chain.' Options A, B, and D are incorrect."
+    }
+  ]
+}

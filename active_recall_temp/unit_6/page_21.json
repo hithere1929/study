@@ -1,0 +1,23 @@
+{
+  "unit": 6,
+  "page": 21,
+  "filename": "Unit_6_2.txt",
+  "section_title": "Prokaryotes",
+  "page_num_in_file": 10,
+  "slide_title": "Domain Bacteria",
+  "original_text": "Domain Bacteria",
+  "explanation": "This slide serves as an introduction to the specific features, structures, and functions of Domain Bacteria.",
+  "questions": [
+    {
+      "q": "Which domain is introduced by this slide?",
+      "opts": [
+        "Domain Archaea",
+        "Domain Bacteria",
+        "Domain Eukarya",
+        "Domain Prokarya"
+      ],
+      "a": 1,
+      "exp": "The title of the slide is 'Domain Bacteria'."
+    }
+  ]
+}

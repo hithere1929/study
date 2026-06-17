@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 45,
+  "filename": "Unit_4_3.txt",
+  "section_title": "DNA Replication, Transcription, Translation",
+  "page_num_in_file": 20,
+  "slide_title": "Introns¨Role was unknown for a long time¤Alternative mRNA SplicingnOne mRNA can lead to multiple different products depending on which exons are left in or out of final mRNA product. ¤microRNAsnSmall molecules involved in regulating translation of mRNAsnWill bind with mRNA and prevent translation¤May play roll in crossing-overin meiosis –exon shuffling",
+  "original_text": "Introns¨Role was unknown for a long time¤Alternative mRNA SplicingnOne mRNA can lead to multiple different products depending on which exons are left in or out of final mRNA product. ¤microRNAsnSmall molecules involved in regulating translation of mRNAsnWill bind with mRNA and prevent translation¤May play roll in crossing-overin meiosis –exon shuffling",
+  "explanation": "For a long time, the biological role of introns was unknown, but scientists have discovered several important functions. Introns enable alternative mRNA splicing, a process where exons can be selectively included or excluded from the final mature mRNA transcript, allowing a single gene to code for multiple different protein products. In addition, introns often contain genetic sequences for microRNAs, which are small RNA molecules that regulate gene expression by binding to target mRNAs and preventing their translation. Furthermore, introns may facilitate crossing-over during meiosis by promoting 'exon shuffling,' which can generate new combinations of genes and proteins.",
+  "questions": [
+    {
+      "q": "What process allows a single pre-mRNA transcript to produce multiple distinct proteins?",
+      "opts": [
+        "DNA proofreading",
+        "Alternative mRNA Splicing",
+        "Initiation of transcription",
+        "Hydrolytic degradation"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide explains that through 'Alternative mRNA Splicing,' one pre-mRNA can lead to multiple different products depending on which exons are left in or out of the final mRNA. The other options are unrelated to this function."
+    },
+    {
+      "q": "What is the function of microRNAs, which can be encoded within intron sequences?",
+      "opts": [
+        "They encode structural ribosomal proteins.",
+        "They bind to mRNAs to prevent their translation, thus regulating gene expression.",
+        "They splice exons together during mRNA processing.",
+        "They act as templates for DNA replication."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide defines microRNAs as 'Small molecules involved in regulating translation of mRNAs' that 'Will bind with mRNA and prevent translation.' Options A, C, and D are incorrect."
+    }
+  ]
+}

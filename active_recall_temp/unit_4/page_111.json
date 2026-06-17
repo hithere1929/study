@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 111,
+  "filename": "Unit_4_6.txt",
+  "section_title": "Meiosis",
+  "page_num_in_file": 5,
+  "slide_title": "Meiosis I¨Prophase I:¤DNA tightly coils into chromosomes¤Spindle fibers appear                                                                     ¤Nucleolus & nuclear membrane disassemble/disappear¨Same as in mitosis!",
+  "original_text": "Meiosis I¨Prophase I:¤DNA tightly coils into chromosomes¤Spindle fibers appear                                                                     ¤Nucleolus & nuclear membrane disassemble/disappear¨Same as in mitosis!",
+  "explanation": "Prophase I is the initial stage of Meiosis I. During this phase, several key structural changes occur that are identical to the events in mitotic prophase: the chromatin DNA tightly condenses and coils to form visible chromosomes, spindle fibers begin to appear from the centrosomes, and both the nucleolus and the nuclear membrane disassemble and disappear.",
+  "questions": [
+    {
+      "q": "Which of the following events occur during Prophase I of meiosis that are identical to mitosis?",
+      "opts": [
+        "Pairing of homologous chromosomes to form tetrads.",
+        "DNA tightly coiling into chromosomes, appearance of spindle fibers, and disassembly of the nucleolus and nuclear membrane.",
+        "Separation of sister chromatids to opposite poles.",
+        "Replication of genomic DNA in the cytoplasm."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'DNA tightly coils into chromosomes', 'Spindle fibers appear', and 'Nucleolus & nuclear membrane disassemble/disappear', noting these are 'Same as in mitosis!'"
+    }
+  ]
+}

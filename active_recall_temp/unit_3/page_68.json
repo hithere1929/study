@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 68,
+  "filename": "Unit_3_3.txt",
+  "section_title": "Chromosomes",
+  "page_num_in_file": 9,
+  "slide_title": "Chromosome Number",
+  "original_text": "Chromosome Number\nChromosomes categorized as autosomal or sex chromosomes \nSex chromosomes determine sex of organism; carry some other characteristics \nIn humans, known as X and Y chromosomes \nMales: XY; females: XX \nAll other chromosomes known as autosomal \nHumans have total 46 chromosomes\n2 sex chromosomes\n44 autosomal chromosomes",
+  "explanation": "Chromosomes are categorized into two groups: sex chromosomes and autosomes (autosomal chromosomes). Sex chromosomes determine the biological sex of the organism and carry some other genetic traits. In humans, the sex chromosomes are X and Y, where males are XY and females are XX. All other chromosomes are autosomes. Humans have a total of 46 chromosomes in each somatic cell, consisting of 2 sex chromosomes and 44 autosomes.",
+  "questions": [
+    {
+      "q": "How many autosomal chromosomes and sex chromosomes do humans have in a typical diploid cell?",
+      "opts": [
+        "44 autosomes, 2 sex chromosomes",
+        "46 autosomes, 2 sex chromosomes",
+        "22 autosomes, 24 sex chromosomes",
+        "40 autosomes, 6 sex chromosomes"
+      ],
+      "a": 0,
+      "exp": "Humans have a total of 46 chromosomes, consisting of 2 sex chromosomes and 44 autosomes."
+    },
+    {
+      "q": "Which of the following chromosome combinations determines biological sex in humans according to the slide?",
+      "opts": [
+        "XY for females, XX for males",
+        "XX for females, XY for males",
+        "YY for males, XX for females",
+        "XO for females, XXY for males"
+      ],
+      "a": 1,
+      "exp": "In humans, sex chromosomes determine sex: males are XY and females are XX."
+    }
+  ]
+}

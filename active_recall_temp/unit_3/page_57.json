@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 57,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 42,
+  "slide_title": "Chloroplast Structure",
+  "original_text": "Chloroplast Structure",
+  "explanation": "This page serves as a transition or title slide for Chloroplast Structure.",
+  "questions": [
+    {
+      "q": "What is the title of the slide shown on this page?",
+      "opts": [
+        "Chloroplast Structure",
+        "Photosynthesis Reactions",
+        "Thylakoid Membrane",
+        "Plastid Diversity"
+      ],
+      "a": 0,
+      "exp": "The slide is titled 'Chloroplast Structure'."
+    }
+  ]
+}

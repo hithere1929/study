@@ -1,0 +1,27 @@
+{
+  "id": "u1_t5",
+  "title": "Bioethics",
+  "cheat_card": [
+    "A <b>biologist</b> is an expert or student of living organisms, but a <b>biological scientist</b> is specifically distinguished by carrying out active, empirical <b>scientific research</b>.",
+    "The goals of science and technology differ: the goal of <b>science</b> is to <b>understand natural phenomena</b>, whereas the goal of <b>technology</b> is to <b>apply scientific knowledge</b> for specific, practical purposes.",
+    "Science and technology are <b>interdependent</b>; for instance, the scientific discovery of the double-helix structure of DNA directly enabled modern technologies of <b>DNA manipulation</b>.",
+    "<b>Biotechnology</b> is the exploitation of biological processes and has existed for millennia through <b>artificial selection</b> (selective breeding), which humans use to modify crops, livestock, and pets.",
+    "Human use of biotechnology has caused <b>unintentional consequences</b>, including the evolution of <b>antibiotic-resistant bacteria</b>, <b>pesticide-resistant pests</b>, and species loss from climate change, raising critical questions in <b>bioethics</b>."
+  ],
+  "memory_anchor": "### Science vs. Technology:\n| Feature | Science | Technology |\n|---|---|---|\n| **Primary Goal** | **Understand natural phenomena** (gain knowledge about the universe) | **Apply scientific knowledge** for a specific practical purpose |\n| **Methods** | Observations, hypothesis testing, controlled experiments | Engineering design, prototyping, optimization, scaling |\n| **Output** | Discoveries, scientific papers, theories, principles | Inventions, products, methods, software, clinical treatments |\n| **Historical Example** | Discovering the molecular structure of the DNA double helix | Developing recombinant DNA technology and CRISPR gene editing |",
+  "flashcards": [
+    {
+      "q": "Distinguish between a biologist and a biological scientist, and explain how the relationship between DNA structure discovery and gene editing shows the connection between science and technology.",
+      "a": "A biologist is an expert in or student of living organisms, while a biological scientist specifically conducts active scientific research. The discovery of DNA structure is \"science\" (understanding a natural phenomenon), which then enabled the \"technology\" of gene editing (applying that knowledge for a specific purpose), showing their deep interdependence."
+    },
+    {
+      "q": "Define artificial selection and explain how it demonstrates that biotechnology existed long before the development of molecular genetics in the 20th century.",
+      "a": "Artificial selection is the process by which humans selectively breed plants and animals to produce offspring with desirable traits (e.g., higher-yielding crops or docile livestock). This exploitation of biological processes for human benefit is a form of biotechnology that has been used for thousands of years."
+    },
+    {
+      "q": "What are three unintended evolutionary or environmental consequences of human technological and agricultural advancements mentioned in the slides?",
+      "a": "Three unintended consequences are: (1) the evolution of antibiotic-resistant bacteria, (2) the evolution of pesticide-resistant agricultural pests, and (3) the loss of biodiversity and species due to habitat destruction and global climate change."
+    }
+  ],
+  "outline_blanks": "While a biologist studies living organisms, a biological scientist is defined by their involvement in active [[research]]. Humans have manipulated biological processes for thousands of years using [[artificial selection]] to breed crops and livestock, but modern technology has unintentionally selected for [[antibiotic-resistant bacteria]] and pesticide-resistant pests. Biologists must consider [[bioethics]] to balance the advancement of technology with its ethical and environmental impacts."
+}

@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 90,
+  "filename": "Unit_6_7.txt",
+  "section_title": "Vertebrates",
+  "page_num_in_file": 11,
+  "slide_title": "Diversity of Reptiles and Birds\u00a8Living reptiles include:\u00a4Tortoises and turtles\u00a4Lizards\u00a4Snakes\u00a4Tuataras\u00a4Crocodilians\u00a8Birds are also included and have features such as:\u00a4Feathers\u00a4Modified skeleton\u00a4Modified respiration (with lobular lungs)\u00a4Endotherms\u2013metabolic heat to maintain temp\u00a4Well-dev. sense organs and nervous system\u00a4Diversity includes:nFlying birds \u2013eagles, geese, mockingbirdsnFlightless -emu, kiwi, penguin, ostrichnNormally classified by beak and foot type, and habitat",
+  "original_text": "Diversity of Reptiles and Birds\u00a8Living reptiles include:\u00a4Tortoises and turtles\u00a4Lizards\u00a4Snakes\u00a4Tuataras\u00a4Crocodilians\u00a8Birds are also included and have features such as:\u00a4Feathers\u00a4Modified skeleton\u00a4Modified respiration (with lobular lungs)\u00a4Endotherms\u2013metabolic heat to maintain temp\u00a4Well-dev. sense organs and nervous system\u00a4Diversity includes:nFlying birds \u2013eagles, geese, mockingbirdsnFlightless -emu, kiwi, penguin, ostrichnNormally classified by beak and foot type, and habitat",
+  "explanation": "Living reptiles include tortoises and turtles, lizards, snakes, tuataras, and crocodilians. Birds are also included in the reptile lineage and possess characteristic features: 1) feathers, 2) a modified skeleton for flight, 3) modified respiration using lobular lungs, 4) endothermy (using metabolic heat to maintain a constant body temperature), and 5) well-developed sense organs and nervous systems. Bird diversity includes flying birds (e.g., eagles, geese, mockingbirds) and flightless birds (e.g., emu, kiwi, penguin, ostrich). Birds are normally classified by their beak type, foot type, and habitat.",
+  "questions": [
+    {
+      "q": "What term describes organisms like birds that generate metabolic heat to maintain their body temperature?",
+      "opts": [
+        "Ectotherms",
+        "Endotherms",
+        "Saprotrophs",
+        "Heterotrophs"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Endotherms\u2013metabolic heat to maintain temp'."
+    },
+    {
+      "q": "Which of the following is listed as a flightless bird in the notes?",
+      "opts": [
+        "Eagle",
+        "Mockingbird",
+        "Ostrich",
+        "Goose"
+      ],
+      "a": 2,
+      "exp": "The notes list 'emu, kiwi, penguin, ostrich' as flightless birds."
+    },
+    {
+      "q": "On what criteria are birds normally classified?",
+      "opts": [
+        "Embryonic tissue layers",
+        "Beak and foot type, and habitat",
+        "Whether they are monoecious or dioecious",
+        "Symmetry of their body plans"
+      ],
+      "a": 1,
+      "exp": "The notes state that birds are 'Normally classified by beak and foot type, and habitat'."
+    }
+  ]
+}

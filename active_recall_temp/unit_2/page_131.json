@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 131,
+  "filename": "Unit_2_5.txt",
+  "section_title": "Enzymes",
+  "page_num_in_file": 9,
+  "slide_title": "Enzymes",
+  "original_text": "Enzymes¨An enzyme¥is very selective in the reaction it catalyzes and¥has a shape that determines the enzyme’s specificity.¨The specific reactant that an enzyme acts on is called the enzyme’s substrate.¨A substrate fits into a region of the enzyme called the active site.¨Enzymes are specific because only specific substrate molecules fit into their active site.",
+  "explanation": "Enzymes are highly selective catalysts, meaning each enzyme typically catalyzes only one specific chemical reaction. An enzyme's unique three-dimensional shape determines its specificity. The specific reactant molecule that an enzyme binds to and acts upon is called the substrate. The substrate binds to a pocket or groove on the enzyme known as the active site. Because the structural shape of the active site is complementary only to specific substrate molecules, enzymes exhibit high specificity.",
+  "questions": [
+    {
+      "q": "What is the term for the specific reactant molecule that an enzyme acts upon?",
+      "opts": [
+        "Product",
+        "Substrate",
+        "Inhibitor",
+        "Cofactor"
+      ],
+      "a": 1,
+      "exp": "The substrate is the specific reactant molecule that binds to the enzyme and undergoes a chemical reaction."
+    },
+    {
+      "q": "What region of an enzyme does the substrate bind to?",
+      "opts": [
+        "The allosteric site",
+        "The phosphate group",
+        "The active site",
+        "The R group"
+      ],
+      "a": 2,
+      "exp": "The substrate fits into a specialized pocket or groove on the enzyme called the active site."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "u4_t5",
+  "title": "Translation",
+  "cheat_card": [
+    "The <b>genetic code</b> is a triplet code where three adjacent nucleotides in mRNA form a <b>codon</b>. It is <b>unambiguous</b> (each codon codes for one amino acid) and <b>redundant/degenerate</b> (some amino acids have multiple codons).",
+    "There are <b>64 codons</b> total: <b>AUG</b> is the start codon (coding for methionine), <b>61</b> code for amino acids, and <b>3</b> are stop codons (<b>UAA, UAG, UGA</b>) that signal termination.",
+    "The <b>Wobble Hypothesis</b> states that the first two positions of the tRNA anticodon recognize codons strictly, and flexibility at the 3rd position allows <b>~40 tRNAs</b> to bind to the 61 codons.",
+    "Ribosomes consist of large and small subunits made of <b>rRNA and proteins</b>, containing three sites: <b>A site</b> (tRNA entry), <b>P site</b> (polypeptide elongation via peptide bonds formed by a ribozyme), and <b>E site</b> (exit).",
+    "Translation consists of <b>Initiation</b> (mRNA/tRNA/ribosome assembly), <b>Elongation</b> (translocation of tRNA and peptide chain growth), and <b>Termination</b> (release of protein at a stop codon)."
+  ],
+  "memory_anchor": "**Ribosome tRNA Sites Mnemonic: A-P-E**\n1. **A** = **A**ccepts new tRNA (Amino acid enters)\n2. **P** = **P**eptide bond forms (Polypeptide elongates)\n3. **E** = **E**xit (Used tRNA leaves)",
+  "flashcards": [
+    {
+      "q": "What is the biological significance of the genetic code being 'redundant' but 'unambiguous'?",
+      "a": "Redundant (or degenerate) means that multiple different codons can code for the same amino acid, which provides protection against mutations (a point mutation might still code for the same amino acid). Unambiguous means that no codon codes for more than one amino acid, ensuring precise and consistent translation."
+    },
+    {
+      "q": "Explain Crick's Wobble Hypothesis and how it explains why cells have fewer than 61 different tRNA molecules.",
+      "a": "The Wobble Hypothesis states that base-pairing rules are relaxed at the third position of the codon-anticodon interaction. The first two bases of the tRNA anticodon pair strictly, but the third base can pair with multiple bases, allowing a single tRNA anticodon to recognize up to four different mRNA codons."
+    },
+    {
+      "q": "Detail the three tRNA binding sites in a ribosome and their roles during elongation.",
+      "a": "The A (Aminoacyl) site binds the incoming tRNA carrying the next amino acid. The P (Peptidyl) site holds the tRNA attached to the growing polypeptide chain. The E (Exit) site holds the empty tRNA before it is discharged from the ribosome."
+    }
+  ],
+  "outline_blanks": "Translation reads mRNA in triplets called [[codons]]. The start codon is [[AUG]], which codes for methionine, and there are [[3]] stop codons. Inside the ribosome, tRNAs move through the [[A]], [[P]], and [[E]] sites as the polypeptide chain is synthesized."
+}

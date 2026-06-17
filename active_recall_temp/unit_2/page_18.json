@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 18,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 18,
+  "slide_title": "2: Energy & States of Matter",
+  "original_text": "2: Energy & States of Matter¨Energy: ability to do work¤Cannot be created or destroyed, only converted between different forms\nEx: Electrical, radiant, thermal, kinetic, potential, chemical, mechanical¨States of matter: all matter is in constant motion that cannot be observed¤Amount of motion and spacing between atoms determine its state:\nSolid–closest in space, least amount of movement, fixed volume & shape\nLiquid–medium amount of space, medium amount of movement, fixed volume, variable shape\nGas–most amount of space, most movement, variable shape & volume¨Thermal energy must be added to a substance to change its state",
+  "explanation": "Energy is defined as the ability to do work. According to physical laws, energy cannot be created or destroyed; it can only be converted from one form to another, such as electrical, radiant, thermal, kinetic, potential, chemical, or mechanical energy. Matter exists in different states, and all matter is in constant motion, even if it cannot be directly observed. The state of matter is determined by the spacing between atoms and the amount of their molecular motion. In a solid, atoms are closest together, show the least movement, and maintain a fixed volume and shape. In a liquid, there is a medium amount of space and movement, keeping a fixed volume but taking a variable shape. In a gas, atoms have the most spacing and movement, resulting in both variable shape and variable volume. The addition of thermal energy is required to change the state of a substance.",
+  "questions": [
+    {
+      "q": "Which state of matter is characterized by having a fixed volume but a variable shape?",
+      "opts": [
+        "Solid",
+        "Liquid",
+        "Gas",
+        "Plasma"
+      ],
+      "a": 1,
+      "exp": "A liquid has a fixed volume but a variable shape. A solid has fixed shape and volume, while a gas has variable shape and volume."
+    },
+    {
+      "q": "What is required to change the state of matter of a substance?",
+      "opts": [
+        "Destruction of its mass.",
+        "Adding thermal energy.",
+        "Creating new energy forms.",
+        "Reducing the speed of the electrons to zero."
+      ],
+      "a": 1,
+      "exp": "According to the slide, thermal energy must be added to a substance in order to change its state."
+    }
+  ]
+}

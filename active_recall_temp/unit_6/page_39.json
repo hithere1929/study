@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 39,
+  "filename": "Unit_6_4.txt",
+  "section_title": "Fungi",
+  "page_num_in_file": 3,
+  "slide_title": "Evolution\u00a8Over 80,000 species\u00a8Mostly multicellular, but some unicellular\u00a8Heterotrophic -consume organic matter\u00a4Saprotrophs \u2013absorb this organic matternUsually dead or decaying matter from surroundings\u00a8Kingdom Fungi\u00a45 Phylum\u00a4Do not fossilize well, hard to examine fossil record",
+  "original_text": "Evolution\u00a8Over 80,000 species\u00a8Mostly multicellular, but some unicellular\u00a8Heterotrophic -consume organic matter\u00a4Saprotrophs \u2013absorb this organic matternUsually dead or decaying matter from surroundings\u00a8Kingdom Fungi\u00a45 Phylum\u00a4Do not fossilize well, hard to examine fossil record",
+  "explanation": "Kingdom Fungi contains over 80,000 species. While some species are unicellular, most fungi are multicellular. Fungi are heterotrophic organisms that consume organic matter, acting primarily as saprotrophs that absorb nutrients from dead or decaying matter in their environment. Kingdom Fungi is divided into 5 Phyla. Because fungi do not fossilize well, it is difficult to examine their fossil record.",
+  "questions": [
+    {
+      "q": "How do saprotrophic fungi acquire nutrients?",
+      "opts": [
+        "By engulfing other microorganisms via phagocytosis",
+        "By absorbing organic matter, usually dead or decaying, from their surroundings",
+        "By using solar energy to synthesize sugars",
+        "By oxidizing hydrogen gas and carbon dioxide"
+      ],
+      "a": 1,
+      "exp": "The notes state that saprotrophs 'absorb this organic matter' which is 'Usually dead or decaying matter from surroundings'."
+    },
+    {
+      "q": "Why is it difficult to examine the evolutionary record of Kingdom Fungi?",
+      "opts": [
+        "Fungi did not exist before the 20th century.",
+        "Fungi lack genetic material.",
+        "Fungi do not fossilize well.",
+        "Fungi only live inside other living hosts."
+      ],
+      "a": 2,
+      "exp": "The notes explicitly mention that fungi 'Do not fossilize well, hard to examine fossil record'."
+    },
+    {
+      "q": "How many phyla are recognized within Kingdom Fungi?",
+      "opts": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "a": 2,
+      "exp": "The notes state: 'Kingdom Fungi - 5 Phylum'."
+    }
+  ]
+}

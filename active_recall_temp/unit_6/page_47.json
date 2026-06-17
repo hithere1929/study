@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 47,
+  "filename": "Unit_6_4.txt",
+  "section_title": "Fungi",
+  "page_num_in_file": 11,
+  "slide_title": "Ascomycota \u2013Benefits and Harms\u00a8Yeast\u00a4Used to make beer and wine, bread leavening\u00a4Genetic experiments \u2013model organism\u00a4Candida albicanscauses fungal infections \u2013oral thrush\u00a8Molds\u00a4Aspergillus\u2013green molds used to produce soy sauce, and citric and gallic acids\u00a4Aspergillus flavus secretes a carcinogenic toxin\u00a4Trichophyton\u2013athletes foot\u00a4Histoplasma capsulatum leads to \u201cfungal flu\u201d\u00a8Mushrooms\u00a4Yummy\u00a4Certain wild varieties poisonousnRed and yellow AmanitasnDeath angel mushroom, Amanita phalloides, 90% of fatalities from wild mushroomsnAbdominal pain, vomiting, hallucinationsnPoison inhibits RNA polymerase, leading to kidney andliver damage",
+  "original_text": "Ascomycota \u2013Benefits and Harms\u00a8Yeast\u00a4Used to make beer and wine, bread leavening\u00a4Genetic experiments \u2013model organism\u00a4Candida albicanscauses fungal infections \u2013oral thrush\u00a8Molds\u00a4Aspergillus\u2013green molds used to produce soy sauce, and citric and gallic acids\u00a4Aspergillus flavus secretes a carcinogenic toxin\u00a4Trichophyton\u2013athletes foot\u00a4Histoplasma capsulatum leads to \u201cfungal flu\u201d\u00a8Mushrooms\u00a4Yummy\u00a4Certain wild varieties poisonousnRed and yellow AmanitasnDeath angel mushroom, Amanita phalloides, 90% of fatalities from wild mushroomsnAbdominal pain, vomiting, hallucinationsnPoison inhibits RNA polymerase, leading to kidney andliver damage",
+  "explanation": "Ascomycota and other fungi exhibit a wide array of benefits and harms. Yeasts are widely utilized in making beer, wine, and bread, and serve as model organisms in genetic research, but Candida albicans causes infections like oral thrush. Molds such as Aspergillus are used to produce soy sauce, citric acid, and gallic acid. However, Aspergillus flavus secretes a carcinogenic toxin, Trichophyton causes athlete's foot, and Histoplasma capsulatum causes 'fungal flu'. Regarding mushrooms, while many are edible, some are extremely poisonous. Wild varieties like the red and yellow Amanitas, specifically the Death Angel mushroom (Amanita phalloides), cause 90% of wild mushroom fatalities. This toxin inhibits RNA polymerase, leading to abdominal pain, vomiting, hallucinations, and severe kidney and liver damage.",
+  "questions": [
+    {
+      "q": "Which mold species is a green mold used to produce soy sauce, citric acid, and gallic acid?",
+      "opts": [
+        "Candida albicans",
+        "Aspergillus",
+        "Trichophyton",
+        "Histoplasma capsulatum"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Aspergillus\u2013green molds used to produce soy sauce, and citric and gallic acids'."
+    },
+    {
+      "q": "What is the toxic mechanism of the Death Angel mushroom (Amanita phalloides)?",
+      "opts": [
+        "It lyses the red blood cells.",
+        "It inhibits RNA polymerase, causing kidney and liver damage.",
+        "It blocks the synthesis of peptidoglycan in the cell wall.",
+        "It prevents the replication of viral cDNA."
+      ],
+      "a": 1,
+      "exp": "The notes state that the 'Poison inhibits RNA polymerase, leading to kidney and liver damage'."
+    },
+    {
+      "q": "Which fungus is responsible for athlete's foot?",
+      "opts": [
+        "Candida albicans",
+        "Trichophyton",
+        "Histoplasma capsulatum",
+        "Aspergillus flavus"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Trichophyton\u2013athletes foot'."
+    }
+  ]
+}

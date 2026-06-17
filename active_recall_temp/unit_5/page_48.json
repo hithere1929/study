@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 48,
+  "filename": "Unit_5_2.txt",
+  "section_title": "How Populations Evolve",
+  "page_num_in_file": 27,
+  "slide_title": "Maintenance of Diversity",
+  "original_text": "Maintenance of Diversity\n\u00a4Recessive alleles:\n  nHeterozygotes shelter recessive alleles from selection\n  nHeterozygotes allow even lethal alleles to remain in the population at low frequencies virtually forever\n  nSometimes recessive alleles confer an advantage to heterozygotes\n  nThe sickle-cell anemia allele is detrimental in homozygote\n  nHowever, heterozygotes are more likely to survive malaria\n  nThe sickle-cell allele occurs at a higher frequency in malaria prone areas\n  nHeterozygote Advantage\n    nAssists the maintenance of genetic, and therefore phenotypic, variations in future generations.\n    nIn sickle cell disease heterozygous individuals don\u2019t die from sickle-cell disease, and they don\u2019t die from malaria.",
+  "explanation": "This slide explains how genetic diversity is maintained through recessive alleles and heterozygote advantage. Diploidy allows heterozygous individuals to carry and 'shelter' recessive alleles from natural selection, since the recessive phenotype is not expressed. This mechanism permits even lethal recessive alleles to persist in populations at low frequencies indefinitely. Sometimes, a recessive allele confers an evolutionary benefit to heterozygotes, a phenomenon known as 'Heterozygote Advantage.' For example, the sickle-cell allele is lethal or highly detrimental in homozygous recessive individuals who develop sickle-cell anemia. However, heterozygous individuals are resistant to malaria and do not develop severe sickle-cell disease. As a result, the sickle-cell allele occurs at a higher frequency in malaria-prone regions because natural selection favors the heterozygotes, maintaining both alleles in the gene pool.",
+  "questions": [
+    {
+      "q": "How do heterozygotes help maintain harmful recessive alleles in a population?",
+      "opts": [
+        "They cause the recessive allele to mutate into a dominant one.",
+        "They shelter the recessive allele from natural selection because the recessive phenotype is not expressed.",
+        "They force the population to undergo genetic drift.",
+        "They prevent the recessive allele from undergoing transcription."
+      ],
+      "a": 1,
+      "exp": "Because heterozygotes express the dominant phenotype, the recessive allele is hidden or 'sheltered' from natural selection, allowing it to persist in the population."
+    },
+    {
+      "q": "What is the biological benefit of being heterozygous for the sickle-cell allele in malaria-prone regions?",
+      "opts": [
+        "Heterozygotes develop mild malaria but are cured of sickle-cell anemia.",
+        "Heterozygotes do not die from sickle-cell disease and are more resistant to malaria.",
+        "Heterozygotes develop wings to fly away from mosquitoes.",
+        "Heterozygotes have double the normal amount of hemoglobin."
+      ],
+      "a": 1,
+      "exp": "Heterozygous individuals (carriers) have a selective advantage in malaria-prone areas: they do not suffer from lethal sickle-cell disease and are also protected against malaria."
+    }
+  ]
+}

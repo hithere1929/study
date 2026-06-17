@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 91,
+  "filename": "Unit_2_3.txt",
+  "section_title": "Movement of Molecules",
+  "page_num_in_file": 17,
+  "slide_title": "Active Transport",
+  "original_text": "Active Transport¨In active transport, a cell must expend energy to move a solute againstits concentration gradient.¨The energy molecule ATP supplies the energy for most active transport.¤Proteins involved in active transport often called pumps¤Sodium-Potassium Pumpmost famous in a cell",
+  "explanation": "In active transport, a cell must expend energy to move a solute against (or up) its concentration gradient, moving it from an area of lower concentration to an area of higher concentration. The cell's primary energy carrier, ATP, provides the energy required for this process. Membrane proteins that perform active transport are commonly referred to as pumps, with the Sodium-Potassium Pump being the most famous active transport pump in animal cells.",
+  "questions": [
+    {
+      "q": "What defines active transport?",
+      "opts": [
+        "The movement of solutes down their concentration gradient using channel proteins.",
+        "The passive diffusion of water across a semipermeable membrane.",
+        "The movement of a solute against its concentration gradient, requiring the expenditure of cellular energy (ATP).",
+        "The random movement of small, nonpolar gas molecules."
+      ],
+      "a": 2,
+      "exp": "Active transport is characterized by moving solutes against their concentration gradient, which requires the cell to expend energy, usually in the form of ATP."
+    },
+    {
+      "q": "What is the most famous active transport pump found in cells?",
+      "opts": [
+        "Aquaporin pump",
+        "Calcium pump",
+        "Sodium-Potassium pump",
+        "Proton/sucrose pump"
+      ],
+      "a": 2,
+      "exp": "The Sodium-Potassium Pump is the most famous active transport pump in cells."
+    }
+  ]
+}

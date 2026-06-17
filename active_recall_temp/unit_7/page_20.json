@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 20,
+  "filename": "Unit_7_1.txt",
+  "section_title": "Plant Structure & Organization",
+  "page_num_in_file": 20,
+  "slide_title": "Organization and Diversity of Leaves: Anatomy",
+  "original_text": "Organization and Diversity of Leaves Leaves contain: Upper and lower epidermis Waxy cuticle Trichomes Lower epidermis has stomata for gas exchange Mesophyll Eudicot leaves have Palisade mesophyll containing elongated cells Spongy mesophyll containing irregular cells bounded by air spaces Contains many chloroplasts",
+  "explanation": "The anatomy of a leaf is specialized for photosynthesis and gas exchange. The leaf is bounded by an upper and lower epidermis. These epidermal layers are covered with a waxy cuticle to prevent water loss and may feature trichomes. The lower epidermis features stomata, microscopic pores that regulate gas exchange. The internal tissue of the leaf is the mesophyll, which contains numerous chloroplasts. In eudicot leaves, the mesophyll is differentiated into two layers: 1) Palisade mesophyll: located below the upper epidermis, consisting of tightly packed, column-like elongated cells optimized for light absorption. 2) Spongy mesophyll: located above the lower epidermis, consisting of loosely packed, irregularly shaped cells surrounded by extensive air spaces that facilitate the diffusion of gases.",
+  "questions": [
+    {
+      "q": "In a eudicot leaf, which layer contains tightly packed, elongated cells beneath the upper epidermis?",
+      "opts": [
+        "Spongy mesophyll",
+        "Palisade mesophyll",
+        "Periderm",
+        "Pericycle"
+      ],
+      "a": 1,
+      "exp": "The palisade mesophyll contains tightly packed, elongated cells beneath the upper epidermis, specialized for absorbing light. Spongy mesophyll contains irregular cells with air spaces."
+    },
+    {
+      "q": "Where are stomata typically located, and what is their primary function in leaves?",
+      "opts": [
+        "In the upper epidermis; to secrete the waxy cuticle",
+        "In the lower epidermis; to allow gas exchange",
+        "In the spongy mesophyll; to store starch",
+        "In the vascular bundle; to transport water"
+      ],
+      "a": 1,
+      "exp": "Stomata are pores located primarily on the lower epidermis of leaves to facilitate gas exchange while minimizing water loss."
+    }
+  ]
+}

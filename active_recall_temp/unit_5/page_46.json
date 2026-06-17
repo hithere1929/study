@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 46,
+  "filename": "Unit_5_2.txt",
+  "section_title": "How Populations Evolve",
+  "page_num_in_file": 25,
+  "slide_title": "Maintenance of Diversity",
+  "original_text": "Maintenance of Diversity\n\u00a8Adaptation of a population to the biotic and abiotic environment requires:\n  nVariation -The members of a population differ from one another\n  nInheritance -Many differences are heritable genetic differences\n  nDifferential Adaptiveness -Some differences affect survivability\n  nDifferential Reproduction \u2013Some differences affect the likelihood of successful reproduction\n\u00a4Results in:\n  nA change in allele frequencies of the gene pool\n  nImproved fitness of the population\n  nMajor cause of microevolution",
+  "explanation": "Adaptation of a population to its biotic (living) and abiotic (non-living) environment requires four essential conditions: (1) Variation, meaning individuals within the population must differ in their traits; (2) Inheritance, meaning these differences must be heritable genetic variations; (3) Differential Adaptiveness, meaning some variations must affect the individual's ability to survive; and (4) Differential Reproduction, meaning some variations must affect the probability of successful reproduction. The presence of these conditions leads to a change in the allele frequencies of the gene pool and improves the overall fitness of the population, serving as a primary cause of microevolution.",
+  "questions": [
+    {
+      "q": "Which of the following is NOT one of the four requirements for natural selection to adapt a population to its environment?",
+      "opts": [
+        "Variation among members",
+        "Heritable genetic differences (Inheritance)",
+        "Differential adaptiveness and reproduction",
+        "Complete absence of genetic mutations"
+      ],
+      "a": 3,
+      "exp": "Adaptation requires variation, inheritance, differential adaptiveness, and differential reproduction. Mutations are the raw material for variation, so their complete absence is not a requirement; rather, variation is required."
+    },
+    {
+      "q": "What is the biological outcome when variation, inheritance, differential adaptiveness, and differential reproduction occur in a population?",
+      "opts": [
+        "Allele frequencies in the gene pool change, leading to improved population fitness.",
+        "The population enters Hardy-Weinberg equilibrium.",
+        "All genetic diversity is permanently lost.",
+        "The population stops reproducing."
+      ],
+      "a": 0,
+      "exp": "These four factors constitute natural selection, which alters allele frequencies in the gene pool and increases the population's evolutionary fitness."
+    }
+  ]
+}

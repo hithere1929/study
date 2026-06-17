@@ -1,0 +1,23 @@
+{
+  "unit": 5,
+  "page": 59,
+  "filename": "Unit_5_3.txt",
+  "section_title": "Speciation & Macroevolution",
+  "page_num_in_file": 10,
+  "slide_title": "How New Species Evolve",
+  "original_text": "How New Species Evolve\nExample of temporal isolation \u2013Frogs from Ithica, New York above, have breeding period peaks that differ between species.",
+  "explanation": "This slide provides a concrete example of temporal isolation using frog populations located in Ithaca, New York (spelled Ithica in the slide text). Even though these different frog species share the same geographic area, they do not interbreed because their breeding periods peak at different times, maintaining reproductive isolation.",
+  "questions": [
+    {
+      "q": "The frogs from Ithaca, New York, provide an example of which reproductive isolating mechanism?",
+      "opts": [
+        "Mechanical isolation",
+        "Gamete isolation",
+        "Temporal isolation",
+        "Postzygotic isolation"
+      ],
+      "a": 2,
+      "exp": "The slide explicitly states that the frogs from Ithaca are an example of temporal isolation because their breeding period peaks differ."
+    }
+  ]
+}

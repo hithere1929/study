@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 130,
+  "filename": "Unit_4_7.txt",
+  "section_title": "Chromosome-based Syndromes",
+  "page_num_in_file": 2,
+  "slide_title": "What happens when chromosome number and structure abnormalities occur in a cell?",
+  "original_text": "What happens when chromosome number and structure abnormalities occur in a cell?\nChromosomal Abnormalities",
+  "explanation": "This slide introduces the study of chromosomal abnormalities, posing the central question of what happens inside a cell when abnormalities in chromosome number or structure occur.",
+  "questions": [
+    {
+      "q": "What key question does this introductory slide pose regarding chromosomal abnormalities?",
+      "opts": [
+        "How are plasmids cloned in bacterial cells?",
+        "What happens when chromosome number and structure abnormalities occur in a cell?",
+        "What is the role of FSH in ovulation?",
+        "How does crossing-over occur during synapsis?"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide poses the exact question: 'What happens when chromosome number and structure abnormalities occur in a cell?'."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "u7_t3",
+  "title": "Plant Nutrient Flow",
+  "cheat_card": [
+    "Water and minerals enter root hairs passively via <b>osmosis</b> when root osmotic pressure is lower than the soil. Ions can be actively pumped via <b>proton pumps</b> against concentration gradients.",
+    "<b>Cohesion-Tension Model</b>: Transpiration (evaporation from leaf stomata) exerts a pulling force (<b>tension</b>) that pulls water passively through the xylem. <b>Cohesion</b> (hydrogen bonds between water molecules) keeps the water column intact; <b>adhesion</b> (water binding to hydrophilic vessel walls) counteracts gravity.",
+    "<b>Pressure-Flow Model</b>: Phloem transports organic nutrients from <b>source</b> (leaves, where sucrose is actively loaded) to <b>sink</b> (roots/storage, where sucrose is unloaded). Active loading of sucrose causes water to follow by <b>osmosis</b>, creating high <b>positive pressure</b> that drives bulk flow.",
+    "<b>Root Pressure & Guttation</b>: Water accumulation in roots creates positive root pressure, which pushes xylem sap upward, sometimes forcing liquid water out leaf vein endings (<b>guttation</b>) when transpiration is low."
+  ],
+  "memory_anchor": "<h3>Xylem vs. Phloem Flow Mechanisms</h3><ul><li><b>Xylem: Passive Pull</b> (Negative tension created by transpiration pull; pulls water and minerals upward from roots to leaves).</li><li><b>Phloem: Active/Passive Push</b> (Positive pressure created by active loading of sucrose at source, followed by osmosis of water; pushes organic sap from source to sink).</li></ul>",
+  "flashcards": [
+    {
+      "q": "Explain how the cohesion-tension model drives the upward movement of water in xylem.",
+      "a": "Transpiration (evaporation from leaf stomata) creates a negative pressure (tension) in leaf veins. Because of cohesion (hydrogen bonds between polar water molecules), this pull is transmitted down the water column to the roots. Adhesion (water binding to hydrophilic cellulose xylem walls) counteracts gravity to keep the column continuous."
+    },
+    {
+      "q": "How does the pressure-flow model explain the movement of organic nutrients in phloem?",
+      "a": "Sucrose is actively loaded into sieve-tube members at the source (leaves), which lowers the water potential. Water from the xylem follows by osmosis, creating a high positive hydrostatic pressure. At the sink (roots/fruits), sucrose is unloaded, water exits by osmosis, and the resulting pressure gradient drives the bulk flow of phloem sap."
+    },
+    {
+      "q": "What is guttation and how is it related to root pressure?",
+      "a": "Guttation is the forcing of water droplets out of leaf vein endings at night or early morning. It is caused by positive root pressure, which occurs when water continues to enter roots passively by osmosis when transpiration is low."
+    }
+  ],
+  "outline_blanks": "Water transport in plants is explained by the [[cohesion-tension]] model, where transpiration at the leaf stomata pulls water columns up the xylem passively. Conversely, sucrose transport in the phloem is explained by the [[pressure-flow]] model, where active loading of sucrose at the [[source]] causes water to enter by osmosis, generating a high [[positive pressure]] that drives transport to the sink."
+}

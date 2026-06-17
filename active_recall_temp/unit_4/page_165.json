@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 165,
+  "filename": "Unit_4_8.txt",
+  "section_title": "Mendelian Inheritance P1 - Mendelian Genetics",
+  "page_num_in_file": 20,
+  "slide_title": "Relationship Between Observed Phenotype and F2 Offspring",
+  "original_text": "Relationship Between Observed Phenotype and F2 Offspring",
+  "explanation": "The relationship between observed phenotype and F2 offspring demonstrates that the dominant phenotype may hide a recessive allele, meaning that individuals showing the dominant phenotype can be either homozygous dominant or heterozygous.",
+  "questions": [
+    {
+      "q": "Why can we not always determine an individual's genotype just by looking at their dominant phenotype?",
+      "opts": [
+        "The recessive allele is always destroyed.",
+        "The dominant allele masks the expression of the recessive allele in heterozygotes.",
+        "Mutated alleles do not align on the chromosomes.",
+        "Phenotype changes with age."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because heterozygous individuals (Aa) carry a recessive allele but exhibit the dominant phenotype, making them indistinguishable from homozygous dominant individuals (AA) by phenotype alone."
+    }
+  ]
+}

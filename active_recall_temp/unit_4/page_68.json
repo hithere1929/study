@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 68,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 17,
+  "slide_title": "2) Transcriptional Control¨Most critical level of eukaryotic regulation¨Transcriptional control much more complicated in eukaryotes compared to prokaryotes¨Eukaryotic cells do not contain operons¤Instead every cell has different types of transcription factorsthat help regulate transcription. nAssist in binding of RNA polymerase to a promoter, and some promotors require several T-factors for transcription to occur¤Some promoters will also require a transcription activatorto assist prior to transcription¤Enhancerslocated elsewhere on the chromosome may need to be bound by factors in order for a structural change to occur and begin transcription¤Repressors may also bind to silencerregions of the promoter of a gene and stop transcription",
+  "original_text": "2) Transcriptional Control¨Most critical level of eukaryotic regulation¨Transcriptional control much more complicated in eukaryotes compared to prokaryotes¨Eukaryotic cells do not contain operons¤Instead every cell has different types of transcription factorsthat help regulate transcription. nAssist in binding of RNA polymerase to a promoter, and some promotors require several T-factors for transcription to occur¤Some promoters will also require a transcription activatorto assist prior to transcription¤Enhancerslocated elsewhere on the chromosome may need to be bound by factors in order for a structural change to occur and begin transcription¤Repressors may also bind to silencerregions of the promoter of a gene and stop transcription",
+  "explanation": "Transcriptional control is the most critical level of gene regulation in eukaryotic cells. It is significantly more complicated than in prokaryotes. Crucially, eukaryotic cells do not contain operons. Instead, they rely on various proteins called transcription factors (T-factors) to regulate gene expression. These transcription factors assist RNA polymerase in binding to a gene's promoter. Many promoters require multiple transcription factors before transcription can begin. In addition, some genes require a transcription activator to assist in initiation. Regulatory DNA sequences called enhancers, which can be located far away on the chromosome, may need to be bound by transcription factors to trigger a structural change (such as DNA looping) that allows transcription to start. Conversely, repressor proteins can bind to silencer regions near the promoter of a gene to halt transcription.",
+  "questions": [
+    {
+      "q": "Which of the following statements about eukaryotic transcriptional control is TRUE?",
+      "opts": [
+        "Eukaryotes organize their genes into operons similar to prokaryotes.",
+        "Eukaryotic cells do not contain operons; they use transcription factors to regulate gene transcription.",
+        "Transcriptional control is the least critical level of eukaryotic regulation.",
+        "Enhancers must always be located immediately adjacent to the promoter."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states 'Eukaryotic cells do not contain operons' and 'Instead every cell has different types of transcription factors that help regulate transcription.' Option A is false. Option C is false because it is the 'Most critical level' of regulation. Option D is false because enhancers are 'located elsewhere on the chromosome.'"
+    },
+    {
+      "q": "What is the function of repressors in eukaryotic transcriptional control?",
+      "opts": [
+        "They bind to enhancers to speed up transcription.",
+        "They bind to silencer regions of the promoter of a gene and stop transcription.",
+        "They phosphorylate RNA polymerase to activate it.",
+        "They splice intron regions out of mature mRNA."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'Repressors may also bind to silencer regions of the promoter of a gene and stop transcription.' The other options are incorrect."
+    }
+  ]
+}

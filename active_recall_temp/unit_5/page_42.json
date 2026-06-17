@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 42,
+  "filename": "Unit_5_2.txt",
+  "section_title": "How Populations Evolve",
+  "page_num_in_file": 21,
+  "slide_title": "Natural Selection",
+  "original_text": "Natural Selection\n\u00a4Sexual selection-adaptive changes in males and females lead to an increased ability to secure a mate.\n  nMale Competition -increased ability to compete with other males for a mate\n    nMales can father many offspring because they continuously produce sperm in great quantity.\n    nCompete to inseminate as many females as possible.\n    nDominance Hierarchies in some groups limit access to females\n  nFemale Choice -choose to select a male with the best fitness (ability to produce surviving offspring).\n    nChoice of a mate is a serious consideration because females produce few eggs\n    nGood genes hypothesis: Females choose mates on the basis of traits that improve the chance of survival.\n    nRunaway hypothesis: Females choose mates on the basis of traits that improve male appearance.",
+  "explanation": "Sexual selection refers to adaptive changes in males and females that enhance their ability to secure mates. It operates through two mechanisms: (1) Male Competition: Because males continuously produce massive amounts of sperm, they can father many offspring and compete to inseminate as many females as possible. In some species, this is regulated by dominance hierarchies that restrict mating access to dominant males. (2) Female Choice: Because females produce relatively few eggs, choosing a mate is a significant investment. Females select males with the highest fitness (ability to produce surviving offspring). This choice is explained by two hypotheses: the 'good genes hypothesis,' which suggests females select mates with traits that signal high survival capability, and the 'runaway hypothesis,' which suggests females choose mates based on traits that enhance male physical appearance.",
+  "questions": [
+    {
+      "q": "Why is mate selection typically a more critical biological choice for females than for males?",
+      "opts": [
+        "Females are in genetic equilibrium.",
+        "Females produce relatively few eggs compared to the continuous production of sperm by males.",
+        "Females do not pass their genes to their offspring.",
+        "Females are always larger due to sexual dimorphism."
+      ],
+      "a": 1,
+      "exp": "Females produce a limited number of eggs and invest more in offspring, making mate choice a critical decision, while males continuously produce abundant sperm and compete for access."
+    },
+    {
+      "q": "What does the 'good genes hypothesis' propose about female mate choice?",
+      "opts": [
+        "Females choose mates solely to increase the size of the territory.",
+        "Females choose mates based on traits that improve the offspring's chances of survival.",
+        "Females choose mates based on traits that only improve the male's physical appearance.",
+        "Females choose mates randomly to maintain genetic equilibrium."
+      ],
+      "a": 1,
+      "exp": "The good genes hypothesis states that females choose mates based on physical traits that signal genetic quality and improved survival prospects for their offspring."
+    }
+  ]
+}

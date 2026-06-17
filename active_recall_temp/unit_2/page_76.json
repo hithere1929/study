@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 76,
+  "filename": "Unit_2_3.txt",
+  "section_title": "Movement of Molecules",
+  "page_num_in_file": 2,
+  "slide_title": "Membrane Structure & Function",
+  "original_text": "Membrane Structure & Function¨Phospholipids, the key ingredient of biological membranes, spontaneously self-assemble into simple membranes¤The formation of membrane-enclosed collections of molecules was a critical step in the evolution of the first cells.",
+  "explanation": "Phospholipids are the key component of biological membranes, and they spontaneously self-assemble into simple membrane structures in water. The evolutionary formation of membrane-enclosed collections of molecules was a critical, fundamental step in the development of the very first living cells.",
+  "questions": [
+    {
+      "q": "What characteristic behavior of phospholipids was crucial for the evolution of the first cells?",
+      "opts": [
+        "They dissolve in water to form acids.",
+        "They spontaneously self-assemble into simple membranes.",
+        "They act as enzymatic catalysts for protein synthesis.",
+        "They replicate themselves using genetic codes."
+      ],
+      "a": 1,
+      "exp": "Phospholipids spontaneously self-assemble into simple membrane structures, which enclosed collections of molecules to form the first cell-like structures."
+    }
+  ]
+}

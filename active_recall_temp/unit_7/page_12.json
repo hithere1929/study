@@ -1,0 +1,23 @@
+{
+  "unit": 7,
+  "page": 12,
+  "filename": "Unit_7_1.txt",
+  "section_title": "Plant Structure & Organization",
+  "page_num_in_file": 12,
+  "slide_title": "Organization and Diversity of Roots",
+  "original_text": "Organization and Diversity of Roots",
+  "explanation": "This page introduces the subtopic of root organization and diversity. It serves as a divider or section title within the notes.",
+  "questions": [
+    {
+      "q": "Which organ system's organization and diversity is introduced on this slide?",
+      "opts": [
+        "Shoot system",
+        "Root system",
+        "Leaves",
+        "Flowers"
+      ],
+      "a": 1,
+      "exp": "The slide serves as a transition to discuss the organization and diversity of the root system."
+    }
+  ]
+}

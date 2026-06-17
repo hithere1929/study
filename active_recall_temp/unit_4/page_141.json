@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 141,
+  "filename": "Unit_4_7.txt",
+  "section_title": "Chromosome-based Syndromes",
+  "page_num_in_file": 13,
+  "slide_title": "Changes in Chromosome Structure¨Some abnormalities occur when the structure of the chromosome is altered in the process of crossing-over, or as a result of mutation¤Likelihood of these instances can increase with exposure to agents in environment, radiation, organic chemicals, and viruses¤Usually results in an end of a chromosome breaking offnIn normal circumstances, the broken end will simply reattach at the breakpointnSometimes, these broken ends do not reattach in the same location and order, leading to disease states",
+  "original_text": "Changes in Chromosome Structure¨Some abnormalities occur when the structure of the chromosome is altered in the process of crossing-over, or as a result of mutation¤Likelihood of these instances can increase with exposure to agents in environment, radiation, organic chemicals, and viruses¤Usually results in an end of a chromosome breaking offnIn normal circumstances, the broken end will simply reattach at the breakpointnSometimes, these broken ends do not reattach in the same location and order, leading to disease states",
+  "explanation": "Structural chromosomal abnormalities occur when the physical structure of a chromosome is altered during crossing-over or as a result of mutations. The likelihood of these structural changes is increased by exposure to environmental agents such as radiation, organic chemicals, and viruses. These events typically begin with the breaking off of a chromosome end. Normally, this broken piece will simply reattach at its original breakpoint. However, if the broken ends do not reattach in the original location or order, it can lead to disease states.",
+  "questions": [
+    {
+      "q": "What environmental agents are listed as factors that increase the likelihood of structural chromosome abnormalities?",
+      "opts": [
+        "High temperatures and low glucose levels.",
+        "Radiation, organic chemicals, and viruses.",
+        "Heavy water and lipid solvents.",
+        "Active transcription factors and kinases."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide lists: 'exposure to agents in environment, radiation, organic chemicals, and viruses' as factors that increase structural abnormality likelihood."
+    },
+    {
+      "q": "What typically happens to a broken chromosome end under normal circumstances versus abnormal circumstances?",
+      "opts": [
+        "Normally it is degraded by proteasomes; abnormally it replicates.",
+        "Normally it simply reattaches at the breakpoint; abnormally it does not reattach in the same location and order, leading to disease.",
+        "Normally it forms a plasmid; abnormally it is lost.",
+        "Normally it triggers mitosis; abnormally it halts meiosis."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide explains: 'In normal circumstances, the broken end will simply reattach at the breakpoint' but 'Sometimes, these broken ends do not reattach in the same location and order, leading to disease states.'"
+    }
+  ]
+}

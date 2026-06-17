@@ -1,0 +1,23 @@
+{
+  "unit": 5,
+  "page": 55,
+  "filename": "Unit_5_3.txt",
+  "section_title": "Speciation & Macroevolution",
+  "page_num_in_file": 6,
+  "slide_title": "How New Species Evolve",
+  "original_text": "How New Species Evolve\n\u00a8Evolutionary Species Concept\n\u00a4The evolutionary species concept distinguishes species from one another based on morphological (structural) traits\n\u00a4Critical traits for distinguishing species are called diagnostic traits\n\u00a4Members of a species must share the same, distinct, evolutionary pathway",
+  "explanation": "The Evolutionary Species Concept also distinguishes species from one another based on structural, morphological traits (critical traits used for this are termed 'diagnostic traits'). However, this concept adds an evolutionary dimension: it requires that all members of a single species share the same, distinct, and continuous evolutionary pathway over time, separating their history from that of other species.",
+  "questions": [
+    {
+      "q": "What is a key requirement for organisms to be considered the same species under the Evolutionary Species Concept?",
+      "opts": [
+        "They must live in the exact same geographic territory.",
+        "They must share the same, distinct, evolutionary pathway.",
+        "They must undergo autoploidy in each generation.",
+        "They must not share any diagnostic morphological traits."
+      ],
+      "a": 1,
+      "exp": "The evolutionary species concept requires that members of a species share the same, distinct evolutionary pathway."
+    }
+  ]
+}

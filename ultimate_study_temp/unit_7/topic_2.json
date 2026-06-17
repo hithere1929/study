@@ -1,0 +1,26 @@
+{
+  "id": "u7_t2",
+  "title": "Plant Reproduction",
+  "cheat_card": [
+    "Plants undergo an <b>alternation of generations</b>: the diploid <b>sporophyte (2n)</b> produces haploid <b>spores (n)</b> by meiosis, which divide mitotically into haploid <b>gametophytes (n)</b>. Gametophytes produce <b>gametes (n)</b> that fuse to form a <b>zygote (2n)</b>.",
+    "In the anther, microspore mother cells (2n) undergo <b>meiosis</b> to produce <b>microspores (n)</b>, which undergo <b>mitosis</b> to form mature <b>pollen grains (male gametophyte)</b>.",
+    "In the ovule, a megaspore mother cell (2n) undergoes <b>meiosis</b> to yield 4 megaspores (3 degenerate, 1 functional). The functional megaspore undergoes <b>3 mitotic divisions</b> to form the <b>embryo sac (female gametophyte)</b> containing <b>8 nuclei</b> (1 egg, 2 synergids, 3 antipodals, and 2 polar nuclei in a central cell).",
+    "<b>Double Fertilization</b>: One sperm nucleus (n) fertilizes the egg (n) to produce the diploid <b>zygote (2n)</b>, while the other sperm (n) fuses with the two polar nuclei (2n) to form the triploid <b>endosperm (3n)</b>, which serves as a food source."
+  ],
+  "memory_anchor": "<h3>Double Fertilization Equations</h3><ul><li><b>Sperm (n) + Egg (n) &rarr; Zygote (2n) &rarr; Embryo (develops into sporophyte)</b></li><li><b>Sperm (n) + 2 Polar Nuclei (2n) &rarr; Endosperm (3n) &rarr; Stored Food (nutrient source for seed)</b></li></ul><p><i>Memory Hook:</i> <b>D</b>ouble fertilization produces <b>D</b>iploid zygote and <b>T</b>riploid endosperm (Double = 2, Triploid = 3).</p>",
+  "flashcards": [
+    {
+      "q": "What are the events and products of double fertilization in angiosperms?",
+      "a": "During double fertilization, one sperm nucleus fuses with the egg cell to form a diploid (2n) zygote (which becomes the embryo), while the second sperm nucleus fuses with the two polar nuclei in the central cell to produce a triploid (3n) endosperm nucleus (which becomes the stored food source)."
+    },
+    {
+      "q": "Explain the origin and development of the female gametophyte (embryo sac) in flowering plants.",
+      "a": "A megaspore mother cell (2n) in the ovule undergoes meiosis to produce four haploid megaspores. Three degenerate, and the one functional megaspore undergoes three mitotic divisions to produce a mature embryo sac with eight nuclei (one egg, two synergids, three antipodal cells, and two polar nuclei in the central cell)."
+    },
+    {
+      "q": "What is the epicotyl, hypocotyl, and radicle in a mature plant embryo?",
+      "a": "The epicotyl is the region above the cotyledons that contributes to shoot development, the hypocotyl is the region below that contributes to stem development, and the radicle is the embryonic root."
+    }
+  ],
+  "outline_blanks": "Angiosperms undergo alternation of generations where the diploid [[sporophyte]] produces haploid spores by meiosis. During reproduction, [[double fertilization]] occurs, where one sperm fertilizes the egg to form a diploid [[zygote]], and another sperm fuses with two polar nuclei to form a triploid [[endosperm]]."
+}

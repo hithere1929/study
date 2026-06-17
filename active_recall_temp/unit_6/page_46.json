@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 46,
+  "filename": "Unit_6_4.txt",
+  "section_title": "Fungi",
+  "page_num_in_file": 10,
+  "slide_title": "Diversity -Ascomycota\u00a8Sexual reproduction\u00a4Ascusis a fingerlike sac that develops during sexualnMay be surrounded and protected by sterile hyphae within a fruiting body called an ascocarpnIn cup fungi, ascocarpare cup shapednIn morels, they are stalked and crowned by a pitted bell-shapednHaploid hyphae fuse to make diploidnMeiosis occurs, followed by mitosis \u2013results in 8 ascosporesnSpores move by wind, contact female organ, and produce new haploid hyphae",
+  "original_text": "Diversity -Ascomycota\u00a8Sexual reproduction\u00a4Ascusis a fingerlike sac that develops during sexualnMay be surrounded and protected by sterile hyphae within a fruiting body called an ascocarpnIn cup fungi, ascocarpare cup shapednIn morels, they are stalked and crowned by a pitted bell-shapednHaploid hyphae fuse to make diploidnMeiosis occurs, followed by mitosis \u2013results in 8 ascosporesnSpores move by wind, contact female organ, and produce new haploid hyphae",
+  "explanation": "During Ascomycota sexual reproduction, a specialized fingerlike sac called an ascus is formed. These asci are often protected by a surrounding layer of sterile hyphae within a fruiting body called an ascocarp. The shape of the ascocarp varies: it is cup-shaped in cup fungi and stalked with a pitted bell-shaped crown in morels. The reproduction process involves the fusion of haploid hyphae to form a diploid nucleus, which undergoes meiosis followed by a single mitotic division, resulting in 8 haploid ascospores. These spores are dispersed by the wind, and upon contacting a female organ, they germinate to produce new haploid hyphae.",
+  "questions": [
+    {
+      "q": "What is the characteristic reproductive sac of Ascomycota called?",
+      "opts": [
+        "Basidium",
+        "Ascus",
+        "Sporangium",
+        "Conidia"
+      ],
+      "a": 1,
+      "exp": "The notes state that an 'Ascus is a fingerlike sac that develops during sexual' reproduction in Ascomycota."
+    },
+    {
+      "q": "How many ascospores are produced in each ascus after meiosis and mitosis occur?",
+      "opts": [
+        "4",
+        "6",
+        "8",
+        "16"
+      ],
+      "a": 2,
+      "exp": "The notes state: 'Meiosis occurs, followed by mitosis \u2013 results in 8 ascospores'."
+    },
+    {
+      "q": "What is the fruiting body of an Ascomycete called?",
+      "opts": [
+        "Basidiocarp",
+        "Ascocarp",
+        "Mycelium",
+        "Stolon"
+      ],
+      "a": 1,
+      "exp": "The notes state the asci may be protected within a fruiting body called an 'ascocarp'."
+    }
+  ]
+}

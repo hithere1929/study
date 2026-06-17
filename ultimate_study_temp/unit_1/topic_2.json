@@ -1,0 +1,27 @@
+{
+  "id": "u1_t2",
+  "title": "Biological Hierarchy",
+  "cheat_card": [
+    "The <b>structural levels</b> of biological organization progress from the subatomic to organismal: <b>Atom</b> (smallest unit of an element), <b>Molecule</b> (two or more bonded atoms), <b>Cell</b> (basic unit of life), <b>Tissue</b>, <b>Organ</b>, <b>Organ System</b>, and <b>Organism</b>.",
+    "The <b>ecological levels</b> of biological organization transition from the individual to global scale: <b>Population</b> (same species in an area), <b>Community</b> (interacting populations), <b>Ecosystem</b> (biotic community plus abiotic physical environment), and <b>Biosphere</b> (regions of Earth's crust, waters, and atmosphere inhabited by life).",
+    "At each step up the biological hierarchy, new <b>emergent properties</b> develop due to the complex interactions of the simpler components, which are not observed in the individual parts alone.",
+    "<b>Taxonomy</b> classifies Earth's diversity from the least inclusive category, <b>Species</b> (group of interbreeding individuals), to the most inclusive. As you move up, the levels contain <b>more individuals sharing fewer characteristics</b>.",
+    "All life is categorized into three domains: <b>Bacteria</b> (widespread prokaryotes), <b>Archaea</b> (extreme-environment prokaryotes), and <b>Eukarya</b> (all organisms containing a membrane-bound nucleus)."
+  ],
+  "memory_anchor": "### Levels of Biological Organization:\n| Level | Focus | Key Definition | Example |\n|---|---|---|---|\n| **Cell** | Cellular | Structural/functional unit of all living things | Neuron / Nerve cell |\n| **Tissue** | Cellular | Group of cells with common structure/function | Nervous tissue |\n| **Organ** | Organismal | Tissues functioning together for a specific task | Brain |\n| **Organ System** | Organismal | Several organs working together | Nervous system |\n| **Organism** | Organismal | An individual containing organ systems | Elephant / Tree |\n| **Population** | Ecological | Organisms of the same species in a particular area | Herd of elephants |\n| **Community** | Ecological | Interacting populations in a particular area | Elephants, zebras, and trees |\n| **Ecosystem** | Ecological | Community plus the physical (abiotic) environment | Savanna soil, water, and community |\n| **Biosphere** | Ecological | Regions of Earth inhabited by living things | Earth's crust, atmosphere, and waters |",
+  "flashcards": [
+    {
+      "q": "Why does a cell exhibit properties of \"life\" that are not present when examining its individual constituent molecules (like lipids and proteins) in isolation?",
+      "a": "This is due to the development of emergent properties. As you move up the hierarchy of organization, interactions between simpler components (molecules) create complex, novel properties at the higher level (the cell) that cannot be predicted by studying the individual parts alone."
+    },
+    {
+      "q": "Explain the difference between a biological community and an ecosystem, specifying what components are added when transitioning between these two levels.",
+      "a": "A community consists of all the interacting populations of different species in a particular area (only biotic factors). An ecosystem includes this biotic community plus the abiotic factors of the physical environment (such as water, soil, temperature, and sunlight)."
+    },
+    {
+      "q": "Compare the three domains of life in terms of cellular structure (prokaryote vs. eukaryote) and their typical habitats.",
+      "a": "Domain Bacteria contains widespread and diverse prokaryotes (lacking a membrane-bound nucleus). Domain Archaea contains prokaryotes that often live in Earth's extreme environments (like deep-sea vents or volcanic chambers). Domain Eukarya contains eukaryotes (possessing a membrane-bound nucleus), ranging from single-celled protists to multicellular organisms."
+    }
+  ],
+  "outline_blanks": "As biological complexity increases, new [[emergent properties]] develop at each level of the hierarchy, which begins with the smallest unit of an element called the [[atom]]. The structural and functional unit of all living things is the [[cell]], while a group of interacting populations in a particular area forms a [[community]]. In classification, organisms are grouped into three domains: Eukarya, which contains a membrane-bound nucleus, and the prokaryotic domains [[Bacteria]] and [[Archaea]]."
+}

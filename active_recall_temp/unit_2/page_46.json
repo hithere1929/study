@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 46,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 10,
+  "slide_title": "ATP",
+  "original_text": "ATP",
+  "explanation": "This slide serves as a placeholder for a diagram showing the chemical structure of ATP.",
+  "questions": [
+    {
+      "q": "What molecule is featured on this placeholder slide?",
+      "opts": [
+        "Glucose",
+        "DNA",
+        "ATP",
+        "Water"
+      ],
+      "a": 2,
+      "exp": "The slide title is 'ATP', representing the chemical structure of adenosine triphosphate."
+    }
+  ]
+}

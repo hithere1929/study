@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 94,
+  "filename": "Unit_4_5.txt",
+  "section_title": "Biotech & Genomics",
+  "page_num_in_file": 14,
+  "slide_title": "Biotechnology Products¨Transgenic Animals¤Genes can be inserted into the eggs of animals bynMicroinjectionnVortex MixingnEggs are placed in an agitator with DNA and silicon-carbide needlesnThe needles make tiny holes through which the DNA can enternThe fertilized eggs develop into transgenic animalsnThis procedure has been used to introduce the gene for bovine growth hormone (bGH) into eggs for the purpose of producing larger fishes, cows, pigs, rabbits, and sheep¤Gene PharmingnUse of transgenic farm animals to produce pharmaceuticalsnGenes coding for therapeutic and diagnostic proteins are incorporated into an animal’s DNAnThe proteins appear in the animal’s milknPlans are to produce drugs to treatnCystic fibrosis, cancer, blood diseases, etc.",
+  "original_text": "Biotechnology Products¨Transgenic Animals¤Genes can be inserted into the eggs of animals bynMicroinjectionnVortex MixingnEggs are placed in an agitator with DNA and silicon-carbide needlesnThe needles make tiny holes through which the DNA can enternThe fertilized eggs develop into transgenic animalsnThis procedure has been used to introduce the gene for bovine growth hormone (bGH) into eggs for the purpose of producing larger fishes, cows, pigs, rabbits, and sheep¤Gene PharmingnUse of transgenic farm animals to produce pharmaceuticalsnGenes coding for therapeutic and diagnostic proteins are incorporated into an animal’s DNAnThe proteins appear in the animal’s milknPlans are to produce drugs to treatnCystic fibrosis, cancer, blood diseases, etc.",
+  "explanation": "Transgenic animals are produced by inserting foreign genes into animal eggs using microinjection or vortex mixing. Vortex mixing involves placing the eggs in an agitator along with DNA and silicon-carbide needles. The agitation causes the needles to punch microscopic holes in the eggs, allowing foreign DNA to enter. Once fertilized, these eggs develop into transgenic organisms. This method has introduced the bovine growth hormone (bGH) gene into eggs to produce larger fish, cows, pigs, rabbits, and sheep. A related application is 'gene pharming', where transgenic farm animals are used to produce pharmaceuticals. Genes encoding therapeutic or diagnostic proteins are integrated into the animal's DNA, causing the proteins to be secreted into the animal's milk. This is intended to produce treatments for cystic fibrosis, cancer, and blood diseases.",
+  "questions": [
+    {
+      "q": "How does vortex mixing facilitate the entry of foreign DNA into animal eggs?",
+      "opts": [
+        "By using electric shocks to open cell membranes.",
+        "By agitating the eggs with DNA and silicon-carbide needles to create tiny entry holes.",
+        "By using restriction enzymes to digest the egg cell wall.",
+        "By packaging the DNA into viral vectors that infect the egg."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states that during vortex mixing, 'Eggs are placed in an agitator with DNA and silicon-carbide needles' and 'The needles make tiny holes through which the DNA can enter.' The other options are incorrect."
+    },
+    {
+      "q": "What is gene pharming?",
+      "opts": [
+        "Splicing plant genes into bacterial plasmid vectors.",
+        "The agricultural cultivation of transgenic soybeans to resist herbicides.",
+        "The use of transgenic farm animals to produce pharmaceutical proteins in their milk.",
+        "The injection of bovine growth hormone into adult farm animals."
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide defines gene pharming as: 'Use of transgenic farm animals to produce pharmaceuticals' where the genes are incorporated into their DNA and 'The proteins appear in the animal’s milk.' The other choices are incorrect."
+    }
+  ]
+}

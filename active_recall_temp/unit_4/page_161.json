@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 161,
+  "filename": "Unit_4_8.txt",
+  "section_title": "Mendelian Inheritance P1 - Mendelian Genetics",
+  "page_num_in_file": 16,
+  "slide_title": "Mendel’s Monohybrid Cross",
+  "original_text": "Mendel’s Monohybrid Cross",
+  "explanation": "This slide concludes the visual representation of Mendel's monohybrid cross, highlighting how the mathematical analysis of offspring phenotypes allowed Mendel to infer underlying genotypic behavior.",
+  "questions": [
+    {
+      "q": "What mathematical tool is commonly used to predict the genotypes and phenotypes of offspring in a monohybrid cross?",
+      "opts": [
+        "Pedigree chart",
+        "Punnett square",
+        "Karyotype",
+        "Chi-square test"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because a Punnett square is the standard graphical table used to predict genotypes and phenotypes resulting from a cross."
+    }
+  ]
+}

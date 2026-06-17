@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 87,
+  "filename": "Unit_3_4.txt",
+  "section_title": "The Cell Cycle",
+  "page_num_in_file": 14,
+  "slide_title": "Mitosis -Anaphase",
+  "original_text": "Mitosis -Anaphase\nChromatids of each chromosome separate at the centromere \nSlowly move, centromere first, toward opposite poles of cell \nAfter chromatids separate \nconsidered to be individual chromosomes",
+  "explanation": "Anaphase is characterized by the separation of the sister chromatids of each chromosome. They split at the centromere and are pulled slowly toward opposite poles of the cell, moving centromere-first. Once chromatids separate, they are considered to be individual chromosomes.",
+  "questions": [
+    {
+      "q": "What key event defines anaphase in mitosis?",
+      "opts": [
+        "Chromosomes align at the metaphase plate.",
+        "Chromatids of each chromosome separate at the centromere and move toward opposite poles.",
+        "The nuclear envelope reforms around chromosomes.",
+        "DNA wraps around histones to form chromatin."
+      ],
+      "a": 1,
+      "exp": "Anaphase begins when chromatids of each chromosome separate at the centromere and slowly move toward opposite poles of the cell."
+    }
+  ]
+}

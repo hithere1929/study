@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 7,
+  "filename": "Unit_4_1.txt",
+  "section_title": "DNA Advances through 20th Century",
+  "page_num_in_file": 7,
+  "slide_title": "Historical Basis -Griffith",
+  "original_text": "Historical Basis -Griffith\nGriffith’s conclusions:Heat-killed virulent bacteria released a hereditary factor that transfers disease-causing ability to live, previously non-virulent bacteriaTransfer of genetic material from one cell to another; one organism to another: transformation",
+  "explanation": "Frederick Griffith concluded from his experiments that when heat-killed virulent bacteria (S strain) were mixed with live non-virulent bacteria (R strain), the heat-killed bacteria released a 'hereditary factor' that transferred the disease-causing (virulent) ability to the live, previously harmless bacteria. He defined 'transformation' as this transfer of genetic material from one cell to another, or from one organism to another, changing the characteristics of the recipient cell.",
+  "questions": [
+    {
+      "q": "What term did Frederick Griffith use to describe the transfer of genetic material from one cell or organism to another?",
+      "opts": [
+        "Transcription",
+        "Translation",
+        "Transformation",
+        "Translocation"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide defines 'transformation' as the transfer of genetic material from one cell to another. Options A, B, and D are other molecular biology terms that do not describe this general transfer phenomenon discovered by Griffith."
+    },
+    {
+      "q": "What did Griffith conclude was released by the heat-killed virulent bacteria?",
+      "opts": [
+        "A toxic chemical that poisoned the mice directly.",
+        "A hereditary factor that transferred disease-causing ability to live, non-virulent bacteria.",
+        "An enzyme that destroyed the live bacteria's capsule.",
+        "Active viral particles that infected the host."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because Griffith's conclusion was that heat-killed virulent bacteria released a 'hereditary factor that transfers disease-causing ability to live, previously non-virulent bacteria.' Options A, C, and D represent incorrect interpretations of Griffith's findings."
+    }
+  ]
+}

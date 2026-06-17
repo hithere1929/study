@@ -1,0 +1,29 @@
+{
+  "id": "u8_t11",
+  "title": "Plant strategies",
+  "cheat_card": [
+    "In hot, dry climates, stomata close to prevent water loss, causing $CO_2$ levels to drop and $O_2$ to rise, triggering wasteful <b>photorespiration</b>.",
+    "<b>C4 plants</b> bypass photorespiration by fixing $CO_2$ to <b>PEP</b> (phosphoenolpyruvate) to form a 4-carbon molecule, separating fixation spatially.",
+    "<b>CAM plants</b> partition carbon fixation by time: they open stomata at <b>night</b> to store $CO_2$ in vacuoles, keeping stomata closed during <b>daylight</b>.",
+    "<b>C4 plants</b> (e.g., corn, sugarcane) have 2-3x higher productivity in hot, dry climates, but <b>C3 plants</b> are better adapted to cool climates below <b>25\u00b0C</b>."
+  ],
+  "memory_anchor": "Avoiding Photorespiration:\n- C4: Spatial separation (PEP carboxylase in mesophyll, Calvin Cycle in bundle sheath).\n- CAM: Temporal separation (Open stomata at night, Calvin Cycle during day).",
+  "flashcards": [
+    {
+      "q": "What is photorespiration, and why is it disadvantageous for C3 plants in hot, dry climates?",
+      "q_id": "u8_t11_f1",
+      "a": "Photorespiration is a wasteful process that occurs when closed stomata cause CO2 levels to drop and O2 levels to rise inside the leaf. Rubisco binds O2 instead of CO2, releasing CO2 and consuming energy without producing carbohydrates."
+    },
+    {
+      "q": "Explain how CAM plants conserve water while still performing photosynthesis.",
+      "q_id": "u8_t11_f2",
+      "a": "CAM plants open their stomata at night to capture CO2 and store it as C4 molecules in vacuoles. During the day, they close their stomata to prevent water loss and release the stored CO2 to the Calvin cycle using light energy."
+    },
+    {
+      "q": "Give three examples of C4 plants and specify the temperature threshold below which C3 plants are better adapted.",
+      "q_id": "u8_t11_f3",
+      "a": "Examples of C4 plants include corn, sugarcane, Bermuda grass, and crab grass. C3 plants are better adapted to cool, moist environments below 25\u00b0C."
+    }
+  ],
+  "outline_blanks": "Under hot and dry conditions, C3 plants close their stomata, resulting in wasteful [[photorespiration]]. C4 plants bypass this by fixing CO2 to PEP, producing a 4-carbon molecule. In contrast, CAM plants conserve water by opening stomata at [[night]] to store carbon in vacuoles, then release it during the [[day]] to run the Calvin cycle."
+}

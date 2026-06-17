@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 7,
+  "filename": "Unit_8_1.txt",
+  "section_title": "Behavioral Ecology",
+  "page_num_in_file": 7,
+  "slide_title": "The Environment Influences Behavior¨Orientation and Migratory Behavior¤Orientation-The ability to travel in a particular directionnMany birds use the sun or star for cues¤Migration -Long-distance travel from one location to anothernEx: Starling migration¤Navigation-The ability to change direction in response to environmental cuesnClues may come from the Earth’s magnetic field¨Cognitive Learning¤Learning through observation, imitation, and insightnInsight learning -Solving a problem without prior experiencenAnimal appears to draw upon prior experience with other circumstances to solve the problem.    Vid1",
+  "original_text": "The Environment Influences Behavior¨Orientation and Migratory Behavior¤Orientation-The ability to travel in a particular directionnMany birds use the sun or star for cues¤Migration -Long-distance travel from one location to anothernEx: Starling migration¤Navigation-The ability to change direction in response to environmental cuesnClues may come from the Earth’s magnetic field¨Cognitive Learning¤Learning through observation, imitation, and insightnInsight learning -Solving a problem without prior experiencenAnimal appears to draw upon prior experience with other circumstances to solve the problem.    Vid1",
+  "explanation": "This slide describes animal movements and cognitive learning. It distinguishes three key movement behaviors: 1) Orientation is the basic ability to travel in a specific direction, where many birds use celestial cues like the sun or stars. 2) Migration refers to long-distance travel from one location to another, as seen in starlings. 3) Navigation represents a more complex ability to change direction in response to environmental cues, which can include sensing the Earth's magnetic field. Cognitive learning is defined as learning through observation, imitation, and insight. Specifically, insight learning is the capability to solve a novel problem without prior direct experience, where the animal appears to synthesize and draw upon its past experience from different circumstances to find a solution.",
+  "questions": [
+    {
+      "q": "What is the difference between orientation and navigation as described in the notes?",
+      "opts": [
+        "Orientation is the ability to travel in a particular direction, whereas navigation is the ability to change direction in response to environmental cues.",
+        "Orientation is based on magnetic fields, whereas navigation is based only on solar cues.",
+        "Orientation represents short-distance travel, while navigation is long-distance migration.",
+        "Orientation requires cognitive learning, while navigation is a pure fixed action pattern."
+      ],
+      "a": 0,
+      "exp": "The notes define orientation as 'the ability to travel in a particular direction' and navigation as 'the ability to change direction in response to environmental cues.'"
+    },
+    {
+      "q": "How is insight learning defined under cognitive learning?",
+      "opts": [
+        "Imitation of maternal behaviors during a sensitive period after birth",
+        "Solving a problem without prior experience by drawing on past experiences from other circumstances",
+        "A gradual strengthening of stimulus-response connections using food rewards",
+        "A change in behavior based on the paired presentation of two different stimuli"
+      ],
+      "a": 1,
+      "exp": "The notes define insight learning as 'Solving a problem without prior experience' where the 'Animal appears to draw upon prior experience with other circumstances to solve the problem.'"
+    }
+  ]
+}

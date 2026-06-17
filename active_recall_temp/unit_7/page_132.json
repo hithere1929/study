@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 132,
+  "filename": "Unit_7_7.txt",
+  "section_title": "Respiratory System",
+  "page_num_in_file": 15,
+  "slide_title": "Breathing & Transport of Gases: Gas Exchange",
+  "original_text": "Breathing and Transport of Gases Gas Exchange and Transport Partial pressure nThe amount of pressure exerted by a gas nGases diffuse from areas of higher to lower partial pressure nVentilation causes the alveoli to have a higher partial pressure of oxygen and a lower partial pressure of carbon dioxide than the blood in the pulmonary capillaries nThis accounts for the exchange of gases in the lungs nThe opposite occurs in the tissues of the body Gas Exchange Video",
+  "explanation": "Gas exchange is driven by differences in partial pressure (the pressure exerted by an individual gas in a mixture). Gases diffuse down their pressure gradient from high to low partial pressure. Ventilation maintains a higher partial pressure of oxygen ($P_{O2}$) and a lower partial pressure of carbon dioxide ($P_{CO2}$) in the alveoli compared to the blood entering the pulmonary capillaries, driving oxygen into the blood and carbon dioxide out. In systemic tissues, the opposite gradient exists, driving oxygen into tissues and carbon dioxide into the blood.",
+  "questions": [
+    {
+      "q": "What drives the diffusion of gases across respiratory membranes?",
+      "opts": [
+        "Active transport proton pumps",
+        "Differences in partial pressure, with gases moving from high to low pressure",
+        "The movement of cilia in the trachea",
+        "The flow of lymph through the thoracic duct"
+      ],
+      "a": 1,
+      "exp": "Gases diffuse passively down their partial pressure gradients, moving from areas of higher partial pressure to lower partial pressure."
+    },
+    {
+      "q": "What are the partial pressure conditions in the alveoli relative to the pulmonary capillaries that facilitate gas exchange in the lungs?",
+      "opts": [
+        "Alveoli have lower PO2 and higher PCO2.",
+        "Alveoli have higher PO2 and lower PCO2.",
+        "Alveoli and capillaries are at exact oxygen equilibrium.",
+        "Alveoli lack carbon dioxide entirely."
+      ],
+      "a": 1,
+      "exp": "Ventilation keeps alveolar PO2 high and PCO2 low, allowing oxygen to diffuse into the low-oxygen blood and carbon dioxide to diffuse out of the high-CO2 blood."
+    }
+  ]
+}

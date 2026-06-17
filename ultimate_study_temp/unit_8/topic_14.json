@@ -1,0 +1,29 @@
+{
+  "id": "u8_t14",
+  "title": "ATP generation",
+  "cheat_card": [
+    "ATP is generated via <b>substrate-level phosphorylation</b> (glycolysis & Krebs) and <b>oxidative phosphorylation</b> (chemiosmosis).",
+    "ETC complexes pump $H^+$ from the matrix into the <b>intermembrane space</b>, building an electrochemical proton gradient.",
+    "Protons diffuse down their gradient back into the matrix through the channel of <b>ATP synthase</b>, powering ATP synthesis.",
+    "Aerobic respiration has a <b>39% energy efficiency rate</b> (harvesting 263 kcal of glucose's 686 kcal in 36 ATP), with the rest lost as heat."
+  ],
+  "memory_anchor": "Chemiosmosis:\nProtons ($H^+$) pumped to Intermembrane Space -> Proton Motive Force -> Flow through ATP Synthase (like water through a turbine) -> Matrix -> ATP produced.",
+  "flashcards": [
+    {
+      "q": "How is the hydrogen ion ($H^+$) gradient established in the mitochondrion, and where is it most concentrated?",
+      "q_id": "u8_t14_f1",
+      "a": "The energy released from electrons flowing down the ETC is used by protein complexes to pump H+ from the matrix into the intermembrane space, where it becomes highly concentrated."
+    },
+    {
+      "q": "Describe how ATP synthase utilizes the H+ gradient to generate ATP.",
+      "q_id": "u8_t14_f2",
+      "a": "ATP synthase contains a channel that allows H+ to flow down their electrochemical gradient back into the matrix. This flow of protons drives the enzyme to synthesize ATP from ADP and inorganic phosphate (Pi)."
+    },
+    {
+      "q": "Calculate the approximate energy efficiency of aerobic cellular respiration if one mole of glucose contains 686 kcal and yields 36 ATP.",
+      "q_id": "u8_t14_f3",
+      "a": "Since each ATP phosphate bond stores 7.3 kcal, 36 ATP molecules yield 263 kcal. The efficiency is calculated as (263 / 686) * 100 = 39%, with the remaining 61% released as heat."
+    }
+  ],
+  "outline_blanks": "During cellular respiration, the ETC pumps protons from the matrix into the [[intermembrane space]] to form a gradient. Protons then diffuse back through the [[ATP synthase]] channel to power phosphorylation. Aerobic respiration of one glucose molecule yields 36-38 ATP, representing an efficiency of [[39%]]."
+}

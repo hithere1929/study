@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 31,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 31,
+  "slide_title": "3: Aqueous Solutions",
+  "original_text": "3: Aqueous Solutions¨Aqueous solution: water is the solvent¤Important to all living things¤Ocean is a aqueous solution –marine life habitat¤Nutrients for plants are in aqueous solution in soil¤Cells exist in interstitial (intercellular) fluid, which is an aqueous solution¤Cells filled with fluid that in an aqueous solution¨Most chemical reaction in the body occur in aqueous solution",
+  "explanation": "An aqueous solution is a solution in which water serves as the solvent. Aqueous solutions are critical to all living systems: the oceans are aqueous solutions providing habitats for marine life, plant nutrients in the soil are delivered via aqueous solutions, cells are bathed in intercellular (interstitial) fluid which is aqueous, and cells are filled with intracellular fluid which is also an aqueous solution. Consequently, the vast majority of chemical reactions in the body take place within an aqueous solution.",
+  "questions": [
+    {
+      "q": "What defines an aqueous solution?",
+      "opts": [
+        "A solution where alcohol is the solvent.",
+        "A solution where water is the solvent.",
+        "A solution where gas is dissolved in a solid.",
+        "A solution that contains no solute particles."
+      ],
+      "a": 1,
+      "exp": "An aqueous solution is specifically defined as a solution where water is the solvent."
+    },
+    {
+      "q": "Where do most chemical reactions in the human body occur?",
+      "opts": [
+        "In a vacuum",
+        "In solid bone matrix",
+        "In aqueous solution",
+        "In lipid membranes only"
+      ],
+      "a": 2,
+      "exp": "Most chemical reactions in the body occur in aqueous solutions because cells and intercellular fluids are water-based."
+    }
+  ]
+}

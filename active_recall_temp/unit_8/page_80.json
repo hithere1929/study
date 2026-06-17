@@ -1,0 +1,23 @@
+{
+  "unit": 8,
+  "page": 80,
+  "filename": "Unit_8_5.txt",
+  "section_title": "Cellular Respiration",
+  "page_num_in_file": 8,
+  "slide_title": "Outside the Mitochondria: Glycolysis",
+  "original_text": "Outside the Mitochondria: Glycolysis",
+  "explanation": "This slide serves as a transition or title slide focusing on glycolysis occurring outside the mitochondria.",
+  "questions": [
+    {
+      "q": "Where in the cell does glycolysis occur?",
+      "opts": [
+        "Inside the mitochondrial matrix",
+        "In the thylakoid space",
+        "Outside the mitochondria, in the cytoplasm",
+        "Within the inner mitochondrial membrane"
+      ],
+      "a": 2,
+      "exp": "As the title indicates, glycolysis occurs 'Outside the Mitochondria', which means the cytoplasm."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 49,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 34,
+  "slide_title": "Plant Cells",
+  "original_text": "Plant Cells\nMost organelles and other cell structures are common to all eukaryotic cells\nPlants have 3 additional structures important to their function:\nCell wall\nCentral vacuole\nPlastid\nPlants synthesize their own C-molecules (sugar) directly from CO2and water in the environment through a process called photosynthesis",
+  "explanation": "While most organelles are common to all eukaryotic cells, plant cells contain three unique and essential structures: the cell wall, the central vacuole, and plastids. Plants are autotrophic, meaning they synthesize their own carbon-containing organic molecules (sugars) directly from inorganic carbon dioxide and water in their environment via the process of photosynthesis.",
+  "questions": [
+    {
+      "q": "What are the three additional structures important to plant cell function that are not typically found in animal cells?",
+      "opts": [
+        "Cell wall, Central vacuole, and Plastid",
+        "Mitochondria, Rough ER, and Lysosome",
+        "Centriole, Cytoskeleton, and Plasma membrane",
+        "Nucleus, Nucleolus, and Nuclear pores"
+      ],
+      "a": 0,
+      "exp": "The slide lists the three additional structures in plant cells as the cell wall, central vacuole, and plastid."
+    },
+    {
+      "q": "How do plants obtain carbon-containing molecules (sugars)?",
+      "opts": [
+        "By absorbing them directly from soil nutrients",
+        "By synthesizing them from carbon dioxide and water through photosynthesis",
+        "By digesting bacteria via autophagy",
+        "By breaking down fatty acids in peroxisomes"
+      ],
+      "a": 1,
+      "exp": "Plants synthesize their own carbon molecules (sugar) directly from CO2 and water in the environment through photosynthesis."
+    }
+  ]
+}

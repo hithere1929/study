@@ -1,0 +1,34 @@
+{
+  "unit": 6,
+  "page": 44,
+  "filename": "Unit_6_4.txt",
+  "section_title": "Fungi",
+  "page_num_in_file": 8,
+  "slide_title": "Diversity \u2013Glomeromycota\u00a8Arbuscular mycorrhizal (AM) Fungi\u00a4Arbuscules\u2013branching invaginations that fungus make when invading plant roots\u00a4Mycorrhizae -mutualistic associations of plants and fungi\u00a4Previously grouped as Zygomycota, but molecular data determined it is its own unique genetic group.",
+  "original_text": "Diversity \u2013Glomeromycota\u00a8Arbuscular mycorrhizal (AM) Fungi\u00a4Arbuscules\u2013branching invaginations that fungus make when invading plant roots\u00a4Mycorrhizae -mutualistic associations of plants and fungi\u00a4Previously grouped as Zygomycota, but molecular data determined it is its own unique genetic group.",
+  "explanation": "Phylum Glomeromycota consists of arbuscular mycorrhizal (AM) fungi. They form arbuscules, which are branching invaginations that the fungus makes when invading host plant roots. These fungi form mycorrhizae, which are mutualistic associations between plants and fungi. Although they were previously grouped within Zygomycota, molecular data has shown that Glomeromycota is a distinct genetic group.",
+  "questions": [
+    {
+      "q": "What are arbuscules in Glomeromycota?",
+      "opts": [
+        "Horizontal surface hyphae on bread",
+        "Branching invaginations that the fungus forms when invading plant roots",
+        "Flagellated reproductive cells",
+        "Spores that germinate into haploid hyphae"
+      ],
+      "a": 1,
+      "exp": "The notes define arbuscules as 'branching invaginations that fungus make when invading plant roots'."
+    },
+    {
+      "q": "How were Glomeromycota classified before molecular data separated them?",
+      "opts": [
+        "As Ascomycota",
+        "As Zygomycota",
+        "As Chytridiomycota",
+        "As Eukaryotic plants"
+      ],
+      "a": 1,
+      "exp": "The notes state that they were 'Previously grouped as Zygomycota, but molecular data determined it is its own unique genetic group.'"
+    }
+  ]
+}

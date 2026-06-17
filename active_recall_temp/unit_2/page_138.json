@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 138,
+  "filename": "Unit_2_5.txt",
+  "section_title": "Enzymes",
+  "page_num_in_file": 16,
+  "slide_title": "Enzymes",
+  "original_text": "Enzymes¨Many beneficial drugs act as enzyme inhibitors, including¥ibuprofen, which inhibits an enzyme involved in the production of prostaglandins (messenger molecules that increase the sensation of pain and inflammation),¥some blood pressure medicines,¥some antidepressants,¥many antibiotics, and ¥protease inhibitors used to fight HIV.¨Enzyme inhibitors have also been developed as ¥pesticides and ¥deadly poisons for chemical warfare.",
+  "explanation": "Many beneficial pharmaceutical drugs exploit enzyme inhibition to treat medical conditions. For example, ibuprofen acts by inhibiting an enzyme involved in synthesizing prostaglandins, which are messenger molecules that amplify pain and inflammation. Other examples of therapeutic inhibitors include blood pressure medications, antidepressants, antibiotics, and protease inhibitors used to combat HIV. However, enzyme inhibition can also have negative applications; inhibitors have been engineered as agricultural pesticides and as deadly chemical weapons.",
+  "questions": [
+    {
+      "q": "How does ibuprofen function to reduce pain and inflammation?",
+      "opts": [
+        "By destroying prostaglandins in the blood.",
+        "By inhibiting an enzyme involved in the production of prostaglandins.",
+        "By acting as a coenzyme for cellular respiration.",
+        "By binding to pain receptors in the brain."
+      ],
+      "a": 1,
+      "exp": "Ibuprofen is an enzyme inhibitor that prevents the synthesis of prostaglandins, which are messenger molecules that signal pain and inflammation."
+    },
+    {
+      "q": "Which of the following medical treatments does NOT rely on enzyme inhibition as described on this slide?",
+      "opts": [
+        "HIV protease inhibitors",
+        "Many antibiotics",
+        "Ibuprofen",
+        "Hormone replacement therapy"
+      ],
+      "a": 3,
+      "exp": "HIV protease inhibitors, antibiotics, and ibuprofen all act as enzyme inhibitors. Hormone replacement therapy is not mentioned as acting via enzyme inhibition."
+    }
+  ]
+}

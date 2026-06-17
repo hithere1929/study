@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 70,
+  "filename": "Unit_3_3.txt",
+  "section_title": "Chromosomes",
+  "page_num_in_file": 11,
+  "slide_title": "Homologous Chromosomes",
+  "original_text": "Homologous Chromosomes\nKaryotype: photomicrograph of chromosomes in a dividing cell \n46 human chromosomes:\n22 homologous pairs of autosomes\n2 sex chromosomes",
+  "explanation": "A karyotype is a specialized photomicrograph showing the chromosomes of a dividing cell, arranged by size and shape. In humans, a standard karyotype reveals 46 chromosomes, which are organized into 22 homologous pairs of autosomes and 2 sex chromosomes.",
+  "questions": [
+    {
+      "q": "What is a karyotype?",
+      "opts": [
+        "A process of cellular division in prokaryotes",
+        "A photomicrograph of chromosomes in a dividing cell",
+        "The region where sister chromatids join",
+        "A type of histone protein"
+      ],
+      "a": 1,
+      "exp": "The slide defines a karyotype as a photomicrograph of chromosomes in a dividing cell."
+    }
+  ]
+}

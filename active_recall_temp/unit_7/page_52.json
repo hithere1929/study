@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 52,
+  "filename": "Unit_7_3.txt",
+  "section_title": "Plant Control of Growth Responses",
+  "page_num_in_file": 17,
+  "slide_title": "Plant Responses: Photoperiodism & Phytochrome",
+  "original_text": "Plant Responses Photoperiodism Any physiological response prompted by changes in day or night length nInfluences flowering in some plants nRequires participation of a biological clock and a plant photoreceptor called phytochrome Phytochrome is a blue-green leaf pigment that alternately exists in two forms nPhytochrome red (Pr) is inactive nPhytochrome far-red (Pfr) is active nConversion of forms allows a plant to detect photoperiod changes nAlso promotes seed germination and inhibits stem elongation",
+  "explanation": "Photoperiodism is any physiological response (such as flowering) prompted by changes in the relative lengths of day and night. This mechanism requires an internal biological clock and the plant photoreceptor pigment phytochrome. Phytochrome is a blue-green leaf pigment that exists in two interconvertible forms: 1) Phytochrome red ($P_r$): the inactive form that absorbs red light. 2) Phytochrome far-red ($P_{fr}$): the active form that absorbs far-red light. The interconversion between these two forms allows the plant to track photoperiodic changes. Active $P_{fr}$ also functions to promote seed germination and inhibit stem elongation.",
+  "questions": [
+    {
+      "q": "Which pigment acts as the photoreceptor in photoperiodism?",
+      "opts": [
+        "Phototropin",
+        "Phytochrome",
+        "Chlorophyll a",
+        "Carotenoid"
+      ],
+      "a": 1,
+      "exp": "Phytochrome is the leaf pigment that acts as a photoreceptor to detect changes in day and night length."
+    },
+    {
+      "q": "Which form of phytochrome is the active form?",
+      "opts": [
+        "Phytochrome red (Pr)",
+        "Phytochrome far-red (Pfr)",
+        "Phytochrome blue (Pb)",
+        "Phytochrome green (Pg)"
+      ],
+      "a": 1,
+      "exp": "Phytochrome far-red (Pfr) is the physiologically active form, while Phytochrome red (Pr) is inactive."
+    },
+    {
+      "q": "Which of the following is promoted by the active form of phytochrome (Pfr)?",
+      "opts": [
+        "Stem elongation",
+        "Seed germination",
+        "Fruit abscission",
+        "Bud dormancy"
+      ],
+      "a": 1,
+      "exp": "Active phytochrome (Pfr) promotes seed germination and inhibits stem elongation."
+    }
+  ]
+}

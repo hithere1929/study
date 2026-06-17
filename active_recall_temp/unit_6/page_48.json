@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 48,
+  "filename": "Unit_6_4.txt",
+  "section_title": "Fungi",
+  "page_num_in_file": 12,
+  "slide_title": "Diversity -Basidiomycota\u00a8Club Fungi \u201322,000 species\u00a4Familiar toadstools, mushrooms, bracket fungi, puffballsnSome poisonousnSome cause plant diseases (smuts and rusts)\u00a4Mycelium composed of septate hyphae\u00a4Usually reproduce sexuallynHaploid hyphae fuse to form dikaryotic mycelium (n + n)nDikaryotic mycelium form fruiting bodies \u2013basidiocarpwith club shaped basidiumnNuclear fusion followed by meiosis forms basidiospores",
+  "original_text": "Diversity -Basidiomycota\u00a8Club Fungi \u201322,000 species\u00a4Familiar toadstools, mushrooms, bracket fungi, puffballsnSome poisonousnSome cause plant diseases (smuts and rusts)\u00a4Mycelium composed of septate hyphae\u00a4Usually reproduce sexuallynHaploid hyphae fuse to form dikaryotic mycelium (n + n)nDikaryotic mycelium form fruiting bodies \u2013basidiocarpwith club shaped basidiumnNuclear fusion followed by meiosis forms basidiospores",
+  "explanation": "Phylum Basidiomycota, known as Club Fungi, comprises around 22,000 species, including toadstools, mushrooms, bracket fungi, and puffballs. Some species are poisonous, and some cause plant diseases like smuts and rusts. The mycelium of Basidiomycota has septate hyphae. They typically reproduce sexually. Haploid hyphae fuse to form a dikaryotic mycelium (n + n), which develops into a fruiting body called a basidiocarp. This fruiting body contains club-shaped reproductive structures called basidia. Within the basidium, nuclear fusion is followed by meiosis to produce basidiospores.",
+  "questions": [
+    {
+      "q": "What is the common name for members of Phylum Basidiomycota?",
+      "opts": [
+        "Sac Fungi",
+        "Club Fungi",
+        "AM Fungi",
+        "Aquatic Fungi"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Diversity -Basidiomycota Club Fungi \u2013 22,000 species'."
+    },
+    {
+      "q": "What reproductive structure is formed by the dikaryotic mycelium of Basidiomycota?",
+      "opts": [
+        "An ascocarp with fingerlike asci",
+        "A basidiocarp containing club-shaped basidia",
+        "A sporangiophore containing zoospores",
+        "A multi-chambered test of calcium carbonate"
+      ],
+      "a": 1,
+      "exp": "According to the notes, the dikaryotic mycelium forms 'fruiting bodies \u2013 basidiocarp with club shaped basidium'."
+    },
+    {
+      "q": "What process forms basidiospores in the basidium?",
+      "opts": [
+        "Meiosis followed by mitosis",
+        "Nuclear fusion followed by meiosis",
+        "Budding of the basidiocarp",
+        "Binary fission"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Nuclear fusion followed by meiosis forms basidiospores'."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 5,
+  "filename": "Unit_5_1.txt",
+  "section_title": "Darwin & Evidence for Evolution",
+  "page_num_in_file": 5,
+  "slide_title": "History of Evolutionary Thought",
+  "original_text": "History of Evolutionary Thought\n¨Mid-Eighteenth Century\n¤Classifying and organizing different organisms became a focus of biologists\n¤Carolus Linnaeus –Fixity of species\nnEach species has:\nnAn ideal structure and function\nnA place in the scala naturae(sequential ladder of life)\nnDeveloped a system of binomial nomenclature\n¤Count Buffon\nnFrench naturalist, cataloged 44 volumes of known plants and animals\nnProvided evidence of descent with modification\nnSuggested mechanisms including environmental influences, migration, geographic isolation, and struggle for existence",
+  "explanation": "In the mid-eighteenth century, biology began focusing on the systematic classification and organization of organisms. Carolus Linnaeus championed the concept of the 'fixity of species,' which posited that each species is unchanging and possesses an ideal structure and function, occupying a specific, fixed rung on the 'scala naturae' (the sequential ladder of life). Linnaeus also developed the modern system of binomial nomenclature. Conversely, Count Buffon, a French naturalist who compiled a 44-volume catalog of plants and animals, offered evidence for 'descent with modification.' He suggested that species could change and proposed several contributing mechanisms, including environmental influences, migration, geographic isolation, and the struggle for existence.",
+  "questions": [
+    {
+      "q": "What major concept did Carolus Linnaeus support regarding the nature of species?",
+      "opts": [
+        "Descent with modification",
+        "The inheritance of acquired characteristics",
+        "The fixity of species",
+        "Uniformitarianism"
+      ],
+      "a": 2,
+      "exp": "Carolus Linnaeus was a proponent of the 'fixity of species', believing that species were unchanging and had an ideal structure/function and place in the scala naturae."
+    },
+    {
+      "q": "Which eighteenth-century naturalist compiled 44 volumes of plants and animals and proposed that environmental influences, migration, and geographic isolation could drive descent with modification?",
+      "opts": [
+        "Carolus Linnaeus",
+        "Count Buffon",
+        "Georges Cuvier",
+        "Jean-Baptiste de Lamarck"
+      ],
+      "a": 1,
+      "exp": "Count Buffon was the French naturalist who cataloged 44 volumes of known plants and animals, provided evidence of descent with modification, and suggested mechanisms like environmental influences, migration, geographic isolation, and the struggle for existence."
+    }
+  ]
+}

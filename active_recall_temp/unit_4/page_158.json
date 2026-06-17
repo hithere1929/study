@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 158,
+  "filename": "Unit_4_8.txt",
+  "section_title": "Mendelian Inheritance P1 - Mendelian Genetics",
+  "page_num_in_file": 13,
+  "slide_title": "Mendel’s Monohybrid Cross",
+  "original_text": "Mendel’s Monohybrid Cross",
+  "explanation": "Monohybrid crosses helped Mendel deduce that alleles separate during gamete formation so that each gamete carries only one allele for each gene, which is the basis of the Law of Segregation.",
+  "questions": [
+    {
+      "q": "Which law did Mendel formulate directly from his observations of monohybrid crosses?",
+      "opts": [
+        "Law of Independent Assortment",
+        "Law of Segregation",
+        "Law of Codominance",
+        "Law of Linkage"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the segregation of alleles in a single gene (monohybrid cross) is the basis of the Law of Segregation."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 85,
+  "filename": "Unit_6_7.txt",
+  "section_title": "Vertebrates",
+  "page_num_in_file": 6,
+  "slide_title": "Diversity \u2013Fish\u00a8Largest group of vertebrates. mm in length to 12m in length\u00a4Jawless Fish (Agnathans)nCylindrical, up to a meter long, smooth, nonscalyskin. nScavengers that feed off dead fishnLamprey\u00a4Fish with jawsnAll share following characteristicsnEctotherms (environment regulates temp), gills, bony endoskeleton, and scalesnExtinct placoderms\u00a4Cartilaginous fishnCartilage skeleton instead of bonen5-7 gill slits, no gill covernTeethlike scalesnSharks, rays, skates, chimaeras",
+  "original_text": "Diversity \u2013Fish\u00a8Largest group of vertebrates. mm in length to 12m in length\u00a4Jawless Fish (Agnathans)nCylindrical, up to a meter long, smooth, nonscalyskin. nScavengers that feed off dead fishnLamprey\u00a4Fish with jawsnAll share following characteristicsnEctotherms (environment regulates temp), gills, bony endoskeleton, and scalesnExtinct placoderms\u00a4Cartilaginous fishnCartilage skeleton instead of bonen5-7 gill slits, no gill covernTeethlike scalesnSharks, rays, skates, chimaeras",
+  "explanation": "Fish represent the largest vertebrate group, ranging from a few millimeters to 12 meters in length. Jawless Fish (Agnathans) are cylindrical (up to a meter long), have smooth, non-scaly skin, act as scavengers feeding on dead fish, and include lampreys. Fish with jaws are ectotherms (body temperature regulated by the environment), and possess gills, a bony endoskeleton, and scales (including extinct placoderms). Cartilaginous fish possess a cartilage skeleton instead of bone, 5-7 open gill slits (no gill cover), teethlike scales, and include sharks, rays, skates, and chimaeras.",
+  "questions": [
+    {
+      "q": "Which fish are characterized by cylindrical bodies, smooth non-scaly skin, scavenger habits, and include lampreys?",
+      "opts": [
+        "Cartilaginous fish",
+        "Jawless Fish (Agnathans)",
+        "Bony fish",
+        "Placoderms"
+      ],
+      "a": 1,
+      "exp": "The notes describe Jawless Fish (Agnathans) as 'Cylindrical... smooth, nonscaly skin. Scavengers... Lamprey'."
+    },
+    {
+      "q": "Which characteristics are shared by all fish with jaws?",
+      "opts": [
+        "Endotherms with lungs and hair",
+        "Ectotherms with gills, bony endoskeleton, and scales",
+        "Hermaphroditic reproduction and spicules",
+        "Three-chambered hearts and amniotic eggs"
+      ],
+      "a": 1,
+      "exp": "The notes list shared characteristics for jawed fish as: 'Ectotherms (environment regulates temp), gills, bony endoskeleton, and scales'."
+    },
+    {
+      "q": "What features distinguish cartilaginous fish from bony fish?",
+      "opts": [
+        "A cartilage skeleton instead of bone, 5-7 gill slits with no cover, and teethlike scales",
+        "A bony skeleton, a swim bladder, and flat scales",
+        "A cylindrical body with smooth nonscaly skin and no jaws",
+        "Fleshy fins supported by bones"
+      ],
+      "a": 0,
+      "exp": "The notes state that cartilaginous fish have a 'Cartilage skeleton instead of bone', '5-7 gill slits, no gill cover', and 'Teethlike scales' (e.g. sharks, rays)."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "u7_t9",
+  "title": "Nervous System",
+  "cheat_card": [
+    "Neurons consist of a cell body, dendrites (receive inputs), and an axon (conducts impulses). Myelinated axons conduct impulses rapidly via <b>saltatory (jumping) conduction</b> between nodes.",
+    "<b>Resting Membrane Potential</b>: Set at <b>-70 mV</b> (inside negative) by the active <b>Na+/K+ ATPase pump</b> (3 Na+ out, 2 K+ in) and maintained by passive diffusion of K+ out through <b>K+ leak channels</b>.",
+    "<b>Action Potential</b>: Depolarization to <b>threshold (-55 mV)</b> opens gated Na+ channels (Na+ enters, depolarizing to +40 mV). At peak, Na+ channels inactivate and gated K+ channels open (K+ exits, repolarizing). A <b>refractory period</b> prevents back-propagation.",
+    "<b>Synaptic Transmission</b>: Action potential reaches terminal &rarr; opens gated <b>calcium (Ca2+) channels</b> &rarr; calcium influx triggers <b>neurotransmitter exocytosis</b> into the synaptic cleft &rarr; neurotransmitters bind postsynaptic receptors.",
+    "<b>Autonomic Divisions</b>: Sympathetic coordinates fight-or-flight stress responses (uses <b>norepinephrine</b>, increases heart rate/bronchiodilation); Parasympathetic coordinates rest-and-digest (uses <b>acetylcholine</b>, slows heart/promotes digestion)."
+  ],
+  "memory_anchor": "<h3>Salty Banana Memory Hook</h3><p>For resting potentials, remember a <b>Salty Banana</b>:</p><ul><li><b>Salty (Sodium / Na+)</b> is high on the <b>outside</b> (ocean is salty).</li><li><b>Banana (Potassium / K+)</b> is high on the <b>inside</b> (bananas are rich in potassium).</li><li>The active Na+/K+ pump maintains this by pumping <b>3 Na+ OUT</b> and <b>2 K+ IN</b>.</li></ul>",
+  "flashcards": [
+    {
+      "q": "Explain how the resting membrane potential is generated and maintained in a neuron.",
+      "a": "The resting potential (approx. -70 mV) is established by the active Na+/K+ ATPase pump, which uses ATP to pump 3 Na+ out of the cell for every 2 K+ pumped in. It is maintained by open potassium leak channels, which allow K+ to diffuse passively down its concentration gradient out of the cell, leaving a net negative charge inside."
+    },
+    {
+      "q": "Trace the sequence of events during a synaptic transmission from the presynaptic neuron to the postsynaptic neuron.",
+      "a": "When an action potential reaches the axon terminal, it opens voltage-gated calcium channels. The resulting influx of calcium (Ca2+) triggers synaptic vesicles to fuse with the presynaptic membrane and release neurotransmitters via exocytosis. The neurotransmitters diffuse across the synaptic cleft and bind to receptors on the postsynaptic membrane, altering its potential."
+    },
+    {
+      "q": "Contrast the sympathetic and parasympathetic divisions of the autonomic nervous system.",
+      "a": "The sympathetic division coordinates 'fight-or-flight' stress responses, accelerating heart rate, dilating bronchi, and using norepinephrine as its primary neurotransmitter. The parasympathetic division coordinates 'rest-and-digest' responses, slowing heart rate, promoting digestion, and using acetylcholine as its primary neurotransmitter."
+    }
+  ],
+  "outline_blanks": "The resting potential of a neuron is established by the [[Na+/K+ ATPase pump]] which pumps sodium out and potassium in. An action potential is triggered when depolarization reaches the [[threshold]], causing [[voltage-gated Na+ channels]] to open. Synaptic transmission relies on a calcium influx causing the exocytosis of [[neurotransmitters]] into the cleft."
+}

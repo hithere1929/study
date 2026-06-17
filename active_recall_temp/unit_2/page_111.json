@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 111,
+  "filename": "Unit_2_4.txt",
+  "section_title": "Metabolism",
+  "page_num_in_file": 14,
+  "slide_title": "Endergonic Reactions",
+  "original_text": "Endergonic Reactions\nReactants\nEnergy\nProducts\nAmount of energy required\nPotential energy",
+  "explanation": "This slide displays the graphical energy profile of an endergonic reaction. It shows that reactants start with low potential energy. With the input of a specific amount of required energy, the reaction yields products that possess a much higher level of potential energy.",
+  "questions": [
+    {
+      "q": "On an endergonic reaction energy profile, what does the difference between the reactant energy level and product energy level represent?",
+      "opts": [
+        "The amount of energy released as heat.",
+        "The speed of the chemical reaction.",
+        "The amount of energy required for the reaction to proceed.",
+        "The quantity of catalyst consumed."
+      ],
+      "a": 2,
+      "exp": "The difference in energy levels shows the net input of energy required to drive the endergonic reaction forward."
+    }
+  ]
+}

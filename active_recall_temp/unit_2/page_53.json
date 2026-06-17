@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 53,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 17,
+  "slide_title": "1: Di-and Polysaccharide Structures",
+  "original_text": "1: Di-and Polysaccharide Structures\nSucrose\nCellulose",
+  "explanation": "This slide displays diagrams showing the chemical structures of the disaccharide sucrose and the structural polysaccharide cellulose.",
+  "questions": [
+    {
+      "q": "Which two carbohydrate structures are displayed as diagrams on this slide?",
+      "opts": [
+        "Glucose and Galactose",
+        "Sucrose and Cellulose",
+        "Glycogen and Starch",
+        "Fructose and Lactose"
+      ],
+      "a": 1,
+      "exp": "The slide title and text mention 'Sucrose' (a disaccharide) and 'Cellulose' (a polysaccharide)."
+    }
+  ]
+}

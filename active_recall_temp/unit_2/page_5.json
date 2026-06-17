@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 5,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 5,
+  "slide_title": "1: Atoms",
+  "original_text": "1: Atoms¨Atom: smallest component of an element that retains its properties¤Atomic properties determine structure and properties of matter they compose¤Cannot be directly observed; understood through models¨Atomic nucleus contains most of the mass of the atom; 2 types of sub-atomic particles: proton(+ charge) and neutron(0 charge)",
+  "explanation": "An atom is the smallest component of an element that retains the properties of that element. The structure and properties of the matter that atoms compose are determined by these atomic properties. Atoms cannot be directly observed and are instead understood through scientific models. The atomic nucleus, which contains most of the mass of the atom, is composed of two types of sub-atomic particles: protons, which carry a positive (+) charge, and neutrons, which carry no charge (0 charge).",
+  "questions": [
+    {
+      "q": "Which two sub-atomic particles are located in the atomic nucleus and make up most of the atom's mass?",
+      "opts": [
+        "Protons and electrons",
+        "Neutrons and electrons",
+        "Protons and neutrons",
+        "Electrons and orbitals"
+      ],
+      "a": 2,
+      "exp": "The atomic nucleus contains protons (positive charge) and neutrons (neutral/no charge), which together account for most of the mass of the atom."
+    },
+    {
+      "q": "How do scientists primarily study and understand atoms since they cannot be directly observed?",
+      "opts": [
+        "Through direct visual observation with optical microscopes",
+        "Through scientific models",
+        "By measuring their weight in water",
+        "By converting them into simpler substances"
+      ],
+      "a": 1,
+      "exp": "Because atoms cannot be directly observed, they are understood through scientific models."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 117,
+  "filename": "Unit_7_6.txt",
+  "section_title": "Circulation & Cardiovascular System",
+  "page_num_in_file": 23,
+  "slide_title": "Blood: Capillary Exchange",
+  "original_text": "Blood Capillary Exchange Capillaries are very narrow and tiny RBCs must go through single file Walls of capillaries are very thin to facilitate diffusion of nutrients, gases, and wastes Water exits a capillary near the arterial end Water enters a capillary near the venous end Solutes diffuse into and out of a capillary according to their concentration gradient Oxygen and nutrients diffuse out of capillaries Carbon dioxide and wastes diffuse into the capillary Excess tissue fluid collected by lymphatic capillaries Lymph returns to systemic venous blood in shoulder region",
+  "explanation": "Capillaries are extremely narrow vessels, forcing red blood cells to pass through single file, and have thin walls to facilitate diffusion. Capillary exchange is driven by pressure differences: 1) Near the arterial end, hydrostatic pressure exceeds osmotic pressure, forcing water out of the capillaries. 2) Near the venous end, water is drawn back in as osmotic pressure exceeds blood pressure. 3) Solutes diffuse down their concentration gradients: oxygen and nutrients diffuse out into tissues, while carbon dioxide and metabolic wastes diffuse into the capillaries. 4) Excess interstitial fluid is collected by lymphatic capillaries as lymph, which is eventually returned to the venous system in the shoulder region.",
+  "questions": [
+    {
+      "q": "How does water movement change between the arterial and venous ends of a capillary?",
+      "opts": [
+        "Water enters the capillary at the arterial end and exits at the venous end.",
+        "Water exits the capillary near the arterial end and enters near the venous end.",
+        "Water only exits capillaries and never returns.",
+        "Water movement is controlled by active transport proton pumps."
+      ],
+      "a": 1,
+      "exp": "High blood pressure at the arterial end forces water out of the capillary. Lower blood pressure at the venous end allows osmotic pressure to pull water back in."
+    },
+    {
+      "q": "What happens to excess tissue fluid that is not reabsorbed by the capillaries?",
+      "opts": [
+        "It accumulates indefinitely, causing swelling.",
+        "It is collected by lymphatic capillaries and returned to the venous blood in the shoulder region.",
+        "It is excreted by sweat glands on the skin surface.",
+        "It is converted into red blood cells in the bone marrow."
+      ],
+      "a": 1,
+      "exp": "Excess fluid in tissues is gathered by lymphatic capillaries as lymph, which is returned to the cardiovascular circulation in the shoulder region."
+    }
+  ]
+}

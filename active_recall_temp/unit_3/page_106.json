@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 106,
+  "filename": "Unit_3_5.txt",
+  "section_title": "Stem Cells & Cancer",
+  "page_num_in_file": 12,
+  "slide_title": "Cancer",
+  "original_text": "Cancer\nUncontrolled cell division\nGradual process, resulting from the accumulation of mutations\nOnce cells develop enough mutations, they develop distinct characteristics\n1.Cancer cells lack differentiation\nNot specialized\nPossess characteristics of surrounding cells, but abnormal\nCan enter cell cycle indefinitely\nNormal cells only capable of ~50 divisions",
+  "explanation": "Cancer is characterized by uncontrolled cell division, developing as a gradual process resulting from the accumulation of genetic mutations. Once cells acquire sufficient mutations, they display distinct abnormal characteristics. The first characteristic is that cancer cells lack differentiation; they are not specialized cells. While they may share some traits with surrounding cells, they are highly abnormal. Unlike normal cells, which are limited to approximately 50 divisions before they stop, cancer cells can enter the cell cycle and divide indefinitely.",
+  "questions": [
+    {
+      "q": "How many times are normal human cells typically capable of dividing before they stop, compared to cancer cells?",
+      "opts": [
+        "Normal cells can divide indefinitely; cancer cells only divide ~50 times.",
+        "Normal cells can divide ~50 times; cancer cells can enter the cell cycle indefinitely.",
+        "Normal cells can divide ~500 times; cancer cells only divide ~5 times.",
+        "Both normal and cancer cells divide indefinitely."
+      ],
+      "a": 1,
+      "exp": "Normal cells are capable of only ~50 divisions, while cancer cells can enter the cell cycle indefinitely."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 26,
+  "filename": "Unit_8_2.txt",
+  "section_title": "Population Ecology",
+  "page_num_in_file": 11,
+  "slide_title": "Regulation of Population Size¨Density-independent Factors¤The population density does not influence the intensity of the factor’s effectnNatural disasters¨Density-dependent Factors¤The percentage of the population affected increases as the population density increasesnCompetitionnPredationnParasitism",
+  "original_text": "Regulation of Population Size¨Density-independent Factors¤The population density does not influence the intensity of the factor’s effectnNatural disasters¨Density-dependent Factors¤The percentage of the population affected increases as the population density increasesnCompetitionnPredationnParasitism",
+  "explanation": "This slide discusses the regulation of population size via two types of environmental factors. 1) Density-independent factors are those in which population density does not affect the intensity of the factor's impact on individuals. Natural disasters (such as floods, fires, or volcanic eruptions) are prime examples. 2) Density-dependent factors are those where the percentage of the population affected increases as the population density increases. Examples of density-dependent factors include competition for resources, predation, and parasitism/disease spread.",
+  "questions": [
+    {
+      "q": "What is the defining characteristic of a density-independent factor?",
+      "opts": [
+        "It only affects populations that are close to their carrying capacity.",
+        "The intensity of the factor's effect is not influenced by the population's density.",
+        "It always results in the gradual stabilization of the population size.",
+        "It refers only to biotic interactions like predation and competition."
+      ],
+      "a": 1,
+      "exp": "The notes state that for density-independent factors, 'The population density does not influence the intensity of the factor’s effect,' such as natural disasters."
+    },
+    {
+      "q": "Which of the following is an example of a density-dependent factor?",
+      "opts": [
+        "A sudden volcanic eruption",
+        "Competition",
+        "An unexpected freezing rainstorm",
+        "A forest fire"
+      ],
+      "a": 1,
+      "exp": "The notes list 'Competition, Predation, Parasitism' as examples of density-dependent factors, where the percentage affected increases with density."
+    }
+  ]
+}

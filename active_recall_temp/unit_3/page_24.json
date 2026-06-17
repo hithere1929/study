@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 24,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 9,
+  "slide_title": "Nucleus",
+  "original_text": "Nucleus\nMost functions of eukaryotic cell controlled by the nucleus\nFilled with jelly-like liquid known as nucleoplasm\nHolds the contents of the nucleus; similar function to cytoplasm\nHouses and protects genetic information of the cell\nInstructions for structure and function of the organism coded into the DNA contained in nucleus\nBetween cell divisions – DNA structure is thread-like; known as chromatin\nWhen cell is preparing to divide – DNA condenses into chromosomes\nDNA wrapped around proteinmolecules\nSite where DNA is transcribedinto RNA, which then leaves nucleus via nuclear pores into the cytoplasm",
+  "explanation": "The nucleus controls most eukaryotic cell functions and is filled with a jelly-like liquid called nucleoplasm, which holds its contents similarly to how cytoplasm holds organelles. The nucleus houses and protects the cell's genetic information, which contains the codes for the organism's structure and function. Between cell divisions, the DNA is in a loose, thread-like structure called chromatin. When preparing to divide, the DNA condenses into chromosomes, wrapping tightly around protein molecules. Additionally, the nucleus is the site where DNA is transcribed into RNA, which then departs the nucleus through nuclear pores to reach the cytoplasm.",
+  "questions": [
+    {
+      "q": "What is the thread-like structure of DNA called when the cell is NOT actively dividing?",
+      "opts": [
+        "Chromosomes",
+        "Chromatin",
+        "Nucleosome",
+        "Nucleoplasm"
+      ],
+      "a": 1,
+      "exp": "The slide states that between cell divisions, the DNA structure is thread-like and known as chromatin."
+    },
+    {
+      "q": "What jelly-like liquid fills the nucleus and holds its contents?",
+      "opts": [
+        "Cytoplasm",
+        "Cytosol",
+        "Nucleoplasm",
+        "Nuclear matrix"
+      ],
+      "a": 2,
+      "exp": "The nucleus is filled with a jelly-like liquid known as nucleoplasm."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 153,
+  "filename": "Unit_4_8.txt",
+  "section_title": "Mendelian Inheritance P1 - Mendelian Genetics",
+  "page_num_in_file": 8,
+  "slide_title": "Mendel’s Laws¨Mendel performed cross-breeding experiments¤Used “true-breeding” (homozygous) plants¤Chose varieties that differed in only one trait (monohybrid cross)¤Performed reciprocal crossesnParental generation = PnFirst filial generation offspring = F1nSecond filial generation offspring = F2¤Formulated the Law of SegregationnSo what did these test show?",
+  "original_text": "Mendel’s Laws¨Mendel performed cross-breeding experiments¤Used “true-breeding” (homozygous) plants¤Chose varieties that differed in only one trait (monohybrid cross)¤Performed reciprocal crossesnParental generation = PnFirst filial generation offspring = F1nSecond filial generation offspring = F2¤Formulated the Law of SegregationnSo what did these test show?",
+  "explanation": "Mendel performed cross-breeding experiments using true-breeding (homozygous) garden pea plants. He chose varieties that differed in only a single trait, a design known as a monohybrid cross, and performed reciprocal crosses. He tracked traits across generations: the Parental generation (P), the first filial generation (F1), and the second filial generation (F2). These experiments led him to formulate the Law of Segregation.",
+  "questions": [
+    {
+      "q": "What is a monohybrid cross?",
+      "opts": [
+        "A cross between plants differing in two traits",
+        "A cross between plants that are heterozygous for two traits",
+        "A cross between true-breeding plants that differ in only one trait",
+        "A cross involving sex-linked traits only"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide defines a monohybrid cross as a cross between varieties that differed in only one trait."
+    },
+    {
+      "q": "In Mendel's crosses, what do the terms P, F1, and F2 stand for?",
+      "opts": [
+        "Prophase, First phase, Second phase",
+        "Parental generation, First filial generation offspring, Second filial generation offspring",
+        "Phenotype, First factor, Second factor",
+        "Primary cross, First final cross, Second final cross"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states 'Parental generation = P', 'First filial generation offspring = F1', and 'Second filial generation offspring = F2'."
+    }
+  ]
+}

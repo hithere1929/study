@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 77,
+  "filename": "Unit_2_3.txt",
+  "section_title": "Movement of Molecules",
+  "page_num_in_file": 3,
+  "slide_title": "Membrane Structure & Function",
+  "original_text": "Membrane Structure & Function¨There are other molecules that are embedded in the phospholipid bilayer, and are relatively uniform across most animal cell membranes¤Cholesterol and other lipid molecules¤Glycoproteins and glycolipids¤Proteins¨These play a part in the fluidity of the membrane, and both the passive and active permeability of the membrane. ¨Fluid MozaicModel",
+  "explanation": "In addition to phospholipids, cell membranes contain other embedded molecules that are distributed relatively uniformly across most animal cell membranes. These molecules include cholesterol and other lipid molecules, glycoproteins, glycolipids, and proteins. These components regulate the fluidity of the membrane and control both passive and active permeability, allowing selective transport. This structural organization is described by the Fluid Mosaic Model.",
+  "questions": [
+    {
+      "q": "Which model is used to describe the structure of the cell membrane containing embedded proteins, lipids, and carbohydrates?",
+      "opts": [
+        "Lock and Key Model",
+        "Fluid Mosaic Model",
+        "Crystalline Lattice Model",
+        "Osmotic Permeability Model"
+      ],
+      "a": 1,
+      "exp": "The cell membrane structure and its embedded molecules are described by the Fluid Mosaic Model (spelled 'Fluid Mozaic Model' on the slide)."
+    },
+    {
+      "q": "What are the roles of embedded molecules like cholesterol, proteins, and glycoproteins in the cell membrane?",
+      "opts": [
+        "They serve as genetic code templates.",
+        "They regulate membrane fluidity and control passive and active permeability.",
+        "They break down glucose for immediate ATP release.",
+        "They synthesize new phospholipids from amino acids."
+      ],
+      "a": 1,
+      "exp": "Embedded molecules are responsible for maintaining membrane fluidity and managing passive and active permeability."
+    }
+  ]
+}

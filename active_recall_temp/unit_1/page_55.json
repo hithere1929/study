@@ -1,0 +1,34 @@
+{
+  "unit": 1,
+  "page": 55,
+  "filename": "Unit_1_4.txt",
+  "section_title": "Microscopy",
+  "page_num_in_file": 5,
+  "slide_title": "The Microscope",
+  "original_text": "\u2013Lens\u2013An optical device with near-perfect symmetry that is able to transmit and focus/bend electromagnetic radiation\u2013Shape of the lens determines the direction the radiation will bend\u2013Microscopy: Rays (waves) of radiation pass through a lens and converge (come together) at a specific distance from the lens\u2013Known as focal length\nObjectImage(Focal Point)\nFocal Length",
+  "explanation": "This slide defines a lens as an optical device with near-perfect symmetry that can transmit and focus/bend electromagnetic radiation. The specific shape of the lens dictates the direction in which the radiation bends. In microscopy, rays (waves) of radiation pass through a lens and converge (come together) at a specific distance from the lens. This distance is defined as the focal length.",
+  "questions": [
+    {
+      "q": "What is a lens and what determines the direction in which radiation bends through it?",
+      "opts": [
+        "A device that blocks light; its color determines the bend.",
+        "An optical device with near-perfect symmetry that transmits and focus/bends radiation; its shape determines the direction of bending.",
+        "A detector that gathers data; its distance from the eye determines the direction.",
+        "A source of radiation; its voltage determines the direction."
+      ],
+      "a": 1,
+      "exp": "The slide defines a lens as 'An optical device with near-perfect symmetry that is able to transmit and focus/bend electromagnetic radiation' and notes: 'Shape of the lens determines the direction the radiation will bend'."
+    },
+    {
+      "q": "What is focal length?",
+      "opts": [
+        "The total magnification of the eyepiece",
+        "The thickness of a glass slide",
+        "The specific distance from the lens where passing rays of radiation converge",
+        "The diameter of the microscope stage"
+      ],
+      "a": 2,
+      "exp": "The slide states: 'Rays (waves) of radiation pass through a lens and converge (come together) at a specific distance from the lens \u2013 Known as focal length'."
+    }
+  ]
+}

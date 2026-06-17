@@ -1,0 +1,23 @@
+{
+  "unit": 8,
+  "page": 52,
+  "filename": "Unit_8_3.txt",
+  "section_title": "Community & Ecosystem Ecology",
+  "page_num_in_file": 18,
+  "slide_title": "Dynamics of an Ecosystem¨The Nitrogen Cycle¨Human Activities¤Nitrogen is added to fertilizers¤Runoff that contains nitrogen also contributes to eutrophication¤Fertilizer use also results in the release of nitrous oxide (N2O), a greenhouse gas",
+  "original_text": "Dynamics of an Ecosystem¨The Nitrogen Cycle¨Human Activities¤Nitrogen is added to fertilizers¤Runoff that contains nitrogen also contributes to eutrophication¤Fertilizer use also results in the release of nitrous oxide (N2O), a greenhouse gas",
+  "explanation": "Human activities significantly impact the nitrogen cycle. Nitrogen is added in large quantities to agricultural fertilizers. Runoff containing nitrogen contributes to water pollution and eutrophication of aquatic ecosystems. Furthermore, the extensive use of nitrogen-based fertilizers results in the release of nitrous oxide (N2O), which is a potent greenhouse gas.",
+  "questions": [
+    {
+      "q": "What greenhouse gas is released due to the agricultural use of nitrogen fertilizers?",
+      "opts": [
+        "Carbon dioxide (CO2)",
+        "Nitrous oxide (N2O)",
+        "Ammonium (NH4+)",
+        "Nitrogen gas (N2)"
+      ],
+      "a": 1,
+      "exp": "The notes state that 'Fertilizer use also results in the release of nitrous oxide (N2O), a greenhouse gas.'"
+    }
+  ]
+}

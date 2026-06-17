@@ -1,0 +1,2146 @@
+[
+  {
+    "unit": 1,
+    "page": 1,
+    "filename": "Unit_1_1.txt",
+    "section_title": "Lab Safety",
+    "page_num_in_file": 1,
+    "slide_title": "Lab Safety",
+    "original_text": "Lab Safety Mr. Queenan–Biology 9Unit 1",
+    "explanation": "This is the title slide for Unit 1, which introduces the topic of Lab Safety for Mr. Queenan's Biology 9 course.",
+    "questions": [
+      {
+        "q": "What is the primary topic of the introductory slide for Mr. Queenan's Biology 9 Unit 1?",
+        "opts": [
+          "Cell Biology",
+          "Ecology and Ecosystems",
+          "Lab Safety",
+          "Genetics and Inheritance"
+        ],
+        "a": 2,
+        "exp": "The slide content explicitly states 'Lab Safety Mr. Queenan-Biology 9 Unit 1', establishing Lab Safety as the opening topic of the course."
+      }
+    ],
+    "legacy_index": 0
+  },
+  {
+    "unit": 1,
+    "page": 2,
+    "filename": "Unit_1_1.txt",
+    "section_title": "Lab Safety",
+    "page_num_in_file": 2,
+    "slide_title": "Lab SafetyThe “Why’s”",
+    "original_text": "Lab SafetyThe “Why’s”\nhttps://youtu.be/6aK2CKrdjbEWhy is lab safety the first lesson we are receiving as freshman in biology?Isn’t lab safety obvious?What is the goal of this lesson?To understand basic lab proceduresRelatively universal across all labshttps://www.youtube.com/watch?v=tsAHt0FiwNM",
+    "explanation": "This page discusses the reasoning ('Why's') behind starting biology with lab safety. It raises introductory questions about why safety is the first lesson for freshmen and whether it is obvious. It defines the main objective of the lesson, which is to understand basic laboratory procedures that are relatively universal across all scientific labs.",
+    "questions": [
+      {
+        "q": "What is the defined goal of the lab safety lesson according to the slide?",
+        "opts": [
+          "To memorize the names of all laboratory equipment",
+          "To understand basic lab procedures that are relatively universal across all labs",
+          "To perform chemical reactions without supervision",
+          "To learn how to write a scientific research paper"
+        ],
+        "a": 1,
+        "exp": "The slide explicitly lists the goal of the lesson: 'To understand basic lab procedures' which are 'Relatively universal across all labs'."
+      }
+    ],
+    "legacy_index": 1
+  },
+  {
+    "unit": 1,
+    "page": 3,
+    "filename": "Unit_1_1.txt",
+    "section_title": "Lab Safety",
+    "page_num_in_file": 3,
+    "slide_title": "The Golden Rule",
+    "original_text": "The Golden Rule\nFollow all instructions given by the lab manager and/or supervisors.",
+    "explanation": "This page introduces the single most important rule in the laboratory, termed 'The Golden Rule'. It requires individuals to follow all instructions provided by the lab manager and/or supervisors without exception.",
+    "questions": [
+      {
+        "q": "According to the slide, what is 'The Golden Rule' of lab safety?",
+        "opts": [
+          "Always wear a lab coat and gloves",
+          "Keep your workspace clean and organized",
+          "Follow all instructions given by the lab manager and/or supervisors",
+          "Report all minor accidents at the end of the class period"
+        ],
+        "a": 2,
+        "exp": "The slide explicitly defines 'The Golden Rule' as: 'Follow all instructions given by the lab manager and/or supervisors.'"
+      }
+    ],
+    "legacy_index": 2
+  },
+  {
+    "unit": 1,
+    "page": 4,
+    "filename": "Unit_1_1.txt",
+    "section_title": "Lab Safety",
+    "page_num_in_file": 4,
+    "slide_title": "Basic Lab Safety",
+    "original_text": "Basic Lab Safety\nBe prepared for an experiment or preparation by reading protocols before coming to the lab, when availableFood and beverages are notallowed in the lab and are not to be stored in the lab refrigerator.Wear protective laboratory equipment, PPE (gloves, lab coat, goggles, etc.) when necessary.In the event of any emergency such as injury, spill, accident, fire or equipment failure, notify a lab supervisor immediately.Read all labels and safety instructions carefully before performing any lab tasks.Any protocol requiring hazardous chemicals is to be performed under the chemical fume hood, by trained laboratory personnel.",
+    "explanation": "This slide outlines critical basic safety rules in the laboratory: prep work involves reading protocols before class, food and beverages are strictly forbidden from the lab and the lab refrigerator, PPE (Personal Protective Equipment) such as gloves, lab coats, and goggles must be worn as needed, and emergency situations (injuries, spills, accidents, fires, or equipment failures) must be reported to a supervisor immediately. Additionally, all labels and safety instructions must be read prior to starting work, and protocols involving hazardous chemicals must be executed within a chemical fume hood by trained personnel.",
+    "questions": [
+      {
+        "q": "Where and by whom should protocols requiring hazardous chemicals be performed?",
+        "opts": [
+          "At the student's assigned lab bench under direct supervision",
+          "Under the chemical fume hood, by trained laboratory personnel",
+          "In a well-ventilated hallway to avoid fume build-up",
+          "Only by the course instructor at the main demonstration desk"
+        ],
+        "a": 1,
+        "exp": "The text states: 'Any protocol requiring hazardous chemicals is to be performed under the chemical fume hood, by trained laboratory personnel.'"
+      },
+      {
+        "q": "What is the policy regarding food and beverages in the laboratory?",
+        "opts": [
+          "They are allowed only if sealed in containers",
+          "They can be stored in the lab refrigerator but not consumed inside the room",
+          "They are not allowed in the lab and must not be stored in the lab refrigerator",
+          "They are permitted only during long experiments at designated desks"
+        ],
+        "a": 2,
+        "exp": "The safety rules specify: 'Food and beverages are not allowed in the lab and are not to be stored in the lab refrigerator.'"
+      }
+    ],
+    "legacy_index": 3
+  },
+  {
+    "unit": 1,
+    "page": 5,
+    "filename": "Unit_1_1.txt",
+    "section_title": "Lab Safety",
+    "page_num_in_file": 5,
+    "slide_title": "Basic Lab Safety",
+    "original_text": "Basic Lab Safety\nKeep long hair tied back.\nWear long pants, closed-toed shoes, and all other forms of clothing that will cover bare skin. Clothing should also not be loose or baggy, in order to avoid. accidents\nNever leave a hot plate that is in use unattended; assume the hot plate is hot and never touch the heating surface.\nDo not handle hot glassware with bare hands.\nStudents are not permitted to work alone in the laboratory.",
+    "explanation": "This slide details guidelines for personal attire and physical safety during labs. Long hair must be tied back, and clothing must cover bare skin (long pants and closed-toed shoes are required) and not be loose or baggy to avoid snagging or catching fire. When using heating devices, active hot plates must never be left unattended, and their heating surfaces should never be touched directly. Hot glassware must be handled using appropriate tools, not bare hands. Finally, working alone in the laboratory is strictly prohibited for students.",
+    "questions": [
+      {
+        "q": "Which clothing choices are mandatory to prevent accidents in the lab?",
+        "opts": [
+          "Shorts and open-toed sandals",
+          "Loose, baggy garments that allow free movement",
+          "Long pants, closed-toed shoes, and clothing that covers bare skin (avoiding loose or baggy fits)",
+          "Any clothing, as long as a protective lab coat is worn over it"
+        ],
+        "a": 2,
+        "exp": "The slide explicitly requires students to wear long pants, closed-toed shoes, and other forms of clothing that cover bare skin, while avoiding loose or baggy clothing to prevent accidents."
+      },
+      {
+        "q": "What is the safety instruction regarding hot plates and hot glassware?",
+        "opts": [
+          "Hot plates can be left unattended if set to low heat",
+          "Assume hot plates are hot, never leave them unattended when in use, and never handle hot glassware with bare hands",
+          "Hot glassware can be touched with bare hands if it has cooled for 30 seconds",
+          "Hot plates should be turned off only when they start smoking"
+        ],
+        "a": 1,
+        "exp": "The slide instructs to never leave a hot plate in use unattended, assume it is hot (never touch the surface), and avoid handling hot glassware with bare hands."
+      }
+    ],
+    "legacy_index": 4
+  },
+  {
+    "unit": 1,
+    "page": 6,
+    "filename": "Unit_1_1.txt",
+    "section_title": "Lab Safety",
+    "page_num_in_file": 6,
+    "slide_title": "Basic Lab Safety",
+    "original_text": "Basic Lab Safety",
+    "explanation": "This page is titled 'Basic Lab Safety' and does not contain additional text details, serving as a structural divider or placeholder within the laboratory safety guidelines.",
+    "questions": [
+      {
+        "q": "What is the heading of Unit 1, page 6 in the Lab Safety section?",
+        "opts": [
+          "Chemical Safety",
+          "Basic Lab Safety",
+          "Emergency Procedures",
+          "Dressing for the Lab"
+        ],
+        "a": 1,
+        "exp": "The page title and content is simply 'Basic Lab Safety'."
+      }
+    ],
+    "legacy_index": 5
+  },
+  {
+    "unit": 1,
+    "page": 7,
+    "filename": "Unit_1_1.txt",
+    "section_title": "Lab Safety",
+    "page_num_in_file": 7,
+    "slide_title": "Basic Lab Safety",
+    "original_text": "Basic Lab Safety\nIf any part of an experiment, preparation or equipment use is unclear, ask questions. Do not attempt to perform a task you do not understand. \nDo not leave an on-going experiment or preparation unattended.\nKeep aisles clear and store backpacks and jackets underneath tables to prevent tripping.\nNo rough-housing or fooling around is allowed in the lab.\nWash hands thoroughly when leaving the lab, especially before eating.",
+    "explanation": "This page outlines several critical behaviors for safety in the lab. If any part of an experiment, preparation, or equipment usage is unclear, the student must ask questions rather than attempting to perform an understood task. Ongoing experiments or chemical preparations must never be left unattended. To prevent tripping hazards, aisles must be kept clear, and backpacks and jackets should be stored underneath the lab tables. Additionally, rough-housing or fooling around is strictly forbidden. Finally, hands must be washed thoroughly when leaving the laboratory, particularly prior to eating.",
+    "questions": [
+      {
+        "q": "What should a student do if a step in a lab experiment or equipment use is unclear?",
+        "opts": [
+          "Attempt the step anyway to see what happens",
+          "Ask questions instead of attempting a task they do not understand",
+          "Wait for another student to do it first",
+          "Skip that step of the experiment entirely"
+        ],
+        "a": 1,
+        "exp": "The slide advises: 'If any part of an experiment, preparation or equipment use is unclear, ask questions. Do not attempt to perform a task you do not understand.'"
+      },
+      {
+        "q": "Where should backpacks and jackets be stored to prevent tripping hazards in the lab?",
+        "opts": [
+          "In the aisles or walkways",
+          "On top of the lab benches",
+          "Underneath tables",
+          "In the lab refrigerator"
+        ],
+        "a": 2,
+        "exp": "The text states: 'Keep aisles clear and store backpacks and jackets underneath tables to prevent tripping.'"
+      }
+    ],
+    "legacy_index": 6
+  },
+  {
+    "unit": 1,
+    "page": 8,
+    "filename": "Unit_1_1.txt",
+    "section_title": "Lab Safety",
+    "page_num_in_file": 8,
+    "slide_title": "Basic Lab Safety",
+    "original_text": "Basic Lab Safety",
+    "explanation": "This slide is titled 'Basic Lab Safety' and contains no body text, functioning as a separator or slide heading within the lab safety presentation.",
+    "questions": [
+      {
+        "q": "What slide title is listed on Unit 1, page 8?",
+        "opts": [
+          "Emergency Procedures",
+          "Chemical Safety",
+          "Basic Lab Safety",
+          "Safety Symbols"
+        ],
+        "a": 2,
+        "exp": "The heading of the slide is 'Basic Lab Safety'."
+      }
+    ],
+    "legacy_index": 7
+  },
+  {
+    "unit": 1,
+    "page": 9,
+    "filename": "Unit_1_1.txt",
+    "section_title": "Lab Safety",
+    "page_num_in_file": 9,
+    "slide_title": "Emergency Procedures",
+    "original_text": "Emergency Procedures\nIn case of:Fire Drill\nFire\nBroken Glass\nPower Failure\nLockdown\nAccident (Bodily Harm)",
+    "explanation": "This slide lists various emergency situations that can arise in the laboratory, for which students must know the correct protocols. These emergencies include fire drills, actual fires, broken glass, power failures, school or building lockdowns, and physical accidents causing bodily harm.",
+    "questions": [
+      {
+        "q": "Which of the following is listed on the slide as a potential emergency situation in the lab?",
+        "opts": [
+          "Reading protocols before the lab",
+          "Wearing long pants and closed-toed shoes",
+          "Broken glass or power failure",
+          "Labeling student-prepared solutions"
+        ],
+        "a": 2,
+        "exp": "The slide lists 'Broken Glass' and 'Power Failure' as emergency conditions alongside fires, drills, lockdowns, and bodily harm accidents."
+      }
+    ],
+    "legacy_index": 8
+  },
+  {
+    "unit": 1,
+    "page": 10,
+    "filename": "Unit_1_1.txt",
+    "section_title": "Lab Safety",
+    "page_num_in_file": 10,
+    "slide_title": "Chemical & Sample Safety",
+    "original_text": "Chemical & Sample Safety\nNever pipette any liquids by mouth; use a pipette pump.\nAny mixtures, solutions, or samples that are prepared by students or staff MUSTbe clearly labeled with:All contents and concentrations.Any warnings or precautions for use or storage.Initials of the preparer.Date prepared.Expiration date (if known).\nRead all labels and warnings carefully before using any chemical. For further information, refer to the MSDS Be sure to ask a lab supervisor if you have any questions about how to handle or dispose of a chemical.",
+    "explanation": "This slide details critical safety practices for handling chemicals and samples in the laboratory. Students must never mouth-pipette liquids; instead, a pipette pump must always be used. Any mixture, solution, or sample prepared by students or staff must be clearly labeled with five key pieces of information: all contents and their concentrations, safety warnings or precautions for use and storage, the initials of the preparer, the date it was prepared, and the expiration date (if known). In addition, all labels and warnings must be read carefully before using a chemical, and further information should be obtained by referring to the Material Safety Data Sheet (MSDS). For any questions regarding handling or disposal of chemicals, a lab supervisor must be consulted.",
+    "questions": [
+      {
+        "q": "What is required when labeling a student- or staff-prepared mixture or solution in the lab?",
+        "opts": [
+          "Just the name of the mixture and the date",
+          "All contents and concentrations, warnings, initials of preparer, date prepared, and expiration date (if known)",
+          "Only the initials of the preparer and the class period",
+          "The price of the chemical and the company that manufactured it"
+        ],
+        "a": 1,
+        "exp": "The slide explicitly states that preparations MUST be labeled with: contents and concentrations, warnings/precautions, preparer's initials, preparation date, and expiration date (if known)."
+      },
+      {
+        "q": "What document should be referenced for detailed safety, hazards, and handling information about a chemical?",
+        "opts": [
+          "The biology textbook index",
+          "The lab manual protocol pages",
+          "The Material Safety Data Sheet (MSDS)",
+          "The school directory"
+        ],
+        "a": 2,
+        "exp": "The text advises: 'For further information, refer to the MSDS'."
+      }
+    ],
+    "legacy_index": 9
+  },
+  {
+    "unit": 1,
+    "page": 11,
+    "filename": "Unit_1_1.txt",
+    "section_title": "Lab Safety",
+    "page_num_in_file": 11,
+    "slide_title": "Chemical & Sample Safety",
+    "original_text": "Chemical & Sample Safety",
+    "explanation": "This slide is titled 'Chemical & Sample Safety' and contains no additional body text, serving as a divider or slide heading within the lab safety presentation.",
+    "questions": [
+      {
+        "q": "What heading is displayed on Unit 1, page 11?",
+        "opts": [
+          "Emergency Procedures",
+          "Chemical & Sample Safety",
+          "Lab Safety Basics",
+          "Introduction to Biology"
+        ],
+        "a": 1,
+        "exp": "The title of this page is 'Chemical & Sample Safety'."
+      }
+    ],
+    "legacy_index": 10
+  },
+  {
+    "unit": 1,
+    "page": 12,
+    "filename": "Unit_1_1.txt",
+    "section_title": "Lab Safety",
+    "page_num_in_file": 12,
+    "slide_title": "Chemical & Sample Safety",
+    "original_text": "Chemical & Sample Safety\nTreat all chemicals as if they were dangerous; do not taste, touch or smell anything.Never assume that a clear liquid is water.Carry reagent bottles and beakers with two hands to avoid spilling or dropping them, or use a cart when available.Do not return unused reagent to the original container to avoid contamination.Do not leave containers and bottles open for extended periods of time. Close caps and lids tightly when not in use.Always return chemicals where you found them when you are finished.",
+    "explanation": "This slide sets rules for handling chemicals safely. All chemicals must be treated as dangerous; tasting, touching, or smelling them is forbidden. One must never assume a clear, colorless liquid is water. Beakers and reagent bottles should be carried using two hands to prevent drops and spills, or transported on a cart when available. To avoid contaminating stock chemicals, unused reagents must never be poured back into their original containers. Containers and bottles must not be left open for extended periods; caps and lids should be closed tightly when not in use. Finally, after finishing, chemicals must always be returned to their original designated locations.",
+    "questions": [
+      {
+        "q": "Why is it forbidden to return unused reagent back to its original container?",
+        "opts": [
+          "It wastes chemical reagents",
+          "To avoid contaminating the original chemical source",
+          "It alters the labeling of the bottle",
+          "It is illegal under federal safety laws"
+        ],
+        "a": 1,
+        "exp": "The text states: 'Do not return unused reagent to the original container to avoid contamination.'"
+      },
+      {
+        "q": "What is the rule regarding how to carry reagent bottles and beakers?",
+        "opts": [
+          "Use one hand to keep the other hand free for opening doors",
+          "Carry them close to the face to monitor any reactions",
+          "Carry them with two hands to avoid spilling or dropping them, or use a cart",
+          "Only teachers are allowed to move chemical bottles"
+        ],
+        "a": 2,
+        "exp": "The text states: 'Carry reagent bottles and beakers with two hands to avoid spilling or dropping them, or use a cart when available.'"
+      }
+    ],
+    "legacy_index": 11
+  },
+  {
+    "unit": 1,
+    "page": 13,
+    "filename": "Unit_1_1.txt",
+    "section_title": "Lab Safety",
+    "page_num_in_file": 13,
+    "slide_title": "Emergency Procedures",
+    "original_text": "Emergency Procedures\nIn case of:Chemical or sample splash to eyes\nSpill\nSkin or clothing contact with a hazardous substance\nIngestion\nInhalation",
+    "explanation": "This slide details emergency scenarios that involve chemical or sample exposure. These incidents include: chemical/sample splashes to the eyes, general spills, skin or clothing contact with a hazardous substance, chemical ingestion (swallowing), and inhalation of hazardous vapors.",
+    "questions": [
+      {
+        "q": "What type of emergency scenario involving eye exposure is highlighted on this page?",
+        "opts": [
+          "Dropping a pair of safety goggles",
+          "Chemical or sample splash to the eyes",
+          "Reading labels in low light",
+          "Rubbing eyes with clean hands"
+        ],
+        "a": 1,
+        "exp": "The slide lists 'Chemical or sample splash to eyes' under emergency cases."
+      }
+    ],
+    "legacy_index": 12
+  },
+  {
+    "unit": 1,
+    "page": 14,
+    "filename": "Unit_1_1.txt",
+    "section_title": "Lab Safety",
+    "page_num_in_file": 14,
+    "slide_title": "Safety Symbols",
+    "original_text": "Safety Symbols",
+    "explanation": "This slide is titled 'Safety Symbols' and serves as a placeholder or introduction slide for laboratory safety symbols and warning signs.",
+    "questions": [
+      {
+        "q": "What is the title of this page?",
+        "opts": [
+          "Hazard Labels",
+          "Safety Symbols",
+          "Chemical Names",
+          "MSDS Instructions"
+        ],
+        "a": 1,
+        "exp": "The slide is titled 'Safety Symbols'."
+      }
+    ],
+    "legacy_index": 13
+  },
+  {
+    "unit": 1,
+    "page": 15,
+    "filename": "Unit_1_1.txt",
+    "section_title": "Lab Safety",
+    "page_num_in_file": 15,
+    "slide_title": "Safety Symbols",
+    "original_text": "Safety Symbols\nLaser Radiation",
+    "explanation": "This page displays the safety symbol and text warning for 'Laser Radiation', indicating that lasers are in use and appropriate precautions must be taken to prevent optical or biological injury.",
+    "questions": [
+      {
+        "q": "What safety hazard symbol text is explicitly listed on this page?",
+        "opts": [
+          "Biohazard",
+          "Toxic Substance",
+          "Laser Radiation",
+          "Corrosive Material"
+        ],
+        "a": 2,
+        "exp": "The slide lists the text 'Laser Radiation' under Safety Symbols."
+      }
+    ],
+    "legacy_index": 14
+  },
+  {
+    "unit": 1,
+    "page": 16,
+    "filename": "Unit_1_2.txt",
+    "section_title": "Intro to Biology",
+    "page_num_in_file": 1,
+    "slide_title": "Intro to Biology",
+    "original_text": "Intro to BiologyMr. Queenan–Biology 9Unit 1.2For more information, see text Ch 1.1 (p 1-10) & Ch.1.3 (p 22-30)",
+    "explanation": "This page serves as the title slide for Unit 1.2, 'Intro to Biology', taught by Mr. Queenan for Biology 9. It provides recommended textbook readings, specifically Chapter 1.1 (pages 1-10) and Chapter 1.3 (pages 22-30).",
+    "questions": [
+      {
+        "q": "According to this introductory slide, which chapters and pages in the textbook provide additional information for Unit 1.2?",
+        "opts": [
+          "Chapter 1.1 (pages 1-10) and Chapter 1.3 (pages 22-30)",
+          "Chapter 2.1 (pages 10-20) and Chapter 2.3 (pages 30-40)",
+          "Chapter 1.2 (pages 11-21) and Chapter 1.4 (pages 31-41)",
+          "Chapter 3.1 (pages 1-5) and Chapter 3.2 (pages 6-12)"
+        ],
+        "a": 0,
+        "exp": "The slide explicitly refers to 'text Ch 1.1 (p 1-10) & Ch.1.3 (p 22-30)'."
+      }
+    ],
+    "legacy_index": 15
+  },
+  {
+    "unit": 1,
+    "page": 17,
+    "filename": "Unit_1_2.txt",
+    "section_title": "Intro to Biology",
+    "page_num_in_file": 2,
+    "slide_title": "What is",
+    "original_text": "What is:\nScience?the state of knowing:knowledge as distinguished fromignoranceor misunderstandingMerriam Webster -https://www.merriam-webster.com/dictionary/science\nBiology?The scientific study of life…………. ORThe state of knowing or understanding LIFE\nAll forms of life share common properties",
+    "explanation": "This slide defines the terms 'Science' and 'Biology'. According to the Merriam-Webster dictionary, science is defined as 'the state of knowing: knowledge as distinguished from ignorance or misunderstanding.' Biology is defined as 'the scientific study of life' or 'the state of knowing or understanding life.' Crucially, the slide notes that all forms of life, despite their immense diversity, share common properties.",
+    "questions": [
+      {
+        "q": "What is the definition of biology given on this slide?",
+        "opts": [
+          "The study of rocks and physical formations",
+          "The scientific study of life, or the state of knowing or understanding life",
+          "The study of chemical reactions in inanimate objects",
+          "The study of stars and outer space"
+        ],
+        "a": 1,
+        "exp": "The slide defines Biology as 'The scientific study of life' or 'The state of knowing or understanding LIFE'."
+      },
+      {
+        "q": "How is science defined on this slide according to the Merriam-Webster citation?",
+        "opts": [
+          "The study of how cells divide",
+          "The state of knowing: knowledge as distinguished from ignorance or misunderstanding",
+          "A set of laws governing gravity and motion",
+          "The process of conducting laboratory experiments"
+        ],
+        "a": 1,
+        "exp": "The text cites the Merriam-Webster dictionary defining science as 'the state of knowing: knowledge as distinguished from ignorance or misunderstanding.'"
+      }
+    ],
+    "legacy_index": 16
+  },
+  {
+    "unit": 1,
+    "page": 18,
+    "filename": "Unit_1_2.txt",
+    "section_title": "Intro to Biology",
+    "page_num_in_file": 3,
+    "slide_title": "Characteristics of Life",
+    "original_text": "Characteristics of Life\nLife is extremely diverse\nHow do we begin to categorize things as living or non-living?\nBasic Characteristics (7) shared by all living things",
+    "explanation": "This slide introduces the characteristics of life. It points out that while life on Earth is extremely diverse, we can categorize entities as living or non-living based on seven basic characteristics shared by all living things.",
+    "questions": [
+      {
+        "q": "How many basic characteristics are shared by all living things to help categorize them as living or non-living?",
+        "opts": [
+          "5",
+          "7",
+          "10",
+          "3"
+        ],
+        "a": 1,
+        "exp": "The slide states there are 'Basic Characteristics (7) shared by all living things.'"
+      }
+    ],
+    "legacy_index": 17
+  },
+  {
+    "unit": 1,
+    "page": 19,
+    "filename": "Unit_1_2.txt",
+    "section_title": "Intro to Biology",
+    "page_num_in_file": 4,
+    "slide_title": "Characteristics of Life",
+    "original_text": "Characteristics of Life\n1.All living things are organizedStart with basic units of organization, and move up in complexity \nCan start from small to large or large to small but, there is an important reason to think from small to large\nAs you move up the hierarchy in complexity, new EMERGENT PROPERTIESdevelop",
+    "explanation": "This slide describes the first characteristic of life: all living things are organized. Organization starts with basic units and increases in complexity. Although one can think from small to large or large to small, thinking from small to large is preferred because, as you move up the hierarchy of structural complexity, new emergent properties develop that were not present at simpler levels.",
+    "questions": [
+      {
+        "q": "What develops as you move up the biological hierarchy of organization from smaller to larger, more complex levels?",
+        "opts": [
+          "Evolutionary mutations",
+          "Emergent properties",
+          "Chemical reductionism",
+          "Atmospheric pressure"
+        ],
+        "a": 1,
+        "exp": "The text states that 'As you move up the hierarchy in complexity, new EMERGENT PROPERTIES develop.'"
+      }
+    ],
+    "legacy_index": 18
+  },
+  {
+    "unit": 1,
+    "filename": "Unit_1_2.txt",
+    "section_title": "Intro to Biology",
+    "page_num_in_file": 5,
+    "slide_title": "Intro to Biology - Visual Page 5",
+    "original_text": "[This page is visual or image-based and contains no machine-extractable text. Open the matching notes page to study its diagrams and labels.]",
+    "explanation": "Study this complete page carefully, then recall its terminology, relationships, steps, examples, and exceptions without looking.",
+    "questions": [
+      {
+        "q": "Without looking back, explain the important information on the page titled \"Intro to Biology - Visual Page 5.\"",
+        "type": "recall",
+        "answer": "[This page is visual or image-based and contains no machine-extractable text. Open the matching notes page to study its diagrams and labels.]",
+        "exp": "A complete answer should include the page's major terms, relationships, processes, examples, and exceptions. Compare your response with the complete page notes shown above."
+      }
+    ],
+    "legacy_index": null,
+    "page": 20
+  },
+  {
+    "unit": 1,
+    "filename": "Unit_1_2.txt",
+    "section_title": "Intro to Biology",
+    "page_num_in_file": 6,
+    "slide_title": "Intro to Biology - Visual Page 6",
+    "original_text": "[This page is visual or image-based and contains no machine-extractable text. Open the matching notes page to study its diagrams and labels.]",
+    "explanation": "Study this complete page carefully, then recall its terminology, relationships, steps, examples, and exceptions without looking.",
+    "questions": [
+      {
+        "q": "Without looking back, explain the important information on the page titled \"Intro to Biology - Visual Page 6.\"",
+        "type": "recall",
+        "answer": "[This page is visual or image-based and contains no machine-extractable text. Open the matching notes page to study its diagrams and labels.]",
+        "exp": "A complete answer should include the page's major terms, relationships, processes, examples, and exceptions. Compare your response with the complete page notes shown above."
+      }
+    ],
+    "legacy_index": null,
+    "page": 21
+  },
+  {
+    "unit": 1,
+    "page": 22,
+    "filename": "Unit_1_2.txt",
+    "section_title": "Intro to Biology",
+    "page_num_in_file": 7,
+    "slide_title": "Characteristics of Life",
+    "original_text": "Characteristics of Life\n2.Living things acquire materials and energyLiving things require outside sources of energy and/or nutrients to carry on lifeWhat is the main source of energy for most life on Earth?The SunOrganisms are able to perform chemical reactions to metabolize energyEx include Photosynthesis or cellular respirationWill discuss in more detail in future units",
+    "explanation": "This slide discusses the second characteristic of life: living things acquire materials and energy. To carry on life, organisms require outside sources of energy and nutrients. The Sun is the primary source of energy for most life on Earth. Organisms are capable of performing chemical reactions to metabolize this energy, with key examples including photosynthesis (converting light to chemical energy) and cellular respiration (releasing stored energy).",
+    "questions": [
+      {
+        "q": "What is the primary source of energy for most life on Earth according to the slide?",
+        "opts": [
+          "Geothermal heat",
+          "The Earth's core",
+          "The Sun",
+          "Organic fertilizer"
+        ],
+        "a": 2,
+        "exp": "The slide poses the question 'What is the main source of energy for most life on Earth?' and answers: 'The Sun'."
+      },
+      {
+        "q": "What processes are mentioned as examples of chemical reactions organisms use to metabolize energy?",
+        "opts": [
+          "Digestion and excretion",
+          "Photosynthesis and cellular respiration",
+          "Mitosis and meiosis",
+          "Osmosis and diffusion"
+        ],
+        "a": 1,
+        "exp": "The text mentions 'Photosynthesis or cellular respiration' as examples of chemical reactions to metabolize energy."
+      }
+    ],
+    "legacy_index": 19
+  },
+  {
+    "unit": 1,
+    "page": 23,
+    "filename": "Unit_1_2.txt",
+    "section_title": "Intro to Biology",
+    "page_num_in_file": 8,
+    "slide_title": "Characteristics of Life",
+    "original_text": "Characteristics of Life\n3.Living things maintain homeostasisLiving organisms must maintain a state of biological balance to surviveThere is a tolerance range for survivalThese biological adjustments do not require conscious activity –controlled mostly by nervous systemsExamples:Body temperature and sweatBlood sugar level regulationpH",
+    "explanation": "This slide covers the third characteristic of life: living things maintain homeostasis. Homeostasis is the maintenance of a state of biological balance required for survival. Organisms operate within a specific tolerance range. Crucially, these biological adjustments do not require conscious activity and are controlled mostly by nervous systems. Examples of homeostasis include body temperature regulation (such as sweating to cool down), blood sugar level regulation, and pH maintenance.",
+    "questions": [
+      {
+        "q": "How is homeostasis defined on this slide?",
+        "opts": [
+          "The capability of moving from place to place",
+          "Maintaining a state of biological balance to survive within a tolerance range",
+          "The union of sperm and egg to create new life",
+          "Performing chemical reactions to obtain solar energy"
+        ],
+        "a": 1,
+        "exp": "The slide states: 'Living organisms must maintain a state of biological balance to survive' and 'There is a tolerance range for survival.'"
+      },
+      {
+        "q": "What control system is mostly responsible for the unconscious adjustments that maintain homeostasis?",
+        "opts": [
+          "The muscular system",
+          "The digestive system",
+          "The nervous system",
+          "The respiratory system"
+        ],
+        "a": 2,
+        "exp": "The text states that these adjustments 'do not require conscious activity – controlled mostly by nervous systems'."
+      }
+    ],
+    "legacy_index": 20
+  },
+  {
+    "unit": 1,
+    "page": 24,
+    "filename": "Unit_1_2.txt",
+    "section_title": "Intro to Biology",
+    "page_num_in_file": 9,
+    "slide_title": "Characteristics of Life",
+    "original_text": "Characteristics of Life\n4.Living things respondInteract with environmentInteract with other living thingsExamplesLocomotion towards or away from chemical in unicellular organismsMigration of birds based on seasonPlants leaves moving towards the sunhttps://youtu.be/z0I3174S8Xg",
+    "explanation": "This slide describes the fourth characteristic of life: living things respond. Organisms interact with their environment and other living things. Examples of responses include unicellular organisms showing locomotion towards or away from a chemical stimulus, seasonal migration of birds, and plant leaves moving towards the sun (phototropism).",
+    "questions": [
+      {
+        "q": "Which of the following is an example of an organism responding to its environment as mentioned on the slide?",
+        "opts": [
+          "A single cell undergoing cell division to create identical offspring",
+          "Plants moving their leaves towards the sun",
+          "Storing food in a lab refrigerator",
+          "A hot plate heating glassware"
+        ],
+        "a": 1,
+        "exp": "The slide provides 'Plants leaves moving towards the sun' as an example of response."
+      }
+    ],
+    "legacy_index": 21
+  },
+  {
+    "unit": 1,
+    "page": 25,
+    "filename": "Unit_1_2.txt",
+    "section_title": "Intro to Biology",
+    "page_num_in_file": 10,
+    "slide_title": "Characteristics of Life",
+    "original_text": "Characteristics of Life\n5.Living things can reproduceLife onlydevelops from lifeTherefore, living things must be able to create new organisms, and pass on genetic material, or genesUnicellular splitting or divisionAsexualIdentical to parentUnion of sperm and eggSexualCombination of parents",
+    "explanation": "This slide details the fifth characteristic of life: living things can reproduce. Under the principle that life only develops from life, organisms must create new organisms and pass on genetic material (genes). Reproduction can be asexual, such as unicellular splitting or division, which results in offspring identical to the parent. Alternatively, it can be sexual, involving the union of sperm and egg, which results in a combination of traits from both parents.",
+    "questions": [
+      {
+        "q": "Which type of reproduction results in offspring that are genetically identical to the parent?",
+        "opts": [
+          "Sexual reproduction",
+          "Asexual reproduction",
+          "Natural selection",
+          "Homeostatic adjustment"
+        ],
+        "a": 1,
+        "exp": "The text defines 'Asexual' reproduction (e.g. unicellular splitting or division) as resulting in offspring that are 'Identical to parent'."
+      }
+    ],
+    "legacy_index": 22
+  },
+  {
+    "unit": 1,
+    "page": 26,
+    "filename": "Unit_1_2.txt",
+    "section_title": "Intro to Biology",
+    "page_num_in_file": 11,
+    "slide_title": "Characteristics of Life",
+    "original_text": "Characteristics of Life\n6.Living things can developAfter reproducing, an organism must go through a set of stages to develop into a mature organismCan increase in sizeCan become more complexCan change over timeThe organisms genes include not only the material involved in reproduction, but also the blueprint for an organisms development!",
+    "explanation": "This slide describes the sixth characteristic of life: living things can develop. After reproduction, an organism must progress through a sequence of stages to become a mature organism. Development can involve increasing in size, becoming more complex, and changing over time. An organism's genes do not just contain the materials for reproduction, but also act as the complete blueprint for its development.",
+    "questions": [
+      {
+        "q": "What serves as the blueprint for an organism's development according to the slide?",
+        "opts": [
+          "The external environment",
+          "Homeostatic feedback loops",
+          "The organism's genes",
+          "Nervous system signals"
+        ],
+        "a": 2,
+        "exp": "The slide states: 'The organisms genes include not only the material involved in reproduction, but also the blueprint for an organisms development!'"
+      }
+    ],
+    "legacy_index": 23
+  },
+  {
+    "unit": 1,
+    "page": 27,
+    "filename": "Unit_1_2.txt",
+    "section_title": "Intro to Biology",
+    "page_num_in_file": 12,
+    "slide_title": "Characteristics of Life",
+    "original_text": "Characteristics of Life\n7.Living things have adaptationsModifications that make organisms able to better function in a particular environmentThese adaptations have led to the diversity of life on EarthThese adaptations to environments over time also have another nameEvolutionAll living things have the capacity to evolveAllows a way for organisms to persist, despite a changing environment",
+    "explanation": "This slide presents the seventh characteristic of life: living things have adaptations. Adaptations are modifications that enable organisms to function better in a specific environment, and they are responsible for the vast diversity of life on Earth. Adaptations to environments over long periods of time is also known as evolution. All living things possess the capacity to evolve, which provides a mechanism for organisms to survive and persist despite changing environments.",
+    "questions": [
+      {
+        "q": "What is defined as modifications that make organisms able to better function in a particular environment?",
+        "opts": [
+          "Homeostatic balances",
+          "Adaptations",
+          "Development blueprints",
+          "Emergent properties"
+        ],
+        "a": 1,
+        "exp": "The text defines adaptations as 'Modifications that make organisms able to better function in a particular environment'."
+      },
+      {
+        "q": "What is the long-term process by which adaptations to environments occur over time, allowing species to persist?",
+        "opts": [
+          "Responding to stimuli",
+          "Unicellular division",
+          "Evolution",
+          "Homeostatic tolerance"
+        ],
+        "a": 2,
+        "exp": "The text states: 'These adaptations to environments over time also have another name – Evolution' and that it 'Allows a way for organisms to persist, despite a changing environment.'"
+      }
+    ],
+    "legacy_index": 24
+  },
+  {
+    "unit": 1,
+    "page": 28,
+    "filename": "Unit_1_2.txt",
+    "section_title": "Intro to Biology",
+    "page_num_in_file": 13,
+    "slide_title": "Characteristics of Life",
+    "original_text": "Characteristics of Life\nLiving things:1.are organized2.acquire material and energy3.maintain homeostasis4.respond5.can reproduce6.can develop7.have adaptations\nThese 7 characteristics drive every unit of study we will explore this year!Evolution, genetics, ecology, cytology, etc!",
+    "explanation": "This page summarizes the seven fundamental characteristics of life that define living organisms: structural organization, acquisition of materials and energy, homeostasis (maintenance of biological balance), response to the environment/other organisms, capacity for reproduction, development through specific stages, and evolutionary adaptations. These 7 core concepts form the foundation for all units covered in the course, including evolution, genetics, ecology, and cytology.",
+    "questions": [
+      {
+        "q": "Which fields of biological study are mentioned as being driven by the 7 characteristics of life?",
+        "opts": [
+          "Chemistry, physics, and geology",
+          "Evolution, genetics, ecology, and cytology",
+          "Anatomy, astronomy, and meteorology",
+          "Botany, biochemistry, and thermodynamics"
+        ],
+        "a": 1,
+        "exp": "The slide explicitly lists: 'Evolution, genetics, ecology, cytology, etc!' as subjects driven by these seven characteristics."
+      }
+    ],
+    "legacy_index": 25
+  },
+  {
+    "unit": 1,
+    "page": 29,
+    "filename": "Unit_1_2.txt",
+    "section_title": "Intro to Biology",
+    "page_num_in_file": 14,
+    "slide_title": "Activity",
+    "original_text": "Activity\nWhat factors could you use to justify the following objects are alive?What factors would you use to show they are not?",
+    "explanation": "This slide sets up a class activity where students must apply their knowledge of the characteristics of life. They are asked to provide biological justification for why specific objects can be classified as alive, and what factors prove that they are non-living.",
+    "questions": [
+      {
+        "q": "What is the focus of the activity described on the slide?",
+        "opts": [
+          "Memorizing the classification of plants and animals",
+          "Justifying whether objects are alive or not based on biological characteristics",
+          "Observing single-celled organisms under a microscope",
+          "Comparing chemical compounds to organic molecules"
+        ],
+        "a": 1,
+        "exp": "The questions on the slide ask what factors could be used to justify whether objects are alive or show that they are not."
+      }
+    ],
+    "legacy_index": 26
+  },
+  {
+    "unit": 1,
+    "page": 30,
+    "filename": "Unit_1_2.txt",
+    "section_title": "Intro to Biology",
+    "page_num_in_file": 15,
+    "slide_title": "Organizing Diversity",
+    "original_text": "Organizing Diversity\nCategories are needed to make sense of all of Earth’s diversityScientists have identified close to 2 million different speciesActual estimates of Earth’s diversity are 10-100 million species\nTaxonomyis the discipline of identifying and grouping organismsNames speciesClassifies species into a hierarchy of broader groups\nSystematicsis the study of evolutionary relationships between organisms",
+    "explanation": "This page introduces methods used to categorize the massive diversity of life on Earth. While scientists have identified approximately 2 million species, estimates of total global diversity range from 10 to 100 million species. Taxonomy is defined as the scientific discipline of identifying, naming, and classifying organisms into a hierarchical system of broader groups. Systematics is the study of the evolutionary relationships that exist between organisms.",
+    "questions": [
+      {
+        "q": "What is the primary difference between taxonomy and systematics according to this slide?",
+        "opts": [
+          "Taxonomy deals with identifying, naming, and classifying species, while systematics is the study of evolutionary relationships.",
+          "Taxonomy focuses on cellular anatomy, while systematics studies global ecosystems.",
+          "Taxonomy calculates the total number of species, while systematics names new organisms.",
+          "Taxonomy deals with living organisms, while systematics studies extinct species only."
+        ],
+        "a": 0,
+        "exp": "The slide defines taxonomy as the discipline of identifying, grouping, naming, and classifying species, and systematics as the study of evolutionary relationships between organisms."
+      },
+      {
+        "q": "What is the estimated range of Earth's total species diversity compared to the number identified by scientists?",
+        "opts": [
+          "1 million identified; 5 million estimated",
+          "Close to 2 million identified; 10-100 million estimated",
+          "5 million identified; 50 million estimated",
+          "10 million identified; 1 billion estimated"
+        ],
+        "a": 1,
+        "exp": "The slide states that scientists have identified close to 2 million species, but actual estimates of Earth's diversity are 10-100 million species."
+      }
+    ],
+    "legacy_index": 27
+  },
+  {
+    "unit": 1,
+    "page": 31,
+    "filename": "Unit_1_2.txt",
+    "section_title": "Intro to Biology",
+    "page_num_in_file": 16,
+    "slide_title": "Organizing Diversity",
+    "original_text": "Organizing Diversity",
+    "explanation": "This slide is titled 'Organizing Diversity' and does not contain additional text, functioning as a separator or heading slide for the classification section.",
+    "questions": [
+      {
+        "q": "What is the heading of Unit 1, page 29?",
+        "opts": [
+          "Characteristics of Life",
+          "Organizing Diversity",
+          "The Three Domains",
+          "Intro to Biology"
+        ],
+        "a": 1,
+        "exp": "The page contains only the heading 'Organizing Diversity'."
+      }
+    ],
+    "legacy_index": 28
+  },
+  {
+    "unit": 1,
+    "page": 32,
+    "filename": "Unit_1_2.txt",
+    "section_title": "Intro to Biology",
+    "page_num_in_file": 17,
+    "slide_title": "Organizing Diversity",
+    "original_text": "Organizing Diversity\nBasic classification categories go from least inclusive to most inclusive (just like levels of organization discussed earlier)Least inclusive is species, and is a group of interbreeding individualsAs you move up a level in hierarchy, the level contains more individuals, but the individuals share less characteristics\n3 DomainsBacteriaArchaeaBoth ProkaryotesEukarya4 Kingdoms",
+    "explanation": "This slide explains how biological classification is structured hierarchically. The basic classification categories go from the least inclusive (species) to the most inclusive. A species is defined as a group of interbreeding individuals. Moving up the levels of the hierarchy increases the number of individuals in each group, but they share fewer common characteristics. The slide also introduces the three domains of life: Domain Bacteria and Domain Archaea (both of which consist of prokaryotes), and Domain Eukarya, which has four kingdoms.",
+    "questions": [
+      {
+        "q": "How do biological classification categories change as you move up the hierarchy from least inclusive to most inclusive?",
+        "opts": [
+          "The groups contain fewer individuals that share more characteristics.",
+          "The groups contain more individuals, and these individuals share fewer characteristics.",
+          "The groups remain the same size but change names.",
+          "The groups become more specific to individual behaviors."
+        ],
+        "a": 1,
+        "exp": "The slide states: 'As you move up a level in hierarchy, the level contains more individuals, but the individuals share less characteristics.'"
+      },
+      {
+        "q": "Which domains are composed entirely of prokaryotes according to the slide?",
+        "opts": [
+          "Bacteria and Eukarya",
+          "Archaea and Eukarya",
+          "Bacteria and Archaea",
+          "Only Domain Bacteria"
+        ],
+        "a": 2,
+        "exp": "The slide groups Bacteria and Archaea together, stating: 'Both Prokaryotes'."
+      }
+    ],
+    "legacy_index": 29
+  },
+  {
+    "unit": 1,
+    "page": 33,
+    "filename": "Unit_1_2.txt",
+    "section_title": "Intro to Biology",
+    "page_num_in_file": 18,
+    "slide_title": "Organizing Diversity",
+    "original_text": "Organizing Diversity\nDomain Bacteriaare the most diverse and widespread prokaryotes.Prokaryotes are organisms lacking membrane bound nucleusDomain Archaeaare prokaryotes that often live in Earth’s extreme environments.Deep sea vents, volcanic chambers, etcDomain EukaryaAll organisms are eukaryotes, or contain a membrane bound nucleusRange from single-celled protists to multicellular organisms",
+    "explanation": "This slide compares the three domains of life. Domain Bacteria contains the most diverse and widespread prokaryotes. Prokaryotes are defined as organisms that lack a membrane-bound nucleus. Domain Archaea contains prokaryotes that frequently live in Earth's extreme environments, such as deep-sea vents and volcanic chambers. Domain Eukarya consists of eukaryotes, meaning all its organisms possess a membrane-bound nucleus; this domain ranges from single-celled protists to multicellular organisms.",
+    "questions": [
+      {
+        "q": "What is the defining difference between prokaryotes and eukaryotes as described on this slide?",
+        "opts": [
+          "Prokaryotes have a membrane-bound nucleus, while eukaryotes lack one.",
+          "Prokaryotes lack a membrane-bound nucleus, while eukaryotes contain a membrane-bound nucleus.",
+          "Prokaryotes are always multicellular, while eukaryotes are single-celled.",
+          "Prokaryotes live in extreme environments, while eukaryotes do not."
+        ],
+        "a": 1,
+        "exp": "The slide defines prokaryotes as 'organisms lacking membrane bound nucleus' and eukaryotes as organisms that 'contain a membrane bound nucleus'."
+      },
+      {
+        "q": "Which domain contains organisms that often live in extreme environments like deep-sea vents and volcanic chambers?",
+        "opts": [
+          "Domain Bacteria",
+          "Domain Archaea",
+          "Domain Eukarya",
+          "Domain Eukaryota"
+        ],
+        "a": 1,
+        "exp": "The slide states: 'Domain Archaea – are prokaryotes that often live in Earth’s extreme environments. – Deep sea vents, volcanic chambers, etc'."
+      }
+    ],
+    "legacy_index": 30
+  },
+  {
+    "unit": 1,
+    "page": 34,
+    "filename": "Unit_1_2.txt",
+    "section_title": "Intro to Biology",
+    "page_num_in_file": 19,
+    "slide_title": "Organizing Diversity",
+    "original_text": "Organizing Diversity\nhttp://3ubio.weebly.com/taxonomy.html",
+    "explanation": "This slide contains a link to an external resource (http://3ubio.weebly.com/taxonomy.html) that contains content regarding taxonomy and classification.",
+    "questions": [
+      {
+        "q": "What web address is listed on the slide for taxonomy resources?",
+        "opts": [
+          "http://3ubio.weebly.com/taxonomy.html",
+          "http://biology.com/taxonomy",
+          "http://queenanbio.weebly.com",
+          "http://taxonomy-guide.org"
+        ],
+        "a": 0,
+        "exp": "The page content lists: 'http://3ubio.weebly.com/taxonomy.html'."
+      }
+    ],
+    "legacy_index": 31
+  },
+  {
+    "unit": 1,
+    "page": 35,
+    "filename": "Unit_1_2.txt",
+    "section_title": "Intro to Biology",
+    "page_num_in_file": 20,
+    "slide_title": "Organizing Diversity",
+    "original_text": "Organizing Diversity\nDiversity is observed across all levels of biological organizationFrom cell structure, to organisms, to populations, to ecosystems and biodiversity.We will study the interplay of each of these over the course of the next few months, moving from the smallest (Biochemistry and cytology) to the largest (biomes and ecology)",
+    "explanation": "This slide points out that biological diversity can be seen at all levels of organization, from microscopic cell structures to complete organisms, populations, ecosystems, and global biodiversity. The biology course will cover these levels sequentially over the school year, moving from the smallest scale (Biochemistry and cytology/cell biology) to the largest scale (biomes and ecology).",
+    "questions": [
+      {
+        "q": "In what order will the course investigate biological systems?",
+        "opts": [
+          "From the largest scale (biomes and ecology) to the smallest scale (biochemistry)",
+          "From the smallest scale (biochemistry and cytology) to the largest scale (biomes and ecology)",
+          "By analyzing human body systems first and cell biology last",
+          "By focusing exclusively on ecosystem diversity and ignoring cellular details"
+        ],
+        "a": 1,
+        "exp": "The text states the study will move 'from the smallest (Biochemistry and cytology) to the largest (biomes and ecology)'."
+      }
+    ],
+    "legacy_index": 32
+  },
+  {
+    "unit": 1,
+    "page": 36,
+    "filename": "Unit_1_2.txt",
+    "section_title": "Intro to Biology",
+    "page_num_in_file": 21,
+    "slide_title": "Coming Soon in",
+    "original_text": "Coming Soon in Unit 1\nThe Process of ScienceThe Scientific MethodGraded activity Science TechnologyThe MicroscopeGraded activityBiotechnology, Bioengineering, & BioethicsJournal ClubObjectives Submission & ReviewUnit Assessment",
+    "explanation": "This slide lists upcoming topics, activities, and assessments for Unit 1. These include: the Scientific Method (under the Process of Science, with a graded activity), the Microscope (under Science Technology, with a graded activity), Biotechnology, Bioengineering, & Bioethics (investigated via a Journal Club), objectives submission and review, and the final Unit Assessment.",
+    "questions": [
+      {
+        "q": "Which of the following is listed as an upcoming science technology topic with a graded activity?",
+        "opts": [
+          "The Microscope",
+          "DNA Sequencing",
+          "Spectrophotometry",
+          "Centrifugation"
+        ],
+        "a": 0,
+        "exp": "Under 'Science Technology', the slide lists 'The Microscope' alongside 'Graded activity'."
+      }
+    ],
+    "legacy_index": 33
+  },
+  {
+    "unit": 1,
+    "page": 37,
+    "filename": "Unit_1_3.txt",
+    "section_title": "The Process of Science",
+    "page_num_in_file": 1,
+    "slide_title": "The Process of Science:The Scientific Method",
+    "explanation": "This is the title slide for Unit 1.3, 'The Process of Science: The Scientific Method' taught by Mr. Queenan for Biology 9. It directs students to textbook references: Chapter 1.1 (pages 11-16) and Chapter 1.2 (pages 17-21) for additional information.",
+    "questions": [
+      {
+        "q": "What is the title of Unit 1.3 as shown on this slide?",
+        "opts": [
+          "The Chemistry of Life",
+          "Cell Division and Mitosis",
+          "The Process of Science: The Scientific Method",
+          "Ecology and Biospheres"
+        ],
+        "a": 2,
+        "exp": "The slide is titled 'The Process of Science: The Scientific Method'."
+      }
+    ],
+    "legacy_index": 34,
+    "original_text": "The Process of Science:The Scientific MethodMr. Queenan–Biology 9Unit 1.3For more information, see text Ch 1.1 (p 11-16) & Ch 1.2 (p 17-21)"
+  },
+  {
+    "unit": 1,
+    "page": 38,
+    "filename": "Unit_1_3.txt",
+    "section_title": "The Process of Science",
+    "page_num_in_file": 2,
+    "slide_title": "Questions?Essential Question: Can we have knowledge without order?What are examples of ways we...",
+    "original_text": "Questions?Essential Question: Can we have knowledge without order?What are examples of ways we seek to make order of our world?Religion, Government, Ethics, Science\nWhat makes science different?",
+    "explanation": "This slide introduces introductory questions for the Scientific Method unit. The essential question is: 'Can we have knowledge without order?' It lists religion, government, ethics, and science as examples of human institutions used to bring order to the world. It then asks the student to consider: 'What makes science different?'",
+    "questions": [
+      {
+        "q": "What is the essential question that guides this section?",
+        "opts": [
+          "How did life evolve on Earth?",
+          "Can we have knowledge without order?",
+          "What is the difference between prokaryotes and eukaryotes?",
+          "Why is the microscope important to biology?"
+        ],
+        "a": 1,
+        "exp": "The slide explicitly lists: 'Essential Question: Can we have knowledge without order?'"
+      },
+      {
+        "q": "Which of the following is listed as a way humans seek to make order of our world?",
+        "opts": [
+          "Photosynthesis, respiration, and metabolism",
+          "Religion, Government, Ethics, and Science",
+          "Observations, predictions, and controls",
+          "Taxonomy, systematics, and cladistics"
+        ],
+        "a": 1,
+        "exp": "The slide lists: 'Religion, Government, Ethics, Science' as examples of ways we seek to make order of our world."
+      }
+    ],
+    "legacy_index": 35
+  },
+  {
+    "unit": 1,
+    "page": 39,
+    "filename": "Unit_1_3.txt",
+    "section_title": "The Process of Science",
+    "page_num_in_file": 3,
+    "slide_title": "The Process of Science",
+    "original_text": "The Process of Science\nBiology, and even more broadly science, is a broad subject, with many different disciplinesHow is it possible for all scientists across all disciplines to speak a common language for gaining new knowledge?The Scientific MethodScience is based upon inquiry, the search for information and explanations of natural phenomena.Scientific Method is a standard series of steps used in gathering and gaining new knowledge",
+    "explanation": "This slide explains how the Scientific Method serves as a common language for gaining knowledge across diverse scientific fields. Science is defined as being based on inquiry, which is the search for information and explanations of natural phenomena. The Scientific Method is described as a standard series of steps used to gather and build scientific knowledge.",
+    "questions": [
+      {
+        "q": "According to the slide, what is the 'common language' that allows all scientists across various disciplines to gather new knowledge?",
+        "opts": [
+          "Universal scientific terminology in English",
+          "The Scientific Method",
+          "Mathematical modeling",
+          "Peer-reviewed publication databases"
+        ],
+        "a": 1,
+        "exp": "The slide answers the question about how scientists speak a common language with: 'The Scientific Method'."
+      },
+      {
+        "q": "How is science defined on this slide in relation to inquiry?",
+        "opts": [
+          "Science is the memorization of natural laws.",
+          "Science is based upon inquiry, the search for information and explanations of natural phenomena.",
+          "Science is the use of mathematical proofs to describe physical space.",
+          "Science is the collection of technology for laboratory research."
+        ],
+        "a": 1,
+        "exp": "The text states: 'Science is based upon inquiry, the search for information and explanations of natural phenomena.'"
+      }
+    ],
+    "legacy_index": 36
+  },
+  {
+    "unit": 1,
+    "page": 40,
+    "filename": "Unit_1_3.txt",
+    "section_title": "The Process of Science",
+    "page_num_in_file": 4,
+    "slide_title": "The Scientific Method",
+    "original_text": "The Scientific Method\nSteps1.Make an Observation2.Ask a Question3.Make a Hypothesis4.Perform an Experiment(s)5.Collect and Analyze Data6.Make Conclusions",
+    "explanation": "This slide outlines the six standard steps of the Scientific Method in sequential order: 1) Make an Observation, 2) Ask a Question, 3) Make a Hypothesis, 4) Perform an Experiment (or series of experiments), 5) Collect and Analyze Data, and 6) Make Conclusions.",
+    "questions": [
+      {
+        "q": "What is the correct order of the first three steps of the Scientific Method?",
+        "opts": [
+          "Ask a Question -> Make an Observation -> Make a Hypothesis",
+          "Make a Hypothesis -> Perform an Experiment -> Collect Data",
+          "Make an Observation -> Ask a Question -> Make a Hypothesis",
+          "Perform an Experiment -> Collect Data -> Make Conclusions"
+        ],
+        "a": 2,
+        "exp": "According to the slide, the steps are: 1. Make an Observation, 2. Ask a Question, 3. Make a Hypothesis."
+      }
+    ],
+    "legacy_index": 37
+  },
+  {
+    "unit": 1,
+    "page": 41,
+    "filename": "Unit_1_3.txt",
+    "section_title": "The Process of Science",
+    "page_num_in_file": 5,
+    "slide_title": "The Scientific Method",
+    "original_text": "The Scientific Method\nObservations and QuestionsWhat are the ways that we can make observations of phenomena, or a natural event?Use of our SensesUse of Tools & TechnologyQualitative (descriptive) vs Quantitative (numerical) Data\nWhat makes a question good?What makes a question good in the field of science?",
+    "explanation": "This slide details the processes of making observations and posing questions. Observations of natural events or phenomena can be made either through the direct use of our senses or by using tools and technology. The observations collect data, which can be categorized as qualitative (descriptive) or quantitative (numerical). The slide also poses questions about what characteristics make a question scientifically valid or 'good'.",
+    "questions": [
+      {
+        "q": "What are the two ways of making observations mentioned on this slide?",
+        "opts": [
+          "Asexual and sexual methods",
+          "Using our senses and using tools & technology",
+          "Hypothesizing and experimenting",
+          "Qualitative and quantitative reasoning"
+        ],
+        "a": 1,
+        "exp": "The slide lists 'Use of our Senses' and 'Use of Tools & Technology' as ways to make observations of phenomena."
+      },
+      {
+        "q": "How is quantitative data distinguished from qualitative data on this slide?",
+        "opts": [
+          "Quantitative is numerical, while qualitative is descriptive.",
+          "Quantitative is descriptive, while qualitative is numerical.",
+          "Quantitative is gathered by instruments, while qualitative is gathered only by sight.",
+          "Quantitative data is proven, while qualitative data consists of opinions."
+        ],
+        "a": 0,
+        "exp": "The slide labels them: 'Qualitative (descriptive) vs Quantitative (numerical) Data'."
+      }
+    ],
+    "legacy_index": 38
+  },
+  {
+    "unit": 1,
+    "page": 42,
+    "filename": "Unit_1_3.txt",
+    "section_title": "The Process of Science",
+    "page_num_in_file": 6,
+    "slide_title": "The Scientific Method",
+    "original_text": "The Scientific Method\nGeneral Case StudyYour flashlight doesn’t work\nObservation:\nQuestion:\nFlashlight doesn’t work\nWhy doesn’t the flashlight work?",
+    "explanation": "This slide introduces a general case study featuring a malfunctioning flashlight. The Observation is 'Flashlight doesn't work', and the corresponding Question is 'Why doesn't the flashlight work?'",
+    "questions": [
+      {
+        "q": "In the case study presented, what is the question that arises from the observation?",
+        "opts": [
+          "Is the flashlight too old?",
+          "Why doesn't the flashlight work?",
+          "Are the batteries dead?",
+          "Where is the spare bulb?"
+        ],
+        "a": 1,
+        "exp": "The slide defines the Question as: 'Why doesn't the flashlight work?'"
+      }
+    ],
+    "legacy_index": 39
+  },
+  {
+    "unit": 1,
+    "page": 43,
+    "filename": "Unit_1_3.txt",
+    "section_title": "The Process of Science",
+    "page_num_in_file": 7,
+    "slide_title": "The Scientific Method",
+    "original_text": "The Scientific Method\nHypothesisA hypothesis is a possible explanation for a natural eventScientists use inductive reasoning, or creative thinking to combine isolated facts into a cohesive wholeInductive reasoning makes generalizations based on collecting and analyzing a large number of specific observations.A hypothesis is not merely a guess.Informed statement that can be tested according to the process of science!",
+    "explanation": "This slide defines a hypothesis as a possible explanation for a natural event. Scientists use inductive reasoning (or creative thinking) to link isolated facts into a single explanation. Inductive reasoning is the process of making general principles based on collecting and analyzing many specific observations. Crucially, a hypothesis is not just a guess; it is an informed statement that is testable through scientific experimentation.",
+    "questions": [
+      {
+        "q": "What is a hypothesis according to this slide?",
+        "opts": [
+          "A random guess about a natural phenomenon",
+          "A possible explanation for a natural event that is an informed, testable statement",
+          "A proven fact that cannot be disproven",
+          "A set of procedures used to collect data"
+        ],
+        "a": 1,
+        "exp": "The slide defines a hypothesis as a 'possible explanation for a natural event' and an 'Informed statement that can be tested'."
+      },
+      {
+        "q": "What type of reasoning combines isolated facts into a cohesive whole and makes generalizations from many specific observations?",
+        "opts": [
+          "Deductive reasoning",
+          "Inductive reasoning",
+          "Reductive reasoning",
+          "Analytic reasoning"
+        ],
+        "a": 1,
+        "exp": "The slide states: 'Scientists use inductive reasoning... Inductive reasoning makes generalizations based on collecting and analyzing a large number of specific observations.'"
+      }
+    ],
+    "legacy_index": 40
+  },
+  {
+    "unit": 1,
+    "page": 44,
+    "filename": "Unit_1_3.txt",
+    "section_title": "The Process of Science",
+    "page_num_in_file": 8,
+    "slide_title": "The Scientific Method",
+    "original_text": "The Scientific Method\nExperimentationScientist carries out an experiment, or series of proceduresUse Deductive ReasoningMake a prediction based on knowledge of the factors in the experimentEx. for flashlight case studyPredict 2 reasons why flashlight doesn’t work",
+    "explanation": "This slide focuses on the experimentation step of the scientific method. Experimentation involves a scientist executing a series of procedures. In this stage, scientists use deductive reasoning to make predictions based on their knowledge of the factors involved in the experiment. For the flashlight case study, this involves predicting two potential reasons why it fails to work.",
+    "questions": [
+      {
+        "q": "Which type of reasoning is used during experimentation to make predictions based on known factors?",
+        "opts": [
+          "Inductive reasoning",
+          "Deductive reasoning",
+          "Reductive reasoning",
+          "Dialectical reasoning"
+        ],
+        "a": 1,
+        "exp": "The text instructs to: 'Use Deductive Reasoning – Make a prediction based on knowledge of the factors in the experiment'."
+      }
+    ],
+    "legacy_index": 41
+  },
+  {
+    "unit": 1,
+    "page": 45,
+    "filename": "Unit_1_3.txt",
+    "section_title": "The Process of Science",
+    "page_num_in_file": 9,
+    "slide_title": "The Scientific Method",
+    "original_text": "The Scientific Method\nExperimental DesignGood design is important to ensure that results observed are a result of experimental procedureExperimental VariableA factor in an experiment that is changedControlUnchanging factors in an experimentTest group and control groupTest groups exposed to experimental variable while control group is not. If results show no difference between control and test groups, hypothesis not supportedIf results show difference in relation to predictions, hypothesis supportedIf results show difference not in relation to prediction, different hypothesis needed or experiment needs better controls",
+    "explanation": "This slide covers key components of experimental design. Good experimental design ensures that observations are actually caused by the experimental procedure. An experimental variable is the factor in an experiment that is intentionally changed. Controls are the unchanging factors. An experiment typically divides subjects into a test group (exposed to the experimental variable) and a control group (not exposed to it). If the outcomes show no difference between the test and control groups, the hypothesis is not supported. If there is a difference that matches the prediction, the hypothesis is supported. If a difference occurs but does not match the prediction, scientists must formulate a new hypothesis or improve experimental controls.",
+    "questions": [
+      {
+        "q": "How does the slide define an experimental variable?",
+        "opts": [
+          "An unchanging factor in the experiment",
+          "A factor in an experiment that is changed",
+          "The group of subjects that is not exposed to the test",
+          "The final written conclusion of the experiment"
+        ],
+        "a": 1,
+        "exp": "The slide defines 'Experimental Variable – A factor in an experiment that is changed'."
+      },
+      {
+        "q": "What happens if there is no difference in results between the test group and the control group?",
+        "opts": [
+          "The hypothesis is supported.",
+          "The hypothesis is not supported.",
+          "A different hypothesis is immediately supported.",
+          "The experiment must be published immediately."
+        ],
+        "a": 1,
+        "exp": "The text states: 'If results show no difference between control and test groups, hypothesis not supported'."
+      }
+    ],
+    "legacy_index": 42
+  },
+  {
+    "unit": 1,
+    "page": 46,
+    "filename": "Unit_1_3.txt",
+    "section_title": "The Process of Science",
+    "page_num_in_file": 10,
+    "slide_title": "The Scientific Method",
+    "original_text": "The Scientific Method\nResultsScientists will either directly observe or will model using technology to collect data.Data is any result of an experiment, and can be observational or numericalStatistical Analysis is needed to determine if data results are statistically significantConclusions After analyzing results, determine if hypothesis is supported or notScience is never ending; can lead to new questionsFindings reported to scientific community through reports, journals, presentations, etc. Results must be replicable by scientific community",
+    "explanation": "This slide details how scientific results and conclusions are handled. To gather data—defined as any result of an experiment, whether observational or numerical—scientists make direct observations or use technological models. Statistical analysis is required to establish whether the collected data are statistically significant. After analysis, conclusions are drawn regarding whether the hypothesis is supported. Science is a continuous process that often generates new questions. Finally, results are shared with the scientific community via reports, journals, and presentations, and the findings must be replicable by other researchers.",
+    "questions": [
+      {
+        "q": "What is the purpose of statistical analysis in scientific experiments?",
+        "opts": [
+          "To design the experimental variables",
+          "To determine if data results are statistically significant",
+          "To prove that hypotheses are absolute facts",
+          "To write research publications automatically"
+        ],
+        "a": 1,
+        "exp": "The slide states: 'Statistical Analysis is needed to determine if data results are statistically significant'."
+      },
+      {
+        "q": "Which of the following is a requirement for experimental findings reported to the scientific community?",
+        "opts": [
+          "They must be kept confidential.",
+          "They must prove the hypothesis without any doubt.",
+          "They must be replicable by the scientific community.",
+          "They must only contain numerical data."
+        ],
+        "a": 2,
+        "exp": "The text states: 'Results must be replicable by scientific community'."
+      }
+    ],
+    "legacy_index": 43
+  },
+  {
+    "unit": 1,
+    "page": 47,
+    "filename": "Unit_1_3.txt",
+    "section_title": "The Process of Science",
+    "page_num_in_file": 11,
+    "slide_title": "The Scientific Method",
+    "original_text": "The Scientific Method\nGeneralCaseStudyContinued\nObservation:Flashlight doesn’t work.\nQuestion:Why doesn’t theflashlight work?\nHypothesis #1:Batteries are dead.Hypothesis #2:Bulb is burned out.\nPrediction:Replacing batterieswill fix problem.Prediction:Replacing bulbwill fix problem.\nTest of prediction:Replace batteries.Test of prediction:Replace bulb.\nResults:Flashlight doesn’t work.Hypothesis is contradicted.Results:Flashlight works.Hypothesis is supported.",
+    "explanation": "This slide presents the full workflow of the flashlight case study. Two hypotheses are proposed to answer why the flashlight fails to work: Hypothesis 1 (dead batteries) and Hypothesis 2 (burned-out bulb). Predictions are made: replacing the batteries will fix it, and replacing the bulb will fix it. Both predictions are tested. Replacing the batteries results in the flashlight still not working, which contradicts Hypothesis 1. Replacing the bulb results in the flashlight working, which supports Hypothesis 2.",
+    "questions": [
+      {
+        "q": "In the case study, what was the result and conclusion of replacing the flashlight's batteries?",
+        "opts": [
+          "The flashlight worked, supporting the hypothesis.",
+          "The flashlight did not work, contradicting the hypothesis.",
+          "The bulb burned out, requiring a new hypothesis.",
+          "The flashlight worked, contradicting the hypothesis."
+        ],
+        "a": 1,
+        "exp": "The slide shows under the 'Replace batteries' test: 'Results: Flashlight doesn’t work. Hypothesis is contradicted.'"
+      }
+    ],
+    "legacy_index": 44
+  },
+  {
+    "unit": 1,
+    "page": 48,
+    "filename": "Unit_1_3.txt",
+    "section_title": "The Process of Science",
+    "page_num_in_file": 12,
+    "slide_title": "The Process of Science",
+    "original_text": "The Process of Science\nA scientific theoryismuch broader in scope than a hypothesis and supported by a large and usually growing body of evidence.Examples of 2 Fundamental Theories of BiologyEvolution–All living things have a common ancestor, but each is adapted to a particular way of lifeCell–All organisms are composed of cells, and new cells only come from pre-existing cellsWhen a theory is supported by all experimentation over a longer period of time, it may be referred to as a Principleor LawScience is a social activity in which scientistswork in teams,share information through peer-reviewed publications, meetings, and personal communication, andbuild on and confirm each other’s work.",
+    "explanation": "This slide distinguishes a scientific theory from a hypothesis, defining a theory as being much broader in scope and supported by a large, growing body of evidence. It lists two fundamental theories in biology: 1) The Theory of Evolution, which states that all living things share a common ancestor, but each species is adapted to a particular way of life; and 2) The Cell Theory, which states that all organisms are composed of cells, and new cells only arise from pre-existing cells. Over longer periods of time, when a theory is consistently supported by all experiments, it may be designated as a Principle or Law. Furthermore, the slide highlights that science is a collaborative social activity where scientists work in teams, share findings via peer-reviewed publications, meetings, and direct communication, and build upon and confirm one another's work.",
+    "questions": [
+      {
+        "q": "What defines a scientific theory according to the slide?",
+        "opts": [
+          "A simple, unproven guess about a natural phenomenon",
+          "An informed statement that is tested for the first time",
+          "An explanation that is much broader in scope than a hypothesis and supported by a large, growing body of evidence",
+          "A rule about safety procedures in a chemical lab"
+        ],
+        "a": 2,
+        "exp": "The slide defines a scientific theory as 'much broader in scope than a hypothesis and supported by a large and usually growing body of evidence.'"
+      },
+      {
+        "q": "What are the two fundamental theories of biology discussed on this slide?",
+        "opts": [
+          "Gene Theory and Homeostasis Theory",
+          "Theory of Evolution and Cell Theory",
+          "Theory of Gravity and Atomic Theory",
+          "Ecosystem Theory and Microscope Theory"
+        ],
+        "a": 1,
+        "exp": "The slide explicitly gives 'Evolution' and 'Cell' as 'Examples of 2 Fundamental Theories of Biology'."
+      }
+    ],
+    "legacy_index": 45
+  },
+  {
+    "unit": 1,
+    "page": 49,
+    "filename": "Unit_1_3.txt",
+    "section_title": "The Process of Science",
+    "page_num_in_file": 13,
+    "slide_title": "The Scientific MethodCase Study 2",
+    "original_text": "The Scientific MethodCase Study 2\nScientists conducted a controlledexperimentto test the hypothesis that color patterns have evolved as adaptations that protect animals from predation.The experiment compared an experimental group consisting of noncamouflaged mice models and a control group consisting of camouflaged models that matched the mice native to each area.The groups differed by only one factor, the coloration of the mouse models.",
+    "explanation": "This slide describes Case Study 2 of the scientific method, which tested whether mouse color patterns evolved as protective adaptations against predators. In this controlled experiment, scientists compared an experimental group of noncamouflaged mouse models with a control group of camouflaged mouse models (which matched the native mice of the area). The groups differed by only one factor (the experimental variable): the coloration of the mouse models.",
+    "questions": [
+      {
+        "q": "In the mouse camouflage experiment (Case Study 2), what was the single factor that differed between the experimental group and the control group?",
+        "opts": [
+          "The size of the mouse models",
+          "The location where the models were placed",
+          "The coloration of the mouse models",
+          "The type of predators in the habitat"
+        ],
+        "a": 2,
+        "exp": "The text states: 'The groups differed by only one factor, the coloration of the mouse models.'"
+      }
+    ],
+    "legacy_index": 46
+  },
+  {
+    "unit": 1,
+    "page": 50,
+    "filename": "Unit_1_3.txt",
+    "section_title": "The Process of Science",
+    "page_num_in_file": 14,
+    "slide_title": "The Scientific MethodCase Study 2",
+    "original_text": "The Scientific MethodCase Study 2\nBeach populationInland population",
+    "explanation": "This slide lists 'Beach population' and 'Inland population', which are the two environments or populations studied in the mouse camouflage experiment (Case Study 2).",
+    "questions": [
+      {
+        "q": "Which two mouse populations/habitats were compared in Case Study 2?",
+        "opts": [
+          "Forest population and Desert population",
+          "Beach population and Inland population",
+          "Mountain population and Valley population",
+          "Urban population and Rural population"
+        ],
+        "a": 1,
+        "exp": "The slide content lists: 'Beach population' and 'Inland population'."
+      }
+    ],
+    "legacy_index": 47
+  },
+  {
+    "unit": 1,
+    "page": 51,
+    "filename": "Unit_1_3.txt",
+    "section_title": "The Process of Science",
+    "page_num_in_file": 15,
+    "slide_title": "The Scientific MethodCase Study 2The noncamouflaged models had a much higher percentage of attacks...",
+    "original_text": "The Scientific MethodCase Study 2The noncamouflaged models had a much higher percentage of attacks in the beach and inland habitats andThese data fit the key prediction of the camouflage hypothesis.",
+    "explanation": "This slide outlines the results of the mouse camouflage experiment (Case Study 2). The noncamouflaged mouse models suffered a much higher percentage of predatory attacks in both beach and inland habitats. These findings supported the key prediction of the camouflage hypothesis, showing that matching coloration acts as an adaptive defense against predation.",
+    "questions": [
+      {
+        "q": "What were the results of the mouse camouflage experiment in Case Study 2?",
+        "opts": [
+          "Camouflaged models had a higher percentage of attacks.",
+          "Noncamouflaged models had a much higher percentage of attacks in both beach and inland habitats.",
+          "There was no difference in attack rates between the groups.",
+          "Predators did not attack any of the models."
+        ],
+        "a": 1,
+        "exp": "The text states: 'The noncamouflaged models had a much higher percentage of attacks in the beach and inland habitats...'"
+      }
+    ],
+    "legacy_index": 48
+  },
+  {
+    "unit": 1,
+    "page": 52,
+    "filename": "Unit_1_3.txt",
+    "section_title": "The Process of Science",
+    "page_num_in_file": 16,
+    "slide_title": "Case StudyIn Class",
+    "original_text": "Case StudyIn Class\nYou notice that you left some skittles out on your desk when you went to bed last night. The skittles were next to your glass of water, which had created a puddle. You notice that the color and some of the inside of the skittle has dissolved into the puddle.\nCraft a line of scientific inquiry based on this observation, using the steps of the scientific method. 1.Make an Observation2.Ask a Question3.Make a Hypothesis4.Perform an Experiment(s)5.Collect and Analyze Data6.Make Conclusions",
+    "explanation": "This slide presents an in-class case study task based on a real-world scenario. The observation is that leaving Skittles on a desk next to a water puddle results in the color and internal contents of the Skittles dissolving into the puddle. Students are instructed to design a scientific inquiry by applying the six steps of the scientific method: observation, question, hypothesis, experiment, data collection/analysis, and conclusions.",
+    "questions": [
+      {
+        "q": "What is the prompt for the in-class case study on this page?",
+        "opts": [
+          "Design a system of taxonomy for candies.",
+          "Calculate the rate of dissolving using mathematical equations.",
+          "Craft a line of scientific inquiry using the steps of the scientific method based on the dissolving Skittles observation.",
+          "Dissect a Skittle to study its cellular structure."
+        ],
+        "a": 2,
+        "exp": "The prompt asks to 'Craft a line of scientific inquiry based on this observation, using the steps of the scientific method.'"
+      }
+    ],
+    "legacy_index": 49
+  },
+  {
+    "unit": 1,
+    "page": 53,
+    "filename": "Unit_1_4.txt",
+    "section_title": "Microscopy",
+    "page_num_in_file": 1,
+    "slide_title": "Intro to Microscopy",
+    "original_text": "Intro to MicroscopyMr. Queenan–Biology 9Unit 1",
+    "explanation": "This slide is the title page for the 'Intro to Microscopy' section of Unit 1 in Mr. Queenan's Biology 9 course.",
+    "questions": [
+      {
+        "q": "What is the topic of the new section introduced on Page 51?",
+        "opts": [
+          "The Cell Cycle",
+          "Organic Chemistry",
+          "Intro to Microscopy",
+          "Genetics and Heredity"
+        ],
+        "a": 2,
+        "exp": "The slide title reads: 'Intro to Microscopy Mr. Queenan–Biology 9 Unit 1'."
+      }
+    ],
+    "legacy_index": 50
+  },
+  {
+    "unit": 1,
+    "page": 54,
+    "filename": "Unit_1_4.txt",
+    "section_title": "Microscopy",
+    "page_num_in_file": 2,
+    "slide_title": "GoalsUnderstand the location andpurpose of:Illumination...",
+    "original_text": "GoalsUnderstand the location andpurpose of:Illumination sourceLensesAperturesDetectorsUnderstand the relationship between size and scaleUnderstand what magnification and resolution mean and how they are related",
+    "explanation": "This slide lists the learning objectives for the microscopy unit. Students are expected to understand the location and purpose of four key microscope components: the illumination source, lenses, apertures, and detectors. They must also comprehend the relationship between size and scale, and understand the meanings and relationship between magnification and resolution.",
+    "questions": [
+      {
+        "q": "Which of the following is NOT listed as a key microscope component students must understand on this slide?",
+        "opts": [
+          "Illumination source",
+          "Lenses",
+          "Centrifuge rotors",
+          "Detectors"
+        ],
+        "a": 2,
+        "exp": "The list of components is: 'Illumination source', 'Lenses', 'Apertures', and 'Detectors'."
+      }
+    ],
+    "legacy_index": 51
+  },
+  {
+    "unit": 1,
+    "page": 55,
+    "filename": "Unit_1_4.txt",
+    "section_title": "Microscopy",
+    "page_num_in_file": 3,
+    "slide_title": "The Microscope",
+    "original_text": "The Microscope\nCompound Light MicroscopeMost common microscopy tool used in science labsWhat are other types of microscopes?\nDetector",
+    "explanation": "This slide introduces the microscope, noting that the Compound Light Microscope is the most common microscopy tool used in science labs. It prompts students to consider other types of microscopes and labels a 'Detector' component.",
+    "questions": [
+      {
+        "q": "According to the slide, what is the most common microscopy tool used in science laboratories?",
+        "opts": [
+          "Scanning Electron Microscope",
+          "Transmission Electron Microscope",
+          "Compound Light Microscope",
+          "Fluorescent Microscope"
+        ],
+        "a": 2,
+        "exp": "The slide states: 'Compound Light Microscope – Most common microscopy tool used in science labs'."
+      }
+    ],
+    "legacy_index": 52
+  },
+  {
+    "unit": 1,
+    "page": 56,
+    "filename": "Unit_1_4.txt",
+    "section_title": "Microscopy",
+    "page_num_in_file": 4,
+    "slide_title": "The Microscope",
+    "original_text": "The Microscope\nIllumination SourceThe type and source of electromagnetic radiation that is used to illuminate the sampleLight Microscope (LM)White light generated by LED bulb (tungsten filament light bulb in older microscopes)Electron Microscopes (EM)Use beam of focused electrons, usually from a crystal or filament",
+    "explanation": "This slide defines the illumination source in microscopy, which is the type and source of electromagnetic radiation used to illuminate the sample. It compares two types: 1) Light Microscopes (LM), which use white light generated by an LED bulb (or a tungsten filament light bulb in older models), and 2) Electron Microscopes (EM), which use a beam of focused electrons, typically emitted from a crystal or filament.",
+    "questions": [
+      {
+        "q": "What is the illumination source in a modern Light Microscope (LM)?",
+        "opts": [
+          "A laser beam",
+          "White light generated by an LED bulb",
+          "A beam of focused electrons from a crystal",
+          "Ultraviolet radiation"
+        ],
+        "a": 1,
+        "exp": "The text states: 'Light Microscope (LM) – White light generated by LED bulb (tungsten filament light bulb in older microscopes)'."
+      },
+      {
+        "q": "What is used as the illumination source in Electron Microscopes (EM)?",
+        "opts": [
+          "Tungsten-colored white light",
+          "Laser radiation",
+          "A beam of focused electrons, usually from a crystal or filament",
+          "Natural solar light"
+        ],
+        "a": 2,
+        "exp": "Under Electron Microscopes (EM), it states: 'Use beam of focused electrons, usually from a crystal or filament'."
+      }
+    ],
+    "legacy_index": 53
+  },
+  {
+    "unit": 1,
+    "page": 57,
+    "filename": "Unit_1_4.txt",
+    "section_title": "Microscopy",
+    "page_num_in_file": 5,
+    "slide_title": "The Microscope",
+    "original_text": "The Microscope\nLensAn optical device with near-perfect symmetry that is able to transmit and focus/bend electromagnetic radiationShape of the lens determines the direction the radiation will bendMicroscopy: Rays (waves) of radiation pass through a lens and converge (come together) at a specific distance from the lensKnown as focal length\nObjectImage(Focal Point)\nFocal Length",
+    "explanation": "This slide defines a lens as an optical device with near-perfect symmetry that can transmit and focus/bend electromagnetic radiation. The specific shape of the lens dictates the direction in which the radiation bends. In microscopy, rays (waves) of radiation pass through a lens and converge (come together) at a specific distance from the lens. This distance is defined as the focal length.",
+    "questions": [
+      {
+        "q": "What is a lens and what determines the direction in which radiation bends through it?",
+        "opts": [
+          "A device that blocks light; its color determines the bend.",
+          "An optical device with near-perfect symmetry that transmits and focus/bends radiation; its shape determines the direction of bending.",
+          "A detector that gathers data; its distance from the eye determines the direction.",
+          "A source of radiation; its voltage determines the direction."
+        ],
+        "a": 1,
+        "exp": "The slide defines a lens as 'An optical device with near-perfect symmetry that is able to transmit and focus/bend electromagnetic radiation' and notes: 'Shape of the lens determines the direction the radiation will bend'."
+      },
+      {
+        "q": "What is focal length?",
+        "opts": [
+          "The total magnification of the eyepiece",
+          "The thickness of a glass slide",
+          "The specific distance from the lens where passing rays of radiation converge",
+          "The diameter of the microscope stage"
+        ],
+        "a": 2,
+        "exp": "The slide states: 'Rays (waves) of radiation pass through a lens and converge (come together) at a specific distance from the lens – Known as focal length'."
+      }
+    ],
+    "legacy_index": 54
+  },
+  {
+    "unit": 1,
+    "page": 58,
+    "filename": "Unit_1_4.txt",
+    "section_title": "Microscopy",
+    "page_num_in_file": 6,
+    "slide_title": "The Microscope",
+    "original_text": "The Microscope\nLensFocal length is fixed (unchangeable)To focus the image, the distance from the lens to the object is changedTo magnify the image, the lens is replaced with one having a different focal lengthDifferent lenses have different purposesCondenser –Gathers ER from source onto specimenObjective(s)–Gathers ER from sample to and focuses to detector; can be multipleIntermediate and Projector –Not always found. Used to increase magnificationCalled compound microscope because multiple lenses compound, or multiply the magnifying power of the unit.",
+    "explanation": "This slide explains that a lens has a fixed, unchangeable focal length. To bring an image into focus, the distance between the lens and the object must be adjusted. To magnify the image, the lens is replaced with one that has a different focal length. Lenses are classified by function: 1) the Condenser gathers electromagnetic radiation (ER) from the source and focuses it onto the specimen, 2) the Objective lens (or lenses) gathers ER from the sample and focuses it toward the detector, and 3) Intermediate and Projector lenses (which are not always present) are used to further increase magnification. The instrument is called a compound microscope because multiple lenses compound, or multiply, the total magnifying power.",
+    "questions": [
+      {
+        "q": "Since the focal length of a lens is fixed, how is a microscope image focused?",
+        "opts": [
+          "By replacing the illumination bulb",
+          "By changing the distance from the lens to the object",
+          "By adding more dyes to the specimen",
+          "By replacing the eyepiece with a camera"
+        ],
+        "a": 1,
+        "exp": "The text states: 'Focal length is fixed (unchangeable) – To focus the image, the distance from the lens to the object is changed'."
+      },
+      {
+        "q": "What is the function of the condenser lens?",
+        "opts": [
+          "It gathers electromagnetic radiation from the source and concentrates it onto the specimen.",
+          "It increases the resolution of the detector.",
+          "It multiplies the magnification by 100x.",
+          "It holds the slide in place on the stage."
+        ],
+        "a": 0,
+        "exp": "Under different lenses, the Condenser is defined as: 'Gathers ER from source onto specimen'."
+      }
+    ],
+    "legacy_index": 55
+  },
+  {
+    "unit": 1,
+    "page": 59,
+    "filename": "Unit_1_4.txt",
+    "section_title": "Microscopy",
+    "page_num_in_file": 7,
+    "slide_title": "The Microscope",
+    "original_text": "The Microscope\nLens Compounding PracticeOcular Lens = 10x magObjective Lens –20x magTotal magnification power = 200x magnificationOcular Lens = 10x magObjective Lens –10x magTotal magnification power = 100x magnificationOcular Lens = 10x magObjective Lens –40x magTotal magnification power = 400x magnification",
+    "explanation": "This slide demonstrates how to calculate total magnification in a compound microscope by multiplying the magnification of the ocular lens (eyepiece) by the magnification of the objective lens.\n- 10x ocular * 20x objective = 200x total magnification\n- 10x ocular * 10x objective = 100x total magnification\n- 10x ocular * 40x objective = 400x total magnification",
+    "questions": [
+      {
+        "q": "If a compound microscope has a 10x ocular lens and a 40x objective lens, what is the total magnification of the image?",
+        "opts": [
+          "50x",
+          "30x",
+          "400x",
+          "4000x"
+        ],
+        "a": 2,
+        "exp": "Total magnification is ocular magnification multiplied by objective magnification (10x * 40x = 400x)."
+      }
+    ],
+    "legacy_index": 56
+  },
+  {
+    "unit": 1,
+    "page": 60,
+    "filename": "Unit_1_4.txt",
+    "section_title": "Microscopy",
+    "page_num_in_file": 8,
+    "slide_title": "The Microscope",
+    "original_text": "The Microscope\nStage and SpecimenThick sections/slices of sample (~1µm) or sample small enough for light to pass throughSamples typically stained with dyes to enhance featuresMounted on glass slide with coverslipStage has opening to allow light to pass through",
+    "explanation": "This slide details requirements for the stage and specimen in light microscopy. Specimens must be prepared as thin sections/slices (~1 micrometer thick) or be small enough to allow light to transmit through them. Samples are typically stained with dyes to enhance structural features, then mounted on a glass slide and secured under a coverslip. The microscope stage features an opening to allow the light to pass through the specimen.",
+    "questions": [
+      {
+        "q": "Why must specimens for light microscopy be thin (e.g. ~1µm) or small?",
+        "opts": [
+          "To fit under the coverslip",
+          "To allow light to pass through the sample",
+          "To prevent the objective lens from touching them",
+          "To absorb the stains and dyes more quickly"
+        ],
+        "a": 1,
+        "exp": "The text states: '...sample small enough for light to pass through'."
+      }
+    ],
+    "legacy_index": 57
+  },
+  {
+    "unit": 1,
+    "page": 61,
+    "filename": "Unit_1_4.txt",
+    "section_title": "Microscopy",
+    "page_num_in_file": 9,
+    "slide_title": "The Microscope",
+    "original_text": "The Microscope\nDetectors & ImagingDevice that collects electromagnetic radiation after it has passed through the sample and all of the lenses and displays the final image.LM:EyeDigital camera & Computers",
+    "explanation": "This slide defines a detector as a device that collects electromagnetic radiation after it has passed through the sample and all the lenses, displaying the final image. In Light Microscopy (LM), the detectors can be the human eye or a digital camera connected to computers.",
+    "questions": [
+      {
+        "q": "What is the definition of a detector in microscopy?",
+        "opts": [
+          "The source that generates electromagnetic radiation",
+          "A lens that focuses light onto the specimen",
+          "A device that collects electromagnetic radiation after it has passed through the sample and lenses to display the final image",
+          "A dye used to stain the cell membrane"
+        ],
+        "a": 2,
+        "exp": "The text defines detector as: 'Device that collects electromagnetic radiation after it has passed through the sample and all of the lenses and displays the final image.'"
+      }
+    ],
+    "legacy_index": 58
+  },
+  {
+    "unit": 1,
+    "page": 62,
+    "filename": "Unit_1_4.txt",
+    "section_title": "Microscopy",
+    "page_num_in_file": 10,
+    "slide_title": "Resolution v.Magnification",
+    "original_text": "Resolution v.Magnification\nResolution:•The ability to distinguish two points which are closely adjacent and would otherwise appear to be one.•“Higher” (better) resolution is a shorter distance; “lower” (poorer) resolution is a longer distance\nMagnification:•The degree of enlargement of an image as compared to the original.•A measure of the increase in diameter of a structure.•Written as a quantity X (ex: 1000X) for how many times the image is magnified",
+    "explanation": "This slide distinguishes between resolution and magnification. Resolution is the ability to distinguish two points that are closely adjacent and would otherwise appear as a single point. A 'higher' (better) resolution corresponds to a shorter distance of separation, whereas a 'lower' (poorer) resolution represents a longer distance. Magnification is defined as the degree of enlargement of an image compared to the original, which measures the increase in the diameter of a structure. It is expressed as a number followed by an X (e.g., 1000X) representing how many times the image has been enlarged.",
+    "questions": [
+      {
+        "q": "What is the definition of resolution in microscopy?",
+        "opts": [
+          "The degree of enlargement of an image compared to the original",
+          "The ability to distinguish two closely adjacent points that would otherwise appear as one",
+          "The distance from the lens where passing rays converge",
+          "The process of staining a specimen to make it visible"
+        ],
+        "a": 1,
+        "exp": "The slide defines resolution as: 'The ability to distinguish two points which are closely adjacent and would otherwise appear to be one.'"
+      },
+      {
+        "q": "How is magnification measured and written?",
+        "opts": [
+          "As a distance in micrometers (µm)",
+          "As a wavelength value in nanometers",
+          "As a quantity X (e.g., 1000X) representing the increase in diameter of a structure compared to the original",
+          "As a ratio of pixels on a digital screen"
+        ],
+        "a": 2,
+        "exp": "The text states magnification is: 'A measure of the increase in diameter of a structure. Written as a quantity X (ex: 1000X) for how many times the image is magnified'."
+      }
+    ],
+    "legacy_index": 59
+  },
+  {
+    "unit": 1,
+    "page": 63,
+    "filename": "Unit_1_4.txt",
+    "section_title": "Microscopy",
+    "page_num_in_file": 11,
+    "slide_title": "Size and Scale",
+    "original_text": "Size and Scale\nPico < Nano < Micro < Milli< Meter10-10-10-12 10-9-10-7 10-6-10-4 10-3 >1\nMaking note of these units and how many decimal places are changed when converting units is important to understand, and will be something you see throughout your science education and careers.",
+    "explanation": "This slide presents a scale of metric prefixes used in science, ordered from smallest to largest: Pico (10^-12), Nano (10^-9 to 10^-7), Micro (10^-6 to 10^-4), Milli (10^-3), and Meter (>1). It emphasizes that understanding these units and the decimal place changes during conversion is important for science education and careers.",
+    "questions": [
+      {
+        "q": "Which of the following shows the correct order of metric scale prefixes from smallest to largest?",
+        "opts": [
+          "Milli < Micro < Nano < Pico",
+          "Pico < Nano < Micro < Milli",
+          "Micro < Nano < Pico < Milli",
+          "Nano < Pico < Milli < Micro"
+        ],
+        "a": 1,
+        "exp": "The slide shows: 'Pico < Nano < Micro < Milli < Meter' with their respective exponential powers."
+      }
+    ],
+    "legacy_index": 60
+  },
+  {
+    "unit": 1,
+    "page": 64,
+    "filename": "Unit_1_4.txt",
+    "section_title": "Microscopy",
+    "page_num_in_file": 12,
+    "slide_title": "Resolution",
+    "original_text": "Resolution\nUnaided eye can distinguish two points that are 0.2mm (200µm) apart.Any closer together and points will appear as a single objectEx: printed image\nImage is made up of dots too small for unaided eye to see, they appear as one smooth, continuous image until it is magnifiedResolution of light microscopy is limited by wavelength, which is why tools like EM are needed. Smallest resolution is .2µm",
+    "explanation": "This slide explains human eye resolution limits compared to light microscopy. The unaided human eye can distinguish two points that are at least 0.2 millimeters (200 micrometers) apart. If they are closer, they appear as a single object (e.g., printed halftone dots on a page appear as a smooth continuous image until magnified). The resolution of light microscopy (LM) is physically limited by the wavelength of visible light. The smallest resolution achievable by LM is 0.2 micrometers (0.2 µm). To resolve smaller structures, electron microscopes (EM) must be used.",
+    "questions": [
+      {
+        "q": "What is the resolution limit of the unaided human eye?",
+        "opts": [
+          "0.2 micrometers (0.2 µm)",
+          "0.2 millimeters (200 µm)",
+          "2.0 nanometers",
+          "2.0 centimeters"
+        ],
+        "a": 1,
+        "exp": "The text states: 'Unaided eye can distinguish two points that are 0.2mm (200µm) apart. Any closer together and points will appear as a single object.'"
+      },
+      {
+        "q": "Why is the resolution of light microscopy limited, and what is its smallest resolution limit?",
+        "opts": [
+          "It is limited by lens shape; its limit is 0.2 mm.",
+          "It is limited by the wavelength of light; its limit is 0.2 µm.",
+          "It is limited by the dyes used; its limit is 10 µm.",
+          "It is limited by the eye's focal length; its limit is 1.0 µm."
+        ],
+        "a": 1,
+        "exp": "The slide states: 'Resolution of light microscopy is limited by wavelength... Smallest resolution is .2µm'."
+      }
+    ],
+    "legacy_index": 61
+  },
+  {
+    "unit": 1,
+    "page": 65,
+    "filename": "Unit_1_4.txt",
+    "section_title": "Microscopy",
+    "page_num_in_file": 13,
+    "slide_title": "Magnification",
+    "original_text": "Magnification\nMagnification is equal to the distance measured between 2 points on an image divided by the distance between the same 2 points on the original object.Mag = image distanceobject distanceEx: Calculate the magnification of an image where the diameter of the object is 5µmand the diameter on the image is 12.5 mm.Answer:Magnification = 12500µm/5µm = 2500X",
+    "explanation": "This slide provides the mathematical formula for magnification. Magnification is equal to the distance measured between two points on the image divided by the distance between the same two points on the original object (Mag = image distance / object distance). It includes a sample calculation: if the diameter of the original object is 5 µm and its diameter in the image is 12.5 mm (which converts to 12,500 µm), the magnification is 12,500 µm / 5 µm = 2500X.",
+    "questions": [
+      {
+        "q": "What is the mathematical formula for calculating magnification?",
+        "opts": [
+          "Mag = object distance * image distance",
+          "Mag = image distance / object distance",
+          "Mag = focal length / wavelength",
+          "Mag = resolution * ocular lens"
+        ],
+        "a": 1,
+        "exp": "The slide gives the formula: 'Mag = image distance / object distance'."
+      },
+      {
+        "q": "If an object with an actual diameter of 5 µm has a diameter of 12.5 mm on an image, what is the magnification?",
+        "opts": [
+          "2.5X",
+          "250X",
+          "2500X",
+          "25000X"
+        ],
+        "a": 2,
+        "exp": "First convert 12.5 mm to micrometers: 12.5 mm * 1000 µm/mm = 12500 µm. Then divide by the actual size: 12500 µm / 5 µm = 2500X."
+      }
+    ],
+    "legacy_index": 62
+  },
+  {
+    "unit": 1,
+    "page": 66,
+    "filename": "Unit_1_4.txt",
+    "section_title": "Microscopy",
+    "page_num_in_file": 14,
+    "slide_title": "Magnification",
+    "original_text": "Magnification\nReliability of Magnification ValueThe magnification value given by a microscope is only valid if the size of the image is UNCHANGED.Enlarging the image increases the magnification.Shrinking the image reduces the magnification.Quality images always have a scale bar; scale bar remains valid when the size of the image is changed.\n2X",
+    "explanation": "This slide discusses the reliability of printed or displayed magnification values. The magnification value stated by a microscope is only valid if the image size remains unchanged. Enlarging an image increases the magnification, whereas shrinking it reduces the magnification. Therefore, high-quality scientific images include a scale bar, which remains valid even when the overall size of the image is changed.",
+    "questions": [
+      {
+        "q": "Under what condition is the numerical magnification value printed on a microscope image no longer valid?",
+        "opts": [
+          "If the staining dye fades",
+          "If the size of the image is enlarged or shrunken",
+          "If the scale bar is too long",
+          "If the microscope bulb is changed"
+        ],
+        "a": 1,
+        "exp": "The slide states: 'The magnification value given by a microscope is only valid if the size of the image is UNCHANGED. Enlarging the image increases... Shrinking... reduces...'"
+      },
+      {
+        "q": "Why is a scale bar preferred over a simple magnification number on scientific images?",
+        "opts": [
+          "It is easier to print in color.",
+          "It remains valid even when the size of the image is changed.",
+          "It shows the focal length of the objective lens.",
+          "It measures the wavelength of the illumination source."
+        ],
+        "a": 1,
+        "exp": "The slide notes: 'scale bar remains valid when the size of the image is changed.'"
+      }
+    ],
+    "legacy_index": 63
+  },
+  {
+    "unit": 1,
+    "page": 67,
+    "filename": "Unit_1_4.txt",
+    "section_title": "Microscopy",
+    "page_num_in_file": 15,
+    "slide_title": "SEM",
+    "original_text": "SEM \nScanning Electron MicroscopeUseselectronsratherthanvisiblelightasilluminationsourceWavelength of electrons based on energy sent through the filamentMuch smaller wavelength than visible lightAllowsgreater resolution than light microscopySEM scans only the surface of the object of interestElectronsdo not pass through the sample –cannot see insideTEMusedforthispurposeImages only appear in black and whiteWhy?Color is based upon visible spectrum. Electron wavelength outside of that spectrum",
+    "explanation": "This slide introduces the Scanning Electron Microscope (SEM). The SEM uses electrons rather than visible light as its illumination source. The wavelength of these electrons is determined by the energy sent through the filament, and is much smaller than the wavelength of visible light, allowing the SEM to achieve a much greater resolution than light microscopy. The SEM only scans the surface of the object; because electrons do not pass through the sample, it cannot be used to see inside (a Transmission Electron Microscope, or TEM, is used for that purpose). SEM images only appear in black and white because color is a property of the visible light spectrum, whereas the electron wavelengths used in SEM are outside that spectrum.",
+    "questions": [
+      {
+        "q": "Why does a Scanning Electron Microscope (SEM) provide much higher resolution than a light microscope?",
+        "opts": [
+          "It uses wider glass lenses.",
+          "Electrons have a much smaller wavelength than visible light.",
+          "It produces color images that enhance contrast.",
+          "It uses light from a tungsten bulb."
+        ],
+        "a": 1,
+        "exp": "The text explains that the electron wavelength is 'Much smaller wavelength than visible light' which 'Allows greater resolution than light microscopy.'"
+      },
+      {
+        "q": "What is the difference between SEM and TEM as described on this slide?",
+        "opts": [
+          "SEM sees inside the sample, while TEM only scans the surface.",
+          "SEM scans only the surface of the object, whereas TEM is used to see inside the sample.",
+          "SEM produces color images, whereas TEM produces black and white.",
+          "SEM uses visible light, while TEM uses laser beams."
+        ],
+        "a": 1,
+        "exp": "The text states: 'SEM scans only the surface... Electrons do not pass through the sample – cannot see inside – TEM used for this purpose'."
+      }
+    ],
+    "legacy_index": 64
+  },
+  {
+    "unit": 1,
+    "page": 68,
+    "filename": "Unit_1_5.txt",
+    "section_title": "Biotechnology and Bioethics",
+    "page_num_in_file": 1,
+    "slide_title": "Biotechnology & Bioethics:Careers & Concerns in Science",
+    "original_text": "Biotechnology & Bioethics:Careers & Concerns in ScienceMr. Queenan–Biology 9Unit 1.5 –text Ch 1.3 (p 26-29) & Ch 16.4 (p 524-529)",
+    "explanation": "This is the title slide for Unit 1.5, 'Biotechnology & Bioethics: Careers & Concerns in Science' taught by Mr. Queenan for Biology 9. It provides textbook reference readings: Chapter 1.3 (pages 26-29) and Chapter 16.4 (pages 524-529).",
+    "questions": [
+      {
+        "q": "Which textbook chapters and pages are listed as references for Unit 1.5?",
+        "opts": [
+          "Chapter 1.3 (pages 26-29) and Chapter 16.4 (pages 524-529)",
+          "Chapter 1.1 (pages 1-10) and Chapter 1.3 (pages 22-30)",
+          "Chapter 1.2 (pages 11-16) and Chapter 1.5 (pages 30-35)",
+          "Chapter 2.3 (pages 45-50) and Chapter 15.1 (pages 400-410)"
+        ],
+        "a": 0,
+        "exp": "The slide explicitly refers to 'text Ch 1.3 (p 26-29) & Ch 16.4 (p 524-529)'."
+      }
+    ],
+    "legacy_index": 65
+  },
+  {
+    "unit": 1,
+    "page": 69,
+    "filename": "Unit_1_5.txt",
+    "section_title": "Biotechnology and Bioethics",
+    "page_num_in_file": 2,
+    "slide_title": "The Biologist",
+    "original_text": "The Biologist\nWhat is a biologist?Are all biologists scientists?Is education necessary to be a biologist?Why do scientists, especially biologists, feel an ethical responsibility to the world around them?",
+    "explanation": "This slide poses introductory discussion questions about the role of a biologist. It asks: 'What is a biologist?', 'Are all biologists scientists?', 'Is education necessary to be a biologist?', and 'Why do scientists, especially biologists, feel an ethical responsibility to the world around them?'",
+    "questions": [
+      {
+        "q": "Which question is raised on this slide regarding the career and ethical role of biologists?",
+        "opts": [
+          "How do you isolate DNA?",
+          "Why do scientists, especially biologists, feel an ethical responsibility to the world around them?",
+          "How many species exist in Domain Eukarya?",
+          "What is the magnification of the ocular lens?"
+        ],
+        "a": 1,
+        "exp": "This exact question is listed on the slide: 'Why do scientists, especially biologists, feel an ethical responsibility to the world around them?'"
+      }
+    ],
+    "legacy_index": 66
+  },
+  {
+    "unit": 1,
+    "page": 70,
+    "filename": "Unit_1_5.txt",
+    "section_title": "Biotechnology and Bioethics",
+    "page_num_in_file": 3,
+    "slide_title": "The Biologist",
+    "original_text": "The Biologist\nBiologistan expert in or student of the branch of science concerning living organisms.\nScientista person who is studying or has expert knowledge of one or more of the natural or physical sciences.\nThe difference between a biologist and a biological scientist is research.",
+    "explanation": "This slide defines the terms 'Biologist' and 'Scientist' and distinguishes between them. A biologist is defined as an expert in or student of the branch of science concerning living organisms. A scientist is defined as a person who is studying or has expert knowledge of one or more of the natural or physical sciences. Crucially, the slide states that the primary difference between a biologist and a biological scientist is research.",
+    "questions": [
+      {
+        "q": "According to the slide, what is the key difference between a biologist and a biological scientist?",
+        "opts": [
+          "The amount of college tuition paid",
+          "Research activity",
+          "Storing food in a lab refrigerator",
+          "The ability to use a light microscope"
+        ],
+        "a": 1,
+        "exp": "The text states: 'The difference between a biologist and a biological scientist is research.'"
+      },
+      {
+        "q": "How is a biologist defined on this slide?",
+        "opts": [
+          "A person who only studies volcanic deep-sea vents",
+          "An expert in or student of the branch of science concerning living organisms",
+          "A scientist who works only for government agencies",
+          "A technician who repairs compound light microscopes"
+        ],
+        "a": 1,
+        "exp": "The slide defines Biologist as: 'an expert in or student of the branch of science concerning living organisms.'"
+      }
+    ],
+    "legacy_index": 67
+  },
+  {
+    "unit": 1,
+    "page": 71,
+    "filename": "Unit_1_5.txt",
+    "section_title": "Biotechnology and Bioethics",
+    "page_num_in_file": 4,
+    "slide_title": "Careers in Biology",
+    "original_text": "Careers in Biology\nWhat can you do with a biology degree?Research ScientistPhysicianPharmacologistEcologistNature Conservation OfficerBiotechnologistForensic ScientistGovernment Agency and Policy RolesScience WriterBioengineerPatent AttorneyTeacherMore, and more, and more",
+    "explanation": "This slide lists several career paths that can be pursued with a degree in biology. These roles include Research Scientist, Physician, Pharmacologist, Ecologist, Nature Conservation Officer, Biotechnologist, Forensic Scientist, Government Agency and Policy Roles, Science Writer, Bioengineer, Patent Attorney, and Teacher, among many others.",
+    "questions": [
+      {
+        "q": "Which of the following is listed on the slide as a potential career for someone with a biology degree?",
+        "opts": [
+          "Computer Programmer",
+          "Patent Attorney or Nature Conservation Officer",
+          "Aerospace Engineer",
+          "Financial Analyst"
+        ],
+        "a": 1,
+        "exp": "The slide lists 'Nature Conservation Officer' and 'Patent Attorney' in its list of careers in biology."
+      }
+    ],
+    "legacy_index": 68
+  },
+  {
+    "unit": 1,
+    "page": 72,
+    "filename": "Unit_1_5.txt",
+    "section_title": "Biotechnology and Bioethics",
+    "page_num_in_file": 5,
+    "slide_title": "Biology Through History",
+    "original_text": "Biology Through History\nBiology through history\nDid biology exist before we started studying it as a field in schools?YES!\nDid biotechnology exist prior to the development of sophisticated technology in the 20thcentury?YES!\nHas our knowledge of the world around us made us more ethical or less ethical in the scope of biology?…………………",
+    "explanation": "This slide examines the historical context of biology and biotechnology. It asserts that biology existed as a natural phenomenon before humans began studying it as a formal academic field in schools. Similarly, biotechnology existed prior to the development of sophisticated 20th-century technologies (e.g., through traditional practices like selective breeding). It concludes with a reflective question: 'Has our knowledge of the world around us made us more ethical or less ethical in the scope of biology?'",
+    "questions": [
+      {
+        "q": "Did biology and biotechnology exist before schools studied them or before the 20th century?",
+        "opts": [
+          "No, they both only started in the 20th century.",
+          "Yes, biology existed before it was studied in schools, and biotechnology existed before modern 20th-century technology.",
+          "Biology did, but biotechnology is completely new.",
+          "Only biotechnology did, through the invention of microscopes."
+        ],
+        "a": 1,
+        "exp": "The slide answers 'YES!' to both questions: 'Did biology exist before we started studying it as a field in schools?' and 'Did biotechnology exist prior to the development of sophisticated technology in the 20th century?'."
+      }
+    ],
+    "legacy_index": 69
+  },
+  {
+    "unit": 1,
+    "page": 73,
+    "filename": "Unit_1_5.txt",
+    "section_title": "Biotechnology and Bioethics",
+    "page_num_in_file": 6,
+    "slide_title": "Evolution Connection & Biotechnology",
+    "original_text": "Evolution Connection & Biotechnology\nEvolution is a core theme of biology.Humans selectively breed plants and animals in the process of artificialselectionto producemore productive crops,better livestock, anda great variety of pets that bear little resemblance to their wild ancestors.",
+    "explanation": "This slide connects evolution and biotechnology through the practice of selective breeding, or artificial selection. Evolution is a core theme of biology. Through artificial selection, humans selectively breed plants and animals to produce more productive crops, better livestock, and a wide variety of pets that look very different from their wild ancestors.",
+    "questions": [
+      {
+        "q": "What is the process called when humans selectively breed plants and animals to produce specific traits, such as more productive crops or domestic pets?",
+        "opts": [
+          "Natural selection",
+          "Homeostatic regulation",
+          "Artificial selection",
+          "Cellular respiration"
+        ],
+        "a": 2,
+        "exp": "The slide states: 'Humans selectively breed plants and animals in the process of artificial selection...'"
+      }
+    ],
+    "legacy_index": 70
+  },
+  {
+    "unit": 1,
+    "page": 74,
+    "filename": "Unit_1_5.txt",
+    "section_title": "Biotechnology and Bioethics",
+    "page_num_in_file": 7,
+    "slide_title": "Biotechnology",
+    "original_text": "Biotechnology\nBiotechnologyis simply defined as the exploitation of biological processes for industrial and other purposesHumans also unintentionally causedthe evolution of antibiotic-resistant bacteriathe evolution of pesticide-resistant peststhe loss of species through habitat loss and global climate change.Could this have been avoided?",
+    "explanation": "This slide defines biotechnology as the exploitation of biological processes for industrial and other purposes. It notes that human activities have also unintentionally caused negative environmental and biological consequences. These include: the evolution of antibiotic-resistant bacteria, the evolution of pesticide-resistant pests, and the loss of species through habitat destruction and global climate change. It ends by asking whether these outcomes could have been avoided.",
+    "questions": [
+      {
+        "q": "How is biotechnology defined on this slide?",
+        "opts": [
+          "The study of evolutionary relationships between organisms",
+          "The exploitation of biological processes for industrial and other purposes",
+          "The process of using a microscope to view cells",
+          "The sequence of steps in the scientific method"
+        ],
+        "a": 1,
+        "exp": "The slide defines biotechnology as: 'simply defined as the exploitation of biological processes for industrial and other purposes'."
+      },
+      {
+        "q": "Which of the following is listed as an UNINTENTIONAL consequence of human activity?",
+        "opts": [
+          "The development of the first compound light microscope",
+          "The evolution of antibiotic-resistant bacteria and pesticide-resistant pests",
+          "More productive agricultural crops through selective breeding",
+          "Establishing guidelines for MSDS chemical safety sheets"
+        ],
+        "a": 1,
+        "exp": "The slide lists 'the evolution of antibiotic-resistant bacteria' and 'the evolution of pesticide-resistant pests' under unintentional causes of human activity."
+      }
+    ],
+    "legacy_index": 71
+  },
+  {
+    "unit": 1,
+    "page": 75,
+    "filename": "Unit_1_5.txt",
+    "section_title": "Biotechnology and Bioethics",
+    "page_num_in_file": 8,
+    "slide_title": "Connections",
+    "original_text": "Connections\nBiology, technology, and society are connected in important waysMany issues facing society are related to biology and often involve our expanding technology.The basic goals of science and technology differ.The goal of science is to understand natural phenomena.The goal of technologyis to apply scientific knowledge for some specific purpose.Although their goals differ, science and technology are interdependent.Research benefits from new technologies.Technological advances stem from scientific research.Ex. Technologies of DNA manipulation are the results of scientific discovery of the structure of DNA.What are other examples?",
+    "explanation": "This slide discusses the relationships and differences between biology, technology, and society. Many societal issues are related to biology and involve expanding technology. The basic goals of science and technology differ: the goal of science is to understand natural phenomena, whereas the goal of technology is to apply scientific knowledge for a specific purpose. Despite these differences, science and technology are interdependent. Scientific research benefits from new technologies, and technological advances stem from scientific research. For example, DNA manipulation technologies resulted directly from the scientific discovery of DNA's structure.",
+    "questions": [
+      {
+        "q": "What is the difference between the basic goals of science and technology?",
+        "opts": [
+          "The goal of science is to sell products, while technology aims to study nature.",
+          "The goal of science is to understand natural phenomena, while the goal of technology is to apply scientific knowledge for some specific purpose.",
+          "Science is concerned only with chemistry, while technology is concerned with biology.",
+          "The goal of science is qualitative, while technology is quantitative."
+        ],
+        "a": 1,
+        "exp": "The slide states: 'The goal of science is to understand natural phenomena. The goal of technology is to apply scientific knowledge for some specific purpose.'"
+      },
+      {
+        "q": "Which example is provided to illustrate the interdependence of science and technology?",
+        "opts": [
+          "Using a flashlight to test dead batteries",
+          "DNA manipulation technologies resulting from the scientific discovery of the DNA structure",
+          "Tying back long hair to prevent accidents with hot plates",
+          "The classification of Eukarya into four kingdoms"
+        ],
+        "a": 1,
+        "exp": "The text states: 'Ex. Technologies of DNA manipulation are the results of scientific discovery of the structure of DNA.'"
+      }
+    ],
+    "legacy_index": 72
+  },
+  {
+    "unit": 1,
+    "page": 76,
+    "filename": "Unit_1_5.txt",
+    "section_title": "Biotechnology and Bioethics",
+    "page_num_in_file": 9,
+    "slide_title": "Bioethics",
+    "original_text": "Bioethics\nBreakout questions\n1.What do you think is meant by Bioethics?\n2.Is it possible to be an ethical scientist?\n3.What are factors that could stand in the way of ethical considerations by individuals?\n4.What are examples of individuals and/or groups in society looking out for ethics in scientific research?",
+    "explanation": "This final slide of Unit 1 presents four breakout discussion questions concerning bioethics: 1) 'What do you think is meant by Bioethics?', 2) 'Is it possible to be an ethical scientist?', 3) 'What are factors that could stand in the way of ethical considerations by individuals?', and 4) 'What are examples of individuals and/or groups in society looking out for ethics in scientific research?'",
+    "questions": [
+      {
+        "q": "What is the focus of the breakout discussion questions on Page 74?",
+        "opts": [
+          "Taxonomy and classification hierarchies",
+          "Bioethics and ethical considerations in science",
+          "Scanning and Transmission Electron Microscopy",
+          "The steps of the Scientific Method"
+        ],
+        "a": 1,
+        "exp": "The questions on the slide are focused on 'Bioethics', asking about its meaning, ethical scientist possibilities, obstacles to ethics, and groups protecting ethics in research."
+      }
+    ],
+    "legacy_index": 73
+  }
+]

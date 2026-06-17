@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 112,
+  "filename": "Unit_4_6.txt",
+  "section_title": "Meiosis",
+  "page_num_in_file": 6,
+  "slide_title": "Meiosis I¨Prophase I: What’s New?¤Chromosomes line up with their homologuesnSynapsis: pairing of homologous chromosomes –forms a tetradnTetrad: pair of homologous chromosomes aligned lengthwise –genes on one chromosome adjacent to same gene on other chromosome¤Crossing-overoccurs during synapsisnChromatids within homologous pair twist around one anothernPortions may break off; attach to adjacent chromatids on homologous chromosomenAllows for exchange of genetic material between maternal/paternal chromosomesnResults in genetic recombination –new mixture of genetic materialnIncreases amount of genetic diversity",
+  "original_text": "Meiosis I¨Prophase I: What’s New?¤Chromosomes line up with their homologuesnSynapsis: pairing of homologous chromosomes –forms a tetradnTetrad: pair of homologous chromosomes aligned lengthwise –genes on one chromosome adjacent to same gene on other chromosome¤Crossing-overoccurs during synapsisnChromatids within homologous pair twist around one anothernPortions may break off; attach to adjacent chromatids on homologous chromosomenAllows for exchange of genetic material between maternal/paternal chromosomesnResults in genetic recombination –new mixture of genetic materialnIncreases amount of genetic diversity",
+  "explanation": "Prophase I of meiosis introduces events not seen in mitosis. Chromosomes align with their homologues in a process called synapsis, forming a tetrad. A tetrad consists of a pair of homologous chromosomes aligned lengthwise, placing alleles of the same genes adjacent to one another. During synapsis, crossing-over occurs: chromatids of homologous chromosomes twist around each other, break at corresponding points, and swap segments. This physical exchange of genetic material between maternal and paternal chromosomes leads to genetic recombination (a new mixture of genetic alleles), which increases the genetic diversity of the resulting gametes.",
+  "questions": [
+    {
+      "q": "What is synapsis and what structure does it produce?",
+      "opts": [
+        "The separation of sister chromatids; it produces single chromatids.",
+        "The pairing of homologous chromosomes; it forms a tetrad.",
+        "The degradation of the nuclear membrane; it produces spindle fibers.",
+        "The replication of plasmid DNA; it forms a bioreactor."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide defines synapsis as: 'pairing of homologous chromosomes – forms a tetrad' where the homologues align lengthwise."
+    },
+    {
+      "q": "What is crossing-over, and when does it occur?",
+      "opts": [
+        "The duplication of chromosomes; occurs during the S phase.",
+        "The physical exchange of genetic material between homologous chromatids; occurs during synapsis in Prophase I.",
+        "The migration of chromosomes to the poles; occurs during Anaphase II.",
+        "The fusion of sperm and egg; occurs during fertilization."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states 'Crossing-over occurs during synapsis' and explains it involves chromatids twisting, breaking off, and attaching to adjacent homologous chromatids to allow exchange of genetic material."
+    }
+  ]
+}

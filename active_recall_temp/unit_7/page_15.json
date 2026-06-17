@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 15,
+  "filename": "Unit_7_1.txt",
+  "section_title": "Plant Structure & Organization",
+  "page_num_in_file": 15,
+  "slide_title": "Organization and Diversity of Stems: Shoot Apical Meristem",
+  "original_text": "Organization and Diversity of Stems Shoot apical meristem Produces new cells that elongate and increase stem length Protected by terminal bud Enveloped by leaf primordia Specialized primary meristems Protoderm  gives rise to the epidermis Ground Meristem  gives rise to pith and cortex Procambium  produces primary xylem and phloem",
+  "explanation": "The shoot apical meristem is the growth region located at the tip of the stem. It produces new cells that elongate to increase stem height. This meristem is protected within the terminal bud and is enveloped by leaf primordia (embryonic leaves). The shoot apical meristem differentiates into three specialized primary meristems: 1) Protoderm, which develops into the outer epidermis. 2) Ground Meristem, which gives rise to the pith and cortex. 3) Procambium, which produces the primary vascular tissues: xylem and phloem.",
+  "questions": [
+    {
+      "q": "Which primary meristem differentiates into the pith and the cortex?",
+      "opts": [
+        "Protoderm",
+        "Ground Meristem",
+        "Procambium",
+        "Apical Meristem"
+      ],
+      "a": 1,
+      "exp": "The ground meristem gives rise to the pith and cortex, whereas the protoderm forms the epidermis, and the procambium forms vascular tissue."
+    },
+    {
+      "q": "What structures envelop and protect the delicate shoot apical meristem?",
+      "opts": [
+        "Root caps",
+        "Vascular rays",
+        "Leaf primordia",
+        "Trichomes"
+      ],
+      "a": 2,
+      "exp": "Leaf primordia are embryonic leaves that envelope and protect the shoot apical meristem inside the terminal bud."
+    }
+  ]
+}

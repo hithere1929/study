@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 23,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 23,
+  "slide_title": "3: Solutions & Solubility",
+  "original_text": "3: Solutions & Solubility¨Solubility: ability of a substance to dissolve another substance¤“Like dissolves like”: polar substances dissolve other polar substances (sugars, ionic compounds, some proteins); does not dissolve non-polar substances (oil, other substances with high CH content)¤Ex: NaCl(ionic compound) can dissolve in water\nNa+attracted to σ-O; Cl-attracted to σ+H¨Importance?¤Ions (esp. Na+, Cl-, K+, Ca2+) necessary for essential body functions: muscle contraction, transmission of impulses throughout nervous system",
+  "explanation": "Solubility is the ability of a substance to dissolve another substance. This process follows the principle of 'like dissolves like': polar substances can dissolve other polar substances (such as sugars, ionic compounds, and certain proteins), but they cannot dissolve non-polar substances (such as oil or molecules with high carbon-hydrogen content). For example, sodium chloride (NaCl), an ionic compound, dissolves in water because the positive sodium ions (Na+) are attracted to the partially negative oxygen atoms (σ- O) of water, while the negative chloride ions (Cl-) are attracted to the partially positive hydrogen atoms (σ+ H). The solubility of these ionic substances in water is biologically crucial because ions (especially Na+, Cl-, K+, and Ca2+) are essential for vital body functions, including muscle contraction and the transmission of nerve impulses.",
+  "questions": [
+    {
+      "q": "Which principle explains why water (a polar solvent) can dissolve salt and sugar, but not oil?",
+      "opts": [
+        "Opposites attract",
+        "Like dissolves like",
+        "Conservation of mass",
+        "Second law of thermodynamics"
+      ],
+      "a": 1,
+      "exp": "The rule 'like dissolves like' states that polar solvents dissolve polar and ionic solutes, whereas non-polar substances do not dissolve in polar solvents."
+    },
+    {
+      "q": "How does sodium chloride (NaCl) dissolve in water at the molecular level?",
+      "opts": [
+        "Na+ is attracted to the partial positive hydrogen, and Cl- is attracted to the partial negative oxygen.",
+        "Na+ is attracted to the partial negative oxygen, and Cl- is attracted to the partial positive hydrogen.",
+        "Water molecules form covalent bonds with sodium and chloride.",
+        "Sodium and chloride atoms share electrons equally with water."
+      ],
+      "a": 1,
+      "exp": "Because water is polar, the positive Na+ ions are attracted to the partially negative oxygen atoms (σ- O), and the negative Cl- ions are attracted to the partially positive hydrogen atoms (σ+ H)."
+    }
+  ]
+}

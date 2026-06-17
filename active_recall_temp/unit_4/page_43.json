@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 43,
+  "filename": "Unit_4_3.txt",
+  "section_title": "DNA Replication, Transcription, Translation",
+  "page_num_in_file": 17,
+  "slide_title": "Transcription¨Process by which genetic instructions are transcribed (re-written) into RNA molecule –produces mRNA Molecule¨Occurs in nucleus of eukaryotes; nucleoid region of prokaryotes1.RNA polymerase binds to promoter on DNA template molecule¤Promoter:specific DNA sequence that serves as recognition site for RNA polymerase to bind and initiate transcription¤DNA strands are separated and unwound2.RNA polymerase adds free RNA nucleotides complementary to nucleotides on DNA template¤Complementary base pairing determines sequence of new RNA molecule based on DNA template¤Only a specific region, gene, is transcribed.   5’à3’ direction -elongation¤One DNA strand used as template; as RNA polymerase moves past, DNA rewound3.RNA polymerase reaches termination signal; DNA sequence that marks end of gene¤Stop signal; RNA polymerase releases template DNA and newly synthesized RNA molecule¨New transcript can be started as soon as the promoter is free",
+  "original_text": "Transcription¨Process by which genetic instructions are transcribed (re-written) into RNA molecule –produces mRNA Molecule¨Occurs in nucleus of eukaryotes; nucleoid region of prokaryotes1.RNA polymerase binds to promoter on DNA template molecule¤Promoter:specific DNA sequence that serves as recognition site for RNA polymerase to bind and initiate transcription¤DNA strands are separated and unwound2.RNA polymerase adds free RNA nucleotides complementary to nucleotides on DNA template¤Complementary base pairing determines sequence of new RNA molecule based on DNA template¤Only a specific region, gene, is transcribed.   5’à3’ direction -elongation¤One DNA strand used as template; as RNA polymerase moves past, DNA rewound3.RNA polymerase reaches termination signal; DNA sequence that marks end of gene¤Stop signal; RNA polymerase releases template DNA and newly synthesized RNA molecule¨New transcript can be started as soon as the promoter is free",
+  "explanation": "Transcription is the process of re-writing DNA instructions into an RNA molecule (specifically creating mRNA). This takes place in the nucleus of eukaryotic cells and the nucleoid region of prokaryotes. The process has three main steps: 1) Initiation: The enzyme RNA polymerase binds to a specific DNA sequence called a promoter, which serves as a recognition site to start transcription, causing the DNA strands to separate and unwind. 2) Elongation: RNA polymerase moves along one of the DNA strands (acting as a template) in the 5' to 3' direction, adding free complementary RNA nucleotides. The sequence of the new RNA is dictated by complementary base pairing with the DNA template. As the polymerase passes, the DNA helix rewinds. 3) Termination: When RNA polymerase reaches a termination signal (a specific DNA sequence marking the end of the gene), it releases the template DNA and the newly completed RNA transcript. A new transcription process can begin at the promoter as soon as the previous RNA polymerase leaves the promoter area.",
+  "questions": [
+    {
+      "q": "What is the DNA sequence called that serves as the recognition site for RNA polymerase to bind and start transcription?",
+      "opts": [
+        "Terminator",
+        "Codon",
+        "Promoter",
+        "Anticodon"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide defines the promoter as a 'specific DNA sequence that serves as recognition site for RNA polymerase to bind and initiate transcription.' Option A is the stop signal. Options B and D are RNA triplet units."
+    },
+    {
+      "q": "In which direction does RNA polymerase synthesize the growing RNA strand during elongation?",
+      "opts": [
+        "3' to 5' direction",
+        "5' to 3' direction",
+        "Both directions simultaneously",
+        "It can move in either direction depending on the cell type"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states transcription elongation proceeds in the '5’->3’ direction.' The other options are incorrect."
+    }
+  ]
+}

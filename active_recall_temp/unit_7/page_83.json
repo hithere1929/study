@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 83,
+  "filename": "Unit_7_5.txt",
+  "section_title": "Animal Organization",
+  "page_num_in_file": 10,
+  "slide_title": "Types of Tissues: Fluid Connective Tissue",
+  "original_text": "Types of Tissues Fluid Connective Tissue BloodnA connective tissue in which cells are embedded in a liquid matrix (plasma)nRed blood cells  oxygen transportnWhite blood cells  immune responsenPlatelets involved in the clotting processnFunctionsnTransports nutrients and oxygen to cellsnRemoves carbon dioxide and other wastes LymphnA fluid connective tissue located in lymphatic vessels",
+  "explanation": "Fluid connective tissues contain cells suspended in a liquid matrix. The two types are blood and lymph. 1) Blood: is a fluid connective tissue where the extracellular matrix is a liquid called plasma. The cellular elements include red blood cells (erythrocytes, which transport oxygen), white blood cells (leukocytes, which fight infection), and platelets (cell fragments involved in blood clotting). Blood functions to transport oxygen and nutrients to cells and remove carbon dioxide and metabolic wastes. 2) Lymph: is a fluid connective tissue that flows through lymphatic vessels.",
+  "questions": [
+    {
+      "q": "What is the liquid matrix of blood tissue?",
+      "opts": [
+        "Lymph",
+        "Plasma",
+        "Ground substance",
+        "Lacuna"
+      ],
+      "a": 1,
+      "exp": "Plasma is the liquid extracellular matrix of blood in which blood cells and platelets are suspended."
+    },
+    {
+      "q": "Which blood component is correctly paired with its primary function?",
+      "opts": [
+        "Red blood cells – Clotting process",
+        "White blood cells – Oxygen transport",
+        "Platelets – Immune response",
+        "Red blood cells – Oxygen transport"
+      ],
+      "a": 3,
+      "exp": "Red blood cells transport oxygen, white blood cells handle immune defense, and platelets participate in the clotting process."
+    }
+  ]
+}

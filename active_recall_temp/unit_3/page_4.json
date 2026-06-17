@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 4,
+  "filename": "Unit_3_1.txt",
+  "section_title": "Cell Biology",
+  "page_num_in_file": 4,
+  "slide_title": "History of Cells",
+  "original_text": "History of Cells\nAll living things are made of one or more cells\nSmallest unit that can carry on all processes of life\nAs early as the 17thcentury, scientists used microscopesto observe objects too small to be seen by eye and develop the idea of cell-based life\nRobert Hooke: observed thin slices of cork with early microscope; \"little boxes\" observed reminded him of cubicles or \"cells\" where monks live\nObserved similar structures in sections of tree stems, roots & ferns\nAnton van Leeuwenhoek: first to observe living cells, including microorganisms such as algae Spirogyra & Vorticella\nCalled microorganisms \"animalcules\"; now known as protists",
+  "explanation": "This page details the history of cell discovery. All living things are composed of one or more cells, which represent the smallest unit capable of carrying out all processes of life. The development of microscopes in the 17th century allowed scientists to observe objects too small for the naked eye. Robert Hooke examined thin slices of cork, noting 'little boxes' that reminded him of monks' rooms ('cells'); he also observed these structures in tree stems, roots, and ferns. Anton van Leeuwenhoek was the first to observe living cells, including algae such as Spirogyra and Vorticella, which he termed 'animalcules' (which are now known as protists).",
+  "questions": [
+    {
+      "q": "Who was the first scientist to observe living cells, such as Spirogyra and Vorticella, under a microscope?",
+      "opts": [
+        "Robert Hooke",
+        "Anton van Leeuwenhoek",
+        "Matthias Schleiden",
+        "Theodor Schwann"
+      ],
+      "a": 1,
+      "exp": "Anton van Leeuwenhoek was the first to observe living cells (like Spirogyra and Vorticella) and called them animalcules, whereas Robert Hooke observed non-living cells in cork."
+    },
+    {
+      "q": "What did Robert Hooke compare the 'little boxes' he observed in thin slices of cork to?",
+      "opts": [
+        "Honeycomb chambers",
+        "Monk cubicles/cells",
+        "Microscopic animalcules",
+        "Plant roots and tree stems"
+      ],
+      "a": 1,
+      "exp": "Hooke observed thin slices of cork and called the little boxes 'cells' because they reminded him of the cubicles or cells where monks lived."
+    }
+  ]
+}

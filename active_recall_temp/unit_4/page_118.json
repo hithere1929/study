@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 118,
+  "filename": "Unit_4_6.txt",
+  "section_title": "Meiosis",
+  "page_num_in_file": 12,
+  "slide_title": "Meiosis II",
+  "original_text": "Meiosis II",
+  "explanation": "This slide serves as a transition or contains visual diagrams representing the steps of Meiosis II.",
+  "questions": [
+    {
+      "q": "What is the main topic of this page?",
+      "opts": [
+        "Mitosis",
+        "Meiosis I",
+        "Meiosis II",
+        "Interphase"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide is titled 'Meiosis II'."
+    }
+  ]
+}

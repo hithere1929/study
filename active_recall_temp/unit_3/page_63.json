@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 63,
+  "filename": "Unit_3_3.txt",
+  "section_title": "Chromosomes",
+  "page_num_in_file": 4,
+  "slide_title": "Chromosome Structure",
+  "original_text": "Chromosome Structure\nEach chromosome contains single DNA molecule wrapped tightly around histone proteins\nHistone – helps maintain shape of chromosome and aid in packing\nOther proteins associated with DNA involved in controlling activity of specific regions \nBetween cell division DNA is less tightly packed\nRegions uncoil between divisions in order to guide activities of cell (transcription/translation)\nLess packed DNA known as chromatin",
+  "explanation": "Each chromosome consists of a single DNA molecule wrapped tightly around specific proteins called histones, which help maintain chromosome shape and assist in packaging. Other non-histone proteins associated with DNA are involved in regulating the activity of specific genetic regions. Between cell divisions, the DNA is less tightly packed and uncoiled (to allow transcription and translation for cellular activities). This less compacted form of DNA is referred to as chromatin.",
+  "questions": [
+    {
+      "q": "What type of protein does DNA wrap around in a chromosome to help maintain its shape and aid in packaging?",
+      "opts": [
+        "Tubulin",
+        "Actin",
+        "Histone",
+        "Ribosomal protein"
+      ],
+      "a": 2,
+      "exp": "Each chromosome contains a single DNA molecule wrapped tightly around histone proteins."
+    },
+    {
+      "q": "What is the less tightly packed, uncoiled form of DNA called between cell divisions?",
+      "opts": [
+        "Chromatid",
+        "Chromatin",
+        "Centromere",
+        "Spindle"
+      ],
+      "a": 1,
+      "exp": "Between cell divisions, the DNA is less tightly packed and uncoiled, known as chromatin."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 95,
+  "filename": "Unit_2_3.txt",
+  "section_title": "Movement of Molecules",
+  "page_num_in_file": 21,
+  "slide_title": "Endocytosis",
+  "original_text": "Endocytosis\nPinocytosis\nPhagocytosis",
+  "explanation": "This slide serves as a visual layout showing diagrams of the processes of pinocytosis (liquid engulfment) and phagocytosis (solid particle engulfment).",
+  "questions": [
+    {
+      "q": "Which two processes are visually compared on this slide?",
+      "opts": [
+        "Exocytosis and Endocytosis",
+        "Pinocytosis and Phagocytosis",
+        "Active Transport and Osmosis",
+        "Hydrolysis and Condensation"
+      ],
+      "a": 1,
+      "exp": "The slide illustrates Pinocytosis and Phagocytosis."
+    }
+  ]
+}

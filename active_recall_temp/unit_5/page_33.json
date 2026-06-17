@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 33,
+  "filename": "Unit_5_2.txt",
+  "section_title": "How Populations Evolve",
+  "page_num_in_file": 12,
+  "slide_title": "Genes, Populations, & Evolution",
+  "original_text": "Genes, Populations, & Evolution\n\u00a8Causes of Microevolution\n\u00a8Gene Flow (gene migration)\n\u00a4Movement of alleles between populations when:\n  nGametes or seeds (in plants) are carried into another population\n  nBreeding individuals migrate into or out of population\n\u00a4Continual gene flow reduces genetic divergence between populations\n  nPopulations become more similar over time\n\u00a4When no migration, populations become more divergent over time",
+  "explanation": "Gene flow, or gene migration, is another major cause of microevolution. It refers to the movement of alleles between separate populations. This can happen when plant gametes or seeds are wind-blown or carried into a different population, or when breeding individuals physically migrate into or out of a population. Continual gene flow functions to mix the gene pools, reducing genetic divergence and making the populations more genetically similar over time. Conversely, if there is no migration (no gene flow), reproductive isolation allows the populations to become increasingly genetically divergent over time.",
+  "questions": [
+    {
+      "q": "What is the biological effect of continuous gene flow between two populations?",
+      "opts": [
+        "It causes the two populations to become more genetically divergent.",
+        "It reduces genetic divergence, making the populations more similar over time.",
+        "It increases the rate of random mutations in both populations.",
+        "It forces both populations into immediate Hardy-Weinberg equilibrium."
+      ],
+      "a": 1,
+      "exp": "Continual gene flow introduces and mixes alleles between populations, reducing genetic divergence and making them more similar."
+    },
+    {
+      "q": "Under what conditions do two populations become more genetically divergent over time?",
+      "opts": [
+        "When there is high, continuous gene flow between them",
+        "When mating between them is completely random",
+        "When there is no migration (no gene flow) between them",
+        "When they share the same geographic area and breeding seasons"
+      ],
+      "a": 2,
+      "exp": "When migration/gene flow is absent, the populations are isolated and accumulate genetic differences independently, making them more divergent."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 8,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 8,
+  "slide_title": "1: Atoms",
+  "original_text": "1: Atoms\nA Boy and His Atom",
+  "explanation": "This slide contains a reference or title to a short film or demonstration titled 'A Boy and His Atom' to illustrate atomic concepts.",
+  "questions": [
+    {
+      "q": "What is the title of the atomic illustration or movie mentioned on this slide?",
+      "opts": [
+        "A Boy and His Atom",
+        "An Atom's Journey",
+        "The Structure of Matter",
+        "The Quantum World"
+      ],
+      "a": 0,
+      "exp": "The slide explicitly lists the text 'A Boy and His Atom'."
+    }
+  ]
+}

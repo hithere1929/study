@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 117,
+  "filename": "Unit_2_4.txt",
+  "section_title": "Metabolism",
+  "page_num_in_file": 20,
+  "slide_title": "ATP",
+  "original_text": "ATP¨A cell uses and regenerates ATP continuously.¨In the ATP cycle, energy released in an exergonic reaction, such as the breakdown of glucose during cellular respiration, is used in an endergonic reaction to generate ATP from ADP.",
+  "explanation": "A living cell continuously consumes and regenerates ATP in what is known as the ATP cycle. To regenerate ATP, energy released from exergonic (energy-yielding) pathways, such as the breakdown of glucose during cellular respiration, is harnessed to drive an endergonic (energy-requiring) reaction that attaches a free phosphate group back onto ADP (adenosine diphosphate).",
+  "questions": [
+    {
+      "q": "What reactions provide the energy needed to regenerate ATP from ADP in the ATP cycle?",
+      "opts": [
+        "Endergonic reactions, like building proteins",
+        "Exergonic reactions, like the breakdown of glucose in cellular respiration",
+        "Osmotic pressure changes across the membrane",
+        "Active transport of sodium ions"
+      ],
+      "a": 1,
+      "exp": "The energy needed to regenerate ATP is supplied by exergonic reactions, primarily glucose catabolism during cellular respiration."
+    }
+  ]
+}

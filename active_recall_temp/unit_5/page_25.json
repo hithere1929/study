@@ -1,0 +1,23 @@
+{
+  "unit": 5,
+  "page": 25,
+  "filename": "Unit_5_2.txt",
+  "section_title": "How Populations Evolve",
+  "page_num_in_file": 4,
+  "slide_title": "How Populations Evolve",
+  "original_text": "How Populations Evolve",
+  "explanation": "This slide is a section divider or placeholder marking the core content transition for the topic 'How Populations Evolve.'",
+  "questions": [
+    {
+      "q": "What is the topic of the slide on page 25?",
+      "opts": [
+        "How Populations Evolve",
+        "The History of Evolutionary Thought",
+        "Developmental Biology",
+        "Evidence for Evolution"
+      ],
+      "a": 0,
+      "exp": "The text on this slide simply states 'How Populations Evolve'."
+    }
+  ]
+}

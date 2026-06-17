@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 174,
+  "filename": "Unit_4_8.txt",
+  "section_title": "Mendelian Inheritance P1 - Mendelian Genetics",
+  "page_num_in_file": 32,
+  "slide_title": "Probability activities¤Coin Toss nWhat is the chance you expect to flip heads?nHow do your results compare with global results?¤Rolling DicenWhat is the probability of rolling a 5?nWhen rolling two dice, what is the probability of rolling two 5’s?¤Playing CardsnWhat is the probability of drawing a Spade?nWhat is the probability of drawing a 4?¤Rochambeau (Rock Paper Scissor)nChallenge a classmate in a meet or go to above linknWhat is the chance you will throw a scissor?nWhat is the probability of your friend throwing rock twice in a row?",
+  "original_text": "Probability activities¤Coin Toss nWhat is the chance you expect to flip heads?nHow do your results compare with global results?¤Rolling DicenWhat is the probability of rolling a 5?nWhen rolling two dice, what is the probability of rolling two 5’s?¤Playing CardsnWhat is the probability of drawing a Spade?nWhat is the probability of drawing a 4?¤Rochambeau (Rock Paper Scissor)nChallenge a classmate in a meet or go to above linknWhat is the chance you will throw a scissor?nWhat is the probability of your friend throwing rock twice in a row?",
+  "explanation": "This slide outlines probability activities, illustrating how mathematical probability rules apply to random chance events, such as coin tosses, rolling dice, drawing playing cards, and games like Rochambeau (Rock Paper Scissors). These games model genetic events where allele inheritance behaves as independent probability events.",
+  "questions": [
+    {
+      "q": "In the probability activities listed, if you roll two six-sided dice, what is the probability of rolling two 5's simultaneously?",
+      "opts": [
+        "1/6",
+        "1/12",
+        "1/36",
+        "1/18"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the events are independent. The probability of rolling a 5 on one die is 1/6, and on the second die is 1/6. The joint probability is 1/6 * 1/6 = 1/36."
+    }
+  ]
+}

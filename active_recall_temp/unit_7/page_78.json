@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 78,
+  "filename": "Unit_7_5.txt",
+  "section_title": "Animal Organization",
+  "page_num_in_file": 5,
+  "slide_title": "Types of Tissues: Simple Epithelia",
+  "original_text": "Types of Tissues Simple epithelia  A single layer of cells, all touching basement membrane Classified according to cell type: Squamous-flattened cells Cuboidal cube-shaped cells Columnar cells resembling columns",
+  "explanation": "Simple epithelia consist of a single layer of cells, where every cell is in direct contact with the basement membrane. Simple epithelia are classified into three types based on cell shape: 1) Squamous: thin, flattened cells. 2) Cuboidal: cube-shaped cells. 3) Columnar: tall, rectangular cells that resemble columns.",
+  "questions": [
+    {
+      "q": "What defines a simple epithelium?",
+      "opts": [
+        "Multiple layers of cells where only the bottom layer touches the basement membrane",
+        "A single layer of cells where every cell touches the basement membrane",
+        "A tissue composed of cells suspended in a liquid matrix",
+        "Contractile cells containing actin and myosin filaments"
+      ],
+      "a": 1,
+      "exp": "Simple epithelia are characterized by having a single layer of cells, all of which are anchored to the basement membrane."
+    },
+    {
+      "q": "Which cell shape in simple epithelia is correctly matched with its description?",
+      "opts": [
+        "Squamous - Cube-shaped",
+        "Cuboidal - Column-resembling",
+        "Columnar - Flattened",
+        "Squamous - Flattened"
+      ],
+      "a": 3,
+      "exp": "Squamous cells are flattened, cuboidal cells are cube-shaped, and columnar cells resemble columns."
+    }
+  ]
+}

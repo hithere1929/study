@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 165,
+  "filename": "Unit_7_9.txt",
+  "section_title": "Sense Organs",
+  "page_num_in_file": 5,
+  "slide_title": "Chemical Senses: Smell in Humans",
+  "original_text": "Chemical Senses Sense of Smell in Humans Dependent on olfactory cells Located within olfactory epithelium in the roof of the nasal cavity Nerve fibers from olfactory cells lead to the same neuron in the olfactory bulb Sense of taste and smell Work together to create a combined effect Interpreted by the cerebral cortex",
+  "explanation": "The human sense of smell (olfaction) depends on olfactory cells located in the olfactory epithelium in the roof of the nasal cavity. Nerve fibers from these sensory cells project to the olfactory bulb in the brain, synapsing on shared neurons. The senses of taste and smell function cooperatively, integrating their inputs to produce the perception of flavor, which is processed and interpreted by the cerebral cortex.",
+  "questions": [
+    {
+      "q": "Where are the sensory cells for smell located in humans?",
+      "opts": [
+        "In the taste buds of the epiglottis",
+        "In the olfactory epithelium in the roof of the nasal cavity",
+        "In the semicircular canals of the inner ear",
+        "In the primary somatosensory area of the parietal lobe"
+      ],
+      "a": 1,
+      "exp": "Human olfactory cells are localized in the olfactory epithelium situated in the roof of the nasal cavity."
+    },
+    {
+      "q": "How do taste and smell interact?",
+      "opts": [
+        "They operate entirely independently in different lobes of the brain stem.",
+        "They work together to produce a combined flavor effect interpreted by the cerebral cortex.",
+        "Smell inhibits taste to prevent overeating.",
+        "Taste buds send signals to the olfactory bulb to regulate mucus secretion."
+      ],
+      "a": 1,
+      "exp": "Taste and smell inputs are integrated in the brain to produce a unified sensory perception of flavor, processed in the cerebral cortex."
+    }
+  ]
+}

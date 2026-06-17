@@ -1,0 +1,22 @@
+{
+  "unit": 2,
+  "page": 37,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 1,
+  "slide_title": "UNIT 2: CHEMISTRYOF ORGANICMOLECULESBiology 9              Mr. QueenanText -Ch 2.3 (p 52-56)",
+  "explanation": "This is the title slide for Unit 2: Chemistry of Organic Molecules for Biology 9 with Mr. Queenan, which covers Textbook Chapter 2.3 on pages 52-56.",
+  "questions": [
+    {
+      "q": "Which chapter and page range of the textbook correspond to the Chemistry of Organic Molecules section?",
+      "opts": [
+        "Chapter 2.1 (p 42-45)",
+        "Chapter 2.2 (p 46-51)",
+        "Chapter 2.3 (p 52-56)",
+        "Chapter 2.4 (p 57-60)"
+      ],
+      "a": 2,
+      "exp": "The slide title explicitly references 'Text -Ch 2.3 (p 52-56)'."
+    }
+  ]
+}

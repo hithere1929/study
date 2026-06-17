@@ -1,0 +1,27 @@
+{
+  "id": "u4_t4",
+  "title": "Transcription",
+  "cheat_card": [
+    "Transcription is the synthesis of RNA from a DNA template, catalyzed by <b>RNA polymerase</b> binding to a specific DNA sequence called a <b>promoter</b>.",
+    "RNA structure differs from DNA: it is <b>single-stranded</b>, contains <b>ribose sugar</b> (instead of deoxyribose), and uses <b>uracil (U)</b> instead of thymine.",
+    "Eukaryotic pre-mRNA undergoes three modifications: addition of a <b>5' cap</b> (modified Guanine), a <b>poly-A tail</b> (150-200 Adenines) at the 3' end, and <b>RNA splicing</b>.",
+    "In splicing, <b>spliceosomes</b> remove non-coding <b>introns</b> and join coding <b>exons</b> together to produce mature mRNA.",
+    "<b>Alternative mRNA splicing</b> allows a single gene to code for multiple protein products by selectively omitting or including different exons."
+  ],
+  "memory_anchor": "**Splicing Rule**:\n- **IN**trons = **IN**terrupting non-coding sequences (**IN** the garbage)\n- **EX**ons = **EX**pressed coding sequences (**EX**iting to cytoplasm)",
+  "flashcards": [
+    {
+      "q": "What are the three post-transcriptional modifications that eukaryotic pre-mRNA must undergo before leaving the nucleus, and what are their functions?",
+      "a": "Eukaryotic pre-mRNA receives a 5' modified Guanine cap (directs ribosome attachment), a 3' poly-A tail of 150-200 Adenines (assists in nuclear export, translation initiation, and delays enzymatic degradation), and undergoes splicing where introns are removed and exons are joined."
+    },
+    {
+      "q": "Explain how alternative splicing increases the diversity of proteins a cell can produce without increasing genome size.",
+      "a": "Alternative splicing allows different combinations of exons to be joined together while removing introns. This means a single pre-mRNA transcript can be processed into multiple distinct mature mRNA sequences, each coding for a different protein isoform."
+    },
+    {
+      "q": "How does the promoter sequence on DNA facilitate the initiation of transcription by RNA polymerase?",
+      "a": "The promoter is a specific sequence of DNA upstream of the gene that serves as a recognition and binding site for RNA polymerase. Its binding signals the enzyme to attach and begin unwinding the DNA strands to start RNA synthesis."
+    }
+  ],
+  "outline_blanks": "Transcription begins when [[RNA polymerase]] binds to a DNA sequence called a [[promoter]]. In eukaryotes, pre-mRNA is modified with a [[5' cap]] and a [[poly-A tail]]. A complex called the [[spliceosome]] removes the non-coding [[introns]] and joins the coding [[exons]]."
+}

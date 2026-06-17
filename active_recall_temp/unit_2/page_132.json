@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 132,
+  "filename": "Unit_2_5.txt",
+  "section_title": "Enzymes",
+  "page_num_in_file": 10,
+  "slide_title": "Glucose",
+  "original_text": "Glucose\nFructose\nThe productsare releasedThe substrateis convertedto products\nH2O\nEnzyme(sucrase)\nSubstratebinds toenzyme withinduced fit.\nSubstrate(sucrose)Active siteThe enzyme availablewith an empty active site\n1. Active site is empty.\n2. Sucrose binds with induced fit.\n3. Water is added, converting substrate to glucose and fructose products.\n4. Products are released.",
+  "explanation": "This slide details the catalytic cycle of the enzyme sucrase. In step 1, the sucrase enzyme is available with an empty active site. In step 2, the substrate sucrose binds to the active site with an induced fit, where the enzyme hugs the substrate slightly to bind it tightly. In step 3, a water molecule is added (hydrolysis), converting the substrate into the products glucose and fructose. In step 4, these products are released, leaving the enzyme unchanged and free to receive another substrate molecule.",
+  "questions": [
+    {
+      "q": "In the catalytic cycle of sucrase, what are the products released after sucrose is hydrolyzed?",
+      "opts": [
+        "Starch and Glycogen",
+        "Glucose and Fructose",
+        "Lactose and Galactose",
+        "Carbon dioxide and Water"
+      ],
+      "a": 1,
+      "exp": "Sucrase catalyzes the hydrolysis of sucrose into its component monosaccharides, glucose and fructose."
+    },
+    {
+      "q": "What is 'induced fit' in enzyme-substrate binding?",
+      "opts": [
+        "The permanent denaturation of the enzyme.",
+        "The slight change in shape of the enzyme's active site so that it binds the substrate more snugly.",
+        "The chemical breakdown of the enzyme's peptide bonds.",
+        "The binding of a competitive inhibitor to the active site."
+      ],
+      "a": 1,
+      "exp": "Induced fit is the dynamic interaction where the enzyme's active site changes shape slightly upon substrate binding to establish a snugger fit."
+    }
+  ]
+}

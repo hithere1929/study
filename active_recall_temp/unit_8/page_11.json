@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 11,
+  "filename": "Unit_8_1.txt",
+  "section_title": "Behavioral Ecology",
+  "page_num_in_file": 11,
+  "slide_title": "Behaviors that Increase Fitness¨Behavioral Ecology¤Assumes that behavior is subject to natural selection¤Behavior has a genetic basis¤Some behaviors lead to increased survival and number of offspring¨Behaviors of animals we observe today has adaptive value¤Territoriality, Reproductive Strategies, Social Behavior, Altruistic Behavior",
+  "original_text": "Behaviors that Increase Fitness¨Behavioral Ecology¤Assumes that behavior is subject to natural selection¤Behavior has a genetic basis¤Some behaviors lead to increased survival and number of offspring¨Behaviors of animals we observe today has adaptive value¤Territoriality, Reproductive Strategies, Social Behavior, Altruistic Behavior",
+  "explanation": "Behavioral ecology is a field that studies behavior under the assumption that it is subject to natural selection. It relies on the premise that behaviors have a genetic basis, meaning some behaviors can be inherited and lead to increased survival and a higher number of offspring (evolutionary fitness). Therefore, the behaviors observed in animals today have adaptive value. Examples of adaptive behaviors include territoriality, reproductive strategies, social behavior, and altruistic behavior.",
+  "questions": [
+    {
+      "q": "What is the core assumption of behavioral ecology regarding animal behavior?",
+      "opts": [
+        "Behavior is entirely learned and not subject to natural selection.",
+        "Behavior is subject to natural selection, has a genetic basis, and can increase survival and reproductive output.",
+        "Behavior is purely random and has no impact on survival.",
+        "Behavioral patterns are only shaped by modern human interaction."
+      ],
+      "a": 1,
+      "exp": "The notes specify that behavioral ecology 'Assumes that behavior is subject to natural selection', 'has a genetic basis', and that 'Some behaviors lead to increased survival and number of offspring.'"
+    },
+    {
+      "q": "Which of the following is NOT listed as a behavior with adaptive value in the notes?",
+      "opts": [
+        "Territoriality",
+        "Reproductive Strategies",
+        "Altruistic Behavior",
+        "Acoustic Echolocation"
+      ],
+      "a": 3,
+      "exp": "The notes list 'Territoriality, Reproductive Strategies, Social Behavior, Altruistic Behavior' as behaviors having adaptive value. Acoustic echolocation is not mentioned."
+    }
+  ]
+}

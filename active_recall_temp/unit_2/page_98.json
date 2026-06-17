@@ -1,0 +1,22 @@
+{
+  "unit": 2,
+  "page": 98,
+  "filename": "Unit_2_4.txt",
+  "section_title": "Metabolism",
+  "page_num_in_file": 1,
+  "slide_title": "UNIT 2: METABOLISM & ENERGYBiology 9              Mr. Queenan",
+  "explanation": "This is the title slide introducing the section on Metabolism & Energy for Biology 9 with Mr. Queenan.",
+  "questions": [
+    {
+      "q": "What is the topic of the new section introduced on this slide?",
+      "opts": [
+        "Genetics",
+        "Metabolism & Energy",
+        "Cell Division",
+        "Ecology"
+      ],
+      "a": 1,
+      "exp": "The slide title explicitly states 'UNIT 2: METABOLISM & ENERGY'."
+    }
+  ]
+}

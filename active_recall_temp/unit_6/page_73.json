@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 73,
+  "filename": "Unit_6_6.txt",
+  "section_title": "Invertebrates",
+  "page_num_in_file": 6,
+  "slide_title": "Diversity \u2013Simple Invertebrates & Radiata\u00a8Sponges\u00a4Only animal to lack true tissue\u00a4Body perforated by pores\u00a4Interior canal contains flagellated cells\u00a4Filter feeder\u00a4Spicule structure  used for identification\u00a4Reproduce sexually and asexually\u00a8Comb Jellies\u00a4Solitary, free swimming marine animal\u00a4Use beating cilia to movenA few cm to 1.5 m in length\u00a4Body made of transparent jellylike substance \u2013mesoglea\u00a4Most do not have stinging properties; adhere to prey\u00a4Some bioluminescent\u00a8Cnidarians\u00a4Most have stinging cells \u2013cnidocytes\u00a42 layered sac (internal is digestive cavity)nAlso serves as hydrostatic skeleton\u00a4Body form polyp-cup up; medusa-cup down\u00a4Sea anemone, coral, hydrozoans, jellyfish, hydra",
+  "original_text": "Diversity \u2013Simple Invertebrates & Radiata\u00a8Sponges\u00a4Only animal to lack true tissue\u00a4Body perforated by pores\u00a4Interior canal contains flagellated cells\u00a4Filter feeder\u00a4Spicule structure  used for identification\u00a4Reproduce sexually and asexually\u00a8Comb Jellies\u00a4Solitary, free swimming marine animal\u00a4Use beating cilia to movenA few cm to 1.5 m in length\u00a4Body made of transparent jellylike substance \u2013mesoglea\u00a4Most do not have stinging properties; adhere to prey\u00a4Some bioluminescent\u00a8Cnidarians\u00a4Most have stinging cells \u2013cnidocytes\u00a42 layered sac (internal is digestive cavity)nAlso serves as hydrostatic skeleton\u00a4Body form polyp-cup up; medusa-cup down\u00a4Sea anemone, coral, hydrozoans, jellyfish, hydra",
+  "explanation": "This slide covers simple invertebrates and Radiata. Sponges are the only animals that lack true tissue; they are filter feeders with porous bodies, interior canals lined with flagellated cells, and structural spicules used for species identification. Sponges reproduce both sexually and asexually. Comb Jellies are solitary, free-swimming marine animals (a few cm to 1.5 m long) that move using beating cilia; their body is made of transparent mesoglea, they lack stinging properties (adhering to prey instead), and some are bioluminescent. Cnidarians have stinging cells called cnidocytes, and a body structured as a two-layered sac (the internal digestive cavity also acts as a hydrostatic skeleton). Their body forms are polyp (cup facing up) or medusa (cup facing down), and examples include sea anemone, coral, hydrozoans, jellyfish, and hydra.",
+  "questions": [
+    {
+      "q": "Which animal group is unique in having no true tissues?",
+      "opts": [
+        "Comb Jellies",
+        "Sponges",
+        "Cnidarians",
+        "Platyhelminthes"
+      ],
+      "a": 1,
+      "exp": "The notes state that Sponges are the 'Only animal to lack true tissue'."
+    },
+    {
+      "q": "What structures do comb jellies use for locomotion, and what substance forms their body?",
+      "opts": [
+        "Flagella; chitin",
+        "Beating cilia; transparent mesoglea",
+        "Pseudopods; calcium carbonate",
+        "Jointed legs; cuticle"
+      ],
+      "a": 1,
+      "exp": "The notes state that comb jellies 'Use beating cilia to move' and have a 'Body made of transparent jellylike substance \u2013 mesoglea'."
+    },
+    {
+      "q": "What are the two body forms of cnidarians, and which cell type is characteristic of them?",
+      "opts": [
+        "Stolon and Rhizoid; choanoflagellates",
+        "Polyp (cup up) and Medusa (cup down); cnidocytes",
+        "Ossicle and Spicule; filopodia",
+        "Bivalve and Gastropod; conidia"
+      ],
+      "a": 1,
+      "exp": "The notes state that cnidarians have 'stinging cells \u2013 cnidocytes' and their body forms are 'polyp-cup up; medusa-cup down'."
+    }
+  ]
+}

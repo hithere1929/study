@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 51,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 36,
+  "slide_title": "Cell Wall",
+  "original_text": "Cell Wall\nRigid layer outside the plasma membrane\nComposed of the carbohydrate, cellulose\nEmbedded in matrix of proteins and other carbohydrates that form rigid box around each cell\nPores in cell wall allow water, ions, some molecules to be transported in and out of the cell",
+  "explanation": "The cell wall is a rigid structural layer located outside the plasma membrane in plant cells. It is composed primarily of the complex carbohydrate cellulose, which is embedded within a matrix of proteins and other carbohydrates, forming a protective, rigid box around each cell. Pores within the cell wall allow for the free transport of water, ions, and small molecules into and out of the cell.",
+  "questions": [
+    {
+      "q": "What carbohydrate is the primary structural component of the plant cell wall?",
+      "opts": [
+        "Starch",
+        "Glycogen",
+        "Cellulose",
+        "Chitin"
+      ],
+      "a": 2,
+      "exp": "The cell wall is rigid and composed of the carbohydrate cellulose, embedded in a matrix of proteins and other carbohydrates."
+    }
+  ]
+}

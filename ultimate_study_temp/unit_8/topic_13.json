@@ -1,0 +1,30 @@
+{
+  "id": "u8_t13",
+  "title": "ETC role",
+  "cheat_card": [
+    "The ETC is located in the mitochondrial <b>cristae</b> in eukaryotes and the <b>plasma membrane</b> in aerobic prokaryotes.",
+    "Electrons from <b>NADH and FADH2</b> flow down a series of carriers, including <b>cytochromes</b> (proteins with central iron-containing heme groups).",
+    "<b>Oxygen</b> serves as the <b>final electron acceptor</b>, combining with $H^+$ to form <b>water ($H_2O$)</b>.",
+    "Hydrogens from <b>NADH</b> deliver energy to yield <b>3 ATP</b>, while those from <b>FADH2</b> yield <b>2 ATP</b>.",
+    "Without oxygen, coenzymes cannot be recycled back to $NAD^+$ and $FAD$, bringing aerobic respiration to a halt."
+  ],
+  "memory_anchor": "ETC Carriers:\nNADH -> Complex I -> 3 ATP\nFADH2 -> Complex II -> 2 ATP\nCytochromes (Heme/Iron) -> Oxygen (Final Acceptor) -> H2O",
+  "flashcards": [
+    {
+      "q": "What are cytochromes, and where are they located within eukaryotic cells?",
+      "q_id": "u8_t13_f1",
+      "a": "Cytochromes are electron carrier proteins containing heme groups with central iron atoms. They form part of the electron transport chain located in the cristae (inner membrane) of the mitochondria."
+    },
+    {
+      "q": "Explain why oxygen is crucial for the continuous recycling of NAD+ and FAD coenzymes in cellular respiration.",
+      "q_id": "u8_t13_f2",
+      "a": "Oxygen acts as the final electron acceptor at the end of the ETC. Without oxygen to accept electrons and combine with hydrogen ions, NADH and FADH2 cannot dump their electrons, halting their recycling back into NAD+ and FAD."
+    },
+    {
+      "q": "Why do NADH and FADH2 molecules yield different amounts of ATP when they donate electrons to the ETC?",
+      "q_id": "u8_t13_f3",
+      "a": "NADH enters the ETC at an earlier complex (higher energy state), allowing it to pump more protons and yield 3 ATP, whereas FADH2 enters later (lower energy state), yielding only 2 ATP."
+    }
+  ],
+  "outline_blanks": "The electron transport chain, located in the mitochondrial [[cristae]], receives electrons from NADH and FADH2. These electrons are passed along carrier proteins, including iron-containing [[cytochromes]]. The final electron acceptor is [[oxygen]], which combines with hydrogen ions to form water."
+}

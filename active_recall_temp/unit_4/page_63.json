@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 63,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 12,
+  "slide_title": "Eukaryotic Regulation¨With few exceptions, every cell of a eukaryote has a full compliment of chromosomes and DNA¨Difference in cell type determined by the different genes that are active and expressed in a cell¨5 levels of control in eukaryotic cells1.Chromatin2.Transcriptional Control3.Post-Transcriptional Control4.Translational Control5.Post-Translational Control\nRegulation in Nucleus}Regulation in Cytoplasm}",
+  "original_text": "Eukaryotic Regulation¨With few exceptions, every cell of a eukaryote has a full compliment of chromosomes and DNA¨Difference in cell type determined by the different genes that are active and expressed in a cell¨5 levels of control in eukaryotic cells1.Chromatin2.Transcriptional Control3.Post-Transcriptional Control4.Translational Control5.Post-Translational Control\nRegulation in Nucleus}Regulation in Cytoplasm}",
+  "explanation": "In eukaryotic multicellular organisms, with very few exceptions, every cell contains a full complement of chromosomes and identical DNA. The differences between cell types (differentiation) are determined by which specific genes are active and expressed in each cell. Eukaryotic gene expression is regulated at five distinct levels of control. The first three levels—chromatin structure, transcriptional control, and post-transcriptional control—occur inside the nucleus. The final two levels—translational control and post-translational control—take place in the cytoplasm.",
+  "questions": [
+    {
+      "q": "What determines the differences between different cell types in a eukaryotic organism, given that all cells contain the same DNA?",
+      "opts": [
+        "Differences in the total number of chromosomes in each cell",
+        "Which specific genes are active and expressed in each cell",
+        "The amount of ATP produced in each cell's cytoplasm",
+        "The size of the nuclear envelope in different tissues"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'Difference in cell type determined by the different genes that are active and expressed in a cell.' Option A is incorrect because with few exceptions, every cell has a full complement of chromosomes. Options C and D are incorrect."
+    },
+    {
+      "q": "Which eukaryotic regulatory levels of control occur specifically inside the nucleus?",
+      "opts": [
+        "Translational and Post-Translational Control",
+        "Chromatin, Transcriptional, and Post-Transcriptional Control",
+        "All 5 levels of control",
+        "Only Chromatin structure control"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide brackets Chromatin, Transcriptional Control, and Post-Transcriptional Control as 'Regulation in Nucleus', while Translational and Post-Translational Control are 'Regulation in Cytoplasm'. Option A is cytoplasm, and Option C and D are incorrect groupings."
+    }
+  ]
+}

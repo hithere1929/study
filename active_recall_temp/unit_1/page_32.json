@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 32,
+  "filename": "Unit_1_2.txt",
+  "section_title": "Intro to Biology",
+  "page_num_in_file": 19,
+  "slide_title": "Organizing Diversity",
+  "original_text": "http://3ubio.weebly.com/taxonomy.html",
+  "explanation": "This slide contains a link to an external resource (http://3ubio.weebly.com/taxonomy.html) that contains content regarding taxonomy and classification.",
+  "questions": [
+    {
+      "q": "What web address is listed on the slide for taxonomy resources?",
+      "opts": [
+        "http://3ubio.weebly.com/taxonomy.html",
+        "http://biology.com/taxonomy",
+        "http://queenanbio.weebly.com",
+        "http://taxonomy-guide.org"
+      ],
+      "a": 0,
+      "exp": "The page content lists: 'http://3ubio.weebly.com/taxonomy.html'."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 37,
+  "filename": "Unit_5_2.txt",
+  "section_title": "How Populations Evolve",
+  "page_num_in_file": 16,
+  "slide_title": "Genes, Populations, & Evolution",
+  "original_text": "Genes, Populations, & Evolution\n\u00a8Causes of Microevolution\n\u00a8Nonrandom Mating\n\u00a4When individuals do not choose mates randomly\n\u00a4Assortative mating:\n  nInidividuals select mates with the same phenotype with respect to a certain characteristic\n  nIndividuals reject mates with differing phenotype\n  nEx. Mating for desired features such as body size, feather length, coat color\n\u00a8Natural selection is the last criteria, and how it works within populations will be discussed in detail",
+  "explanation": "Nonrandom mating is a major driver of microevolution. It occurs when individuals do not select mates randomly from the population. A key form of nonrandom mating is assortative mating, in which individuals selectively choose mates that share the same phenotype for a particular characteristic while rejecting mates with differing phenotypes. Examples include animals selecting partners based on specific physical features such as body size, feather length, or coat color. This selects against phenotypic diversity for those specific traits. The slide introduces natural selection as the final mechanism of microevolution, to be discussed in detail next.",
+  "questions": [
+    {
+      "q": "What is assortative mating?",
+      "opts": [
+        "When individuals select mates with the same phenotype for a certain characteristic",
+        "When mating is determined entirely by geographic proximity",
+        "When individuals select mates with completely different phenotypes",
+        "When individuals mutate their genes to match their mate's phenotype"
+      ],
+      "a": 0,
+      "exp": "Assortative mating is a form of nonrandom mating where individuals choose mates that share similar phenotypes for a specific trait, rejecting those that differ."
+    },
+    {
+      "q": "Which of the following is an example of assortative mating?",
+      "opts": [
+        "Random dispersion of seeds by wind",
+        "An animal selecting a mate based on a matching coat color or body size",
+        "A population undergoing sudden genetic drift due to a bottleneck",
+        "Bacteria developing resistance to antibiotics"
+      ],
+      "a": 1,
+      "exp": "Mating based on preferred matching traits like body size, coat color, or feather length is a classic example of assortative mating."
+    }
+  ]
+}

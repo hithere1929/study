@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 81,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 32,
+  "slide_title": "Cell Signaling Pathway That Stimulates an Oncogene",
+  "original_text": "Cell Signaling Pathway That Stimulates an Oncogene",
+  "explanation": "This slide visually displays a cell signaling pathway that stimulates an oncogene. This pathway demonstrates how external growth factors and signaling cascades can lead to abnormal expression or activation of oncogenes, driving uncontrolled cell division.",
+  "questions": [
+    {
+      "q": "What biological pathway is represented in the diagram on this page?",
+      "opts": [
+        "Cell signaling pathway that stimulates a mutated tumor suppressor gene",
+        "Cell signaling pathway that stimulates an oncogene",
+        "The pathway of chromatin remodeling via histone acetylation",
+        "The pathway of translation inhibition by microRNAs"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide title is 'Cell Signaling Pathway That Stimulates an Oncogene'. The other options refer to different pathways."
+    }
+  ]
+}

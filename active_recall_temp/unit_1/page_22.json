@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 22,
+  "filename": "Unit_1_2.txt",
+  "section_title": "Intro to Biology",
+  "page_num_in_file": 9,
+  "slide_title": "Characteristics of Life",
+  "original_text": "Characteristics of Life\n4.Living things respond\u2013Interact with environment\u2013Interact with other living things\u2013Examples\u2013Locomotion towards or away from chemical in unicellular organisms\u2013Migration of birds based on season\u2013Plants leaves moving towards the sun\u2013https://youtu.be/z0I3174S8Xg",
+  "explanation": "This slide describes the fourth characteristic of life: living things respond. Organisms interact with their environment and other living things. Examples of responses include unicellular organisms showing locomotion towards or away from a chemical stimulus, seasonal migration of birds, and plant leaves moving towards the sun (phototropism).",
+  "questions": [
+    {
+      "q": "Which of the following is an example of an organism responding to its environment as mentioned on the slide?",
+      "opts": [
+        "A single cell undergoing cell division to create identical offspring",
+        "Plants moving their leaves towards the sun",
+        "Storing food in a lab refrigerator",
+        "A hot plate heating glassware"
+      ],
+      "a": 1,
+      "exp": "The slide provides 'Plants leaves moving towards the sun' as an example of response."
+    }
+  ]
+}

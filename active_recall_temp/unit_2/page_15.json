@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 15,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 15,
+  "slide_title": "2-1: Chemical Bonds -Ionic",
+  "original_text": "2-1: Chemical Bonds -Ionic",
+  "explanation": "This slide serves as a visual placeholder or separator illustrating ionic bonding.",
+  "questions": [
+    {
+      "q": "What topic does this placeholder slide represent?",
+      "opts": [
+        "Covalent Bonds",
+        "Ionic Bonds",
+        "Atomic Structure",
+        "Water Chemistry"
+      ],
+      "a": 1,
+      "exp": "The slide title is '2-1: Chemical Bonds -Ionic'."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 3,
+  "filename": "Unit_7_1.txt",
+  "section_title": "Plant Structure & Organization",
+  "page_num_in_file": 3,
+  "slide_title": "Organs of Flowering Plants",
+  "original_text": "Organs of Flowering Plants We will be using the flowering plant as our model for understanding plant structure and organization. Most flowering plants have a root system (made of the roots) and a shoot system (made of stem and leaves) Most typical plants feature 3 vegetative organs, concerned with growth and nutrition Roots, stems, leaves Flowers, seeds and fruits are involved with reproduction, not growth and nutrition.",
+  "explanation": "Flowering plants serve as the standard model for studying plant structure and organization. The body of a flowering plant is divided into two primary systems: the root system (comprising the roots) and the shoot system (comprising the stem and leaves). The plant possesses three vegetative organs that are responsible for growth and nutrition: the roots, stems, and leaves. Other plant organs, specifically flowers, seeds, and fruits, are specialized structures involved in reproduction rather than vegetative growth or nutrition.",
+  "questions": [
+    {
+      "q": "Which of the following is considered a vegetative organ of a plant concerned with growth and nutrition?",
+      "opts": [
+        "Flower",
+        "Leaf",
+        "Fruit",
+        "Seed"
+      ],
+      "a": 1,
+      "exp": "The three vegetative organs concerned with plant growth and nutrition are the roots, stems, and leaves. Flowers, fruits, and seeds are involved in reproduction."
+    },
+    {
+      "q": "What are the two primary systems that make up the structure of a flowering plant?",
+      "opts": [
+        "The primary system and the secondary system",
+        "The vascular system and the ground system",
+        "The root system and the shoot system",
+        "The vegetative system and the reproductive system"
+      ],
+      "a": 2,
+      "exp": "Most flowering plants are structurally organized into a root system (roots) and a shoot system (stems and leaves)."
+    }
+  ]
+}

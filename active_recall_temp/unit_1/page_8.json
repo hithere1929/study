@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 8,
+  "filename": "Unit_1_1.txt",
+  "section_title": "Lab Safety",
+  "page_num_in_file": 8,
+  "slide_title": "Basic Lab Safety",
+  "original_text": "Basic Lab Safety",
+  "explanation": "This slide is titled 'Basic Lab Safety' and contains no body text, functioning as a separator or slide heading within the lab safety presentation.",
+  "questions": [
+    {
+      "q": "What slide title is listed on Unit 1, page 8?",
+      "opts": [
+        "Emergency Procedures",
+        "Chemical Safety",
+        "Basic Lab Safety",
+        "Safety Symbols"
+      ],
+      "a": 2,
+      "exp": "The heading of the slide is 'Basic Lab Safety'."
+    }
+  ]
+}

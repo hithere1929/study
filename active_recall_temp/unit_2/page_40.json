@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 40,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 4,
+  "slide_title": "Properties of Carbon",
+  "original_text": "Properties of Carbon¨Carbon:¤4 electrons in valence orbital –needs 8to be stable¤Can form up to 4 covalent bonds with other elements¤Unlike other elements, can bond with other carbon atoms\nForms straight chains, branched chains or rings\nResults in wide variety of organic compounds",
+  "explanation": "Carbon has unique chemical properties that allow for structural diversity. It has 4 electrons in its valence orbital, meaning it requires 4 more electrons to reach a stable octet of 8. As a result, carbon can form up to 4 covalent bonds with other elements. Unlike most other elements, carbon can bond readily with other carbon atoms, forming straight chains, branched chains, or closed ring structures. This versatile bonding capability results in a vast variety of organic compounds.",
+  "questions": [
+    {
+      "q": "How many covalent bonds can a single carbon atom form with other atoms?",
+      "opts": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "a": 3,
+      "exp": "Because carbon has 4 valence electrons and needs 8 for stability, it can form up to 4 covalent bonds."
+    },
+    {
+      "q": "What structures can carbon atoms form by bonding to other carbon atoms?",
+      "opts": [
+        "Only straight lines",
+        "Only rings",
+        "Straight chains, branched chains, or rings",
+        "Only crystal lattices like table salt"
+      ],
+      "a": 2,
+      "exp": "Carbon's unique bonding allows it to link with other carbon atoms to form straight chains, branched chains, or rings."
+    }
+  ]
+}

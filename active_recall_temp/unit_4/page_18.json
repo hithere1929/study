@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 18,
+  "filename": "Unit_4_2.txt",
+  "section_title": "DNA Structure",
+  "page_num_in_file": 4,
+  "slide_title": "DNA Nucleotides",
+  "original_text": "DNA Nucleotides\nPhosphategroup\nSugar(deoxyribose)DNA nucleotide\nThymine(T)\nNitrogenous base(can be A, G, C, or T)",
+  "explanation": "This slide displays a schematic diagram of a single DNA nucleotide. It labels the three main components: the phosphate group (represented as a circle), the 5-carbon sugar deoxyribose (represented as a pentagon), and a nitrogenous base, which in this diagram is thymine (T) but can also be adenine (A), guanine (G), or cytosine (C).",
+  "questions": [
+    {
+      "q": "In the diagram of a DNA nucleotide, which component is represented as a pentagon?",
+      "opts": [
+        "The phosphate group",
+        "The nitrogenous base",
+        "Deoxyribose sugar",
+        "An amino acid"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the 5-carbon sugar deoxyribose is represented by the 5-sided pentagon shape in nucleotide diagrams. The phosphate group is represented as a circle (Option A) and the nitrogenous base as a nitrogen-containing ring structure (Option B)."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 8,
+  "page": 59,
+  "filename": "Unit_8_4.txt",
+  "section_title": "Photosynthesis",
+  "page_num_in_file": 6,
+  "slide_title": "Plants as Solar Energy Converters¨Pigments¤Chemicals that absorb certain wavelengths of light¤Wavelengths that are not absorbed are reflected/transmitted¤Absorption SpectrumnPigments found in chlorophyll absorb various portions of visible lightnGraph showing relative absorption of the various colors of the rainbownChlorophyll is green because it absorbs much of the reds and blues of white light",
+  "original_text": "Plants as Solar Energy Converters¨Pigments¤Chemicals that absorb certain wavelengths of light¤Wavelengths that are not absorbed are reflected/transmitted¤Absorption SpectrumnPigments found in chlorophyll absorb various portions of visible lightnGraph showing relative absorption of the various colors of the rainbownChlorophyll is green because it absorbs much of the reds and blues of white light",
+  "explanation": "Pigments are chemical compounds that absorb specific wavelengths of light; any wavelengths they do not absorb are reflected or transmitted. An absorption spectrum is a graphical representation displaying the relative light absorption of various rainbow colors by a pigment. Chlorophyll appears green because it absorbs a large portion of the red and blue wavelengths of visible white light, while reflecting the green wavelengths back to our eyes.",
+  "questions": [
+    {
+      "q": "Why does chlorophyll appear green to the human eye?",
+      "opts": [
+        "It absorbs green wavelengths and reflects red and blue wavelengths.",
+        "It absorbs red and blue wavelengths and reflects green wavelengths.",
+        "It converts all visible light into green heat energy.",
+        "It lacks an absorption spectrum for visible light."
+      ],
+      "a": 1,
+      "exp": "The notes state that 'Chlorophyll is green because it absorbs much of the reds and blues of white light,' meaning green light is reflected or transmitted."
+    }
+  ]
+}

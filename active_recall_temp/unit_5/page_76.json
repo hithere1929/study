@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 76,
+  "filename": "Unit_5_4.txt",
+  "section_title": "Principles of Taxonomy & Systematics",
+  "page_num_in_file": 7,
+  "slide_title": "The Three Domain System",
+  "original_text": "The Three Domain System\n\u00a8Up until 20thcentury, only 2 kingdoms \u2013Plantae or Animalia\n\u00a4By 1969, 5 kingdoms considered to encompass all life\n\u00a4Sequencing of rRNA suggests that all organisms evolved along three distinct lineages,\n  nSo different they needed to be categorized in a level broader than kingdom\n\u00a8Domain Bacteria\n\u00a4Prokaryotic unicellular organisms that reproduce asexually.\n\u00a4Cyanobacteria are large photosynthetic prokaryotes.\n\u00a4Most bacteria are heterotrophic (break down organic remains)\n\u00a4Important in ecosystems -keeping chemical cycling going.\n\u00a4Some bacteria are parasitic and cause disease.",
+  "explanation": "Historically, classification systems evolved from recognizing only two kingdoms (Plantae and Animalia) up to the 20th century, to accepting a five-kingdom system by 1969. Later, sequencing of ribosomal RNA (rRNA) revealed that all life evolved along three distinct lineages that were so different they required a level of classification broader than kingdom: the Domain. Domain Bacteria contains prokaryotic, unicellular organisms that reproduce asexually. It includes cyanobacteria, which are large photosynthetic prokaryotes, and heterotrophic bacteria, which break down organic remains and are vital for sustaining chemical cycling in ecosystems. Some bacterial species are parasitic and cause disease.",
+  "questions": [
+    {
+      "q": "What molecular evidence led scientists to establish the three-domain system over the five-kingdom system?",
+      "opts": [
+        "Fossilized DNA footprints in Argentina",
+        "Sequencing of ribosomal RNA (rRNA)",
+        "Comparative anatomy of vertebrate limbs",
+        "Analysis of Hox gene activation timing"
+      ],
+      "a": 1,
+      "exp": "Sequencing of rRNA suggested that all organisms evolved along three distinct lineages that were genetically different enough to warrant a level broader than kingdom (domains)."
+    },
+    {
+      "q": "Which of the following is a key characteristic of organisms in Domain Bacteria?",
+      "opts": [
+        "They are multicellular eukaryotes.",
+        "They are prokaryotic unicellular organisms that reproduce asexually.",
+        "They all possess a membrane-bounded nucleus.",
+        "They reproduce exclusively through sexual reproduction."
+      ],
+      "a": 1,
+      "exp": "Domain Bacteria consists of prokaryotic, unicellular organisms that reproduce asexually."
+    }
+  ]
+}

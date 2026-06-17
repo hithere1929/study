@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 71,
+  "filename": "Unit_5_4.txt",
+  "section_title": "Principles of Taxonomy & Systematics",
+  "page_num_in_file": 2,
+  "slide_title": "Systemics Biology",
+  "original_text": "Systemics Biology\n\u00a8Taxonomyis the branch of biology concerned with identifying, naming, and classifying organisms.\n\u00a4A natural system of classification reflects the evolutionary history of organisms.\n\u00a4Naming and identifying organisms began with the Greeks and Romans.\n  nAristotle classified organisms into groups such as horses, birds, and oaks\n\u00a4In the Middle Ages, organisms were described using Latin names",
+  "explanation": "Taxonomy is the branch of biology dedicated to identifying, naming, and classifying living organisms. Modern taxonomy aims to build a natural system of classification that accurately reflects the evolutionary history (phylogeny) of organisms. The practice of identifying and naming species began with the ancient Greeks and Romans: Aristotle classified organisms into simple groups such as horses, birds, and oaks. In the Middle Ages, scientists continued this work by describing organisms using descriptive Latin names.",
+  "questions": [
+    {
+      "q": "What is taxonomy?",
+      "opts": [
+        "The study of the geographic range of plants and animals",
+        "The branch of biology concerned with identifying, naming, and classifying organisms",
+        "The process where double chromosomes are created in plants",
+        "The reconstruction of ancient fossil layers in Argentina"
+      ],
+      "a": 1,
+      "exp": "Taxonomy is defined as the branch of biology concerned with identifying, naming, and classifying organisms."
+    },
+    {
+      "q": "Who was one of the first historical figures to classify organisms into groups like horses, birds, and oaks?",
+      "opts": [
+        "Carolus Linnaeus",
+        "Charles Darwin",
+        "Aristotle",
+        "Charles Lyell"
+      ],
+      "a": 2,
+      "exp": "The notes mention that naming and identifying organisms began with the Greeks and Romans, and Aristotle classified organisms into groups like horses, birds, and oaks."
+    }
+  ]
+}

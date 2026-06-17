@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 41,
+  "filename": "Unit_4_3.txt",
+  "section_title": "DNA Replication, Transcription, Translation",
+  "page_num_in_file": 14,
+  "slide_title": "DNA molecule",
+  "original_text": "DNA molecule\nGene 2\nGene 1\nGene 3DNA\nRNA\nAmino acid\nCodon\nTranscription\nTranslationPolypeptide\nA  AACC  G   GCA   AAA\nU  UUGG  C   CG   UUU  U",
+  "explanation": "This slide illustrates the molecular relationship between DNA, RNA, codons, amino acids, and the resulting polypeptide chain. A DNA molecule contains multiple genes (labeled Gene 1, Gene 2, Gene 3). During transcription, DNA is transcribed into an RNA intermediate. In translation, three-letter nucleotide sequences on the RNA, known as codons, are read to arrange specific amino acids into a growing polypeptide chain.",
+  "questions": [
+    {
+      "q": "What is the sequence of three nucleotides on mRNA that specifies a particular amino acid?",
+      "opts": [
+        "Anticodon",
+        "Codon",
+        "Promoter",
+        "Exon"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide shows that the triplets on RNA that correspond to amino acids are called codons. Anticodons are on tRNA, promoters are DNA regions where transcription starts, and exons are coding regions of mRNA."
+    }
+  ]
+}

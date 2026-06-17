@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 116,
+  "filename": "Unit_2_4.txt",
+  "section_title": "Metabolism",
+  "page_num_in_file": 19,
+  "slide_title": "ATP",
+  "original_text": "ATP¨Hydrolysis of ATP releases energy by transferring its third phosphate from ATP to some other molecule in a process called phosphorylation.¨Most cellular work depends on ATP energizing molecules by phosphorylating them.",
+  "explanation": "The hydrolysis of ATP (adenosine triphosphate) releases chemical energy. This energy release is achieved by transferring the third phosphate group from the ATP molecule to another target molecule, a chemical process known as phosphorylation. Most cellular work—such as chemical synthesis, active transport, and mechanical movement—depends on ATP energizing molecules by phosphorylating them, which alters their energy state or shape.",
+  "questions": [
+    {
+      "q": "What is the process of transferring a phosphate group from ATP to another molecule called?",
+      "opts": [
+        "Hydrolysis",
+        "Condensation",
+        "Phosphorylation",
+        "Dehydration synthesis"
+      ],
+      "a": 2,
+      "exp": "Phosphorylation is the specific term for transferring a phosphate group (usually from ATP) to another molecule to energize it."
+    },
+    {
+      "q": "How does ATP drive most cellular work?",
+      "opts": [
+        "By absorbing heat from the cell's surroundings.",
+        "By transferring its third phosphate group to another molecule (phosphorylating it) to energize it.",
+        "By breaking down proteins into simple sugars.",
+        "By converting kinetic energy into potential energy."
+      ],
+      "a": 1,
+      "exp": "Cells couple ATP hydrolysis to other reactions by transferring the released phosphate group to other molecules, which activates or energizes them to perform work."
+    }
+  ]
+}

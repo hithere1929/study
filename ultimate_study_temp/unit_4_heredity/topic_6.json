@@ -1,0 +1,28 @@
+{
+  "id": "u4_h_t6",
+  "title": "Mendelian Extensions",
+  "cheat_card": [
+    "<b>ABO blood types</b> exhibit <b>multiple alleles</b> ($I^A$, $I^B$, $i$) and <b>codominance</b>, where both $I^A$ and $I^B$ are fully expressed in an $I^A I^B$ individual (carrying both A and B antigens on red blood cells).",
+    "In <b>incomplete dominance</b>, heterozygotes display an intermediate phenotype, as in <b>Familial Hypercholesterolemia (FH)</b>, where heterozygotes suffer early adulthood heart attacks and mutant homozygotes have childhood heart attacks.",
+    "<b>Incomplete penetrance</b> occurs when a dominant allele does not always express the dominant phenotype in heterozygotes, as seen in <b>polydactyly</b> (extra digits).",
+    "<b>Pleiotropy</b> occurs when a single mutant gene affects multiple unrelated traits. In <b>Marfan syndrome</b>, a mutated <b>fibrillin gene (FBN1 on chromosome 15)</b> causes long limbs, a weakened aorta, and poor eyesight.",
+    "<b>Polygenic inheritance</b> (e.g., skin color, height) is governed by two or more genes whose dominant alleles have an additive, quantitative effect on phenotype, creating continuous variation.",
+    "<b>X-linked recessive disorders</b> (e.g., color blindness, <b>Menkes syndrome</b> affecting copper transport, <b>hemophilia</b> lacking clotting factors VIII/IX) affect males more because they are <b>hemizygous</b> (having only one X chromosome)."
+  ],
+  "memory_anchor": "### Non-Mendelian Inheritance Patterns\n\n| Pattern | Description | Key Genetic Example |\n| :--- | :--- | :--- |\n| **Codominance** | Both alleles are fully and independently expressed | **ABO Blood Type** ($I^A I^B$) |\n| **Incomplete Dominance** | Heterozygote displays an intermediate phenotype | **Familial Hypercholesterolemia** |\n| **Pleiotropy** | One gene mutation affects multiple unrelated traits | **Marfan Syndrome** (mutated *FBN1* gene) |\n| **Polygenic Inheritance** | Multiple genes have an additive effect on a single trait | **Human Skin Color** (continuous variation) |\n| **X-Linked Recessive** | Gene carried on X; males express it with one copy | **Hemophilia** & **Menkes Syndrome** (copper transport) |",
+  "flashcards": [
+    {
+      "q": "Why are males more frequently affected by X-linked recessive disorders than females, and what term describes their single-copy genotype state?",
+      "a": "Males have only one X chromosome (XY), whereas females have two (XX). If a male inherits a recessive mutant allele on his X chromosome, he has no second copy to mask it and will express the disorder. This single-copy state is called hemizygous."
+    },
+    {
+      "q": "Explain how Marfan Syndrome demonstrates pleiotropy, and identify the specific gene and chromosome mutation responsible.",
+      "a": "Marfan Syndrome is caused by a mutation in the fibrillin gene (FBN1) on chromosome 15, which codes for connective tissue. This single genetic defect affects multiple, seemingly unrelated systems: causing disproportionately long limbs/hands/feet, a weakened aorta (cardiovascular), and poor eyesight."
+    },
+    {
+      "q": "How do codominance and incomplete dominance differ in their heterozygous phenotypes? Provide an example of each.",
+      "a": "In codominance, both alleles are fully and simultaneously expressed (e.g., AB blood type where both A and B antigens are present on red blood cells). In incomplete dominance, the heterozygote expresses a blended, intermediate phenotype between the two homozygotes (e.g., pink snapdragons from red and white parents, or intermediate cholesterol levels in Familial Hypercholesterolemia)."
+    }
+  ],
+  "outline_blanks": "ABO blood types are determined by [[multiple alleles]] and demonstrate [[codominance]] when both A and B antigens are expressed. In [[incomplete dominance]], the heterozygote exhibits an intermediate phenotype, whereas in [[incomplete penetrance]], the dominant allele is not always expressed. X-linked recessive disorders like [[hemophilia]] or [[Menkes syndrome]] affect males more because they are [[hemizygous]] for the X chromosome."
+}

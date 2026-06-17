@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 60,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 9,
+  "slide_title": "lac Operon¨lacOperon normally off, unless regulated¤Known as an inducible operon¤Lactose is an inducer of expression of the operon¤Inducible operons usually associated with catabolic operon¨No need to produce the enzymes to break down lactose into glucose when lactose not present in the environment¨When no lactose present, repressor binds to the promoter to stop expression of lacoperon¨When lactose present¤Lactose binds to repressor, causing it to change shape and fall off¤Leads to promoter being bound by RNA Polymerase¤Production of Beta-galactosidase, a permease, and transacetylase, all involved in lactose metabolism",
+  "original_text": "lac Operon¨lacOperon normally off, unless regulated¤Known as an inducible operon¤Lactose is an inducer of expression of the operon¤Inducible operons usually associated with catabolic operon¨No need to produce the enzymes to break down lactose into glucose when lactose not present in the environment¨When no lactose present, repressor binds to the promoter to stop expression of lacoperon¨When lactose present¤Lactose binds to repressor, causing it to change shape and fall off¤Leads to promoter being bound by RNA Polymerase¤Production of Beta-galactosidase, a permease, and transacetylase, all involved in lactose metabolism",
+  "explanation": "The lac operon is an inducible operon that is normally in an 'off' state (inactive) unless regulated. Inducible operons are typically associated with catabolic (breakdown) pathways. There is no need for the cell to produce enzymes to break down lactose into glucose when lactose is absent from the environment. Thus, in the absence of lactose, the repressor protein binds to the operator (referred to on slide as 'binds to the promoter' in one line, but let's follow the slide text which says: 'When no lactose present, repressor binds to the promoter to stop expression of lacoperon'). When lactose is present, it acts as an inducer. Lactose binds to the repressor protein, causing it to change shape and detach. This allows RNA polymerase to bind to the promoter and transcribe the structural genes. This transcription results in the production of three proteins involved in lactose metabolism: Beta-galactosidase, a permease, and transacetylase.",
+  "questions": [
+    {
+      "q": "What type of operon is the lac operon, and what molecule acts as its inducer?",
+      "opts": [
+        "Repressible operon; tryptophan",
+        "Inducible operon; lactose",
+        "Repressible operon; glucose",
+        "Inducible operon; galactose"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide defines the lac operon as an 'inducible operon' and states 'Lactose is an inducer of expression.' Tryptophan (Option A) is the co-repressor for the repressible trp operon."
+    },
+    {
+      "q": "Which of the following proteins are produced when the lac operon structural genes are expressed?",
+      "opts": [
+        "DNA polymerase and Helicase",
+        "Beta-galactosidase, a permease, and transacetylase",
+        "Histone H1, H2A, and H2B",
+        "Protease, RNase, and DNase"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states that expression leads to the 'Production of Beta-galactosidase, a permease, and transacetylase, all involved in lactose metabolism.' The other options are incorrect."
+    }
+  ]
+}

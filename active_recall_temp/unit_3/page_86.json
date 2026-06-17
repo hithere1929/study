@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 86,
+  "filename": "Unit_3_4.txt",
+  "section_title": "The Cell Cycle",
+  "page_num_in_file": 13,
+  "slide_title": "Mitosis -Metaphase",
+  "original_text": "Mitosis -Metaphase\nChromosomes most easily visible \nKaryotypes usually taken from metaphase cells\nKinetochore fibers move chromosomes to center of cell and hold them in place",
+  "explanation": "During metaphase, the chromosomes are highly condensed and aligned, making them most easily visible under a microscope. Consequently, karyotypes are typically photographed from cells during metaphase. In this phase, kinetochore fibers move the chromosomes to the center (equatorial plate) of the cell and hold them securely in place.",
+  "questions": [
+    {
+      "q": "Why are karyotypes (photomicrographs of chromosomes) usually taken from cells in metaphase?",
+      "opts": [
+        "Chromosomes are duplication-free in this phase.",
+        "Chromosomes are most easily visible and highly condensed.",
+        "The cell membrane is absent, making staining easier.",
+        "The chromosomes are clustered inside the nucleolus."
+      ],
+      "a": 1,
+      "exp": "During metaphase, chromosomes are most easily visible (which is why karyotypes are usually taken from cells in this phase) and are held at the cell center by kinetochore fibers."
+    }
+  ]
+}

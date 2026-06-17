@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 67,
+  "filename": "Unit_5_3.txt",
+  "section_title": "Speciation & Macroevolution",
+  "page_num_in_file": 18,
+  "slide_title": "Principles of Macroevolution",
+  "original_text": "Principles of Macroevolution\n\u00a8Developmental Genes and Macroevolution\n\u00a4Genes can bring about radical changes in body shapes and organs.\n\u00a4Gene expression can influence development\n  nA change in gene expression could stop a developmental process or continue it beyond its normal time.\n  nUsing modern technology, researchers discovered genes whose differential expression can bring about changes in body shapes and organs.\n    nPax6in eye development\n    nTbx5in limb development\n    nHoxgenes in development of overall shape",
+  "explanation": "Developmental genes play a key role in macroevolution because they control the timing and pattern of animal development. Changes in gene expression can cause radical alterations in body shape and organ structures by halting a developmental pathway early or extending it past its normal duration. Modern research has identified key regulatory genes whose differential expression drives these structural changes, including Pax6 (essential for eye development), Tbx5 (critical for limb development), and Hox genes (which orchestrate the overall developmental body shape in all animals).",
+  "questions": [
+    {
+      "q": "Which developmental gene is specifically associated with eye development based on the notes?",
+      "opts": [
+        "Hox",
+        "Tbx5",
+        "Pax6",
+        "Equus"
+      ],
+      "a": 2,
+      "exp": "The notes state that Pax6 is involved in eye development, while Tbx5 is involved in limb development and Hox genes direct overall shape."
+    },
+    {
+      "q": "How can changes in developmental gene expression lead to radical changes in body shapes?",
+      "opts": [
+        "By increasing the rate of physical erosion in the environment",
+        "By stopping a developmental process early or continuing it beyond its normal time",
+        "By forcing organisms to enter genetic equilibrium",
+        "By preventing any genetic mutations from occurring"
+      ],
+      "a": 1,
+      "exp": "The notes explain that gene expression can influence development: changes can stop a process or continue it beyond its normal timeframe, modifying organs and body shapes."
+    }
+  ]
+}

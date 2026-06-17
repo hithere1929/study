@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 7,
+  "filename": "Unit_5_1.txt",
+  "section_title": "Darwin & Evidence for Evolution",
+  "page_num_in_file": 7,
+  "slide_title": "History of Evolutionary Thought",
+  "original_text": "History of Evolutionary Thought\n¨Jean-Baptiste de Lamarck\n¤First biologist to propose a testable hypothesis that explained how evolution occurs via adaptation to environment\n¤Proposed more complex organisms descended from less complex\n¤Proposed idea of inheritance of acquired characteristics–Lamarckianism\nnIncorrectly thought these changes were a strive towards perfection\n¨Charles Lyell\n¤Earth is subject to slow but continuous cycles of erosion and uplift\n¤Proposed uniformitarianism, which states that rates and processes of change are constant",
+  "explanation": "Jean-Baptiste de Lamarck was the first biologist to present a testable hypothesis explaining evolution as adaptation to the environment. Lamarck proposed that complex organisms descend from simpler ancestors through the inheritance of acquired characteristics (Lamarckianism). He incorrectly believed organisms adapt dynamically during their lifetime and pass these modifications to offspring in an internal strive toward biological perfection. Charles Lyell, a key geological influence, observed that the Earth undergoes slow but continuous cycles of erosion and uplift. He proposed 'uniformitarianism,' which asserts that geological processes and their rates of change are constant throughout history, implying the Earth is very old.",
+  "questions": [
+    {
+      "q": "What mechanism did Jean-Baptiste de Lamarck propose to explain evolutionary adaptation?",
+      "opts": [
+        "Natural selection of genetic mutations",
+        "Inheritance of acquired characteristics",
+        "Catastrophic local events and repopulation",
+        "Uniform rates of geological erosion and uplift"
+      ],
+      "a": 1,
+      "exp": "Lamarck proposed the inheritance of acquired characteristics (Lamarckianism), incorrectly believing that traits acquired during an organism's lifetime could be inherited by its offspring."
+    },
+    {
+      "q": "What geological concept proposed by Charles Lyell states that rates and processes of geological change are constant?",
+      "opts": [
+        "Catastrophism",
+        "Lamarckianism",
+        "Uniformitarianism",
+        "Descent with modification"
+      ],
+      "a": 2,
+      "exp": "Charles Lyell proposed uniformitarianism, which states that the rates and processes of geological change (like erosion and uplift) remain constant over time."
+    }
+  ]
+}

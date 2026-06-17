@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 39,
+  "filename": "Unit_4_3.txt",
+  "section_title": "DNA Replication, Transcription, Translation",
+  "page_num_in_file": 12,
+  "slide_title": "Transcription/Translation Video",
+  "original_text": "Transcription/Translation Video\nProtein Synthesis –Transcription & Translation",
+  "explanation": "This page introduces a video showing the processes of transcription and translation, which are the two primary stages of protein synthesis.",
+  "questions": [
+    {
+      "q": "What are the two main stages of protein synthesis represented in the video title?",
+      "opts": [
+        "Replication and Mitosis",
+        "Transcription and Translation",
+        "Meiosis and Fertilization",
+        "Glycolysis and Krebs Cycle"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide title and content specify 'Protein Synthesis - Transcription & Translation.' The other options refer to other cellular processes."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 79,
+  "filename": "Unit_7_5.txt",
+  "section_title": "Animal Organization",
+  "page_num_in_file": 6,
+  "slide_title": "Types of Tissues: Glandular & Stratified Epithelia",
+  "original_text": "Types of Tissues Glandular Epithelia  secretes a product A glandcan be a single epithelial cell or can contain many cells Exocrine glands Secrete products into ducts or cavities Endocrine glands Secrete products directly into the bloodstream Pituitary, thyroid Stratified epithelia  Layers of cells  Only bottom layer touching basement membraned",
+  "explanation": "1) Glandular epithelia are specialized to secrete substances. Glands can be unicellular or multicellular, and are classified into: exocrine glands (which secrete products into ducts or internal cavities) and endocrine glands (which lack ducts and secrete hormones directly into the bloodstream, such as the pituitary and thyroid glands). 2) Stratified epithelia consist of multiple stacked layers of cells, where only the deepest (bottom) cell layer is in contact with the basement membrane.",
+  "questions": [
+    {
+      "q": "How do endocrine glands differ from exocrine glands?",
+      "opts": [
+        "Endocrine glands secrete products into ducts; exocrine glands secrete directly into the blood.",
+        "Endocrine glands secrete products directly into the bloodstream; exocrine glands secrete into ducts or cavities.",
+        "Endocrine glands are unicellular; exocrine glands are always multicellular.",
+        "Endocrine glands are found in stratified epithelia; exocrine in simple epithelia."
+      ],
+      "a": 1,
+      "exp": "Endocrine glands (e.g., pituitary, thyroid) secrete hormones directly into the bloodstream without ducts, while exocrine glands secrete into ducts or cavities."
+    },
+    {
+      "q": "What is the structural characteristic of stratified epithelia?",
+      "opts": [
+        "A single layer of cells, all touching the basement membrane",
+        "Cells embedded in an inorganic salt matrix",
+        "Multiple layers of cells, with only the bottom layer touching the basement membrane",
+        "Contractile cells containing intercalated disks"
+      ],
+      "a": 2,
+      "exp": "Stratified epithelia are composed of multiple layers of cells, where only the bottom-most layer touches the basement membrane."
+    }
+  ]
+}

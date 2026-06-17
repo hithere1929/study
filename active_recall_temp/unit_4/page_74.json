@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 74,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 25,
+  "slide_title": "Mutations",
+  "original_text": "Mutations",
+  "explanation": "This slide marks the beginning of the section on mutations in the 'Gene Expression' study unit.",
+  "questions": [
+    {
+      "q": "What is the title of the new subsection introduced on this slide?",
+      "opts": [
+        "Replication",
+        "Translation",
+        "Mutations",
+        "Epigenetics"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide title is simply 'Mutations'. The other choices are incorrect."
+    }
+  ]
+}

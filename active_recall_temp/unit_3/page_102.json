@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 102,
+  "filename": "Unit_3_5.txt",
+  "section_title": "Stem Cells & Cancer",
+  "page_num_in_file": 8,
+  "slide_title": "Control of the Cell Cycle",
+  "original_text": "Control of the Cell Cycle",
+  "explanation": "This page serves as a transition or title slide for Control of the Cell Cycle.",
+  "questions": [
+    {
+      "q": "What is the title of the slide shown on this page?",
+      "opts": [
+        "Control of the Cell Cycle",
+        "G1 Checkpoint",
+        "p53 Signaling",
+        "Cyclin Function"
+      ],
+      "a": 0,
+      "exp": "The slide is titled 'Control of the Cell Cycle'."
+    }
+  ]
+}

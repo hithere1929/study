@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 72,
+  "filename": "Unit_5_4.txt",
+  "section_title": "Principles of Taxonomy & Systematics",
+  "page_num_in_file": 3,
+  "slide_title": "Systemics Biology",
+  "original_text": "Systemics Biology\n\u00a8In the mid-eighteenth century, Carolus Linnaeus developed the system of binomial nomenclature\n\u00a4First word is the genus name\n\u00a4Second word is the specific epithet\n  nRefers to one species (of potentially many) within its genus\n\u00a4A species is referred to by the full binomial name (Genus species)\n\u00a4Genus name can be used alone to refer to a group of related species",
+  "explanation": "In the mid-eighteenth century, Carolus Linnaeus developed the system of binomial nomenclature, a standardized way to name species. Under this system, each organism is given a two-part scientific name: the first word is the Genus name (which is capitalized and can be used alone to refer to a group of closely related species), and the second word is the specific epithet (which is lowercase and refers to one specific species within that genus). A species must always be referred to by its full binomial name (Genus species).",
+  "questions": [
+    {
+      "q": "In binomial nomenclature, what do the first and second words of a scientific name represent?",
+      "opts": [
+        "Kingdom and Phylum",
+        "Genus and specific epithet",
+        "Family and Order",
+        "Domain and Species"
+      ],
+      "a": 1,
+      "exp": "In the binomial system, the first word is the genus name and the second word is the specific epithet."
+    },
+    {
+      "q": "How must a single species be formally referred to under Linnaeus's binomial system?",
+      "opts": [
+        "By the Genus name alone",
+        "By the specific epithet alone",
+        "By the full binomial name (Genus species)",
+        "By its English common name"
+      ],
+      "a": 2,
+      "exp": "A species must be referred to by its full binomial name, which includes both the capitalized Genus and the lowercase specific epithet."
+    }
+  ]
+}

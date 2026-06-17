@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 73,
+  "filename": "Unit_5_4.txt",
+  "section_title": "Principles of Taxonomy & Systematics",
+  "page_num_in_file": 4,
+  "slide_title": "Systemics Biology",
+  "original_text": "Systemics Biology\n\u00a8Who determines the scientific name? How are they derived?\n\u00a4Really up to the person who discovers a species that has not been previously named \u2013Latin used because it was considered universal\n  nAlligator mississippiensis\n    nAmerican Alligator, named for location\n  nStrigophilusgarylarsoni\n    nOwl mite, named after cartoonist Gary Larson\n\u00a8Modern taxonomists use the following classification:\n\u00a4Species\n\u00a4Genus\u2013one or more species\n\u00a4Family\u2013one or more genera\n\u00a4Order\u2013one or more families\n\u00a4Class\u2013one or more orders\n\u00a4Phylum\u2013one or more classes\n\u00a4Kingdom\u2013one or more phyla\n\u00a4Domain\u2013one or more kingdoms",
+  "explanation": "Scientific names are determined by the individual who first discovers and describes a previously unnamed species. Latin is used for these names because it was historically considered a universal language. Examples include Alligator mississippiensis (the American alligator, named for its location) and Strigophilus garylarsoni (an owl mite named in honor of cartoonist Gary Larson). Modern taxonomy organizes life into a nested hierarchy of categories. From the most specific to the most inclusive, these categories are: Species, Genus (containing one or more species), Family (containing one or more genera), Order (one or more families), Class (one or more orders), Phylum (one or more classes), Kingdom (one or more phyla), and Domain (one or more kingdoms).",
+  "questions": [
+    {
+      "q": "Why is Latin used for scientific names?",
+      "opts": [
+        "It is the only language with words for animals.",
+        "It was historically considered a universal language.",
+        "It was invented by Carolus Linnaeus.",
+        "It changes rapidly to match genetic mutations."
+      ],
+      "a": 1,
+      "exp": "Latin was chosen and maintained because it was considered a universal language for scholars across different countries."
+    },
+    {
+      "q": "Which of the following shows the correct order of taxonomic categories from most specific to most inclusive?",
+      "opts": [
+        "Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species",
+        "Species, Genus, Family, Order, Class, Phylum, Kingdom, Domain",
+        "Species, Family, Genus, Class, Order, Phylum, Domain, Kingdom",
+        "Genus, Species, Family, Order, Phylum, Class, Kingdom, Domain"
+      ],
+      "a": 1,
+      "exp": "The hierarchical order from most specific to most inclusive is Species, Genus, Family, Order, Class, Phylum, Kingdom, and Domain."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "u8_t15",
+  "title": "Bond energy",
+  "cheat_card": [
+    "<b>Catabolism</b> includes exergonic reactions that break down molecules; <b>anabolism</b> includes endergonic reactions that build them.",
+    "Breaking a phosphate bond in <b>ATP</b> releases <b>7.3 kcal/mol</b> of energy, which is used to power cellular work.",
+    "Complete oxidation of glucose yields <b>686 kcal</b>, released step-wise to capture energy efficiently as ATP.",
+    "Prior to entering respiration, proteins are broken into amino acids and undergo <b>deamination</b> in the liver, producing toxic <b>ammonia ($NH_3$)</b>.",
+    "Adult humans can synthesize 11 of 20 amino acids; the other <b>9 essential amino acids</b> must be consumed in the diet."
+  ],
+  "memory_anchor": "Amino Acid Breakdown:\nDeamination (in liver) -> Amino Group ($NH_2$) removed -> Ammonia ($NH_3$, toxic) -> Urea (excreted). Remaining carbon skeleton enters glycolysis/Krebs.",
+  "flashcards": [
+    {
+      "q": "Contrast catabolic (degradative) and anabolic (synthetic) reactions in terms of energy consumption and release.",
+      "q_id": "u8_t15_f1",
+      "a": "Catabolic reactions are exergonic (they break down molecules and release energy), whereas anabolic reactions are endergonic (they build molecules and consume energy)."
+    },
+    {
+      "q": "Explain the process of deamination of amino acids, including where it occurs and its toxic byproducts.",
+      "q_id": "u8_t15_f2",
+      "a": "Deamination is the removal of the amino group (NH2) from amino acids, occurring in the liver. It produces highly toxic ammonia (NH3), which the liver rapidly converts to less harmful urea for excretion."
+    },
+    {
+      "q": "What are essential amino acids, and how many must be obtained directly from the diet of an adult human?",
+      "q_id": "u8_t15_f3",
+      "a": "Essential amino acids are amino acids that cannot be synthesized by the body and must be consumed. Adult humans can synthesize 11 amino acids but must obtain the remaining 9 essential amino acids from their diet."
+    }
+  ],
+  "outline_blanks": "Metabolic pathways are divided into exergonic catabolism and endergonic [[anabolism]]. When glucose is catabolized, it yields 686 kcal, part of which is stored in ATP phosphate bonds that release [[7.3]] kcal/mol when broken. Excess proteins undergo [[deamination]] in the liver to remove amino groups, producing toxic ammonia before their carbon chains are oxidized."
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 28,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 13,
+  "slide_title": "Ribosome Structure",
+  "original_text": "Ribosome Structure",
+  "explanation": "This page is a placeholder or title slide for Ribosome Structure.",
+  "questions": [
+    {
+      "q": "What is the title of the slide shown on this page?",
+      "opts": [
+        "Ribosome Structure",
+        "Endoplasmic Reticulum",
+        "Protein Synthesis",
+        "Lysosomes"
+      ],
+      "a": 0,
+      "exp": "The slide is titled 'Ribosome Structure'."
+    }
+  ]
+}

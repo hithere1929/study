@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 84,
+  "filename": "Unit_6_7.txt",
+  "section_title": "Vertebrates",
+  "page_num_in_file": 5,
+  "slide_title": "Vertebrate Characteristics\u00a8Have same 4 characteristics as non-vertebrates as embryos, but also all share other characteristics\u00a4Vertebral column \u2013replaces the notochord\u00a4Skull\u2013contains brain and houses other sensory features\u00a4Endoskeleton\u2013living tissue that grows with the organism, protects organs, anchor for muscles\u00a4Internal organs \u2013large coelom and complete digestive tract, closed circulatory system, respiration using lungs or gills, sexes generally separate, with sexual reproduction\u00a8Evolution\u00a4Most likely began with jawless fish\u00a4Fish then developed jaws\u00a4Amphibians most likely first terrestrial organisms with limbs, and reproduced and lived partial lives in aquatic environments\u00a4Reptiles first fully adapted to land, and first organisms to have amniotic eggs. Also have watertight skin\u00a4Birds and mammals evolved further from there",
+  "original_text": "Vertebrate Characteristics\u00a8Have same 4 characteristics as non-vertebrates as embryos, but also all share other characteristics\u00a4Vertebral column \u2013replaces the notochord\u00a4Skull\u2013contains brain and houses other sensory features\u00a4Endoskeleton\u2013living tissue that grows with the organism, protects organs, anchor for muscles\u00a4Internal organs \u2013large coelom and complete digestive tract, closed circulatory system, respiration using lungs or gills, sexes generally separate, with sexual reproduction\u00a8Evolution\u00a4Most likely began with jawless fish\u00a4Fish then developed jaws\u00a4Amphibians most likely first terrestrial organisms with limbs, and reproduced and lived partial lives in aquatic environments\u00a4Reptiles first fully adapted to land, and first organisms to have amniotic eggs. Also have watertight skin\u00a4Birds and mammals evolved further from there",
+  "explanation": "Vertebrates possess the same 4 chordate characteristics as nonvertebrates in their embryonic stages, but additionally share: 1) a Vertebral column that replaces the embryonic notochord; 2) a Skull enclosing the brain and sensory organs; 3) an Endoskeleton of living tissue that grows with the organism, protecting organs and anchoring muscles; and 4) complex Internal organs (large coelom, complete digestive tract, closed circulatory system, lungs or gills, and separate sexes reproducing sexually). Evolutionarily, vertebrates began with jawless fish, followed by jawed fish. Amphibians were the first terrestrial organisms with limbs, reproducing in water. Reptiles were the first to fully adapt to land, developing amniotic eggs and watertight skin. Birds and mammals evolved further from reptilian lineages.",
+  "questions": [
+    {
+      "q": "What replaces the embryonic notochord in adult vertebrates?",
+      "opts": [
+        "The skull",
+        "The vertebral column",
+        "The nerve cord",
+        "The endoskeleton"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Vertebral column \u2013 replaces the notochord'."
+    },
+    {
+      "q": "Which group was the first to fully adapt to land, developing watertight skin and amniotic eggs?",
+      "opts": [
+        "Amphibians",
+        "Reptiles",
+        "Lobe-finned fish",
+        "Mammals"
+      ],
+      "a": 1,
+      "exp": "According to the notes, 'Reptiles first fully adapted to land, and first organisms to have amniotic eggs. Also have watertight skin'."
+    },
+    {
+      "q": "What is unique about a vertebrate endoskeleton compared to arthropod exoskeletons?",
+      "opts": [
+        "It is made of chitin and must be shed periodically.",
+        "It is a living tissue that grows with the organism.",
+        "It completely lacks bone or cartilage.",
+        "It is secreted outside the epithelial cells."
+      ],
+      "a": 1,
+      "exp": "The notes define the endoskeleton as 'living tissue that grows with the organism, protects organs, anchor for muscles'."
+    }
+  ]
+}

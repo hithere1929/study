@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 168,
+  "filename": "Unit_7_9.txt",
+  "section_title": "Sense Organs",
+  "page_num_in_file": 8,
+  "slide_title": "Sense of Vision: Focusing & Accommodation",
+  "original_text": "Sense of Vision Focusing of the Eye Light rays pass through the pupil and are focused on the retina Focusing starts at the cornea and continues as rays pass through the lens, which provides visual accommodation Shape of lens is controlled by the ciliary muscle Distant object  ciliary muscle is relaxed Near object  ciliary muscle is contracted",
+  "explanation": "Light rays pass through the pupil and are focused on the retina. Refraction begins at the cornea and continues as the rays pass through the lens, which performs visual accommodation (adjusting shape to focus on objects at different distances). The lens's shape is controlled by the ciliary muscle: 1) for distant objects, the ciliary muscle relaxes, flattening the lens; 2) for near objects, the ciliary muscle contracts, rounding the lens.",
+  "questions": [
+    {
+      "q": "What muscle controls the shape of the lens for visual accommodation?",
+      "opts": [
+        "Somatic skeletal muscle",
+        "Ciliary muscle",
+        "Cardiac muscle fibers",
+        "Iris sphincter muscle"
+      ],
+      "a": 1,
+      "exp": "The ciliary muscle, a ring of smooth muscle in the ciliary body, controls the shape and curvature of the lens."
+    },
+    {
+      "q": "What is the state of the ciliary muscle when focusing on a near object?",
+      "opts": [
+        "It is relaxed, causing the lens to flatten.",
+        "It is contracted, causing the lens to become rounder.",
+        "It is completely inactivated by the sympathetic division.",
+        "It is undergoing rapid spasms like in asthma."
+      ],
+      "a": 1,
+      "exp": "Focusing on near objects requires the ciliary muscle to contract, allowing the lens to become more rounded and increase its refractive power."
+    }
+  ]
+}

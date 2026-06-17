@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 123,
+  "filename": "Unit_8_7.txt",
+  "section_title": "Conservation of Biodiversity",
+  "page_num_in_file": 13,
+  "slide_title": "Causes of Extinction¨Known causes of species extinction are due to:¤Habitat loss (85%)¤Exotic species (50%)¤Pollution (24%)¤Overexploitation (17%)¤Disease (3%)n% of species affected by threat¨Habitat Loss¤Occurs in all ecosystems¤Recent concern focuses on tropical rain forests and coral reefs because they are rich in species¤Loss of habitat affects terrestrial, freshwater, and marine biodiversity",
+  "original_text": "Causes of Extinction¨Known causes of species extinction are due to:¤Habitat loss (85%)¤Exotic species (50%)¤Pollution (24%)¤Overexploitation (17%)¤Disease (3%)n% of species affected by threat¨Habitat Loss¤Occurs in all ecosystems¤Recent concern focuses on tropical rain forests and coral reefs because they are rich in species¤Loss of habitat affects terrestrial, freshwater, and marine biodiversity",
+  "explanation": "Ecologists trace species extinction to five primary threats (percentages represent species affected and exceed 100% due to overlapping threats): habitat loss (85%), exotic species (50%), pollution (24%), overexploitation (17%), and disease (3%). Habitat loss is the single largest driver of extinction, affecting all ecosystems. Conservation concerns focus heavily on tropical rainforests and coral reefs due to their exceptionally high species richness. Habitat destruction negatively impacts terrestrial, freshwater, and marine biodiversity.",
+  "questions": [
+    {
+      "q": "What is the single greatest cause of species extinction according to the percentages provided?",
+      "opts": [
+        "Exotic species",
+        "Pollution",
+        "Habitat loss",
+        "Disease"
+      ],
+      "a": 2,
+      "exp": "The notes list 'Habitat loss (85%)' as the threat affecting the largest percentage of species, followed by exotic species (50%), pollution (24%), overexploitation (17%), and disease (3%)."
+    },
+    {
+      "q": "Which two biomes are of recent intense concern regarding habitat loss, and why?",
+      "opts": [
+        "Tundra and desert; because they contain permafrost",
+        "Tropical rain forests and coral reefs; because they are highly species-rich",
+        "Chaparral and temperate deciduous forest; because they are highly flammable",
+        "Marshes and swamps; because they lack any producers"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Recent concern focuses on tropical rain forests and coral reefs because they are rich in species.'"
+    }
+  ]
+}

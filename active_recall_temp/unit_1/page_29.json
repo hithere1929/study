@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 29,
+  "filename": "Unit_1_2.txt",
+  "section_title": "Intro to Biology",
+  "page_num_in_file": 16,
+  "slide_title": "Organizing Diversity",
+  "original_text": "Organizing Diversity",
+  "explanation": "This slide is titled 'Organizing Diversity' and does not contain additional text, functioning as a separator or heading slide for the classification section.",
+  "questions": [
+    {
+      "q": "What is the heading of Unit 1, page 29?",
+      "opts": [
+        "Characteristics of Life",
+        "Organizing Diversity",
+        "The Three Domains",
+        "Intro to Biology"
+      ],
+      "a": 1,
+      "exp": "The page contains only the heading 'Organizing Diversity'."
+    }
+  ]
+}

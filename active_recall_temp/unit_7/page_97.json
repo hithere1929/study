@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 97,
+  "filename": "Unit_7_6.txt",
+  "section_title": "Circulation & Cardiovascular System",
+  "page_num_in_file": 3,
+  "slide_title": "Transport in Invertebrates: Circulatory Systems",
+  "original_text": "Transport in Invertebrates Circulatory System Functions to move fluid between various parts of the body Small aquatic animals with no circulatory system Each cell is expose to water and can independently exchange gases and eliminate wastes Pseudocoelomates Use a fluid-filled body cavity as a means of transporting substances Coelomate echinoderms May still rely on body fluids for the purpose of locomotion",
+  "explanation": "A circulatory system functions to transport fluids and substances between different areas of the body. In contrast, small aquatic animals (like flatworms) lack a circulatory system because every cell is exposed to the water, allowing independent gas exchange and waste elimination via diffusion. Pseudocoelomates (like roundworms) use their fluid-filled body cavity (pseudocoelom) to distribute substances. Coelomate echinoderms (like sea stars) lack a traditional heart and vessels, relying on coelomic fluid for internal transport and locomotion (via the water vascular system).",
+  "questions": [
+    {
+      "q": "Why do small aquatic animals not require a circulatory system?",
+      "opts": [
+        "They use active transport to move substances through the phloem.",
+        "Each cell is directly exposed to water and can independently exchange gases and wastes.",
+        "They rely entirely on pseudocoelom fluid for locomotion.",
+        "They have high rates of transpiration."
+      ],
+      "a": 1,
+      "exp": "Small aquatic animals have a high surface area-to-volume ratio, meaning each cell is close enough to the environment to perform gas exchange and waste elimination by diffusion without a circulatory system."
+    },
+    {
+      "q": "How do pseudocoelomate animals transport materials throughout their bodies?",
+      "opts": [
+        "Through a system of closed arteries and veins",
+        "Using a fluid-filled body cavity",
+        "By pumping hemolymph into open tissue sinuses",
+        "By moving fluid through a water vascular system for locomotion"
+      ],
+      "a": 1,
+      "exp": "Pseudocoelomates lack blood vessels and instead use their fluid-filled body cavity (pseudocoelom) to transport nutrients and wastes."
+    }
+  ]
+}

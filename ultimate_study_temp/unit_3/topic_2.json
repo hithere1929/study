@@ -1,0 +1,26 @@
+{
+  "id": "u3_t2",
+  "title": "SA:V Ratio",
+  "cheat_card": [
+    "Most cells are microscopic, typically ranging from <b>10 to 50 µm in diameter</b>, with rare exceptions like certain long nerve cells and human egg cells.",
+    "Cell size is strictly limited by the <b>surface area-to-volume (SA:V) ratio</b>. As a cell grows, its <b>volume increases much faster</b> than its surface area.",
+    "A <b>smaller cell</b> maintains a <b>higher surface area-to-volume ratio</b>, which is essential for ensuring that nutrients (like <i>oxygen and glucose</i>) can enter and wastes (like <i>carbon dioxide</i>) can be expelled efficiently.",
+    "If a cell gets too large, its surface area becomes <b>insufficient to support the metabolic demands</b> of its internal volume, leading to cellular starvation or waste toxicity."
+  ],
+  "memory_anchor": "### The Balloon Metaphor\nThink of a cell like a balloon: as it inflates (grows), the interior space (**Volume**, $r^3$) expands much faster than the rubber surface (**Surface Area**, $r^2$). \n\n* **Small Balloon:** Easy to pass molecules from the skin to the center (High SA:V).\n* **Large Balloon:** The center is too far from the skin to get nutrients or release waste quickly (Low SA:V).",
+  "flashcards": [
+    {
+      "q": "Why does a cell's volume-to-surface-area relationship change as it grows larger, and what is the biological consequence?",
+      "a": "As a cell increases in size, its volume (which represents metabolic demand) grows cubically ($r^3$), while its surface area (which represents exchange capacity) only grows quadratically ($r^2$). The biological consequence is a drastic decrease in the SA:V ratio, making it impossible for the cell membrane to transport enough nutrients and wastes to sustain the cell's large volume."
+    },
+    {
+      "q": "What is the typical diameter size range for most cells, and what are two notable exceptions mentioned in class slides?",
+      "a": "Most cells are 10 to 50 µm in diameter. Two notable exceptions that can be seen without a microscope are human egg cells and certain long nerve cells."
+    },
+    {
+      "q": "Why must metabolic waste products like carbon dioxide be expelled quickly, and how does cell size facilitate this?",
+      "a": "Metabolic wastes like carbon dioxide can cause toxicity if allowed to accumulate. Microscopic cell size keeps the diffusion distance short and the SA:V ratio high, facilitating rapid expulsion across the plasma membrane."
+    }
+  ],
+  "outline_blanks": "Cell size is restricted to a range of [[10-50 µm]] in diameter because as a cell grows, its [[volume]] increases at a much faster rate than its [[surface area]]. A smaller cell has a [[higher]] surface area-to-volume ratio, which is necessary to allow nutrients to enter and [[waste]] to exit the cell efficiently."
+}

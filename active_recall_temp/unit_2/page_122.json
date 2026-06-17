@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 122,
+  "filename": "Unit_2_4.txt",
+  "section_title": "Metabolism",
+  "page_num_in_file": 25,
+  "slide_title": "Metabolism",
+  "original_text": "Metabolism¨Metabolism is:¥the total anabolic and catabolic reactions¥the total exergonic and endergonic reactions¥the total energy being used and the total energy being stored",
+  "explanation": "Metabolism is defined comprehensively as the sum total of all anabolic (building) and catabolic (breaking down) reactions, all exergonic (energy-releasing) and endergonic (energy-requiring) reactions, and the total energy being consumed and stored by an organism's cells.",
+  "questions": [
+    {
+      "q": "Which of the following definitions describes metabolism?",
+      "opts": [
+        "The process of water diffusing across a membrane.",
+        "The sum total of all anabolic, catabolic, exergonic, and endergonic reactions, representing the total energy used and stored in an organism.",
+        "The rate of DNA replication in a cell.",
+        "The physical changes that occur when matter changes state."
+      ],
+      "a": 1,
+      "exp": "Metabolism is the sum of all chemical activities in the body, including anabolic/catabolic and endergonic/exergonic reactions, representing energy usage and storage."
+    }
+  ]
+}

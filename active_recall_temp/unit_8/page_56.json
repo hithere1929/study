@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 56,
+  "filename": "Unit_8_4.txt",
+  "section_title": "Photosynthesis",
+  "page_num_in_file": 3,
+  "slide_title": "Photosynthetic Organisms¨All life on Earth depends on solar energy¨Photosynthetic organisms (algae, plants, and cyanobacteria) transform solar energy into the chemical energy of carbohydrates¨Photosynthesis:¤A process that captures solar energy¤Transforms solar energy into chemical energy¤Energy ends up stored in a carbohydrate¨Photosynthesizersproduce food energy¤Feed themselves as well as heterotrophs",
+  "original_text": "Photosynthetic Organisms¨All life on Earth depends on solar energy¨Photosynthetic organisms (algae, plants, and cyanobacteria) transform solar energy into the chemical energy of carbohydrates¨Photosynthesis:¤A process that captures solar energy¤Transforms solar energy into chemical energy¤Energy ends up stored in a carbohydrate¨Photosynthesizersproduce food energy¤Feed themselves as well as heterotrophs",
+  "explanation": "All life on Earth ultimately depends on solar energy. Photosynthetic organisms—which include algae, plants, and cyanobacteria—possess the ability to transform solar energy into the chemical energy of carbohydrates. Photosynthesis is defined as a process that captures solar energy, transforms it into chemical energy, and stores it within carbohydrate molecules. Because photosynthesizers produce this organic food energy, they sustain themselves as well as all heterotrophs (consumers) in the biosphere.",
+  "questions": [
+    {
+      "q": "Which of the following groups contains organisms that are all capable of photosynthesis?",
+      "opts": [
+        "Algae, plants, and cyanobacteria",
+        "Fungi, plants, and protozoa",
+        "Animals, algae, and chemoautotrophic bacteria",
+        "Plants, lichens, and leeches"
+      ],
+      "a": 0,
+      "exp": "The notes state that photosynthetic organisms include 'algae, plants, and cyanobacteria.'"
+    },
+    {
+      "q": "What is the primary energy transformation that occurs during photosynthesis?",
+      "opts": [
+        "Chemical energy is transformed into solar energy stored in water.",
+        "Solar energy is transformed into chemical energy stored in carbohydrates.",
+        "Geothermal energy is converted into electrical energy in mesophyll tissue.",
+        "Kinetic energy is converted into nuclear energy in the stroma."
+      ],
+      "a": 1,
+      "exp": "The notes define photosynthesis as a process that 'transforms solar energy into chemical energy' and that this 'Energy ends up stored in a carbohydrate.'"
+    }
+  ]
+}

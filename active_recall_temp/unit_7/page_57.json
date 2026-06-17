@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 57,
+  "filename": "Unit_7_4.txt",
+  "section_title": "Plant Reproduction",
+  "page_num_in_file": 3,
+  "slide_title": "Reproductive Strategies: Alternation of Generations",
+  "original_text": "Reproductive Strategies Plants have a two-stage, alternating life cycle Sporophyteproduces haploid spores by meiosis Spores divide mitotically to become haploid gametophytes Gametophytes produce gametes Gametes fuse to produce a diploid zygote Zygote divides mitotically to become the diploid sporophyte",
+  "explanation": "Plants undergo an alternation of generations, a life cycle that alternates between two multicellular stages: 1) The diploid (2n) sporophyte, which produces haploid (n) spores through meiosis. 2) These spores divide by mitosis to develop into the haploid (n) gametophyte. The gametophyte produces haploid gametes (sperm and egg) by mitosis. During fertilization, these gametes fuse to form a diploid (2n) zygote. The zygote then divides mitotically to grow into the diploid sporophyte, completing the cycle.",
+  "questions": [
+    {
+      "q": "In the plant alternation of generations life cycle, how are haploid spores produced?",
+      "opts": [
+        "By mitosis of the gametophyte",
+        "By meiosis of the sporophyte",
+        "By fusion of male and female gametes",
+        "By active transport of pollen grains"
+      ],
+      "a": 1,
+      "exp": "The diploid sporophyte produces haploid spores through the process of meiosis."
+    },
+    {
+      "q": "What is the correct sequence of stages in alternation of generations starting from a haploid spore?",
+      "opts": [
+        "Spore -> Sporophyte -> Gamete -> Zygote -> Gametophyte",
+        "Spore -> Mitosis -> Gametophyte -> Gametes -> Zygote -> Mitosis -> Sporophyte",
+        "Spore -> Meiosis -> Zygote -> Gametes -> Gametophyte -> Sporophyte",
+        "Spore -> Gamete -> Zygote -> Meiosis -> Sporophyte -> Gametophyte"
+      ],
+      "a": 1,
+      "exp": "A haploid spore divides by mitosis to form a gametophyte. The gametophyte produces gametes, which fuse to form a zygote. The zygote divides by mitosis to form the sporophyte."
+    }
+  ]
+}

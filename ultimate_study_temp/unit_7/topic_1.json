@@ -1,0 +1,26 @@
+{
+  "id": "u7_t1",
+  "title": "Monocots vs. Eudicots",
+  "cheat_card": [
+    "Monocots have flower parts in <b>threes</b> or multiples of three, while eudicots have flower parts in <b>fours or fives</b> or multiples of four or five.",
+    "In stems, monocots display <b>scattered vascular bundles</b> throughout the ground tissue, whereas eudicots have vascular bundles arranged in a <b>distinct ring</b>.",
+    "In roots, eudicots have an inner vascular cylinder where <b>xylem is star-shaped</b> (with phloem in between arms) and surrounded by <b>pericycle</b>, while monocots have a <b>vascular ring</b> surrounding a central <b>pith</b>.",
+    "Eudicot roots undergo <b>secondary growth</b> (increase in girth via lateral meristems) and have a primary taproot system, whereas monocots do <b>not undergo secondary growth</b> and have a fibrous root system."
+  ],
+  "memory_anchor": "<h3>Monocot vs. Eudicot Root & Stem Comparison</h3><table border='1' style='border-collapse: collapse; width: 100%; text-align: left;'><thead><tr style='background: var(--surface2);'><th>Feature</th><th>Monocots</th><th>Eudicots</th></tr></thead><tbody><tr><td><b>Flower Parts</b></td><td>Multiples of <b>3</b></td><td>Multiples of <b>4 or 5</b></td></tr><tr><td><b>Stem Vascular Bundles</b></td><td><b>Scattered</b></td><td>Arranged in a <b>distinct ring</b></td></tr><tr><td><b>Root Vascular Tissue</b></td><td><b>Vascular ring</b> surrounding a central <b>pith</b></td><td><b>Star-shaped xylem</b> in center, surrounded by <b>pericycle</b></td></tr><tr><td><b>Secondary Growth</b></td><td><b>No</b> secondary growth</td><td><b>Yes</b> (increases girth via lateral cambiums)</td></tr><tr><td><b>Root System</b></td><td><b>Fibrous</b> root system</td><td><b>Taproot</b> (primary root system)</td></tr></tbody></table>",
+  "flashcards": [
+    {
+      "q": "How do you distinguish between a monocot stem and a eudicot stem under a microscope based on vascular bundle arrangement?",
+      "a": "Monocot stems show vascular bundles scattered throughout the ground tissue, whereas eudicot stems have vascular bundles arranged in a distinct concentric ring."
+    },
+    {
+      "q": "What are the structural differences in the root vascular tissue arrangement between monocots and eudicots?",
+      "a": "Eudicot roots have a central vascular cylinder (with star-shaped xylem and pericycle), whereas monocot roots have a ring of vascular bundles surrounding a central ground tissue called the pith."
+    },
+    {
+      "q": "How do monocot and eudicot flowers differ in the number of their appendages?",
+      "a": "Monocot flowers have sepals and petals in multiples of three, while eudicot flowers have them in multiples of four or five."
+    }
+  ],
+  "outline_blanks": "Flowering plants are divided into two classes. Monocots feature vascular bundles [[scattered]] in their stems and flower parts in multiples of [[threes]], while eudicots display vascular bundles arranged in a [[distinct ring]] and roots that undergo [[secondary growth]] to increase girth."
+}

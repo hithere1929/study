@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 80,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 31,
+  "slide_title": "Cell Signaling Pathway That Stimulates a Mutated Tumor SupressorGene",
+  "original_text": "Cell Signaling Pathway That Stimulates a Mutated Tumor SupressorGene",
+  "explanation": "This slide contains a diagrammatic illustration of a cell signaling pathway that stimulates or is activated in the presence of a mutated tumor suppressor gene.",
+  "questions": [
+    {
+      "q": "What is the primary topic of the diagram or pathway depicted on this slide?",
+      "opts": [
+        "A cell signaling pathway that stimulates a mutated tumor suppressor gene",
+        "The pathway of alternative splicing in the nucleus",
+        "The replication cycle of circular bacterial plasmids",
+        "The process of histone acetylation in euchromatin"
+      ],
+      "a": 0,
+      "exp": "Option A is correct because the slide is titled 'Cell Signaling Pathway That Stimulates a Mutated Tumor SupressorGene'. The other options are incorrect."
+    }
+  ]
+}

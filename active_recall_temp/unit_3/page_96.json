@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 96,
+  "filename": "Unit_3_5.txt",
+  "section_title": "Stem Cells & Cancer",
+  "page_num_in_file": 2,
+  "slide_title": "Questions",
+  "original_text": "Questions\nWhat is the purpose of a stem cell?\nWhat in the cell cycle makes cancer different than normal cells?",
+  "explanation": "This slide poses introductory questions regarding the purpose of stem cells and how cancer cells differ from normal cells in the context of the cell cycle.",
+  "questions": [
+    {
+      "q": "Which of the following questions is asked on this introductory slide?",
+      "opts": [
+        "What is the role of p53 in cancer?",
+        "What is the purpose of a stem cell?",
+        "How do embryonic stem cells differentiate?",
+        "What are the phases of apoptosis?"
+      ],
+      "a": 1,
+      "exp": "The slide explicitly asks: 'What is the purpose of a stem cell?'"
+    }
+  ]
+}

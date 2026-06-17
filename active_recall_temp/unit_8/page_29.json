@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 29,
+  "filename": "Unit_8_2.txt",
+  "section_title": "Population Ecology",
+  "page_num_in_file": 14,
+  "slide_title": "Life History Patterns¨ris the rate of natural increase of a population.¨Kis the carrying capacity of the environment.¨Some populations are subject to r-selection, and other populations are subject to K-selection.¨r–Selection¤In unstable or predictable environments, population growth is controlled by density-independent factors.¤Population size is low relative to K.¨r-Strategists (opportunistic species)¤Produce large numbers of offspring¤Have a small body size¤Mature early¤Have a short life span¤Do not invest energy in parental care¤Tend to be good dispersers and colonizers",
+  "original_text": "Life History Patterns¨ris the rate of natural increase of a population.¨Kis the carrying capacity of the environment.¨Some populations are subject to r-selection, and other populations are subject to K-selection.¨r–Selection¤In unstable or predictable environments, population growth is controlled by density-independent factors.¤Population size is low relative to K.¨r-Strategists (opportunistic species)¤Produce large numbers of offspring¤Have a small body size¤Mature early¤Have a short life span¤Do not invest energy in parental care¤Tend to be good dispersers and colonizers",
+  "explanation": "This slide introduces the concepts of r-selection and K-selection, where 'r' is the rate of natural increase and 'K' is the environmental carrying capacity. Under r-selection, populations live in unstable or unpredictable environments where growth is regulated primarily by density-independent factors. In these environments, the population size remains low relative to the carrying capacity (K). The organisms that evolve under these conditions are called r-strategists or opportunistic species. They are characterized by: producing a large number of offspring, possessing a small body size, maturing early, having a short lifespan, investing little to no energy in parental care, and being excellent dispersers and colonizers.",
+  "questions": [
+    {
+      "q": "What environmental conditions favor r-selection?",
+      "opts": [
+        "Stable and highly predictable environments",
+        "Unstable or unpredictable environments where growth is controlled by density-independent factors",
+        "Environments that are always at carrying capacity (K)",
+        "Deep ocean floors with constant temperature and pressure"
+      ],
+      "a": 1,
+      "exp": "The notes state that r-selection occurs 'In unstable or predictable [likely meant unpredictable] environments, population growth is controlled by density-independent factors.'"
+    },
+    {
+      "q": "Which of the following traits is characteristic of an r-strategist?",
+      "opts": [
+        "Large body size and late maturation",
+        "High energy investment in parental care",
+        "Production of large numbers of offspring and short lifespan",
+        "Strong competitor in stable environments"
+      ],
+      "a": 2,
+      "exp": "The notes state that r-strategists (opportunistic species) 'Produce large numbers of offspring', 'Have a small body size', 'Mature early', 'Have a short life span', 'Do not invest energy in parental care', and 'Tend to be good dispersers and colonizers.'"
+    }
+  ]
+}

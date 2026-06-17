@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 150,
+  "filename": "Unit_4_8.txt",
+  "section_title": "Mendelian Inheritance P1 - Mendelian Genetics",
+  "page_num_in_file": 5,
+  "slide_title": "Gregor Mendel¨The garden pea:¤Organism used in Mendel’s experiments¤A good choice for several reasons:nEasy to cultivatenShort generationnNormally self-pollinating, but can be cross-pollinated by handnTrue-breeding varieties were availablenSimple, objective traits",
+  "original_text": "Gregor Mendel¨The garden pea:¤Organism used in Mendel’s experiments¤A good choice for several reasons:nEasy to cultivatenShort generationnNormally self-pollinating, but can be cross-pollinated by handnTrue-breeding varieties were availablenSimple, objective traits",
+  "explanation": "Gregor Mendel chose the garden pea (Pisum sativum) for his experiments because of several biological advantages: it is easy to cultivate, has a short generation time, and is normally self-pollinating but can be cross-pollinated manually. Additionally, true-breeding varieties were already available, and the plant exhibits simple, objective traits.",
+  "questions": [
+    {
+      "q": "Why was the garden pea a good choice of organism for Mendel's experiments?",
+      "opts": [
+        "It has a very long life cycle and is difficult to cultivate.",
+        "It is easy to cultivate, has a short generation time, is normally self-pollinating but can be manually cross-pollinated, and has simple, objective traits.",
+        "It lacks chromosomes, simplifying the analysis of traits.",
+        "It reproduces strictly via asexual cloning, ensuring no variation."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide lists these exact reasons under why the garden pea was a good choice."
+    }
+  ]
+}

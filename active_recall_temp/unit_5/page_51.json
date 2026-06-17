@@ -1,0 +1,23 @@
+{
+  "unit": 5,
+  "page": 51,
+  "filename": "Unit_5_3.txt",
+  "section_title": "Speciation & Macroevolution",
+  "page_num_in_file": 2,
+  "slide_title": "5.3 \u2013Opening Question",
+  "original_text": "5.3 \u2013Opening Question\u00a8Examine the tortoises from Lesson 1 to the left.\u00a8With a partner, determine what evidence could be used to make the case for each of the tortoises below to be grouped into their own unique species. How could a scientist verify each species as unique?",
+  "explanation": "This slide opens Section 5.3 by asking students to revisit the tortoises from Lesson 1. It prompts a partner discussion on what biological evidence could be used to justify classifying each tortoise variety into its own unique species, and how scientists can empirically verify that a species is indeed distinct.",
+  "questions": [
+    {
+      "q": "What is the focus of the opening question on Page 51?",
+      "opts": [
+        "To calculate the allele frequencies of tortoises using Hardy-Weinberg equations",
+        "To discuss what evidence can show tortoises are distinct species and how to verify it",
+        "To examine the fossil record of early tortoises in Argentina",
+        "To map out the Hox genes in tortoise embryos"
+      ],
+      "a": 1,
+      "exp": "The opening question asks students to discuss what evidence distinguishes tortoise species and how scientists verify species uniqueness."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 63,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 27,
+  "slide_title": "3: Fatty Acids",
+  "original_text": "3: Fatty AcidsCarboxyl group is the hydrophilic end of the molecule\nLook at the chemical formula for each of the molecules to the left. What do you notice about the formulas compared to carbohydrates?",
+  "explanation": "This slide notes that the carboxyl group is the hydrophilic end of a fatty acid molecule and prompts students to compare their chemical formulas to carbohydrates. Visually, fatty acid formulas show a much higher proportion of carbon and hydrogen relative to oxygen, unlike carbohydrates which follow a strict 1C:2H:1O ratio.",
+  "questions": [
+    {
+      "q": "How does the chemical formula of a fatty acid compare to that of a carbohydrate?",
+      "opts": [
+        "Fatty acids have a 1:2:1 ratio of C:H:O.",
+        "Fatty acids contain a much higher proportion of carbon and hydrogen relative to oxygen than carbohydrates.",
+        "Fatty acids do not contain carbon.",
+        "Fatty acids have more oxygen atoms than carbon atoms."
+      ],
+      "a": 1,
+      "exp": "Lipids/fatty acids contain mostly carbon and hydrogen with very few oxygen atoms, whereas carbohydrates have a strict 1C:2H:1O ratio."
+    }
+  ]
+}

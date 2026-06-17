@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 110,
+  "filename": "Unit_7_6.txt",
+  "section_title": "Circulation & Cardiovascular System",
+  "page_num_in_file": 16,
+  "slide_title": "Human Cardiovascular System: Cardiovascular Disease",
+  "original_text": "Human Cardiovascular System Cardiovascular Disease (CVD) Hypertension-High blood pressure Atherosclerosis-Accumulation of fatty materials between the inner linings of arteries Stroke-Cranial arteriole bursts or is blocked by an embolus Heart attack (myocardial infarction) Coronary artery becomes completely blocked Angina pectoris Painful squeezing sensation from myocardial oxygen insufficiency due to partial blockage of a coronary artery",
+  "explanation": "Cardiovascular Disease (CVD) includes several pathologies: 1) Hypertension: chronically high blood pressure. 2) Atherosclerosis: the accumulation of fatty deposits (plaque) between the inner linings of arteries, narrowing the channel. 3) Stroke: occurs when a brain (cranial) arteriole bursts or is blocked by a clot (embolus). 4) Heart attack (myocardial infarction): occurs when a coronary artery is completely blocked, leading to heart muscle damage. 5) Angina pectoris: chest pain characterized by a painful squeezing sensation, caused by temporary oxygen insufficiency in the heart muscle (myocardium) due to a partially blocked coronary artery.",
+  "questions": [
+    {
+      "q": "What is the physiological cause of angina pectoris?",
+      "opts": [
+        "A cranial arteriole bursting in the brain",
+        "Complete blockage of a coronary artery leading to muscle death",
+        "Myocardial oxygen insufficiency due to partial blockage of a coronary artery",
+        "Accumulation of fatty materials in the lymphatic capillaries"
+      ],
+      "a": 2,
+      "exp": "Angina pectoris is chest pain caused by reduced oxygen delivery to the heart muscle (myocardium) because of a partially blocked coronary artery."
+    },
+    {
+      "q": "What is atherosclerosis?",
+      "opts": [
+        "High blood pressure in the cranial capillaries",
+        "The accumulation of fatty materials between the inner linings of arteries",
+        "A burst arteriole in the brain",
+        "The fragmentation of megakaryocytes in bone marrow"
+      ],
+      "a": 1,
+      "exp": "Atherosclerosis is the buildup of fatty plaques along the inner lining of arteries, which narrows the lumen and restricts blood flow."
+    }
+  ]
+}

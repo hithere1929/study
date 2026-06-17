@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 92,
+  "filename": "Unit_7_5.txt",
+  "section_title": "Animal Organization",
+  "page_num_in_file": 19,
+  "slide_title": "Homeostasis: Homeostatic Control & Negative Feedback",
+  "original_text": "Homeostasis Homeostatic Control Partially controlled by hormones Ultimately controlled by the nervous system Negative feedback is the primary homeostatic mechanism that keeps a variable close to a set value Sensor detects change in environment Regulatory center initiates an action to bring the conditions back to normal",
+  "explanation": "Homeostasis is partially controlled by endocrine hormones and is ultimately regulated by the nervous system. The primary homeostatic mechanism is negative feedback, which keeps physiological variables close to a specific set value. A negative feedback loop has two key steps: 1) A sensor detects a change in the internal or external environment. 2) A regulatory center processes this input and initiates an action to reverse the deviation, returning conditions to normal.",
+  "questions": [
+    {
+      "q": "What is the primary mechanism of homeostatic control that keeps a physiological variable close to a set value?",
+      "opts": [
+        "Positive feedback",
+        "Negative feedback",
+        "Thigmotropism",
+        "Cellular respiration"
+      ],
+      "a": 1,
+      "exp": "Negative feedback is the primary mechanism that detects deviations from a set point and triggers corrective actions to return the variable back to its normal value."
+    },
+    {
+      "q": "What is the sequence of events in a negative feedback loop?",
+      "opts": [
+        "Regulatory center detects change -> Sensor initiates response",
+        "Sensor detects change -> Regulatory center initiates response",
+        "Effector detects change -> Hormone releases insulin",
+        "Pacemaker cell initiates contraction -> Sensor detects pulse"
+      ],
+      "a": 1,
+      "exp": "In a negative feedback loop, a sensor detects an environmental change, and then the regulatory center initiates an action to correct the conditions."
+    }
+  ]
+}

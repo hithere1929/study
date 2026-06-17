@@ -1,0 +1,27 @@
+{
+  "id": "u2_t1",
+  "title": "Inorganic vs Organic",
+  "cheat_card": [
+    "<b>Organic compounds</b> are primarily made of <b>carbon atoms</b>, which have <b>4 valence electrons</b> and can form up to <b>4 covalent bonds</b> with other carbon atoms or elements to make <i>straight chains, branched chains, or rings</i>.",
+    "<b>Inorganic compounds</b> generally <b>do not contain carbon</b> (with exceptions like carbon dioxide). Most matter in living organisms consists of organic compounds.",
+    "<b>Functional groups</b> (such as <b>hydroxyl -OH</b>, <b>carboxyl</b>, <b>amino</b>, and <b>phosphate</b>) are clusters of atoms that influence a molecule's characteristics. Hydroxyl groups make molecules <i>polar</i> and <i>hydrophilic (soluble in water)</i>.",
+    "<b>Monomers</b> assemble into <b>polymers</b> via <b>condensation reactions (dehydration synthesis)</b>, which <i>release a water molecule</i> for each bond formed. <b>Hydrolysis</b> uses a <i>water molecule to break</i> bonds down into monomers.",
+    "<b>ATP (adenosine triphosphate)</b> is the cell's energy currency, composed of a <b>ribose (5-carbon sugar)</b>, <b>adenine (double ring)</b>, and <b>3 phosphate groups</b>. Energy is released when the <i>unstable, negatively charged phosphate bonds</i> undergo hydrolysis."
+  ],
+  "memory_anchor": "| Process | Water Role | Bond Action | Energy State |\n|---|---|---|---|\n| **Condensation (Dehydration)** | Released (produced) | Formed (synthesis) | Stores energy (anabolic) |\n| **Hydrolysis** | Consumed (added) | Broken (cleavage) | Releases energy (catabolic) |",
+  "flashcards": [
+    {
+      "q": "What unique chemical properties of carbon allow it to form the structural backbone of such a vast variety of organic macromolecules?",
+      "a": "Carbon has 4 valence electrons, allowing it to form up to 4 stable covalent bonds (single, double, or triple) with other atoms. Additionally, carbon atoms can bond with one another to form diverse geometries, including straight chains, branched chains, or cyclic rings."
+    },
+    {
+      "q": "How do condensation (dehydration synthesis) and hydrolysis reactions differ in their use of water and their effect on chemical bonds?",
+      "a": "A condensation reaction links monomers into polymers by releasing one water molecule for each covalent bond formed (dehydration synthesis). In contrast, a hydrolysis reaction uses one water molecule to break a covalent bond, cleaving a polymer back into its individual monomer units."
+    },
+    {
+      "q": "Why is the triphosphate tail of ATP structurally unstable, and how does this instability serve cellular energy needs?",
+      "a": "The three phosphate groups in ATP carry net negative charges and are in close proximity, creating strong electrostatic repulsion and unstable covalent bonds. Hydrolysis of the terminal phosphate bond relieves this repulsion, releasing a large amount of free energy that is coupled to drive endergonic cellular reactions."
+    }
+  ],
+  "outline_blanks": "Living systems are built on [[organic compounds]] containing carbon, which has [[4]] valence electrons allowing it to form up to four covalent bonds in straight, branched, or ring configurations. These macromolecules are built from [[monomers]] linking into [[polymers]] through [[condensation reactions]], which release [[water]]. Cellular energy is stored in the unstable, negatively charged phosphate bonds of [[ATP]], which releases energy when broken via [[hydrolysis]]."
+}

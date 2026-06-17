@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 81,
+  "filename": "Unit_2_3.txt",
+  "section_title": "Movement of Molecules",
+  "page_num_in_file": 7,
+  "slide_title": "EnzymeEnzyme",
+  "original_text": "EnzymeEnzyme\nO2 CO2Diffusion of smallnonpolar molecules\nAttachmentproteinReceptorproteinChannelprotein\nCarrier/ ActivetransportproteinATP\nJunctionprotein\nMHC Protein\nJunctionprotein",
+  "explanation": "This slide provides a visual diagram mapping the locations and configurations of the various types of membrane proteins, including enzyme proteins, attachment proteins, receptor proteins, channel proteins, carrier/active transport proteins (which utilize ATP), junction proteins, and MHC (major histocompatibility complex) recognition proteins. It also shows the passive diffusion of small, nonpolar molecules like O2 and CO2 directly through the phospholipid bilayer.",
+  "questions": [
+    {
+      "q": "Which small, nonpolar molecules are illustrated diffusing directly through the phospholipid bilayer on this slide?",
+      "opts": [
+        "Glucose and Amino acids",
+        "O2 and CO2",
+        "Na+ and Cl-",
+        "ATP and Enzymes"
+      ],
+      "a": 1,
+      "exp": "Small, nonpolar molecules like oxygen (O2) and carbon dioxide (CO2) can diffuse directly through the lipid bilayer."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 3,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 3,
+  "slide_title": "1: Matter",
+  "original_text": "1: Matter¨Understanding chemistry is important to biologists:¤Living things composed of the same kinds of matter as non-living things¤Knowing how matter changes leads to understanding of life processes of organisms¨Matter: anything that occupies space & has mass¨Mass: quantity of matter in an object¨Weight: force produced by gravity acting on mass¤Mass ≠ weight",
+  "explanation": "Understanding chemistry is critical for biologists because living things are composed of the same types of matter as non-living things, and knowing how matter changes is essential for understanding the life processes of organisms. Matter is defined as anything that occupies space and has mass. Mass is the actual quantity of matter contained within an object, which remains constant regardless of location. In contrast, weight is the force produced by gravity acting upon that mass, meaning that mass and weight are not equal.",
+  "questions": [
+    {
+      "q": "What is the key difference between mass and weight?",
+      "opts": [
+        "Mass changes based on gravity, while weight remains constant.",
+        "Weight is the amount of space occupied, while mass is the quantity of matter.",
+        "Mass is the quantity of matter in an object, while weight is the gravitational force acting on that mass.",
+        "There is no difference; they are scientifically identical."
+      ],
+      "a": 2,
+      "exp": "Mass is defined as the quantity of matter in an object, whereas weight represents the force produced by gravity acting on that mass. Because gravity varies depending on location, mass and weight are not the same."
+    },
+    {
+      "q": "Why is understanding chemistry important to biologists?",
+      "opts": [
+        "Because living things are made of different matter than non-living things.",
+        "Because chemical changes help explain the life processes of organisms.",
+        "Because it explains how gravity acts on mass.",
+        "Because living things do not consist of matter."
+      ],
+      "a": 1,
+      "exp": "Biologists study chemistry because living things are composed of the same kinds of matter as non-living things, and knowing how matter changes leads to an understanding of the life processes of organisms."
+    }
+  ]
+}

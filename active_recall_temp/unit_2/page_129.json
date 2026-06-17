@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 129,
+  "filename": "Unit_2_5.txt",
+  "section_title": "Enzymes",
+  "page_num_in_file": 7,
+  "slide_title": "Enzymes",
+  "original_text": "Enzymes\nWithout enzyme: high activation energy barrier\nWith enzyme: reduced activation energy barrier\nReactant -> Products",
+  "explanation": "This slide presents a comparative diagram showing the energy changes in a reaction with and without an enzyme. Without an enzyme, the reaction must overcome a high activation energy barrier to convert reactants to products. When an enzyme is present, the activation energy barrier is significantly reduced, allowing the reaction to proceed much faster.",
+  "questions": [
+    {
+      "q": "What change is seen in the activation energy barrier when an enzyme is added to a reaction?",
+      "opts": [
+        "The barrier is completely eliminated.",
+        "The barrier is significantly reduced.",
+        "The barrier is raised to prevent reaction.",
+        "The energy of the products is increased."
+      ],
+      "a": 1,
+      "exp": "The presence of an enzyme reduces the activation energy barrier, making it easier for reactants to transition into products."
+    }
+  ]
+}

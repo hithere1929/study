@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 41,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 26,
+  "slide_title": "Mitochondrial Structure",
+  "original_text": "Mitochondrial Structure",
+  "explanation": "This page is a placeholder or title slide for Mitochondrial Structure.",
+  "questions": [
+    {
+      "q": "What is the title of the slide shown on this page?",
+      "opts": [
+        "Mitochondria Function",
+        "Mitochondrial Structure",
+        "ATP Production",
+        "Inner Membrane Chemistry"
+      ],
+      "a": 1,
+      "exp": "The slide is titled 'Mitochondrial Structure'."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 182,
+  "filename": "Unit_4_9.txt",
+  "section_title": "Mendelian Inheritance P2 - Genetic Disorders",
+  "page_num_in_file": 8,
+  "slide_title": "Autosomal Dominance Disorders¨Osteogenesis Imperfecta¤Weakened, brittle bones¤Most cases are caused by mutation in genes required for the synthesis of type I collagen¨Hereditary Spherocytosis¤Caused by a mutation in the ankyrin-1 gene¤Red blood cells become spherical, are fragile, and burst easily",
+  "original_text": "Autosomal Dominance Disorders¨Osteogenesis Imperfecta¤Weakened, brittle bones¤Most cases are caused by mutation in genes required for the synthesis of type I collagen¨Hereditary Spherocytosis¤Caused by a mutation in the ankyrin-1 gene¤Red blood cells become spherical, are fragile, and burst easily",
+  "explanation": "This slide discusses two autosomal dominant disorders: Osteogenesis Imperfecta and Hereditary Spherocytosis. Osteogenesis Imperfecta causes weakened, brittle bones, and most cases result from mutations in genes required to synthesize type I collagen. Hereditary Spherocytosis is caused by a mutation in the ankyrin-1 gene, which causes red blood cells to become spherical, fragile, and easy to burst.",
+  "questions": [
+    {
+      "q": "What molecular defect is responsible for most cases of Osteogenesis Imperfecta?",
+      "opts": [
+        "A mutation in the ankyrin-1 gene.",
+        "A lack of elastin in the blood.",
+        "Mutation in genes required for the synthesis of type I collagen.",
+        "Absence of the muscle protein dystrophin."
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide states: 'Most cases are caused by mutation in genes required for the synthesis of type I collagen' under Osteogenesis Imperfecta."
+    },
+    {
+      "q": "What is the cause and cellular phenotype of Hereditary Spherocytosis?",
+      "opts": [
+        "Defective elastin gene; causes premature aging of skin.",
+        "Mutation in the ankyrin-1 gene; causes red blood cells to become spherical, fragile, and burst easily.",
+        "Lack of type I collagen; causes brittle bones.",
+        "Absence of clotting factors; causes failure to clot."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states Hereditary Spherocytosis is 'Caused by a mutation in the ankyrin-1 gene' causing 'Red blood cells become spherical, are fragile, and burst easily'."
+    }
+  ]
+}

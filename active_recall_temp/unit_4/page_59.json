@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 59,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 8,
+  "slide_title": "trpOperon",
+  "original_text": "trpOperon",
+  "explanation": "This slide presents a visual diagram showing the regulation of the trp operon in both its active state (in the absence of tryptophan) and inactive state (in the presence of tryptophan).",
+  "questions": [
+    {
+      "q": "Under what conditions are the structural genes of the trp operon transcribed?",
+      "opts": [
+        "When tryptophan is abundant in the cell.",
+        "When tryptophan is absent or in low concentration.",
+        "Only in the presence of lactose.",
+        "When the repressor is bound to the operator."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the trp operon is a repressible operon that remains 'on' (active) to synthesize tryptophan when tryptophan is absent. When tryptophan is present (Option A) or the repressor binds (Option D), transcription is blocked. Option C is unrelated."
+    }
+  ]
+}

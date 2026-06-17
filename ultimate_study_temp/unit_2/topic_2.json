@@ -1,0 +1,26 @@
+{
+  "id": "u2_t2",
+  "title": "Macromolecules",
+  "cheat_card": [
+    "<b>Carbohydrates</b> have a <b>1C:2H:1O</b> ratio. Monomer <b>monosaccharides</b> (glucose, fructose, galactose are <i>isomers</i> of C6H12O6) form polymers via <b>glycosidic bonds</b>: <b>glycogen</b> (branched animal glucose storage), <b>starch</b> (plant glucose storage), and <b>cellulose</b> (straight-chain structural component of plant cell walls).",
+    "<b>Proteins</b> are made of <b>amino acid</b> monomers linked by <b>peptide bonds</b>. Each amino acid has a central carbon, a hydrogen, an <b>amino group</b>, a <b>carboxyl group</b>, and a variable <b>R-group</b> (ranging from H in glycine to rings in tryptophan) that dictates protein folding via <i>hydrogen bonds and hydrophobic interactions</i>.",
+    "<b>Lipids</b> are nonpolar and store energy in many <b>C-H bonds</b>. They include: <b>triglycerides</b> (glycerol + 3 fatty acids; saturated are solid at room temp, unsaturated have double bonds and are liquid), <b>phospholipids</b> (glycerol + 2 fatty acids + phosphate group forming a cell membrane bilayer), <b>waxes</b> (long fatty acid + long alcohol), and <b>steroids</b> (4 fused carbon rings like cholesterol).",
+    "<b>Nucleic acids</b> (DNA and RNA) are polymers of <b>nucleotides</b> linked by <b>phosphodiester bonds</b>. Each nucleotide contains a <b>phosphate group</b>, a <b>5-carbon sugar</b>, and a <b>nitrogenous base</b>. DNA contains <i>A, T, C, G</i> and is a double helix; RNA contains <i>A, U, C, G</i> (uracil replacing thymine) and is single-stranded."
+  ],
+  "memory_anchor": "| Macromolecule | Monomer | Linkage/Bond | Key Examples & Functions |\n|---|---|---|---|\n| **Carbohydrates** | Monosaccharide (e.g., Glucose) | Glycosidic bond | Glycogen (animal storage), Starch (plant storage), Cellulose (plant structure) |\n| **Proteins** | Amino Acid | Peptide bond | Enzymes, structural proteins, R-group defines folding |\n| **Lipids** | Fatty Acids & Glycerol (not true polymer) | Ester linkage (fatty acid to glycerol) | Triglycerides (energy), Phospholipids (membrane bilayer), Waxes (waterproof), Steroids (cholesterol) |\n| **Nucleic Acids** | Nucleotide | Phosphodiester bond | DNA (hereditary information), RNA (protein synthesis, ribozymes) |",
+  "flashcards": [
+    {
+      "q": "What is the structural difference between starch, glycogen, and cellulose, and how does this affect their function?",
+      "a": "All three are polymers of glucose. Glycogen (animal storage) is highly branched for rapid glucose release. Starch (plant storage) is branched or coiled and unbranched. Cellulose (plant structural) consists of long, straight unbranched chains that hydrogen-bond to each other to form rigid, high-strength fibrils in plant cell walls."
+    },
+    {
+      "q": "How does the chemical structure of a phospholipid enable it to spontaneously form a stable bilayer in aqueous cellular environments?",
+      "a": "A phospholipid is amphipathic, consisting of a hydrophilic 'head' (glycerol and phosphate group) and two hydrophobic 'tails' (hydrocarbon fatty acid chains). In water, they spontaneously assemble into a double layer where the hydrophobic tails point inward to shield themselves from water, and the hydrophilic heads face the outer and inner aqueous environments."
+    },
+    {
+      "q": "Describe the components of a nucleotide and explain the differences in bases and sugar structure between DNA and RNA.",
+      "a": "A nucleotide consists of a phosphate group, a 5-carbon sugar, and a nitrogenous base. DNA has deoxyribose sugar and bases A, T, C, G, forming a double-stranded helix. RNA has ribose sugar and bases A, U, C, G (where Uracil replaces Thymine), and is typically a single-stranded polynucleotide."
+    }
+  ],
+  "outline_blanks": "Biological macromolecules consist of four main classes. Carbohydrates possess a [[1C:2H:1O]] ratio and link via [[glycosidic bonds]], forming structural molecules like [[cellulose]]. Proteins are polymers of [[amino acids]] linked by [[peptide bonds]] that fold based on their variable [[R-groups]], whereas nucleic acids are made of [[nucleotides]] linked by [[phosphodiester bonds]]. Lipids, such as [[phospholipids]], are nonpolar molecules containing hydrophobic tails and hydrophilic heads that form the cell's membrane bilayer."
+}

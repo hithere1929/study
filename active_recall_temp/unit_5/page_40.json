@@ -1,0 +1,23 @@
+{
+  "unit": 5,
+  "page": 40,
+  "filename": "Unit_5_2.txt",
+  "section_title": "How Populations Evolve",
+  "page_num_in_file": 19,
+  "slide_title": "Natural Selection",
+  "original_text": "Natural Selection\n\u00a4Stabilizing Selection\n  nThe peak of the curve increases and tails decrease\n  nHuman babies with low or high birth weight are less likely to survive",
+  "explanation": "Stabilizing selection acts to eliminate extreme phenotypes and favor intermediate variants. This narrows the phenotypic range, causing the peak of the bell curve to rise and the tails to shrink. The slide illustrates this with human birth weight: infants born with exceptionally low or exceptionally high birth weights have lower survival rates, meaning selective pressures favor intermediate, average birth weights.",
+  "questions": [
+    {
+      "q": "Why is human birth weight considered an example of stabilizing selection?",
+      "opts": [
+        "Babies with low or high birth weights have lower survival rates, favoring the average birth weight.",
+        "Human birth weights have directionally increased to be larger over time.",
+        "Only babies with extreme birth weights survive to reproduce.",
+        "Birth weight is controlled by a single gene rather than being polygenic."
+      ],
+      "a": 0,
+      "exp": "Stabilizing selection favors intermediate phenotypes. Since babies of average weight survive better than those with extremely high or low weights, the population is stabilized around the mean birth weight."
+    }
+  ]
+}

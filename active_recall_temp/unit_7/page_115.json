@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 115,
+  "filename": "Unit_7_6.txt",
+  "section_title": "Circulation & Cardiovascular System",
+  "page_num_in_file": 21,
+  "slide_title": "Blood: White Blood Cells",
+  "original_text": "Blood White Blood Cells (WBCs) Most types are larger than red blood cells Contain a nucleus and lack hemoglobin Important in inflammatory response Divided into two categories: Granular leukocytes Contain granules composed of proteins and enzymes used to help defend the body against invading organisms Neutrophils phagocytize and digest bacteria Basophil  contain histamine Eosinophils  involved in fighting parasitic worms, among other activities Agranular leukocytes Monocytes  migrate into tissues in response to chronic, ongoing infections Differentiate into macrophages Fight infection, release growth factors that increase the production of WBCs by the bone marrow Lymphocytes T cells and B cells involved in the immune response and antibody production",
+  "explanation": "White Blood Cells (WBCs, or leukocytes) are nucleated, lack hemoglobin, and are larger than RBCs. They are essential for inflammatory and immune responses. They are divided into two groups: 1) Granular leukocytes: contain granules loaded with defensive proteins and enzymes. These include neutrophils (which phagocytize and digest bacteria), basophils (which contain histamine to promote inflammation), and eosinophils (which fight parasitic worms). 2) Agranular leukocytes: lack granules. These include monocytes (which migrate to tissues during chronic infections to differentiate into macrophages, engulfing pathogens and releasing growth factors to stimulate bone marrow WBC production) and lymphocytes (T cells and B cells, which mediate adaptive immunity and antibody production).",
+  "questions": [
+    {
+      "q": "Which granular leukocyte is specialized in phagocytizing and digesting bacteria?",
+      "opts": [
+        "Basophil",
+        "Neutrophil",
+        "Eosinophil",
+        "Monocyte"
+      ],
+      "a": 1,
+      "exp": "Neutrophils are the most abundant granular leukocytes and specialize in engulfing (phagocytizing) and destroying bacteria."
+    },
+    {
+      "q": "What cells do monocytes differentiate into, and what are their functions?",
+      "opts": [
+        "Oligodendrocytes; insulate axons",
+        "Macrophages; phagocytize pathogens and release growth factors to stimulate WBC production",
+        "B cells; produce antibodies",
+        "Megakaryocytes; produce platelets"
+      ],
+      "a": 1,
+      "exp": "Monocytes migrate into tissues and differentiate into macrophages, which fight infection by phagocytosis and release growth factors that stimulate bone marrow to produce more WBCs."
+    },
+    {
+      "q": "Which of the following is an agranular leukocyte involved in antibody production?",
+      "opts": [
+        "Eosinophil",
+        "Basophil",
+        "Lymphocyte",
+        "Neutrophil"
+      ],
+      "a": 2,
+      "exp": "Lymphocytes (specifically B cells) are agranular leukocytes responsible for antibody production in the immune response."
+    }
+  ]
+}

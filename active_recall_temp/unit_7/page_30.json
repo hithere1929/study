@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 30,
+  "filename": "Unit_7_2.txt",
+  "section_title": "Plant Nutrition and Transport",
+  "page_num_in_file": 9,
+  "slide_title": "Transport Mechanisms: Water, Pressure & Osmotic Potential",
+  "original_text": "Transport Mechanisms Pressure potential is the effect that pressure has on water potential. Water moves across a membrane from the area of higher pressure to the area of lower pressure. The higher the water pressure, the higher the water potential. Pressure potential that increases due to osmosis is called turgor pressure. Osmotic potential takes into account the presence of solutes. Water tends to move from the area of lower solute concentration to the area of higher solute concentration. The lower the concentration of solutes (osmotic potential), the higher the water potential.",
+  "explanation": "Water potential, which determines the direction of water movement, is affected by pressure potential and osmotic potential. Pressure potential refers to the physical pressure on water. Water moves across membranes from areas of higher physical pressure to areas of lower physical pressure; thus, higher water pressure increases water potential. Turgor pressure is the specific pressure potential that increases inside a plant cell as water enters by osmosis, pressing the plasma membrane against the cell wall. Osmotic potential accounts for solute concentrations. Water moves from regions of lower solute concentration to regions of higher solute concentration. Consequently, a lower concentration of solutes (which corresponds to a higher osmotic potential in terms of water availability) results in a higher water potential.",
+  "questions": [
+    {
+      "q": "What is turgor pressure?",
+      "opts": [
+        "The negative pressure potential that pulls water up the stem",
+        "The pressure potential that increases due to osmosis inside a plant cell",
+        "The pressure exerted by solutes moving out of the companion cell",
+        "The atmospheric pressure surrounding the leaves"
+      ],
+      "a": 1,
+      "exp": "Turgor pressure is the pressure potential that increases within a plant cell due to the osmotic entry of water."
+    },
+    {
+      "q": "How does solute concentration affect water potential?",
+      "opts": [
+        "Higher solute concentration increases water potential.",
+        "Solute concentration has no impact on water potential.",
+        "Lower solute concentration increases water potential.",
+        "Lower solute concentration decreases water potential."
+      ],
+      "a": 2,
+      "exp": "A lower solute concentration results in a higher water potential, driving water movement toward areas of higher solute concentration."
+    }
+  ]
+}

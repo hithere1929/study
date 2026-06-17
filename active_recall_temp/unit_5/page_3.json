@@ -1,0 +1,23 @@
+{
+  "unit": 5,
+  "page": 3,
+  "filename": "Unit_5_1.txt",
+  "section_title": "Darwin & Evidence for Evolution",
+  "page_num_in_file": 3,
+  "slide_title": "5.1 –Opening Question",
+  "original_text": "5.1 –Opening Question\n¨Examine the tortoises found in the image to the left. ¨With a partner, discuss the appearance of the tortoises, and identify and which might belong to the same or different species.",
+  "explanation": "This page introduces Section 5.1 with an opening group discussion question. It instructs students to examine an image of tortoises, discuss their physical appearance with a partner, and attempt to determine which tortoises belong to the same species and which belong to different species, introducing the concepts of morphological differences and species diversity.",
+  "questions": [
+    {
+      "q": "What organism is used in the opening question to introduce morphological comparison and species identification?",
+      "opts": [
+        "Galapagos Finches",
+        "Argentinian Fossils",
+        "Tortoises",
+        "Peppered Moths"
+      ],
+      "a": 2,
+      "exp": "The opening question asks students to examine and discuss the appearance of tortoises to identify species differences."
+    }
+  ]
+}

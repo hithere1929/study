@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 26,
+  "filename": "Unit_4_2.txt",
+  "section_title": "DNA Structure",
+  "page_num_in_file": 12,
+  "slide_title": "Eukaryotic Chromosome¨Made of a single double helix DNA molecule¤More than 50% of composition is proteinnSome concerned with DNA/RNA synthesisnLarge majority are histonesnPlay a structural role in the chromosome¨5 primary types of histone proteins¤H1, H2A, H2B, H3, & H4nH3 & H4 structure highly conserved across organismsnEssential function for survival conserved across organisms",
+  "original_text": "Eukaryotic Chromosome¨Made of a single double helix DNA molecule¤More than 50% of composition is proteinnSome concerned with DNA/RNA synthesisnLarge majority are histonesnPlay a structural role in the chromosome¨5 primary types of histone proteins¤H1, H2A, H2B, H3, & H4nH3 & H4 structure highly conserved across organismsnEssential function for survival conserved across organisms",
+  "explanation": "A eukaryotic chromosome is composed of a single double-helix DNA molecule. Proteins make up more than 50% of the chromosome's composition. While some of these proteins are enzymes involved in DNA and RNA synthesis, the vast majority are histones, which play a structural role in wrapping and packaging the chromosome. There are five primary types of histone proteins: H1, H2A, H2B, H3, and H4. The structures of H3 and H4 are highly conserved across different organisms, reflecting their essential, survival-critical functions that have been preserved throughout evolutionary history.",
+  "questions": [
+    {
+      "q": "What percentage of a eukaryotic chromosome's composition is made up of protein?",
+      "opts": [
+        "Less than 10%",
+        "Exactly 25%",
+        "More than 50%",
+        "Virtually 100%"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide states 'More than 50% of composition is protein.' The other options are incorrect."
+    },
+    {
+      "q": "Which two histone proteins have structures that are highly conserved across different organisms due to their essential function for survival?",
+      "opts": [
+        "H1 and H2A",
+        "H2A and H2B",
+        "H3 and H4",
+        "H1 and H3"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide states 'H3 & H4 structure highly conserved across organisms' and 'Essential function for survival conserved across organisms.' The other pairs are incorrect."
+    }
+  ]
+}

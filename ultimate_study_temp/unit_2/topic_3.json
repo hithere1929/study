@@ -1,0 +1,27 @@
+{
+  "id": "u2_t3",
+  "title": "Osmosis & Diffusion",
+  "cheat_card": [
+    "<b>Diffusion</b> is the passive, random movement of molecules from <b>high to low concentration</b> down their gradient. Small, nonpolar gases (like <b>O2 and CO2</b>) diffuse freely across the selectively permeable membrane.",
+    "<b>Osmosis</b> is the diffusion of water across a semipermeable membrane. Water moves through channel proteins called <b>aquaporins</b> from high water concentration (low solute concentration) to low water concentration (high solute concentration).",
+    "<b>Tonicity</b> governs water movement: in <b>hypotonic</b> solutions (lower solute concentration outside), animal cells expand and undergo <b>lysis</b> while plant cells become <b>turgid</b>. In <b>hypertonic</b> solutions (higher solute concentration outside), cells lose water and shrink, causing plant cells to become <b>plasmolyzed</b>.",
+    "<b>Facilitated diffusion</b> uses <i>channel</i> or <i>carrier proteins</i> to move polar/charged substances down their gradient <b>without energy</b>. <b>Active transport</b> uses <b>ATP</b> to pump solutes <i>against</i> their gradient (e.g., the <b>sodium-potassium pump</b>).",
+    "<b>Bulk transport</b> uses vesicles: <b>exocytosis</b> exports large molecules (neurotransmitters, hormones) from the <i>Golgi body</i>, while <b>endocytosis</b> imports substances via <b>phagocytosis</b> (engulfing solids into vacuoles), <b>pinocytosis</b> (liquids), or <b>receptor-mediated endocytosis</b> (e.g., cholesterol uptake)."
+  ],
+  "memory_anchor": "| Transport Type | Direction (vs. Gradient) | Energy Required? | Key Transporters / Mechanisms |\n|---|---|---|---|\n| **Simple Diffusion** | Down (High to Low) | No | Direct lipid bilayer passage (O2, CO2) |\n| **Osmosis** | Down (High to Low water) | No | Aquaporins |\n| **Facilitated Diffusion** | Down (High to Low) | No | Channel and carrier proteins |\n| **Active Transport** | Against (Low to High) | Yes (ATP) | Membrane pumps (Sodium-Potassium Pump) |\n| **Bulk Transport** | Varies (Large molecules) | Yes (ATP) | Exocytosis & Endocytosis (Phago/Pino/Receptor-mediated) |",
+  "flashcards": [
+    {
+      "q": "What happens to animal and plant cells when placed in a hypotonic solution, and why do their fates differ?",
+      "a": "In a hypotonic solution, water rushes into both cells. The animal cell swells and undergoes lysis (bursts) because it lacks a rigid boundary. The plant cell swells but does not burst; instead, the rigid cell wall exerts turgor pressure, keeping the cell firm and turgid (its normal state)."
+    },
+    {
+      "q": "Explain the difference between channel proteins and carrier proteins in facilitated diffusion.",
+      "a": "Channel proteins provide a static hydrophilic pathway (tunnel) through which specific ions or polar molecules can rapidly flow down their concentration gradient. Carrier proteins physically bind their specific target molecules, undergo a conformational change (shape change) to move the molecule across, and release it on the other side."
+    },
+    {
+      "q": "How do phagocytosis, pinocytosis, and receptor-mediated endocytosis differ in their specificity and mechanism?",
+      "a": "Phagocytosis is the non-specific engulfment of large solid particles by wrapping the cell membrane around them to form a food vacuole. Pinocytosis is the non-specific uptake of extracellular fluids. Receptor-mediated endocytosis is highly specific, using membrane receptors to bind specific target molecules (like cholesterol) before pinching the membrane inward to form a vesicle."
+    }
+  ],
+  "outline_blanks": "Passage of polar substances down their concentration gradient without energy is known as [[facilitated diffusion]], which relies on proteins like [[aquaporins]] for rapid water transport. Under [[hypotonic]] conditions, animal cells will swell and undergo [[lysis]], whereas plant cells become [[turgid]]. To move solutes against their gradient, the cell performs [[active transport]], utilizing energy in the form of [[ATP]] to operate carrier proteins such as the [[sodium-potassium pump]]."
+}

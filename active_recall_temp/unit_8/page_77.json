@@ -1,0 +1,45 @@
+{
+  "unit": 8,
+  "page": 77,
+  "filename": "Unit_8_5.txt",
+  "section_title": "Cellular Respiration",
+  "page_num_in_file": 5,
+  "slide_title": "Cellular Respiration¨Cellular respiration includes four phases:¨Glycolysisis the breakdown of glucose into two molecules of pyruvate¤Occurs in the cytoplasm¤ATP is formed¤Does not utilize oxygen (anaerobic)nIf no oxygen present after pyruvate, undergoes fermentation instead of moving into mitochondria¨Preparatory (prep) reaction¤Both pyruvates are oxidized and enter the mitochondria¤Electron energy is stored in NADH¤Two carbons are released as CO2(one from each pyruvate)\n¨Citric acid cycle¤Occurs in the matrix of the mitochondrion and produces NADH and FADH2¤In series of reactions, it releases 4 carbons as CO2¤Turns twice per glucose molecule (once for each pyruvate)¤Produces two immediate ATP molecules per glucose molecule¨Electron transport chain (ETC)¤Extracts energy from NADH & FADH2¤Passes electrons from higher to lower energy states¤Produces 32 or 34 molecules of ATP",
+  "original_text": "Cellular Respiration¨Cellular respiration includes four phases:¨Glycolysisis the breakdown of glucose into two molecules of pyruvate¤Occurs in the cytoplasm¤ATP is formed¤Does not utilize oxygen (anaerobic)nIf no oxygen present after pyruvate, undergoes fermentation instead of moving into mitochondria¨Preparatory (prep) reaction¤Both pyruvates are oxidized and enter the mitochondria¤Electron energy is stored in NADH¤Two carbons are released as CO2(one from each pyruvate)\n¨Citric acid cycle¤Occurs in the matrix of the mitochondrion and produces NADH and FADH2¤In series of reactions, it releases 4 carbons as CO2¤Turns twice per glucose molecule (once for each pyruvate)¤Produces two immediate ATP molecules per glucose molecule¨Electron transport chain (ETC)¤Extracts energy from NADH & FADH2¤Passes electrons from higher to lower energy states¤Produces 32 or 34 molecules of ATP",
+  "explanation": "Cellular respiration consists of four distinct phases: 1) Glycolysis: the anaerobic breakdown of glucose into two molecules of pyruvate, occurring in the cytoplasm, and producing ATP. If oxygen is absent, pyruvate undergoes fermentation in the cytoplasm instead of entering the mitochondria. 2) Preparatory (prep) reaction: both pyruvate molecules are oxidized, entering the mitochondria. Electron energy is stored in NADH, and two carbons are released as CO2 (one per pyruvate). 3) Citric Acid Cycle: occurs in the mitochondrial matrix, producing NADH and FADH2 while releasing four carbons as CO2. It turns twice per glucose molecule (once per pyruvate) and produces two immediate ATP molecules per glucose. 4) Electron Transport Chain (ETC): extracts energy from NADH and FADH2, passing electrons from higher to lower energy levels to yield 32 or 34 molecules of ATP.",
+  "questions": [
+    {
+      "q": "Which phase of cellular respiration occurs in the cytoplasm and does NOT require oxygen?",
+      "opts": [
+        "Preparatory reaction",
+        "Citric acid cycle",
+        "Glycolysis",
+        "Electron transport chain"
+      ],
+      "a": 2,
+      "exp": "The notes state that Glycolysis 'breakdown of glucose into two molecules of pyruvate' and 'Occurs in the cytoplasm' and 'Does not utilize oxygen (anaerobic).'"
+    },
+    {
+      "q": "How many turns of the Citric Acid Cycle occur per glucose molecule, and how many immediate ATPs are produced?",
+      "opts": [
+        "One turn; 1 ATP",
+        "Two turns; 2 ATP",
+        "Two turns; 32-34 ATP",
+        "Four turns; 4 ATP"
+      ],
+      "a": 1,
+      "exp": "The notes state that the Citric acid cycle 'Turns twice per glucose molecule (once for each pyruvate)' and 'Produces two immediate ATP molecules per glucose molecule.'"
+    },
+    {
+      "q": "Which phase of cellular respiration produces the vast majority of ATP (32 or 34 molecules)?",
+      "opts": [
+        "Glycolysis",
+        "Preparatory reaction",
+        "Citric acid cycle",
+        "Electron transport chain (ETC)"
+      ],
+      "a": 3,
+      "exp": "The notes state that the Electron transport chain 'Produces 32 or 34 molecules of ATP.'"
+    }
+  ]
+}

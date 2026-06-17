@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 29,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 14,
+  "slide_title": "Endoplasmic Reticulum (ER)",
+  "original_text": "Endoplasmic Reticulum (ER)\nSystem of membranous tubes and sacs known as cisternae\nintracellular highway’ \na path that molecules travel to move from one part of the cell to another\nQuantity of ER  in a cell varies depending on its activity level\nTwo types:\nRough\nSmooth\nContinuous–form an interconnected network",
+  "explanation": "The Endoplasmic Reticulum (ER) is a system of membranous tubes and sacs called cisternae. It functions as an 'intracellular highway', providing a pathway for molecules to travel from one part of the cell to another. The total amount of ER in a cell varies based on its activity level. The ER is divided into two continuous types that form an interconnected network: Rough ER and Smooth ER.",
+  "questions": [
+    {
+      "q": "What are the membranous tubes and sacs of the Endoplasmic Reticulum called?",
+      "opts": [
+        "Cisternae",
+        "Cristae",
+        "Thylakoids",
+        "Vesicles"
+      ],
+      "a": 0,
+      "exp": "The slide defines the ER as a system of membranous tubes and sacs known as cisternae."
+    },
+    {
+      "q": "Why is the Endoplasmic Reticulum nicknamed the 'intracellular highway'?",
+      "opts": [
+        "It exports waste directly outside the cell.",
+        "It is a path that molecules travel to move from one part of the cell to another.",
+        "It is the site of cell division.",
+        "It connects different cells in a colonial organism."
+      ],
+      "a": 1,
+      "exp": "The ER is called the 'intracellular highway' because it is a path that molecules travel to move from one part of the cell to another."
+    }
+  ]
+}

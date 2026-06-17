@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 50,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 35,
+  "slide_title": "Plant Cell Structure",
+  "original_text": "Plant Cell Structure",
+  "explanation": "This page is a placeholder or title slide for Plant Cell Structure.",
+  "questions": [
+    {
+      "q": "What is the title of the slide shown on this page?",
+      "opts": [
+        "Plant Cell Structure",
+        "Animal Cell Comparison",
+        "Plastid Types",
+        "Photosynthesis Stages"
+      ],
+      "a": 0,
+      "exp": "The slide is titled 'Plant Cell Structure'."
+    }
+  ]
+}

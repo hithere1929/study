@@ -1,0 +1,23 @@
+{
+  "unit": 8,
+  "page": 118,
+  "filename": "Unit_8_7.txt",
+  "section_title": "Conservation of Biodiversity",
+  "page_num_in_file": 8,
+  "slide_title": "Value of Biodiversity¨Direct Value¤A great number of species perform services from which humans can derive an economic value.¤These include, Medicinal value, Agricultural value, & Consumptive Use Value¤Medicinal ValuenMost of the prescription drugs currently used in the United States were originally derived from living organismsnWorth about $200 billionnEx: Rosy Periwinkle –leukemia treatment; penicillin -treatment of bacterial infections; blood from Limulus -used to ensure that medical devices remain free of bacteria",
+  "original_text": "Value of Biodiversity¨Direct Value¤A great number of species perform services from which humans can derive an economic value.¤These include, Medicinal value, Agricultural value, & Consumptive Use Value¤Medicinal ValuenMost of the prescription drugs currently used in the United States were originally derived from living organismsnWorth about $200 billionnEx: Rosy Periwinkle –leukemia treatment; penicillin -treatment of bacterial infections; blood from Limulus -used to ensure that medical devices remain free of bacteria",
+  "explanation": "Biodiversity possesses direct economic value for humans, categorized into medicinal value, agricultural value, and consumptive use value. The medicinal value of biodiversity is immense; most prescription drugs used in the United States were originally derived from living organisms, creating a market worth approximately $200 billion. Key examples include: the Rosy Periwinkle, which yields compounds used to treat leukemia; penicillin, an antibiotic derived from fungi used to treat bacterial infections; and the blood of Limulus (horseshoe crab), which is utilized to ensure medical devices remain free of bacterial contamination.",
+  "questions": [
+    {
+      "q": "Which of the following is NOT listed as an example of the medicinal value of biodiversity?",
+      "opts": [
+        "Rosy Periwinkle used to treat leukemia",
+        "Penicillin used to treat bacterial infections",
+        "Blood from Limulus used to keep medical devices free of bacteria",
+        "Opossum shrimp used to reduce muscle fatigue"
+      ],
+      "a": 3,
+      "exp": "The notes list Rosy Periwinkle, penicillin, and blood from Limulus as medicinal examples. Opossum shrimp is mentioned as an invasive species in a food competition example, not as a medicine."
+    }
+  ]
+}

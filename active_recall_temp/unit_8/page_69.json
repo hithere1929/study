@@ -1,0 +1,23 @@
+{
+  "unit": 8,
+  "page": 69,
+  "filename": "Unit_8_4.txt",
+  "section_title": "Photosynthesis",
+  "page_num_in_file": 16,
+  "slide_title": "Plants as Carbon Dioxide Fixers¨Importance of the Calvin Cycle:¤G3P (glyceraldehyde-3-phosphate) can be converted to many other molecules¤The hydrocarbon skeleton of G3P can formnFatty acids and glycerol to make plant oilsnGlucose phosphate (simple sugar)nFructose (which with glucose = sucrose)nStarch and cellulosenAmino acids",
+  "original_text": "Plants as Carbon Dioxide Fixers¨Importance of the Calvin Cycle:¤G3P (glyceraldehyde-3-phosphate) can be converted to many other molecules¤The hydrocarbon skeleton of G3P can formnFatty acids and glycerol to make plant oilsnGlucose phosphate (simple sugar)nFructose (which with glucose = sucrose)nStarch and cellulosenAmino acids",
+  "explanation": "G3P (glyceraldehyde-3-phosphate) is a key product of the Calvin cycle because of its chemical versatility. The hydrocarbon skeleton of G3P can be utilized by plants to synthesize a variety of crucial organic molecules. Specifically, G3P can form: fatty acids and glycerol (to make plant oils), glucose phosphate (a simple sugar), fructose (which can combine with glucose to form sucrose), storage starch, structural cellulose, and amino acids.",
+  "questions": [
+    {
+      "q": "Which of the following molecules CANNOT be synthesized from G3P's hydrocarbon skeleton according to the notes?",
+      "opts": [
+        "Fatty acids and glycerol",
+        "Starch and cellulose",
+        "Atmospheric nitrogen gas",
+        "Glucose phosphate and fructose"
+      ],
+      "a": 2,
+      "exp": "The notes state that G3P can form fatty acids, glycerol, glucose phosphate, fructose, starch, cellulose, and amino acids. Atmospheric nitrogen gas is inorganic and cannot be synthesized by plants."
+    }
+  ]
+}

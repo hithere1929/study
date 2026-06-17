@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 86,
+  "filename": "Unit_2_3.txt",
+  "section_title": "Movement of Molecules",
+  "page_num_in_file": 12,
+  "slide_title": "Osmosis",
+  "original_text": "Osmosis¨If a membrane, permeable to water but not to a solute, separates two solutions with different concentrations of solute, water will cross the membrane, moving down its own concentration gradient, until the solute concentration on both sides is equal.",
+  "explanation": "Osmosis occurs when a selectively permeable membrane (which allows water to pass through but blocks solute molecules) separates two solutions of unequal solute concentrations. In this scenario, water molecules will cross the membrane, moving down their own concentration gradient (from the side with a lower solute concentration, which has more free water molecules, to the side with a higher solute concentration) until the solute concentration becomes equal on both sides.",
+  "questions": [
+    {
+      "q": "Under what condition will water move across a membrane during osmosis?",
+      "opts": [
+        "When the membrane is permeable to the solute but not to water.",
+        "When the membrane is permeable to water but not to the solute, and there is a difference in solute concentration.",
+        "When both solute and water can cross the membrane with equal ease.",
+        "Only when ATP energy is applied to force water across."
+      ],
+      "a": 1,
+      "exp": "Osmosis occurs specifically when a membrane is permeable to water but impermeable to the solute, allowing water to flow down its own concentration gradient to balance the solute concentrations."
+    }
+  ]
+}

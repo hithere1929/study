@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 64,
+  "filename": "Unit_6_5.txt",
+  "section_title": "Plant Evolution & Diversity",
+  "page_num_in_file": 14,
+  "slide_title": "Diversity -Angiosperms\u00a8Angiosperms (phylum Anthophyta) \u00a4An exceptionally large and successful group of plants \u00a4Ovules are always enclosed within diploid tissues \u00a4Became dominant group of plants in the late Cretaceous and early Paleocene periods\u00a8Monocots and Eudicots \u00a4Two classes of flowering plants nMonocotyledones(Monocots) One cotyledon in seednCorn, tulips, pineapples, bamboo, sugarcanenEudicotyledones(Dicots) Two cotyledons in seednCacti, strawberry, dandelion, poplars, beans\u00a4Other differences found in chart",
+  "original_text": "Diversity -Angiosperms\u00a8Angiosperms (phylum Anthophyta) \u00a4An exceptionally large and successful group of plants \u00a4Ovules are always enclosed within diploid tissues \u00a4Became dominant group of plants in the late Cretaceous and early Paleocene periods\u00a8Monocots and Eudicots \u00a4Two classes of flowering plants nMonocotyledones(Monocots) One cotyledon in seednCorn, tulips, pineapples, bamboo, sugarcanenEudicotyledones(Dicots) Two cotyledons in seednCacti, strawberry, dandelion, poplars, beans\u00a4Other differences found in chart",
+  "explanation": "Angiosperms, belonging to the phylum Anthophyta, are an exceptionally large and successful group of plants whose ovules are always enclosed within diploid maternal tissues. They became the dominant plant group during the late Cretaceous and early Paleocene periods. Flowering plants are divided into two classes: 1) Monocots (Monocotyledones), which have one cotyledon in the seed (including corn, tulips, pineapples, bamboo, and sugarcane); and 2) Eudicots (Eudicotyledones or Dicots), which have two cotyledons in the seed (including cacti, strawberries, dandelions, poplars, and beans).",
+  "questions": [
+    {
+      "q": "What maternal tissue characteristic defines angiosperms?",
+      "opts": [
+        "Ovules are exposed on the surface of cones.",
+        "Ovules are enclosed within diploid tissues.",
+        "Seeds contain only a haploid endosperm.",
+        "They lack vascular tissues."
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Ovules are always enclosed within diploid tissues'."
+    },
+    {
+      "q": "Which of the following plants is classified as a Eudicot (Dicot)?",
+      "opts": [
+        "Corn",
+        "Bamboo",
+        "Sugarcane",
+        "Dandelion"
+      ],
+      "a": 3,
+      "exp": "The notes list 'Cacti, strawberry, dandelion, poplars, beans' as Eudicotyledones (Dicots), while corn, bamboo, and sugarcane are Monocots."
+    },
+    {
+      "q": "How many cotyledons do Monocots and Eudicots have in their seeds, respectively?",
+      "opts": [
+        "One; Two",
+        "Two; One",
+        "One; One",
+        "Two; Two"
+      ],
+      "a": 0,
+      "exp": "According to the notes, Monocots have 'One cotyledon in seed' and Eudicots have 'Two cotyledons in seed'."
+    }
+  ]
+}

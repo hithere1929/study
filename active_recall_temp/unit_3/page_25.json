@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 25,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 10,
+  "slide_title": "Nuclear Structures",
+  "original_text": "Nuclear Structures\nNuclear envelope:\nDouble membrane that surrounds the nucleus\nComposed of 2 phospholipid bilayers\nSurface covered with protein-lined holes known as nuclear pores\nProvide passageways for RNA and other materials to be transported in and out of the nucleus\nNucleolus:\nArea in the nucleus of higher density\nSite where DNA is concentrated during the process of producing ribosomal RNA\nRibosomes: organelles made of protein and RNA that direct protein synthesis in cytoplasm",
+  "explanation": "The nucleus contains specialized structures. The nuclear envelope is a double membrane that surrounds the nucleus and consists of two distinct phospholipid bilayers. Its surface is perforated by protein-lined openings called nuclear pores, which serve as passageways for RNA and other substances moving between the nucleus and the cytoplasm. Within the nucleus, the nucleolus is a dense region where DNA is concentrated during the production of ribosomal RNA (rRNA). Ribosomes, which are organelles composed of protein and RNA, subsequently direct protein synthesis in the cytoplasm.",
+  "questions": [
+    {
+      "q": "How many phospholipid bilayers make up the double membrane of the nuclear envelope?",
+      "opts": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "a": 1,
+      "exp": "The nuclear envelope is a double membrane composed of 2 phospholipid bilayers."
+    },
+    {
+      "q": "What is the function of the nucleolus?",
+      "opts": [
+        "It transcribes RNA into DNA.",
+        "It is the site where DNA is concentrated during the production of ribosomal RNA.",
+        "It acts as a gateway for proteins entering the cytoplasm.",
+        "It synthesizes lipids and sterols for the membrane."
+      ],
+      "a": 1,
+      "exp": "The nucleolus is the area of higher density in the nucleus where DNA is concentrated to produce ribosomal RNA."
+    }
+  ]
+}

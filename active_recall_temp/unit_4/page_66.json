@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 66,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 15,
+  "slide_title": "1) Chromatin Structure Regulation¨Heterochromatin is not transcribed¤In genetic females, one X chromosome is inactivated in a process called X-inactivation –creates a Barr BodynOne gets highly condensed, and unavailable for transcriptionnMeans genetic males and females will produce same amount of gene products from X chromosomenX chromosome inactivated differs from cell to cellnCan result in mosaic expression with some heterozygous genes",
+  "original_text": "1) Chromatin Structure Regulation¨Heterochromatin is not transcribed¤In genetic females, one X chromosome is inactivated in a process called X-inactivation –creates a Barr BodynOne gets highly condensed, and unavailable for transcriptionnMeans genetic males and females will produce same amount of gene products from X chromosomenX chromosome inactivated differs from cell to cellnCan result in mosaic expression with some heterozygous genes",
+  "explanation": "Heterochromatin is highly condensed and cannot be transcribed. In genetic female mammals (who inherit two X chromosomes), one of the two X chromosomes is permanently shut down in a process called X-inactivation, forming a highly condensed structure known as a Barr Body. This inactivation ensures dosage compensation, meaning that genetic males (who have only one X chromosome) and females produce equivalent amounts of gene products from X-linked genes. The choice of which X chromosome is inactivated (maternal or paternal) occurs randomly and independently in each embryonic cell. Consequently, if a female is heterozygous for a gene on the X chromosome, she will show a mosaic pattern of expression, where different cells express different alleles.",
+  "questions": [
+    {
+      "q": "What is a 'Barr Body'?",
+      "opts": [
+        "A ribosome that has bound to eukaryotic mRNA in the cytoplasm.",
+        "A highly condensed, inactivated X chromosome in genetic females.",
+        "An active area of euchromatin undergoing rapid transcription.",
+        "A protein complex that replicates circular plasmids."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'In genetic females, one X chromosome is inactivated in a process called X-inactivation - creates a Barr Body' and explains it is 'highly condensed, and unavailable for transcription.' Options A, C, and D are incorrect."
+    },
+    {
+      "q": "Why is X-inactivation biologically important in mammals?",
+      "opts": [
+        "It allows females to produce twice as many X-linked proteins as males.",
+        "It ensures that genetic males and females produce the same amount of gene products from X chromosome genes.",
+        "It prevents DNA replication errors during mitosis.",
+        "It triggers meiosis in female gametes."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide explains that X-inactivation 'Means genetic males and females will produce same amount of gene products from X chromosome.' Option A is the opposite, and Options C and D are incorrect."
+    }
+  ]
+}

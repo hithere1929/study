@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 34,
+  "filename": "Unit_7_2.txt",
+  "section_title": "Plant Nutrition and Transport",
+  "page_num_in_file": 13,
+  "slide_title": "Transport Mechanisms: Organic Nutrient Transport",
+  "original_text": "Transport Mechanisms Organic Nutrient Transport: Role of phloem Phloem transports sugar. Phloem sap doesn’t only move upward or downward as xylem does. Travels from source (sugar’s origin) to sink (sugars are unloaded) Girdling of tree below the level of leaves causes bark to swell just above the cut. Sugar accumulates in the swollen tissue. Radioactive tracer studies confirm that phloem transports organic nutrients. Phloem sap can be collected using aphids.",
+  "explanation": "Phloem transports sucrose and other organic nutrients throughout the plant. Unlike xylem transport, which is strictly upward, phloem sap moves in multiple directions from a source (where sugar is produced or mobilized) to a sink (where sugar is unloaded and consumed or stored). Girdling (removing a strip of bark around a tree trunk) removes the phloem but leaves the xylem intact, causing the bark to swell just above the cut as sugars accumulate. Radioactive tracer studies (such as using carbon-14) have confirmed that phloem is the tissue that transports organic compounds. Researchers can collect pure phloem sap by utilizing aphids, insects that insert their mouthparts (stylets) directly into sieve-tube members.",
+  "questions": [
+    {
+      "q": "In phloem transport, how is the direction of sap flow determined?",
+      "opts": [
+        "Unidirectionally from the roots to the leaves",
+        "Multidirectionally from a sugar source to a sugar sink",
+        "Unidirectionally from the leaves to the roots only",
+        "Randomly, depending on wind and gravity"
+      ],
+      "a": 1,
+      "exp": "Phloem transport is multidirectional, moving from sugar sources (like photosynthetic leaves) to sugar sinks (like growing roots, stems, or fruits)."
+    },
+    {
+      "q": "What happens when a tree trunk is girdled (a ring of bark is removed)?",
+      "opts": [
+        "Water transport stops immediately, causing the leaves to wilt.",
+        "The tree grows faster because minerals accumulate in the roots.",
+        "Organic nutrients accumulate above the cut, causing the bark to swell.",
+        "The tree starts reproducing immediately."
+      ],
+      "a": 2,
+      "exp": "Bark contains phloem. Girdling removes the phloem, preventing organic nutrients from moving down past the cut, which causes them to accumulate and swell the bark above it."
+    },
+    {
+      "q": "How can researchers collect pure phloem sap from plants?",
+      "opts": [
+        "By cutting open xylem vessel elements",
+        "By using aphids to tap into sieve-tube members",
+        "By boiling leaves in alcohol",
+        "By performing hydroponic extractions on roots"
+      ],
+      "a": 1,
+      "exp": "Aphids feed by inserting their stylets directly into sieve-tube members. Researchers cut the aphid's mouthparts to collect pure phloem sap flowing under pressure."
+    }
+  ]
+}

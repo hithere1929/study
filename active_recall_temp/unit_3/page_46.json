@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 46,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 31,
+  "slide_title": "Cilia and Flagella",
+  "original_text": "Cilia and Flagella\nHair-like structures that extend from the cell surface Cilia: short, present in large numbers in certain cells\nFlagella: longer and far less numerous on the particular cells in which they’re present\nMembrane on the outer surface; inside, -two central tubules surrounded by nine pairs of microtubules \nFunctions:\nAssist in movement\nCilia in inner ear vibrate and help detect sound\nCilia present in protistsmove the cells through water like oars; sweep water and food particles into mouth-like opening\nFlagella used to propel cells like protistsand sperm",
+  "explanation": "Cilia and flagella are hair-like organelles that extend outward from the cell surface. Cilia are relatively short and typically present in large numbers on a cell, whereas flagella are longer and much less numerous. Structurally, both are covered by an outer membrane and contain a internal core of two central microtubules surrounded by nine pairs of outer microtubules. Cilia and flagella function in cell movement or sensory roles: flagella propel cells (such as protists and sperm), while cilia can move protists through water like oars, sweep food/water particles into mouth-like openings, or vibrate in the inner ear of multicellular organisms to assist in sound detection.",
+  "questions": [
+    {
+      "q": "What is the structural arrangement of microtubules inside cilia and flagella?",
+      "opts": [
+        "A random bundle of tubulin fibers",
+        "Two central tubules surrounded by nine pairs of microtubules",
+        "Three central tubules surrounded by nine triplets of microtubules",
+        "Nine central tubules surrounded by two pairs of microtubules"
+      ],
+      "a": 1,
+      "exp": "Inside cilia and flagella, there are two central tubules surrounded by nine pairs of microtubules."
+    },
+    {
+      "q": "Which of the following is a non-locomotive function of cilia mentioned on this page?",
+      "opts": [
+        "Propelling sperm cells",
+        "Vibrating in the inner ear to help detect sound",
+        "Synthesizing proteins for the endomembrane system",
+        "Pumping calcium ions into the smooth ER"
+      ],
+      "a": 1,
+      "exp": "The slide states that cilia in the inner ear vibrate and help detect sound, which is a sensory function rather than movement of the cell itself."
+    }
+  ]
+}

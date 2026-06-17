@@ -1449,6 +1449,12 @@ function loadState() {
 
   const savedUltimateZen = localStorage.getItem('ultimate_zen_mode_v1');
   if (savedUltimateZen) appState.ultimateZenMode = savedUltimateZen === 'true';
+
+  const savedActualAnswers = localStorage.getItem('actual_outline_answers_v1');
+  if (savedActualAnswers) {
+    try { appState.actualOutlineAnswers = JSON.parse(savedActualAnswers); } catch(e) {}
+  }
+  if (!appState.actualOutlineAnswers) appState.actualOutlineAnswers = {};
 }
 
 // Save study progress state
@@ -1466,6 +1472,7 @@ function saveState() {
   localStorage.setItem('ultimate_recall_blanks_v1', JSON.stringify(appState.ultimateRecallBlanks));
   localStorage.setItem('ultimate_outline_unit_v1', appState.ultimateActiveOutlineUnit || 1);
   localStorage.setItem('ultimate_zen_mode_v1', appState.ultimateZenMode);
+  localStorage.setItem('actual_outline_answers_v1', JSON.stringify(appState.actualOutlineAnswers));
 
   flashSaveIndicator();
 }
@@ -1613,6 +1620,8 @@ function showView(viewId) {
     renderActiveRecallView(mainView);
   } else if (viewId === 'ultimate-study') {
     renderUltimateStudyView(mainView);
+  } else if (viewId === 'actual-outline') {
+    renderActualOutlineView(mainView);
   }
   
   window.scrollTo(0, 0);
@@ -3736,6 +3745,12 @@ function renderSidebarNav() {
         <button class="unit-nav-btn ${appState.currentView === 'ultimate-study' ? 'active' : ''}" data-target="ultimate-study">
           <span class="unit-nav-name">⚡ Ultimate Outline Study</span>
           <span class="unit-badge" style="background:var(--amber-soft); color:var(--amber-ink); border-color:var(--amber-border);">Core</span>
+        </button>
+      </li>
+      <li>
+        <button class="unit-nav-btn ${appState.currentView === 'actual-outline' ? 'active' : ''}" data-target="actual-outline">
+          <span class="unit-nav-name">📋 Actual Test Outline</span>
+          <span class="unit-badge" style="background:var(--accent-soft); color:var(--accent-ink); border-color:var(--accent-soft-2);">Outline</span>
         </button>
       </li>
     `;

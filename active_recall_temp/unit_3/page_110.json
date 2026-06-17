@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 110,
+  "filename": "Unit_3_5.txt",
+  "section_title": "Stem Cells & Cancer",
+  "page_num_in_file": 16,
+  "slide_title": "Causes of Cancer",
+  "original_text": "Causes of Cancer\nProto-oncogenes\nProteins that promote cell cycle and prevent apoptosis\nCell Cycle Gas pedal\nTumor Suppressor Genes\nProteins that inhibit cell cycle and promote apoptosis\nCell Cycle Brake Pedal\nMutations accumulated can affect the genes that code for these proteins",
+  "explanation": "Cancer is caused by genetic mutations that affect two major classes of cell cycle regulatory genes. Proto-oncogenes code for proteins that promote progression through the cell cycle and prevent apoptosis, functioning as the cell cycle's 'gas pedal'. In contrast, tumor suppressor genes code for proteins that inhibit cell cycle progression and promote apoptosis, acting as the cell cycle's 'brake pedal'. Accumulating mutations in the genes coding for these proteins can lead to uncontrolled cell division.",
+  "questions": [
+    {
+      "q": "How do proto-oncogenes and tumor suppressor genes compare in cell cycle regulation?",
+      "opts": [
+        "Proto-oncogenes act as the brake pedal; tumor suppressors act as the gas pedal.",
+        "Proto-oncogenes act as the gas pedal (promote cycle); tumor suppressors act as the brake pedal (inhibit cycle).",
+        "Both genes promote cell cycle division.",
+        "Both genes act to cause immediate apoptosis."
+      ],
+      "a": 1,
+      "exp": "Proto-oncogenes promote the cell cycle and prevent apoptosis (acting as the 'gas pedal'), while tumor suppressor genes inhibit the cell cycle and promote apoptosis (acting as the 'brake pedal')."
+    }
+  ]
+}

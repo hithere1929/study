@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 156,
+  "filename": "Unit_4_8.txt",
+  "section_title": "Mendelian Inheritance P1 - Mendelian Genetics",
+  "page_num_in_file": 11,
+  "slide_title": "Mendel’s Monohybrid Cross",
+  "original_text": "Mendel’s Monohybrid Cross",
+  "explanation": "Mendel's monohybrid crosses showed that recessive traits disappear in the F1 generation only to reappear in the F2 generation, proving that traits are inherited as discrete particles rather than blended.",
+  "questions": [
+    {
+      "q": "Which generation in Mendel's monohybrid cross first shows the reappearance of the recessive phenotype?",
+      "opts": [
+        "Parental (P) generation",
+        "First filial (F1) generation",
+        "Second filial (F2) generation",
+        "Third filial (F3) generation"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the recessive phenotype is hidden in the F1 generation and reappears in the F2 generation after F1 self-pollination."
+    }
+  ]
+}

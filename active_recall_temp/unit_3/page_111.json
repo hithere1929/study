@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 111,
+  "filename": "Unit_3_5.txt",
+  "section_title": "Stem Cells & Cancer",
+  "page_num_in_file": 17,
+  "slide_title": "Causes of Cancer",
+  "original_text": "Causes of Cancer\nMutation may cause over stimulation of oncogene to produce proteins, or gene or chromosome duplication can result in more copies of the gene\nrasgene family most commonly affected\nBRCA1 in breast cancer\nMutations or chromosome deletions can result in abnormal or missing tumor suppressors\nof all human cancers have broken or missing p53 gene\nMany more examples you may find in future courses",
+  "explanation": "Mutations can lead to cancer by overstimulating proto-oncogenes to form oncogenes, or through gene/chromosome duplications that increase gene copy number. The ras gene family is the most commonly affected proto-oncogene family, and BRCA1 is a well-known example linked to breast cancer. Conversely, mutations or chromosome deletions can result in abnormal or missing tumor suppressors. Notably, approximately half (1/2) of all human cancers are associated with a broken or missing p53 tumor suppressor gene.",
+  "questions": [
+    {
+      "q": "Approximately what fraction of all human cancers are associated with a broken or missing p53 tumor suppressor gene?",
+      "opts": [
+        "1/10",
+        "1/4",
+        "1/2",
+        "9/10"
+      ],
+      "a": 2,
+      "exp": "The slide states that half (1/2) of all human cancers have a broken or missing p53 gene."
+    },
+    {
+      "q": "Which of the following is an example of an oncogene/gene family mentioned on this page?",
+      "opts": [
+        "p53",
+        "ras family (and BRCA1)",
+        "Caspase-3",
+        "Tubulin-alpha"
+      ],
+      "a": 1,
+      "exp": "The slide lists the ras gene family (and BRCA1 in breast cancer) as examples where mutations can cause overstimulation."
+    }
+  ]
+}

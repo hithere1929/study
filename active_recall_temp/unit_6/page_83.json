@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 83,
+  "filename": "Unit_6_7.txt",
+  "section_title": "Vertebrates",
+  "page_num_in_file": 4,
+  "slide_title": "Nonvertebrate Chordates\u00a8Do not have a spine made of bony vertebrate\u00a8Lancelets (cephalochordates)\u00a4Marine Chordates\u00a4Maintain all 4 characteristics of chordates for entire life\u00a8Sea squirts (urochordates)\u00a4Also known as tunicatesnHave an outer, tunic-like coveringnLarva posses all 4 characteristics\u00a8You can see the phylogenetic tree of all chordates here",
+  "original_text": "Nonvertebrate Chordates\u00a8Do not have a spine made of bony vertebrate\u00a8Lancelets (cephalochordates)\u00a4Marine Chordates\u00a4Maintain all 4 characteristics of chordates for entire life\u00a8Sea squirts (urochordates)\u00a4Also known as tunicatesnHave an outer, tunic-like coveringnLarva posses all 4 characteristics\u00a8You can see the phylogenetic tree of all chordates here",
+  "explanation": "Nonvertebrate chordates are chordate organisms that do not have a spine composed of bony vertebrae. They include: 1) Lancelets (cephalochordates), which are marine chordates that maintain all 4 characteristics of chordates for their entire life; and 2) Sea squirts (urochordates), also known as tunicates, which possess an outer, tunic-like covering. In sea squirts, only the free-swimming larva possesses all 4 chordate characteristics. A phylogenetic tree of all chordates is referenced here.",
+  "questions": [
+    {
+      "q": "Which nonvertebrate chordates retain all 4 chordate characteristics throughout their entire life cycle?",
+      "opts": [
+        "Sea squirts (tunicates)",
+        "Lancelets (cephalochordates)",
+        "Lampreys",
+        "Bony fish"
+      ],
+      "a": 1,
+      "exp": "The notes state that lancelets 'Maintain all 4 characteristics of chordates for entire life'."
+    },
+    {
+      "q": "What stage of the sea squirt (urochordate) life cycle possesses all 4 chordate characteristics?",
+      "opts": [
+        "Only the adult stage",
+        "Only the larva stage",
+        "Both adult and larva stages",
+        "Neither stage"
+      ],
+      "a": 1,
+      "exp": "The notes state that in sea squirts (urochordates), the 'Larva posses all 4 characteristics'."
+    },
+    {
+      "q": "What is another name for sea squirts?",
+      "opts": [
+        "Lancelets",
+        "Tunicates",
+        "Placoderms",
+        "Ossicles"
+      ],
+      "a": 1,
+      "exp": "The notes identify: 'Sea squirts (urochordates) Also known as tunicates'."
+    }
+  ]
+}

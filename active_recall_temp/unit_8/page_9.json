@@ -1,0 +1,45 @@
+{
+  "unit": 8,
+  "page": 9,
+  "filename": "Unit_8_1.txt",
+  "section_title": "Behavioral Ecology",
+  "page_num_in_file": 9,
+  "slide_title": "Animal Communication¨Chemical Communication¤Pheromonesare chemical signals that are passed between members of the same speciesnSome animals are capable of secreting different pheromones, each with a different meaning¨Auditory communication¤Faster than chemical communication¤Effective both day and night¤Can be modified by loudness, pattern, repetition, and duration¤Language is the ultimate auditory communication¨Visual communication¤Allows animals to signal others without chemical or auditory messages¤Visual signals are most often usednBy species that are active during the daynIn contests between males who make use of threat posturesnTo establish dominance",
+  "original_text": "Animal Communication¨Chemical Communication¤Pheromonesare chemical signals that are passed between members of the same speciesnSome animals are capable of secreting different pheromones, each with a different meaning¨Auditory communication¤Faster than chemical communication¤Effective both day and night¤Can be modified by loudness, pattern, repetition, and duration¤Language is the ultimate auditory communication¨Visual communication¤Allows animals to signal others without chemical or auditory messages¤Visual signals are most often usednBy species that are active during the daynIn contests between males who make use of threat posturesnTo establish dominance",
+  "explanation": "This slide details three modes of animal communication. 1) Chemical communication relies on pheromones, which are chemical signals passed between members of the same species. Some animals can secrete distinct pheromones to convey different meanings. 2) Auditory communication is faster than chemical communication, works effectively during both day and night, and can be modified by altering loudness, pattern, repetition, and duration. Language is considered the ultimate form of auditory communication. 3) Visual communication allows animals to signal others without relying on chemical or auditory messages. Visual signals are most frequently used by species active during the day, in male-to-male contests using threat postures, and to establish dominance hierarchies.",
+  "questions": [
+    {
+      "q": "What are pheromones?",
+      "opts": [
+        "Auditory signals modified by duration and loudness",
+        "Chemical signals passed between members of the same species",
+        "Visual threat postures used to establish dominance",
+        "Tactile signals exchanged during cooperative foraging"
+      ],
+      "a": 1,
+      "exp": "The notes define pheromones as 'chemical signals that are passed between members of the same species.'"
+    },
+    {
+      "q": "Which of the following is an advantage of auditory communication over chemical communication?",
+      "opts": [
+        "It persists in the environment for days after it is produced.",
+        "It does not require any energy expenditure.",
+        "It is faster than chemical communication and effective both day and night.",
+        "It is only usable by species active during the day."
+      ],
+      "a": 2,
+      "exp": "The notes list advantages of auditory communication: it is 'Faster than chemical communication' and 'Effective both day and night.'"
+    },
+    {
+      "q": "In which scenario is visual communication most commonly utilized?",
+      "opts": [
+        "By nocturnal species during dense nighttime foraging",
+        "In contests between males using threat postures to establish dominance",
+        "Over long distances when wind blocks sound waves",
+        "To mark territorial borders silently over several weeks"
+      ],
+      "a": 1,
+      "exp": "The notes state that visual signals are most often used 'By species that are active during the day', 'In contests between males who make use of threat postures', and 'To establish dominance.'"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 6,
+  "page": 60,
+  "filename": "Unit_6_5.txt",
+  "section_title": "Plant Evolution & Diversity",
+  "page_num_in_file": 10,
+  "slide_title": "Fern Life Cycle",
+  "original_text": "Fern Life Cycle",
+  "explanation": "This slide showcases the multi-stage visual life cycle of ferns, displaying how spores develop into gametophytes and fertilize to form dominant sporophytes.",
+  "questions": [
+    {
+      "q": "Which organism's life cycle is shown on this slide?",
+      "opts": [
+        "Moss Life Cycle",
+        "Fern Life Cycle",
+        "Pine Life Cycle",
+        "Sac Fungi Life Cycle"
+      ],
+      "a": 1,
+      "exp": "The slide is titled 'Fern Life Cycle'."
+    }
+  ]
+}

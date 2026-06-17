@@ -1,0 +1,30 @@
+{
+  "id": "u8_t12",
+  "title": "Cell respiration stages",
+  "cheat_card": [
+    "<b>Glycolysis</b> occurs in the <b>cytoplasm</b> anaerobically, splitting glucose to 2 pyruvates, producing a net of <b>2 ATP</b> and <b>2 NADH</b>.",
+    "The <b>preparatory reaction</b> occurs in the <b>mitochondrial matrix</b>, converting pyruvate to <b>acetyl-CoA</b> and releasing <b>2 $CO_2$</b>.",
+    "The <b>citric acid cycle</b> in the <b>matrix</b> combines acetyl-CoA with <b>oxaloacetate</b> to form citric acid, yielding <b>2 ATP, 6 NADH, 2 FADH2, and 4 $CO_2$</b> per glucose.",
+    "The <b>ETC</b> in the <b>cristae</b> uses oxidative phosphorylation (chemiosmosis) to generate <b>32 or 34 ATP</b>, with oxygen as the final acceptor.",
+    "Overall aerobic cellular respiration yields a net of <b>36-38 ATP</b> per glucose molecule."
+  ],
+  "memory_anchor": "Cell Respiration Stage Map:\n1. Glycolysis (Cytoplasm, Anaerobic, Net 2 ATP)\n2. Prep Reaction (Matrix, Aerobic, 0 ATP, 2 CO2)\n3. Citric Acid Cycle (Matrix, Aerobic, 2 ATP, 4 CO2)\n4. ETC (Cristae, Aerobic, 32 or 34 ATP, 6 H2O)",
+  "flashcards": [
+    {
+      "q": "State the location, oxygen requirement, and net ATP yield of glycolysis.",
+      "q_id": "u8_t12_f1",
+      "a": "Glycolysis occurs in the cytoplasm, is anaerobic (does not require oxygen), and produces a net gain of 2 ATP molecules per glucose."
+    },
+    {
+      "q": "Detail the inputs and outputs of the preparatory reaction per molecule of glucose.",
+      "q_id": "u8_t12_f2",
+      "a": "For each glucose (2 pyruvates), the prep reaction takes in 2 pyruvates and 2 Coenzyme A, producing 2 acetyl-CoA, 2 NADH, and releasing 2 CO2 as waste. No ATP is produced."
+    },
+    {
+      "q": "What molecule begins the citric acid cycle by combining with the incoming acetyl group, what molecule is formed, and where does this occur?",
+      "q_id": "u8_t12_f3",
+      "a": "The 2-carbon acetyl group from acetyl-CoA combines with the 4-carbon molecule oxaloacetate to form the 6-carbon molecule citric acid (citrate) in the mitochondrial matrix."
+    }
+  ],
+  "outline_blanks": "Cellular respiration consists of four distinct phases. Glycolysis occurs in the cytoplasm, converting glucose into pyruvate. Pyruvate then enters the mitochondrial matrix for the preparatory reaction to form [[acetyl-CoA]], which is oxidized in the [[citric acid cycle]] to produce NADH and FADH2. Finally, these coenzymes deliver electrons to the ETC located on the [[cristae]] to synthesize ATP."
+}

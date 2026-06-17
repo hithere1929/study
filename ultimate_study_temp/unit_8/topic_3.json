@@ -1,0 +1,29 @@
+{
+  "id": "u8_t3",
+  "title": "Repro strategies",
+  "cheat_card": [
+    "In <b>polygamous systems</b>, one male mates with multiple females, with <b>females investing more</b> energy in offspring care.",
+    "In <b>polyandrous systems</b>, one female mates with multiple males; this is favored when the <b>environment cannot support</b> young without multiple male helpers.",
+    "In <b>monogamous systems</b>, one male mates with one female, favored when <b>mating opportunities are limited</b>, territoriality exists, and <b>paternal certainty</b> is high.",
+    "<b>Sexual selection</b> drives adaptive changes in males and females leading to <b>female choice</b> (selecting traits) and <b>male competition</b> (combating for access)."
+  ],
+  "memory_anchor": "Mating Systems:\n- Poly-gamy: 1 male, many females. High female investment.\n- Poly-andry: 1 female, many males. Harsh environment needs multiple dads.\n- Mono-gamy: 1 male, 1 female. Paternal certainty & shared defense.",
+  "flashcards": [
+    {
+      "q": "Under what environmental and reproductive conditions is monogamy favored in animal species?",
+      "q_id": "u8_t3_f1",
+      "a": "Monogamy is favored when males have limited mating opportunities, territoriality exists, and there is high paternal certainty (meaning the male is certain the offspring are his), making shared parental care adaptive."
+    },
+    {
+      "q": "What characterizes a polyandrous mating system and when does it typically occur?",
+      "q_id": "u8_t3_f2",
+      "a": "Polyandrous systems involve one female mating with multiple males. This typically occurs in environments that cannot support young without the active, cooperative parenting support of multiple males."
+    },
+    {
+      "q": "What are the two primary outcomes of sexual selection that lead to differential reproductive success?",
+      "q_id": "u8_t3_f3",
+      "a": "The two outcomes are female choice (where females select males based on specific traits/behaviors) and male competition (where males compete directly, e.g., through threat postures or fighting, for access to females)."
+    }
+  ],
+  "outline_blanks": "Different reproductive strategies exist: in [[polygamous]] systems, one male mates with multiple females who invest more in care, whereas in [[polyandrous]] systems, one female mates with multiple males to cope with harsh environments. Under conditions of high paternal certainty and limited mates, [[monogamous]] pairings are favored to maximize reproductive success."
+}

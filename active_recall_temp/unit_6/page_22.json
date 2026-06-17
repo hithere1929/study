@@ -1,0 +1,34 @@
+{
+  "unit": 6,
+  "page": 22,
+  "filename": "Unit_6_2.txt",
+  "section_title": "Prokaryotes",
+  "page_num_in_file": 11,
+  "slide_title": "Domain Bacteria\u00a8Cyanobacteria -Formerly called the Blue-Green algae (Cyanophyta) \u00a4Cyanobacteria are Gram-negative bacteria that photosynthesize \u00a4Believed to be responsible for introducing oxygen into the primitive atmosphere \u00a4Lack visible means of locomotion \u00a4Can live in extreme environments \u00a4When commensals with fungi, form lichens",
+  "original_text": "Domain Bacteria\u00a8Cyanobacteria -Formerly called the Blue-Green algae (Cyanophyta) \u00a4Cyanobacteria are Gram-negative bacteria that photosynthesize \u00a4Believed to be responsible for introducing oxygen into the primitive atmosphere \u00a4Lack visible means of locomotion \u00a4Can live in extreme environments \u00a4When commensals with fungi, form lichens",
+  "explanation": "Cyanobacteria, historically referred to as blue-green algae, are photosynthesizing, Gram-negative bacteria. They are believed to be the organisms responsible for introducing oxygen into Earth's primitive atmosphere. Cyanobacteria lack any visible means of locomotion and are able to survive in extreme environments. When they form commensal relationships with fungi, they form lichens.",
+  "questions": [
+    {
+      "q": "What major ecological role is attributed to Cyanobacteria regarding Earth's early atmosphere?",
+      "opts": [
+        "They depleted all carbon dioxide to trigger an ice age.",
+        "They introduced oxygen into the primitive atmosphere.",
+        "They produced massive amounts of nitrogen gas.",
+        "They synthesized methane, warming the planet."
+      ],
+      "a": 1,
+      "exp": "The notes state that Cyanobacteria are 'Believed to be responsible for introducing oxygen into the primitive atmosphere'."
+    },
+    {
+      "q": "What symbiotic partnership is formed when Cyanobacteria act as commensals with fungi?",
+      "opts": [
+        "Mycorrhizae",
+        "Lichens",
+        "Viroids",
+        "Plasmodium"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'When commensals with fungi, form lichens.'"
+    }
+  ]
+}

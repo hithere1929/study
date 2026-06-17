@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 34,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 34,
+  "slide_title": "3: pH",
+  "original_text": "3: pH¨pH scale used to compare relative concentrations of protons and hydroxide in solution ¨Ranges from 0 –14¤0 = very acidic; 7 = neutral; 14 = very alkaline¨pH scale is logarithmic; each unit is equal to a 10-fold difference, not a 1-fold difference¨Measured by:¤Litmus paper –changes color based on pH¤Chemical indicator –changes color based on pH¤pH meter –directly measures pH and displays on screen",
+  "explanation": "The pH scale is used to compare the relative concentrations of protons (H+) and hydroxide ions (OH-) in a solution. The scale ranges from 0 to 14, where 0 is highly acidic, 7 is neutral, and 14 is highly alkaline (basic). Importantly, the pH scale is logarithmic, meaning that each whole pH unit represents a 10-fold difference in proton concentration rather than a simple 1-fold difference. pH can be measured using litmus paper (which changes color based on acidity), chemical indicators (which also change color), or a digital pH meter that directly measures and displays the pH value.",
+  "questions": [
+    {
+      "q": "Since the pH scale is logarithmic, how much more acidic is a solution with a pH of 5 compared to a solution with a pH of 6?",
+      "opts": [
+        "1 times more acidic",
+        "2 times more acidic",
+        "10 times more acidic",
+        "100 times more acidic"
+      ],
+      "a": 2,
+      "exp": "Because the pH scale is logarithmic, each single unit decrease in pH represents a 10-fold increase in acidity (concentration of protons)."
+    },
+    {
+      "q": "What pH value represents a neutral solution?",
+      "opts": [
+        "0",
+        "7",
+        "10",
+        "14"
+      ],
+      "a": 1,
+      "exp": "A pH of 7 represents a neutral solution (such as pure water)."
+    }
+  ]
+}

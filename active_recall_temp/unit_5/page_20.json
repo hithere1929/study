@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 20,
+  "filename": "Unit_5_1.txt",
+  "section_title": "Darwin & Evidence for Evolution",
+  "page_num_in_file": 20,
+  "slide_title": "Evidence for Evolution",
+  "original_text": "Evidence for Evolution\n\u00a8Evidence from Developmental Biology\n\u00a4Many developmental genes are shared in common between species\n\u00a4Much diversity comes from when these regulatory genes that control the activity of other genes are activated\n   nHoxGenes\n      nOrchestrate the developmental body plan in all animals\n      nCommon Ancestor gene -Number and variety of Hoxgenes varies among animal groups\n      nVariation could lead to the different variety of body plans between species",
+  "explanation": "Developmental biology provides evidence for evolution by showing that many developmental genes are shared across species. Evolutionary diversity often stems not from different genes, but from differences in the timing and activation of regulatory genes that control other genes. A primary example is Hox genes, which orchestrate the developmental body plan in all animals. Derived from a common ancestral gene, the number and variety of Hox genes vary among different animal groups. Variations in these regulatory genes can lead to the wide diversity of body plans observed across animal species.",
+  "questions": [
+    {
+      "q": "What is the primary function of Hox genes in animal development?",
+      "opts": [
+        "They code for metabolic enzymes in the mitochondria.",
+        "They orchestrate the developmental body plan in all animals.",
+        "They determine the geographical range of the species.",
+        "They repair damaged DNA sequences in somatic cells."
+      ],
+      "a": 1,
+      "exp": "Hox genes are developmental regulatory genes that orchestrate the body plan in all animals."
+    },
+    {
+      "q": "How does developmental biology explain the diverse body plans among different animal groups?",
+      "opts": [
+        "By the acquisition of traits during an individual's lifetime",
+        "By variations in the number and activation of regulatory Hox genes",
+        "By the complete lack of shared genes between animal groups",
+        "By the constant rates of geological erosion and uplift"
+      ],
+      "a": 1,
+      "exp": "Diversity is driven by variation in the activation and number of shared regulatory genes (like Hox genes), which control other genes and direct body plan development."
+    }
+  ]
+}

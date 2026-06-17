@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 27,
+  "filename": "Unit_4_2.txt",
+  "section_title": "DNA Structure",
+  "page_num_in_file": 13,
+  "slide_title": "Histones¨Human cells contain upwards of 2m of DNA¤Must be packed down to fit into 5μm diameter nucleus¤Histones responsible for packaging DNA into nucleus¨DNA wound at intervals around cores of 8 histones¤2 copies of each H2A, H2B, H3, & H4¤Called a histone octet¤Appear like beads on a stringnEach bead known as a nucleosomes –joined by “linker DNA”¨String compacts in zig-zag folded structure between nucleosomes¤H1 histone plays role in assisting this folding process",
+  "original_text": "Histones¨Human cells contain upwards of 2m of DNA¤Must be packed down to fit into 5μm diameter nucleus¤Histones responsible for packaging DNA into nucleus¨DNA wound at intervals around cores of 8 histones¤2 copies of each H2A, H2B, H3, & H4¤Called a histone octet¤Appear like beads on a stringnEach bead known as a nucleosomes –joined by “linker DNA”¨String compacts in zig-zag folded structure between nucleosomes¤H1 histone plays role in assisting this folding process",
+  "explanation": "Human cells contain upward of 2 meters of DNA, which must be tightly packed to fit inside a microscopic nucleus with a diameter of only 5 micrometers. Histones are the proteins responsible for this compaction. DNA is wound at regular intervals around core complexes composed of 8 histones—specifically, two copies of H2A, H2B, H3, and H4. This core complex is called a histone octet. Under microscopy, this arrangement looks like 'beads on a string.' Each individual bead of DNA wrapped around a histone octet is called a nucleosome (spelled 'nucleosomes' on the slide), and these nucleosomes are joined by lengths of 'linker DNA.' The string of nucleosomes then compacts further into a zig-zag folded structure, a process in which the H1 histone plays a assisting role.",
+  "questions": [
+    {
+      "q": "How many histone proteins make up the core complex (octet) around which DNA winds to form a nucleosome?",
+      "opts": [
+        "4 histones",
+        "6 histones",
+        "8 histones",
+        "10 histones"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide states 'DNA wound at intervals around cores of 8 histones' and calls it a 'histone octet.' This octet consists of 2 copies of each of H2A, H2B, H3, and H4."
+    },
+    {
+      "q": "What is the role of the H1 histone protein?",
+      "opts": [
+        "It synthesizes new DNA strands during replication.",
+        "It assists in the zig-zag folding process of the nucleosome string.",
+        "It unwinds the DNA helix to allow transcription.",
+        "It degrades the nuclear envelope during mitosis."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'String compacts in zig-zag folded structure between nucleosomes - H1 histone plays role in assisting this folding process.' The other options are incorrect."
+    }
+  ]
+}

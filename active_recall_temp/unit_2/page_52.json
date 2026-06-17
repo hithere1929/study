@@ -1,0 +1,45 @@
+{
+  "unit": 2,
+  "page": 52,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 16,
+  "slide_title": "1: Complex Sugars",
+  "original_text": "1: Complex Sugars¨Monosaccharidescombine via condensation reaction to form disaccharides& polysaccharides¤Bond between carbohydrate monomers known as glycosidicbond ¨Disaccharide–double sugar¤Ex: Glucose + fructose àsucrose (table sugar)¨Polysaccharide–complex molecule composed of 3 or more monosaccharides¤Ex: glycogen–animal storage of glucose\nnHundreds of glucose molecules bonded together in a highly branched chain\nnStored in liver & muscle; can quickly be broken down into glucose monomers for energy¤Ex: starch–plant storage of glucose \nnCan be branched similar to glycogen or coiled & unbranched¤Ex: cellulose–plant structural molecule; gives strength & rigidity to plant cells; 50% of the composition of wood\nnThousands of glucose molecules linked in long, straight chains that hydrogen bond to each other resulting in strong structure",
+  "explanation": "Monosaccharides undergo condensation reactions to link together and form more complex carbohydrates, namely disaccharides (double sugars) and polysaccharides (complex molecules composed of three or more monosaccharides). The covalent bond that links carbohydrate monomers together is called a glycosidic bond. An example of a disaccharide is sucrose (common table sugar), which is formed by joining glucose and fructose. Important polysaccharides include glycogen, which is used by animals to store glucose, consisting of hundreds of glucose molecules linked in a highly branched chain stored in the liver and muscles for quick breakdown into energy; starch, which is the glucose storage molecule for plants, existing in either branched or coiled, unbranched forms; and cellulose, a structural polysaccharide in plants that provides strength and rigidity to plant cells (constituting about 50% of wood) and consists of thousands of glucose molecules linked in long, straight chains that hydrogen-bond to each other to form a highly durable structure.",
+  "questions": [
+    {
+      "q": "What is the name of the chemical bond that links carbohydrate monomers together?",
+      "opts": [
+        "Peptide bond",
+        "Glycosidic bond",
+        "Phosphodiester bond",
+        "Ester bond"
+      ],
+      "a": 1,
+      "exp": "The bond formed between monosaccharides in complex sugars is called a glycosidic bond."
+    },
+    {
+      "q": "Which polysaccharide is used by animals for glucose storage and is stored in the liver and muscles?",
+      "opts": [
+        "Starch",
+        "Cellulose",
+        "Glycogen",
+        "Chitin"
+      ],
+      "a": 2,
+      "exp": "Glycogen is a highly branched polysaccharide used by animals to store glucose in liver and muscle tissue."
+    },
+    {
+      "q": "How does cellulose differ structurally from glycogen and starch, allowing it to provide rigidity to plant cells?",
+      "opts": [
+        "It is highly branched and stored in animal muscles.",
+        "It is composed of fructose monomers instead of glucose.",
+        "It consists of thousands of glucose molecules in long, straight chains that hydrogen-bond to each other.",
+        "It is soluble in non-polar solvents."
+      ],
+      "a": 2,
+      "exp": "Cellulose consists of thousands of glucose monomers in long, straight chains. These chains hydrogen-bond to one another, forming a strong, rigid structure that gives plant cell walls strength."
+    }
+  ]
+}

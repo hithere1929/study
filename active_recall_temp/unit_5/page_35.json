@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 35,
+  "filename": "Unit_5_2.txt",
+  "section_title": "How Populations Evolve",
+  "page_num_in_file": 14,
+  "slide_title": "Genes, Populations, & Evolution",
+  "original_text": "Genes, Populations, & Evolution\n\u00a8Bottleneck Effect\n\u00a4A random event prevents a majority of individuals from entering the next generation\n\u00a4The next generation is composed of alleles that just happened to make it\n\u00a8Founder Effect\n\u00a4When a new population is started from just a few individuals\n\u00a4The alleles carried by population founders are dictated by chance\n\u00a4Formerly rare alleles will either:\n  nOccur at a higher frequency in the new population, or\n  nBe absent in new population",
+  "explanation": "This slide details two specific scenarios of genetic drift: the Bottleneck Effect and the Founder Effect. The bottleneck effect occurs when a random event (such as a natural disaster) drastically reduces population size, preventing the majority of individuals from contributing to the next generation. The surviving population has a restricted gene pool composed of alleles that simply happened to survive. The founder effect occurs when a new, isolated population is established by a very small group of individuals. The genetic makeup of this new population is dictated entirely by chance alleles carried by the founders. Consequently, alleles that were rare in the source population may either become highly common in the new population or be completely lost.",
+  "questions": [
+    {
+      "q": "What is the Bottleneck Effect?",
+      "opts": [
+        "When alleles move between populations due to the migration of breeding individuals",
+        "When a random event drastically reduces population size, leaving a surviving generation with alleles that just happened to make it",
+        "The gradual adaptation of a species to a new environment over millions of years",
+        "The process where a breeder selects desirable traits in domestic dogs"
+      ],
+      "a": 1,
+      "exp": "The bottleneck effect is a chance event that prevents the majority of a population from reproducing, leaving a next generation with a gene pool composed only of the random survivors' alleles."
+    },
+    {
+      "q": "In the Founder Effect, what happens to alleles that were rare in the original population?",
+      "opts": [
+        "They will always mutate into new dominant alleles.",
+        "They will either occur at a higher frequency in the new population or be completely absent, determined by chance.",
+        "They will gradually be eliminated by natural selection.",
+        "They will stay at the exact same frequency due to genetic equilibrium."
+      ],
+      "a": 1,
+      "exp": "Because the founders represent a tiny, chance sample of the original population, rare alleles will either be overrepresented (higher frequency) in the new group or not present at all."
+    }
+  ]
+}

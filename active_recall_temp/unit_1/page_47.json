@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 47,
+  "filename": "Unit_1_3.txt",
+  "section_title": "The Process of Science",
+  "page_num_in_file": 13,
+  "slide_title": "The Scientific MethodCase Study 2",
+  "original_text": "\u2013Scientists conducted a controlledexperimentto test the hypothesis that color patterns have evolved as adaptations that protect animals from predation.\u2013The experiment compared an experimental group consisting of noncamouflaged mice models and a control group consisting of camouflaged models that matched the mice native to each area.\u2013The groups differed by only one factor, the coloration of the mouse models.",
+  "explanation": "This slide describes Case Study 2 of the scientific method, which tested whether mouse color patterns evolved as protective adaptations against predators. In this controlled experiment, scientists compared an experimental group of noncamouflaged mouse models with a control group of camouflaged mouse models (which matched the native mice of the area). The groups differed by only one factor (the experimental variable): the coloration of the mouse models.",
+  "questions": [
+    {
+      "q": "In the mouse camouflage experiment (Case Study 2), what was the single factor that differed between the experimental group and the control group?",
+      "opts": [
+        "The size of the mouse models",
+        "The location where the models were placed",
+        "The coloration of the mouse models",
+        "The type of predators in the habitat"
+      ],
+      "a": 2,
+      "exp": "The text states: 'The groups differed by only one factor, the coloration of the mouse models.'"
+    }
+  ]
+}

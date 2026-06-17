@@ -1,0 +1,23 @@
+{
+  "unit": 6,
+  "page": 13,
+  "filename": "Unit_6_2.txt",
+  "section_title": "Prokaryotes",
+  "page_num_in_file": 2,
+  "slide_title": "\u2022Structure\u2022Reproduction\u2022Nutrition\u2022Classification\u2022Bacteria\u2022Archaea",
+  "original_text": "\u2022Structure\u2022Reproduction\u2022Nutrition\u2022Classification\u2022Bacteria\u2022Archaea\nProkaryote Outline",
+  "explanation": "This slide provides an outline for the Prokaryotes unit, highlighting the key subtopics to be discussed: Structure, Reproduction, Nutrition, Classification, Domain Bacteria, and Domain Archaea.",
+  "questions": [
+    {
+      "q": "Which of the following topics is NOT listed on the Prokaryote Outline slide?",
+      "opts": [
+        "Structure and Reproduction",
+        "Nutrition and Classification",
+        "Viral Replication Cycles",
+        "Bacteria and Archaea"
+      ],
+      "a": 2,
+      "exp": "The outline covers Structure, Reproduction, Nutrition, Classification, Bacteria, and Archaea. Viral replication cycles were covered in Unit 6.1 (Viruses)."
+    }
+  ]
+}

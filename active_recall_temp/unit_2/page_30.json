@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 30,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 30,
+  "slide_title": "3: Solutions",
+  "original_text": "3: Solutions¨Solution: mixture in which one or more substances are uniformly distributed in another substance¤Can be a mixture of solid, liquid or gas¨Parts of a solution:¤Solute: a substance dissolved IN the solvent (the substance that is, itself, dissolved)\nCan be ions, atoms or molecules¤Solvent: substance IN WHICH the solute is dissolved (the substance that does the dissolving)\nEx: sugar water –sugar = solute; water = solvent¨Molecules can be hydrophobicor hydrophilic¤Hydro –water; phobic –afraid of; philic-loves",
+  "explanation": "A solution is a mixture in which one or more substances are uniformly distributed within another substance, and it can consist of mixtures of solids, liquids, or gases. A solution is composed of two parts: the solute, which is the substance being dissolved (such as ions, atoms, or molecules), and the solvent, which is the substance that does the dissolving. For example, in sugar water, sugar acts as the solute and water acts as the solvent. Furthermore, molecules can be categorized as hydrophobic ('water-fearing') or hydrophilic ('water-loving') based on their interaction with water.",
+  "questions": [
+    {
+      "q": "In a solution of saltwater, what are the roles of salt and water?",
+      "opts": [
+        "Salt is the solvent, water is the solute.",
+        "Salt is the solute, water is the solvent.",
+        "Both salt and water are solvents.",
+        "Both salt and water are solutes."
+      ],
+      "a": 1,
+      "exp": "The solute is the substance that is dissolved (salt), and the solvent is the substance doing the dissolving (water)."
+    },
+    {
+      "q": "What does the term 'hydrophobic' mean?",
+      "opts": [
+        "Water-loving",
+        "Water-fearing",
+        "Dissolved in water",
+        "Uniformly mixed"
+      ],
+      "a": 1,
+      "exp": "Hydro means water and phobic means afraid of/fearing, so hydrophobic translates to 'water-fearing'."
+    }
+  ]
+}

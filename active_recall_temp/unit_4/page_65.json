@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 65,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 14,
+  "slide_title": "1) Chromatin Structure Regulation",
+  "original_text": "1) Chromatin Structure Regulation\nChromatin Remodeling Complexes can also add methyl or acetyl groups onto histones for further regulation of DNA regions",
+  "explanation": "Chromatin Remodeling Complexes are not only responsible for shifting histones along DNA, but they can also actively add or remove chemical groups—specifically methyl and acetyl groups—on histone tails, directing the cell's local chromatin structure and regulating gene transcription.",
+  "questions": [
+    {
+      "q": "What chemical groups can Chromatin Remodeling Complexes add to histones to regulate DNA regions?",
+      "opts": [
+        "Phosphate or carboxyl groups",
+        "Methyl or acetyl groups",
+        "Hydroxyl or amino groups",
+        "Sulfur or nitrogen groups"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'Chromatin Remodeling Complexes can also add methyl or acetyl groups onto histones for further regulation of DNA regions.' The other groups are incorrect."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 103,
+  "filename": "Unit_2_4.txt",
+  "section_title": "Metabolism",
+  "page_num_in_file": 6,
+  "slide_title": "Energy",
+  "original_text": "Energy¨Chemical energyis the¤potential energy available for release in a chemical reaction and ¤the most important type of energy for living organisms to power the work of the cell.",
+  "explanation": "Chemical energy is a form of potential energy that is stored within the chemical bonds of molecules and is available for release during a chemical reaction. It represents the most critical form of energy for living organisms, as cells harvest and utilize chemical energy to power metabolic, mechanical, and transport work.",
+  "questions": [
+    {
+      "q": "What type of energy is chemical energy?",
+      "opts": [
+        "Kinetic energy",
+        "Thermal energy",
+        "Potential energy",
+        "Heat energy"
+      ],
+      "a": 2,
+      "exp": "Chemical energy is potential energy stored in chemical bonds, waiting to be released during chemical reactions."
+    },
+    {
+      "q": "Why is chemical energy the most important type of energy for living organisms?",
+      "opts": [
+        "It is the only type of energy that cannot be converted.",
+        "It is used by cells to power cellular work.",
+        "It is released instantly as heat to warm the body.",
+        "It flows directly from the sun into cells."
+      ],
+      "a": 1,
+      "exp": "Chemical energy is crucial because cells break chemical bonds in molecules (like glucose and ATP) to release energy that drives cellular work."
+    }
+  ]
+}

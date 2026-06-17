@@ -1,0 +1,23 @@
+{
+  "unit": 8,
+  "page": 2,
+  "filename": "Unit_8_1.txt",
+  "section_title": "Behavioral Ecology",
+  "page_num_in_file": 2,
+  "slide_title": "•Inheritance Influences Behavior•The Environment Influences Behavior•Animal Communications•Behaviors that Increase Fitness",
+  "original_text": "•Inheritance Influences Behavior•The Environment Influences Behavior•Animal Communications•Behaviors that Increase Fitness\nBehavioral Ecology Outline",
+  "explanation": "This page provides an outline of the Behavioral Ecology section. The section is organized into four main topics: how inheritance influences behavior, how the environment influences behavior, animal communications, and behaviors that increase evolutionary fitness.",
+  "questions": [
+    {
+      "q": "Which of the following is NOT one of the main topics listed in the Behavioral Ecology outline?",
+      "opts": [
+        "Inheritance Influences Behavior",
+        "The Environment Influences Behavior",
+        "Ecosystem Energy Flow",
+        "Behaviors that Increase Fitness"
+      ],
+      "a": 2,
+      "exp": "Ecosystem Energy Flow is not in the Behavioral Ecology outline. The four main topics are: Inheritance Influences Behavior, The Environment Influences Behavior, Animal Communications, and Behaviors that Increase Fitness."
+    }
+  ]
+}

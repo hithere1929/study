@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 153,
+  "filename": "Unit_7_8.txt",
+  "section_title": "Nervous System",
+  "page_num_in_file": 15,
+  "slide_title": "The Central Nervous System: Diencephalon",
+  "original_text": "The Central Nervous System Other Parts of the Brain DiencephalonnA region encircling the third ventriclenIncludes three structuresnHypothalamusnForms the floor of the third ventriclenIntegrating center that maintains homeostasisnControls the pituitary glandnThalamusnConsists of two masses of gray matter located in the sides and roof of the third ventriclenReceives all sensory input except smellnIntegrates sensory information and sends it to the cerebrumnPineal glandnSecretes melatonin",
+  "explanation": "The diencephalon encircles the third ventricle of the brain and contains three structures: 1) Hypothalamus: forms the floor of the third ventricle. It is the main integrating center for maintaining homeostasis (regulating variables like temperature, hunger, and water balance) and controls the pituitary gland. 2) Thalamus: consists of two gray matter masses in the sides and roof of the third ventricle. It receives all sensory inputs (except smell), integrates them, and relays them to the cerebrum. 3) Pineal gland: secretes the hormone melatonin, which regulates circadian sleep-wake cycles.",
+  "questions": [
+    {
+      "q": "Which part of the diencephalon acts as the homeostatic integrating center and controls the pituitary gland?",
+      "opts": [
+        "Thalamus",
+        "Hypothalamus",
+        "Pineal gland",
+        "Basal nuclei"
+      ],
+      "a": 1,
+      "exp": "The hypothalamus forms the floor of the third ventricle and serves as the main homeostatic control center, regulating the pituitary gland."
+    },
+    {
+      "q": "What sensory input bypasses the thalamus?",
+      "opts": [
+        "Vision",
+        "Hearing",
+        "Smell",
+        "Touch"
+      ],
+      "a": 2,
+      "exp": "The thalamus receives and integrates all sensory input except for smell (olfaction) before sending it to the cerebrum."
+    },
+    {
+      "q": "What is the function of the pineal gland?",
+      "opts": [
+        "It secretes insulin to store glycogen.",
+        "It secretes melatonin to regulate sleep cycles.",
+        "It secretes acetylcholine to slow the heart rate.",
+        "It secretes sebum to lubricate hair follicles."
+      ],
+      "a": 1,
+      "exp": "The pineal gland secretes melatonin, a hormone involved in regulating sleep-wake cycles."
+    }
+  ]
+}

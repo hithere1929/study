@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 10,
+  "filename": "Unit_3_1.txt",
+  "section_title": "Cell Biology",
+  "page_num_in_file": 10,
+  "slide_title": "Size of Cells",
+  "original_text": "Size of Cells\nSmaller cell → higher surface area : volume ratio\nNeed more surface are to allow adequate nutrients to enter and waste to be expelled",
+  "explanation": "A smaller cell maintains a higher surface area-to-volume ratio. This high ratio is crucial because cells need a relatively large surface area to allow adequate nutrients to enter and waste to be expelled efficiently relative to their internal volume.",
+  "questions": [
+    {
+      "q": "Which of the following describes the surface area-to-volume ratio of a smaller cell compared to a larger cell?",
+      "opts": [
+        "A smaller cell has a lower surface area-to-volume ratio.",
+        "A smaller cell has a higher surface area-to-volume ratio.",
+        "A smaller cell has the same surface area-to-volume ratio.",
+        "Smaller cells do not have a surface area-to-volume ratio."
+      ],
+      "a": 1,
+      "exp": "The slide explicitly states that a smaller cell has a 'higher surface area : volume ratio' to allow nutrients and wastes to transport efficiently."
+    }
+  ]
+}

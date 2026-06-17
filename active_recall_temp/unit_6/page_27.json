@@ -1,0 +1,34 @@
+{
+  "unit": 6,
+  "page": 27,
+  "filename": "Unit_6_3.txt",
+  "section_title": "Protists",
+  "page_num_in_file": 3,
+  "slide_title": "Characteristics\u00a8Simplest, but most diverse of all eukaryotes\u00a8Live in marine or freshwater environments\u00a8Most unicellular, but some live in colonies or are multicellular. Range from microscopic to 200m\u00a4Spirogyra \u2013unicellular filamentous\u00a4Volvox \u2013colonial\u00a4Kelp \u2013brown algae, multicellular\u00a8Have membranous organelles (mitochondria)\u00a8Mainly reproduce by asexual, but if conditions are right, some species use sexual \u00a4Spores that remain dormant until conditions are perfect\u00a8Vary in nutrition\u00a4Photoautotrophs \u2013contain chloroplasts\u00a4Heterotrophs \u2013absorb organic molecules or ingest larger food particles\u00a4Mixotrophs -combine photosynthesis and heterotrophic nutrition\u00a8Many can cause diseases in humans, but are critical to ecosystems",
+  "original_text": "Characteristics\u00a8Simplest, but most diverse of all eukaryotes\u00a8Live in marine or freshwater environments\u00a8Most unicellular, but some live in colonies or are multicellular. Range from microscopic to 200m\u00a4Spirogyra \u2013unicellular filamentous\u00a4Volvox \u2013colonial\u00a4Kelp \u2013brown algae, multicellular\u00a8Have membranous organelles (mitochondria)\u00a8Mainly reproduce by asexual, but if conditions are right, some species use sexual \u00a4Spores that remain dormant until conditions are perfect\u00a8Vary in nutrition\u00a4Photoautotrophs \u2013contain chloroplasts\u00a4Heterotrophs \u2013absorb organic molecules or ingest larger food particles\u00a4Mixotrophs -combine photosynthesis and heterotrophic nutrition\u00a8Many can cause diseases in humans, but are critical to ecosystems",
+  "explanation": "Protists are the simplest yet most biologically diverse eukaryotes, primarily inhabiting marine or freshwater environments. Most protists are unicellular, but some are colonial (like Volvox) or multicellular (like Kelp, a brown algae that can grow up to 200m). Spirogyra is a unicellular filamentous example. Protists possess membrane-bound organelles, such as mitochondria. They reproduce primarily asexually, but under certain conditions, they can reproduce sexually by producing spores that remain dormant until conditions are favorable. Their nutrition varies widely: photoautotrophs contain chloroplasts; heterotrophs absorb organic molecules or ingest food particles; and mixotrophs combine photosynthesis and heterotrophic nutrition. While many protists cause human disease, they are critical ecological components.",
+  "questions": [
+    {
+      "q": "What term describes a protist that combines both photosynthesis and heterotrophic nutrition?",
+      "opts": [
+        "Saprotroph",
+        "Photoautotroph",
+        "Mixotroph",
+        "Chemoautotroph"
+      ],
+      "a": 2,
+      "exp": "The notes define mixotrophs as organisms that 'combine photosynthesis and heterotrophic nutrition'."
+    },
+    {
+      "q": "Which of the following protists is correctly paired with its structural organization type?",
+      "opts": [
+        "Spirogyra - colonial; Volvox - multicellular",
+        "Spirogyra - unicellular filamentous; Volvox - colonial; Kelp - multicellular",
+        "Spirogyra - multicellular; Volvox - unicellular filamentous",
+        "Spirogyra - colonial; Kelp - unicellular filamentous"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Spirogyra \u2013 unicellular filamentous', 'Volvox \u2013 colonial', and 'Kelp \u2013 brown algae, multicellular'."
+    }
+  ]
+}

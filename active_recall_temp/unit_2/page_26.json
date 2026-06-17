@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 26,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 26,
+  "slide_title": "3: Adhesion",
+  "original_text": "3: Adhesion¨Adhesion: attractive force between particles of different substances¤Ex: water and glass¨Related to adhesion –capillarity¤Attraction between molecules resulting in rise of a surface of liquid when in contact with a solid¨Cohesion, adhesion, capillarity work together to help water rise through narrow tubes against the force of gravity¤Ex: plant vascular system",
+  "explanation": "Adhesion is the attractive force that occurs between particles of different substances, such as the attraction between water and glass. A related phenomenon is capillarity, which is the attraction between molecules that results in the rise of a liquid's surface when it comes into contact with a solid. Together, cohesion (water sticking to itself), adhesion (water sticking to other surfaces), and capillarity work in unison to enable water to rise through narrow tubes against the downward force of gravity, which is essential for the vascular system of plants to transport water upward.",
+  "questions": [
+    {
+      "q": "What is the term for the attractive force between particles of different substances?",
+      "opts": [
+        "Cohesion",
+        "Adhesion",
+        "Capillarity",
+        "Solubility"
+      ],
+      "a": 1,
+      "exp": "Adhesion is the attractive force between different substances, whereas cohesion is between molecules of the same substance."
+    },
+    {
+      "q": "How do cohesion, adhesion, and capillarity work together in plants?",
+      "opts": [
+        "They allow water to evaporate rapidly from leaves.",
+        "They force plants to absorb nutrients without water.",
+        "They work together to help water rise through narrow tubes in the vascular system against gravity.",
+        "They turn water into a solid state to prevent freezing."
+      ],
+      "a": 2,
+      "exp": "The combination of cohesion, adhesion, and capillarity allows water to climb upwards through narrow plant vascular tissues against gravity."
+    }
+  ]
+}

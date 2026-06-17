@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 61,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 10,
+  "slide_title": "lacOperon",
+  "original_text": "lacOperon",
+  "explanation": "This slide features a visual representation of the regulation of the lac operon under varying environmental conditions (such as the presence or absence of lactose).",
+  "questions": [
+    {
+      "q": "What is the main subject represented in the diagram on this page?",
+      "opts": [
+        "The trp operon regulation",
+        "The lac operon regulation",
+        "Eukaryotic transcription factors",
+        "Histone acetylation"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide title is 'lacOperon' and displays a diagram of this operon's regulation. The other options refer to different genetic regulation mechanisms."
+    }
+  ]
+}

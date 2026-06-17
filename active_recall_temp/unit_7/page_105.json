@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 105,
+  "filename": "Unit_7_6.txt",
+  "section_title": "Circulation & Cardiovascular System",
+  "page_num_in_file": 11,
+  "slide_title": "The Human Cardiovascular System: Path of Blood Through the Heart",
+  "original_text": "The Human Cardiovascular System Path of Blood Through Heart Blood returning to heart from systemic circuit (O2Poor) Venae cavae(superior and inferior) return blood to the right atrium Right atrium pumps blood through the tricuspid valve to right ventricle Right ventricle pumps blood through the pulmonary semilunar valve to the pulmonary circuit (Lungs) Blood returning to heart from pulmonary circuit (O2Rich) Enters left atrium Left atrium pumps blood through the bicuspid valve to the left ventricle Left ventricle pumps blood through the aortic semilunar valve to the systemic circuit Blood pressure greater in aorta Oxygen-poor blood never mixes with oxygen-rich blood (in humans)",
+  "explanation": "In humans, oxygen-poor and oxygen-rich blood never mix. 1) Oxygen-poor blood returning from body tissues via the superior and inferior venae cavae enters the right atrium. The right atrium pumps it through the tricuspid valve into the right ventricle, which then pumps it through the pulmonary semilunar valve to the lungs via the pulmonary trunk. 2) Oxygen-rich blood returning from the lungs enters the left atrium. The left atrium pumps it through the bicuspid (mitral) valve into the left ventricle, which then pumps it through the aortic semilunar valve into the aorta to supply the systemic circuit. Blood pressure is significantly higher in the aorta due to systemic resistance.",
+  "questions": [
+    {
+      "q": "What is the correct pathway of oxygen-poor blood returning to the heart from the body?",
+      "opts": [
+        "Pulmonary veins -> Left atrium -> Bicuspid valve -> Left ventricle",
+        "Venae cavae -> Right atrium -> Tricuspid valve -> Right ventricle -> Pulmonary semilunar valve -> Lungs",
+        "Aorta -> Left ventricle -> Aortic semilunar valve -> Left atrium",
+        "Venae cavae -> Left atrium -> Tricuspid valve -> Left ventricle -> Aorta"
+      ],
+      "a": 1,
+      "exp": "Oxygen-poor blood enters the right side of the heart through the venae cavae, moves to the right atrium, passes the tricuspid valve to the right ventricle, and is pumped past the pulmonary semilunar valve to the lungs."
+    },
+    {
+      "q": "Why is blood pressure highest in the aorta?",
+      "opts": [
+        "It carries deoxygenated blood directly from the veins.",
+        "It is fed by the left ventricle, which must contract with high pressure to pump blood through the entire body.",
+        "It is under the direct control of the SA node pacemaker cells.",
+        "It receives blood directly from the pulmonary veins."
+      ],
+      "a": 1,
+      "exp": "The aorta receives blood from the thick-walled left ventricle, which must generate high pressure to distribute blood to the entire systemic circuit."
+    }
+  ]
+}

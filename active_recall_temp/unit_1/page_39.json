@@ -1,0 +1,34 @@
+{
+  "unit": 1,
+  "page": 39,
+  "filename": "Unit_1_3.txt",
+  "section_title": "The Process of Science",
+  "page_num_in_file": 5,
+  "slide_title": "The Scientific Method",
+  "original_text": "\u2013Observations and Questions\u2013What are the ways that we can make observations of phenomena, or a natural event?\u2013Use of our Senses\u2013Use of Tools & Technology\u2013Qualitative (descriptive) vs Quantitative (numerical) Data\n\u2013What makes a question good?\u2013What makes a question good in the field of science?",
+  "explanation": "This slide details the processes of making observations and posing questions. Observations of natural events or phenomena can be made either through the direct use of our senses or by using tools and technology. The observations collect data, which can be categorized as qualitative (descriptive) or quantitative (numerical). The slide also poses questions about what characteristics make a question scientifically valid or 'good'.",
+  "questions": [
+    {
+      "q": "What are the two ways of making observations mentioned on this slide?",
+      "opts": [
+        "Asexual and sexual methods",
+        "Using our senses and using tools & technology",
+        "Hypothesizing and experimenting",
+        "Qualitative and quantitative reasoning"
+      ],
+      "a": 1,
+      "exp": "The slide lists 'Use of our Senses' and 'Use of Tools & Technology' as ways to make observations of phenomena."
+    },
+    {
+      "q": "How is quantitative data distinguished from qualitative data on this slide?",
+      "opts": [
+        "Quantitative is numerical, while qualitative is descriptive.",
+        "Quantitative is descriptive, while qualitative is numerical.",
+        "Quantitative is gathered by instruments, while qualitative is gathered only by sight.",
+        "Quantitative data is proven, while qualitative data consists of opinions."
+      ],
+      "a": 0,
+      "exp": "The slide labels them: 'Qualitative (descriptive) vs Quantitative (numerical) Data'."
+    }
+  ]
+}

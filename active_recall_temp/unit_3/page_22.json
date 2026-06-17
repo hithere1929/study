@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 22,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 7,
+  "slide_title": "Plasma Membrane",
+  "original_text": "Plasma Membrane\nIntegral proteins: proteins embeddedin the lipid bilayer\nSome emerge from only one side of membrane (cell surface markers)\nOthers extend across the membrane and are exposed on the interior and exterior (receptor & transport proteins)\nAble to detect environmental signals and transmit to the inside of the cell\nThose exposed to the cell’s exterior often have carbohydratesattached\nAct as labelson the cell surface\nHelp cells recognize each other & stick together\nViruses can use them as docks to enter and infect cells\nPlay important roles:\nActively transporting molecules into the cell\nActing as channels or pores\nBinding to a molecule outside the cell and transporting through the membrane\nAct as sites for chemical messengers (hormones) to attach\nPeripheral proteins: lie on only one side of the membrane and do not pass through",
+  "explanation": "Cell membrane proteins are divided into integral and peripheral proteins. Integral proteins are embedded in the lipid bilayer; some emerge from only one side (acting as cell surface markers), while others extend across the entire membrane and are exposed to both the interior and exterior (such as receptor and transport proteins). These proteins can detect environmental signals and transmit them inside the cell. Integral proteins exposed to the exterior often have carbohydrates attached, which act as cell-surface labels for recognition and adhesion, though viruses can also use them as docking sites. Integral proteins actively transport molecules, act as channels/pores, transport molecules upon binding, or serve as hormone attachment sites. Peripheral proteins, conversely, lie only on one side of the membrane and do not span the lipid bilayer.",
+  "questions": [
+    {
+      "q": "What is the difference between integral and peripheral membrane proteins?",
+      "opts": [
+        "Integral proteins lie on only one side; peripheral proteins are embedded in the bilayer.",
+        "Integral proteins are embedded in the bilayer; peripheral proteins lie on only one side and do not pass through.",
+        "Integral proteins always have carbohydrates; peripheral proteins never do.",
+        "Integral proteins are only transport channels; peripheral proteins are only receptors."
+      ],
+      "a": 1,
+      "exp": "According to the slide, integral proteins are embedded in the lipid bilayer (often extending across), while peripheral proteins lie on only one side of the membrane and do not pass through."
+    },
+    {
+      "q": "What is a function of the carbohydrates attached to integral proteins exposed to the cell's exterior?",
+      "opts": [
+        "They generate ATP for active transport.",
+        "They act as cell surface labels helping cells recognize each other and stick together.",
+        "They synthesize lipids for the smooth endoplasmic reticulum.",
+        "They form nuclear pores to export RNA."
+      ],
+      "a": 1,
+      "exp": "The slide explains that these carbohydrates act as labels on the cell surface, helping cells recognize each other and stick together."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 131,
+  "filename": "Unit_7_7.txt",
+  "section_title": "Respiratory System",
+  "page_num_in_file": 14,
+  "slide_title": "Breathing & Transport of Gases: Control in Humans",
+  "original_text": "Breathing and Transport of Gases Modifications of Breathing in Humans Normally, adults have a breathing rate of 12 to 20 ventilations per minute The rhythm of ventilation is controlled by a respiratory centerin the medulla oblongata of the brain nSends out impulses to the diaphragm and intercostal muscles of the rib cage so that inspiration occurs nWhen the respiratory center stops sending neuronal signals to the diaphragm and the rib cage, expiration occurs Although this center regulates breathing, it can be influenced by nervous or chemical input",
+  "explanation": "Human adults typically have a resting breathing rate of 12 to 20 ventilations per minute. The rhythm of ventilation is controlled by the respiratory center in the medulla oblongata of the brain. The medulla sends nerve impulses to the diaphragm and intercostal muscles to stimulate contraction, causing inspiration. When these signals stop, the muscles relax, resulting in passive expiration. The respiratory center's activity is modulated by nervous and chemical inputs (such as blood carbon dioxide and pH levels).",
+  "questions": [
+    {
+      "q": "Which part of the brain controls the automatic rhythm of breathing?",
+      "opts": [
+        "Cerebellum",
+        "Medulla oblongata",
+        "Hypothalamus",
+        "Cerebral cortex"
+      ],
+      "a": 1,
+      "exp": "The respiratory center in the medulla oblongata of the brainstem coordinates the rhythmic signals for breathing."
+    },
+    {
+      "q": "What causes passive expiration to occur under the control of the medulla oblongata?",
+      "opts": [
+        "The medulla sends an active signal for the diaphragm to relax.",
+        "The medulla stops sending impulses to the diaphragm and intercostal muscles, causing them to relax.",
+        "The SA node fires an inhibitory charge.",
+        "Carbon dioxide levels drop to zero."
+      ],
+      "a": 1,
+      "exp": "Inspiration is active and driven by nerve impulses. When the medulla stops sending these signals, the muscles relax, causing passive expiration."
+    }
+  ]
+}

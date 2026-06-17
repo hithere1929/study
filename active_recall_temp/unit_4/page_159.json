@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 159,
+  "filename": "Unit_4_8.txt",
+  "section_title": "Mendelian Inheritance P1 - Mendelian Genetics",
+  "page_num_in_file": 14,
+  "slide_title": "Mendel’s Monohybrid Cross",
+  "original_text": "Mendel’s Monohybrid Cross",
+  "explanation": "Mendel's monohybrid crosses established that each individual has two factors (alleles) for each trait, which separate during gamete formation and are restored to two during fertilization.",
+  "questions": [
+    {
+      "q": "What is the genetic constitution of the F1 generation in a monohybrid cross between two differing homozygous true-breeding parents?",
+      "opts": [
+        "Homozygous dominant",
+        "Homozygous recessive",
+        "Heterozygous",
+        "Hemizygous"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because crossing two different homozygotes (AA x aa) yields offspring that are all heterozygous (Aa)."
+    }
+  ]
+}

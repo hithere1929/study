@@ -1,0 +1,26 @@
+{
+  "id": "u7_t7",
+  "title": "Circulatory System",
+  "cheat_card": [
+    "Circulatory systems move fluid through the body, either open (hemolymph in hemocoel cavity) or closed (blood in vessels). <b>Arteries</b> carry blood away under high pressure; <b>veins</b> return blood under low pressure and contain <b>valves</b> to prevent backflow.",
+    "Path of Blood (Human): Right atrium &rarr; <b>tricuspid valve</b> &rarr; right ventricle &rarr; pulmonary semilunar valve &rarr; pulmonary arteries (lungs) &rarr; pulmonary veins &rarr; left atrium &rarr; <b>bicuspid (mitral) valve</b> &rarr; left ventricle &rarr; aortic semilunar valve &rarr; aorta &rarr; systemic circuit.",
+    "Heartbeat Control: Sinoatrial (SA) node acts as the <b>pacemaker</b> to initiate electrical signals; Atrioventricular (AV) node delays and transmits signals to the ventricles to coordinate contraction (systole = contraction, diastole = relaxation).",
+    "<b>ECG Waves</b>: P wave represents atrial depolarization (about to contract); QRS complex represents ventricular depolarization (about to contract, atria relaxing); T wave represents ventricular repolarization (recovery)."
+  ],
+  "memory_anchor": "<h3>Heart Valve Position Mnemonic</h3><p>Remember: <b>Try</b> before you <b>Buy</b></p><ul><li><b>Tri</b>cuspid valve is on the <b>Right</b> side of the heart.</li><li><b>Bi</b>cuspid (mitral) valve is on the <b>Left</b> side of the heart.</li></ul>",
+  "flashcards": [
+    {
+      "q": "Trace the pathway of a red blood cell from the systemic tissues back to the systemic tissues in a human.",
+      "a": "Systemic tissues -> Venae cavae -> Right atrium -> Tricuspid valve -> Right ventricle -> Pulmonary semilunar valve -> Pulmonary trunk/arteries -> Lungs (oxygenation) -> Pulmonary veins -> Left atrium -> Bicuspid (mitral) valve -> Left ventricle -> Aortic semilunar valve -> Aorta -> Systemic arteries/tissues."
+    },
+    {
+      "q": "What are the events corresponding to the P, QRS, and T waves of an electrocardiogram (ECG)?",
+      "a": "The P wave represents atrial depolarization (atria about to contract, triggered by the SA node); the QRS complex represents ventricular depolarization (ventricles about to contract) and hides atrial repolarization; the T wave represents ventricular repolarization (ventricular recovery)."
+    },
+    {
+      "q": "Explain how blood is returned to the heart in low-pressure veins against gravity.",
+      "a": "Venous return is driven by skeletal muscle contraction (which squeezes the veins and pushes blood forward), one-way valves (which prevent backflow), and a respiratory pump (which decreases thoracic pressure during inspiration, pulling blood into the chest cavity)."
+    }
+  ],
+  "outline_blanks": "The mammalian heart features a double-loop pathway. Deoxygenated blood enters the [[right atrium]] via the venae cavae, passes through the [[tricuspid]] valve, and is pumped to the lungs, while oxygenated blood is pumped by the thick-walled [[left ventricle]] into the [[aorta]]. Heart rhythm is coordinated by the [[sinoatrial node]] pacemaker."
+}

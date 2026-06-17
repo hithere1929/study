@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 107,
+  "filename": "Unit_2_4.txt",
+  "section_title": "Metabolism",
+  "page_num_in_file": 10,
+  "slide_title": "Thermodynamics",
+  "original_text": "Thermodynamics¨Chemical reactions either¥release energy(exergonic reactions) or¥require an input of energy and store energy (endergonic reactions).",
+  "explanation": "From an energetic perspective, chemical reactions are divided into two main categories: exergonic reactions, which release energy, and endergonic reactions, which require an input of energy and store that energy within the chemical bonds of the products.",
+  "questions": [
+    {
+      "q": "How are endergonic and exergonic reactions distinguished?",
+      "opts": [
+        "Endergonic reactions release energy, whereas exergonic reactions require energy input.",
+        "Endergonic reactions require energy input and store energy, whereas exergonic reactions release energy.",
+        "Endergonic reactions occur in animal cells, whereas exergonic reactions occur only in plant cells.",
+        "Endergonic reactions are physical changes, whereas exergonic reactions are chemical changes."
+      ],
+      "a": 1,
+      "exp": "Endergonic reactions consume energy to store it in products, while exergonic reactions release energy from reactants."
+    }
+  ]
+}

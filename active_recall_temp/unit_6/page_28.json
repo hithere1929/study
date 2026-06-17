@@ -1,0 +1,34 @@
+{
+  "unit": 6,
+  "page": 28,
+  "filename": "Unit_6_3.txt",
+  "section_title": "Protists",
+  "page_num_in_file": 4,
+  "slide_title": "Diversity\u00a8Once classified under a single kingdom\u00a4Thought to be monophyletic \u00a8DNA evidence shows that all protists don\u2019t evolve from a single common ancestor\u00a8Six distinct evolutionary lines\u00a8Grouped into Supergroups\u00a4Level below domain but above kingdom\u00a4Represent separate evolutionary lineagenArchaeplastida nChromalveolatanExcavatanAmoebazoanOpisthokontanRhizaria",
+  "original_text": "Diversity\u00a8Once classified under a single kingdom\u00a4Thought to be monophyletic \u00a8DNA evidence shows that all protists don\u2019t evolve from a single common ancestor\u00a8Six distinct evolutionary lines\u00a8Grouped into Supergroups\u00a4Level below domain but above kingdom\u00a4Represent separate evolutionary lineagenArchaeplastida nChromalveolatanExcavatanAmoebazoanOpisthokontanRhizaria",
+  "explanation": "Protists were historically classified under a single kingdom because they were thought to be monophyletic. However, DNA evidence has shown that all protists do not evolve from a single common ancestor, revealing instead six distinct evolutionary lines. Eukaryotes, including protists, are therefore grouped into Supergroups, which represent taxonomic levels below domain but above kingdom, each representing a separate evolutionary lineage. The six supergroups are Archaeplastida, Chromalveolata, Excavata, Amoebozoa (Amoebazoan), Opisthokonta (Opisthokontan), and Rhizaria.",
+  "questions": [
+    {
+      "q": "What taxonomic rank represents a level below Domain but above Kingdom?",
+      "opts": [
+        "Phylum",
+        "Supergroup",
+        "Class",
+        "Family"
+      ],
+      "a": 1,
+      "exp": "The notes state that Supergroups are a 'Level below domain but above kingdom'."
+    },
+    {
+      "q": "Why was the kingdom-level classification of all protists in a single group abandoned?",
+      "opts": [
+        "DNA evidence showed they do not evolve from a single common ancestor.",
+        "They were found to be multicellular prokaryotes.",
+        "They lack membrane-bound organelles.",
+        "They were merged with the kingdom of viruses."
+      ],
+      "a": 0,
+      "exp": "DNA evidence disproved their monophyletic status by showing that protists do not all evolve from a single common ancestor."
+    }
+  ]
+}

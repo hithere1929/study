@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 41,
+  "filename": "Unit_6_4.txt",
+  "section_title": "Fungi",
+  "page_num_in_file": 5,
+  "slide_title": "Reproduction\u00a8Use both asexual and sexual reproduction\u00a8Sexual involves 3 stages\u00a4Haploid Hyphae\u00a4Dikaryotic StagenHyphae from two different mating types fuse. Paired haploid nuclei termed dikaryotic.\u00a4Diploid ZygotenNuclear fusion produces diploid nucleusnHaploid spores produced by meiosisnSpores germinate directly into haploid hyphae\u00a8Windblown spores allow for spread of fungi since non-motile\u00a8Some species only do asexual through production of windblown spores\u00a8Unicellular yeast reproduce asexually by budding.",
+  "original_text": "Reproduction\u00a8Use both asexual and sexual reproduction\u00a8Sexual involves 3 stages\u00a4Haploid Hyphae\u00a4Dikaryotic StagenHyphae from two different mating types fuse. Paired haploid nuclei termed dikaryotic.\u00a4Diploid ZygotenNuclear fusion produces diploid nucleusnHaploid spores produced by meiosisnSpores germinate directly into haploid hyphae\u00a8Windblown spores allow for spread of fungi since non-motile\u00a8Some species only do asexual through production of windblown spores\u00a8Unicellular yeast reproduce asexually by budding.",
+  "explanation": "Fungi reproduce both asexually and sexually. Fungal sexual reproduction involves three stages: 1) Haploid Hyphae, 2) Dikaryotic Stage, in which hyphae from two different mating types fuse, leaving paired, unfused haploid nuclei, and 3) Diploid Zygote, where nuclear fusion creates a diploid nucleus. Meiosis then produces haploid spores that germinate directly into haploid hyphae. Fungi disperse via windblown spores. Some species reproduce only asexually through windblown spores, and unicellular yeast reproduce asexually by budding.",
+  "questions": [
+    {
+      "q": "What characterizes the dikaryotic stage in fungal reproduction?",
+      "opts": [
+        "Nuclear fusion creates a diploid nucleus.",
+        "Haploid spores germinate directly into new cells.",
+        "Hyphae from two different mating types fuse, resulting in paired, unfused haploid nuclei.",
+        "A small yeast bud pinches off from the parent cell."
+      ],
+      "a": 2,
+      "exp": "The notes state: 'Hyphae from two different mating types fuse. Paired haploid nuclei termed dikaryotic.'"
+    },
+    {
+      "q": "What type of cell division produces haploid spores in the diploid zygote stage?",
+      "opts": [
+        "Mitosis",
+        "Meiosis",
+        "Binary fission",
+        "Budding"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Haploid spores produced by meiosis'."
+    },
+    {
+      "q": "How do yeast cells reproduce asexually?",
+      "opts": [
+        "Transduction",
+        "Conjugation",
+        "Budding",
+        "Meiosis"
+      ],
+      "a": 2,
+      "exp": "The notes state: 'Unicellular yeast reproduce asexually by budding.'"
+    }
+  ]
+}

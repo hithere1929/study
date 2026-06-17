@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 102,
+  "filename": "Unit_4_5.txt",
+  "section_title": "Biotech & Genomics",
+  "page_num_in_file": 24,
+  "slide_title": "Genomics",
+  "original_text": "Genomics",
+  "explanation": "This slide serves as a transition page within the genomics subsection of Unit 4.",
+  "questions": [
+    {
+      "q": "What is the heading of the section continued on this page?",
+      "opts": [
+        "Mutations",
+        "Genomics",
+        "Meiosis",
+        "Cloning"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide title is 'Genomics'. The other options are incorrect."
+    }
+  ]
+}

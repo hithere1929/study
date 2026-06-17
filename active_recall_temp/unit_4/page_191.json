@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 191,
+  "filename": "Unit_4_9.txt",
+  "section_title": "Mendelian Inheritance P2 - Genetic Disorders",
+  "page_num_in_file": 17,
+  "slide_title": "Extending the Range of Mendelian Genetics\nSkin ColorGenotypes                         PhenotypeAABB                                Very darkAABborAaBBDarkAaBborAAbboraaBBMedium BrownAabboraaBbLightaabbVery Light\nChart KeyBlack dots and intensity of blue shading stand for # of dominant allelesOrange shading represents degree of environmental influence",
+  "original_text": "Extending the Range of Mendelian Genetics\nSkin ColorGenotypes                         PhenotypeAABB                                Very darkAABborAaBBDarkAaBborAAbboraaBBMedium BrownAabboraaBbLightaabbVery Light\nChart KeyBlack dots and intensity of blue shading stand for # of dominant allelesOrange shading represents degree of environmental influence",
+  "explanation": "This slide presents a genetic model for polygenic inheritance of human skin color, controlled by genes such as A/a and B/b. The number of dominant alleles determines the intensity of skin pigmentation: genotype AABB results in very dark skin, AABb or AaBB results in dark skin, AaBb, AAbb, or aaBB results in medium brown skin, Aabb or aaBb results in light skin, and aabb results in very light skin. The number of dominant alleles acts additively, while orange shading on the model represents the degree of environmental influence (such as UV exposure).",
+  "questions": [
+    {
+      "q": "According to the skin color polygenic model, which genotype would result in a 'Medium Brown' phenotype?",
+      "opts": [
+        "AABB",
+        "AaBb",
+        "Aabb",
+        "aabb"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the chart lists 'AaBb or AAbb or aaBB' as having the 'Medium Brown' phenotype."
+    },
+    {
+      "q": "What does the orange shading represent on the skin color inheritance chart?",
+      "opts": [
+        "The number of recessive alleles.",
+        "The mutation rate of the FBN1 gene.",
+        "The degree of environmental influence.",
+        "The presence of sex-linked traits."
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the chart key states: 'Orange shading represents degree of environmental influence'."
+    }
+  ]
+}

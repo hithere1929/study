@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 15,
+  "filename": "Unit_1_1.txt",
+  "section_title": "Lab Safety",
+  "page_num_in_file": 15,
+  "slide_title": "Safety Symbols",
+  "original_text": "Safety Symbols\nLaser Radiation",
+  "explanation": "This page displays the safety symbol and text warning for 'Laser Radiation', indicating that lasers are in use and appropriate precautions must be taken to prevent optical or biological injury.",
+  "questions": [
+    {
+      "q": "What safety hazard symbol text is explicitly listed on this page?",
+      "opts": [
+        "Biohazard",
+        "Toxic Substance",
+        "Laser Radiation",
+        "Corrosive Material"
+      ],
+      "a": 2,
+      "exp": "The slide lists the text 'Laser Radiation' under Safety Symbols."
+    }
+  ]
+}

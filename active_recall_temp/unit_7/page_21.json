@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 21,
+  "filename": "Unit_7_1.txt",
+  "section_title": "Plant Structure & Organization",
+  "page_num_in_file": 21,
+  "slide_title": "Organization and Diversity of Leaves: Diversity",
+  "original_text": "Organization and Diversity of Leaves Leaf Diversity Blade of a leaf can be simple or compound Leaves are adapted to environmental conditions Shade leaves Spines Climbing leaves",
+  "explanation": "Leaf morphology is highly diverse and adapted to different environmental conditions. The blade of a leaf can be simple (a single, undivided leaf blade) or compound (divided into multiple distinct leaflets). Leaves also undergo modifications to suit specific habitats: 1) Shade leaves: broader and thinner leaves that maximize light capture in low-light environments. 2) Spines: reduced, sharp leaves that protect the plant from herbivores and minimize water loss (e.g., in cacti). 3) Climbing leaves: modified to wrap around structures to support the plant's vertical growth (acting like tendrils).",
+  "questions": [
+    {
+      "q": "A leaf whose blade is divided into multiple separate leaflets is called a:",
+      "opts": [
+        "Simple leaf",
+        "Compound leaf",
+        "Spine leaf",
+        "Shade leaf"
+      ],
+      "a": 1,
+      "exp": "A compound leaf has a blade that is divided into separate leaflets. A simple leaf has an undivided blade."
+    },
+    {
+      "q": "Which leaf modification is adapted to protect the plant and minimize water loss in arid environments?",
+      "opts": [
+        "Shade leaves",
+        "Spines",
+        "Climbing leaves",
+        "Stolons"
+      ],
+      "a": 1,
+      "exp": "Spines are modified leaves with reduced surface area that protect the plant and reduce transpirational water loss."
+    }
+  ]
+}

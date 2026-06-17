@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 114,
+  "filename": "Unit_2_4.txt",
+  "section_title": "Metabolism",
+  "page_num_in_file": 17,
+  "slide_title": "ATP",
+  "original_text": "ATP¨Energy couplinguses the energy released from exergonic reactions to drive endergonic reactions, typically using the energy stored in ATP molecules.",
+  "explanation": "Energy coupling is a vital cellular strategy where the energy released from exergonic (energy-generating) reactions is directly used to power endergonic (energy-consuming) reactions. This process is typically mediated by utilizing the chemical energy stored within ATP molecules.",
+  "questions": [
+    {
+      "q": "What is energy coupling?",
+      "opts": [
+        "The combining of two elements to form a salt.",
+        "Using energy released from exergonic reactions to drive endergonic reactions.",
+        "The pairing of adenine with thymine in DNA.",
+        "The transfer of thermal energy from one body to another."
+      ],
+      "a": 1,
+      "exp": "Energy coupling is the pairing of an energy-releasing (exergonic) reaction with an energy-consuming (endergonic) reaction, often utilizing ATP as the transfer vehicle."
+    }
+  ]
+}

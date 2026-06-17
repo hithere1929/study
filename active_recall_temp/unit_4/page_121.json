@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 121,
+  "filename": "Unit_4_6.txt",
+  "section_title": "Meiosis",
+  "page_num_in_file": 15,
+  "slide_title": "Gametes",
+  "original_text": "Gametes",
+  "explanation": "This slide serves as a transition slide within the 'Gametes' section of Unit 4.",
+  "questions": [
+    {
+      "q": "What is the title of this transition slide?",
+      "opts": [
+        "Hormones",
+        "Gametes",
+        "Meiosis I",
+        "Meiosis II"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide title is 'Gametes'."
+    }
+  ]
+}

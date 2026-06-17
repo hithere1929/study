@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 170,
+  "filename": "Unit_7_9.txt",
+  "section_title": "Sense Organs",
+  "page_num_in_file": 10,
+  "slide_title": "Sense of Vision: Retinal Layers & Signal Convergence",
+  "original_text": "Sense of Vision Integration of Visual Signals in the Retina The retina has three layers of neurons Layer closest to choroid contains rod and cone cells Middle layer contains bipolar cells Innermost layer contains ganglion cells Rod and cone cells synapse with the bipolar cells, which in turn synapse with ganglion cells responsible for initiating nerve impulses Human retina has approximately 150 million rod cells 6 million cone cells 1 million ganglion cells Since more rod cells synapse on a ganglion cell than cone cells, cone cells provide sharper more detailed images of an object than rod cells",
+  "explanation": "The retina has three layers of neurons: 1) the photoreceptor layer (rods/cones, closest to the choroid), 2) the middle bipolar cell layer, and 3) the innermost ganglion cell layer. Rods and cones synapse with bipolar cells, which synapse with ganglion cells (whose axons form the optic nerve). The human retina contains roughly 150 million rods, 6 million cones, and 1 million ganglion cells. Because multiple rods converge onto a single ganglion cell, they are sensitive but lack detail. Conversely, fewer cones synapse per ganglion cell (low convergence), meaning cones provide much sharper, more detailed images.",
+  "questions": [
+    {
+      "q": "What is the pathway of visual signals through the three neuronal layers of the retina?",
+      "opts": [
+        "Ganglion cells -> Bipolar cells -> Rods and cones",
+        "Rods and cones (photoreceptors) -> Bipolar cells -> Ganglion cells",
+        "Bipolar cells -> Ganglion cells -> Rods and cones",
+        "Rods and cones -> Ganglion cells -> Bipolar cells"
+      ],
+      "a": 1,
+      "exp": "Light activates photoreceptors (rods and cones), which synapse with bipolar cells, which then synapse with ganglion cells to carry the signal to the brain."
+    },
+    {
+      "q": "Why do cones provide sharper and more detailed images than rods?",
+      "opts": [
+        "Cones contain rhodopsin, which is highly sensitive.",
+        "Fewer cone cells synapse on a single ganglion cell compared to rods, leading to less signal convergence.",
+        "Cones are located in the blind spot.",
+        "Cones use saltatory conduction along their axons."
+      ],
+      "a": 1,
+      "exp": "Rods exhibit high convergence onto ganglion cells, which pools light signals but sacrifices resolution. Cones have low convergence, keeping their spatial signal separate for high detail."
+    }
+  ]
+}

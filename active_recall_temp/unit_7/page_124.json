@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 124,
+  "filename": "Unit_7_7.txt",
+  "section_title": "Respiratory System",
+  "page_num_in_file": 7,
+  "slide_title": "Gas Exchange Surfaces: Lungs of Terrestrial Vertebrates",
+  "original_text": "Gas Exchange Surfaces Terrestrial Vertebrates Lungs vascularized outgrowths from the lower pharyngeal region Can be subdivided into smaller passageways and spaces Human lungs have surface area of ~70m2(50x skin surface area) nAir has a drying effect, so lungs are moistened to keep them from drying out.",
+  "explanation": "Terrestrial vertebrates use lungs for respiration, which are highly vascularized outgrowths from the lower pharyngeal region. Lungs are internally subdivided into smaller passageways and air spaces to maximize surface area. Human lungs, for example, have an internal surface area of approximately 70 square meters ($m^2$), which is about 50 times the surface area of the skin. Because air has a drying effect, the internal surfaces of the lungs are kept moist to facilitate gas diffusion.",
+  "questions": [
+    {
+      "q": "From what embryonic region do the lungs of terrestrial vertebrates develop?",
+      "opts": [
+        "The upper abdominal cavity",
+        "The lower pharyngeal region",
+        "The subcutaneous epidermal layer",
+        "The pleural membrane of the heart"
+      ],
+      "a": 1,
+      "exp": "Lungs develop as vascularized outgrowths from the lower pharyngeal region."
+    },
+    {
+      "q": "What is the approximate internal surface area of human lungs?",
+      "opts": [
+        "1-2 square meters",
+        "10 square meters",
+        "70 square meters",
+        "500 square meters"
+      ],
+      "a": 2,
+      "exp": "Human lungs have an internal gas exchange surface area of approximately 70 square meters, which is 50 times larger than the surface area of the skin."
+    }
+  ]
+}

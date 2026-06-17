@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 36,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 36,
+  "slide_title": "3: Control of pH",
+  "original_text": "3: Control of pH¨pH needs to be tightly controlled in living organisms¤Enzymes & other proteins function only within narrow pH range¨Control of pH in living system accomplished by buffers¤Chemical substance that can neutralizesmall amounts of acid or base added to the solution¨In blood, most important buffer system is bicarbonate/carbonic acidsystem¤CO2+ H2O ⇄ H2CO3 ⇄ HCO3- + H+",
+  "explanation": "The control of pH must be tightly regulated in living organisms because enzymes and other proteins can only function within a narrow, specific pH range. Organisms accomplish this pH regulation using buffers, which are chemical substances that neutralize small amounts of acid or base added to a solution. In human blood, the most critical buffer system is the bicarbonate/carbonic acid system, which maintains pH balance through the reversible chemical pathway: CO2 + H2O <-> H2CO3 <-> HCO3- + H+.",
+  "questions": [
+    {
+      "q": "What is the function of a buffer in a biological system?",
+      "opts": [
+        "To speed up chemical reactions.",
+        "To neutralize small amounts of acid or base to maintain pH stability.",
+        "To break down proteins into amino acids.",
+        "To generate thermal energy."
+      ],
+      "a": 1,
+      "exp": "A buffer is a chemical substance that helps keep pH stable by neutralizing small amounts of acid or base added to a solution."
+    },
+    {
+      "q": "Which buffer system is the most important for maintaining pH stability in human blood?",
+      "opts": [
+        "Phosphate buffer system",
+        "Protein buffer system",
+        "Bicarbonate/carbonic acid buffer system",
+        "Ammonia buffer system"
+      ],
+      "a": 2,
+      "exp": "As stated on the slide, the bicarbonate/carbonic acid buffer system is the most important system for regulating blood pH."
+    }
+  ]
+}

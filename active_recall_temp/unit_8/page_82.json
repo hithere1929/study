@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 82,
+  "filename": "Unit_8_5.txt",
+  "section_title": "Cellular Respiration",
+  "page_num_in_file": 10,
+  "slide_title": "Outside the Mitochondria: Fermentation¨Fermentation is an anaerobicprocess that reduces pyruvate to either lactate or alcohol and CO2¨NADH transfers its electrons to pyruvate¨Alcoholic fermentation, carried out by yeasts, produces carbon dioxide and ethyl alcohol¤Used in the production of alcoholic spirits and breads.¨Lactic acid fermentation, carried out by certain bacteria and fungi, produces lactic acid (lactate)¤Used commercially in the production of cheese, yogurt, and sauerkraut.¨Other bacteria produce chemicals anaerobically, including isopropanol, butyric acid, proprionicacid, and acetic acid.",
+  "original_text": "Outside the Mitochondria: Fermentation¨Fermentation is an anaerobicprocess that reduces pyruvate to either lactate or alcohol and CO2¨NADH transfers its electrons to pyruvate¨Alcoholic fermentation, carried out by yeasts, produces carbon dioxide and ethyl alcohol¤Used in the production of alcoholic spirits and breads.¨Lactic acid fermentation, carried out by certain bacteria and fungi, produces lactic acid (lactate)¤Used commercially in the production of cheese, yogurt, and sauerkraut.¨Other bacteria produce chemicals anaerobically, including isopropanol, butyric acid, proprionicacid, and acetic acid.",
+  "explanation": "Fermentation is an anaerobic process where NADH transfers its electrons to pyruvate, reducing it to either lactate or to alcohol and CO2. Alcoholic fermentation is performed by yeasts, producing carbon dioxide and ethyl alcohol, which is utilized to produce bread and spirits. Lactic acid fermentation is performed by specific bacteria and fungi, yielding lactic acid (lactate), which is commercially used to produce cheese, yogurt, and sauerkraut. Other anaerobic bacteria can produce chemicals like isopropanol, butyric acid, propionic acid, and acetic acid.",
+  "questions": [
+    {
+      "q": "What donor molecule transfers its electrons to pyruvate during fermentation?",
+      "opts": [
+        "ATP",
+        "NADPH",
+        "NADH",
+        "FADH2"
+      ],
+      "a": 2,
+      "exp": "The notes state: 'NADH transfers its electrons to pyruvate' during fermentation."
+    },
+    {
+      "q": "Which organism performs alcoholic fermentation, and what are the products?",
+      "opts": [
+        "Yeasts; carbon dioxide and ethyl alcohol",
+        "Bacteria; lactic acid and oxygen",
+        "Fungi; glucose and isopropanol",
+        "Cyanobacteria; butyric acid and RuBP"
+      ],
+      "a": 0,
+      "exp": "The notes state: 'Alcoholic fermentation, carried out by yeasts, produces carbon dioxide and ethyl alcohol.'"
+    }
+  ]
+}

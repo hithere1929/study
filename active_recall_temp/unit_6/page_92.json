@@ -1,0 +1,23 @@
+{
+  "unit": 6,
+  "page": 92,
+  "filename": "Unit_6_7.txt",
+  "section_title": "Vertebrates",
+  "page_num_in_file": 13,
+  "slide_title": "Diversity of Mammals",
+  "original_text": "Diversity of Mammals\nFor more info on the full diversity ofmammals, see page 566 in text",
+  "explanation": "This slide serves as an overview and conclusion for the section on mammals, directing students to page 566 of the textbook for additional details on mammalian diversity.",
+  "questions": [
+    {
+      "q": "Where can students find more information about the full diversity of mammals?",
+      "opts": [
+        "Text page 385",
+        "Text page 526",
+        "Text page 566",
+        "Text page 810"
+      ],
+      "a": 2,
+      "exp": "The slide notes state: 'For more info on the full diversity ofmammals, see page 566 in text'."
+    }
+  ]
+}

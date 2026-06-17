@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 71,
+  "filename": "Unit_7_4.txt",
+  "section_title": "Plant Reproduction",
+  "page_num_in_file": 17,
+  "slide_title": "Asexual Reproduction Strategies: Vegetative Reproduction",
+  "original_text": "Asexual Reproduction Strategies Vegetative reproduction is any form of asexual reproduction occurring in plants in which a new plant grows from a fragment of the parent plant or a specialized reproductive structure. Many plants naturally reproduce this way, but it can also be induced artificially. Plants can reproduce asexually with the use of: Stolons horizontal stems Rhizomes  underground stems Cutting, grafting, mound layering, & aerial layering are some commonnatural vegetative methods",
+  "explanation": "Vegetative reproduction is a natural or artificially induced form of asexual reproduction in plants, where a new individual grows from a fragment of the parent plant or from a specialized vegetative structure rather than seeds or spores. Natural asexual structures include stolons (above-ground horizontal stems) and rhizomes (underground horizontal stems). Horticulturalists can artificially propagate plants using common vegetative methods such as cutting, grafting, mound layering, and aerial layering.",
+  "questions": [
+    {
+      "q": "What is vegetative reproduction in plants?",
+      "opts": [
+        "Reproduction via double fertilization of ovules",
+        "Asexual reproduction where a new plant grows from a fragment or vegetative structure of the parent",
+        "Growth of a haploid plantlet from cultured anthers",
+        "Production of spores by the diploid sporophyte"
+      ],
+      "a": 1,
+      "exp": "Vegetative reproduction is a form of asexual reproduction in which new plants develop from vegetative parts of the parent plant (like stems or leaves)."
+    },
+    {
+      "q": "Which of the following are specialized stem structures used by plants to propagate asexually?",
+      "opts": [
+        "Peduncles and receptacles",
+        "Stolons and rhizomes",
+        "Pits and perforated plates",
+        "Sieve plates and companion cells"
+      ],
+      "a": 1,
+      "exp": "Stolons (horizontal above-ground stems) and rhizomes (horizontal underground stems) are specialized stems used for vegetative reproduction."
+    },
+    {
+      "q": "Which of the following is an artificial or horticultural vegetative propagation method listed in the text?",
+      "opts": [
+        "Somatic embryogenesis",
+        "Double fertilization",
+        "Grafting",
+        "Anther culture"
+      ],
+      "a": 2,
+      "exp": "Grafting, cutting, mound layering, and aerial layering are listed as common vegetative propagation methods."
+    }
+  ]
+}

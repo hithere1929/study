@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 135,
+  "filename": "Unit_7_7.txt",
+  "section_title": "Respiratory System",
+  "page_num_in_file": 18,
+  "slide_title": "Respiration and Human Health: Upper Respiratory Disorders",
+  "original_text": "Respiration and Human Health Disorders of the Upper Respiratory Tract Cold Mild viral infections Characterized by sneezing, runny nose, mild fever Antibiotics are ineffective for treatment Strep Throat Acute pharyngitis (inflammation of the pharynx) caused by a bacterium (Streptococcus pyogenes) Severe sore throat, high fever, swollen tonsils Curable with antibiotics",
+  "explanation": "This slide contrasts two common disorders of the upper respiratory tract. 1) Common Cold: a mild viral infection presenting with sneezing, a runny nose, and mild fever. Because it is viral, antibiotics are ineffective. 2) Strep Throat: acute pharyngitis (inflammation of the pharynx) caused by the bacterium Streptococcus pyogenes. Symptoms include a severe sore throat, high fever, and swollen tonsils. Since it is bacterial, it is treatable and curable with antibiotics.",
+  "questions": [
+    {
+      "q": "Why are antibiotics ineffective in treating a common cold?",
+      "opts": [
+        "Colds are bacterial infections that are resistant to antibiotics.",
+        "Colds are caused by viral infections, and antibiotics only target bacteria.",
+        "Antibiotics only work in the lower respiratory tract.",
+        "Cold viruses destroy the chemical structure of antibiotics."
+      ],
+      "a": 1,
+      "exp": "Antibiotics target bacterial structures and processes; they have no effect against viral infections like the common cold."
+    },
+    {
+      "q": "What bacterium causes strep throat, and how is it treated?",
+      "opts": [
+        "Mycobacterium tuberculosis; treated with physical therapy",
+        "Streptococcus pyogenes; treated with antibiotics",
+        "Streptococcus pyogenes; treated with anti-viral vaccines",
+        "Mycoplasma pneumoniae; treated with bronchial inhalers"
+      ],
+      "a": 1,
+      "exp": "Strep throat is caused by the bacterium Streptococcus pyogenes and is successfully treated with antibiotics."
+    }
+  ]
+}

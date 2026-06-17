@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 28,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 28,
+  "slide_title": "3: Evaporative Cooling",
+  "original_text": "3: Evaporative Cooling¨Heat capacity of water:¤Allows oceans to stabilize temperature of Earth such that life can survive¤Allows cells to maintain temperature despite changes in environmental temperature¨Evaporative cooling: relatively large amount of energy absorbed by water during evaporation which significantly cools surface of remaining liquid¤Prevents organisms from over-heating\nEx: sweating, panting",
+  "explanation": "Water's high heat capacity plays a vital role in global and cellular homeostasis: it allows the Earth's oceans to stabilize global temperatures to sustain life, and it helps individual cells maintain a stable internal temperature despite fluctuations in the external environment. A related mechanism is evaporative cooling, where a relatively large amount of heat energy is absorbed by water as it evaporates, resulting in a significant cooling of the remaining liquid surface. This process prevents organisms from overheating, as exemplified by physiological responses like sweating in humans and panting in animals.",
+  "questions": [
+    {
+      "q": "What is evaporative cooling?",
+      "opts": [
+        "Water absorbing heat from the sun and warming the environment.",
+        "The process where water absorbs a large amount of energy during evaporation, cooling the surface of the remaining liquid.",
+        "The freezing of water from top to bottom.",
+        "The condensation of water vapor onto a cool surface."
+      ],
+      "a": 1,
+      "exp": "Evaporative cooling is the process where liquid water absorbs a large amount of energy as it transitions to gas, thereby cooling the surface left behind (e.g., sweating)."
+    },
+    {
+      "q": "Which of the following is a biological example of evaporative cooling to prevent overheating?",
+      "opts": [
+        "Shivering",
+        "Sweating or panting",
+        "Capillarity in roots",
+        "Ice crystal formation"
+      ],
+      "a": 1,
+      "exp": "Sweating and panting are biological examples of evaporative cooling used by organisms to dump excess heat."
+    }
+  ]
+}

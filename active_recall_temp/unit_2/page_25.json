@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 25,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 25,
+  "slide_title": "3: Cohesion",
+  "original_text": "3: Cohesion¨Cohesion: attractive force that holds molecules of a single substance together¤Ability of substance to stick to itself¤Due to H bonding –allows upward movement of water from plant roots to leave¨Related to cohesion –surface tension¤Cohesive forces resulting from H bonds cause molecules at the surface of water to be pulled downward into the liquid¤Result –water acts as if it has thin “skin” over the surface\nEx: in an over-filled glass, water appears to bulge over the rim\nEx: small creatures are able to run on water’s surface without sinking",
+  "explanation": "Cohesion is the attractive force that holds molecules of a single substance together, representing the ability of a substance to stick to itself. In water, cohesion is caused by hydrogen bonding, which is biologically important as it enables the upward movement of water from plant roots to leaves. A closely related concept is surface tension, where cohesive forces draw water molecules at the surface downward into the liquid. This causes the surface of the water to behave as though it is covered by a thin, elastic 'skin'. This phenomenon is visible when water bulges over the rim of an over-filled glass, or when small creatures walk across the water's surface without sinking.",
+  "questions": [
+    {
+      "q": "What is cohesion?",
+      "opts": [
+        "The attraction between molecules of different substances.",
+        "The force that holds molecules of a single substance together.",
+        "The process of water turning into gas.",
+        "The chemical reaction between oxygen and hydrogen."
+      ],
+      "a": 1,
+      "exp": "Cohesion is defined as the attractive force that holds molecules of a single substance together (sticking to itself)."
+    },
+    {
+      "q": "What causes the phenomenon of surface tension in water?",
+      "opts": [
+        "Repulsive forces between oxygen atoms.",
+        "Cohesive forces from hydrogen bonds that pull surface molecules downward into the liquid.",
+        "The high density of dissolved salts.",
+        "The covalent bonding between water and air molecules."
+      ],
+      "a": 1,
+      "exp": "Surface tension is caused by cohesive forces (due to hydrogen bonds) that pull surface water molecules downward, making the surface act like a thin skin."
+    }
+  ]
+}

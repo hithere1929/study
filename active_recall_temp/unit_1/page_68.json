@@ -1,0 +1,34 @@
+{
+  "unit": 1,
+  "page": 68,
+  "filename": "Unit_1_5.txt",
+  "section_title": "Biotechnology and Bioethics",
+  "page_num_in_file": 3,
+  "slide_title": "The Biologist",
+  "original_text": "\u2013Biologist\u2013an expert in or student of the branch of science concerning living organisms.\n\u2013Scientist\u2013a person who is studying or has expert knowledge of one or more of the natural or physical sciences.\n\u2013The difference between a biologist and a biological scientist is research.",
+  "explanation": "This slide defines the terms 'Biologist' and 'Scientist' and distinguishes between them. A biologist is defined as an expert in or student of the branch of science concerning living organisms. A scientist is defined as a person who is studying or has expert knowledge of one or more of the natural or physical sciences. Crucially, the slide states that the primary difference between a biologist and a biological scientist is research.",
+  "questions": [
+    {
+      "q": "According to the slide, what is the key difference between a biologist and a biological scientist?",
+      "opts": [
+        "The amount of college tuition paid",
+        "Research activity",
+        "Storing food in a lab refrigerator",
+        "The ability to use a light microscope"
+      ],
+      "a": 1,
+      "exp": "The text states: 'The difference between a biologist and a biological scientist is research.'"
+    },
+    {
+      "q": "How is a biologist defined on this slide?",
+      "opts": [
+        "A person who only studies volcanic deep-sea vents",
+        "An expert in or student of the branch of science concerning living organisms",
+        "A scientist who works only for government agencies",
+        "A technician who repairs compound light microscopes"
+      ],
+      "a": 1,
+      "exp": "The slide defines Biologist as: 'an expert in or student of the branch of science concerning living organisms.'"
+    }
+  ]
+}

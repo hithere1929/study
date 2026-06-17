@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 48,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 12,
+  "slide_title": "Molecules of Life",
+  "original_text": "Molecules of Life",
+  "explanation": "This slide introduces the major 'Molecules of Life', which are the organic macromolecules found in all living systems.",
+  "questions": [
+    {
+      "q": "What is the general title of the section introduced on this slide?",
+      "opts": [
+        "Inorganic Chemistry",
+        "Molecules of Life",
+        "Cell Biology",
+        "Ecology"
+      ],
+      "a": 1,
+      "exp": "The slide is titled 'Molecules of Life'."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "option_a": {
+    "prompt": "Explain the flow of energy and concentration of toxins through trophic pyramids, referencing the laws of thermodynamics and biomagnification.",
+    "keywords": [
+      "trophic levels",
+      "10% rule",
+      "laws of thermodynamics",
+      "heat loss",
+      "biomass",
+      "biomagnification"
+    ],
+    "model_answer": "Energy flows unidirectionally through an ecosystem across various trophic levels, starting with primary producers (autotrophs) and moving up to primary, secondary, and tertiary consumers. According to the laws of thermodynamics, energy transfers are inefficient, with approximately 90% of energy lost as heat at each transition, meaning only about 10% is transferred to the next level. This limit on energy transfer reduces biomass at higher levels. Conversely, persistent pollutants cannot be easily metabolized or excreted; thus, they undergo biomagnification, increasing in concentration as they are consumed up the food chain, resulting in the highest toxic loads in apex predators."
+  },
+  "option_b": {
+    "prompt": "Compare and contrast the electron transport chains (ETCs) of photosynthesis and cellular respiration, detailing their cellular locations, electron donors, final electron acceptors, and mechanisms of ATP generation.",
+    "keywords": [
+      "thylakoid membrane",
+      "cristae",
+      "water",
+      "NADH",
+      "FADH2",
+      "NADP+",
+      "oxygen",
+      "proton gradient",
+      "chemiosmosis",
+      "ATP synthase"
+    ],
+    "model_answer": "The electron transport chains of photosynthesis and cellular respiration both utilize chemiosmosis but differ in their components and location. In photosynthesis, the ETC is located in the thylakoid membrane; light energy drives the process, water serves as the initial electron donor (releasing oxygen), and NADP+ acts as the final electron acceptor to form NADPH. Protons are pumped from the stroma into the thylakoid space. In cellular respiration, the ETC is located in the mitochondrial cristae; high-energy electrons are donated by NADH and FADH2 (derived from glucose), and oxygen serves as the final electron acceptor (forming water). Protons are pumped from the matrix into the intermembrane space. In both systems, the resulting proton gradient drives ATP synthesis as protons diffuse back through the ATP synthase channel."
+  }
+}

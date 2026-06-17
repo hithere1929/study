@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 151,
+  "filename": "Unit_4_8.txt",
+  "section_title": "Mendelian Inheritance P1 - Mendelian Genetics",
+  "page_num_in_file": 6,
+  "slide_title": "Gregor Mendel",
+  "original_text": "Gregor Mendel",
+  "explanation": "Gregor Mendel was an Austrian monk who formulated the fundamental laws of heredity in the 1860s based on his research with garden pea plants. He did this without knowledge of chromosomes or cells, and without the aid of a microscope.",
+  "questions": [
+    {
+      "q": "Who is known for formulating the fundamental laws of heredity in the 1860s?",
+      "opts": [
+        "Gregor Mendel",
+        "Thomas Hunt Morgan",
+        "Charles Darwin",
+        "Jean-Baptiste Lamarck"
+      ],
+      "a": 0,
+      "exp": "Option A is correct because Gregor Mendel is the Austrian monk credited with formulating the fundamental laws of heredity."
+    }
+  ]
+}

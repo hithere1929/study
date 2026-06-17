@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 3,
+  "filename": "Unit_4_1.txt",
+  "section_title": "DNA Advances through 20th Century",
+  "page_num_in_file": 3,
+  "slide_title": "Part 1 –Historical Basis",
+  "original_text": "Part 1 –Historical Basis",
+  "explanation": "This page marks the beginning of Part 1 of the section, which covers the 'Historical Basis' of genetic discoveries, tracing the experiments and milestones that led to our modern understanding of DNA.",
+  "questions": [
+    {
+      "q": "What is the title of the first part of this section?",
+      "opts": [
+        "DNA Replication",
+        "Transcription and Translation",
+        "Historical Basis",
+        "Modern Gene Technologies"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide lists 'Part 1 - Historical Basis' as the section title. Options A, B, and D are incorrect as they refer to other molecular genetics topics not mentioned on this slide."
+    }
+  ]
+}

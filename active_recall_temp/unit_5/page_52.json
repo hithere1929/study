@@ -1,0 +1,23 @@
+{
+  "unit": 5,
+  "page": 52,
+  "filename": "Unit_5_3.txt",
+  "section_title": "Speciation & Macroevolution",
+  "page_num_in_file": 3,
+  "slide_title": "\u2022How New Species Evolve\u2022Modes of Speciation\u2022Principles of Macroevolution",
+  "original_text": "\u2022How New Species Evolve\u2022Modes of Speciation\u2022Principles of Macroevolution\nWhat exactly is a species?",
+  "explanation": "This slide introduces the three sub-topics of Section 5.3: How New Species Evolve, Modes of Speciation, and Principles of Macroevolution. It poses the fundamental question: 'What exactly is a species?', which leads into the definition of species concepts.",
+  "questions": [
+    {
+      "q": "What central question is posed on page 52 to introduce the sub-topics of speciation?",
+      "opts": [
+        "How old is the Earth?",
+        "What exactly is a species?",
+        "Why do mutations occur randomly?",
+        "What causes geographic isolation?"
+      ],
+      "a": 1,
+      "exp": "The slide explicitly asks the question: 'What exactly is a species?'"
+    }
+  ]
+}

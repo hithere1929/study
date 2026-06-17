@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 24,
+  "filename": "Unit_7_2.txt",
+  "section_title": "Plant Nutrition and Transport",
+  "page_num_in_file": 3,
+  "slide_title": "Soil & Nutrition",
+  "original_text": "Soil & Nutrition Water and carbon dioxide are critical components of plant nutrition 95% of plants dry weight C, H, or O Other essential nutrients must be taken up by the plants roots Minerals-inorganic substance usually containing 2 or more elements Essential nutrients have 1) an identifiable role in the plant, 2) cannot be replaced by another nutrient, and 3) a deficiency causes death. Broken down into Macro v Micronutrients based on relative concentrations in plant tissue Beneficial nutrients are required for growth, or enhance growth of a particular plant",
+  "explanation": "Water and carbon dioxide are crucial for plant nutrition, as carbon, hydrogen, and oxygen (C, H, or O) make up 95% of a plant's dry weight. Other essential nutrients, such as mineral ions (inorganic substances typically consisting of two or more elements), must be absorbed from the soil by the plant's roots. A nutrient is defined as essential if it meets three criteria: 1) it has a specific, identifiable role in plant physiology, 2) it cannot be substituted by another nutrient, and 3) a deficiency in this nutrient leads to plant death. These essential nutrients are classified as macronutrients or micronutrients based on their relative concentrations in plant tissue. Additionally, some plants require or benefit from beneficial nutrients, which enhance growth but do not meet the full criteria of essentiality for all plants.",
+  "questions": [
+    {
+      "q": "What elements constitute approximately 95% of a plant's dry weight?",
+      "opts": [
+        "Nitrogen, Phosphorus, and Potassium (N, P, K)",
+        "Carbon, Hydrogen, and Oxygen (C, H, O)",
+        "Calcium, Magnesium, and Sulfur (Ca, Mg, S)",
+        "Iron, Manganese, and Copper (Fe, Mn, Cu)"
+      ],
+      "a": 1,
+      "exp": "Water and carbon dioxide supply Carbon, Hydrogen, and Oxygen, which together make up about 95% of a plant's dry weight."
+    },
+    {
+      "q": "Which of the following is NOT a criterion for a plant nutrient to be classified as 'essential'?",
+      "opts": [
+        "It must have an identifiable role in the plant.",
+        "It cannot be replaced by another nutrient.",
+        "It must be present in concentrations greater than 10% in the soil.",
+        "A deficiency in it causes the death of the plant."
+      ],
+      "a": 2,
+      "exp": "The three criteria are: having an identifiable role, being irreplaceable by another nutrient, and deficiency causing death. Soil concentration is not part of the criteria."
+    }
+  ]
+}

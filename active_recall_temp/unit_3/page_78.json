@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 78,
+  "filename": "Unit_3_4.txt",
+  "section_title": "The Cell Cycle",
+  "page_num_in_file": 5,
+  "slide_title": "Prokaryotic Cell Division",
+  "original_text": "Prokaryotic Cell Division",
+  "explanation": "This page serves as a transition or title slide for Prokaryotic Cell Division.",
+  "questions": [
+    {
+      "q": "What is the title of the slide shown on this page?",
+      "opts": [
+        "Prokaryotic Cell Division",
+        "Binary Fission Steps",
+        "Eukaryotic Cell Cycle",
+        "Mitosis vs Meiosis"
+      ],
+      "a": 0,
+      "exp": "The slide is titled 'Prokaryotic Cell Division'."
+    }
+  ]
+}

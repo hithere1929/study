@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 33,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 33,
+  "slide_title": "3: Acids & Bases",
+  "original_text": "3: Acids & Bases¨When the amount of H+ = amount of OH--solution is neutral; pure water¨When the amount of H+ > amount of OH--solution is an acid¤Ex: HCl(aq) ⇂ H+ + Cl-\nLeads to higher hydronium than hydroxide in solution ¤Acids tend to taste sour: vinegar (acetic acid); citrus fruit (citric acid)¨When the amount of OH-> amount of H+ -solution is a base¤Ex: NaOH(aq) ⇂ Na+ + OH-\nLeads to higher hydroxide than hydronium in solution¤Bases described as “alkaline”; tend to be bitter¤Feel slippery because OH-reacts with oil in skin",
+  "explanation": "A solution is neutral (like pure water) when the concentration of hydrogen ions (H+) is equal to the concentration of hydroxide ions (OH-). An acid is formed when the concentration of H+ is greater than OH-, such as when hydrochloric acid (HCl) dissociates into H+ and Cl-, leading to a higher concentration of hydronium/protons in the solution. Acids typically taste sour, like vinegar (acetic acid) or citrus fruits (citric acid). A base (also described as alkaline) is formed when the concentration of OH- is greater than H+, such as when sodium hydroxide (NaOH) dissociates into Na+ and OH-, resulting in a higher hydroxide concentration. Bases tend to taste bitter and feel slippery to the touch because hydroxide ions react with the natural oils on human skin.",
+  "questions": [
+    {
+      "q": "What condition defines an acidic solution?",
+      "opts": [
+        "The concentration of OH- is greater than H+.",
+        "The concentration of H+ is greater than OH-.",
+        "The concentration of H+ is equal to OH-.",
+        "The solution contains only water molecules."
+      ],
+      "a": 1,
+      "exp": "An acidic solution is defined by having a higher concentration of H+ than OH-."
+    },
+    {
+      "q": "Why do bases feel slippery on human skin?",
+      "opts": [
+        "They evaporate extremely quickly.",
+        "The hydroxide ions (OH-) react with the oils present on the skin.",
+        "They contain lubricating oils.",
+        "They coat the skin in a protective layer of salt."
+      ],
+      "a": 1,
+      "exp": "Bases feel slippery because the hydroxide ions (OH-) chemically react with the natural oils on the skin."
+    }
+  ]
+}

@@ -1,0 +1,3237 @@
+[
+  {
+    "unit": 3,
+    "page": 1,
+    "filename": "Unit_3_1.txt",
+    "section_title": "Cell Biology",
+    "page_num_in_file": 1,
+    "slide_title": "Cell Biology - Visual Page 1",
+    "original_text": "UNIT 3: CELLS 3.1 –CELL BIOLOGYBiology 9 Mr. QueenanChapter 8.1 (p.238-247) & Ch 11.1 (p.339)",
+    "explanation": "This is the introductory title page for Unit 3: Cell Biology. The content is aligned with Biology 9, instructed by Mr. Queenan, covering Chapter 8.1 (pages 238-247) and Chapter 11.1 (page 339) of the textbook.",
+    "questions": [
+      {
+        "q": "Which chapters of the textbook are referenced on the title page of Unit 3: Cell Biology?",
+        "opts": [
+          "Chapters 7.1 and 10.1",
+          "Chapters 8.1 and 11.1",
+          "Chapters 9.1 and 12.1",
+          "Chapters 6.1 and 13.1"
+        ],
+        "a": 1,
+        "exp": "The title page explicitly references Chapter 8.1 (p. 238-247) and Ch 11.1 (p. 339) of the Biology 9 textbook. Other chapters are incorrect according to the slide text."
+      }
+    ],
+    "legacy_index": 0
+  },
+  {
+    "unit": 3,
+    "page": 2,
+    "filename": "Unit_3_1.txt",
+    "section_title": "Cell Biology",
+    "page_num_in_file": 2,
+    "slide_title": "How does structure relate to function on a cellular level?",
+    "original_text": "How does structure relate to function on a cellular level?\nUnit Essential Question",
+    "explanation": "This page introduces the Unit Essential Question: 'How does structure relate to function on a cellular level?' This question serves as the guiding inquiry for understanding cell biology and the organization of cellular components.",
+    "questions": [
+      {
+        "q": "What is the Unit Essential Question introduced on this page?",
+        "opts": [
+          "How do cells replicate their genetic material?",
+          "How does structure relate to function on a cellular level?",
+          "What are the differences between plant and animal cells?",
+          "How do cell membranes regulate transport?"
+        ],
+        "a": 1,
+        "exp": "The page explicitly lists the Unit Essential Question as 'How does structure relate to function on a cellular level?'"
+      }
+    ],
+    "legacy_index": 1
+  },
+  {
+    "unit": 3,
+    "page": 3,
+    "filename": "Unit_3_1.txt",
+    "section_title": "Cell Biology",
+    "page_num_in_file": 3,
+    "slide_title": "Section 1: The History of Cell Biology",
+    "original_text": "Section 1: The History of Cell Biology",
+    "explanation": "This is a transition slide marking the beginning of Section 1: The History of Cell Biology.",
+    "questions": [
+      {
+        "q": "What is the title of Section 1 introduced on this page?",
+        "opts": [
+          "The Structures of Cells",
+          "The History of Cell Biology",
+          "Cell Division and Reproduction",
+          "Cellular Energy and Respiration"
+        ],
+        "a": 1,
+        "exp": "The page serves as the section title slide for 'Section 1: The History of Cell Biology'."
+      }
+    ],
+    "legacy_index": 2
+  },
+  {
+    "unit": 3,
+    "page": 4,
+    "filename": "Unit_3_1.txt",
+    "section_title": "Cell Biology",
+    "page_num_in_file": 4,
+    "slide_title": "History of Cells",
+    "original_text": "History of Cells¨All living things are made of one or more cells¤Smallest unit that can carry on all processes of life¨As early as the 17thcentury, scientists used microscopesto observe objects too small to be seen by eye and develop the idea of cell-based life¤Robert Hooke: observed thin slices of cork with early microscope; “little boxes” observed reminded him of cubicles or “cells” where monks livenObserved similar structures in sections of tree stems, roots & ferns¤Anton van Leeuwenhoek: first to observe living cells, including microorganisms such as algae Spirogyra & VorticellanCalled microorganisms “animalcules”; now known as protists",
+    "explanation": "This page details the history of cell discovery. All living things are composed of one or more cells, which represent the smallest unit capable of carrying out all processes of life. The development of microscopes in the 17th century allowed scientists to observe objects too small for the naked eye. Robert Hooke examined thin slices of cork, noting 'little boxes' that reminded him of monks' rooms ('cells'); he also observed these structures in tree stems, roots, and ferns. Anton van Leeuwenhoek was the first to observe living cells, including algae such as Spirogyra and Vorticella, which he termed 'animalcules' (which are now known as protists).",
+    "questions": [
+      {
+        "q": "Who was the first scientist to observe living cells, such as Spirogyra and Vorticella, under a microscope?",
+        "opts": [
+          "Robert Hooke",
+          "Anton van Leeuwenhoek",
+          "Matthias Schleiden",
+          "Theodor Schwann"
+        ],
+        "a": 1,
+        "exp": "Anton van Leeuwenhoek was the first to observe living cells (like Spirogyra and Vorticella) and called them animalcules, whereas Robert Hooke observed non-living cells in cork."
+      },
+      {
+        "q": "What did Robert Hooke compare the 'little boxes' he observed in thin slices of cork to?",
+        "opts": [
+          "Honeycomb chambers",
+          "Monk cubicles/cells",
+          "Microscopic animalcules",
+          "Plant roots and tree stems"
+        ],
+        "a": 1,
+        "exp": "Hooke observed thin slices of cork and called the little boxes 'cells' because they reminded him of the cubicles or cells where monks lived."
+      }
+    ],
+    "legacy_index": 3
+  },
+  {
+    "unit": 3,
+    "page": 5,
+    "filename": "Unit_3_1.txt",
+    "section_title": "Cell Biology",
+    "page_num_in_file": 5,
+    "slide_title": "Cell Theory",
+    "original_text": "Cell Theory¨Summary of work of Hooke, Leeuwenhoek, Schleiden, Schwann, and Virchow from 16-1900s¤1: All living organisms are composed of one or more cells¤2: Cells are the basic units of structure and function in an organism¤3: Cells come only from the reproduction of existing cells (self-reproducing)",
+    "explanation": "The Cell Theory summarizes the collective work of Hooke, Leeuwenhoek, Schleiden, Schwann, and Virchow spanning from the 1600s to the 1900s. It consists of three main tenets: (1) All living organisms are composed of one or more cells. (2) Cells are the basic units of structure and function in an organism. (3) Cells come only from the reproduction of existing cells (meaning they are self-reproducing).",
+    "questions": [
+      {
+        "q": "Which of the following is NOT one of the three tenets of the Cell Theory?",
+        "opts": [
+          "All living organisms are composed of one or more cells.",
+          "Cells are the basic units of structure and function in an organism.",
+          "Cells come only from the reproduction of existing cells.",
+          "All cells contain a membrane-bound nucleus and organelles."
+        ],
+        "a": 3,
+        "exp": "The three tenets of Cell Theory are that all organisms are composed of cells, cells are the basic units of structure and function, and cells come only from pre-existing cells. The statement that all cells contain a membrane-bound nucleus is false (prokaryotic cells do not) and is not part of the Cell Theory."
+      }
+    ],
+    "legacy_index": 4
+  },
+  {
+    "unit": 3,
+    "page": 6,
+    "filename": "Unit_3_1.txt",
+    "section_title": "Cell Biology",
+    "page_num_in_file": 6,
+    "slide_title": "Contributions of Microscopy",
+    "original_text": "Contributions of Microscopy¨Study of cell biology limited until development of the compound light microscope¤Continues to expand with development of electron microscopes and other molecular biology tools¨Microscopy lead to clarifications of our definition of life, that all living things share basic characteristics:¤Consist of organized parts¤Obtain energy from surroundings¤Perform chemical reactions¤Change with time¤Respond to environment¤Reproduce¤Separate their constant internal environment from the changing external environment¤Share a common history –common characteristics that show how cells are related to other living things",
+    "explanation": "The study of cell biology was historically limited until the development of the compound light microscope, and the field continues to grow with advanced electron microscopes and molecular biology tools. Microscopy helped clarify the biological definition of life. All living organisms share several basic characteristics: they consist of organized parts, obtain energy from their surroundings, perform chemical reactions, change over time, respond to their environment, reproduce, separate their constant internal environment from the changing external environment, and share a common history showing their relatedness.",
+    "questions": [
+      {
+        "q": "What technological development initially broke the limitations on the study of cell biology?",
+        "opts": [
+          "The electron microscope",
+          "The compound light microscope",
+          "Molecular biology tools",
+          "Staining techniques"
+        ],
+        "a": 1,
+        "exp": "The slide states that the study of cell biology was limited until the development of the compound light microscope."
+      },
+      {
+        "q": "Which of the following is a basic characteristic of all living things identified through microscopy on this page?",
+        "opts": [
+          "Having a cell wall for protection",
+          "Separating a constant internal environment from a changing external environment",
+          "Operating as multicellular systems",
+          "Using sunlight directly as an energy source"
+        ],
+        "a": 1,
+        "exp": "One of the shared basic characteristics listed is that living things separate their constant internal environment from the changing external environment."
+      }
+    ],
+    "legacy_index": 5
+  },
+  {
+    "unit": 3,
+    "page": 7,
+    "filename": "Unit_3_1.txt",
+    "section_title": "Cell Biology",
+    "page_num_in_file": 7,
+    "slide_title": "Section 2: Introduction to Cells",
+    "original_text": "Section 2: Introduction to Cells",
+    "explanation": "This is a transition slide marking the beginning of Section 2: Introduction to Cells.",
+    "questions": [
+      {
+        "q": "What is the title of Section 2 introduced on this page?",
+        "opts": [
+          "The History of Cell Biology",
+          "Introduction to Cells",
+          "Organelles and Structures",
+          "Cell Transport Mechanisms"
+        ],
+        "a": 1,
+        "exp": "The slide title explicitly states 'Section 2: Introduction to Cells'."
+      }
+    ],
+    "legacy_index": 6
+  },
+  {
+    "unit": 3,
+    "page": 8,
+    "filename": "Unit_3_1.txt",
+    "section_title": "Cell Biology",
+    "page_num_in_file": 8,
+    "slide_title": "Diversity of Cells",
+    "original_text": "Diversity of Cells¨Cells, both among and within, organisms are very diverse:¤Vary in shape, size, internal organization, function¨Varying function of cells a product of their different structures¤Can be simpleor complexdepending on function¤Structure has evolvedto allow most effective functionality",
+    "explanation": "Cells, both among and within organisms, exhibit immense diversity. They vary significantly in their shape, size, internal organization, and function. The varying function of cells is directly a product of their different structures; structure has evolved over time to allow the most effective functionality, whether simple or complex depending on the cell's function.",
+    "questions": [
+      {
+        "q": "Which of the following is the primary reason why different cell types have different functions?",
+        "opts": [
+          "They contain different genetic codes.",
+          "They vary in their structures, which have evolved for specific functions.",
+          "They belong to different taxonomic kingdoms.",
+          "They are formed in different parts of the organism."
+        ],
+        "a": 1,
+        "exp": "The slide states that the varying function of cells is a product of their different structures, which evolved to allow most effective functionality."
+      }
+    ],
+    "legacy_index": 7
+  },
+  {
+    "unit": 3,
+    "page": 9,
+    "filename": "Unit_3_1.txt",
+    "section_title": "Cell Biology",
+    "page_num_in_file": 9,
+    "slide_title": "Size of Cells",
+    "original_text": "Size of Cells¨Most cells too small to be seen with the naked eye¤10-50 µm in diameter¤Except some nerve cells and human egg cell¨Cell size limitedby relationship between surface area and volume(surface area-to-volume ratio)¨During cell growth, volumeincreases much fasterthan surface area¤Necessary materials (nutrients & O2) and waste products (CO2) must pass through cell surface¤Cell size limited to microscopic level because surface area needs to be sufficientto support needs of cell",
+    "explanation": "Most cells are too small to be seen with the naked eye, typically measuring between 10 to 50 micrometers (μm) in diameter. Notable exceptions include certain long nerve cells and the human egg cell. Cell size is physically limited by the relationship between surface area and volume, known as the surface area-to-volume ratio. As a cell grows, its volume increases much faster than its surface area. Because necessary materials (such as nutrients and oxygen) must enter, and waste products (such as carbon dioxide) must exit through the cell's surface membrane, the surface area must be large enough to support the metabolic needs of the cell's volume, keeping cell size microscopic.",
+    "questions": [
+      {
+        "q": "What is the typical diameter range for most cells?",
+        "opts": [
+          "1-5 micrometers (μm)",
+          "10-50 micrometers (μm)",
+          "100-500 micrometers (μm)",
+          "1-2 millimeters (mm)"
+        ],
+        "a": 1,
+        "exp": "The slide states that most cells are 10-50 μm in diameter."
+      },
+      {
+        "q": "Why does the surface area-to-volume ratio limit cell size as a cell grows?",
+        "opts": [
+          "Volume increases much faster than surface area, leaving insufficient surface area to transport nutrients and wastes for the cell's volume.",
+          "Surface area increases faster than volume, causing the cell membrane to rupture.",
+          "The control center runs out of DNA to manage a larger surface area.",
+          "Gravity pulls harder on larger surface areas, destabilizing the cell structure."
+        ],
+        "a": 0,
+        "exp": "During cell growth, volume increases much faster than surface area. Because nutrients and wastes must pass through the surface, cells must remain microscopic to ensure the surface area is sufficient to support the cell's volume."
+      }
+    ],
+    "legacy_index": 8
+  },
+  {
+    "unit": 3,
+    "page": 10,
+    "filename": "Unit_3_1.txt",
+    "section_title": "Cell Biology",
+    "page_num_in_file": 10,
+    "slide_title": "Size of Cells",
+    "original_text": "Size of Cells\nSmaller cell àhigher surface area : volume ratioNeed more surface are to allow adequate nutrients to enter and waste to be expelled",
+    "explanation": "A smaller cell maintains a higher surface area-to-volume ratio. This high ratio is crucial because cells need a relatively large surface area to allow adequate nutrients to enter and waste to be expelled efficiently relative to their internal volume.",
+    "questions": [
+      {
+        "q": "Which of the following describes the surface area-to-volume ratio of a smaller cell compared to a larger cell?",
+        "opts": [
+          "A smaller cell has a lower surface area-to-volume ratio.",
+          "A smaller cell has a higher surface area-to-volume ratio.",
+          "A smaller cell has the same surface area-to-volume ratio.",
+          "Smaller cells do not have a surface area-to-volume ratio."
+        ],
+        "a": 1,
+        "exp": "The slide explicitly states that a smaller cell has a 'higher surface area : volume ratio' to allow nutrients and wastes to transport efficiently."
+      }
+    ],
+    "legacy_index": 9
+  },
+  {
+    "unit": 3,
+    "page": 11,
+    "filename": "Unit_3_1.txt",
+    "section_title": "Cell Biology",
+    "page_num_in_file": 11,
+    "slide_title": "Size and Scale",
+    "original_text": "Size and Scale",
+    "explanation": "This page serves as a placeholder or title page for the topic of Size and Scale in cell biology.",
+    "questions": [
+      {
+        "q": "What is the main topic of the slide on this page?",
+        "opts": [
+          "Cell Division",
+          "Size and Scale",
+          "Organelle Functions",
+          "Prokaryotic Structure"
+        ],
+        "a": 1,
+        "exp": "The slide is titled 'Size and Scale'."
+      }
+    ],
+    "legacy_index": 10
+  },
+  {
+    "unit": 3,
+    "page": 12,
+    "filename": "Unit_3_1.txt",
+    "section_title": "Cell Biology",
+    "page_num_in_file": 12,
+    "slide_title": "Basic Parts of the Cell",
+    "original_text": "Basic Parts of the Cell¨Plasma Membrane: cell’s outer boundary¤Cover‘s the cell’s surface and acts as a barrier¤Materials enterand exitthrough plasma membrane¨Cytoplasm: region of the cell within the plasma membrane¤Includes fluid, cytoskeleton, and all organellesexcept nucleus¤Cytosol: part of cytoplasm that includes molecules, small particles (i.e. ribosomes)nComposed of ~20% protein¨Control Center: membrane-bound organelle that contains the cellular DNA (nucleus)¤Controlsmost functionsof the cell¤Largest cell structure; easiest to see¤Maintains its shape via protein skeleton known as nuclear matrix",
+    "explanation": "All cells share three basic parts. The plasma membrane is the outer boundary that covers the cell's surface and acts as a selective barrier through which materials enter and exit. The cytoplasm is the entire region within the plasma membrane, which includes the fluid, cytoskeleton, and all organelles except the nucleus. The cytosol is the fluid portion of the cytoplasm, containing molecules and small particles (like ribosomes) and is composed of about 20% protein. The control center is the membrane-bound organelle that contains DNA, known as the nucleus; it controls most cellular functions, is the largest and easiest cell structure to see, and maintains its shape using a protein skeleton called the nuclear matrix.",
+    "questions": [
+      {
+        "q": "Which part of the cell is described as the fluid portion of the cytoplasm, containing ribosomes and being composed of approximately 20% protein?",
+        "opts": [
+          "Plasma membrane",
+          "Nucleus",
+          "Cytosol",
+          "Nuclear matrix"
+        ],
+        "a": 2,
+        "exp": "The cytosol is defined as the part of the cytoplasm including molecules and small particles like ribosomes, and is composed of ~20% protein."
+      },
+      {
+        "q": "What protein skeleton maintains the shape of the nucleus (control center)?",
+        "opts": [
+          "Cytoskeleton",
+          "Nuclear matrix",
+          "Plasma membrane",
+          "Ribosomal complex"
+        ],
+        "a": 1,
+        "exp": "The slide states that the nucleus maintains its shape via a protein skeleton known as the nuclear matrix."
+      }
+    ],
+    "legacy_index": 11
+  },
+  {
+    "unit": 3,
+    "page": 13,
+    "filename": "Unit_3_1.txt",
+    "section_title": "Cell Biology",
+    "page_num_in_file": 13,
+    "slide_title": "Basic Types of Cells",
+    "original_text": "Basic Types of Cells¨2basic typesof cells:¤Prokaryotes: organisms that lackmembrane-bound nucleus and membrane-bound organellesnDNA concentrated in an area called nucleoidnDivided into 2 Domains: Bacteria& ArchaeanBacteria: organisms that are similar to first cellular life formsnArchaea: organisms more closely related to eukaryotic cells¤Eukaryotes: organisms composed of one or more cells that havea nucleus & membrane-bound organellesnOrganelle: sub-cellular structure; well-defined, intracellular bodies that perform specific functions for the cellnPerform functions for the cell as organs perform functions for the bodynCells generally largerthan those of prokaryotes",
+    "explanation": "Cells are classified into two basic types: prokaryotes and eukaryotes. Prokaryotes lack a membrane-bound nucleus and membrane-bound organelles; their DNA is concentrated in a region called the nucleoid. Prokaryotes are divided into two domains: Bacteria (which are similar to the first cellular life forms) and Archaea (which are more closely related to eukaryotes). Eukaryotes are organisms composed of one or more cells that contain a true nucleus and membrane-bound organelles. Organelles are sub-cellular intracellular bodies that perform specific functions, analogous to organs in a body. Eukaryotic cells are generally larger than prokaryotic cells.",
+    "questions": [
+      {
+        "q": "Where is the DNA concentrated in prokaryotic cells?",
+        "opts": [
+          "Nucleus",
+          "Nucleolus",
+          "Nucleoid",
+          "Nuclear matrix"
+        ],
+        "a": 2,
+        "exp": "In prokaryotes, the DNA is concentrated in a region called the nucleoid."
+      },
+      {
+        "q": "Which two Domains contain prokaryotic organisms?",
+        "opts": [
+          "Bacteria and Eukaryota",
+          "Bacteria and Archaea",
+          "Archaea and Eukaryota",
+          "Protista and Fungi"
+        ],
+        "a": 1,
+        "exp": "Prokaryotes are divided into two Domains: Bacteria and Archaea."
+      }
+    ],
+    "legacy_index": 12
+  },
+  {
+    "unit": 3,
+    "page": 14,
+    "filename": "Unit_3_1.txt",
+    "section_title": "Cell Biology",
+    "page_num_in_file": 14,
+    "slide_title": "Basics of the Cell",
+    "original_text": "Basics of the Cell",
+    "explanation": "Study this complete page carefully. Focus on every named term, relationship, process, example, qualification, and exception shown in the notes, then answer the recall prompt below.",
+    "questions": [
+      {
+        "q": "What is the title of this transition slide?",
+        "opts": [
+          "Basics of the Cell",
+          "Cellular Diversity",
+          "Prokaryotic Differences",
+          "Cell Organelles"
+        ],
+        "a": 0,
+        "exp": "The slide is titled 'Basics of the Cell'."
+      }
+    ],
+    "legacy_index": 13
+  },
+  {
+    "unit": 3,
+    "page": 15,
+    "filename": "Unit_3_1.txt",
+    "section_title": "Cell Biology",
+    "page_num_in_file": 15,
+    "slide_title": "Prokaryotic Differences",
+    "original_text": "Prokaryotic Differences",
+    "explanation": "This page serves as a section header or slide title for 'Prokaryotic Differences'.",
+    "questions": [
+      {
+        "q": "What topic is introduced by this slide?",
+        "opts": [
+          "Eukaryotic Evolution",
+          "Prokaryotic Differences",
+          "Multicellularity",
+          "Tissue Specialization"
+        ],
+        "a": 1,
+        "exp": "The slide is titled 'Prokaryotic Differences'."
+      }
+    ],
+    "legacy_index": 14
+  },
+  {
+    "unit": 3,
+    "page": 16,
+    "filename": "Unit_3_1.txt",
+    "section_title": "Cell Biology",
+    "page_num_in_file": 16,
+    "slide_title": "Cellular Organization",
+    "original_text": "Cellular Organization¨Some cells can live alone; others depend on presence of other cells to survive¨Colonial organism: collection of genetically identical cells that live together in a connected group. Ex from lab activity –algae, volvox¤Not truly multicellular because few cell activities are coordinated¨Multicellularity: an organism composed of multiple cells that are specializedin their function and unable to survive independently¤Tissue: group of similar cells that perform a particular job in an organism¤Organ: group of similar tissues that perform a particular job in an organism¤Organ system: group of organsthat accomplish related tasks",
+    "explanation": "Organisms show different levels of cellular organization. Some cells live independently, while others depend on other cells. A colonial organism is a collection of genetically identical cells that live together in a connected group (e.g., Volvox or certain algae); however, they are not truly multicellular because they exhibit very little coordination of activities. Multicellularity involves organisms composed of multiple specialized cells that cannot survive independently. In multicellular organisms, cells are organized into hierarchies: similar cells form a tissue; similar tissues form an organ that performs a particular job; and groups of organs form an organ system to accomplish related tasks.",
+    "questions": [
+      {
+        "q": "Why is a colonial organism like Volvox not considered truly multicellular?",
+        "opts": [
+          "The cells are genetically different from each other.",
+          "Few of their cell activities are coordinated.",
+          "They cannot survive in a connected group.",
+          "They lack cell walls and plasma membranes."
+        ],
+        "a": 1,
+        "exp": "The slide states that a colonial organism is not truly multicellular because few cell activities are coordinated."
+      },
+      {
+        "q": "What is the correct hierarchical order of organization in multicellular organisms from simplest to most complex?",
+        "opts": [
+          "Tissue -> Organ -> Organ system -> Cell",
+          "Cell -> Tissue -> Organ -> Organ system",
+          "Organ -> Organ system -> Tissue -> Cell",
+          "Cell -> Organ -> Tissue -> Organ system"
+        ],
+        "a": 1,
+        "exp": "In multicellularity, cells make up tissues, which form organs, which work together in organ systems."
+      }
+    ],
+    "legacy_index": 15
+  },
+  {
+    "unit": 3,
+    "page": 17,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 1,
+    "slide_title": "Organelles - Visual Page 1",
+    "original_text": "UNIT 3: CELLS 3.2 –ORGANELLESSTRUCTURE & FUNCTIONBiology 9 Mr. QueenanCh 8.2 (p.248-259)",
+    "explanation": "This is the title page for Section 3.2 of Unit 3, focusing on Organelles Structure and Function. It references Chapter 8.2 (pages 248-259) of the Biology 9 textbook under Mr. Queenan.",
+    "questions": [
+      {
+        "q": "What is the topic of Unit 3 Section 3.2?",
+        "opts": [
+          "Cell division and replication",
+          "Organelles structure and function",
+          "Photosynthesis and respiration",
+          "History of cell biology"
+        ],
+        "a": 1,
+        "exp": "The title of the slide is 'UNIT 3: CELLS 3.2 – ORGANELLES STRUCTURE & FUNCTION'."
+      }
+    ],
+    "legacy_index": 16
+  },
+  {
+    "unit": 3,
+    "page": 18,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 2,
+    "slide_title": "Endosymbiotic Theory",
+    "original_text": "Endosymbiotic Theory¨Scientific evidence supports that mitochondria and chloroplasts arose when large eukaryotic cells engulfed independent prokaryotes¤Explains why they are bound by own double layer membranes and contain own genetic info.",
+    "explanation": "The Endosymbiotic Theory states that mitochondria and chloroplasts originated when large eukaryotic cells engulfed independent prokaryotes. This theory explains why both organelles are bound by their own double layer membranes and contain their own genetic information (DNA), which supports their ancestral prokaryotic origin.",
+    "questions": [
+      {
+        "q": "According to the Endosymbiotic Theory, how did mitochondria and chloroplasts originate?",
+        "opts": [
+          "They were synthesized from proteins in the cytosol.",
+          "They arose when large eukaryotic cells engulfed independent prokaryotes.",
+          "They evolved from folds in the nuclear membrane.",
+          "They were transferred from viral infections."
+        ],
+        "a": 1,
+        "exp": "The slide states that scientific evidence supports that mitochondria and chloroplasts arose when large eukaryotic cells engulfed independent prokaryotes."
+      },
+      {
+        "q": "What evidence supports the Endosymbiotic Theory for mitochondria and chloroplasts?",
+        "opts": [
+          "They lack double membranes and have no genetic info.",
+          "They are bound by their own double layer membranes and contain their own genetic info.",
+          "They are the largest organelles in animal cells.",
+          "They perform the exact same functions as the cell nucleus."
+        ],
+        "a": 1,
+        "exp": "The Endosymbiotic Theory explains why they are bound by their own double layer membranes and contain their own genetic information."
+      }
+    ],
+    "legacy_index": 17
+  },
+  {
+    "unit": 3,
+    "page": 19,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 3,
+    "slide_title": "“Plant” and “Animal” Cells",
+    "original_text": "“Plant” and “Animal” Cells\nAnimal CellsGeneralized structure of basic animal cellsNot all cells contain all features; some specialized cells will lack certain organellesWill be cell type we speak about for most analysis",
+    "explanation": "This page presents the generalized structure of basic animal cells. It notes that not all cells contain all features, as specialized cells may lack certain organelles. Animal cells are the primary cell type that will be analyzed in this section.",
+    "questions": [
+      {
+        "q": "Which of the following is true regarding the generalized structure of animal cells according to the slide?",
+        "opts": [
+          "All animal cells contain every single organelle.",
+          "Not all animal cells contain all features; specialized cells may lack certain organelles.",
+          "Animal cells are identical in structure to plant cells.",
+          "Animal cells do not have specialized functions."
+        ],
+        "a": 1,
+        "exp": "The slide notes that not all cells contain all features; some specialized cells will lack certain organelles."
+      }
+    ],
+    "legacy_index": 18
+  },
+  {
+    "unit": 3,
+    "page": 20,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 4,
+    "slide_title": "”Plant” and “Animal” Cells",
+    "original_text": "”Plant” and “Animal” Cells\nPlant CellsGeneralized structure of basic plant cellsNot all cells contain all features; some specialized cells will lack certain organellesPoints of difference with animal cells will be pointed out",
+    "explanation": "This page details the generalized structure of basic plant cells. Like animal cells, specialized plant cells may lack certain organelles. Key points of difference between plant and animal cells will be highlighted throughout this unit.",
+    "questions": [
+      {
+        "q": "What does the slide state about the relationship between plant and animal cell organelles?",
+        "opts": [
+          "They are identical with no differences.",
+          "Points of difference with animal cells will be pointed out.",
+          "Plant cells contain all organelles while animal cells contain none.",
+          "Plant cells do not have generalized structures."
+        ],
+        "a": 1,
+        "exp": "The slide states that 'points of difference with animal cells will be pointed out' during the study of plant cells."
+      }
+    ],
+    "legacy_index": 19
+  },
+  {
+    "unit": 3,
+    "page": 21,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 5,
+    "slide_title": "Plasma Membrane",
+    "original_text": "Plasma Membrane¨Functions: ¤Only allows certain materials to pass through¤Separates metabolic reactions from the external environment¤Allows cells to excrete wastes and interact with the environment¨Composition (also other organelle membranes):¤Primarily phospholipidsnPolar phosphate head; 2 non-polar fatty acid tailsnHeads face outwards –interacting with water; tails face inward –separated from waternForms lipid bilayernSterols present between tails of phospholipids; most notably cholesterolnMaintains firm structure, fluidity and prevents freezing at low temperature",
+    "explanation": "The plasma membrane performs crucial functions: it selectively allows certain materials to pass through, separates internal metabolic reactions from the external environment, and allows cells to excrete wastes and interact with their surroundings. The membrane's composition (which is shared by other organelle membranes) is primarily phospholipids, consisting of a polar phosphate head and two non-polar fatty acid tails. These molecules organize into a lipid bilayer where the polar heads face outward to interact with water, and the non-polar tails face inward, shielded from water. Sterols, most notably cholesterol, are embedded between the fatty acid tails to maintain structural firmness and fluidity, and to prevent the membrane from freezing at low temperatures.",
+    "questions": [
+      {
+        "q": "Which lipid component is found between the fatty acid tails of the plasma membrane to maintain structure, fluidity, and prevent freezing?",
+        "opts": [
+          "Glycoproteins",
+          "Cholesterol (sterols)",
+          "Ribosomal RNA",
+          "Triglycerides"
+        ],
+        "a": 1,
+        "exp": "The slide states that sterols, most notably cholesterol, are present between the tails of phospholipids to maintain firm structure, fluidity, and prevent freezing at low temperatures."
+      },
+      {
+        "q": "How are phospholipids arranged in the plasma membrane bilayer?",
+        "opts": [
+          "Polar heads face inward; non-polar tails face outward.",
+          "Polar heads face outward; non-polar tails face inward.",
+          "Both heads and tails face outward toward water.",
+          "They form a single monolayer with tails facing the nucleus."
+        ],
+        "a": 1,
+        "exp": "The polar phosphate heads face outward, interacting with water, while the non-polar fatty acid tails face inward, separated from water."
+      }
+    ],
+    "legacy_index": 20
+  },
+  {
+    "unit": 3,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 6,
+    "slide_title": "Organelles - Visual Page 6",
+    "original_text": "[This page is visual or image-based and contains no machine-extractable text. Open the matching notes page to study its diagrams and labels.]",
+    "explanation": "Study this complete page carefully, then recall its terminology, relationships, steps, examples, and exceptions without looking.",
+    "questions": [
+      {
+        "q": "Without looking back, explain the important information on the page titled \"Organelles - Visual Page 6.\"",
+        "type": "recall",
+        "answer": "[This page is visual or image-based and contains no machine-extractable text. Open the matching notes page to study its diagrams and labels.]",
+        "exp": "A complete answer should include the page's major terms, relationships, processes, examples, and exceptions. Compare your response with the complete page notes shown above."
+      }
+    ],
+    "legacy_index": null,
+    "page": 22
+  },
+  {
+    "unit": 3,
+    "page": 23,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 7,
+    "slide_title": "Plasma Membrane",
+    "original_text": "Plasma Membrane¨Integral proteins: proteins embeddedin the lipid bilayer¤Some emerge from only one side of membrane (cell surface markers)¤Others extend across the membrane and are exposed on the interior and exterior (receptor & transport proteins)nAble to detect environmental signals and transmit to the inside of the cell¤Those exposed to the cell’s exterior often have carbohydratesattachednAct as labelson the cell surfacenHelp cells recognize each other & stick togethernViruses can use them as docks to enter and infect cells¤Play important roles:nActively transporting molecules into the cellnActing as channels or poresnBinding to a molecule outside the cell and transporting through the membranenAct as sites for chemical messengers (hormones) to attach¨Peripheral proteins: lie on only one side of the membrane and do not pass through",
+    "explanation": "Cell membrane proteins are divided into integral and peripheral proteins. Integral proteins are embedded in the lipid bilayer; some emerge from only one side (acting as cell surface markers), while others extend across the entire membrane and are exposed to both the interior and exterior (such as receptor and transport proteins). These proteins can detect environmental signals and transmit them inside the cell. Integral proteins exposed to the exterior often have carbohydrates attached, which act as cell-surface labels for recognition and adhesion, though viruses can also use them as docking sites. Integral proteins actively transport molecules, act as channels/pores, transport molecules upon binding, or serve as hormone attachment sites. Peripheral proteins, conversely, lie only on one side of the membrane and do not span the lipid bilayer.",
+    "questions": [
+      {
+        "q": "What is the difference between integral and peripheral membrane proteins?",
+        "opts": [
+          "Integral proteins lie on only one side; peripheral proteins are embedded in the bilayer.",
+          "Integral proteins are embedded in the bilayer; peripheral proteins lie on only one side and do not pass through.",
+          "Integral proteins always have carbohydrates; peripheral proteins never do.",
+          "Integral proteins are only transport channels; peripheral proteins are only receptors."
+        ],
+        "a": 1,
+        "exp": "According to the slide, integral proteins are embedded in the lipid bilayer (often extending across), while peripheral proteins lie on only one side of the membrane and do not pass through."
+      },
+      {
+        "q": "What is a function of the carbohydrates attached to integral proteins exposed to the cell's exterior?",
+        "opts": [
+          "They generate ATP for active transport.",
+          "They act as cell surface labels helping cells recognize each other and stick together.",
+          "They synthesize lipids for the smooth endoplasmic reticulum.",
+          "They form nuclear pores to export RNA."
+        ],
+        "a": 1,
+        "exp": "The slide explains that these carbohydrates act as labels on the cell surface, helping cells recognize each other and stick together."
+      }
+    ],
+    "legacy_index": 21
+  },
+  {
+    "unit": 3,
+    "page": 24,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 8,
+    "slide_title": "Fluid Mosaic Model",
+    "original_text": "Fluid Mosaic Model¨Plasma membrane is dynamic¤Known as a fluid mosaic: phospholipid bilayer behaves like a fluid more than it behaves like a solid¤Membrane lipids and proteins can move laterally within the bilayer¤Thus the pattern (mosaic) of lipids and proteins in the cell membrane constantly changes",
+    "explanation": "The Fluid Mosaic Model describes the dynamic nature of the plasma membrane. Under this model, the phospholipid bilayer behaves more like a fluid than a solid. Both lipids and membrane proteins are capable of moving laterally within the bilayer. As a result, the overall pattern or 'mosaic' of lipids and proteins in the cell membrane is constantly shifting and changing.",
+    "questions": [
+      {
+        "q": "Why is the cell membrane described as a 'fluid mosaic'?",
+        "opts": [
+          "The membrane is completely solid but has a pattern of proteins.",
+          "The phospholipid bilayer behaves more like a fluid than a solid, and lipids and proteins can move laterally within it.",
+          "Water flows freely across the membrane in a mosaic pattern.",
+          "The membrane contains liquid-filled compartments called vesicles."
+        ],
+        "a": 1,
+        "exp": "The fluid mosaic model describes the membrane because the phospholipid bilayer behaves like a fluid and its lipids and proteins can move laterally, changing the pattern."
+      }
+    ],
+    "legacy_index": 22
+  },
+  {
+    "unit": 3,
+    "page": 25,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 9,
+    "slide_title": "Nucleus",
+    "original_text": "Nucleus¨Most functions of eukaryotic cell controlled by the nucleus¨Filled with jelly-like liquid known as nucleoplasm¤Holds the contents of the nucleus; similar function to cytoplasm¨Houses and protects genetic information of the cell¤Instructions for structure and function of the organism coded into the DNA contained in nucleus¨Between cell divisions –DNA structure is thread-like; known as chromatin¨When cell is preparing to divide –DNA condenses into chromosomes¤DNA wrapped around proteinmolecules¨Site where DNA is transcribedinto RNA, which then leaves nucleus via nuclear pores into the cytoplasm",
+    "explanation": "The nucleus controls most eukaryotic cell functions and is filled with a jelly-like liquid called nucleoplasm, which holds its contents similarly to how cytoplasm holds organelles. The nucleus houses and protects the cell's genetic information, which contains the codes for the organism's structure and function. Between cell divisions, the DNA is in a loose, thread-like structure called chromatin. When preparing to divide, the DNA condenses into chromosomes, wrapping tightly around protein molecules. Additionally, the nucleus is the site where DNA is transcribed into RNA, which then departs the nucleus through nuclear pores to reach the cytoplasm.",
+    "questions": [
+      {
+        "q": "What is the thread-like structure of DNA called when the cell is NOT actively dividing?",
+        "opts": [
+          "Chromosomes",
+          "Chromatin",
+          "Nucleosome",
+          "Nucleoplasm"
+        ],
+        "a": 1,
+        "exp": "The slide states that between cell divisions, the DNA structure is thread-like and known as chromatin."
+      },
+      {
+        "q": "What jelly-like liquid fills the nucleus and holds its contents?",
+        "opts": [
+          "Cytoplasm",
+          "Cytosol",
+          "Nucleoplasm",
+          "Nuclear matrix"
+        ],
+        "a": 2,
+        "exp": "The nucleus is filled with a jelly-like liquid known as nucleoplasm."
+      }
+    ],
+    "legacy_index": 23
+  },
+  {
+    "unit": 3,
+    "page": 26,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 10,
+    "slide_title": "Nuclear Structures",
+    "original_text": "Nuclear Structures¨Nuclear envelope:¤Double membrane that surrounds the nucleus¤Composed of 2 phospholipid bilayers¤Surface covered with protein-lined holes known as nuclear poresnProvide passageways for RNA and other materials to be transported in and out of the nucleus¨Nucleolus:¤Area in the nucleus of higher density¤Site where DNA is concentrated during the process of producing ribosomal RNAnRibosomes: organelles made of protein and RNA that direct protein synthesis in cytoplasm",
+    "explanation": "The nucleus contains specialized structures. The nuclear envelope is a double membrane that surrounds the nucleus and consists of two distinct phospholipid bilayers. Its surface is perforated by protein-lined openings called nuclear pores, which serve as passageways for RNA and other substances moving between the nucleus and the cytoplasm. Within the nucleus, the nucleolus is a dense region where DNA is concentrated during the production of ribosomal RNA (rRNA). Ribosomes, which are organelles composed of protein and RNA, subsequently direct protein synthesis in the cytoplasm.",
+    "questions": [
+      {
+        "q": "How many phospholipid bilayers make up the double membrane of the nuclear envelope?",
+        "opts": [
+          "One",
+          "Two",
+          "Three",
+          "Four"
+        ],
+        "a": 1,
+        "exp": "The nuclear envelope is a double membrane composed of 2 phospholipid bilayers."
+      },
+      {
+        "q": "What is the function of the nucleolus?",
+        "opts": [
+          "It transcribes RNA into DNA.",
+          "It is the site where DNA is concentrated during the production of ribosomal RNA.",
+          "It acts as a gateway for proteins entering the cytoplasm.",
+          "It synthesizes lipids and sterols for the membrane."
+        ],
+        "a": 1,
+        "exp": "The nucleolus is the area of higher density in the nucleus where DNA is concentrated to produce ribosomal RNA."
+      }
+    ],
+    "legacy_index": 24
+  },
+  {
+    "unit": 3,
+    "page": 27,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 11,
+    "slide_title": "Nuclear Structure",
+    "original_text": "Nuclear Structure",
+    "explanation": "Study this complete page carefully. Focus on every named term, relationship, process, example, qualification, and exception shown in the notes, then answer the recall prompt below.",
+    "questions": [
+      {
+        "q": "What is the title of this slide?",
+        "opts": [
+          "Nucleolus Functions",
+          "Nuclear Structure",
+          "Ribosome Assembly",
+          "Endoplasmic Reticulum"
+        ],
+        "a": 1,
+        "exp": "The slide is titled 'Nuclear Structure'."
+      }
+    ],
+    "legacy_index": 25
+  },
+  {
+    "unit": 3,
+    "page": 28,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 12,
+    "slide_title": "Ribosomes",
+    "original_text": "Ribosomes¨Small, roughly spherical organelles responsible for building proteins (protein synthesis)¨Do not have a membrane; composed of protein& RNAmolecules¨Assembly of ribosomes begins in nucleolusand is completed in cytoplasm¨One small sub-unit and one large sub-unit come together to make a functioning ribosome ¨2 types of ribosomes:¤Free–free-floating within the cytosol¤Attached–attached to the endoplasmic reticulumnAttach to ER when signal peptide being synthesized recognized by signal recognition particle and carried to ER to complete synthesis.",
+    "explanation": "Ribosomes are small, spherical organelles responsible for protein synthesis (building proteins). They lack a membrane and are composed entirely of protein and RNA molecules. Ribosomal assembly begins in the nucleolus and finishes in the cytoplasm, where one small subunit and one large subunit unite to form a functioning ribosome. Ribosomes exist in two states: 'free' ribosomes float freely in the cytosol, while 'attached' ribosomes are bound to the endoplasmic reticulum. Ribosomes attach to the ER when a signal peptide being synthesized is recognized by a signal recognition particle and guided to the ER membrane.",
+    "questions": [
+      {
+        "q": "Which of the following is true about ribosomes?",
+        "opts": [
+          "They are surrounded by a double membrane.",
+          "They consist of protein and RNA molecules and lack a membrane.",
+          "They are assembled entirely within the lysosome.",
+          "They only exist as free-floating structures in the cytoplasm."
+        ],
+        "a": 1,
+        "exp": "The slide states that ribosomes do not have a membrane and are composed of protein and RNA molecules."
+      },
+      {
+        "q": "How do attached ribosomes bind to the endoplasmic reticulum?",
+        "opts": [
+          "By fusing their membranes with the ER.",
+          "When a signal recognition particle recognizes a synthesizing signal peptide and carries it to the ER.",
+          "Through nuclear pores that attach them directly.",
+          "By using cholesterol molecules as anchors."
+        ],
+        "a": 1,
+        "exp": "Ribosomes attach to the ER when a signal peptide being synthesized is recognized by a signal recognition particle and carried to the ER."
+      }
+    ],
+    "legacy_index": 26
+  },
+  {
+    "unit": 3,
+    "page": 29,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 13,
+    "slide_title": "Ribosome Structure",
+    "original_text": "Ribosome Structure",
+    "explanation": "Study this complete page carefully. Focus on every named term, relationship, process, example, qualification, and exception shown in the notes, then answer the recall prompt below.",
+    "questions": [
+      {
+        "q": "What is the title of the slide shown on this page?",
+        "opts": [
+          "Ribosome Structure",
+          "Endoplasmic Reticulum",
+          "Protein Synthesis",
+          "Lysosomes"
+        ],
+        "a": 0,
+        "exp": "The slide is titled 'Ribosome Structure'."
+      }
+    ],
+    "legacy_index": 27
+  },
+  {
+    "unit": 3,
+    "page": 30,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 14,
+    "slide_title": "Endoplasmic Reticulum (ER)",
+    "original_text": "Endoplasmic Reticulum (ER)¨System of membranous tubes and sacs known as cisternae¨“intracellular highway” –a path that molecules travel to move from one part of the cell to another¨Quantity of ER in a cell varies depending on its activity level¨Two types:¤Rough¤SmoothnContinuous–form an interconnected network",
+    "explanation": "The Endoplasmic Reticulum (ER) is a system of membranous tubes and sacs called cisternae. It functions as an 'intracellular highway', providing a pathway for molecules to travel from one part of the cell to another. The total amount of ER in a cell varies based on its activity level. The ER is divided into two continuous types that form an interconnected network: Rough ER and Smooth ER.",
+    "questions": [
+      {
+        "q": "What are the membranous tubes and sacs of the Endoplasmic Reticulum called?",
+        "opts": [
+          "Cisternae",
+          "Cristae",
+          "Thylakoids",
+          "Vesicles"
+        ],
+        "a": 0,
+        "exp": "The slide defines the ER as a system of membranous tubes and sacs known as cisternae."
+      },
+      {
+        "q": "Why is the Endoplasmic Reticulum nicknamed the 'intracellular highway'?",
+        "opts": [
+          "It exports waste directly outside the cell.",
+          "It is a path that molecules travel to move from one part of the cell to another.",
+          "It is the site of cell division.",
+          "It connects different cells in a colonial organism."
+        ],
+        "a": 1,
+        "exp": "The ER is called the 'intracellular highway' because it is a path that molecules travel to move from one part of the cell to another."
+      }
+    ],
+    "legacy_index": 28
+  },
+  {
+    "unit": 3,
+    "page": 31,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 15,
+    "slide_title": "ER Structure",
+    "original_text": "ER Structure",
+    "explanation": "This page serves as a transition or title slide for ER (Endoplasmic Reticulum) Structure.",
+    "questions": [
+      {
+        "q": "What is the title of this slide?",
+        "opts": [
+          "ER Structure",
+          "Rough ER Function",
+          "Smooth ER Function",
+          "Golgi Apparatus"
+        ],
+        "a": 0,
+        "exp": "The slide is titled 'ER Structure'."
+      }
+    ],
+    "legacy_index": 29
+  },
+  {
+    "unit": 3,
+    "page": 32,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 16,
+    "slide_title": "Rough ER",
+    "original_text": "Rough ER¨System of interconnected flattened sacs covered with ribosomes¨Produces phospholipidsand proteins¤Proteins fold and take final shape at ER. Contains enzymes that can attach carbohydrates to form phospholipids¤Proteins are exported from cell or inserted into cell’s own membranenEx: digestive enzymes are made, accumulate inside ER, little sacs (vesicles) pinch off from ends of rough ER and store enzymes until they are released from the cell¨Most abundant in cells that produce large amounts of proteins for transport¤Digestive glands and antibody-producingcells",
+    "explanation": "The Rough Endoplasmic Reticulum (Rough ER) is a system of interconnected flattened sacs covered with ribosomes. It produces phospholipids and proteins, which fold and assume their final shapes within the ER. It also contains enzymes that attach carbohydrates to form phospholipids (or glycoproteins). These proteins are destined for export from the cell or insertion into the cell's own membrane. For instance, digestive enzymes are made and accumulate inside the ER, and small sacs (vesicles) pinch off from the ends of the Rough ER to store and transport them until release. Rough ER is most abundant in cells specializing in protein export, such as digestive glands and antibody-producing cells.",
+    "questions": [
+      {
+        "q": "In which cell types would you expect to find the most abundant Rough ER?",
+        "opts": [
+          "Cells that do not produce any proteins",
+          "Digestive glands and antibody-producing cells",
+          "Red blood cells",
+          "Epidermal skin cells"
+        ],
+        "a": 1,
+        "exp": "The slide states that Rough ER is most abundant in cells that produce large amounts of proteins for transport, such as digestive glands and antibody-producing cells."
+      },
+      {
+        "q": "What structure on the surface of the Rough ER gives it its 'rough' appearance and is responsible for protein synthesis?",
+        "opts": [
+          "Cisternae",
+          "Ribosomes",
+          "Lysosomes",
+          "Golgi bodies"
+        ],
+        "a": 1,
+        "exp": "The Rough ER is covered with ribosomes, which synthesize proteins."
+      }
+    ],
+    "legacy_index": 30
+  },
+  {
+    "unit": 3,
+    "page": 33,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 17,
+    "slide_title": "Smooth ER",
+    "original_text": "Smooth ER¨Lacks ribosomes –smooth appearance¤Most cells contain very little¨Builds lipids such as cholesterol, as well as steroid hormones estrogenand testosterone¨In muscle cells, releases Ca2+ which stimulates contraction¨Detoxifies drugsand poisons in the liverand kidneys¤Long term abuse of alcohol or drugs leads to increased production of smooth ER –can lead to drug tolerance",
+    "explanation": "The Smooth Endoplasmic Reticulum (Smooth ER) lacks ribosomes, giving it a smooth appearance. While most cells contain very little Smooth ER, it performs essential specialized functions: it builds lipids like cholesterol and steroid hormones (such as estrogen and testosterone); in muscle cells, it stores and releases calcium ions (Ca2+) to stimulate contraction; and in the liver and kidneys, it detoxifies drugs and poisons. Long-term drug or alcohol abuse causes cells to increase production of Smooth ER, which can lead to drug tolerance.",
+    "questions": [
+      {
+        "q": "Which of the following is a function of the Smooth ER?",
+        "opts": [
+          "Synthesizing ribosomal RNA",
+          "Building lipids (cholesterol) and steroid hormones (estrogen/testosterone)",
+          "Lining the nuclear envelope with pores",
+          "Mailing proteins to Golgi apparatus"
+        ],
+        "a": 1,
+        "exp": "The Smooth ER is responsible for building lipids such as cholesterol, and steroid hormones like estrogen and testosterone."
+      },
+      {
+        "q": "How does long-term abuse of alcohol or drugs affect the Smooth ER in liver and kidney cells?",
+        "opts": [
+          "It destroys all Smooth ER, leading to cell death.",
+          "It leads to increased production of Smooth ER, which can lead to drug tolerance.",
+          "It causes the Smooth ER to be covered in ribosomes.",
+          "It converts Smooth ER into mitochondria."
+        ],
+        "a": 1,
+        "exp": "The slide states that long-term abuse leads to increased production of smooth ER, which can lead to drug tolerance."
+      }
+    ],
+    "legacy_index": 31
+  },
+  {
+    "unit": 3,
+    "page": 34,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 18,
+    "slide_title": "Golgi Apparatus",
+    "original_text": "Golgi Apparatus¨System of flattened membranous sacs (vary from 3-23)¨Sacs closest to nucleus receive vesicles from ER containing newly made proteins or lipids (cis facing)¨Vesicles travel through Golgi, transporting substances as they go¨Stacked membranes modify contents of vesicle as they go¨Proteins are labeled, which directs them to the proper part of the cell, or out of the cell¤Ex: carbohydrate added to proteins",
+    "explanation": "The Golgi Apparatus is a system composed of 3 to 23 flattened membranous sacs. The cis face of the Golgi, which is closest to the nucleus, receives vesicles carrying newly made proteins or lipids from the ER. As these vesicles travel through the Golgi stack, the membrane enzymes modify their contents—for example, by adding carbohydrates to proteins to form glycoproteins. The Golgi also labels the proteins, directing them to their correct intracellular location or preparing them for export from the cell.",
+    "questions": [
+      {
+        "q": "Which face of the Golgi Apparatus is closest to the nucleus and receives vesicles from the ER?",
+        "opts": [
+          "Trans face",
+          "Cis face",
+          "Medial face",
+          "Distal face"
+        ],
+        "a": 1,
+        "exp": "The slide states that the sacs closest to the nucleus receive vesicles from the ER (cis facing)."
+      },
+      {
+        "q": "What is the primary function of the Golgi Apparatus?",
+        "opts": [
+          "Synthesizing proteins on its outer membrane",
+          "Modifying, labeling, and directing proteins/lipids to their proper destinations",
+          "Breaking down waste products via digestive enzymes",
+          "Storing genetic information in the form of DNA"
+        ],
+        "a": 1,
+        "exp": "The Golgi apparatus modifies contents of vesicles, labeling proteins to direct them to the proper part of the cell or out of the cell."
+      }
+    ],
+    "legacy_index": 32
+  },
+  {
+    "unit": 3,
+    "page": 35,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 19,
+    "slide_title": "Vesicles",
+    "original_text": "Vesicles¨Small, spherical sacs surrounded by a single membrane; classified by their contents¨Often migrateand mergewith plasma membrane, releasing their contents outside of the cell¨Lysosome: vesicles that bud from Golgiand contain digestive enzymes¤Can break down large molecules such as proteins, nucleic acids, carbohydrates, phospholipids¤Breaks down glycogen in the liver to release glucose into bloodstream¤White blood cells use them to break down bacteria¤Digest non-functioning organelles through a process called autophagy¤Responsible for breaking down cells when they are ready to dienProcess is called autolysis¤Maintain health of organism by destroying extra, improperly or non-functioning cells",
+    "explanation": "Vesicles are small, spherical, single-membrane-bound sacs classified by their specific contents. They often migrate and merge with the plasma membrane to release contents outside the cell. Lysosomes are vesicles that bud from the Golgi apparatus and contain powerful digestive enzymes. They break down large molecules (proteins, nucleic acids, carbohydrates, lipids), degrade glycogen in the liver to release glucose into the bloodstream, and help white blood cells destroy bacteria. Lysosomes digest worn-out or non-functioning cell organelles through autophagy, and they digest entire cells when they are programmed to die via autolysis. These processes maintain overall organismal health by purging excess, malfunctioning, or dead cells.",
+    "questions": [
+      {
+        "q": "What is the process called when lysosomes digest non-functioning organelles?",
+        "opts": [
+          "Autolysis",
+          "Autophagy",
+          "Endocytosis",
+          "Phagocytosis"
+        ],
+        "a": 1,
+        "exp": "The slide states that lysosomes digest non-functioning organelles through a process called autophagy."
+      },
+      {
+        "q": "What is the difference between autophagy and autolysis?",
+        "opts": [
+          "Autophagy is lipid synthesis; autolysis is protein breakdown.",
+          "Autophagy is digesting non-functioning organelles; autolysis is breaking down entire cells when they are ready to die.",
+          "Autophagy is cell division; autolysis is cell movement.",
+          "Autophagy is performed by ribosomes; autolysis is performed by the nucleus."
+        ],
+        "a": 1,
+        "exp": "The slide distinguishes autophagy (digesting non-functioning organelles) from autolysis (breaking down cells when they are ready to die)."
+      }
+    ],
+    "legacy_index": 33
+  },
+  {
+    "unit": 3,
+    "page": 36,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 20,
+    "slide_title": "Lysosome & Golgi",
+    "original_text": "Lysosome & Golgi",
+    "explanation": "Study this complete page carefully. Focus on every named term, relationship, process, example, qualification, and exception shown in the notes, then answer the recall prompt below.",
+    "questions": [
+      {
+        "q": "What is the title of the slide shown on this page?",
+        "opts": [
+          "Lysosome & Golgi",
+          "ER & Ribosomes",
+          "Cellular Organization",
+          "Vesicle Transport"
+        ],
+        "a": 0,
+        "exp": "The slide is titled 'Lysosome & Golgi'."
+      }
+    ],
+    "legacy_index": 34
+  },
+  {
+    "unit": 3,
+    "page": 37,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 21,
+    "slide_title": "Other Vesicles",
+    "original_text": "Other Vesicles¨Peroxisome: similar to lysosome; contains different enzymes, notproduced by Golgi¤Abundant in liverand kidneycells –neutralize free radicals(highly reactive oxygen molecules that can damage cells), detoxifyalcohol and other drugs¤Produce hydrogen peroxide (H2O2)when breaking down alcohol and killing bacteria¤Also break down fatty acids that mitochondria can use as an energy source",
+    "explanation": "Peroxisomes are spherical organelles similar to lysosomes, but they contain different sets of enzymes and are not produced by the Golgi apparatus. They are especially abundant in liver and kidney cells, where they function to neutralize free radicals (highly reactive oxygen-containing molecules that damage cells) and detoxify alcohol and other drugs. A byproduct of their drug breakdown and bacterial killing is hydrogen peroxide (H2O2). In addition to detoxification, peroxisomes break down fatty acids into simpler compounds that mitochondria can subsequently use as an energy source.",
+    "questions": [
+      {
+        "q": "Which organelle is similar to a lysosome, is not produced by the Golgi apparatus, and is responsible for neutralizing free radicals and producing hydrogen peroxide?",
+        "opts": [
+          "Ribosome",
+          "Endosome",
+          "Peroxisome",
+          "Glyoxysome"
+        ],
+        "a": 2,
+        "exp": "The slide describes peroxisomes as similar to lysosomes but containing different enzymes, not produced by the Golgi, and producing hydrogen peroxide (H2O2) when breaking down alcohol and killing bacteria."
+      },
+      {
+        "q": "In which organs of the body are peroxisomes especially abundant to detoxify alcohol and other drugs?",
+        "opts": [
+          "Heart and lungs",
+          "Liver and kidneys",
+          "Brain and spinal cord",
+          "Stomach and small intestine"
+        ],
+        "a": 1,
+        "exp": "Peroxisomes are abundant in liver and kidney cells, where they neutralize free radicals and detoxify substances."
+      }
+    ],
+    "legacy_index": 35
+  },
+  {
+    "unit": 3,
+    "page": 38,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 22,
+    "slide_title": "Vesicles",
+    "original_text": "Vesicles¨Glyoxysomes: specialized peroxisomesfound on seeds of some plants¤Break down stored fatsto provide energy for developing plant embryo¨Endosome: results when a cell engulfs material by surrounding it with the plasma membrane, then pocket formed buds off to become vesicle within cell¤Lysosomes can fuse with endosomes to digest engulfed material¨Food vacuole: stores nutrients",
+    "explanation": "This slide describes several specific types of vesicles. Glyoxysomes are specialized peroxisomes found in the seeds of certain plants; they function to break down stored fats to supply energy for the developing plant embryo. An endosome is a vesicle that forms when a cell engulfs extracellular material by surrounding it with its plasma membrane, which then pinches off internally. Lysosomes can fuse with these endosomes to digest the engulfed contents. A food vacuole is another type of vesicle whose primary function is to store nutrients.",
+    "questions": [
+      {
+        "q": "What is the function of glyoxysomes in the seeds of some plants?",
+        "opts": [
+          "They perform photosynthesis to produce glucose.",
+          "They break down stored fats to provide energy for the developing plant embryo.",
+          "They form endosomes by engulfing external proteins.",
+          "They synthesize cell walls during cell division."
+        ],
+        "a": 1,
+        "exp": "Glyoxysomes are specialized peroxisomes found in some plant seeds that break down stored fats to provide energy for the developing plant embryo."
+      },
+      {
+        "q": "How is an endosome formed?",
+        "opts": [
+          "By budding off from the Golgi apparatus.",
+          "When a cell engulfs material by surrounding it with the plasma membrane, which then buds off internally.",
+          "By the crystallization of cytosol proteins.",
+          "When a lysosome fuses with a peroxisome."
+        ],
+        "a": 1,
+        "exp": "An endosome results when a cell engulfs material by surrounding it with the plasma membrane, and the formed pocket buds off to become a vesicle within the cell."
+      }
+    ],
+    "legacy_index": 36
+  },
+  {
+    "unit": 3,
+    "page": 39,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 23,
+    "slide_title": "Protein Synthesis",
+    "original_text": "Protein Synthesis¨Production of protein –one of the major functions of the cell¨General process from synthesis to export:¤Proteins assembled by ribosomes on the rough ER¤Vesicles transportproteins to the Golgi¤Proteins are modifiedby the Golgi and enter newvesiclesnSome vesicles release proteins outside the cell (cell signaling, hormones, etc.)nSome vesicles remain in the cell and become lysosomes, peroxisomes, etc.¨Processes like this that use these organelles known as Endomembrane System",
+    "explanation": "Protein synthesis and export represent one of the major functions of a cell. The general pathway proceeds as follows: proteins are first assembled by ribosomes bound to the Rough ER; next, vesicles transport these newly synthesized proteins to the Golgi apparatus; the Golgi modifies the proteins and packages them into new vesicles. From there, some vesicles migrate to the plasma membrane and release their contents outside the cell (such as hormones or signaling molecules), while other vesicles remain inside the cell to function as lysosomes, peroxisomes, or other organelles. This interconnected pathway of organelles and vesicles is known collectively as the Endomembrane System.",
+    "questions": [
+      {
+        "q": "What is the correct pathway of a secretory protein through the endomembrane system?",
+        "opts": [
+          "Golgi -> Vesicle -> Rough ER -> Ribosome",
+          "Ribosome on Rough ER -> Vesicle -> Golgi -> Vesicle -> Destination (inside or outside cell)",
+          "Nucleus -> Lysosome -> Golgi -> Plasma membrane",
+          "Smooth ER -> Ribosome -> Peroxisome -> Cytosol"
+        ],
+        "a": 1,
+        "exp": "As described in the slide, proteins are assembled by ribosomes on the rough ER, transported by vesicles to the Golgi, modified by the Golgi, and then packaged into new vesicles for export or internal use."
+      }
+    ],
+    "legacy_index": 37
+  },
+  {
+    "unit": 3,
+    "page": 40,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 24,
+    "slide_title": "Endomembrane System",
+    "original_text": "Endomembrane System",
+    "explanation": "Study this complete page carefully. Focus on every named term, relationship, process, example, qualification, and exception shown in the notes, then answer the recall prompt below.",
+    "questions": [
+      {
+        "q": "What is the title of the slide on this page?",
+        "opts": [
+          "Endomembrane System",
+          "Protein Synthesis",
+          "Organelle Interconnections",
+          "Vesicle Transport"
+        ],
+        "a": 0,
+        "exp": "The slide is titled 'Endomembrane System'."
+      }
+    ],
+    "legacy_index": 38
+  },
+  {
+    "unit": 3,
+    "page": 41,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 25,
+    "slide_title": "Mitochondria",
+    "original_text": "Mitochondria¨Organelles that transfer energyfrom organic molecules to ATP;has its own DNA¤ATP ultimately provides energy for majority of chemical reactions of the cell¨The number of mitochondria per cell depends on its level of activity¤Musclecells: highly active –hundredsof mitochondria; fat storagecells: low activity –fewmitochondria¨Has inner and outer phospholipid membranes¤Outer membrane separates mitochondrion from cytosol¤Inner membrane has many folds known as cristae, which contain proteins that perform energy-harvesting chemical reactions",
+    "explanation": "Mitochondria are double-membraned organelles responsible for transferring chemical energy from organic molecules to adenosine triphosphate (ATP), and they contain their own DNA. ATP serves as the primary energy currency for most cellular chemical reactions. The number of mitochondria inside a cell varies directly with its metabolic activity level; highly active muscle cells contain hundreds of mitochondria, whereas low-activity fat storage cells contain very few. The mitochondrion consists of an outer phospholipid membrane that separates it from the cytosol, and a highly folded inner membrane. These folds are called cristae, and they contain the embedded proteins that carry out energy-harvesting reactions.",
+    "questions": [
+      {
+        "q": "What is the name of the folds in the inner mitochondrial membrane that contain proteins for energy-harvesting chemical reactions?",
+        "opts": [
+          "Cisternae",
+          "Cristae",
+          "Thylakoids",
+          "Matrix"
+        ],
+        "a": 1,
+        "exp": "The inner membrane of the mitochondrion has many folds known as cristae."
+      },
+      {
+        "q": "Why do muscle cells contain hundreds of mitochondria while fat storage cells contain very few?",
+        "opts": [
+          "Muscle cells store fat, which requires mitochondria to synthesize.",
+          "Muscle cells are highly active and require more ATP, whereas fat cells have low activity.",
+          "Fat cells lack a cell membrane to house mitochondria.",
+          "Muscle cells lack nuclei, so they use mitochondria for control."
+        ],
+        "a": 1,
+        "exp": "The number of mitochondria depends on cellular activity: highly active muscle cells need hundreds of mitochondria for energy, whereas fat storage cells have low activity and thus few."
+      }
+    ],
+    "legacy_index": 39
+  },
+  {
+    "unit": 3,
+    "page": 42,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 26,
+    "slide_title": "Mitochondrial Structure",
+    "original_text": "Mitochondrial Structure",
+    "explanation": "Study this complete page carefully. Focus on every named term, relationship, process, example, qualification, and exception shown in the notes, then answer the recall prompt below.",
+    "questions": [
+      {
+        "q": "What is the title of the slide shown on this page?",
+        "opts": [
+          "Mitochondria Function",
+          "Mitochondrial Structure",
+          "ATP Production",
+          "Inner Membrane Chemistry"
+        ],
+        "a": 1,
+        "exp": "The slide is titled 'Mitochondrial Structure'."
+      }
+    ],
+    "legacy_index": 40
+  },
+  {
+    "unit": 3,
+    "page": 43,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 27,
+    "slide_title": "Cytoskeleton",
+    "original_text": "Cytoskeleton¨A networka thin tubes and filamentsthat crisscrosses the cytosol¤Microtubules¤Actin filaments¤Intermediate filaments¨Gives shape to the cell¨Acts as a system of internal “tracks” for items to move around the cell",
+    "explanation": "The cytoskeleton is an intracellular network of thin tubes and protein filaments that crisscrosses the cytosol. It is composed of three primary structural components: microtubules, actin filaments, and intermediate filaments. The cytoskeleton performs two essential functions: it gives shape and structural support to the cell, and it acts as an internal network of 'tracks' that guides the movement of organelles and other items throughout the cell.",
+    "questions": [
+      {
+        "q": "Which of the following are the three types of fibers that compose the cytoskeleton?",
+        "opts": [
+          "Cilia, Flagella, and Centrioles",
+          "Microtubules, Actin filaments, and Intermediate filaments",
+          "Cisternae, Cristae, and Cytosol",
+          "Phospholipids, Sterols, and Glycoproteins"
+        ],
+        "a": 1,
+        "exp": "The slide states that the cytoskeleton consists of microtubules, actin filaments, and intermediate filaments."
+      }
+    ],
+    "legacy_index": 41
+  },
+  {
+    "unit": 3,
+    "page": 44,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 28,
+    "slide_title": "Cytoskeleton",
+    "original_text": "Cytoskeleton¨Microtubules:¤Hollow tubes composed of protein tubulin¤Radiate outward from a central point called centrosomenear the nucleus¤Hold organelles in place, maintain the cell shape and act as tracksto guide organelles and molecules as they move within the cell¨Actin Filaments:¤Long threads of bead-like protein called actin¤Linked end to end and wrapped around each other¤Contribute to cell movement nCrawling of white blood cells; contraction of muscle cells¨Intermediate Filaments:¤Rods (protein fibers coiled into cable) that anchor nucleus and other organellesin place in the cell¤Maintain internal shape of nucleus¤Produced in high quantity by hair follicles and main component of hair",
+    "explanation": "This slide details the three main components of the cytoskeleton. Microtubules are hollow cylinders composed of the protein tubulin. They radiate outward from a central region near the nucleus called the centrosome, holding organelles in place, maintaining cell shape, and serving as tracks for molecular transport. Actin Filaments are long, thin threads of the bead-like protein actin, wound around one another. They contribute to cell movements, such as the crawling behavior of white blood cells and the contraction of muscle cells. Intermediate Filaments are cable-like coiled rods of fibrous proteins that anchor the nucleus and other organelles in place, maintain the internal shape of the nuclear envelope, and are produced in high quantities by hair follicles (serving as the main component of hair).",
+    "questions": [
+      {
+        "q": "Which cytoskeletal component is described as hollow tubes made of tubulin that radiate outward from the centrosome?",
+        "opts": [
+          "Actin filaments",
+          "Intermediate filaments",
+          "Microtubules",
+          "Centrioles"
+        ],
+        "a": 2,
+        "exp": "Microtubules are hollow tubes composed of the protein tubulin that radiate outward from the centrosome near the nucleus."
+      },
+      {
+        "q": "What is the main function of intermediate filaments?",
+        "opts": [
+          "Assisting in muscle contraction and white blood cell crawling",
+          "Anchoring the nucleus and other organelles in place and maintaining nuclear shape",
+          "Synthesizing tubulin proteins in the cytosol",
+          "Conducting electrical signals across the cell"
+        ],
+        "a": 1,
+        "exp": "Intermediate filaments are rods that anchor the nucleus and other organelles in place and maintain the internal shape of the nucleus."
+      }
+    ],
+    "legacy_index": 42
+  },
+  {
+    "unit": 3,
+    "page": 45,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 29,
+    "slide_title": "Cytoskeleton",
+    "original_text": "Cytoskeleton",
+    "explanation": "Study this complete page carefully. Focus on every named term, relationship, process, example, qualification, and exception shown in the notes, then answer the recall prompt below.",
+    "questions": [
+      {
+        "q": "What is the title of the slide shown on this page?",
+        "opts": [
+          "Cytoskeleton",
+          "Microfilaments",
+          "Cellular Structure",
+          "Organelle Tracks"
+        ],
+        "a": 0,
+        "exp": "The slide is titled 'Cytoskeleton'."
+      }
+    ],
+    "legacy_index": 43
+  },
+  {
+    "unit": 3,
+    "page": 46,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 30,
+    "slide_title": "Centrioles",
+    "original_text": "Centrioles¨Consist of 2 short cylinders of microtubules at right angles to each other¨Located in the cytoplasm near the nuclear envelope¨Occur in animal cells, not in plant cells; organize microtubules of cytoskeleton during cell division¨Basal bodies: found at the base of cilia and flagella; organize their development¤Have same structure as centrioles",
+    "explanation": "Centrioles are structures consisting of two short cylinders of microtubules oriented at right angles to each other. They are located in the cytoplasm near the nuclear envelope. Centrioles occur in animal cells but are absent in plant cells; their primary role is to organize the microtubules of the cytoskeleton during cell division. Basal bodies, which are found at the base of cilia and flagella, organize the development of these hair-like structures. Basal bodies share the exact same structural organization as centrioles.",
+    "questions": [
+      {
+        "q": "Which of the following is true about centrioles?",
+        "opts": [
+          "They occur in both plant and animal cells.",
+          "They consist of two short cylinders of microtubules at right angles and occur only in animal cells.",
+          "They are located inside the nucleolus.",
+          "They are double-membrane organelles that synthesize ATP."
+        ],
+        "a": 1,
+        "exp": "Centrioles consist of 2 short cylinders of microtubules at right angles, are located in the cytoplasm near the nuclear envelope of animal cells, and are absent in plant cells."
+      },
+      {
+        "q": "What structure organizes the development of cilia and flagella and has the same structure as a centriole?",
+        "opts": [
+          "Centrosome",
+          "Basal body",
+          "Intermediate filament",
+          "Spindle fiber"
+        ],
+        "a": 1,
+        "exp": "Basal bodies are found at the base of cilia and flagella, organize their development, and have the same structure as centrioles."
+      }
+    ],
+    "legacy_index": 44
+  },
+  {
+    "unit": 3,
+    "page": 47,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 31,
+    "slide_title": "Cilia and Flagella",
+    "original_text": "Cilia and Flagella¨Hair-like structures that extend from the cell surface Cilia: short, present in large numbers in certain cells¨Flagella: longer and far less numerous on the particular cells in which they’re present¨Membrane on the outer surface; inside, -two central tubules surrounded by nine pairs of microtubules ¨Functions:¤Assist in movement¤Cilia in inner ear vibrate and help detect sound¤Cilia present in protistsmove the cells through water like oars; sweep water and food particles into mouth-like opening¤Flagella used to propel cells like protistsand sperm",
+    "explanation": "Cilia and flagella are hair-like organelles that extend outward from the cell surface. Cilia are relatively short and typically present in large numbers on a cell, whereas flagella are longer and much less numerous. Structurally, both are covered by an outer membrane and contain a internal core of two central microtubules surrounded by nine pairs of outer microtubules. Cilia and flagella function in cell movement or sensory roles: flagella propel cells (such as protists and sperm), while cilia can move protists through water like oars, sweep food/water particles into mouth-like openings, or vibrate in the inner ear of multicellular organisms to assist in sound detection.",
+    "questions": [
+      {
+        "q": "What is the structural arrangement of microtubules inside cilia and flagella?",
+        "opts": [
+          "A random bundle of tubulin fibers",
+          "Two central tubules surrounded by nine pairs of microtubules",
+          "Three central tubules surrounded by nine triplets of microtubules",
+          "Nine central tubules surrounded by two pairs of microtubules"
+        ],
+        "a": 1,
+        "exp": "Inside cilia and flagella, there are two central tubules surrounded by nine pairs of microtubules."
+      },
+      {
+        "q": "Which of the following is a non-locomotive function of cilia mentioned on this page?",
+        "opts": [
+          "Propelling sperm cells",
+          "Vibrating in the inner ear to help detect sound",
+          "Synthesizing proteins for the endomembrane system",
+          "Pumping calcium ions into the smooth ER"
+        ],
+        "a": 1,
+        "exp": "The slide states that cilia in the inner ear vibrate and help detect sound, which is a sensory function rather than movement of the cell itself."
+      }
+    ],
+    "legacy_index": 45
+  },
+  {
+    "unit": 3,
+    "page": 48,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 32,
+    "slide_title": "Cilia & Flagella",
+    "original_text": "Cilia & Flagella",
+    "explanation": "Study this complete page carefully. Focus on every named term, relationship, process, example, qualification, and exception shown in the notes, then answer the recall prompt below.",
+    "questions": [
+      {
+        "q": "What is the title of the slide shown on this page?",
+        "opts": [
+          "Cilia & Flagella",
+          "Cell Motility",
+          "Microtubule Appendages",
+          "Basal Bodies"
+        ],
+        "a": 0,
+        "exp": "The slide is titled 'Cilia & Flagella'."
+      }
+    ],
+    "legacy_index": 46
+  },
+  {
+    "unit": 3,
+    "page": 49,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 33,
+    "slide_title": "Unique Features of Plant Cells",
+    "original_text": "Unique Features of Plant Cells",
+    "explanation": "This page is a transition or title slide introducing the Unique Features of Plant Cells.",
+    "questions": [
+      {
+        "q": "What topic is introduced by the slide on this page?",
+        "opts": [
+          "Animal Cell Evolution",
+          "Unique Features of Plant Cells",
+          "Mitochondrial Replication",
+          "Cellular Respiration"
+        ],
+        "a": 1,
+        "exp": "The slide is titled 'Unique Features of Plant Cells'."
+      }
+    ],
+    "legacy_index": 47
+  },
+  {
+    "unit": 3,
+    "page": 50,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 34,
+    "slide_title": "Plant Cells",
+    "original_text": "Plant Cells¨Most organelles and other cell structures are common to all eukaryotic cells¨Plants have 3 additional structures important to their function:¤Cell wall¤Central vacuole¤Plastid¨Plants synthesize their own C-molecules (sugar) directly from CO2and water in the environment through a process called photosynthesis",
+    "explanation": "While most organelles are common to all eukaryotic cells, plant cells contain three unique and essential structures: the cell wall, the central vacuole, and plastids. Plants are autotrophic, meaning they synthesize their own carbon-containing organic molecules (sugars) directly from inorganic carbon dioxide and water in their environment via the process of photosynthesis.",
+    "questions": [
+      {
+        "q": "What are the three additional structures important to plant cell function that are not typically found in animal cells?",
+        "opts": [
+          "Cell wall, Central vacuole, and Plastid",
+          "Mitochondria, Rough ER, and Lysosome",
+          "Centriole, Cytoskeleton, and Plasma membrane",
+          "Nucleus, Nucleolus, and Nuclear pores"
+        ],
+        "a": 0,
+        "exp": "The slide lists the three additional structures in plant cells as the cell wall, central vacuole, and plastid."
+      },
+      {
+        "q": "How do plants obtain carbon-containing molecules (sugars)?",
+        "opts": [
+          "By absorbing them directly from soil nutrients",
+          "By synthesizing them from carbon dioxide and water through photosynthesis",
+          "By digesting bacteria via autophagy",
+          "By breaking down fatty acids in peroxisomes"
+        ],
+        "a": 1,
+        "exp": "Plants synthesize their own carbon molecules (sugar) directly from CO2 and water in the environment through photosynthesis."
+      }
+    ],
+    "legacy_index": 48
+  },
+  {
+    "unit": 3,
+    "page": 51,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 35,
+    "slide_title": "Plant Cell Structure",
+    "original_text": "Plant Cell Structure",
+    "explanation": "Study this complete page carefully. Focus on every named term, relationship, process, example, qualification, and exception shown in the notes, then answer the recall prompt below.",
+    "questions": [
+      {
+        "q": "What is the title of the slide shown on this page?",
+        "opts": [
+          "Plant Cell Structure",
+          "Animal Cell Comparison",
+          "Plastid Types",
+          "Photosynthesis Stages"
+        ],
+        "a": 0,
+        "exp": "The slide is titled 'Plant Cell Structure'."
+      }
+    ],
+    "legacy_index": 49
+  },
+  {
+    "unit": 3,
+    "page": 52,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 36,
+    "slide_title": "Cell Wall",
+    "original_text": "Cell Wall¨Rigid layer outside the plasma membrane¨Composed of the carbohydrate, cellulose¤Embedded in matrix of proteins and other carbohydrates that form rigid box around each cell¨Pores in cell wall allow water, ions, some molecules to be transported in and out of the cell",
+    "explanation": "The cell wall is a rigid structural layer located outside the plasma membrane in plant cells. It is composed primarily of the complex carbohydrate cellulose, which is embedded within a matrix of proteins and other carbohydrates, forming a protective, rigid box around each cell. Pores within the cell wall allow for the free transport of water, ions, and small molecules into and out of the cell.",
+    "questions": [
+      {
+        "q": "What carbohydrate is the primary structural component of the plant cell wall?",
+        "opts": [
+          "Starch",
+          "Glycogen",
+          "Cellulose",
+          "Chitin"
+        ],
+        "a": 2,
+        "exp": "The cell wall is rigid and composed of the carbohydrate cellulose, embedded in a matrix of proteins and other carbohydrates."
+      }
+    ],
+    "legacy_index": 50
+  },
+  {
+    "unit": 3,
+    "page": 53,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 37,
+    "slide_title": "Plant Cell Wall",
+    "original_text": "Plant Cell Wall¨Cellulose synthesized directly on surface of plasma membrane by enzymes that travel along the membrane¤Guided by microtubules¨Growth of primary cell wall occurs in 1 direction, based on orientation of microtubules¨Other components synthesized in the ER, travel in vesicles to the Golgi then to the cell surface¨When cell stops growing, secondary cell wall is synthesized between plasma membrane and primary cell wall¤Very strong; no expansion capability¤Wood is composed of billions of secondary cell walls in which the cells have died and disintegrated",
+    "explanation": "Cellulose is synthesized directly on the surface of the plasma membrane by enzymes that travel along it, guided by microtubules. Because of this microtubule guidance, growth of the primary cell wall occurs in a single direction. Other components of the cell wall are synthesized in the ER, packaged into vesicles to travel to the Golgi, and then exported to the cell surface. When a plant cell ceases to grow, it synthesizes a highly rigid secondary cell wall between the plasma membrane and the primary cell wall. This secondary cell wall is extremely strong and cannot expand. Wood is composed of billions of these secondary cell walls left behind after the cells have died and disintegrated.",
+    "questions": [
+      {
+        "q": "Where is the secondary cell wall synthesized relative to the other cell layers?",
+        "opts": [
+          "Outside the primary cell wall",
+          "Between the plasma membrane and the primary cell wall",
+          "Inside the cytoplasm surrounding the vacuole",
+          "Inside the nuclear envelope"
+        ],
+        "a": 1,
+        "exp": "The slide states that when the cell stops growing, the secondary cell wall is synthesized between the plasma membrane and the primary cell wall."
+      },
+      {
+        "q": "What guides the enzymes that synthesize cellulose on the surface of the plasma membrane?",
+        "opts": [
+          "Ribosomes",
+          "Microtubules",
+          "Golgi vesicles",
+          "Intermediate filaments"
+        ],
+        "a": 1,
+        "exp": "Enzymes that synthesize cellulose travel along the plasma membrane and are guided by microtubules."
+      }
+    ],
+    "legacy_index": 51
+  },
+  {
+    "unit": 3,
+    "page": 54,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 38,
+    "slide_title": "Plant Cell Wall Structure",
+    "original_text": "Plant Cell Wall Structure",
+    "explanation": "This page serves as a transition or title slide for the Plant Cell Wall Structure.",
+    "questions": [
+      {
+        "q": "What is the title of the slide shown on this page?",
+        "opts": [
+          "Plant Cell Wall Structure",
+          "Cellulose Synthesis",
+          "Secondary Cell Wall",
+          "Membrane Transport"
+        ],
+        "a": 0,
+        "exp": "The slide is titled 'Plant Cell Wall Structure'."
+      }
+    ],
+    "legacy_index": 52
+  },
+  {
+    "unit": 3,
+    "page": 55,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 39,
+    "slide_title": "Central Vacuole",
+    "original_text": "Central Vacuole¨Large, fluid-filled organelle that stores water, enzymes, metabolic waste products, other materials¨Forms as smaller vacuoles fuse together¨Make up 90% of cell volume and pushes other organelles to the periphery of the cell against the cell membrane¨When water is plentiful: fills the vacuole, cells expand and plant stands upright¨When water is scarce: vacuoles lose water, cells shrink and plant wilts¨Other vacuoles:¤Some store toxic materials; can be used as a defense mechanism (pesticide)¤Some store plant pigments responsible for petal colors",
+    "explanation": "The central vacuole is a large, fluid-filled organelle in plant cells that stores water, enzymes, metabolic waste products, and other materials. It is formed by the fusion of smaller vacuoles. The central vacuole can occupy up to 90% of the cell's volume, pushing other organelles to the periphery against the plasma membrane. When water is abundant, the vacuole fills, causing the cells to expand and enabling the plant to stand upright. Conversely, when water is scarce, the vacuole loses water, the cells shrink, and the plant wilts. Other vacuoles in plant cells may store toxic chemicals to serve as a defense mechanism (pesticides) or store pigments that determine petal colors.",
+    "questions": [
+      {
+        "q": "What percentage of a plant cell's volume can the central vacuole occupy when full?",
+        "opts": [
+          "10%",
+          "50%",
+          "75%",
+          "90%"
+        ],
+        "a": 3,
+        "exp": "The central vacuole can make up 90% of the cell volume, pushing other organelles to the periphery of the cell."
+      },
+      {
+        "q": "How does the central vacuole affect the plant's physical stance when water is scarce?",
+        "opts": [
+          "The vacuole expands, causing the plant to stand even taller.",
+          "The vacuole loses water, causing the cells to shrink and the plant to wilt.",
+          "The vacuole releases toxic pesticides to prevent water loss.",
+          "The vacuole undergoes cell division to produce new root cells."
+        ],
+        "a": 1,
+        "exp": "When water is scarce, the central vacuoles lose water, causing cells to shrink and the plant to wilt."
+      }
+    ],
+    "legacy_index": 53
+  },
+  {
+    "unit": 3,
+    "page": 56,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 40,
+    "slide_title": "Plastids",
+    "original_text": "Plastids¨Organelles similar to mitochondria; surrounded by a double membrane and contain their own DNA¤Leucoplasts: colorless; perform essential biosynthetic functions, including the synthesis of fatty acids and many amino acids¤Amyloplasts: colorless; store starch granules (polymerized glucose)¤Chromoplasts: contain colorful pigments that may or may not take part in photosynthesisnOrange pigment in carrot root cells; red, purple, white, yellow pigments in flower petals¤Chloroplasts¨All arise from common precursor, proplastid",
+    "explanation": "Plastids are plant organelles that share similarities with mitochondria, being surrounded by a double membrane and containing their own DNA. They exist in several forms, all of which arise from a common precursor called the proplastid. Leucoplasts are colorless and perform essential biosynthetic functions, such as synthesizing fatty acids and many amino acids. Amyloplasts are also colorless but specialize in storing starch granules (polymerized glucose). Chromoplasts contain colorful pigments (like the orange pigment in carrot root cells, or the red, purple, white, and yellow pigments in flower petals) that may or may not participate in photosynthesis. Finally, chloroplasts are the site of photosynthesis.",
+    "questions": [
+      {
+        "q": "Which type of plastid is colorless and specialized for storing starch (polymerized glucose)?",
+        "opts": [
+          "Leucoplast",
+          "Amyloplast",
+          "Chromoplast",
+          "Chloroplast"
+        ],
+        "a": 1,
+        "exp": "Amyloplasts are colorless plastids that store starch granules (polymerized glucose)."
+      },
+      {
+        "q": "What common precursor do all types of plastids arise from?",
+        "opts": [
+          "Mitochondria",
+          "Proplastid",
+          "Centrosome",
+          "Endosome"
+        ],
+        "a": 1,
+        "exp": "The slide states that all plastids arise from a common precursor, the proplastid."
+      }
+    ],
+    "legacy_index": 54
+  },
+  {
+    "unit": 3,
+    "page": 57,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 41,
+    "slide_title": "Chloroplasts",
+    "original_text": "Chloroplasts¨Use light energy to make carbohydrates from carbon dioxide and water¨Contains thylakoids–system of flattened, membranous sacs that contain green pigment chlorophyll¤Primary molecule that absorbs and captures light energy for the cell¨Found in plants and eukaryotic algae¨Chloroplast DNA similar to that of photosynthetic bacteria; chloroplasts can only arise from the division of pre-existing chloroplasts¤Suggests that chloroplasts are descended from ancient prokaryotic cells that were incorporated into plant cells by endosymbiosis",
+    "explanation": "Chloroplasts are specialized plastids found in plants and eukaryotic algae. They use light energy to manufacture carbohydrates from carbon dioxide and water. Inside the chloroplast is the thylakoid system—a network of flattened, membranous sacs containing the green pigment chlorophyll, which is the primary molecule responsible for capturing light energy. Chloroplasts contain their own DNA, which is highly similar to that of photosynthetic bacteria. Because chloroplasts can only replicate by dividing from pre-existing chloroplasts, they are believed to have descended from ancient prokaryotic cells that entered plant ancestors via endosymbiosis.",
+    "questions": [
+      {
+        "q": "What are the flattened, membranous sacs within chloroplasts that contain the pigment chlorophyll?",
+        "opts": [
+          "Cisternae",
+          "Thylakoids",
+          "Cristae",
+          "Stroma"
+        ],
+        "a": 1,
+        "exp": "Chloroplasts contain thylakoids, which are systems of flattened, membranous sacs containing the green pigment chlorophyll."
+      },
+      {
+        "q": "What evidence suggests that chloroplasts descended from ancient prokaryotic cells via endosymbiosis?",
+        "opts": [
+          "They lack a cell membrane and contain no proteins.",
+          "Their DNA is similar to photosynthetic bacteria, and they only arise from division of pre-existing chloroplasts.",
+          "They are only found in animal cells.",
+          "They form wood when their cells die and disintegrate."
+        ],
+        "a": 1,
+        "exp": "Chloroplast DNA is similar to photosynthetic bacterial DNA, and they arise only from the division of pre-existing chloroplasts, which strongly supports the Endosymbiotic Theory."
+      }
+    ],
+    "legacy_index": 55
+  },
+  {
+    "unit": 3,
+    "page": 58,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 42,
+    "slide_title": "Chloroplast Structure",
+    "original_text": "Chloroplast Structure",
+    "explanation": "Study this complete page carefully. Focus on every named term, relationship, process, example, qualification, and exception shown in the notes, then answer the recall prompt below.",
+    "questions": [
+      {
+        "q": "What is the title of the slide shown on this page?",
+        "opts": [
+          "Chloroplast Structure",
+          "Photosynthesis Reactions",
+          "Thylakoid Membrane",
+          "Plastid Diversity"
+        ],
+        "a": 0,
+        "exp": "The slide is titled 'Chloroplast Structure'."
+      }
+    ],
+    "legacy_index": 56
+  },
+  {
+    "unit": 3,
+    "page": 59,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 43,
+    "slide_title": "Comparing Cells",
+    "original_text": "Comparing Cells¨Common features: plasma membrane, cytoplasm, ribosomes, genetic material¨Prokaryotes vs. Eukaryotes:¤Prokaryotes lack nucleus, membrane-bound organelles and internal membrane system; have a nucleoid where DNA is concentrated¨Plant vs. Animal cells:¤Plant cells have cell wall, central vacuole and plastids, not found in animal cells",
+    "explanation": "This slide reviews cell comparisons. All cells share common features: a plasma membrane, cytoplasm, ribosomes, and genetic material. Eukaryotes differ from prokaryotes because prokaryotes lack a nucleus, membrane-bound organelles, and an internal membrane system, instead concentrating their DNA in a region called the nucleoid. Within eukaryotes, plant cells contain three structures not found in animal cells: a cell wall, a central vacuole, and plastids.",
+    "questions": [
+      {
+        "q": "Which of the following is a feature shared by ALL cells (prokaryotes and eukaryotes)?",
+        "opts": [
+          "Nucleus",
+          "Cell Wall",
+          "Ribosomes",
+          "Mitochondria"
+        ],
+        "a": 2,
+        "exp": "The slide lists common features of all cells: plasma membrane, cytoplasm, ribosomes, and genetic material."
+      },
+      {
+        "q": "What structures are unique to plant cells and not found in animal cells?",
+        "opts": [
+          "Nucleus, cytoplasm, and ribosomes",
+          "Cell wall, central vacuole, and plastids",
+          "Mitochondria, Golgi apparatus, and lysosomes",
+          "Centrioles, cilia, and flagella"
+        ],
+        "a": 1,
+        "exp": "Plant cells have a cell wall, central vacuole, and plastids, which are not found in animal cells."
+      }
+    ],
+    "legacy_index": 57
+  },
+  {
+    "unit": 3,
+    "page": 60,
+    "filename": "Unit_3_2.txt",
+    "section_title": "Organelles",
+    "page_num_in_file": 44,
+    "slide_title": "Cell Comparison",
+    "original_text": "Cell Comparison\nvesicle",
+    "explanation": "This page is a placeholder or slide for Cell Comparison, highlighting a vesicle.",
+    "questions": [
+      {
+        "q": "What structure is mentioned on the Cell Comparison slide?",
+        "opts": [
+          "Ribosome",
+          "Vesicle",
+          "Mitochondria",
+          "Nucleus"
+        ],
+        "a": 1,
+        "exp": "The text on this slide contains the word 'vesicle' under the slide title 'Cell Comparison'."
+      }
+    ],
+    "legacy_index": 58
+  },
+  {
+    "unit": 3,
+    "page": 61,
+    "filename": "Unit_3_3.txt",
+    "section_title": "Chromosomes",
+    "page_num_in_file": 1,
+    "slide_title": "Chromosomes - Visual Page 1",
+    "original_text": "UNIT 3: CELLS 3.3 –CHROMOSOMESBiology 9 Mr. QueenanCh. 15.1 (p.474-479)",
+    "explanation": "This is the title page for Section 3.3 of Unit 3, focusing on Chromosomes. It references Chapter 15.1 (pages 474-479) of the Biology 9 course taught by Mr. Queenan.",
+    "questions": [
+      {
+        "q": "What is the primary topic of Unit 3 Section 3.3?",
+        "opts": [
+          "Cell Organelles",
+          "Chromosomes",
+          "Cell Division",
+          "Photosynthesis"
+        ],
+        "a": 1,
+        "exp": "The slide is titled 'UNIT 3: CELLS 3.3 – CHROMOSOMES'."
+      }
+    ],
+    "legacy_index": 59
+  },
+  {
+    "unit": 3,
+    "page": 62,
+    "filename": "Unit_3_3.txt",
+    "section_title": "Chromosomes",
+    "page_num_in_file": 2,
+    "slide_title": "Questions?",
+    "original_text": "Questions?¨What is a chromosome?¨Where in the cell is it located?¨What is the importance of a chromosome?¨Are chromosomes the same in all organisms?",
+    "explanation": "This slide poses introductory questions regarding chromosomes, their cellular location, biological importance, and variation across organisms to prompt inquiry.",
+    "questions": [
+      {
+        "q": "Which of the following questions is posed on the introductory slide of Section 3.3?",
+        "opts": [
+          "How many genes are in a chromosome?",
+          "Are chromosomes the same in all organisms?",
+          "What is the chemical structure of DNA?",
+          "How do chromosomes replicate during mitosis?"
+        ],
+        "a": 1,
+        "exp": "One of the specific questions listed is 'Are chromosomes the same in all organisms?'"
+      }
+    ],
+    "legacy_index": 60
+  },
+  {
+    "unit": 3,
+    "page": 63,
+    "filename": "Unit_3_3.txt",
+    "section_title": "Chromosomes",
+    "page_num_in_file": 3,
+    "slide_title": "Chromosome Structure",
+    "original_text": "Chromosome Structure¨DNA in a human cell contains ~ 3 billion nucleotides¤Approx. size of a basketball ¨DNA must be coiled and packaged in such a way that:¤It fits within the nucleus¤It can be further compacted during cell division¤It can be unpackaged for transcription ¨During cell division DNA is coiled into compact structures: chromosomes¤Rod-shaped structures of DNA and proteins¤Contain multiple layers of coiling/compaction",
+    "explanation": "Human cellular DNA contains approximately 3 billion nucleotides, which would be about the size of a basketball if fully extended. To be functional, this DNA must be coiled and packaged to: (1) fit within the microscopic nucleus, (2) compact further during cell division, and (3) remain capable of unpackaging for gene transcription. During cell division, DNA is coiled into highly compact, rod-shaped structures composed of DNA and proteins called chromosomes, which feature multiple layers of compaction.",
+    "questions": [
+      {
+        "q": "Approximately how many nucleotides does the DNA in a single human cell contain?",
+        "opts": [
+          "3 million",
+          "30 million",
+          "300 million",
+          "3 billion"
+        ],
+        "a": 3,
+        "exp": "The slide states that DNA in a human cell contains approximately 3 billion nucleotides."
+      },
+      {
+        "q": "Why must DNA be carefully coiled and packaged within the cell?",
+        "opts": [
+          "To prevent it from leaving the cell through the plasma membrane",
+          "To fit within the nucleus, compact during cell division, and allow unpackaging for transcription",
+          "To convert DNA into protein molecules directly",
+          "To isolate it from the nuclear matrix"
+        ],
+        "a": 1,
+        "exp": "DNA must be packaged to fit inside the nucleus, compact for cell division, and be accessible (unpackageable) for transcription."
+      }
+    ],
+    "legacy_index": 61
+  },
+  {
+    "unit": 3,
+    "page": 64,
+    "filename": "Unit_3_3.txt",
+    "section_title": "Chromosomes",
+    "page_num_in_file": 4,
+    "slide_title": "Chromosome Structure",
+    "original_text": "Chromosome Structure¨Each chromosome contains single DNA molecule wrapped tightly around histone proteins¤Histone –helps maintain shape of chromosome and aid in packing¤Other proteins associated with DNA involved in controlling activity of specific regions ¨Between cell division DNA is less tightly packed¤Regions uncoil between divisions in order to guide activities of cell (transcription/translation)¤Less packed DNA known as chromatin",
+    "explanation": "Each chromosome consists of a single DNA molecule wrapped tightly around specific proteins called histones, which help maintain chromosome shape and assist in packaging. Other non-histone proteins associated with DNA are involved in regulating the activity of specific genetic regions. Between cell divisions, the DNA is less tightly packed and uncoiled (to allow transcription and translation for cellular activities). This less compacted form of DNA is referred to as chromatin.",
+    "questions": [
+      {
+        "q": "What type of protein does DNA wrap around in a chromosome to help maintain its shape and aid in packaging?",
+        "opts": [
+          "Tubulin",
+          "Actin",
+          "Histone",
+          "Ribosomal protein"
+        ],
+        "a": 2,
+        "exp": "Each chromosome contains a single DNA molecule wrapped tightly around histone proteins."
+      },
+      {
+        "q": "What is the less tightly packed, uncoiled form of DNA called between cell divisions?",
+        "opts": [
+          "Chromatid",
+          "Chromatin",
+          "Centromere",
+          "Spindle"
+        ],
+        "a": 1,
+        "exp": "Between cell divisions, the DNA is less tightly packed and uncoiled, known as chromatin."
+      }
+    ],
+    "legacy_index": 62
+  },
+  {
+    "unit": 3,
+    "page": 65,
+    "filename": "Unit_3_3.txt",
+    "section_title": "Chromosomes",
+    "page_num_in_file": 5,
+    "slide_title": "Levels of DNA Compaction",
+    "original_text": "Levels of DNA Compaction",
+    "explanation": "This page serves as a transition or title slide for the topic 'Levels of DNA Compaction'.",
+    "questions": [
+      {
+        "q": "What is the title of the slide shown on this page?",
+        "opts": [
+          "Levels of DNA Compaction",
+          "Histone Wrapping",
+          "Chromatid Separation",
+          "Nucleosome Structure"
+        ],
+        "a": 0,
+        "exp": "The slide is titled 'Levels of DNA Compaction'."
+      }
+    ],
+    "legacy_index": 63
+  },
+  {
+    "unit": 3,
+    "page": 66,
+    "filename": "Unit_3_3.txt",
+    "section_title": "Chromosomes",
+    "page_num_in_file": 6,
+    "slide_title": "Chromosome Structure",
+    "original_text": "Chromosome Structure¨Replicated chromosomes consist of 2 identical halves¤Each half: chromatid¤Chromatids form as DNA copies itself prior to cell division¤As cell divides, each new cell gets 1 chromatid (1 copy of each chromosome) ¨Chromatids attach at the centromere¤Holds the chromatids together until they separate during division¤Important for movement of chromosomes during division",
+    "explanation": "Replicated chromosomes consist of two identical halves, with each half called a chromatid. Chromatids form when DNA copies itself prior to cell division. When division occurs, each new daughter cell receives one chromatid, ensuring it gets a copy of each chromosome. The two sister chromatids are attached at a specialized region called the centromere, which holds them together until they separate during division and plays an important role in chromosome movement during mitosis/meiosis.",
+    "questions": [
+      {
+        "q": "What is each identical half of a replicated chromosome called?",
+        "opts": [
+          "Chromatin",
+          "Chromatid",
+          "Centromere",
+          "Histone"
+        ],
+        "a": 1,
+        "exp": "Replicated chromosomes consist of 2 identical halves, and each half is called a chromatid."
+      },
+      {
+        "q": "What structure holds two sister chromatids together until they separate during cell division?",
+        "opts": [
+          "Centrosome",
+          "Centromere",
+          "Centriole",
+          "Basal body"
+        ],
+        "a": 1,
+        "exp": "Chromatids attach at the centromere, which holds them together until they separate during division."
+      }
+    ],
+    "legacy_index": 64
+  },
+  {
+    "unit": 3,
+    "page": 67,
+    "filename": "Unit_3_3.txt",
+    "section_title": "Chromosomes",
+    "page_num_in_file": 7,
+    "slide_title": "Chromosome Structure",
+    "original_text": "Chromosome Structure",
+    "explanation": "Study this complete page carefully. Focus on every named term, relationship, process, example, qualification, and exception shown in the notes, then answer the recall prompt below.",
+    "questions": [
+      {
+        "q": "What is the title of the slide shown on this page?",
+        "opts": [
+          "Chromosome Number",
+          "Chromosome Structure",
+          "Chromatid Separation",
+          "Nucleosome Structure"
+        ],
+        "a": 1,
+        "exp": "The slide is titled 'Chromosome Structure'."
+      }
+    ],
+    "legacy_index": 65
+  },
+  {
+    "unit": 3,
+    "page": 68,
+    "filename": "Unit_3_3.txt",
+    "section_title": "Chromosomes",
+    "page_num_in_file": 8,
+    "slide_title": "Chromosome Number",
+    "original_text": "Chromosome Number¨Every species has characteristic number of chromosomes per cell; some can have same number ¤Number of chromosomes/cell does not necessarily correlate with organism complexity nSome plants and simple multicellular organisms have more chromosomes than humans \nRank the following organisms 1-11 by chromosome # (lowest to highest)",
+    "explanation": "Every species has a characteristic number of chromosomes per cell, though different species can sometimes share the exact same number. Importantly, the number of chromosomes per cell does not correlate with an organism's biological complexity; for example, some plants and simple multicellular organisms possess more chromosomes than humans.",
+    "questions": [
+      {
+        "q": "Which of the following statements about chromosome number is true?",
+        "opts": [
+          "More complex organisms always have more chromosomes.",
+          "Every species has a characteristic number of chromosomes per cell, and complexity does not correlate with this number.",
+          "No two species can ever share the same number of chromosomes.",
+          "Humans have the highest number of chromosomes of any organism."
+        ],
+        "a": 1,
+        "exp": "The slide states that every species has a characteristic number of chromosomes, and this number does not necessarily correlate with organism complexity (some simple organisms have more than humans)."
+      }
+    ],
+    "legacy_index": 66
+  },
+  {
+    "unit": 3,
+    "page": 69,
+    "filename": "Unit_3_3.txt",
+    "section_title": "Chromosomes",
+    "page_num_in_file": 9,
+    "slide_title": "Chromosome Number",
+    "original_text": "Chromosome Number¨Chromosomes categorized as autosomal or sex chromosomes ¤Sex chromosomes determine sex of organism; carry some other characteristics nIn humans, known as X and Y chromosomes nMales: XY; females: XX ¤All other chromosomes known as autosomal ¨Humans have total 46 chromosomes¤2 sex chromosomes¤44 autosomal chromosomes",
+    "explanation": "Chromosomes are categorized into two groups: sex chromosomes and autosomes (autosomal chromosomes). Sex chromosomes determine the biological sex of the organism and carry some other genetic traits. In humans, the sex chromosomes are X and Y, where males are XY and females are XX. All other chromosomes are autosomes. Humans have a total of 46 chromosomes in each somatic cell, consisting of 2 sex chromosomes and 44 autosomes.",
+    "questions": [
+      {
+        "q": "How many autosomal chromosomes and sex chromosomes do humans have in a typical diploid cell?",
+        "opts": [
+          "44 autosomes, 2 sex chromosomes",
+          "46 autosomes, 2 sex chromosomes",
+          "22 autosomes, 24 sex chromosomes",
+          "40 autosomes, 6 sex chromosomes"
+        ],
+        "a": 0,
+        "exp": "Humans have a total of 46 chromosomes, consisting of 2 sex chromosomes and 44 autosomes."
+      },
+      {
+        "q": "Which of the following chromosome combinations determines biological sex in humans according to the slide?",
+        "opts": [
+          "XY for females, XX for males",
+          "XX for females, XY for males",
+          "YY for males, XX for females",
+          "XO for females, XXY for males"
+        ],
+        "a": 1,
+        "exp": "In humans, sex chromosomes determine sex: males are XY and females are XX."
+      }
+    ],
+    "legacy_index": 67
+  },
+  {
+    "unit": 3,
+    "page": 70,
+    "filename": "Unit_3_3.txt",
+    "section_title": "Chromosomes",
+    "page_num_in_file": 10,
+    "slide_title": "Homologous Chromosomes",
+    "original_text": "Homologous Chromosomes¨Each cell of an organism produced by sexual reproduction has 2 copies of each autosome ¤One copy received from each parent ¨The 2 copies known as homologous chromosomes (homologues) ¤Same size, shape, carry same genes for same traits",
+    "explanation": "In organisms produced by sexual reproduction, each cell contains two copies of each autosome, with one copy inherited from each parent. These pair of matching chromosomes are known as homologous chromosomes, or homologues. Homologous chromosomes share the same size, shape, and carry genes that control the same biological traits.",
+    "questions": [
+      {
+        "q": "What are homologous chromosomes (homologues)?",
+        "opts": [
+          "Chromosomes that are completely different in size and shape",
+          "Two copies of an autosome that have the same size, shape, and carry the same genes for the same traits",
+          "Replicated chromatids joined by a centromere",
+          "Sex chromosomes that determine gender"
+        ],
+        "a": 1,
+        "exp": "Homologous chromosomes (homologues) are two copies of an autosome (one from each parent) that are the same size, shape, and carry the same genes for the same traits."
+      }
+    ],
+    "legacy_index": 68
+  },
+  {
+    "unit": 3,
+    "page": 71,
+    "filename": "Unit_3_3.txt",
+    "section_title": "Chromosomes",
+    "page_num_in_file": 11,
+    "slide_title": "Homologous Chromosomes",
+    "original_text": "Homologous Chromosomes¨Karyotype: photomicrograph of chromosomes in a dividing cell ¨46 human chromosomes:¤22 homologous pairs of autosomes¤2 sex chromosomes",
+    "explanation": "A karyotype is a specialized photomicrograph showing the chromosomes of a dividing cell, arranged by size and shape. In humans, a standard karyotype reveals 46 chromosomes, which are organized into 22 homologous pairs of autosomes and 2 sex chromosomes.",
+    "questions": [
+      {
+        "q": "What is a karyotype?",
+        "opts": [
+          "A process of cellular division in prokaryotes",
+          "A photomicrograph of chromosomes in a dividing cell",
+          "The region where sister chromatids join",
+          "A type of histone protein"
+        ],
+        "a": 1,
+        "exp": "The slide defines a karyotype as a photomicrograph of chromosomes in a dividing cell."
+      }
+    ],
+    "legacy_index": 69
+  },
+  {
+    "unit": 3,
+    "page": 72,
+    "filename": "Unit_3_3.txt",
+    "section_title": "Chromosomes",
+    "page_num_in_file": 12,
+    "slide_title": "Haploid vs Diploid Cells",
+    "original_text": "Haploid vs Diploid Cells¨Cells that have 2 sets of chromosomes are diploid ¤2 autosomes for each homologous pairs¤2 sex chromosomes ¤All human cells are diploid nExcept reproductive cells (sperm/egg) ¨Diploid abbreviated as 2n¤Human diploid (2n) number = 46¤2 x 22 autosomes + 2 sex chromosomes",
+    "explanation": "Cells that contain two complete sets of chromosomes are described as diploid. In diploid cells, there are two autosomes for each homologous pair and two sex chromosomes. Diploid cells are abbreviated as 2n. Almost all cells in the human body are diploid, except for reproductive cells (gametes like sperm and egg cells). The human diploid (2n) number is 46, consisting of 44 autosomes (2 x 22 pairs) and 2 sex chromosomes.",
+    "questions": [
+      {
+        "q": "What does the abbreviation '2n' represent, and what is the 2n number for humans?",
+        "opts": [
+          "Haploid, 23",
+          "Diploid, 46",
+          "Triploid, 69",
+          "Tetraploid, 92"
+        ],
+        "a": 1,
+        "exp": "Diploid is abbreviated as 2n, and the human diploid (2n) number is 46."
+      }
+    ],
+    "legacy_index": 70
+  },
+  {
+    "unit": 3,
+    "page": 73,
+    "filename": "Unit_3_3.txt",
+    "section_title": "Chromosomes",
+    "page_num_in_file": 13,
+    "slide_title": "Haploid vs. Diploid Cells",
+    "original_text": "Haploid vs. Diploid Cells¨Reproductive cells are haploid –contain only one set of chromosomes ¤Half number of chromosomes in diploid cells ¤One autosome from each homologous pair and one sex chromosomen22 autosomes + 1 sex chromosome = 23 total ¨Haploid abbreviated as 1n¤Sperm cell (1n) combines with egg cell (1n) to create new cells of new organism (2n)",
+    "explanation": "Reproductive cells (gametes, which are sperm and egg cells) are haploid, meaning they contain only one set of chromosomes—exactly half the number found in diploid cells. In humans, a haploid cell has one autosome from each homologous pair and one sex chromosome, totaling 23 chromosomes (22 autosomes + 1 sex chromosome). Haploid is abbreviated as 1n. During fertilization, a haploid sperm cell (1n) fuses with a haploid egg cell (1n) to form a diploid zygote (2n), establishing the chromosome number of the new organism.",
+    "questions": [
+      {
+        "q": "How many total chromosomes are in a human haploid cell (gamete)?",
+        "opts": [
+          "46",
+          "23",
+          "22",
+          "2"
+        ],
+        "a": 1,
+        "exp": "A human haploid reproductive cell has 23 total chromosomes (22 autosomes + 1 sex chromosome)."
+      },
+      {
+        "q": "How is a diploid (2n) zygote formed during sexual reproduction?",
+        "opts": [
+          "By the division of a haploid cell",
+          "By the combination of a haploid sperm cell (1n) and a haploid egg cell (1n)",
+          "By the duplication of a somatic cell",
+          "By the fusion of two diploid autosomes"
+        ],
+        "a": 1,
+        "exp": "A sperm cell (1n) combines with an egg cell (1n) to create the new cells of the new diploid (2n) organism."
+      }
+    ],
+    "legacy_index": 71
+  },
+  {
+    "unit": 3,
+    "page": 74,
+    "filename": "Unit_3_3.txt",
+    "section_title": "Chromosomes",
+    "page_num_in_file": 14,
+    "slide_title": "Prokaryotic Chromosomes",
+    "original_text": "Prokaryotic Chromosomes¨Prokaryotic chromosome much simpler¤Single, circular chromosome attached to inside of cell membrane nAlso compacted to fit within cell ¤Region known as the nucleoid¨Between cell divisions: DNA less compacted as chromatin¨In preparation for/during cell division: DNA highlycompacted to form chromosomes",
+    "explanation": "Prokaryotic chromosomes are structurally much simpler than eukaryotic ones. A prokaryote typically contains a single, circular chromosome that is attached to the inner surface of the cell membrane and compacted to fit within a region called the nucleoid. Between cell divisions, the DNA is less compacted and exists as chromatin. In preparation for and during cell division, the DNA condenses tightly into a highly compacted chromosome structure.",
+    "questions": [
+      {
+        "q": "Which of the following describes a prokaryotic chromosome?",
+        "opts": [
+          "Multiple linear chromosomes enclosed in a nuclear membrane",
+          "A single, circular chromosome attached to the inside of the cell membrane",
+          "A double helix wrapped around histone proteins inside a nucleolus",
+          "A rod-shaped chromosome lacking a nucleoid region"
+        ],
+        "a": 1,
+        "exp": "Prokaryotic chromosomes are simpler, consisting of a single, circular chromosome attached to the inside of the cell membrane."
+      }
+    ],
+    "legacy_index": 72
+  },
+  {
+    "unit": 3,
+    "page": 75,
+    "filename": "Unit_3_4.txt",
+    "section_title": "The Cell Cycle",
+    "page_num_in_file": 1,
+    "slide_title": "The Cell Cycle - Visual Page 1",
+    "original_text": "UNIT 3: CELLS 3.4 –THE CELL CYCLEBiology 9 Mr. QueenanCh. 11.2 (p.345-349)",
+    "explanation": "This is the title page for Section 3.4 of Unit 3, focusing on The Cell Cycle. It covers Chapter 11.2 (pages 345-349) of the Biology 9 curriculum under Mr. Queenan.",
+    "questions": [
+      {
+        "q": "What is the topic of Unit 3 Section 3.4?",
+        "opts": [
+          "Chromosomal Mutations",
+          "The Cell Cycle",
+          "Prokaryotic Structure",
+          "Cell Organelles"
+        ],
+        "a": 1,
+        "exp": "The slide is titled 'UNIT 3: CELLS 3.4 – THE CELL CYCLE'."
+      }
+    ],
+    "legacy_index": 73
+  },
+  {
+    "unit": 3,
+    "page": 76,
+    "filename": "Unit_3_4.txt",
+    "section_title": "The Cell Cycle",
+    "page_num_in_file": 2,
+    "slide_title": "Questions",
+    "original_text": "Questions¨Are cell division and mitosis interchangeable terms?\n¨How does cell division relate to reproduction?",
+    "explanation": "This page poses introductory questions regarding whether cell division and mitosis are interchangeable, and how cell division relates to reproduction.",
+    "questions": [
+      {
+        "q": "Which question is asked on this introductory slide?",
+        "opts": [
+          "How do chromosomes replicate?",
+          "Are cell division and mitosis interchangeable terms?",
+          "What are the phases of interphase?",
+          "What is the difference between mitosis and meiosis?"
+        ],
+        "a": 1,
+        "exp": "The slide explicitly asks: 'Are cell division and mitosis interchangeable terms?'"
+      }
+    ],
+    "legacy_index": 74
+  },
+  {
+    "unit": 3,
+    "page": 77,
+    "filename": "Unit_3_4.txt",
+    "section_title": "The Cell Cycle",
+    "page_num_in_file": 3,
+    "slide_title": "Prokaryotic Cell Division",
+    "original_text": "Prokaryotic Cell Division¨Cell division: process by which cells produce offspring cells¤Differs in prokaryotes & eukaryotes ¨Prokaryotes differ structurally from eukaryotes:¤Have cell wall; lack nucleus & membrane-bound organelles¤Single DNA molecule; does not associate with proteins, or coil to form chromosomes¤Circular chromosome attached to inner surface of plasma membrane",
+    "explanation": "Cell division is the biological process by which cells produce offspring cells, and it differs significantly between prokaryotes and eukaryotes. Prokaryotes differ structurally from eukaryotes in that they possess a cell wall and lack both a nucleus and membrane-bound organelles. Their genetic material is a single circular DNA molecule that does not associate with proteins or coil to form complex chromosomes; instead, it remains attached to the inner surface of the plasma membrane.",
+    "questions": [
+      {
+        "q": "How does prokaryotic DNA differ from eukaryotic DNA during cell division?",
+        "opts": [
+          "Prokaryotic DNA is linear and wrapped around histone proteins.",
+          "Prokaryotic DNA is a single circular molecule that does not associate with proteins or coil into chromosomes.",
+          "Prokaryotic DNA is located in a membrane-bound nucleus.",
+          "Prokaryotic DNA is not copied before division."
+        ],
+        "a": 1,
+        "exp": "The slide notes that prokaryotic DNA is a single circular molecule, does not associate with proteins, and does not coil to form chromosomes."
+      }
+    ],
+    "legacy_index": 75
+  },
+  {
+    "unit": 3,
+    "page": 78,
+    "filename": "Unit_3_4.txt",
+    "section_title": "The Cell Cycle",
+    "page_num_in_file": 4,
+    "slide_title": "Prokaryotic Cell Division",
+    "original_text": "Prokaryotic Cell Division¨Cell division via binary fission (Asexual Reproduction):¤DNA is copied¤2 identical chromosomes attached to inner cell membrane¤New cell membrane begins to form between copies of DNA¤As membrane grows, cell is constricted at the center (known as cleavage furrow)¤New cell wall forms around new membrane¤Dividing cell splits into 2 independent cells each containing 1 copy of identical chromosomes",
+    "explanation": "Prokaryotes divide via binary fission, which is a form of asexual reproduction. The process begins when the circular DNA is copied, resulting in two identical chromosomes attached to the inner cell membrane. Next, a new cell membrane begins to form between the two copies of DNA. As this membrane grows, the cell constricts at the center, creating a cleavage furrow. A new cell wall then forms around the new membrane, and the dividing cell splits into two independent, genetically identical offspring cells.",
+    "questions": [
+      {
+        "q": "What is the process of cell division in prokaryotes called?",
+        "opts": [
+          "Mitosis",
+          "Meiosis",
+          "Binary fission",
+          "Autolysis"
+        ],
+        "a": 2,
+        "exp": "Prokaryotic cell division occurs via binary fission, which is a form of asexual reproduction."
+      },
+      {
+        "q": "During binary fission, what constricts the center of the cell as the new membrane grows?",
+        "opts": [
+          "A centromere",
+          "A spindle fiber",
+          "A cleavage furrow",
+          "A cell wall"
+        ],
+        "a": 2,
+        "exp": "As the membrane grows, the cell is constricted at the center, which is known as the cleavage furrow."
+      }
+    ],
+    "legacy_index": 76
+  },
+  {
+    "unit": 3,
+    "page": 79,
+    "filename": "Unit_3_4.txt",
+    "section_title": "The Cell Cycle",
+    "page_num_in_file": 5,
+    "slide_title": "Prokaryotic Cell Division",
+    "original_text": "Prokaryotic Cell Division",
+    "explanation": "Study this complete page carefully. Focus on every named term, relationship, process, example, qualification, and exception shown in the notes, then answer the recall prompt below.",
+    "questions": [
+      {
+        "q": "What is the title of the slide shown on this page?",
+        "opts": [
+          "Prokaryotic Cell Division",
+          "Binary Fission Steps",
+          "Eukaryotic Cell Cycle",
+          "Mitosis vs Meiosis"
+        ],
+        "a": 0,
+        "exp": "The slide is titled 'Prokaryotic Cell Division'."
+      }
+    ],
+    "legacy_index": 77
+  },
+  {
+    "unit": 3,
+    "page": 80,
+    "filename": "Unit_3_4.txt",
+    "section_title": "The Cell Cycle",
+    "page_num_in_file": 6,
+    "slide_title": "Eukaryotic Cell Division",
+    "original_text": "Eukaryotic Cell Division¨Both cytoplasm and nucleus need to divide¤Chromosomes and cytoplasm equally divided between offspring cells ¨2 types of cell division: ¨Mitosis: results in new cells genetically identical to original cell¤Occurs in organisms undergoing growth, repair, development, or asexual reproduction ¤Asexual reproduction: production of offspring from a single parent (i.e. binary fission)",
+    "explanation": "Eukaryotic cell division is more complex than prokaryotic division, requiring both the nucleus and the cytoplasm to divide. This division ensures that chromosomes and cytoplasm are equally partitioned between offspring cells. There are two primary types of eukaryotic cell division. The first is mitosis, which produces new cells that are genetically identical to the original cell. Mitosis is used for growth, tissue repair, development, or asexual reproduction (the production of offspring from a single parent, similar in concept to binary fission).",
+    "questions": [
+      {
+        "q": "What are the primary purposes of mitosis in eukaryotic organisms?",
+        "opts": [
+          "Producing haploid gametes for sexual reproduction",
+          "Growth, repair, development, or asexual reproduction",
+          "Synthesizing proteins and ribosomes",
+          "Replicating circular DNA at the cell membrane"
+        ],
+        "a": 1,
+        "exp": "The slide states that mitosis occurs in organisms undergoing growth, repair, development, or asexual reproduction."
+      }
+    ],
+    "legacy_index": 78
+  },
+  {
+    "unit": 3,
+    "page": 81,
+    "filename": "Unit_3_4.txt",
+    "section_title": "The Cell Cycle",
+    "page_num_in_file": 7,
+    "slide_title": "Eukaryotic Cell Division",
+    "original_text": "Eukaryotic Cell Division¨Meiosis: occurs during formation of gametes –haploid reproductive cells (Sexual Reproduction)¤New cells have half the number of chromosomes of original cell¤New cells have potential to join with other haploid cells to produce a diploid cell (full number of chromosomes) ¤Allows for genetic variation between generations¨Cell cycle: repeating set of events in life of cell ¤Cell division –divided into 2 parts: nMitosis: nucleus of cell divides nCytokinesis: cytoplasm divides ¤Interphase –time between divisions",
+    "explanation": "The second type of eukaryotic cell division is meiosis, which occurs during the formation of gametes (haploid reproductive cells for sexual reproduction). Meiosis yields cells with exactly half the number of chromosomes of the parent cell, which can later fuse with other haploid gametes to create a diploid zygote, promoting genetic variation. Eukaryotic cells follow a regulated cell cycle, which is a repeating sequence of cellular growth and division. The cell cycle's division stage is split into mitosis (the division of the nucleus) and cytokinesis (the division of the cytoplasm). The period between active cell divisions is called interphase.",
+    "questions": [
+      {
+        "q": "What is the distinction between mitosis and cytokinesis in the eukaryotic cell cycle?",
+        "opts": [
+          "Mitosis is the division of the nucleus; cytokinesis is the division of the cytoplasm.",
+          "Mitosis is the division of the cytoplasm; cytokinesis is the division of the nucleus.",
+          "Mitosis is asexual reproduction; cytokinesis is sexual reproduction.",
+          "Mitosis occurs during interphase; cytokinesis occurs during prophase."
+        ],
+        "a": 0,
+        "exp": "The cell cycle cell division is divided into two parts: mitosis (where the nucleus of the cell divides) and cytokinesis (where the cytoplasm divides)."
+      },
+      {
+        "q": "Which process reduces the chromosome number in half to form gametes for sexual reproduction?",
+        "opts": [
+          "Mitosis",
+          "Binary fission",
+          "Meiosis",
+          "Cytokinesis"
+        ],
+        "a": 2,
+        "exp": "Meiosis occurs during the formation of gametes, resulting in new cells that have half the number of chromosomes of the original cell."
+      }
+    ],
+    "legacy_index": 79
+  },
+  {
+    "unit": 3,
+    "page": 82,
+    "filename": "Unit_3_4.txt",
+    "section_title": "The Cell Cycle",
+    "page_num_in_file": 8,
+    "slide_title": "Interphase",
+    "original_text": "Interphase¨Time between cell divisions; cells spend most time in interphase ¨After cell division, offspring cells approx. half normal size ¨G1 phase: first stage of interphase¤G=Gap Phase¤Offspring cells grow to mature size¤G1: time gap between cell division and next round of DNA replication ¨S phase: second stage of interphase¤DNA is replicated (synthesized)¤Cells become 4n (2 x 2n) nSister Chromatid",
+    "explanation": "Interphase is the period between active cell divisions, and cells spend the majority of their life cycle in this state. Immediately following cell division, offspring cells are approximately half their normal size. Interphase is divided into distinct stages. The G1 phase (first Gap phase) is the first stage of interphase, during which the offspring cells grow to their mature size, representing the time gap between cell division and the next round of DNA replication. The S phase (synthesis phase) is the second stage of interphase, during which the cellular DNA is replicated (synthesized). Following replication, the cells have doubled their genetic material, consisting of sister chromatids, effectively becoming 4n relative to the haploid state.",
+    "questions": [
+      {
+        "q": "What occurs during the S phase of interphase?",
+        "opts": [
+          "The cell grows to mature size.",
+          "DNA is replicated (synthesized).",
+          "The cell prepares for nuclear division.",
+          "The cytoplasm is divided."
+        ],
+        "a": 1,
+        "exp": "The S phase (synthesis phase) is the second stage of interphase, during which DNA is replicated."
+      },
+      {
+        "q": "Which phase of interphase is characterized by rapid cell growth to mature size immediately following cell division?",
+        "opts": [
+          "G1 phase",
+          "S phase",
+          "G2 phase",
+          "M phase"
+        ],
+        "a": 0,
+        "exp": "During the G1 (first gap) phase, offspring cells grow to mature size."
+      }
+    ],
+    "legacy_index": 80
+  },
+  {
+    "unit": 3,
+    "page": 83,
+    "filename": "Unit_3_4.txt",
+    "section_title": "The Cell Cycle",
+    "page_num_in_file": 9,
+    "slide_title": "Interphase",
+    "original_text": "Interphase¨G2 phase: third stage of interphase¤Cell prepares for next division¤G2: time gap between DNA synthesis and next cell division ¨Cells can exit cell cycle, typically at G1, and enter G0 phase ¤Cells are not dividing or copying DNA ¤Many cells exist in this stage; those that are fully developed and no longer need to divideni.e. cells of central nervous system",
+    "explanation": "The G2 phase is the third stage of interphase, representing the time gap between DNA synthesis (S phase) and the next cell division. During G2, the cell prepares for division. Alternatively, cells can exit the active cell cycle, typically during the G1 phase, to enter a resting state known as the G0 phase. In G0, cells do not divide or copy their DNA. Many cells exist permanently in the G0 stage, particularly those that are fully developed and no longer require division, such as neurons of the central nervous system.",
+    "questions": [
+      {
+        "q": "What is the characteristic of cells in the G0 phase?",
+        "opts": [
+          "They are actively dividing and copying DNA.",
+          "They are not dividing or copying DNA, representing a resting state for fully developed cells.",
+          "They are undergoing rapid cell growth.",
+          "They are in the process of nuclear envelope breakdown."
+        ],
+        "a": 1,
+        "exp": "In the G0 phase, cells are not dividing or copying DNA. Many fully developed cells that no longer need to divide (such as central nervous system cells) exist in this phase."
+      },
+      {
+        "q": "At which point in the cell cycle can a cell exit to enter the G0 phase?",
+        "opts": [
+          "M phase",
+          "S phase",
+          "G1 phase",
+          "G2 phase"
+        ],
+        "a": 2,
+        "exp": "According to the slide, cells can exit the cell cycle, typically at G1, and enter the G0 phase."
+      }
+    ],
+    "legacy_index": 81
+  },
+  {
+    "unit": 3,
+    "page": 84,
+    "filename": "Unit_3_4.txt",
+    "section_title": "The Cell Cycle",
+    "page_num_in_file": 10,
+    "slide_title": "Mitosis",
+    "original_text": "Mitosis¨Continuous process that allows organized distribution of copied DNA to offspring cells ¨M (Mitotic) Stageinvolves mitosis(nuclear division) and cytokinesis(division of cytoplasm)¤Mitosis divided into 4 phases: prophase, metaphase, anaphase, telophase ¤When divisions complete, two daughter cells are present",
+    "explanation": "Mitosis is a continuous process that ensures the organized and equal distribution of copied DNA to offspring cells. The M (mitotic) stage of the cell cycle involves two distinct processes: mitosis (the division of the nucleus) and cytokinesis (the division of the cytoplasm). Mitosis is traditionally divided into four sequential phases: prophase, metaphase, anaphase, and telophase. Once both nuclear and cytoplasmic division are complete, two distinct daughter cells are present.",
+    "questions": [
+      {
+        "q": "What are the two major events of the M (mitotic) stage of the cell cycle?",
+        "opts": [
+          "Interphase and cell growth",
+          "DNA replication and translation",
+          "Mitosis (nuclear division) and cytokinesis (cytoplasmic division)",
+          "G1 phase and S phase"
+        ],
+        "a": 2,
+        "exp": "The M stage involves mitosis (nuclear division) and cytokinesis (division of cytoplasm)."
+      },
+      {
+        "q": "What is the correct order of the four phases of mitosis?",
+        "opts": [
+          "Metaphase, Prophase, Anaphase, Telophase",
+          "Prophase, Metaphase, Anaphase, Telophase",
+          "Anaphase, Telophase, Prophase, Metaphase",
+          "Prophase, Anaphase, Metaphase, Telophase"
+        ],
+        "a": 1,
+        "exp": "Mitosis is divided into prophase, metaphase, anaphase, and telophase."
+      }
+    ],
+    "legacy_index": 82
+  },
+  {
+    "unit": 3,
+    "page": 85,
+    "filename": "Unit_3_4.txt",
+    "section_title": "The Cell Cycle",
+    "page_num_in_file": 11,
+    "slide_title": "Mitosis -Prophase",
+    "original_text": "Mitosis -Prophase¨Begins with shortening and tight coiling of DNA into chromosomes from chromatin ¤DNA was copied in S phase; each copy (chromatid) stays connected at the centromere ¨Nucleolus & nuclear membrane are broken down ¨2 pairs of centrosomes appear next to disappearing nucleus¤Animal cell centrosomes contain a pair of small, cylindrical centrioles; plant cells do not ¨Centrosomes move toward opposite poles of cell¨Spindle fibers, composed of microtubules, radiate from centrosomes as they move; preparing for metaphase ¤Array of spindle fibers called mitotic spindle –equally divides chromatids between offspring cells during division ¤Mitotic spindle composed of 2 types of spindle fibers: kinetochore and polar fibers nKinetochore fiber: attach to kinetochore, disc shaped protein in centromere of chromosome; extend from chromatid to centrosome nPolar fiber: extend across cell from centrosome to centrosome without attaching to chromosomes",
+    "explanation": "Prophase is the first stage of mitosis. It begins with the shortening and tight coiling of chromatin into distinct chromosomes. Since DNA was replicated in the S phase, each chromosome consists of two sister chromatids connected at the centromere. During prophase, the nucleolus and nuclear membrane break down. Two pairs of centrosomes appear near the nucleus and migrate toward opposite poles. Centrosomes in animal cells contain a pair of small, cylindrical centrioles, which are absent in plant cells. As they migrate, microtubules radiate from them to form the mitotic spindle. The mitotic spindle contains two types of fibers: kinetochore fibers, which attach to the kinetochore (a disc-shaped protein in the chromosome's centromere) and extend to the centrosome, and polar fibers, which span from centrosome to centrosome without attaching to the chromosomes.",
+    "questions": [
+      {
+        "q": "What is the difference between kinetochore fibers and polar fibers in the mitotic spindle?",
+        "opts": [
+          "Kinetochore fibers extend from pole to pole; polar fibers attach to chromosomes.",
+          "Kinetochore fibers attach to disc-shaped proteins in the centromere of chromosomes; polar fibers extend pole-to-pole without attaching.",
+          "Kinetochore fibers are composed of actin; polar fibers are composed of tubulin.",
+          "Kinetochore fibers occur in plant cells; polar fibers occur in animal cells."
+        ],
+        "a": 1,
+        "exp": "Kinetochore fibers attach to the kinetochore protein in the centromere of each chromosome, whereas polar fibers extend across the cell from centrosome to centrosome without attaching to chromosomes."
+      },
+      {
+        "q": "Which structural feature is present in animal cell centrosomes during prophase but absent in plant cell centrosomes?",
+        "opts": [
+          "Microtubules",
+          "Centrioles",
+          "Kinetochores",
+          "Spindle fibers"
+        ],
+        "a": 1,
+        "exp": "The slide states that animal cell centrosomes contain a pair of small, cylindrical centrioles, while plant cells do not."
+      }
+    ],
+    "legacy_index": 83
+  },
+  {
+    "unit": 3,
+    "page": 86,
+    "filename": "Unit_3_4.txt",
+    "section_title": "The Cell Cycle",
+    "page_num_in_file": 12,
+    "slide_title": "Mitosis -Prophase",
+    "original_text": "Mitosis -Prophase",
+    "explanation": "Study this complete page carefully. Focus on every named term, relationship, process, example, qualification, and exception shown in the notes, then answer the recall prompt below.",
+    "questions": [
+      {
+        "q": "What phase of mitosis is introduced by this slide?",
+        "opts": [
+          "Prophase",
+          "Metaphase",
+          "Anaphase",
+          "Telophase"
+        ],
+        "a": 0,
+        "exp": "The slide is titled 'Mitosis - Prophase'."
+      }
+    ],
+    "legacy_index": 84
+  },
+  {
+    "unit": 3,
+    "page": 87,
+    "filename": "Unit_3_4.txt",
+    "section_title": "The Cell Cycle",
+    "page_num_in_file": 13,
+    "slide_title": "Mitosis -Metaphase",
+    "original_text": "Mitosis -Metaphase¨Chromosomes most easily visible ¤Karyotypes usually taken from metaphase cells¨Kinetochore fibers move chromosomes to center of cell and hold them in place",
+    "explanation": "During metaphase, the chromosomes are highly condensed and aligned, making them most easily visible under a microscope. Consequently, karyotypes are typically photographed from cells during metaphase. In this phase, kinetochore fibers move the chromosomes to the center (equatorial plate) of the cell and hold them securely in place.",
+    "questions": [
+      {
+        "q": "Why are karyotypes (photomicrographs of chromosomes) usually taken from cells in metaphase?",
+        "opts": [
+          "Chromosomes are duplication-free in this phase.",
+          "Chromosomes are most easily visible and highly condensed.",
+          "The cell membrane is absent, making staining easier.",
+          "The chromosomes are clustered inside the nucleolus."
+        ],
+        "a": 1,
+        "exp": "During metaphase, chromosomes are most easily visible (which is why karyotypes are usually taken from cells in this phase) and are held at the cell center by kinetochore fibers."
+      }
+    ],
+    "legacy_index": 85
+  },
+  {
+    "unit": 3,
+    "page": 88,
+    "filename": "Unit_3_4.txt",
+    "section_title": "The Cell Cycle",
+    "page_num_in_file": 14,
+    "slide_title": "Mitosis -Anaphase",
+    "original_text": "Mitosis -Anaphase¨Chromatids of each chromosome separate at the centromere ¨Slowly move, centromere first, toward opposite poles of cell ¤After chromatids separate –considered to be individual chromosomes",
+    "explanation": "Anaphase is characterized by the separation of the sister chromatids of each chromosome. They split at the centromere and are pulled slowly toward opposite poles of the cell, moving centromere-first. Once chromatids separate, they are considered to be individual chromosomes.",
+    "questions": [
+      {
+        "q": "What key event defines anaphase in mitosis?",
+        "opts": [
+          "Chromosomes align at the metaphase plate.",
+          "Chromatids of each chromosome separate at the centromere and move toward opposite poles.",
+          "The nuclear envelope reforms around chromosomes.",
+          "DNA wraps around histones to form chromatin."
+        ],
+        "a": 1,
+        "exp": "Anaphase begins when chromatids of each chromosome separate at the centromere and slowly move toward opposite poles of the cell."
+      }
+    ],
+    "legacy_index": 86
+  },
+  {
+    "unit": 3,
+    "page": 89,
+    "filename": "Unit_3_4.txt",
+    "section_title": "The Cell Cycle",
+    "page_num_in_file": 15,
+    "slide_title": "Mitosis -Telophase",
+    "original_text": "Mitosis -Telophase¨Chromosomes reach opposite ends of cell¨Spindle fibers disassemble¨Chromosomes return to less tightly coiled chromatin¨Nuclear envelope forms around each set of chromosomes; nucleolus forms within each new nucleus ¨Cleavage furrow becomes visible",
+    "explanation": "Telophase begins when chromosomes reach the opposite ends of the cell. During this phase, the spindle fibers disassemble and the chromosomes return to their less tightly coiled chromatin state. A nuclear envelope forms around each of the two sets of chromosomes, and a nucleolus reforms inside each new nucleus. A cleavage furrow also becomes visible as the cell prepares for cytokinesis.",
+    "questions": [
+      {
+        "q": "Which of the following events occurs during telophase of mitosis?",
+        "opts": [
+          "Chromosomes coil tightly and nucleolus disappears.",
+          "Sister chromatids are pulled apart at the centromeres.",
+          "Chromosomes return to less tightly coiled chromatin, and the nuclear envelope and nucleolus reform.",
+          "Spindle fibers attach to disc-shaped kinetochores."
+        ],
+        "a": 2,
+        "exp": "During telophase, chromosomes return to less tightly coiled chromatin, spindle fibers disassemble, and a nuclear envelope and nucleolus reform around each chromosome set."
+      }
+    ],
+    "legacy_index": 87
+  },
+  {
+    "unit": 3,
+    "page": 90,
+    "filename": "Unit_3_4.txt",
+    "section_title": "The Cell Cycle",
+    "page_num_in_file": 16,
+    "slide_title": "Cytokinesis",
+    "original_text": "Cytokinesis¨During telophase, cytoplasm begins to divide ¨Cytokinesis begins with cell membrane pinching inward at midpoint of poles of dividing cell¨Pinched in area eventually separates dividing cell into two cells at cleavage furrow¨Cleavage furrow pinches two cells completely apart by the action of microfilaments ¤Plant cells: vesicles from Golgi join together at midline of dividing cell to form cell plate; cell wall eventually forms there dividing into 2 separate cells ¨Offspring cells approx. equal in size; receive identical copy of original chromosomes, half cytoplasm & organelles of original cell ¤Return to 2n",
+    "explanation": "During telophase, cytokinesis begins as the cell's cytoplasm starts to divide. In animal cells, the cell membrane pinches inward at the midpoint between poles, forming a cleavage furrow. Microfilaments act to pinch the cell completely apart into two cells. In plant cells, cytokinesis occurs differently: vesicles from the Golgi apparatus join together at the cell midline to construct a cell plate, which eventually develops into a new cell wall, separating the plant cell. The resulting daughter cells are approximately equal in size, receiving an identical copy of the chromosomes, and half of the parent cell's cytoplasm and organelles, returning them to the diploid (2n) state.",
+    "questions": [
+      {
+        "q": "How does cytokinesis differ between plant and animal cells?",
+        "opts": [
+          "Animal cells form a cell plate; plant cells form a cleavage furrow.",
+          "Animal cells form a cleavage furrow pinched by microfilaments; plant cells form a cell plate from Golgi vesicles.",
+          "Animal cells divide their nuclei; plant cells do not divide their nuclei.",
+          "Animal cells use polar fibers; plant cells use kinetochore fibers."
+        ],
+        "a": 1,
+        "exp": "In animal cells, cytokinesis involves a cleavage furrow pinching the cell apart using microfilaments. In plant cells, vesicles from the Golgi join at the midline to form a cell plate, which eventually becomes a new cell wall."
+      },
+      {
+        "q": "What do the daughter cells receive upon the completion of cytokinesis?",
+        "opts": [
+          "An identical copy of chromosomes, and approximately half of the cytoplasm and organelles.",
+          "Double the chromosome number of the parent cell.",
+          "Only cytoplasm and no organelles.",
+          "Only ribosomes and mitochondria, but no DNA."
+        ],
+        "a": 0,
+        "exp": "Offspring cells receive an identical copy of the original chromosomes, and approximately half the cytoplasm and organelles of the parent cell, returning to the diploid (2n) state."
+      }
+    ],
+    "legacy_index": 88
+  },
+  {
+    "unit": 3,
+    "page": 91,
+    "filename": "Unit_3_4.txt",
+    "section_title": "The Cell Cycle",
+    "page_num_in_file": 17,
+    "slide_title": "Cytokinesis –Plant vs Animal",
+    "original_text": "Cytokinesis –Plant vs Animal",
+    "explanation": "This page serves as a transition or title slide for comparing plant and animal cytokinesis.",
+    "questions": [
+      {
+        "q": "What is the topic of the slide shown on this page?",
+        "opts": [
+          "Cytokinesis – Plant vs Animal",
+          "Mitosis Phases",
+          "Cell Cycle Regulation",
+          "Microtubule Assembly"
+        ],
+        "a": 0,
+        "exp": "The slide is titled 'Cytokinesis – Plant vs Animal'."
+      }
+    ],
+    "legacy_index": 89
+  },
+  {
+    "unit": 3,
+    "page": 92,
+    "filename": "Unit_3_4.txt",
+    "section_title": "The Cell Cycle",
+    "page_num_in_file": 18,
+    "slide_title": "Mitosis -Summarized",
+    "original_text": "Mitosis -Summarized\nCell Cycle & Mitosis Review",
+    "explanation": "Study this complete page carefully. Focus on every named term, relationship, process, example, qualification, and exception shown in the notes, then answer the recall prompt below.",
+    "questions": [
+      {
+        "q": "What is the purpose of the slide shown on this page?",
+        "opts": [
+          "To introduce meiosis",
+          "To summarize mitosis and review the cell cycle",
+          "To describe stem cell differentiation",
+          "To explain cancer cell checkpoints"
+        ],
+        "a": 1,
+        "exp": "The slide is titled 'Mitosis - Summarized' and has subtitle 'Cell Cycle & Mitosis Review'."
+      }
+    ],
+    "legacy_index": 90
+  },
+  {
+    "unit": 3,
+    "page": 93,
+    "filename": "Unit_3_4.txt",
+    "section_title": "The Cell Cycle",
+    "page_num_in_file": 19,
+    "slide_title": "Control of Cell Cycle",
+    "original_text": "Control of Cell Cycle¨Cell needs stop and start signals to move from interphase into mitosis and back into interphase ¨Also needs checkpoints along the way to ensure cells only replicate when needed¤Proteins regulate process of cell division at G1, G2, mitosis¤Can signal cell to proceed into division; or not to divide",
+    "explanation": "The cell cycle is regulated by start and stop signals to ensure cells only replicate under appropriate conditions. This process requires checkpoints along the way. Specific regulatory proteins monitor and control cell division at key checkpoints (G1, G2, and mitosis), providing signals that either allow the cell to proceed into division or halt the cell cycle.",
+    "questions": [
+      {
+        "q": "Which molecules are responsible for regulating the cell cycle at various checkpoints?",
+        "opts": [
+          "Carbohydrates",
+          "Proteins",
+          "Lipids",
+          "Free radicals"
+        ],
+        "a": 1,
+        "exp": "The slide states that proteins regulate the process of cell division at the G1, G2, and mitosis checkpoints."
+      }
+    ],
+    "legacy_index": 91
+  },
+  {
+    "unit": 3,
+    "page": 94,
+    "filename": "Unit_3_4.txt",
+    "section_title": "The Cell Cycle",
+    "page_num_in_file": 20,
+    "slide_title": "Cell Cycle CheckpointsCell growth checkpoint (G1)",
+    "original_text": "Cell Cycle CheckpointsCell growth checkpoint (G1): ¨Controls whether cell will divide ¨If cell is healthy, large enough in size, DNA synthesis initialized; if conditions are unfavorable, cell cycle stops; can also stop if cell needs rest period ¨Cells can enter G0 at this point DNA synthesis checkpoint (G2): ¨DNA repair enzymes check results of DNA replication; if DNA is undamaged, mitosis begins; if DNA is damaged, cell cycle is stopped Mitosis checkpoint:¨If cell passes checkpoint, exits mitosis and enters G1 phase again",
+    "explanation": "The cell cycle has three primary checkpoints. The Cell growth checkpoint (G1) determines if the cell will divide; if the cell is healthy and of sufficient size, DNA synthesis is initiated. Unfavorable conditions or the need for rest will halt the cycle, and cells can enter G0 at this point. The DNA synthesis checkpoint (G2) involves DNA repair enzymes checking the results of DNA replication. If DNA is undamaged, mitosis is initiated; otherwise, the cycle stops. The Mitosis checkpoint monitors division; if passed, the cell exits mitosis and enters the G1 phase of the next cell cycle.",
+    "questions": [
+      {
+        "q": "What occurs at the G2 DNA synthesis checkpoint?",
+        "opts": [
+          "The cell grows to mature size.",
+          "DNA repair enzymes check results of DNA replication; if undamaged, mitosis begins.",
+          "The cell enters the G0 phase.",
+          "Sister chromatids are separated at their centromeres."
+        ],
+        "a": 1,
+        "exp": "At the G2 checkpoint, DNA repair enzymes check the results of DNA replication; if the DNA is undamaged, the cell proceeds to mitosis."
+      },
+      {
+        "q": "What decides whether a cell will divide or enter the G0 rest period at the G1 checkpoint?",
+        "opts": [
+          "The assembly of the mitotic spindle",
+          "The cell's health, size, and whether conditions are favorable",
+          "The separation of sister chromatids",
+          "The formation of the cell plate"
+        ],
+        "a": 1,
+        "exp": "At the G1 checkpoint, if the cell is healthy and large enough, DNA synthesis is initialized; if conditions are unfavorable, it stops or can enter the G0 resting phase."
+      }
+    ],
+    "legacy_index": 92
+  },
+  {
+    "unit": 3,
+    "page": 95,
+    "filename": "Unit_3_4.txt",
+    "section_title": "The Cell Cycle",
+    "page_num_in_file": 21,
+    "slide_title": "Cell Cycle -Summarized",
+    "original_text": "Cell Cycle -Summarized\nThe Amoeba Sisters -Mitosis",
+    "explanation": "This is a summary slide for the Cell Cycle, referencing 'The Amoeba Sisters - Mitosis' video resources.",
+    "questions": [
+      {
+        "q": "What video resource is referenced on the Cell Cycle summary slide?",
+        "opts": [
+          "Bozeman Science - Cellular Respiration",
+          "Crash Course - Ecology",
+          "The Amoeba Sisters - Mitosis",
+          "Khan Academy - Chromosomes"
+        ],
+        "a": 2,
+        "exp": "The slide references 'The Amoeba Sisters - Mitosis' as a resource."
+      }
+    ],
+    "legacy_index": 93
+  },
+  {
+    "unit": 3,
+    "page": 96,
+    "filename": "Unit_3_5.txt",
+    "section_title": "Stem Cells & Cancer",
+    "page_num_in_file": 1,
+    "slide_title": "Stem Cells & Cancer - Visual Page 1",
+    "original_text": "UNIT 3: CELLS 3.5 –STEM CELLS & CANCERBiology 9 Mr. QueenanCh. 11.3-11.4 (p.350-361)",
+    "explanation": "This is the title page for Section 3.5 of Unit 3, focusing on Stem Cells & Cancer. It covers Chapter 11.3-11.4 (pages 350-361) of the course instructed by Mr. Queenan.",
+    "questions": [
+      {
+        "q": "What is the title of Unit 3 Section 3.5?",
+        "opts": [
+          "Cell Membranes and Transport",
+          "Organelle Structure and Function",
+          "Chromosomes and Karyotypes",
+          "Stem Cells & Cancer"
+        ],
+        "a": 3,
+        "exp": "The title of the slide is 'UNIT 3: CELLS 3.5 - STEM CELLS & CANCER'."
+      }
+    ],
+    "legacy_index": 94
+  },
+  {
+    "unit": 3,
+    "page": 97,
+    "filename": "Unit_3_5.txt",
+    "section_title": "Stem Cells & Cancer",
+    "page_num_in_file": 2,
+    "slide_title": "Questions",
+    "original_text": "Questions¨What is the purpose of a stem cell?¨What in the cell cycle makes cancer different than normal cells?",
+    "explanation": "This slide poses introductory questions regarding the purpose of stem cells and how cancer cells differ from normal cells in the context of the cell cycle.",
+    "questions": [
+      {
+        "q": "Which of the following questions is asked on this introductory slide?",
+        "opts": [
+          "What is the role of p53 in cancer?",
+          "What is the purpose of a stem cell?",
+          "How do embryonic stem cells differentiate?",
+          "What are the phases of apoptosis?"
+        ],
+        "a": 1,
+        "exp": "The slide explicitly asks: 'What is the purpose of a stem cell?'"
+      }
+    ],
+    "legacy_index": 95
+  },
+  {
+    "unit": 3,
+    "page": 98,
+    "filename": "Unit_3_5.txt",
+    "section_title": "Stem Cells & Cancer",
+    "page_num_in_file": 3,
+    "slide_title": "Stem Cells",
+    "original_text": "Stem Cells¨Most cells of the body in adulthood permanently arrested in G0stage¨If injury occurs, body must be able to repair the injury (cut, broken bone, etc)¨Some cells must retain ability to divide¨Stem cells–Cells that retain the ability to divide and differentiate¤Embryonic–from blastocyst (can become any cells)¤Tissue Specific –somatic nHematopoietic-all blood cellsnMesenchymal–in bone marrow; tissue, bone, cartilage, fat repair¤Induced pluripotent –lab engineered from somatic cells; act like embryonic, can become all cells",
+    "explanation": "In adult organisms, most body cells are permanently arrested in the G0 stage. However, when injury occurs (such as a cut or a broken bone), the body must be able to perform repairs, meaning some cells must retain the capacity to divide. Stem cells are specialized cells that retain the ability to divide and differentiate. They include Embryonic stem cells (derived from the blastocyst, capable of becoming any cell type in the body), Tissue-specific somatic stem cells (such as hematopoietic stem cells that form all blood cells, or mesenchymal stem cells in the bone marrow that repair tissue, bone, cartilage, and fat), and Induced Pluripotent stem cells (iPSCs, which are lab-engineered from somatic cells to act like embryonic stem cells and differentiate into all cell types).",
+    "questions": [
+      {
+        "q": "Which type of stem cell is derived from the blastocyst and has the potential to become any cell type in the body?",
+        "opts": [
+          "Hematopoietic stem cells",
+          "Mesenchymal stem cells",
+          "Embryonic stem cells",
+          "Somatic stem cells"
+        ],
+        "a": 2,
+        "exp": "Embryonic stem cells are derived from the blastocyst and can become any cells."
+      },
+      {
+        "q": "What are induced pluripotent stem cells (iPSCs)?",
+        "opts": [
+          "Naturally occurring stem cells in bone marrow",
+          "Stem cells that can only differentiate into blood cells",
+          "Lab-engineered stem cells derived from somatic cells that act like embryonic stem cells",
+          "Terminally differentiated nerve cells"
+        ],
+        "a": 2,
+        "exp": "Induced pluripotent stem cells are lab-engineered from somatic cells and act like embryonic stem cells, with the potential to differentiate into all cell types."
+      }
+    ],
+    "legacy_index": 96
+  },
+  {
+    "unit": 3,
+    "page": 99,
+    "filename": "Unit_3_5.txt",
+    "section_title": "Stem Cells & Cancer",
+    "page_num_in_file": 4,
+    "slide_title": "Stem Cells",
+    "original_text": "Stem Cells",
+    "explanation": "Study this complete page carefully. Focus on every named term, relationship, process, example, qualification, and exception shown in the notes, then answer the recall prompt below.",
+    "questions": [
+      {
+        "q": "What is the title of the slide shown on this page?",
+        "opts": [
+          "Stem Cells",
+          "Stem Cell Differentiation",
+          "Cell Specialization",
+          "Tissue Repair"
+        ],
+        "a": 0,
+        "exp": "The slide is titled 'Stem Cells'."
+      }
+    ],
+    "legacy_index": 97
+  },
+  {
+    "unit": 3,
+    "page": 100,
+    "filename": "Unit_3_5.txt",
+    "section_title": "Stem Cells & Cancer",
+    "page_num_in_file": 5,
+    "slide_title": "Stem Cell Differentiation",
+    "original_text": "Stem Cell Differentiation¨As stem cells begin to divide based on the signals they receive, they begin to differentiate, or become more specialized¨Method for producing cells that perform specific functions in the body, instead of all cells needing to do all functions¤Cardiac cells vs nerve cells vs skin cells¨Stem cells can remain stem cells through replication. Once differentiation occurs, they terminally differentiate (cannot return to stem cells)",
+    "explanation": "As stem cells divide, they receive chemical signals that guide them to differentiate, meaning they become more specialized. Differentiation is the mechanism for generating specialized cells that perform specific functions (such as cardiac cells, nerve cells, or skin cells), rather than requiring every cell to perform all tasks. Stem cells can replicate to produce more stem cells, but once they undergo differentiation into a specialized lineage, they are terminally differentiated and cannot revert to a stem cell state.",
+    "questions": [
+      {
+        "q": "What happens when a stem cell undergoes terminal differentiation?",
+        "opts": [
+          "It can replicate to produce more stem cells.",
+          "It becomes a specialized cell type and cannot return to a stem cell state.",
+          "It immediately undergoes apoptosis via Caspases.",
+          "It exits G0 and enters the S phase."
+        ],
+        "a": 1,
+        "exp": "The slide states that once differentiation occurs, they terminally differentiate and cannot return to being stem cells."
+      }
+    ],
+    "legacy_index": 98
+  },
+  {
+    "unit": 3,
+    "page": 101,
+    "filename": "Unit_3_5.txt",
+    "section_title": "Stem Cells & Cancer",
+    "page_num_in_file": 6,
+    "slide_title": "Stem Cell Differentiation",
+    "original_text": "Stem Cell Differentiation",
+    "explanation": "Study this complete page carefully. Focus on every named term, relationship, process, example, qualification, and exception shown in the notes, then answer the recall prompt below.",
+    "questions": [
+      {
+        "q": "What is the title of the slide shown on this page?",
+        "opts": [
+          "Stem Cells",
+          "Stem Cell Differentiation",
+          "Pluripotent cells",
+          "Terminal Division"
+        ],
+        "a": 1,
+        "exp": "The slide is titled 'Stem Cell Differentiation'."
+      }
+    ],
+    "legacy_index": 99
+  },
+  {
+    "unit": 3,
+    "page": 102,
+    "filename": "Unit_3_5.txt",
+    "section_title": "Stem Cells & Cancer",
+    "page_num_in_file": 7,
+    "slide_title": "Control of the Cell Cycle",
+    "original_text": "Control of the Cell Cycle¨A signalis an agent that influences the activities of a cell.¨Growth factors are a type of signaling proteins¤Received at plasma membrane of a cell¤Can push cell to continue through cell cycle, even if arrested in G0¨Checkpoints¤From previous lecture, cell cycle checkpoints at G1, G2, and M¨Cyclins¤Internal signaling proteins¤Increase and decrease as cell cycle continues¤Specific cyclins must be present to move from G1to S phase, and from G2to M phase",
+    "explanation": "In cellular biology, a signal is defined as any agent that influences a cell's activities. Growth factors are a class of extracellular signaling proteins that bind to receptors at the cell's plasma membrane, capable of signaling cells to proceed through the cell cycle even if they were arrested in the G0 stage. The cell cycle is regulated by checkpoints (at G1, G2, and mitosis) and cyclins. Cyclins are internal signaling proteins whose concentration levels fluctuate (increase and decrease) throughout the cell cycle. Specific cyclins must accumulate in sufficient quantities to permit the transition from the G1 phase to the S phase, and from the G2 phase to the M phase.",
+    "questions": [
+      {
+        "q": "Which proteins act as internal signals that fluctuate in concentration to regulate transition between cell cycle phases (e.g. G1 to S, G2 to M)?",
+        "opts": [
+          "Growth factors",
+          "Caspases",
+          "Cyclins",
+          "Tubulins"
+        ],
+        "a": 2,
+        "exp": "Cyclins are internal signaling proteins whose concentrations increase and decrease as the cell cycle continues; specific cyclins must be present to transition from G1 to S and G2 to M."
+      },
+      {
+        "q": "What type of signaling proteins are received at the plasma membrane and can push a cell to divide even if it was arrested in G0?",
+        "opts": [
+          "Cyclins",
+          "Growth factors",
+          "Caspases",
+          "Histones"
+        ],
+        "a": 1,
+        "exp": "Growth factors are signaling proteins received at the plasma membrane that can push a cell to continue through the cell cycle even if arrested in G0."
+      }
+    ],
+    "legacy_index": 100
+  },
+  {
+    "unit": 3,
+    "page": 103,
+    "filename": "Unit_3_5.txt",
+    "section_title": "Stem Cells & Cancer",
+    "page_num_in_file": 8,
+    "slide_title": "Control of the Cell Cycle",
+    "original_text": "Control of the Cell Cycle",
+    "explanation": "Study this complete page carefully. Focus on every named term, relationship, process, example, qualification, and exception shown in the notes, then answer the recall prompt below.",
+    "questions": [
+      {
+        "q": "What is the title of the slide shown on this page?",
+        "opts": [
+          "Control of the Cell Cycle",
+          "G1 Checkpoint",
+          "p53 Signaling",
+          "Cyclin Function"
+        ],
+        "a": 0,
+        "exp": "The slide is titled 'Control of the Cell Cycle'."
+      }
+    ],
+    "legacy_index": 101
+  },
+  {
+    "unit": 3,
+    "page": 104,
+    "filename": "Unit_3_5.txt",
+    "section_title": "Stem Cells & Cancer",
+    "page_num_in_file": 9,
+    "slide_title": "G1Checkpoint",
+    "original_text": "G1Checkpoint¨Primary checkpoint of the cell cycle¨p53¤Protein 53kDa weight¤Recognizes DNA damage and stops cell cycle at G1¤Tries to initiate DNA repair¤If unsuccessful, or if p53 concentration builds, apoptosisis initiatednApoptosis= Programmed cell death",
+    "explanation": "The G1 checkpoint is the primary regulatory checkpoint of the cell cycle. A key protein active here is p53 (which has a molecular weight of 53 kilodaltons). The p53 protein recognizes DNA damage and stops the cell cycle at G1 to initiate DNA repair. If this repair is unsuccessful, or if p53 levels build up due to persistent damage, p53 initiates apoptosis, which is programmed cell death.",
+    "questions": [
+      {
+        "q": "What protein detects DNA damage at the G1 checkpoint and can trigger either DNA repair or programmed cell death?",
+        "opts": [
+          "BRCA1",
+          "p53",
+          "ras",
+          "Caspase"
+        ],
+        "a": 1,
+        "exp": "p53 is a 53kDa protein that recognizes DNA damage and halts the cell cycle at G1, initiating DNA repair or apoptosis if repair is unsuccessful."
+      },
+      {
+        "q": "What is apoptosis?",
+        "opts": [
+          "Uncontrolled cell division",
+          "Programmed cell death",
+          "Synthesis of sister chromatids",
+          "The process of cellular differentiation"
+        ],
+        "a": 1,
+        "exp": "The slide defines apoptosis as 'Programmed cell death'."
+      }
+    ],
+    "legacy_index": 102
+  },
+  {
+    "unit": 3,
+    "page": 105,
+    "filename": "Unit_3_5.txt",
+    "section_title": "Stem Cells & Cancer",
+    "page_num_in_file": 10,
+    "slide_title": "Apoptosis",
+    "original_text": "Apoptosis\n¨Cell progresses through a series of events that lead to its destruction¨After going through steps above, white blood cells engulf cell fragments¨An enzyme class, Caspases, when not held in check by inhibitors, are signaled and lead to destruction",
+    "explanation": "During apoptosis, a cell progresses through a systematic series of self-destructive events. Once the cell fragments, white blood cells engulf the remains. This programmed destruction is carried out by a class of enzymes called Caspases. When Caspases are released from control by their inhibitors, they are signaled to execute the cell's destruction.",
+    "questions": [
+      {
+        "q": "Which class of enzymes is responsible for executing the destruction of the cell during apoptosis?",
+        "opts": [
+          "Cyclins",
+          "Caspases",
+          "Polymerases",
+          "Kinases"
+        ],
+        "a": 1,
+        "exp": "An enzyme class called Caspases is signaled to lead to cell destruction during apoptosis when not held in check by inhibitors."
+      }
+    ],
+    "legacy_index": 103
+  },
+  {
+    "unit": 3,
+    "page": 106,
+    "filename": "Unit_3_5.txt",
+    "section_title": "Stem Cells & Cancer",
+    "page_num_in_file": 11,
+    "slide_title": "Apoptosis and Cell Division",
+    "original_text": "Apoptosis and Cell Division¨Cell division increases cell number and apoptosis decreases cell number (opposing processes)¤Both normal parts of growth and developmentnTadpole most lose tail to maturenWebbing between human digits¨Both constantly occurring throughout life¨Death through apoptosis prevents cells from continually growing, which can result in a tumor",
+    "explanation": "Cell division and apoptosis are opposing processes: cell division increases the total cell number, whereas apoptosis decreases it. Both processes are normal, essential parts of growth and development. For example, a tadpole must lose its tail through apoptosis to mature into a frog, and human embryos lose the webbing between their digits via apoptosis. These opposing processes occur constantly throughout life. Apoptotic cell death is crucial for homeostasis because it prevents cells from growing continually, which could otherwise result in tumor formation.",
+    "questions": [
+      {
+        "q": "Which of the following is a normal developmental process that relies on apoptosis?",
+        "opts": [
+          "The growth of a tumor",
+          "The removal of webbing between human digits during development",
+          "The replication of DNA in S phase",
+          "The synthesis of secondary cell walls in wood"
+        ],
+        "a": 1,
+        "exp": "Normal developmental examples of apoptosis include a tadpole losing its tail and the removal of webbing between human digits."
+      },
+      {
+        "q": "Why is apoptosis essential for preventing cancer?",
+        "opts": [
+          "It speeds up cell division in damaged tissues.",
+          "It prevents cells from continually growing, which could otherwise result in a tumor.",
+          "It replicates tumor suppressor genes.",
+          "It increases the differentiation capability of stem cells."
+        ],
+        "a": 1,
+        "exp": "Death through apoptosis prevents cells from continually growing, which can result in a tumor."
+      }
+    ],
+    "legacy_index": 104
+  },
+  {
+    "unit": 3,
+    "page": 107,
+    "filename": "Unit_3_5.txt",
+    "section_title": "Stem Cells & Cancer",
+    "page_num_in_file": 12,
+    "slide_title": "Cancer",
+    "original_text": "Cancer¨Uncontrolled cell division¨Gradual process, resulting from the accumulation of mutations¨Once cells develop enough mutations, they develop distinct characteristics1.Cancer cells lack differentiation¤Not specialized¤Possess characteristics of surrounding cells, but abnormal¤Can enter cell cycle indefinitelynNormal cells only capable of ~50 divisions",
+    "explanation": "Cancer is characterized by uncontrolled cell division, developing as a gradual process resulting from the accumulation of genetic mutations. Once cells acquire sufficient mutations, they display distinct abnormal characteristics. The first characteristic is that cancer cells lack differentiation; they are not specialized cells. While they may share some traits with surrounding cells, they are highly abnormal. Unlike normal cells, which are limited to approximately 50 divisions before they stop, cancer cells can enter the cell cycle and divide indefinitely.",
+    "questions": [
+      {
+        "q": "How many times are normal human cells typically capable of dividing before they stop, compared to cancer cells?",
+        "opts": [
+          "Normal cells can divide indefinitely; cancer cells only divide ~50 times.",
+          "Normal cells can divide ~50 times; cancer cells can enter the cell cycle indefinitely.",
+          "Normal cells can divide ~500 times; cancer cells only divide ~5 times.",
+          "Both normal and cancer cells divide indefinitely."
+        ],
+        "a": 1,
+        "exp": "Normal cells are capable of only ~50 divisions, while cancer cells can enter the cell cycle indefinitely."
+      }
+    ],
+    "legacy_index": 105
+  },
+  {
+    "unit": 3,
+    "page": 108,
+    "filename": "Unit_3_5.txt",
+    "section_title": "Stem Cells & Cancer",
+    "page_num_in_file": 13,
+    "slide_title": "Cancer2.Cancer cells have abnormal nuclei",
+    "original_text": "Cancer2.Cancer cells have abnormal nuclei¤Nuclei enlarged, and sometimes have incorrect chromosome number, or duplicated portions of chromosomesnResults in gene amplification, or gene deletions3.Cancer cells do not undergo apoptosis¤Mutations acquired may stop the checkpoint functions that would cause cells with damage to stop replicating and be destroyed",
+    "explanation": "Cancer cells exhibit further abnormal characteristics. Second, cancer cells have abnormal nuclei, which are typically enlarged and may contain an incorrect chromosome number or duplicated portions of chromosomes, leading to gene amplification or deletions. Third, cancer cells fail to undergo apoptosis. The mutations they accumulate often deactivate the cell cycle checkpoint functions that would otherwise identify severe cellular damage, halt replication, and signal apoptotic destruction.",
+    "questions": [
+      {
+        "q": "Which of the following nuclear abnormalities is commonly observed in cancer cells?",
+        "opts": [
+          "Enlarged nuclei with incorrect chromosome numbers or duplicated/deleted portions",
+          "Highly condensed histones that prevent transcription completely",
+          "A lack of nuclear pores on the nuclear envelope",
+          "The conversion of DNA into circular plasmids"
+        ],
+        "a": 0,
+        "exp": "Cancer cells have abnormal nuclei: they are enlarged, and sometimes have incorrect chromosome numbers or duplicated/deleted portions of chromosomes."
+      }
+    ],
+    "legacy_index": 106
+  },
+  {
+    "unit": 3,
+    "page": 109,
+    "filename": "Unit_3_5.txt",
+    "section_title": "Stem Cells & Cancer",
+    "page_num_in_file": 14,
+    "slide_title": "Cancer4.Cancer cells form tumors",
+    "original_text": "Cancer4.Cancer cells form tumors¤Normal cells stop dividing when they come in contact with other cells –Contact inhibition¤Cancer cells have lost this restraint5.Cancer cells undergo metastasis and angiogenesis¤Invade underlying layers and can enter blood supply and spread to other areas of the body –metastasis¤Acquired mutations may allow cells to signal the creation of new blood vessels to supply it nutrients to grow –angiogenesis¨Cancer treatments aim to attack some of these attributes",
+    "explanation": "Cancer cells exhibit two other key characteristics. Fourth, cancer cells form tumors because they have lost contact inhibition, which is the mechanism that causes normal cells to stop dividing when they make contact with neighboring cells. Fifth, cancer cells undergo metastasis and angiogenesis. Metastasis occurs when cancer cells invade underlying tissue layers, enter the blood supply, and spread to form secondary tumors in other areas of the body. Angiogenesis is the process where acquired mutations enable cancer cells to release signals that stimulate the formation of new blood vessels, supplying the tumor with nutrients needed for growth. Modern cancer treatments are designed to target these specific cellular abnormalities.",
+    "questions": [
+      {
+        "q": "What is the term for the spread of cancer cells to other areas of the body via the blood supply?",
+        "opts": [
+          "Angiogenesis",
+          "Metastasis",
+          "Apoptosis",
+          "Contact inhibition"
+        ],
+        "a": 1,
+        "exp": "Metastasis is the process where cancer cells invade underlying layers, enter the blood supply, and spread to other areas of the body."
+      },
+      {
+        "q": "What is angiogenesis in the context of cancer growth?",
+        "opts": [
+          "The programmed death of cancer cells",
+          "The signaling and creation of new blood vessels to supply nutrients to the tumor",
+          "The loss of contact inhibition between dividing cells",
+          "The packing of DNA around histone proteins"
+        ],
+        "a": 1,
+        "exp": "Angiogenesis is when acquired mutations allow cancer cells to signal the creation of new blood vessels to supply the tumor with nutrients to grow."
+      }
+    ],
+    "legacy_index": 107
+  },
+  {
+    "unit": 3,
+    "page": 110,
+    "filename": "Unit_3_5.txt",
+    "section_title": "Stem Cells & Cancer",
+    "page_num_in_file": 15,
+    "slide_title": "Cancer",
+    "original_text": "Cancer",
+    "explanation": "Study this complete page carefully. Focus on every named term, relationship, process, example, qualification, and exception shown in the notes, then answer the recall prompt below.",
+    "questions": [
+      {
+        "q": "What is the title of the slide shown on this page?",
+        "opts": [
+          "Cancer",
+          "Tumors",
+          "Metastasis",
+          "Causes of Cancer"
+        ],
+        "a": 0,
+        "exp": "The slide is titled 'Cancer'."
+      }
+    ],
+    "legacy_index": 108
+  },
+  {
+    "unit": 3,
+    "page": 111,
+    "filename": "Unit_3_5.txt",
+    "section_title": "Stem Cells & Cancer",
+    "page_num_in_file": 16,
+    "slide_title": "Causes of Cancer",
+    "original_text": "Causes of Cancer¨Proto-oncogenes¤Proteins that promote cell cycle and prevent apoptosisnCell Cycle Gas pedal¨Tumor Suppressor Genes¤Proteins that inhibit cell cycle and promote apoptosisnCell Cycle Brake Pedal\n¨Mutations accumulated can affect the genes that code for these proteins",
+    "explanation": "Cancer is caused by genetic mutations that affect two major classes of cell cycle regulatory genes. Proto-oncogenes code for proteins that promote progression through the cell cycle and prevent apoptosis, functioning as the cell cycle's 'gas pedal'. In contrast, tumor suppressor genes code for proteins that inhibit cell cycle progression and promote apoptosis, acting as the cell cycle's 'brake pedal'. Accumulating mutations in the genes coding for these proteins can lead to uncontrolled cell division.",
+    "questions": [
+      {
+        "q": "How do proto-oncogenes and tumor suppressor genes compare in cell cycle regulation?",
+        "opts": [
+          "Proto-oncogenes act as the brake pedal; tumor suppressors act as the gas pedal.",
+          "Proto-oncogenes act as the gas pedal (promote cycle); tumor suppressors act as the brake pedal (inhibit cycle).",
+          "Both genes promote cell cycle division.",
+          "Both genes act to cause immediate apoptosis."
+        ],
+        "a": 1,
+        "exp": "Proto-oncogenes promote the cell cycle and prevent apoptosis (acting as the 'gas pedal'), while tumor suppressor genes inhibit the cell cycle and promote apoptosis (acting as the 'brake pedal')."
+      }
+    ],
+    "legacy_index": 109
+  },
+  {
+    "unit": 3,
+    "page": 112,
+    "filename": "Unit_3_5.txt",
+    "section_title": "Stem Cells & Cancer",
+    "page_num_in_file": 17,
+    "slide_title": "Causes of Cancer",
+    "original_text": "Causes of Cancer¨Mutation may cause over stimulation of oncogene to produce proteins, or gene or chromosome duplication can result in more copies of the gene¤rasgene family most commonly affectednBRCA1 in breast cancer¨Mutations or chromosome deletions can result in abnormal or missing tumor suppressors¤½ of all human cancers have broken or missing p53 gene¨Many more examples you may find in future courses",
+    "explanation": "Mutations can lead to cancer by overstimulating proto-oncogenes to form oncogenes, or through gene/chromosome duplications that increase gene copy number. The ras gene family is the most commonly affected proto-oncogene family, and BRCA1 is a well-known example linked to breast cancer. Conversely, mutations or chromosome deletions can result in abnormal or missing tumor suppressors. Notably, approximately half (1/2) of all human cancers are associated with a broken or missing p53 tumor suppressor gene.",
+    "questions": [
+      {
+        "q": "Approximately what fraction of all human cancers are associated with a broken or missing p53 tumor suppressor gene?",
+        "opts": [
+          "1/10",
+          "1/4",
+          "1/2",
+          "9/10"
+        ],
+        "a": 2,
+        "exp": "The slide states that half (1/2) of all human cancers have a broken or missing p53 gene."
+      },
+      {
+        "q": "Which of the following is an example of an oncogene/gene family mentioned on this page?",
+        "opts": [
+          "p53",
+          "ras family (and BRCA1)",
+          "Caspase-3",
+          "Tubulin-alpha"
+        ],
+        "a": 1,
+        "exp": "The slide lists the ras gene family (and BRCA1 in breast cancer) as examples where mutations can cause overstimulation."
+      }
+    ],
+    "legacy_index": 110
+  },
+  {
+    "unit": 3,
+    "page": 113,
+    "filename": "Unit_3_5.txt",
+    "section_title": "Stem Cells & Cancer",
+    "page_num_in_file": 18,
+    "slide_title": "Cell Cycle Regulation and Cancer",
+    "original_text": "Cell Cycle Regulation and Cancer",
+    "explanation": "This page serves as a final transition or summary slide for Cell Cycle Regulation and Cancer.",
+    "questions": [
+      {
+        "q": "What is the title of the slide shown on this page?",
+        "opts": [
+          "Cell Cycle Regulation and Cancer",
+          "Proto-oncogene Mutations",
+          "p53 Mechanisms",
+          "Pluripotent Differentiation"
+        ],
+        "a": 0,
+        "exp": "The slide is titled 'Cell Cycle Regulation and Cancer'."
+      }
+    ],
+    "legacy_index": 111
+  }
+]

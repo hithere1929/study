@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 67,
+  "filename": "Unit_3_3.txt",
+  "section_title": "Chromosomes",
+  "page_num_in_file": 8,
+  "slide_title": "Chromosome Number",
+  "original_text": "Chromosome Number\nEvery species has characteristic number of chromosomes per cell; some can have same number \nNumber of chromosomes/cell does not necessarily correlate with organism complexity \nSome plants and simple multicellular organisms have more chromosomes than humans \nRank the following organisms 1-11 by chromosome # (lowest to highest)",
+  "explanation": "Every species has a characteristic number of chromosomes per cell, though different species can sometimes share the exact same number. Importantly, the number of chromosomes per cell does not correlate with an organism's biological complexity; for example, some plants and simple multicellular organisms possess more chromosomes than humans.",
+  "questions": [
+    {
+      "q": "Which of the following statements about chromosome number is true?",
+      "opts": [
+        "More complex organisms always have more chromosomes.",
+        "Every species has a characteristic number of chromosomes per cell, and complexity does not correlate with this number.",
+        "No two species can ever share the same number of chromosomes.",
+        "Humans have the highest number of chromosomes of any organism."
+      ],
+      "a": 1,
+      "exp": "The slide states that every species has a characteristic number of chromosomes, and this number does not necessarily correlate with organism complexity (some simple organisms have more than humans)."
+    }
+  ]
+}

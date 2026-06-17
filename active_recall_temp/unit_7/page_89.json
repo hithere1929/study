@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 89,
+  "filename": "Unit_7_5.txt",
+  "section_title": "Animal Organization",
+  "page_num_in_file": 16,
+  "slide_title": "The Integumentary System: Accessory Structures of Human Skin",
+  "original_text": "The Integumentary System Accessory structures of Human Skin Nails Grow from nail root and form protective covering of distal portion of fingers and toes Epithelial cells growing from nail root; cells keratinize as they move across nail bed. Hair follicles Begin in the dermis and continue through the epidermis Hair shape based upon shape of hair shaft Hair made of dead, hardened epidermal cells; root alive. nContain oil glands (sebaceous glands) which secrete sebum Lubricates the hair within the follicle as well as the skin Sweat Glands Open into hair follicle or connect to surface of skin Used for modification of body temperature",
+  "explanation": "Human skin contains several accessory structures: 1) Nails: grow from the nail root and provide a protective covering for the distal ends of fingers and toes. They are composed of epithelial cells that keratinize and harden as they grow across the nail bed. 2) Hair follicles: begin in the dermis and extend through the epidermis. Hair is composed of dead, hardened epidermal cells (though the root remains alive), and its shape depends on the shape of the hair shaft. 3) Sebaceous (oil) glands: secrete sebum, an oily substance that lubricates and waterproofs the hair and skin. 4) Sweat glands: open either into hair follicles or directly onto the skin surface, secreting sweat to regulate body temperature through evaporative cooling.",
+  "questions": [
+    {
+      "q": "What is the function of sebaceous glands?",
+      "opts": [
+        "They secrete sweat to cool the body down.",
+        "They secrete sebum to lubricate the hair and skin.",
+        "They produce keratin to harden the nails.",
+        "They produce melanin to protect against UV radiation."
+      ],
+      "a": 1,
+      "exp": "Sebaceous glands secrete sebum, an oily mixture that lubricates hair follicles and skin surfaces."
+    },
+    {
+      "q": "What is hair structurally composed of?",
+      "opts": [
+        "Living osteocytes arranged in concentric circles",
+        "Dead, hardened epidermal cells",
+        "Loose fibrous connective tissue with elastic fibers",
+        "Intercalated disks containing pacemaker cells"
+      ],
+      "a": 1,
+      "exp": "Hair is composed of dead, hardened epidermal cells that grow out of hair follicles, although the root in the follicle is alive."
+    }
+  ]
+}

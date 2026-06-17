@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 14,
+  "filename": "Unit_8_1.txt",
+  "section_title": "Behavioral Ecology",
+  "page_num_in_file": 14,
+  "slide_title": "Behaviors that Increase Fitness¨Societies and Fitness¤Living in a society has a greater reproductive benefit than reproductive costnBenefits of group living include avoiding predators, rearing offspring, and finding food more easilynGroup living can result in disputes over feeding places and sleeping sites¤Dominance hierarchies are a way to apportion resourcesnHigher-ranking individuals have greater access to essential resourcesnMales and females may form separate dominance hierarchies",
+  "original_text": "Behaviors that Increase Fitness¨Societies and Fitness¤Living in a society has a greater reproductive benefit than reproductive costnBenefits of group living include avoiding predators, rearing offspring, and finding food more easilynGroup living can result in disputes over feeding places and sleeping sites¤Dominance hierarchies are a way to apportion resourcesnHigher-ranking individuals have greater access to essential resourcesnMales and females may form separate dominance hierarchies",
+  "explanation": "Living in a society is adaptive because the reproductive benefits of group living outweigh the reproductive costs. Key benefits of social grouping include enhanced predator avoidance, cooperative rearing of offspring, and easier food location. However, group living also carries costs, such as disputes over limited feeding locations and sleeping sites. To resolve conflicts and organize resource allocation, societies often establish dominance hierarchies. In these systems, higher-ranking individuals gain preferential access to essential resources. Males and females within the same society may establish separate dominance hierarchies.",
+  "questions": [
+    {
+      "q": "What is a major reproductive benefit of living in a society?",
+      "opts": [
+        "Elimination of all disputes over resources",
+        "Avoiding predators, rearing offspring, and finding food more easily",
+        "Complete reduction of individual energy requirements",
+        "Avoidance of sexual selection pressures"
+      ],
+      "a": 1,
+      "exp": "The notes list the benefits of group living: 'avoiding predators, rearing offspring, and finding food more easily.'"
+    },
+    {
+      "q": "What role do dominance hierarchies play in animal societies?",
+      "opts": [
+        "They eliminate the need for reproduction.",
+        "They serve as a way to apportion resources, giving higher-ranking individuals greater access.",
+        "They prevent males from mating with females.",
+        "They guarantee that all individuals receive equal food and shelter."
+      ],
+      "a": 1,
+      "exp": "The notes explain that 'Dominance hierarchies are a way to apportion resources' and 'Higher-ranking individuals have greater access to essential resources.'"
+    }
+  ]
+}

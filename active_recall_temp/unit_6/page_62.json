@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 62,
+  "filename": "Unit_6_5.txt",
+  "section_title": "Plant Evolution & Diversity",
+  "page_num_in_file": 12,
+  "slide_title": "Diversity -Gymnosperms\u00a8Since seeds are not enclosed by fruit, termed \u201cnaked\u201d seeds\u00a8Broken down into 4 groups\u00a4ConifersnHave conesnMonecious (plant carries both male and female parts)nPines, redwood\u00a4CycadsnMore tropical, used in landscapingnTend to be pollinated by insects instead of wind\u00a4GinkgoesnDominant in fossil record, but only one surviving species, Ginkgo bilobanDioecious \u2013either male or female plant\u00a4Gnetophytesn3 living genera and 70 speciesnVaried appearance based on location",
+  "original_text": "Diversity -Gymnosperms\u00a8Since seeds are not enclosed by fruit, termed \u201cnaked\u201d seeds\u00a8Broken down into 4 groups\u00a4ConifersnHave conesnMonecious (plant carries both male and female parts)nPines, redwood\u00a4CycadsnMore tropical, used in landscapingnTend to be pollinated by insects instead of wind\u00a4GinkgoesnDominant in fossil record, but only one surviving species, Ginkgo bilobanDioecious \u2013either male or female plant\u00a4Gnetophytesn3 living genera and 70 speciesnVaried appearance based on location",
+  "explanation": "Gymnosperms are seed plants whose seeds are not enclosed by fruit, earning them the term 'naked' seeds. They are divided into 4 groups: 1) Conifers, which produce cones, are monoecious (monecious - both male and female reproductive structures on the same plant), and include pines and redwoods; 2) Cycads, which are tropical plants used in landscaping that tend to be pollinated by insects rather than wind; 3) Ginkgoes, which were dominant in the fossil record but are now represented by only one surviving species, Ginkgo biloba (which is dioecious, meaning individual plants are either male or female); and 4) Gnetophytes, which contain 3 living genera and 70 species, exhibiting varied appearances depending on their location.",
+  "questions": [
+    {
+      "q": "What does the term monoecious (monecious) mean in relation to conifers?",
+      "opts": [
+        "The plant has flagellated sperm.",
+        "The plant carries both male and female reproductive parts on a single individual.",
+        "The seeds are enclosed in a diploid fruit tissue.",
+        "Individual plants are either strictly male or strictly female."
+      ],
+      "a": 1,
+      "exp": "The notes define 'Monecious' as a plant that 'carries both male and female parts'."
+    },
+    {
+      "q": "Which gymnosperm group contains only one single surviving species, and what is its name?",
+      "opts": [
+        "Conifers; Redwood",
+        "Ginkgoes; Ginkgo biloba",
+        "Cycads; Cycas",
+        "Gnetophytes; Ephedra"
+      ],
+      "a": 1,
+      "exp": "The notes state that Ginkgoes have 'only one surviving species, Ginkgo biloba'."
+    },
+    {
+      "q": "What is unique about cycad pollination compared to most gymnosperms?",
+      "opts": [
+        "They are pollinated by water currents.",
+        "They tend to be pollinated by insects instead of wind.",
+        "They do not require pollination.",
+        "They are pollinated strictly by nocturnal mammals."
+      ],
+      "a": 1,
+      "exp": "The notes state that cycads 'Tend to be pollinated by insects instead of wind'."
+    }
+  ]
+}

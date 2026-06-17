@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 13,
+  "filename": "Unit_4_1.txt",
+  "section_title": "DNA Advances through 20th Century",
+  "page_num_in_file": 13,
+  "slide_title": "50 Years Later",
+  "original_text": "50 Years Later\nApril 2003, Conference announcing the completion of the Human Genome ProjectBethesda, MD, National Institute of Health (NIH)",
+  "explanation": "This slide notes the 50-year anniversary of the Watson and Crick double helix publication (1953 to 2003). In April 2003, a major conference held at the National Institutes of Health (NIH) in Bethesda, Maryland, announced the completion of the Human Genome Project, marking a monumental milestone in molecular genetics.",
+  "questions": [
+    {
+      "q": "What milestone in genetics was announced 50 years after the discovery of the DNA double helix?",
+      "opts": [
+        "The discovery of RNA structure",
+        "The completion of the Human Genome Project",
+        "The invention of PCR",
+        "The first cloned mammal (Dolly)"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states that in April 2003 (50 years after the 1953 model), a conference announced the completion of the Human Genome Project. Options A, C, and D are incorrect."
+    }
+  ]
+}

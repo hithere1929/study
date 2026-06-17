@@ -1,0 +1,23 @@
+{
+  "unit": 8,
+  "page": 33,
+  "filename": "Unit_8_2.txt",
+  "section_title": "Population Ecology",
+  "page_num_in_file": 18,
+  "slide_title": "Human Population Growth¨Age Distributions¤Populations of MDCs and LDCs can be divided into three age groupsnPrereproductivenReproductivenPostreproductive¤MDCs and LDCs have different age structure diagramsnMany MDCs have a stable age structurenMost LDCs have a youthful profile and are experiencing population growthnEven reducing births to 2 per family in LDC would result in population growth because of age profile",
+  "original_text": "Human Population Growth¨Age Distributions¤Populations of MDCs and LDCs can be divided into three age groupsnPrereproductivenReproductivenPostreproductive¤MDCs and LDCs have different age structure diagramsnMany MDCs have a stable age structurenMost LDCs have a youthful profile and are experiencing population growthnEven reducing births to 2 per family in LDC would result in population growth because of age profile",
+  "explanation": "Human age distribution is split into prereproductive, reproductive, and postreproductive groups. MDCs and LDCs exhibit highly distinct age structure diagrams. Many MDCs possess a stable age structure. In contrast, most LDCs have a youthful age profile and are experiencing rapid population growth. Due to this youthful profile, even if LDCs immediately reduced birth rates to 2 children per family (replacement level), the population would continue to grow for some time (a phenomenon known as population momentum).",
+  "questions": [
+    {
+      "q": "Why would reducing births to 2 children per family in Less-Developed Countries (LDCs) still result in population growth?",
+      "opts": [
+        "Because LDCs have a highly stable age structure.",
+        "Because LDCs have a youthful age profile, which ensures continued growth as children enter reproductive age.",
+        "Because MDCs would begin migrating to LDCs in large numbers.",
+        "Because LDCs have higher postreproductive survival rates than MDCs."
+      ],
+      "a": 1,
+      "exp": "The notes state that 'Even reducing births to 2 per family in LDC would result in population growth because of age profile' referring to their 'youthful profile.'"
+    }
+  ]
+}

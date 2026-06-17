@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 78,
+  "filename": "Unit_5_4.txt",
+  "section_title": "Principles of Taxonomy & Systematics",
+  "page_num_in_file": 9,
+  "slide_title": "Phylogeny",
+  "original_text": "Phylogeny\n\u00a8Systematicsis the study of diversity of organisms using information from cellular to population levels\n\u00a8One goal of systematics is to determine phylogeny(evolutionary history) of a group\n\u00a8Phylogeny is often represented as a phylogenetic tree\n\u00a4A diagram indicating lines of descent\n\u00a4Each branching point:\n  nIs a divergence from a common ancestor\n  nRepresents an organism that gives rise to two or more new groups\n\u00a8Classification lists the unique characters of each taxon and is intended to reflect phylogeny\n\u00a4Ancestral traits:\n  nPresent in all members of a group, and\n  nPresent in the common ancestor\n\u00a4Derived traits:\n  nPresent in some members of a group, but absent in the common ancestor",
+  "explanation": "Systematics is the study of the diversity of organisms using data ranging from the cellular to the population level. A primary goal of systematics is to determine the phylogeny, or evolutionary history, of a group. This history is typically depicted using a phylogenetic tree, which is a diagram showing lines of descent. Each branching point on the tree represents a divergence from a common ancestor and indicates an ancestral organism that gave rise to two or more new groups. Modern biological classification is designed to reflect this phylogeny by analyzing characters: ancestral traits are present in all members of a group and in their common ancestor, while derived traits are unique to only some members of a group and were absent in their common ancestor.",
+  "questions": [
+    {
+      "q": "What represents the divergence from a common ancestor on a phylogenetic tree?",
+      "opts": [
+        "The terminal tips of the branches",
+        "Each branching point (node)",
+        "The horizontal lines of the tree only",
+        "The title of the cladogram"
+      ],
+      "a": 1,
+      "exp": "Each branching point (node) on a phylogenetic tree represents a divergence from a common ancestor, showing where one lineage split into two or more new groups."
+    },
+    {
+      "q": "What is the difference between ancestral and derived traits?",
+      "opts": [
+        "Ancestral traits are present in all group members and the common ancestor; derived traits are only in some members and absent in the common ancestor.",
+        "Ancestral traits are acquired during life; derived traits are coded in DNA.",
+        "Ancestral traits only occur in bacteria; derived traits only occur in eukaryotes.",
+        "Ancestral traits are homologous; derived traits are analogous."
+      ],
+      "a": 0,
+      "exp": "Ancestral traits are shared by all members because they were inherited from the common ancestor, whereas derived traits evolved later and are present in only a subset of the group."
+    }
+  ]
+}

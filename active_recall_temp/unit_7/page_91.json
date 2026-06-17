@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 91,
+  "filename": "Unit_7_5.txt",
+  "section_title": "Animal Organization",
+  "page_num_in_file": 18,
+  "slide_title": "Homeostasis: Definition & Organ Contributions",
+  "original_text": "Homeostasis The organ systems of the human body contribute to homeostasis: The ability of an organism to maintain a relatively constant internal environment Animals vary to the degree in which they can regulate internal variables. The digestive system Takes in and digests food Provides nutrient molecules that replace used nutrients The respiratory system Adds oxygen to the blood Removes carbon dioxide The liver and the kidneys Store excess glucose as glycogen Later, glycogen is broken down to replace the glucose used The hormone insulin regulates glycogen storage The kidneys Under hormonal control as they excrete wastes and salts",
+  "explanation": "Homeostasis is the ability of an organism to maintain a relatively constant internal environment despite changes in the outer environment. Different organ systems cooperate to maintain homeostasis: 1) Digestive system: processes food to supply nutrient molecules. 2) Respiratory system: absorbs oxygen and excretes carbon dioxide. 3) Liver and kidneys: store excess glucose as glycogen (regulated by the hormone insulin) and break it down when blood glucose levels fall. 4) Kidneys: excrete metabolic wastes, excess water, and salts under hormonal control.",
+  "questions": [
+    {
+      "q": "What is the definition of homeostasis?",
+      "opts": [
+        "The ability of an organism to reproduce asexually",
+        "The ability of an organism to maintain a relatively constant internal environment",
+        "The process of cellular differentiation in tissue cultures",
+        "The transport of nutrients through the phloem"
+      ],
+      "a": 1,
+      "exp": "Homeostasis is the physiological maintenance of a stable internal environment within an organism."
+    },
+    {
+      "q": "Which hormone is responsible for regulating glycogen storage in the liver and kidneys?",
+      "opts": [
+        "Auxin",
+        "Insulin",
+        "Gibberellin",
+        "Systemin"
+      ],
+      "a": 1,
+      "exp": "Insulin is the hormone that regulates the storage of excess glucose as glycogen in the liver and kidneys."
+    }
+  ]
+}

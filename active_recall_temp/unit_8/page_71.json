@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 71,
+  "filename": "Unit_8_4.txt",
+  "section_title": "Photosynthesis",
+  "page_num_in_file": 18,
+  "slide_title": "Other Types of Photosynthesis¨CAMPhotosynthesis¤Crassulacean-Acid Metabolism¤CAM plants partition carbon fixation by timenDuring the nightnCAM plants fix CO2nForm C4molecules, which arenStored in large vacuolesnDuring daylightnNADPH and ATP are availablenStomata are closed for water conservationnC4molecules release CO2to Calvin cycle",
+  "original_text": "Other Types of Photosynthesis¨CAMPhotosynthesis¤Crassulacean-Acid Metabolism¤CAM plants partition carbon fixation by timenDuring the nightnCAM plants fix CO2nForm C4molecules, which arenStored in large vacuolesnDuring daylightnNADPH and ATP are availablenStomata are closed for water conservationnC4molecules release CO2to Calvin cycle",
+  "explanation": "CAM (Crassulacean-Acid Metabolism) photosynthesis is another adaptation to dry climates, where carbon fixation is partitioned by time. During the night, CAM plants open their stomata to capture CO2, converting it into C4 molecules that are stored in large cell vacuoles. During the day, they close their stomata to conserve water, and use light-dependent ATP and NADPH to run the Calvin cycle, releasing CO2 from the stored C4 molecules.",
+  "questions": [
+    {
+      "q": "How do CAM plants partition carbon fixation compared to C4 plants?",
+      "opts": [
+        "CAM plants partition carbon fixation by space, while C4 plants partition it by time.",
+        "CAM plants partition carbon fixation by time (night vs. day), while C4 plants partition it by space (different cells).",
+        "CAM plants fix carbon in the soil, while C4 plants fix carbon in the atmosphere.",
+        "CAM plants perform photosynthesis without using the Calvin cycle."
+      ],
+      "a": 1,
+      "exp": "The notes state: 'CAM plants partition carbon fixation by time. During the night, CAM plants fix CO2... During daylight, stomata are closed... C4 molecules release CO2 to Calvin cycle.'"
+    },
+    {
+      "q": "Where do CAM plants store the C4 molecules they form during the night?",
+      "opts": [
+        "In the stomata",
+        "In chloroplast stroma",
+        "In large vacuoles",
+        "In vascular tissue"
+      ],
+      "a": 2,
+      "exp": "The notes state that during the night, CAM plants fix CO2 to form C4 molecules, which are 'Stored in large vacuoles.'"
+    }
+  ]
+}

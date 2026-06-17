@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 9,
+  "filename": "Unit_5_1.txt",
+  "section_title": "Darwin & Evidence for Evolution",
+  "page_num_in_file": 9,
+  "slide_title": "Darwin\u2019s Theory of Evolution",
+  "original_text": "Darwin\u2019s Theory of Evolution\n\u00a8Biogeography is the study of the range and geographic distribution of life-forms on Earth.\n\u00a8Darwin compared South American animals to those with which he was familiar.\n\u00a4Instead of rabbits, he found the Patagonian cavy in the grasslands of South America. The Patagonian cavy has long legs and ears but the face of a guinea pig.\n   nDid the Patagonian cavy resemble a rabbit because the two types of animals were adapted to the same type of environment?\n   nBoth animals ate grass, hid in bushes, and moved rapidly using long hind legs.\n   nDid the Patagonian cavy have the face of a guinea pig because of common descent with guinea pigs?",
+  "explanation": "Biogeography refers to the study of the geographic range and distribution of living organisms across the globe. During his voyage, Charles Darwin compared animals unique to South America with those he was familiar with from Europe. For instance, instead of rabbits, he observed the Patagonian cavy in South American grasslands. The cavy possesses long legs and ears, similar to a rabbit, but has the facial structure of a guinea pig. Darwin hypothesized that the morphological similarities between the cavy and the rabbit (eating grass, hiding in bushes, and moving quickly using long hind legs) were adaptations to a similar grassland environment. Concurrently, he questioned whether its guinea pig-like face was a result of common descent from shared ancestral guinea pigs.",
+  "questions": [
+    {
+      "q": "Why did the Patagonian cavy resemble a rabbit, despite having the facial structure of a guinea pig, according to Darwin's reasoning?",
+      "opts": [
+        "They are members of the exact same species.",
+        "Both animals adapted to similar grassland environments through similar behaviors and physical traits.",
+        "The rabbit is a direct descendant of the Patagonian cavy.",
+        "The cavy's rabbit-like traits were artificial adaptations selected by human breeders."
+      ],
+      "a": 1,
+      "exp": "Darwin reasoned that the resemblance (long hind legs, eating grass, hiding in bushes) arose because both animals adapted to similar ecological niches in grassland environments, while the facial shape reflects common descent with guinea pigs."
+    },
+    {
+      "q": "What is the study of the range and geographic distribution of life-forms on Earth called?",
+      "opts": [
+        "Paleontology",
+        "Comparative Anatomy",
+        "Biogeography",
+        "Embryology"
+      ],
+      "a": 2,
+      "exp": "Biogeography is defined as the scientific study of the geographic distribution and ranges of plants and animals on Earth."
+    }
+  ]
+}

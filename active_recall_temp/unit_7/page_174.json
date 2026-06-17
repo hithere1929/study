@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 174,
+  "filename": "Unit_7_9.txt",
+  "section_title": "Sense Organs",
+  "page_num_in_file": 14,
+  "slide_title": "Senses of Hearing and Balance: Balance (Equilibrium)",
+  "original_text": "Senses of Hearing and Balance Mechanoreceptors for Equilibrium Rotational Equilibrium Ampullae of semi-circular canal contain hairs Shift when rotational force occurs Sends nerve impulse to vestibular nerve Gravitational Equilibrium Utricle and saccule contain hair cells When head bends, hairs shift in the membrane fluid Sends nerve impulse to vestibular nerve The different nerve impulses let the brain know head orientation at all times",
+  "explanation": "The inner ear contains mechanoreceptors for two types of balance: 1) Rotational Equilibrium: detects angular or rotational acceleration. The ampullae (swollen bases) of the semicircular canals contain hair cells that bend when head rotation causes fluid movement, sending impulses via the vestibular nerve. 2) Gravitational Equilibrium: detects straight-line acceleration and head position relative to gravity. The utricle and saccule within the vestibule contain hair cells. When the head bends or accelerates, hair cells shift in the membrane fluid, sending impulses along the vestibular nerve.",
+  "questions": [
+    {
+      "q": "What structures sense rotational (angular) equilibrium?",
+      "opts": [
+        "The cochlea and organ of Corti",
+        "The semicircular canals (specifically within the ampullae)",
+        "The tympanic membrane and Eustachian tube",
+        "The lateral line system and ommatidia"
+      ],
+      "a": 1,
+      "exp": "Rotational equilibrium is detected by hair cells located in the ampullae at the base of the semicircular canals."
+    },
+    {
+      "q": "Which chambers of the vestibule detect gravitational equilibrium (straight-line movement and head tilt)?",
+      "opts": [
+        "Malleus and incus",
+        "Utricle and saccule",
+        "Bicuspid and tricuspid",
+        "Rods and cones"
+      ],
+      "a": 1,
+      "exp": "The utricle and saccule are the two chambers of the vestibule that detect linear acceleration and gravity."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 65,
+  "filename": "Unit_5_3.txt",
+  "section_title": "Speciation & Macroevolution",
+  "page_num_in_file": 16,
+  "slide_title": "Principles of Macroevolution",
+  "original_text": "Principles of Macroevolution\n\u00a8Macroevolution\n\u00a4Evolution at the species or higher level of classification\n\u00a8Some evolutionists support a gradualisticmodel\n  nEvolution at the species level occurs gradually\n  nSpeciation occurs after populations become isolated\n  nEach group continues its own evolutionary pathway\n  nThe gradualisticmodel suggests that it is difficult to indicate when speciation occurred\n\u00a8Some paleontologists support the punctuated equilibrium model\n  nSpecies can appear quite suddenly\n  nSpecies then remain essentially unchanged phenotypically during a period of stasis (sameness) until they undergo extinction.\n  nThis model states that periods of equilibrium are punctuated by speciation",
+  "explanation": "Macroevolution is evolution occurring at the species level or higher levels of classification. The slide contrasts two scientific models of macroevolutionary change: (1) The Gradualistic Model, which proposes that species evolve slowly and incrementally over time after populations become isolated, meaning that speciation is a gradual process and it is difficult to pinpoint the exact moment a new species emerged; and (2) The Punctuated Equilibrium Model, supported by many paleontologists, which suggests that species appear suddenly in the geological record and then experience long periods of stasis (phenotypic stability or sameness) until extinction, meaning that long periods of equilibrium are punctuated by rapid bursts of speciation.",
+  "questions": [
+    {
+      "q": "What is the difference between the gradualistic model and the punctuated equilibrium model of macroevolution?",
+      "opts": [
+        "The gradualistic model only applies to plants, while punctuated equilibrium applies to animals.",
+        "The gradualistic model proposes slow, continuous change, whereas punctuated equilibrium proposes sudden appearance followed by long periods of stasis.",
+        "The gradualistic model requires mutations, while punctuated equilibrium does not.",
+        "The gradualistic model is driven by genetic drift, while punctuated equilibrium is driven by natural selection."
+      ],
+      "a": 1,
+      "exp": "The gradualistic model proposes that evolution occurs slowly and continuously, whereas the punctuated equilibrium model proposes that species appear suddenly and remain unchanged (stasis) for long periods before extinction."
+    },
+    {
+      "q": "What is 'stasis' in the context of the punctuated equilibrium model?",
+      "opts": [
+        "A period of rapid phenotypic change",
+        "A period of phenotypic stability or sameness where species remain unchanged",
+        "The sudden extinction of a species",
+        "The movement of alleles between populations"
+      ],
+      "a": 1,
+      "exp": "Stasis refers to a state of equilibrium where a species remains phenotypically unchanged over long geological periods."
+    }
+  ]
+}

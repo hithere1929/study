@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 8,
+  "filename": "Unit_4_1.txt",
+  "section_title": "DNA Advances through 20th Century",
+  "page_num_in_file": 8,
+  "slide_title": "Historical Basis -Avery¨Early 1940’s America: Oswald Avery sought to determine whether transforming agentfrom Griffith’s experiment was protein, RNA or DNA¨Enzymeswere used to destroy each of the 3 molecules in heat-killed S cells¤Protease: destroys protein(experiment 1)¤RNase: destroys RNA(experiment 2)¤DNase: destroys DNA(experiment 3)¨Mixed experimental batches of heat-killed S cells with live R cells and injected into mice¨Findings:¤Cells missing protein and RNA were still able to transform R cells: mice died¤Cells missing DNA could NOT transform R cells:  mice lived¨Conclusion: DNAis the molecule responsiblefor transformation of bacteria",
+  "original_text": "Historical Basis -Avery¨Early 1940’s America: Oswald Avery sought to determine whether transforming agentfrom Griffith’s experiment was protein, RNA or DNA¨Enzymeswere used to destroy each of the 3 molecules in heat-killed S cells¤Protease: destroys protein(experiment 1)¤RNase: destroys RNA(experiment 2)¤DNase: destroys DNA(experiment 3)¨Mixed experimental batches of heat-killed S cells with live R cells and injected into mice¨Findings:¤Cells missing protein and RNA were still able to transform R cells: mice died¤Cells missing DNA could NOT transform R cells:  mice lived¨Conclusion: DNAis the molecule responsiblefor transformation of bacteria",
+  "explanation": "In the early 1940s in America, Oswald Avery set out to identify the chemical identity of the transforming agent from Griffith's experiment, specifically evaluating whether it was protein, RNA, or DNA. He used selective enzymes to destroy these molecules in heat-killed S (smooth, virulent) cells: Protease to destroy protein, RNase to destroy RNA, and DNase to destroy DNA. He then mixed each treated batch of heat-killed S cells with live R (rough, non-virulent) cells and injected them into mice. He observed that R cells mixed with heat-killed S cells missing protein or RNA were still successfully transformed, causing the mice to die. However, the mixture missing DNA could not transform the R cells, and the mice lived. Avery concluded that DNA is the molecule responsible for the transformation of bacteria, establishing it as the transforming agent.",
+  "questions": [
+    {
+      "q": "In Avery's experiment, what was the effect of treating heat-killed S cells with DNase?",
+      "opts": [
+        "Transformation still occurred, and the injected mice died.",
+        "Transformation did not occur, and the injected mice lived.",
+        "The R cells mutated into a new, antibiotic-resistant strain.",
+        "The enzymes digested the proteins, leaving DNA intact."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because DNase destroys DNA, and the slide states that 'Cells missing DNA could NOT transform R cells: mice lived.' Option A describes the outcome when protease or RNase was used. Options C and D are incorrect."
+    },
+    {
+      "q": "Which enzyme was used by Oswald Avery to selectively destroy protein in the heat-killed bacterial cells?",
+      "opts": [
+        "DNase",
+        "RNase",
+        "Protease",
+        "Amylase"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide explicitly states that 'Protease: destroys protein'. Options A and B destroy DNA and RNA, respectively, and option D is not mentioned in the experiment."
+    }
+  ]
+}

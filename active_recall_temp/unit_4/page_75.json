@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 75,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 26,
+  "slide_title": "Gene Mutations¨A gene mutation is a permanent change in the sequence of bases in DNA¨The effects of a gene mutation can range from¤No effect on protein activity to¤Complete inactivation of the protein¨Germ-line mutations occur in sex cells¨Somatic mutations occur in body cells",
+  "original_text": "Gene Mutations¨A gene mutation is a permanent change in the sequence of bases in DNA¨The effects of a gene mutation can range from¤No effect on protein activity to¤Complete inactivation of the protein¨Germ-line mutations occur in sex cells¨Somatic mutations occur in body cells",
+  "explanation": "A gene mutation is defined as a permanent alteration in the sequence of bases within DNA. The consequences of a gene mutation are highly variable, ranging from having no effect on protein activity to causing the complete inactivation of the encoded protein. Mutations are categorized by cell type: germ-line mutations occur in sex cells (gametes) and can be inherited by offspring, whereas somatic mutations occur in body (somatic) cells and affect only the organism in which they arise.",
+  "questions": [
+    {
+      "q": "What is the definition of a gene mutation, and what is its range of effects on proteins?",
+      "opts": [
+        "A temporary change in mRNA bases; it always destroys protein activity.",
+        "A permanent change in DNA base sequence; its effects range from no effect on protein activity to complete inactivation.",
+        "A change in ribosomal RNA structure; it always increases protein activity.",
+        "A modification of histone proteins; it has no effect on protein activity."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide defines a gene mutation as 'a permanent change in the sequence of bases in DNA' and notes that its effects 'can range from No effect on protein activity to Complete inactivation of the protein.' The other options are incorrect."
+    },
+    {
+      "q": "Where do germ-line mutations and somatic mutations occur, respectively?",
+      "opts": [
+        "Germ-line mutations occur in somatic cells; somatic mutations occur in gametes.",
+        "Germ-line mutations occur in sex cells; somatic mutations occur in body cells.",
+        "Germ-line mutations occur in prokaryotes; somatic mutations occur in eukaryotes.",
+        "Germ-line mutations occur in the cytoplasm; somatic mutations occur in the nucleus."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'Germ-line mutations occur in sex cells' and 'Somatic mutations occur in body cells.' The other choices swap or misrepresent these locations."
+    }
+  ]
+}

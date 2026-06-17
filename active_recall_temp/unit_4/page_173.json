@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 173,
+  "filename": "Unit_4_8.txt",
+  "section_title": "Mendelian Inheritance P1 - Mendelian Genetics",
+  "page_num_in_file": 31,
+  "slide_title": "Mendel’s laws¨Testcrosses¤Individuals with recessive phenotype always have the homozygous recessive genotype¤However, individuals with dominant phenotype have indeterminate genotypenMay be homozygous dominant, ornHeterozygous¤A testcross determines the genotype of an individual having the dominant phenotype¨Two-trait testcross:¤An individual with both dominant phenotypes is crossed with an individual with both recessive phenotypes.¤If the individual with the dominant phenotypes is heterozygous for both traits, the expected phenotypic ration is 1:1:1:1",
+  "original_text": "Mendel’s laws¨Testcrosses¤Individuals with recessive phenotype always have the homozygous recessive genotype¤However, individuals with dominant phenotype have indeterminate genotypenMay be homozygous dominant, ornHeterozygous¤A testcross determines the genotype of an individual having the dominant phenotype¨Two-trait testcross:¤An individual with both dominant phenotypes is crossed with an individual with both recessive phenotypes.¤If the individual with the dominant phenotypes is heterozygous for both traits, the expected phenotypic ration is 1:1:1:1",
+  "explanation": "A testcross is used to determine the genotype of an individual displaying a dominant phenotype, since their genotype is indeterminate (could be homozygous dominant or heterozygous), while individuals with a recessive phenotype are always homozygous recessive. In a two-trait testcross, an individual expressing both dominant phenotypes is crossed with an individual displaying both recessive phenotypes. If the dominant individual is heterozygous for both genes, the offspring will show a phenotypic ratio of 1:1:1:1.",
+  "questions": [
+    {
+      "q": "What is the purpose of a genetic testcross?",
+      "opts": [
+        "To determine if a mutation has occurred.",
+        "To determine the genotype of an individual displaying the dominant phenotype.",
+        "To find out which traits are codominant.",
+        "To map genes to sex chromosomes."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'A testcross determines the genotype of an individual having the dominant phenotype.'"
+    },
+    {
+      "q": "What is the expected phenotypic ratio from a two-trait testcross if the dominant individual is heterozygous for both traits?",
+      "opts": [
+        "9:3:3:1",
+        "3:1",
+        "1:1:1:1",
+        "1:2:1"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide explains: 'If the individual with the dominant phenotypes is heterozygous for both traits, the expected phenotypic ration is 1:1:1:1'."
+    }
+  ]
+}

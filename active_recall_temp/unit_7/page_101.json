@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 101,
+  "filename": "Unit_7_6.txt",
+  "section_title": "Circulation & Cardiovascular System",
+  "page_num_in_file": 7,
+  "slide_title": "Transport in Vertebrates: Circulatory Pathways",
+  "original_text": "Transport in Vertebrates Comparison of Circulatory Pathways Fish -Blood flows in single loop Single atrium and single ventricle Amphibians -Blood flows in double loop Systemic circuit and pulmonary circuit Two atria with a single ventricle Other vertebrates -Blood flows in a double loop Heart divided by septum into separate sides",
+  "explanation": "Vertebrate circulatory pathways vary: 1) Fish: have a single-loop pathway, where blood is pumped from a single ventricle to the gills, then to body tissues, and back to a single atrium. 2) Amphibians: have a double-loop pathway (systemic and pulmonary circuits) and a three-chambered heart with two atria and a single ventricle, which leads to some blood mixing. 3) Other vertebrates (birds and mammals): have a double-loop pathway and a four-chambered heart fully divided by a septum into separate left and right sides, preventing blood mixing.",
+  "questions": [
+    {
+      "q": "What type of circulatory pathway and heart structure is found in fish?",
+      "opts": [
+        "Double loop; two atria and a single ventricle",
+        "Single loop; single atrium and single ventricle",
+        "Double loop; heart divided by a septum",
+        "Open loop; no heart chambers"
+      ],
+      "a": 1,
+      "exp": "Fish possess a single-loop circulatory pathway powered by a two-chambered heart consisting of one atrium and one ventricle."
+    },
+    {
+      "q": "How does the heart of an amphibian differ from that of a mammal?",
+      "opts": [
+        "Amphibians have a two-chambered heart, while mammals have a three-chambered heart.",
+        "Amphibians have a three-chambered heart (two atria, one ventricle) with some blood mixing, whereas mammals have a four-chambered heart divided by a septum.",
+        "Amphibians have a closed system, while mammals have an open system.",
+        "Amphibians have only a systemic circuit, while mammals have only a pulmonary circuit."
+      ],
+      "a": 1,
+      "exp": "Amphibians have a three-chambered heart with two atria and a single ventricle, which allows oxygenated and deoxygenated blood to mix. Mammals have a four-chambered heart divided by a septum, keeping the blood streams separate."
+    }
+  ]
+}

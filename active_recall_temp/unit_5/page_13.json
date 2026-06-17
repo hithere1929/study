@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 13,
+  "filename": "Unit_5_1.txt",
+  "section_title": "Darwin & Evidence for Evolution",
+  "page_num_in_file": 13,
+  "slide_title": "Darwin\u2019s Theory of Evolution",
+  "original_text": "Darwin\u2019s Theory of Evolution\n\u00a8Organisms differ in Reproductive Success\n\u00a4Fitnessis the relative reproductive success of an individual\n   nThe most-fit individuals in a population capture a disproportionate share of resources\n   nInteractions with the environment determine which individuals reproduce the most\n\u00a8Organisms become Adapted\n\u00a4Adaptation-Change that helps a species become more suited to its environment\n   nProduct of natural selection",
+  "explanation": "Evolutionary fitness refers to the relative reproductive success of an individual within a population. Individuals with higher fitness are better at securing a disproportionate share of resources, and their interactions with the environment ultimately determine which individuals leave behind the most offspring. Through natural selection, populations undergo adaptation, defined as physical or functional changes that help a species become better suited to its environment over time. Adaptation is the direct product of natural selection acting on inheritable variations.",
+  "questions": [
+    {
+      "q": "How is 'fitness' defined in evolutionary biology based on the provided notes?",
+      "opts": [
+        "The physical strength and speed of an organism",
+        "The relative reproductive success of an individual",
+        "The size of the environment a species occupies",
+        "The number of resources an individual destroys"
+      ],
+      "a": 1,
+      "exp": "Fitness is explicitly defined as the 'relative reproductive success of an individual' in the text."
+    },
+    {
+      "q": "Which of the following is defined as a change that helps a species become more suited to its environment and is the product of natural selection?",
+      "opts": [
+        "Catastrophism",
+        "Acquired trait",
+        "Adaptation",
+        "Fixity of species"
+      ],
+      "a": 2,
+      "exp": "Adaptation is defined as a change that helps a species become more suited to its environment, serving as the product of natural selection."
+    }
+  ]
+}

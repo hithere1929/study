@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 159,
+  "filename": "Unit_7_8.txt",
+  "section_title": "Nervous System",
+  "page_num_in_file": 21,
+  "slide_title": "The Peripheral Nervous System: Sympathetic & Parasympathetic",
+  "original_text": "The Peripheral Nervous System Sympathetic division Especially important during fight or flight responses Accelerates heartbeat and dilates bronchi Norepinephrine main neurotransmitter Parasympathetic division Promotes all internal responses associated with a relaxed state Promotes digestion and retards heartbeat Acetylcholine main neurotransmitter",
+  "explanation": "The autonomic system has two divisions: 1) Sympathetic division: active during stressful 'fight-or-flight' responses. It accelerates heart rate, dilates bronchi (increasing airflow), and inhibits digestion. Its primary postganglionic neurotransmitter is norepinephrine. 2) Parasympathetic division: promotes relaxed 'rest-and-digest' functions. It slows (retards) heart rate and promotes digestion. Its primary postganglionic neurotransmitter is acetylcholine.",
+  "questions": [
+    {
+      "q": "What division of the autonomic nervous system is active during 'fight-or-flight' responses, and what is its main neurotransmitter?",
+      "opts": [
+        "Parasympathetic division; acetylcholine",
+        "Sympathetic division; norepinephrine",
+        "Somatic division; acetylcholine",
+        "Limbic division; dopamine"
+      ],
+      "a": 1,
+      "exp": "The sympathetic division triggers 'fight-or-flight' responses using norepinephrine as its primary postganglionic neurotransmitter."
+    },
+    {
+      "q": "Contrast the physiological effects of the sympathetic and parasympathetic divisions.",
+      "opts": [
+        "Sympathetic slows heartbeat and promotes digestion; parasympathetic accelerates heartbeat and dilates bronchi.",
+        "Sympathetic accelerates heartbeat and dilates bronchi; parasympathetic slows heartbeat and promotes digestion.",
+        "Sympathetic controls skeletal muscle; parasympathetic controls smooth muscle.",
+        "Sympathetic uses acetylcholine; parasympathetic uses norepinephrine."
+      ],
+      "a": 1,
+      "exp": "Sympathetic activation prepares the body for action (higher heart rate, open airways); parasympathetic activation promotes rest and digestion (slower heart rate, active digestive system)."
+    }
+  ]
+}

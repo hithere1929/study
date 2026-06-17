@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 87,
+  "filename": "Unit_7_5.txt",
+  "section_title": "Animal Organization",
+  "page_num_in_file": 14,
+  "slide_title": "The Integumentary System: Functions & Regions of Skin",
+  "original_text": "The Integumentary System Functions of skin Covers and protects underlying body regions Regulates body temperature, and Contains sensory receptors Skin and its derivatives make up the integumentary system Regions of the Skin Epidermis Dermis Subcutaneous Layer",
+  "explanation": "The integumentary system consists of the skin and its accessory structures (such as hair, nails, and glands). The skin has three primary functions: 1) Protection: it covers and protects underlying tissues from mechanical injury, pathogen entry, and dehydration. 2) Temperature regulation: it helps maintain body temperature. 3) Sensory perception: it contains sensory receptors that detect touch, pressure, temperature, and pain. Anatomically, the skin consists of three layers: the superficial epidermis, the deeper dermis, and the underlying subcutaneous layer (hypodermis).",
+  "questions": [
+    {
+      "q": "What structures compose the integumentary system?",
+      "opts": [
+        "The heart, blood vessels, and blood",
+        "The skin and its derivatives (hair, nails, and glands)",
+        "The brain, spinal cord, and nerves",
+        "Bones, cartilage, and ligaments"
+      ],
+      "a": 1,
+      "exp": "The integumentary system includes the skin and accessory structures derived from the skin, such as hair, nails, and cutaneous glands."
+    },
+    {
+      "q": "What are the three main regions of the skin, listed from outermost to innermost?",
+      "opts": [
+        "Dermis, Epidermis, Subcutaneous Layer",
+        "Epidermis, Dermis, Subcutaneous Layer",
+        "Subcutaneous Layer, Epidermis, Dermis",
+        "Epidermis, Subcutaneous Layer, Dermis"
+      ],
+      "a": 1,
+      "exp": "The superficial outer layer is the epidermis, the thick middle layer is the dermis, and the deep anchoring layer is the subcutaneous layer."
+    }
+  ]
+}

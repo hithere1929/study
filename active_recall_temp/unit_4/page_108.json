@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 108,
+  "filename": "Unit_4_6.txt",
+  "section_title": "Meiosis",
+  "page_num_in_file": 2,
+  "slide_title": "Isn’t that just mitosis twice?",
+  "original_text": "Isn’t that just mitosis twice?\nMeiosis",
+  "explanation": "This slide introduces meiosis by comparing it to mitosis, asking if the process is simply 'mitosis twice.'",
+  "questions": [
+    {
+      "q": "Which cell division process is introduced on this slide with a comparison to mitosis?",
+      "opts": [
+        "Binary fission",
+        "Meiosis",
+        "Epigenetic inheritance",
+        "Genomic imprinting"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide is titled 'Meiosis' and asks: 'Isn’t that just mitosis twice?'. The other options are incorrect."
+    }
+  ]
+}

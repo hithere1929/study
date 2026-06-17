@@ -1,0 +1,23 @@
+{
+  "unit": 7,
+  "page": 113,
+  "filename": "Unit_7_6.txt",
+  "section_title": "Circulation & Cardiovascular System",
+  "page_num_in_file": 19,
+  "slide_title": "Blood",
+  "original_text": "Blood",
+  "explanation": "This slide is a divider page introducing the detailed components of blood.",
+  "questions": [
+    {
+      "q": "What tissue type is blood?",
+      "opts": [
+        "Epithelial tissue",
+        "Fluid connective tissue",
+        "Supportive connective tissue",
+        "Nervous tissue"
+      ],
+      "a": 1,
+      "exp": "Blood is classified as a fluid connective tissue because it consists of cells suspended in a liquid matrix (plasma)."
+    }
+  ]
+}

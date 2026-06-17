@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 70,
+  "filename": "Unit_1_5.txt",
+  "section_title": "Biotechnology and Bioethics",
+  "page_num_in_file": 5,
+  "slide_title": "Biology Through History",
+  "original_text": "\u2013Biology through history\n\u2013Did biology exist before we started studying it as a field in schools?\u2013YES!\n\u2013Did biotechnology exist prior to the development of sophisticated technology in the 20thcentury?\u2013YES!\n\u2013Has our knowledge of the world around us made us more ethical or less ethical in the scope of biology?\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+  "explanation": "This slide examines the historical context of biology and biotechnology. It asserts that biology existed as a natural phenomenon before humans began studying it as a formal academic field in schools. Similarly, biotechnology existed prior to the development of sophisticated 20th-century technologies (e.g., through traditional practices like selective breeding). It concludes with a reflective question: 'Has our knowledge of the world around us made us more ethical or less ethical in the scope of biology?'",
+  "questions": [
+    {
+      "q": "Did biology and biotechnology exist before schools studied them or before the 20th century?",
+      "opts": [
+        "No, they both only started in the 20th century.",
+        "Yes, biology existed before it was studied in schools, and biotechnology existed before modern 20th-century technology.",
+        "Biology did, but biotechnology is completely new.",
+        "Only biotechnology did, through the invention of microscopes."
+      ],
+      "a": 1,
+      "exp": "The slide answers 'YES!' to both questions: 'Did biology exist before we started studying it as a field in schools?' and 'Did biotechnology exist prior to the development of sophisticated technology in the 20th century?'."
+    }
+  ]
+}

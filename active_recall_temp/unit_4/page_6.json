@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 6,
+  "filename": "Unit_4_1.txt",
+  "section_title": "DNA Advances through 20th Century",
+  "page_num_in_file": 6,
+  "slide_title": "Historical Basis -GriffithLate 1920s England: Frederick Griffith studying S. pneumonia¤Causes lung disease pneumonia in mammals¤Non-infectious strain¤Infectious (virulent) strain¨Virulent strainsurrounded by polysaccharide capsule; protects from body’s defenses; grows in colonies with smooth edges (S strain)¨Non-virulent strain lacks capsule; grows in colonies with rough edges (R strain)¨Experimented with bacteria in mice to investigate transfer of hereditary information in bacteria",
+  "original_text": "Historical Basis -GriffithLate 1920s England: Frederick Griffith studying S. pneumonia¤Causes lung disease pneumonia in mammals¤Non-infectious strain¤Infectious (virulent) strain¨Virulent strainsurrounded by polysaccharide capsule; protects from body’s defenses; grows in colonies with smooth edges (S strain)¨Non-virulent strain lacks capsule; grows in colonies with rough edges (R strain)¨Experimented with bacteria in mice to investigate transfer of hereditary information in bacteria",
+  "explanation": "In the late 1920s in England, Frederick Griffith studied the bacterium Streptococcus pneumoniae, which causes the lung disease pneumonia in mammals. He worked with two strains: an infectious (virulent) strain and a non-infectious (non-virulent) strain. The virulent strain is surrounded by a polysaccharide capsule that protects the bacterium from the host body's immune defenses, and it grows in colonies with smooth edges, earning it the name 'S strain.' In contrast, the non-virulent strain lacks this protective capsule and grows in colonies with rough edges, known as the 'R strain.' Griffith experimented with these bacteria in mice to investigate whether and how hereditary information could be transferred between bacterial cells.",
+  "questions": [
+    {
+      "q": "What is the main biological function of the polysaccharide capsule in the smooth (S) strain of S. pneumoniae?",
+      "opts": [
+        "It allows the bacterium to reproduce sexually.",
+        "It protects the bacterium from the host body's immune defenses.",
+        "It aids in cellular respiration.",
+        "It makes the colony appear rough and jagged."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states the polysaccharide capsule 'protects from body's defenses.' Option A is incorrect because bacteria reproduce asexually. Option C is incorrect as the capsule does not function in respiration. Option D is incorrect because the capsule makes the colonies smooth (S strain), not rough."
+    },
+    {
+      "q": "Which of the following describes the rough (R) strain of S. pneumoniae?",
+      "opts": [
+        "It is virulent and has a protective capsule.",
+        "It is non-virulent and lacks a capsule.",
+        "It is virulent and lacks a capsule.",
+        "It is non-virulent and has a protective capsule."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the R strain is described as 'non-virulent' and 'lacks capsule; grows in colonies with rough edges.' The other options mix these traits incorrectly."
+    }
+  ]
+}

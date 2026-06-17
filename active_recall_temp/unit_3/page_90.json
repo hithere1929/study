@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 90,
+  "filename": "Unit_3_4.txt",
+  "section_title": "The Cell Cycle",
+  "page_num_in_file": 17,
+  "slide_title": "Cytokinesis – Plant vs Animal",
+  "original_text": "Cytokinesis – Plant vs Animal",
+  "explanation": "This page serves as a transition or title slide for comparing plant and animal cytokinesis.",
+  "questions": [
+    {
+      "q": "What is the topic of the slide shown on this page?",
+      "opts": [
+        "Cytokinesis – Plant vs Animal",
+        "Mitosis Phases",
+        "Cell Cycle Regulation",
+        "Microtubule Assembly"
+      ],
+      "a": 0,
+      "exp": "The slide is titled 'Cytokinesis – Plant vs Animal'."
+    }
+  ]
+}

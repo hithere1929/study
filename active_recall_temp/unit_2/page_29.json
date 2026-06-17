@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 29,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 29,
+  "slide_title": "3: Density of Ice",
+  "original_text": "3: Density of Ice¨Density: amount of matter per unit area¨Solids: most dense of all forms of matter; except for solid water¤Ice is LESS dense than liquid water due to the shape of water molecule and H bonding\nWide angle between H atoms allows formation of ice crystals with large amounts of open space (i.e. low density)¨Allows ice to float in liquid water¤Ponds and lakes freeze top àbottom; insulating water below and allowing aquatic organisms to survive",
+  "explanation": "Density is defined on this slide as the amount of matter per unit area. While solids are generally the most dense state of matter for most substances, solid water (ice) is a notable exception because it is less dense than liquid water. This lower density is due to the shape of the water molecule and hydrogen bonding: the wide angle between the hydrogen atoms causes the molecules to form a crystalline lattice with large amounts of open space. This low density allows ice to float on liquid water. Consequently, ponds and lakes freeze from the top down, creating an insulating layer of ice at the surface that protects the liquid water below and allows aquatic organisms to survive the winter.",
+  "questions": [
+    {
+      "q": "Why is ice less dense than liquid water?",
+      "opts": [
+        "The hydrogen bonds break completely in ice, letting molecules escape.",
+        "The wide angle between H atoms and hydrogen bonding causes ice crystals to form with large amounts of open space.",
+        "Ice molecules contain fewer protons than liquid water.",
+        "Ice has a higher amount of dissolved gases."
+      ],
+      "a": 1,
+      "exp": "Ice is less dense due to its molecular shape and hydrogen bonding: the wide angle between H atoms forces water molecules into a crystal lattice with lots of open space, reducing its density below that of liquid water."
+    },
+    {
+      "q": "What is the biological importance of ice floating on top of ponds and lakes?",
+      "opts": [
+        "It stops evaporation entirely.",
+        "It freezes the lakes solid from bottom to top.",
+        "It insulates the water below, allowing aquatic organisms to survive.",
+        "It increases the amount of dissolved oxygen in the water."
+      ],
+      "a": 2,
+      "exp": "Floating ice creates an insulating layer at the top of lakes, preventing them from freezing solid and allowing life to survive underneath."
+    }
+  ]
+}

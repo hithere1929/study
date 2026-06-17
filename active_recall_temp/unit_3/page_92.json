@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 92,
+  "filename": "Unit_3_4.txt",
+  "section_title": "The Cell Cycle",
+  "page_num_in_file": 19,
+  "slide_title": "Control of Cell Cycle",
+  "original_text": "Control of Cell Cycle\nCell needs stop and start signals to move from interphase into mitosis and back into interphase \nAlso needs checkpoints along the way to ensure cells only replicate when needed\nProteins regulate process of cell division at G1, G2, mitosis\nCan signal cell to proceed into division; or not to divide",
+  "explanation": "The cell cycle is regulated by start and stop signals to ensure cells only replicate under appropriate conditions. This process requires checkpoints along the way. Specific regulatory proteins monitor and control cell division at key checkpoints (G1, G2, and mitosis), providing signals that either allow the cell to proceed into division or halt the cell cycle.",
+  "questions": [
+    {
+      "q": "Which molecules are responsible for regulating the cell cycle at various checkpoints?",
+      "opts": [
+        "Carbohydrates",
+        "Proteins",
+        "Lipids",
+        "Free radicals"
+      ],
+      "a": 1,
+      "exp": "The slide states that proteins regulate the process of cell division at the G1, G2, and mitosis checkpoints."
+    }
+  ]
+}

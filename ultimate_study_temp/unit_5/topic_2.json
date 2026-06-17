@@ -1,0 +1,27 @@
+{
+  "id": "u5_t2",
+  "title": "HWE Equation",
+  "cheat_card": [
+    "<b>Allele Frequency Equation</b>: The frequencies of the dominant and recessive alleles in a gene pool must sum to 1, represented as <i>p + q = 1</i>, where <i>p</i> is the dominant allele frequency and <i>q</i> is the recessive allele frequency.",
+    "<b>Genotype Frequency Equation</b>: The distribution of genotypes in a population in equilibrium follows the expansion <i>p² + 2pq + q² = 1</i>.",
+    "<b>Genotype Terms</b>: In the HWE expansion, <i>p²</i> represents the frequency of the homozygous dominant genotype, <i>2pq</i> represents the heterozygous genotype, and <i>q²</i> represents the homozygous recessive genotype.",
+    "<b>Mathematical Starting Point</b>: When solving Hardy-Weinberg problems, always calculate <i>q²</i> (the frequency of the homozygous recessive phenotype) first, as it allows you to solve directly for <i>q</i> and then <i>p</i>.",
+    "<b>Microevolution Definition</b>: Microevolution is mathematically defined as a change in allele frequencies (<i>p</i> and <i>q</i>) in a population over time; if frequencies remain constant (e.g., the London moth study where p=0.2 and q=0.8 for three seasons), evolution has not occurred."
+  ],
+  "memory_anchor": "### Solving Hardy-Weinberg Problems\n\n| Term | Mathematical Definition | Biological Meaning | Calculation Order |\n| :--- | :--- | :--- | :--- |\n| **q²** | (Recessive Phenotype / Total) | Frequency of Homozygous Recessive Genotype | **Step 1**: Find this first |\n| **q** | √q² | Frequency of the Recessive Allele | **Step 2**: Take the square root of q² |\n| **p** | 1 - q | Frequency of the Dominant Allele | **Step 3**: Subtract q from 1 |\n| **p²** | p * p | Frequency of Homozygous Dominant Genotype | **Step 4**: Square p |\n| **2pq** | 2 * p * q | Frequency of Heterozygous Genotype | **Step 5**: Multiply 2 * p * q |",
+  "flashcards": [
+    {
+      "q": "If 9% of a population in Hardy-Weinberg equilibrium expresses a recessive trait, what are the frequencies of the recessive and dominant alleles?",
+      "a": "The recessive phenotype frequency is q² = 0.09. Therefore, the recessive allele frequency (q) is √0.09 = 0.3. Since p + q = 1, the dominant allele frequency (p) is 1 - 0.3 = 0.7."
+    },
+    {
+      "q": "Using the allele frequencies p = 0.7 and q = 0.3, calculate the percentage of the population that is heterozygous.",
+      "a": "The frequency of heterozygotes is represented by 2pq. Calculating this: 2 * (0.7) * (0.3) = 0.42. Thus, 42% of the population is heterozygous."
+    },
+    {
+      "q": "What biological condition is indicated if a researcher tracks a population over several generations and finds that the allele frequencies remain exactly at p = 0.2 and q = 0.8?",
+      "a": "The constant allele frequencies indicate that the population is in genetic equilibrium (Hardy-Weinberg Equilibrium), meaning no microevolution has occurred for that gene."
+    }
+  ],
+  "outline_blanks": "The Hardy-Weinberg equations calculate allele and genotype frequencies, where allele frequencies must satisfy [[p + q = 1]]. The corresponding genotype frequencies are calculated using [[p² + 2pq + q² = 1]], where the frequency of homozygous recessive individuals is represented by [[q²]]. If these frequencies remain completely unchanged over generations, the population is in [[genetic equilibrium]]."
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 1,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 1,
+  "slide_title": "BASIC CHEMISTRY OF LIVINGTHINGSBiology 9                   Mr. QueenanText -Ch 2.1-2.2 (p 42-51)",
+  "original_text": "BASIC CHEMISTRY OF LIVINGTHINGSBiology 9                   Mr. QueenanText -Ch 2.1-2.2 (p 42-51)",
+  "explanation": "This is the introductory title page for Unit 2, Section 1: Chemistry of Living Things. The slides cover the basic chemistry of living things, corresponding to Biology 9 with Mr. Queenan, referencing Textbook Chapters 2.1-2.2 on pages 42-51.",
+  "questions": [
+    {
+      "q": "Which chapters of the textbook correspond to the basic chemistry section introduced on this page?",
+      "opts": [
+        "Chapters 1.1-1.2",
+        "Chapters 2.1-2.2",
+        "Chapters 3.1-3.2",
+        "Chapters 4.1-4.2"
+      ],
+      "a": 1,
+      "exp": "The slide title explicitly mentions 'Text -Ch 2.1-2.2 (p 42-51)', indicating chapters 2.1 and 2.2."
+    }
+  ]
+}

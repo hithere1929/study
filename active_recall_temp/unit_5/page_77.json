@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 77,
+  "filename": "Unit_5_4.txt",
+  "section_title": "Principles of Taxonomy & Systematics",
+  "page_num_in_file": 8,
+  "slide_title": "The Three Domain System",
+  "original_text": "The Three Domain System\n\u00a8Domain Archaea\n\u00a4Prokaryotic unicellular organisms that reproduce asexually.\n\u00a4Live in extreme environments.\n\u00a4Cell wall is diverse but not the same as the bacterial cell wall.\n\u00a8Domain Eukarya\n\u00a4Unicellular and multicellular organisms\n\u00a4Cells with a membrane-bounded nucleus\n\u00a4Sexual reproduction is common\n\u00a4Contains four kingdoms\n  nKingdom Protista\n  nKingdom Fungi\n  nKingdom Plantae\n  nKingdom Animalia",
+  "explanation": "This slide contrasts Domain Archaea and Domain Eukarya. Domain Archaea consists of prokaryotic, unicellular organisms that reproduce asexually and typically live in extreme environments. Their cell walls are chemically diverse but distinct from those of bacteria. Domain Eukarya encompasses both unicellular and multicellular organisms whose cells contain a membrane-bounded nucleus. In this domain, sexual reproduction is common. Domain Eukarya is divided into four kingdoms: Kingdom Protista, Kingdom Fungi, Kingdom Plantae, and Kingdom Animalia.",
+  "questions": [
+    {
+      "q": "Which domain contains prokaryotic organisms that are known for living in extreme environments and have cell walls different from bacteria?",
+      "opts": [
+        "Domain Bacteria",
+        "Domain Archaea",
+        "Domain Eukarya",
+        "Domain Protista"
+      ],
+      "a": 1,
+      "exp": "Domain Archaea consists of prokaryotes that live in extreme environments and have cell walls chemically distinct from Domain Bacteria."
+    },
+    {
+      "q": "What are the four kingdoms contained within Domain Eukarya?",
+      "opts": [
+        "Bacteria, Archaea, Protista, and Fungi",
+        "Protista, Fungi, Plantae, and Animalia",
+        "Monera, Protista, Plantae, and Animalia",
+        "Unicellular, Multicellular, Autotrophic, and Heterotrophic"
+      ],
+      "a": 1,
+      "exp": "Domain Eukarya contains four kingdoms: Kingdom Protista, Kingdom Fungi, Kingdom Plantae, and Kingdom Animalia."
+    }
+  ]
+}

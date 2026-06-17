@@ -1,0 +1,34 @@
+{
+  "unit": 1,
+  "page": 17,
+  "filename": "Unit_1_2.txt",
+  "section_title": "Intro to Biology",
+  "page_num_in_file": 2,
+  "slide_title": "What is:",
+  "original_text": "What is:\n\u2013Science?\u2013the state of knowing:knowledge as distinguished fromignoranceor misunderstanding\u2013Merriam Webster -https://www.merriam-webster.com/dictionary/science\n\u2013Biology?\u2013The scientific study of life\u2026\u2026\u2026\u2026. OR\n\u2013The state of knowing or understanding LIFE\n\u2013All forms of life share common properties",
+  "explanation": "This slide defines the terms 'Science' and 'Biology'. According to the Merriam-Webster dictionary, science is defined as 'the state of knowing: knowledge as distinguished from ignorance or misunderstanding.' Biology is defined as 'the scientific study of life' or 'the state of knowing or understanding life.' Crucially, the slide notes that all forms of life, despite their immense diversity, share common properties.",
+  "questions": [
+    {
+      "q": "What is the definition of biology given on this slide?",
+      "opts": [
+        "The study of rocks and physical formations",
+        "The scientific study of life, or the state of knowing or understanding life",
+        "The study of chemical reactions in inanimate objects",
+        "The study of stars and outer space"
+      ],
+      "a": 1,
+      "exp": "The slide defines Biology as 'The scientific study of life' or 'The state of knowing or understanding LIFE'."
+    },
+    {
+      "q": "How is science defined on this slide according to the Merriam-Webster citation?",
+      "opts": [
+        "The study of how cells divide",
+        "The state of knowing: knowledge as distinguished from ignorance or misunderstanding",
+        "A set of laws governing gravity and motion",
+        "The process of conducting laboratory experiments"
+      ],
+      "a": 1,
+      "exp": "The text cites the Merriam-Webster dictionary defining science as 'the state of knowing: knowledge as distinguished from ignorance or misunderstanding.'"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 64,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 28,
+  "slide_title": "3: Triglycerides",
+  "original_text": "3: Triglycerides¨Triglyceride: composed of 3 molecules of fatty acid joined to 1 molecule of the alcohol, glycerol¤Saturated triglycerides contain saturated fatty acids \nnHave high melting points; tend to be solidat room temperature\nnEx: butter, fat found in meat¤Unsaturated triglycerides contain unsaturated fatty acids \nnUsually soft or liquid at room temperature\nnFound primarily in plant seeds where they serve as energy/C source for germinating plant\nnEx: olive, corn oil",
+  "explanation": "A triglyceride is a lipid molecule composed of three fatty acids chemically joined to a single molecule of the alcohol glycerol. Saturated triglycerides are made of saturated fatty acids, which pack tightly together, giving them high melting points and making them solid at room temperature (examples include butter and animal fats). Unsaturated triglycerides are made of unsaturated fatty acids, whose double bonds create kinks that prevent tight packing, keeping them liquid or soft at room temperature. These are found primarily in plant seeds where they serve as an energy and carbon source for germinating plants (examples include olive oil and corn oil).",
+  "questions": [
+    {
+      "q": "What are the components of a triglyceride molecule?",
+      "opts": [
+        "3 glycerols and 1 fatty acid",
+        "1 glycerol and 3 fatty acids",
+        "3 simple sugars and 1 phosphate group",
+        "1 amino acid and 2 fatty acids"
+      ],
+      "a": 1,
+      "exp": "A triglyceride is composed of 3 fatty acid molecules bound to 1 glycerol molecule."
+    },
+    {
+      "q": "Why are saturated triglycerides, like butter and animal fat, solid at room temperature while unsaturated triglycerides are liquid?",
+      "opts": [
+        "Saturated triglycerides have lower melting points.",
+        "Saturated triglycerides have only single bonds in their fatty acid chains, allowing them to pack closely together and remain solid at higher temperatures.",
+        "Unsaturated triglycerides contain heavy metal ions.",
+        "Unsaturated triglycerides lack a glycerol backbone."
+      ],
+      "a": 1,
+      "exp": "Saturated fatty acids are straight chains that pack together tightly, resulting in higher melting points and solid states at room temperature. Unsaturated chains have kinks from double bonds that prevent tight packing, keeping them liquid."
+    }
+  ]
+}

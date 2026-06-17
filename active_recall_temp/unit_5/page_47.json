@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 47,
+  "filename": "Unit_5_2.txt",
+  "section_title": "How Populations Evolve",
+  "page_num_in_file": 26,
+  "slide_title": "Maintenance of Diversity",
+  "original_text": "Maintenance of Diversity\n\u00a4Genetic Variability\n  nPopulations with limited variation may not be able to adapt to new conditions\n  nMaintenance of variability is advantageous to the population\n  nOnly exposed alleles are subject to natural selection\n\u00a4Natural selection causes imperfect adaptations\n  nDepends on evolutionary history\n  nImperfections are common because of necessary compromises\n  nThe environment plays a role in maintaining diversity\n  nDisruptive selection due to environmental differences promotes polymorphisms in a population\n  nIf a population occupies a wide range, it may have several subpopulations designated as subspecies\n  nThe environment includes selecting agents that help maintain diversity",
+  "explanation": "Genetic variability is crucial; populations with limited variation may fail to adapt to environmental changes. Thus, maintaining variability is highly advantageous. Natural selection only acts on exposed (expressed) alleles. Furthermore, natural selection does not produce perfect organisms; adaptations are often imperfect because they depend on evolutionary history and involve structural or functional compromises. The environment plays a key role in maintaining genetic diversity: variable environments can promote polymorphisms through disruptive selection, and populations spanning wide geographic ranges may split into distinct subspecies, with various environmental agents acting as selecting forces to maintain diversity.",
+  "questions": [
+    {
+      "q": "Why does natural selection lead to imperfect adaptations rather than perfect organisms?",
+      "opts": [
+        "Because mutations never occur in the wild.",
+        "Adaptations are constrained by evolutionary history and require compromises among competing needs.",
+        "Because populations are always in Hardy-Weinberg equilibrium.",
+        "Because alleles are lost only through genetic drift."
+      ],
+      "a": 1,
+      "exp": "Adaptations are rarely perfect because they depend on historical genetic structures and represent structural/functional compromises (trade-offs) within the organism."
+    },
+    {
+      "q": "How does the environment help maintain genetic diversity in a population?",
+      "opts": [
+        "By eliminating all selection pressures.",
+        "Through environmental variation that promotes disruptive selection and subspecies formation.",
+        "By forcing all organisms to mate randomly.",
+        "By preventing any alleles from being sheltered."
+      ],
+      "a": 1,
+      "exp": "Environmental differences can cause disruptive selection, promoting polymorphisms, and geographic variations can split populations into distinct subspecies, keeping genetic diversity high."
+    }
+  ]
+}

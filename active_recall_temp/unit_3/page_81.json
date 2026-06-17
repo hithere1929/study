@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 81,
+  "filename": "Unit_3_4.txt",
+  "section_title": "The Cell Cycle",
+  "page_num_in_file": 8,
+  "slide_title": "Interphase",
+  "original_text": "Interphase\nTime between cell divisions; cells spend most time in interphase \nAfter cell division, offspring cells approx. half normal size \nG1 phase: first stage of interphase\nG=Gap Phase\nOffspring cells grow to mature size\nG1: time gap between cell division and next round of DNA replication \nS phase: second stage of interphase\nDNA is replicated (synthesized)\nCells become 4n (2 x 2n) \nSister Chromatid",
+  "explanation": "Interphase is the period between active cell divisions, and cells spend the majority of their life cycle in this state. Immediately following cell division, offspring cells are approximately half their normal size. Interphase is divided into distinct stages. The G1 phase (first Gap phase) is the first stage of interphase, during which the offspring cells grow to their mature size, representing the time gap between cell division and the next round of DNA replication. The S phase (synthesis phase) is the second stage of interphase, during which the cellular DNA is replicated (synthesized). Following replication, the cells have doubled their genetic material, consisting of sister chromatids, effectively becoming 4n relative to the haploid state.",
+  "questions": [
+    {
+      "q": "What occurs during the S phase of interphase?",
+      "opts": [
+        "The cell grows to mature size.",
+        "DNA is replicated (synthesized).",
+        "The cell prepares for nuclear division.",
+        "The cytoplasm is divided."
+      ],
+      "a": 1,
+      "exp": "The S phase (synthesis phase) is the second stage of interphase, during which DNA is replicated."
+    },
+    {
+      "q": "Which phase of interphase is characterized by rapid cell growth to mature size immediately following cell division?",
+      "opts": [
+        "G1 phase",
+        "S phase",
+        "G2 phase",
+        "M phase"
+      ],
+      "a": 0,
+      "exp": "During the G1 (first gap) phase, offspring cells grow to mature size."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 183,
+  "filename": "Unit_4_9.txt",
+  "section_title": "Mendelian Inheritance P2 - Genetic Disorders",
+  "page_num_in_file": 9,
+  "slide_title": "Extending the Range of Mendelian Genetics¨Some traits are controlled by multiple alleles (multiple allelic traits)¨The gene exists in several allelic forms (but each individual only has two alleles)¨ABO blood types¤The alleles:nIA= A antigen on red blood cells, anti-B antibody in plasmanIB= B antigen on red blood cells, anti-A antibody in plasmani= Neither A nor B antigens on red blood cells, both anti-A and anti-B antibodies in plasma¨The ABO blood type is also an example of codominance¤More than one allele is fully expressed¤Both IAand IBare expressed in the presence of the other",
+  "original_text": "Extending the Range of Mendelian Genetics¨Some traits are controlled by multiple alleles (multiple allelic traits)¨The gene exists in several allelic forms (but each individual only has two alleles)¨ABO blood types¤The alleles:nIA= A antigen on red blood cells, anti-B antibody in plasmanIB= B antigen on red blood cells, anti-A antibody in plasmani= Neither A nor B antigens on red blood cells, both anti-A and anti-B antibodies in plasma¨The ABO blood type is also an example of codominance¤More than one allele is fully expressed¤Both IAand IBare expressed in the presence of the other",
+  "explanation": "Some genetic traits are controlled by multiple alleles (multiple allelic traits), where the gene exists in several allelic forms in a population, although each individual only inherits two alleles. The ABO blood group system is a classic example of this. The alleles include IA (which encodes the A antigen on red blood cells and anti-B antibody in plasma), IB (which encodes the B antigen on red blood cells and anti-A antibody in plasma), and i (which encodes neither antigen, with both anti-A and anti-B antibodies in the plasma). ABO blood types also illustrate codominance, where both IA and IB alleles are fully expressed in a heterozygote (IAIB), meaning both A and B antigens are present.",
+  "questions": [
+    {
+      "q": "What are multiple allelic traits?",
+      "opts": [
+        "Traits determined by multiple genes on different chromosomes.",
+        "Traits where a gene exists in several allelic forms in a population, though an individual has only two.",
+        "Traits that are only carried on sex chromosomes.",
+        "Traits that are strictly blended in offspring."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide explains: 'The gene exists in several allelic forms (but each individual only has two alleles)'."
+    },
+    {
+      "q": "Which alleles in the ABO blood typing system are codominant with each other?",
+      "opts": [
+        "IA and i",
+        "IB and i",
+        "IA and IB",
+        "All three alleles (IA, IB, and i) are codominant."
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide states: 'The ABO blood type is also an example of codominance - More than one allele is fully expressed; Both IA and IB are expressed in the presence of the other'."
+    }
+  ]
+}

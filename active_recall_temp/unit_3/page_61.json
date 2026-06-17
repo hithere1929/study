@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 61,
+  "filename": "Unit_3_3.txt",
+  "section_title": "Chromosomes",
+  "page_num_in_file": 2,
+  "slide_title": "Questions?",
+  "original_text": "Questions?\nWhat is a chromosome?\nWhere in the cell is it located?\nWhat is the importance of a chromosome?\nAre chromosomes the same in all organisms?",
+  "explanation": "This slide poses introductory questions regarding chromosomes, their cellular location, biological importance, and variation across organisms to prompt inquiry.",
+  "questions": [
+    {
+      "q": "Which of the following questions is posed on the introductory slide of Section 3.3?",
+      "opts": [
+        "How many genes are in a chromosome?",
+        "Are chromosomes the same in all organisms?",
+        "What is the chemical structure of DNA?",
+        "How do chromosomes replicate during mitosis?"
+      ],
+      "a": 1,
+      "exp": "One of the specific questions listed is 'Are chromosomes the same in all organisms?'"
+    }
+  ]
+}

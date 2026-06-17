@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 152,
+  "filename": "Unit_4_8.txt",
+  "section_title": "Mendelian Inheritance P1 - Mendelian Genetics",
+  "page_num_in_file": 7,
+  "slide_title": "Garden Pea Anatomy",
+  "original_text": "Garden Pea Anatomy",
+  "explanation": "Gregor Mendel used the garden pea (Pisum sativum) to study patterns of inheritance, which required understanding its reproductive anatomy for controlled self-pollination and manual cross-pollination.",
+  "questions": [
+    {
+      "q": "Which plant's reproductive anatomy did Gregor Mendel study and manipulate in his genetics experiments?",
+      "opts": [
+        "The snapdragon",
+        "The garden pea (Pisum sativum)",
+        "The fruit fly",
+        "The bread mold"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because Mendel's breeding experiments were conducted using the garden pea, Pisum sativum."
+    }
+  ]
+}

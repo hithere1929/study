@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 144,
+  "filename": "Unit_4_7.txt",
+  "section_title": "Chromosome-based Syndromes",
+  "page_num_in_file": 17,
+  "slide_title": "Deletion Syndromes¨Williams Syndrome¤Small end piece of Chromosome 7 is deletednChildren have “pixie-like” appearancenTurned up noses; wide mouths; small chin; large earsnUsually have poor academic skills, but tend to excel at verbal and musical abilitiesnGene for elastin is missing –affects health of cardiovascular system, causes skin to age prematurely",
+  "original_text": "Deletion Syndromes¨Williams Syndrome¤Small end piece of Chromosome 7 is deletednChildren have “pixie-like” appearancenTurned up noses; wide mouths; small chin; large earsnUsually have poor academic skills, but tend to excel at verbal and musical abilitiesnGene for elastin is missing –affects health of cardiovascular system, causes skin to age prematurely",
+  "explanation": "Williams Syndrome is a deletion syndrome that occurs when a small end piece of Chromosome 7 is deleted. Children with this syndrome have a characteristic 'pixie-like' appearance, marked by turned-up noses, wide mouths, a small chin, and large ears. Academically, they often have poor skills, but they typically excel in verbal and musical abilities. The deletion causes the elastin gene to be missing, which leads to cardiovascular health problems and premature aging of the skin.",
+  "questions": [
+    {
+      "q": "Which chromosomal deletion causes Williams Syndrome, and what is the typical physical appearance of affected children?",
+      "opts": [
+        "Deletion on chromosome 20; flat face and round head.",
+        "Deletion of a small end piece of Chromosome 7; 'pixie-like' appearance with turned-up nose, wide mouth, small chin, and large ears.",
+        "Deletion on the X chromosome; broad chest and webbed neck.",
+        "Deletion on chromosome 22; very tall stature and persistent acne."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'Williams Syndrome - Small end piece of Chromosome 7 is deleted' and children have a '\"pixie-like\" appearance' with 'Turned up noses; wide mouths; small chin; large ears.'"
+    },
+    {
+      "q": "What specific gene is missing in Williams Syndrome, causing cardiovascular issues and premature skin aging?",
+      "opts": [
+        "Adenosine deaminase (ADA)",
+        "Elastin",
+        "Hemoglobin",
+        "SRY"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'Gene for elastin is missing – affects health of cardiovascular system, causes skin to age prematurely.'"
+    }
+  ]
+}

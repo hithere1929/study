@@ -1,0 +1,30 @@
+{
+  "id": "u8_t6",
+  "title": "Aquatic zones",
+  "cheat_card": [
+    "Lake zones are classified as <b>littoral</b> (near shore), <b>limnetic</b> (sunlit open water), <b>profundal</b> (dark), and <b>benthic</b> (lake bottom).",
+    "Deep temperate lakes stratify in summer into the <b>epilimnion</b> (warm surface), <b>thermocline</b> (middle), and <b>hypolimnion</b> (cold bottom), mixing during <b>fall/spring overturns</b>.",
+    "<b>Estuaries</b> are highly productive mixing zones of fresh and saltwater, supporting development of <b>two-thirds of marine fish/shellfish</b>.",
+    "Ocean pelagic zones include <b>epipelagic</b> (nutrient-poor), <b>mesopelagic</b> (sunlit/high life), and <b>bathypelagic</b> (complete darkness, bioluminescence).",
+    "The <b>abyssal plain</b> is extreme cold/high pressure, relying on organic debris and hydrothermal vents where chemoautotrophs utilize <b>hydrogen sulfide</b> at 350\u00b0C."
+  ],
+  "memory_anchor": "Vertical Water Profile:\n- Lake: Epilimnion (Warm Surface) -> Thermocline (Rapid Drop) -> Hypolimnion (Cold Bottom)\n- Ocean Vents: 350\u00b0C water releases Hydrogen Sulfide (H2S) for chemoautotrophy.",
+  "flashcards": [
+    {
+      "q": "Describe the three temperature layers that form in deep temperate lakes during summer stratification.",
+      "q_id": "u8_t6_f1",
+      "a": "The three layers are the epilimnion (warm, sunlit surface layer), the thermocline (middle layer where temperature drops rapidly), and the hypolimnion (cold, dense bottom layer)."
+    },
+    {
+      "q": "Why are estuaries ecologically and economically critical for marine fisheries?",
+      "q_id": "u8_t6_f2",
+      "a": "Estuaries are regions where fresh water and seawater mix. They are highly productive, nutrient-rich environments that support the developmental stages of nearly two-thirds of all marine fishes and shellfish."
+    },
+    {
+      "q": "What is the chemical source of energy for ecosystems near hydrothermal vents on the abyssal plain, and how is it generated?",
+      "q_id": "u8_t6_f3",
+      "a": "The energy source is hydrogen sulfide (H2S). It is generated when seawater percolates through cracks in the ocean floor and is heated to 350\u00b0C, causing sulfate to react with water. Chemoautotrophs use it to produce organic nutrients."
+    }
+  ],
+  "outline_blanks": "Lakes stratify in the summer into a warm surface [[epilimnion]] and a cold bottom [[hypolimnion]], which mix during seasonal overturns. Marine ecosystems feature a sunlit [[euphotic]] zone and a deep abyssal plain where chemoautotrophic organisms utilize [[hydrogen sulfide]] released from hydrothermal vents."
+}

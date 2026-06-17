@@ -1,0 +1,34 @@
+{
+  "unit": 6,
+  "page": 18,
+  "filename": "Unit_6_2.txt",
+  "section_title": "Prokaryotes",
+  "page_num_in_file": 7,
+  "slide_title": "Nutrition\u00a8Oxygen requirements: \u00a4Obligate aerobes \u2013unable to grow in the absence of free oxygen \u00a4Obligate anaerobes \u2013unable to grow in the presence of free oxygen \u00a4Facultative anaerobes \u2013able to grow in either the presence or absence of free oxygen",
+  "original_text": "Nutrition\u00a8Oxygen requirements: \u00a4Obligate aerobes \u2013unable to grow in the absence of free oxygen \u00a4Obligate anaerobes \u2013unable to grow in the presence of free oxygen \u00a4Facultative anaerobes \u2013able to grow in either the presence or absence of free oxygen",
+  "explanation": "Prokaryotes have different relationships with oxygen. They can be divided into three categories based on oxygen requirements: 1) Obligate aerobes, which cannot survive or grow without free oxygen; 2) Obligate anaerobes, which cannot grow in the presence of free oxygen and are harmed by it; and 3) Facultative anaerobes, which are metabolic generalists able to grow in either the presence or the absence of free oxygen.",
+  "questions": [
+    {
+      "q": "Which term describes prokaryotes that are unable to grow in the presence of free oxygen?",
+      "opts": [
+        "Obligate aerobes",
+        "Obligate anaerobes",
+        "Facultative anaerobes",
+        "Chemoheterotrophs"
+      ],
+      "a": 1,
+      "exp": "Obligate anaerobes are defined as being 'unable to grow in the presence of free oxygen'."
+    },
+    {
+      "q": "What is a characteristic of facultative anaerobes?",
+      "opts": [
+        "They can only grow in environments containing 100% pure oxygen.",
+        "They are unable to perform cellular respiration.",
+        "They are able to grow in either the presence or absence of free oxygen.",
+        "They only obtain energy through photosynthesis."
+      ],
+      "a": 2,
+      "exp": "The notes state that facultative anaerobes are 'able to grow in either the presence or absence of free oxygen'."
+    }
+  ]
+}

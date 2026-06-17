@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 42,
+  "filename": "Unit_1_3.txt",
+  "section_title": "The Process of Science",
+  "page_num_in_file": 8,
+  "slide_title": "The Scientific Method",
+  "original_text": "\u2013Experimentation\u2013Scientist carries out an experiment, or series of procedures\u2013Use Deductive Reasoning\u2013Make a prediction based on knowledge of the factors in the experiment\u2013Ex. for flashlight case study\u2013Predict 2 reasons why flashlight doesn\u2019t work",
+  "explanation": "This slide focuses on the experimentation step of the scientific method. Experimentation involves a scientist executing a series of procedures. In this stage, scientists use deductive reasoning to make predictions based on their knowledge of the factors involved in the experiment. For the flashlight case study, this involves predicting two potential reasons why it fails to work.",
+  "questions": [
+    {
+      "q": "Which type of reasoning is used during experimentation to make predictions based on known factors?",
+      "opts": [
+        "Inductive reasoning",
+        "Deductive reasoning",
+        "Reductive reasoning",
+        "Dialectical reasoning"
+      ],
+      "a": 1,
+      "exp": "The text instructs to: 'Use Deductive Reasoning \u2013 Make a prediction based on knowledge of the factors in the experiment'."
+    }
+  ]
+}

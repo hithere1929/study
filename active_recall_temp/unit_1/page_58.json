@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 58,
+  "filename": "Unit_1_4.txt",
+  "section_title": "Microscopy",
+  "page_num_in_file": 8,
+  "slide_title": "The Microscope",
+  "original_text": "\u2013Stage and Specimen\u2013Thick sections/slices of sample (~1\u00b5m) or sample small enough for light to pass through\u2013Samples typically stained with dyes to enhance features\u2013Mounted on glass slide with coverslip\u2013Stage has opening to allow light to pass through",
+  "explanation": "This slide details requirements for the stage and specimen in light microscopy. Specimens must be prepared as thin sections/slices (~1 micrometer thick) or be small enough to allow light to transmit through them. Samples are typically stained with dyes to enhance structural features, then mounted on a glass slide and secured under a coverslip. The microscope stage features an opening to allow the light to pass through the specimen.",
+  "questions": [
+    {
+      "q": "Why must specimens for light microscopy be thin (e.g. ~1\u00b5m) or small?",
+      "opts": [
+        "To fit under the coverslip",
+        "To allow light to pass through the sample",
+        "To prevent the objective lens from touching them",
+        "To absorb the stains and dyes more quickly"
+      ],
+      "a": 1,
+      "exp": "The text states: '...sample small enough for light to pass through'."
+    }
+  ]
+}

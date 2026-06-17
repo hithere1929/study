@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 38,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 2,
+  "slide_title": "¨What makes Carbon special?",
+  "original_text": "¨What makes Carbon special?",
+  "explanation": "This slide serves as an introductory question prompt asking what makes carbon unique among elements.",
+  "questions": [
+    {
+      "q": "Which element's unique properties are introduced on this page?",
+      "opts": [
+        "Oxygen",
+        "Carbon",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "a": 1,
+      "exp": "The slide asks the question: 'What makes Carbon special?'"
+    }
+  ]
+}

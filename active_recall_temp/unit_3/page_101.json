@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 101,
+  "filename": "Unit_3_5.txt",
+  "section_title": "Stem Cells & Cancer",
+  "page_num_in_file": 7,
+  "slide_title": "Control of the Cell Cycle",
+  "original_text": "Control of the Cell Cycle\nA signalis an agent that influences the activities of a cell.\nGrowth factors are a type of signaling proteins\nReceived at plasma membrane of a cell\nCan push cell to continue through cell cycle, even if arrested in G0\nCheckpoints\nFrom previous lecture, cell cycle checkpoints at G1, G2, and M\nCyclins\nInternal signaling proteins\nIncrease and decrease as cell cycle continues\nSpecific cyclins must be present to move from G1to S phase, and from G2to M phase",
+  "explanation": "In cellular biology, a signal is defined as any agent that influences a cell's activities. Growth factors are a class of extracellular signaling proteins that bind to receptors at the cell's plasma membrane, capable of signaling cells to proceed through the cell cycle even if they were arrested in the G0 stage. The cell cycle is regulated by checkpoints (at G1, G2, and mitosis) and cyclins. Cyclins are internal signaling proteins whose concentration levels fluctuate (increase and decrease) throughout the cell cycle. Specific cyclins must accumulate in sufficient quantities to permit the transition from the G1 phase to the S phase, and from the G2 phase to the M phase.",
+  "questions": [
+    {
+      "q": "Which proteins act as internal signals that fluctuate in concentration to regulate transition between cell cycle phases (e.g. G1 to S, G2 to M)?",
+      "opts": [
+        "Growth factors",
+        "Caspases",
+        "Cyclins",
+        "Tubulins"
+      ],
+      "a": 2,
+      "exp": "Cyclins are internal signaling proteins whose concentrations increase and decrease as the cell cycle continues; specific cyclins must be present to transition from G1 to S and G2 to M."
+    },
+    {
+      "q": "What type of signaling proteins are received at the plasma membrane and can push a cell to divide even if it was arrested in G0?",
+      "opts": [
+        "Cyclins",
+        "Growth factors",
+        "Caspases",
+        "Histones"
+      ],
+      "a": 1,
+      "exp": "Growth factors are signaling proteins received at the plasma membrane that can push a cell to continue through the cell cycle even if arrested in G0."
+    }
+  ]
+}

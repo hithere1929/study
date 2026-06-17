@@ -1,0 +1,23 @@
+{
+  "unit": 7,
+  "page": 128,
+  "filename": "Unit_7_7.txt",
+  "section_title": "Respiratory System",
+  "page_num_in_file": 11,
+  "slide_title": "Breathing & Transport of Gases: Expiration",
+  "original_text": "Breathing and Transport of Gases Breathing Expirationin mammals nCreation of positive pressure in the lungs The rib cage is lowered The diaphragm rises Thoracic pressure increases to more than atmospheric pressure nForces air out of the lungs",
+  "explanation": "Expiration (exhalation) in mammals involves the creation of positive pressure in the lungs. During expiration, the diaphragm relaxes and rises, and the rib cage is lowered. This decreases the volume of the thoracic cavity, causing the internal pressure to increase above atmospheric pressure. This positive pressure forces air out of the lungs.",
+  "questions": [
+    {
+      "q": "What mechanical changes cause positive pressure during expiration?",
+      "opts": [
+        "The rib cage is elevated, and the diaphragm contracts and lowers.",
+        "The rib cage is lowered, and the diaphragm rises (relaxes).",
+        "The alveoli open to let air escape.",
+        "The glottis closes to trap air."
+      ],
+      "a": 1,
+      "exp": "During expiration, the relaxation of respiratory muscles lowers the rib cage and raises the diaphragm, reducing thoracic volume and raising pressure."
+    }
+  ]
+}

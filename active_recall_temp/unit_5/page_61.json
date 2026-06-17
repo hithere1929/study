@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 61,
+  "filename": "Unit_5_3.txt",
+  "section_title": "Speciation & Macroevolution",
+  "page_num_in_file": 12,
+  "slide_title": "Modes of Speciation",
+  "original_text": "Modes of Speciation\n\u00a8Researchers recognize 2 modes of speciation\n\u00a4One requires populations to be physically isolated from one another, and the other does not.\n\u00a8Allopatric Speciation\n\u00a4Two geographically isolated populations of one species become different species over time\n\u00a4Can be due to differing selection pressures in differing environments\n\u00a4Reinforcement occurs when two populations come back together and not longer reproduce because they no longer recognize each other as mates due to changes",
+  "explanation": "Evolutionary biologists recognize two primary modes of speciation: one that requires physical geographic isolation, and one that occurs without it. Allopatric Speciation is the mode requiring physical isolation: when a geographic barrier separates a single species into two isolated populations, they independently adapt to their environments and accumulate genetic differences over time due to differing selection pressures, eventually becoming distinct species. If these two populations later come back into contact (secondary contact) and can no longer successfully interbreed because they do not recognize each other as mates, this process of preventing hybridization is called reinforcement.",
+  "questions": [
+    {
+      "q": "What is Allopatric Speciation?",
+      "opts": [
+        "Speciation occurring within a single population without geographic isolation",
+        "Speciation that occurs when two geographically isolated populations of one species diverge into different species over time",
+        "The rapid diversification of a species colonizing new environments",
+        "The selective breeding of organisms by human breeders"
+      ],
+      "a": 1,
+      "exp": "Allopatric speciation is the formation of new species when populations are geographically isolated from each other."
+    },
+    {
+      "q": "What is 'reinforcement' in the context of speciation?",
+      "opts": [
+        "The process where a geographic barrier becomes stronger over time",
+        "When two reunited populations cannot breed because they no longer recognize each other as mates",
+        "The doubling of chromosomes in a sterile hybrid plant",
+        "The process of selecting for traits that increase physical strength"
+      ],
+      "a": 1,
+      "exp": "Reinforcement occurs when two previously isolated populations meet again but do not interbreed because evolutionary changes prevent them from recognizing each other as mates."
+    }
+  ]
+}

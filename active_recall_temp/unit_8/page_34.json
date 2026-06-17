@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 34,
+  "filename": "Unit_8_2.txt",
+  "section_title": "Population Ecology",
+  "page_num_in_file": 19,
+  "slide_title": "Human Population Growth¨Population Growth and Environmental Impact¤Environmental impact of a population is measured in terms of:nPopulation sizenResource consumption per capitanResultant pollution due to resource consumption¤There are two types of overpopulationnOverpopulation due to population growthnOverpopulation due to increased resource consumptionnProblem –MDC population vs consumption",
+  "original_text": "Human Population Growth¨Population Growth and Environmental Impact¤Environmental impact of a population is measured in terms of:nPopulation sizenResource consumption per capitanResultant pollution due to resource consumption¤There are two types of overpopulationnOverpopulation due to population growthnOverpopulation due to increased resource consumptionnProblem –MDC population vs consumption",
+  "explanation": "The environmental impact of a population is determined by three variables: population size, per capita resource consumption, and the resulting pollution caused by resource consumption. This yields two types of overpopulation: 1) overpopulation due directly to rapid population growth (commonly seen in LDCs), and 2) overpopulation due to high rates of resource consumption (commonly seen in MDCs). This highlights a critical ecological dilemma: while MDCs have smaller populations, their resource consumption is disproportionately high, leading to significant environmental impact.",
+  "questions": [
+    {
+      "q": "What three factors measure the environmental impact of a human population?",
+      "opts": [
+        "Age profile, demographic transition status, and geographic distribution",
+        "Population size, resource consumption per capita, and resultant pollution due to resource consumption",
+        "MDC ratio, LDC ratio, and doubling time",
+        "Territoriality, reproductive strategy, and dominance hierarchy"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Environmental impact of a population is measured in terms of: Population size, Resource consumption per capita, Resultant pollution due to resource consumption.'"
+    },
+    {
+      "q": "What are the two types of overpopulation discussed in the notes?",
+      "opts": [
+        "Overpopulation due to birth rates and overpopulation due to death rates",
+        "Overpopulation due to immigration and overpopulation due to emigration",
+        "Overpopulation due to population growth and overpopulation due to increased resource consumption",
+        "Overpopulation of primary producers and overpopulation of tertiary consumers"
+      ],
+      "a": 2,
+      "exp": "The notes state: 'There are two types of overpopulation: Overpopulation due to population growth, Overpopulation due to increased resource consumption.'"
+    }
+  ]
+}

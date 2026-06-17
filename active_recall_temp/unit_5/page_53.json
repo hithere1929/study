@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 53,
+  "filename": "Unit_5_3.txt",
+  "section_title": "Speciation & Macroevolution",
+  "page_num_in_file": 4,
+  "slide_title": "How New Species Evolve",
+  "original_text": "How New Species Evolve\n\u00a8Macroevolutionis best observed within the fossil record.\n\u00a4Shows evolution on a large scale\n\u00a8Involves speciation.\n\u00a4Splitting of one species into 2 or more new species\n\u00a4Macroevolution is the result of accumulation of microevolutions that result in formation of new species\n\u00a8Every species has its own evolutionary history\n\u00a4Species concept \u2013Refers to the different ways in which a species is defined\n\u00a4Taxonomistsanalyze and define species",
+  "explanation": "Macroevolution refers to evolution on a large scale, which is best observed within the fossil record. It involves speciation, defined as the splitting of one species into two or more new species. Macroevolution occurs as a result of the gradual accumulation of many microevolutionary changes over time. Every species has its own distinct evolutionary history. Because defining species can be complex, scientists use different 'species concepts' (the various ways species are defined), and taxonomists are the specialists who analyze and define these species groups.",
+  "questions": [
+    {
+      "q": "What is macroevolution, and where is it best observed?",
+      "opts": [
+        "Small-scale allele changes observed in lab bacteria",
+        "Large-scale evolutionary changes best observed in the fossil record",
+        "The random mating patterns of island finches",
+        "Artificial selection performed by human breeders"
+      ],
+      "a": 1,
+      "exp": "The notes define macroevolution as evolution on a large scale, which is best observed in the fossil record."
+    },
+    {
+      "q": "How is speciation defined on this page?",
+      "opts": [
+        "The movement of alleles between separate populations",
+        "The splitting of one species into two or more new species",
+        "The maintenance of stable allele frequencies",
+        "The classification of fossils based on age"
+      ],
+      "a": 1,
+      "exp": "Speciation is defined on the slide as the 'splitting of one species into 2 or more new species.'"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 83,
+  "filename": "Unit_8_5.txt",
+  "section_title": "Cellular Respiration",
+  "page_num_in_file": 11,
+  "slide_title": "Outside the Mitochondria: Fermentation",
+  "original_text": "Outside the Mitochondria: Fermentation\n¨Advantages¤Provides a quick burst of ATP energy for muscular activity.¨Disadvantages¤Lactate and alcohol are toxic to cells.¤Lactate changes pH and causes muscles to fatigue.nOxygen debt¤Yeast die from the alcohol they produce by fermentation¨Efficiency of Fermentation¤Two ATP produced per glucose of molecule during fermentation is equivalent to 14.6 kcal.¤Complete oxidation of glucose can yield 686 kcal.¤Only 2 ATP per glucose are produced, compared to 36 or 38 ATP molecules per glucose produced by cellular respiration.",
+  "explanation": "Fermentation has distinct physiological advantages, disadvantages, and efficiencies. The main advantage of lactic acid fermentation is that it provides a rapid burst of ATP energy for intense muscular activity. However, the disadvantages are significant: lactate and alcohol are toxic to cells. Accumulating lactate alters cellular pH, causes muscle fatigue, and leads to oxygen debt; similarly, yeasts are killed by the ethyl alcohol they produce if concentrations rise too high. Energetically, fermentation is highly inefficient: it produces only 2 ATP molecules per glucose molecule (yielding 14.6 kcal), whereas complete aerobic oxidation of glucose can yield 686 kcal by producing 36 or 38 ATP molecules.",
+  "questions": [
+    {
+      "q": "What is a major physiological disadvantage of lactic acid fermentation in muscle cells?",
+      "opts": [
+        "It produces toxic alcohol that kills muscle cells directly.",
+        "Lactate changes pH, causing muscle fatigue and oxygen debt.",
+        "It yields 36 ATP molecules, which overloads the cell.",
+        "It permanently stops glycolysis from occurring."
+      ],
+      "a": 1,
+      "exp": "The notes state that 'Lactate changes pH and causes muscles to fatigue' which leads to 'Oxygen debt.'"
+    },
+    {
+      "q": "How does the energy efficiency of fermentation compare to aerobic cellular respiration?",
+      "opts": [
+        "Fermentation is equally efficient, producing 36 ATP per glucose.",
+        "Fermentation produces only 2 ATP per glucose, compared to 36 or 38 ATP from aerobic respiration.",
+        "Fermentation is more efficient because it produces 686 kcal of ATP.",
+        "Fermentation produces 14.6 ATP molecules per glucose."
+      ],
+      "a": 1,
+      "exp": "The notes state that 'Only 2 ATP per glucose are produced' in fermentation, 'compared to 36 or 38 ATP molecules per glucose produced by cellular respiration.'"
+    }
+  ]
+}

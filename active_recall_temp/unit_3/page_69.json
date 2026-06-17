@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 69,
+  "filename": "Unit_3_3.txt",
+  "section_title": "Chromosomes",
+  "page_num_in_file": 10,
+  "slide_title": "Homologous Chromosomes",
+  "original_text": "Homologous Chromosomes\nEach cell of an organism produced by sexual reproduction has 2 copies of each autosome \nOne copy received from each parent \nThe 2 copies known as homologous chromosomes (homologues) \nSame size, shape, carry same genes for same traits",
+  "explanation": "In organisms produced by sexual reproduction, each cell contains two copies of each autosome, with one copy inherited from each parent. These pair of matching chromosomes are known as homologous chromosomes, or homologues. Homologous chromosomes share the same size, shape, and carry genes that control the same biological traits.",
+  "questions": [
+    {
+      "q": "What are homologous chromosomes (homologues)?",
+      "opts": [
+        "Chromosomes that are completely different in size and shape",
+        "Two copies of an autosome that have the same size, shape, and carry the same genes for the same traits",
+        "Replicated chromatids joined by a centromere",
+        "Sex chromosomes that determine gender"
+      ],
+      "a": 1,
+      "exp": "Homologous chromosomes (homologues) are two copies of an autosome (one from each parent) that are the same size, shape, and carry the same genes for the same traits."
+    }
+  ]
+}

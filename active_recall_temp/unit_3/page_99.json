@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 99,
+  "filename": "Unit_3_5.txt",
+  "section_title": "Stem Cells & Cancer",
+  "page_num_in_file": 5,
+  "slide_title": "Stem Cell Differentiation",
+  "original_text": "Stem Cell Differentiation\nAs stem cells begin to divide based on the signals they receive, they begin to differentiate, or become more specialized\nMethod for producing cells that perform specific functions in the body, instead of all cells needing to do all functions\nCardiac cells vs nerve cells vs skin cells\nStem cells can remain stem cells through replication. Once differentiation occurs, they terminally differentiate (cannot return to stem cells)",
+  "explanation": "As stem cells divide, they receive chemical signals that guide them to differentiate, meaning they become more specialized. Differentiation is the mechanism for generating specialized cells that perform specific functions (such as cardiac cells, nerve cells, or skin cells), rather than requiring every cell to perform all tasks. Stem cells can replicate to produce more stem cells, but once they undergo differentiation into a specialized lineage, they are terminally differentiated and cannot revert to a stem cell state.",
+  "questions": [
+    {
+      "q": "What happens when a stem cell undergoes terminal differentiation?",
+      "opts": [
+        "It can replicate to produce more stem cells.",
+        "It becomes a specialized cell type and cannot return to a stem cell state.",
+        "It immediately undergoes apoptosis via Caspases.",
+        "It exits G0 and enters the S phase."
+      ],
+      "a": 1,
+      "exp": "The slide states that once differentiation occurs, they terminally differentiate and cannot return to being stem cells."
+    }
+  ]
+}

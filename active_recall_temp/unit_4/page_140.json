@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 140,
+  "filename": "Unit_4_7.txt",
+  "section_title": "Chromosome-based Syndromes",
+  "page_num_in_file": 12,
+  "slide_title": "Other Sex Chromosome Disorders¨Poly-X¤Super Female –3 copies of XnNo distinct features, except tend to be tall and thinnMay have some learning difficultiesnOffspring of Poly-X tend to have normal karyotype¤More than 3 copies of X is extremely rare, and leads to severe mental retardation¨Jacobs Syndrome¤XYY MalesnResults from nondisjunction in spermatogenesisnFrequency of 1:1000nFeatures: Very tall; persistent acne; may have speech and reading difficulties; are fertile",
+  "original_text": "Other Sex Chromosome Disorders¨Poly-X¤Super Female –3 copies of XnNo distinct features, except tend to be tall and thinnMay have some learning difficultiesnOffspring of Poly-X tend to have normal karyotype¤More than 3 copies of X is extremely rare, and leads to severe mental retardation¨Jacobs Syndrome¤XYY MalesnResults from nondisjunction in spermatogenesisnFrequency of 1:1000nFeatures: Very tall; persistent acne; may have speech and reading difficulties; are fertile",
+  "explanation": "Other sex chromosome disorders include Poly-X syndrome and Jacobs syndrome. Poly-X syndrome (or 'Super Female') is a female condition with three X chromosomes. They generally have no distinct features other than tending to be tall and thin, though some have learning difficulties. Their offspring usually have normal karyotypes. Having more than three X chromosomes is extremely rare and causes severe mental retardation. Jacobs syndrome occurs in males with an XYY karyotype, resulting from nondisjunction during spermatogenesis. It has a frequency of 1 in 1,000 males. Features include tall stature, persistent acne, and potential speech and reading difficulties, though affected individuals are fertile.",
+  "questions": [
+    {
+      "q": "What is the karyotype and typical appearance of a female with Poly-X (Super Female) syndrome?",
+      "opts": [
+        "XO; broad chest and neck webbing.",
+        "XXX (3 copies of X); tall and thin with no other distinct physical features.",
+        "XXY; male appearance with underdeveloped testes.",
+        "XYY; tall with persistent acne."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide describes Poly-X as: 'Super Female – 3 copies of X' with 'No distinct features, except tend to be tall and thin.'"
+    },
+    {
+      "q": "What is Jacobs syndrome, and what are its main features?",
+      "opts": [
+        "An XO female condition; features underdeveloped ovaries.",
+        "An XYY male condition resulting from nondisjunction in spermatogenesis; features tall stature, persistent acne, and fertility.",
+        "An XXY male condition resulting from oogenesis errors; features breast development.",
+        "An XXXX female condition; features severe mental retardation."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide defines Jacobs Syndrome as: 'XYY Males' that 'Results from nondisjunction in spermatogenesis' with features including 'Very tall; persistent acne' and 'are fertile.'"
+    }
+  ]
+}

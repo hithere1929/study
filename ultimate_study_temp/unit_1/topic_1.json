@@ -1,0 +1,27 @@
+{
+  "id": "u1_t1",
+  "title": "Lab Safety",
+  "cheat_card": [
+    "The <b>Golden Rule</b> of lab safety is to <b>follow all instructions</b> given by the lab manager or supervisor, and never perform any unauthorized or unexplained experiments.",
+    "<b>Personal Protective Equipment (PPE)</b> such as <b>gloves, lab coats, and safety goggles</b> must be worn when necessary. <b>Long hair must be tied back</b>, and clothing must include <b>long pants and closed-toed shoes</b> with no loose or baggy garments.",
+    "All student- or staff-prepared mixtures, solutions, or samples must be <b>clearly labeled</b> with their <b>contents, concentrations, hazard warnings, preparer's initials, preparation date</b>, and <b>expiration date</b>.",
+    "Hazardous chemical protocols must be conducted under a <b>chemical fume hood</b> by trained personnel; chemicals should never be tasted, touched, or smelled, and <b>unused reagents must never be returned</b> to their original containers to avoid contamination.",
+    "Never leave a <b>hot plate in use or an ongoing experiment unattended</b>, do not handle hot glassware with bare hands, and never <b>pipette liquids by mouth</b> (always use a <b>pipette pump</b>)."
+  ],
+  "memory_anchor": "### Essential Labeling Requirements (CWIDE):\n| Key Information | Description | Example |\n|---|---|---|\n| **C**ontents & Concentrations | Identify all chemicals and their molarity/percent. | 0.1 M NaOH |\n| **W**arnings & Precautions | Safety hazards or special storage instructions. | Corrosive, wear gloves |\n| **I**nitials | Identify the person who prepared the sample. | J.Q. |\n| **D**ate Prepared | When the solution was mixed. | 2026-06-11 |\n| **E**xpiration Date | Date when the solution is no longer safe/valid. | 2026-12-11 |",
+  "flashcards": [
+    {
+      "q": "A student needs to transfer a liquid reagent to a beaker and has some left over. Explain why they should not pour the excess reagent back into the original supply bottle, and identify the tool that must be used instead of pipetting by mouth.",
+      "a": "The excess reagent must not be returned to the original bottle to prevent contaminating the entire chemical supply. The student should dispose of it in a designated waste container. To transfer liquids, they must use a pipette pump, never mouth pipetting."
+    },
+    {
+      "q": "If a student is preparing a flask of saline solution for an experiment, what five pieces of labeling information must they write on the flask's label before storing it?",
+      "a": "The flask must be clearly labeled with: (1) all contents and concentrations, (2) any warnings or precautions for use or storage, (3) initials of the preparer, (4) date prepared, and (5) expiration date (if known)."
+    },
+    {
+      "q": "Under what specific safety structure must protocols requiring hazardous chemicals be performed, and what clothing guidelines must be followed to minimize exposure to chemical spills or heat sources?",
+      "a": "Hazardous chemical protocols must be performed under a chemical fume hood. To minimize exposure, students must wear appropriate PPE (gloves, lab coat, goggles), tie long hair back, wear long pants and closed-toed shoes, and avoid loose or baggy clothing."
+    }
+  ],
+  "outline_blanks": "In the biology lab, all procedures involving hazardous chemicals must be performed under a [[chemical fume hood]], and students must never pipette liquids by mouth, opting instead for a [[pipette pump]]. Prepared solutions must be marked with critical information such as contents, concentrations, and the preparer's initials, referencing the [[MSDS]] for detailed chemical hazards. To prevent contamination of the stock supply, students should never return [[unused reagent]] to its original container."
+}

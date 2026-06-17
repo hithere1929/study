@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 19,
+  "filename": "Unit_4_2.txt",
+  "section_title": "DNA Structure",
+  "page_num_in_file": 5,
+  "slide_title": "DNA Bonding¨Sugar-phosphate backbone on outside of molecule; bases face toward center of molecule¤‘Rungs’ or ‘steps’ of the staircase¨Bases face each other; form hydrogen bonds with bases on other strand¨Adenine (A) always pairs with Thymine (T)¤Forms 2 hydrogen bonds¨Guanine (G) always pairs with Cytosine (C)¤Forms 3 hydrogen bonds¨Hydrogen bonds between bases hold the 2 strands of the DNA molecule together",
+  "original_text": "DNA Bonding¨Sugar-phosphate backbone on outside of molecule; bases face toward center of molecule¤‘Rungs’ or ‘steps’ of the staircase¨Bases face each other; form hydrogen bonds with bases on other strand¨Adenine (A) always pairs with Thymine (T)¤Forms 2 hydrogen bonds¨Guanine (G) always pairs with Cytosine (C)¤Forms 3 hydrogen bonds¨Hydrogen bonds between bases hold the 2 strands of the DNA molecule together",
+  "explanation": "The DNA double helix features the sugar-phosphate backbones on the outside of the molecule, while the nitrogenous bases point inward toward the center, forming the 'rungs' or 'steps' of the helical staircase. The bases on opposite strands face each other and form hydrogen bonds, which hold the two strands of the DNA molecule together. The pairing is highly specific: Adenine (A) always pairs with Thymine (T), forming two hydrogen bonds between them. Guanine (G) always pairs with Cytosine (C), forming three hydrogen bonds.",
+  "questions": [
+    {
+      "q": "How many hydrogen bonds form between Guanine (G) and Cytosine (C) in a DNA molecule?",
+      "opts": [
+        "1 hydrogen bond",
+        "2 hydrogen bonds",
+        "3 hydrogen bonds",
+        "4 hydrogen bonds"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide states 'Guanine (G) always pairs with Cytosine (C) - Forms 3 hydrogen bonds.' Adenine and Thymine pair with 2 hydrogen bonds (Option B)."
+    },
+    {
+      "q": "Where are the sugar-phosphate backbone and the nitrogenous bases located relative to the DNA double helix structure?",
+      "opts": [
+        "Both backbone and bases face outward.",
+        "Both backbone and bases face inward.",
+        "Backbone is on the outside, bases face toward the center.",
+        "Backbone is in the center, bases point outward."
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide states 'Sugar-phosphate backbone on outside of molecule; bases face toward center of molecule.' The other choices are incorrect spatial representations."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 93,
+  "filename": "Unit_3_4.txt",
+  "section_title": "The Cell Cycle",
+  "page_num_in_file": 20,
+  "slide_title": "Cell Cycle Checkpoints",
+  "original_text": "Cell Cycle Checkpoints\nCell growth checkpoint (G1): \nControls whether cell will divide \nIf cell is healthy, large enough in size, DNA synthesis initialized; if conditions are unfavorable, cell cycle stops; can also stop if cell needs rest period \nCells can enter G0 at this point \nDNA synthesis checkpoint (G2): \nDNA repair enzymes check results of DNA replication; if DNA is undamaged, mitosis begins; if DNA is damaged, cell cycle is stopped \nMitosis checkpoint:\nIf cell passes checkpoint, exits mitosis and enters G1 phase again",
+  "explanation": "The cell cycle has three primary checkpoints. The Cell growth checkpoint (G1) determines if the cell will divide; if the cell is healthy and of sufficient size, DNA synthesis is initiated. Unfavorable conditions or the need for rest will halt the cycle, and cells can enter G0 at this point. The DNA synthesis checkpoint (G2) involves DNA repair enzymes checking the results of DNA replication. If DNA is undamaged, mitosis is initiated; otherwise, the cycle stops. The Mitosis checkpoint monitors division; if passed, the cell exits mitosis and enters the G1 phase of the next cell cycle.",
+  "questions": [
+    {
+      "q": "What occurs at the G2 DNA synthesis checkpoint?",
+      "opts": [
+        "The cell grows to mature size.",
+        "DNA repair enzymes check results of DNA replication; if undamaged, mitosis begins.",
+        "The cell enters the G0 phase.",
+        "Sister chromatids are separated at their centromeres."
+      ],
+      "a": 1,
+      "exp": "At the G2 checkpoint, DNA repair enzymes check the results of DNA replication; if the DNA is undamaged, the cell proceeds to mitosis."
+    },
+    {
+      "q": "What decides whether a cell will divide or enter the G0 rest period at the G1 checkpoint?",
+      "opts": [
+        "The assembly of the mitotic spindle",
+        "The cell's health, size, and whether conditions are favorable",
+        "The separation of sister chromatids",
+        "The formation of the cell plate"
+      ],
+      "a": 1,
+      "exp": "At the G1 checkpoint, if the cell is healthy and large enough, DNA synthesis is initialized; if conditions are unfavorable, it stops or can enter the G0 resting phase."
+    }
+  ]
+}

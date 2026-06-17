@@ -1,0 +1,34 @@
+{
+  "unit": 6,
+  "page": 24,
+  "filename": "Unit_6_2.txt",
+  "section_title": "Prokaryotes",
+  "page_num_in_file": 13,
+  "slide_title": "Domain Archaea\u00a8Many live in harsh conditions: \u00a4Anaerobic marshes nMethanogens nProduce methane from hydrogen gas and carbon dioxide\u00a4Salty lakes nHalophiles nRequire high salt concentrations for growth, and \u00a4Hot sulfur springs & Thermal vents nThermoacidophiles nReduce sulfides and survive best at temperatures above 80\u00baC and low pHnPlasma membranes contain unusual lipids convey tolerance of high temperatures",
+  "original_text": "Domain Archaea\u00a8Many live in harsh conditions: \u00a4Anaerobic marshes nMethanogens nProduce methane from hydrogen gas and carbon dioxide\u00a4Salty lakes nHalophiles nRequire high salt concentrations for growth, and \u00a4Hot sulfur springs & Thermal vents nThermoacidophiles nReduce sulfides and survive best at temperatures above 80\u00baC and low pHnPlasma membranes contain unusual lipids convey tolerance of high temperatures",
+  "explanation": "Archaea are known to thrive in harsh environments. Methanogens live in anaerobic marshes and produce methane from hydrogen gas and carbon dioxide. Halophiles reside in salty lakes and require high salt concentrations for growth. Thermoacidophiles inhabit hot sulfur springs and thermal vents, where they reduce sulfides and survive best at low pH and temperatures above 80\u00b0C. Their plasma membranes contain unusual lipids that convey tolerance to these high temperatures.",
+  "questions": [
+    {
+      "q": "What type of Archaea lives in anaerobic marshes and produces methane gas?",
+      "opts": [
+        "Halophiles",
+        "Methanogens",
+        "Thermoacidophiles",
+        "Cyanobacteria"
+      ],
+      "a": 1,
+      "exp": "The notes state that methanogens live in anaerobic marshes and 'Produce methane from hydrogen gas and carbon dioxide'."
+    },
+    {
+      "q": "What structural feature allows thermoacidophiles to tolerate temperatures above 80\u00b0C?",
+      "opts": [
+        "An outer cell wall containing peptidoglycan",
+        "Plasma membranes containing unusual lipids",
+        "A proteinaceous capsid coat",
+        "Accessory plasmids containing heat-shock genes"
+      ],
+      "a": 1,
+      "exp": "According to the notes, their 'Plasma membranes contain unusual lipids convey tolerance of high temperatures'."
+    }
+  ]
+}

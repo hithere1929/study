@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 15,
+  "filename": "Unit_5_1.txt",
+  "section_title": "Darwin & Evidence for Evolution",
+  "page_num_in_file": 15,
+  "slide_title": "Darwin\u2019s Theory of Evolution",
+  "original_text": "Darwin\u2019s Theory of Evolution\n\u00a8Each of the 13 species of Gal\u00e1pagos finches has a beak adapted to a particular way of life.\n\u00a4A heavy beak is suited to a diet of large seeds\n\u00a4The beak of the warbler-finch is suited to feeding on insects\n\u00a4A longer, somewhat decurved beak and the split tongue of the cactus-finch are suited to probing a cactus for seeds",
+  "explanation": "The Gal\u00e1pagos Islands are home to 13 distinct species of finches, each displaying a beak shape adapted to a specific ecological niche and diet. Darwin noted these adaptations: a heavy, robust beak is suited for cracking open large seeds; the warbler-finch possesses a thin beak suited for catching and feeding on insects; and the cactus-finch has a longer, slightly downward-curved (decurved) beak and a split tongue, features adapted for probing cactus flowers and fruits to obtain seeds.",
+  "questions": [
+    {
+      "q": "How many species of Gal\u00e1pagos finches did Darwin note, and how do their beaks differ?",
+      "opts": [
+        "5 species; all have heavy beaks for seeds.",
+        "13 species; each has a beak adapted to a particular way of life and diet.",
+        "13 species; all have long, decurved beaks for nectar.",
+        "22 species; they do not show any variation in beak shape."
+      ],
+      "a": 1,
+      "exp": "The notes mention that there are 13 species of Gal\u00e1pagos finches, each with a beak adapted to a particular way of life (such as heavy beaks for large seeds, thin warbler-finch beaks for insects, and long decurved beaks for cactus probing)."
+    },
+    {
+      "q": "What diet is the long, decurved beak and split tongue of the cactus-finch adapted for?",
+      "opts": [
+        "Catching flying insects",
+        "Cracking large, hard seeds",
+        "Probing cactus plants for seeds",
+        "Filtering aquatic organisms"
+      ],
+      "a": 2,
+      "exp": "The cactus-finch's longer, decurved beak and split tongue are adapted for probing a cactus for seeds."
+    }
+  ]
+}

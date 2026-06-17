@@ -1,0 +1,23 @@
+{
+  "unit": 6,
+  "page": 72,
+  "filename": "Unit_6_6.txt",
+  "section_title": "Invertebrates",
+  "page_num_in_file": 5,
+  "slide_title": "Diversity of Invertebrates\u00a8Simple Invertebrates\u00a8Radiata\u00a8Protostomia\u00a4Lophotrochozoa\u00a4Ecdysozoa\u00a8Deuterostomia",
+  "original_text": "Diversity of Invertebrates\u00a8Simple Invertebrates\u00a8Radiata\u00a8Protostomia\u00a4Lophotrochozoa\u00a4Ecdysozoa\u00a8Deuterostomia",
+  "explanation": "This slide outlines the classification categories of invertebrate diversity: Simple Invertebrates, Radiata, Protostomia (further divided into Lophotrochozoa and Ecdysozoa), and Deuterostomia.",
+  "questions": [
+    {
+      "q": "Which of the following sub-groups is classified under Protostomia?",
+      "opts": [
+        "Radiata",
+        "Deuterostomia",
+        "Lophotrochozoa",
+        "Simple Invertebrates"
+      ],
+      "a": 2,
+      "exp": "Under the heading 'Protostomia', the outline lists 'Lophotrochozoa' and 'Ecdysozoa'."
+    }
+  ]
+}

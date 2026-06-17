@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 148,
+  "filename": "Unit_4_8.txt",
+  "section_title": "Mendelian Inheritance P1 - Mendelian Genetics",
+  "page_num_in_file": 3,
+  "slide_title": "Gregor Mendel¨Austrian monk¤Studied science and mathematics at the University of Vienna¤Conducted breeding experiments with the garden pea Pisumsativum¤Carefully gathered and documented mathematical data from his experiments¨Formulated fundamental laws of heredity in the early 1860s¤Had no knowledge of cells or chromosomes¤Did not have a microscope",
+  "original_text": "Gregor Mendel¨Austrian monk¤Studied science and mathematics at the University of Vienna¤Conducted breeding experiments with the garden pea Pisumsativum¤Carefully gathered and documented mathematical data from his experiments¨Formulated fundamental laws of heredity in the early 1860s¤Had no knowledge of cells or chromosomes¤Did not have a microscope",
+  "explanation": "Gregor Mendel was an Austrian monk who studied science and mathematics at the University of Vienna. He performed controlled breeding experiments with the garden pea, Pisum sativum, carefully collecting and documenting quantitative, mathematical data. Based on these experiments, he formulated the fundamental laws of heredity in the early 1860s. Remarkably, he did this without any knowledge of chromosomes or cells, and without the aid of a microscope.",
+  "questions": [
+    {
+      "q": "What organism did Gregor Mendel use for his breeding experiments?",
+      "opts": [
+        "Fruit fly (Drosophila melanogaster)",
+        "Garden pea (Pisum sativum)",
+        "Roundworm (C. elegans)",
+        "Mouse (Mus musculus)"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states Mendel 'Conducted breeding experiments with the garden pea Pisumsativum.'"
+    },
+    {
+      "q": "Under what conditions did Mendel formulate his laws of heredity in the early 1860s?",
+      "opts": [
+        "He used high-powered light microscopes and a knowledge of cellular meiosis.",
+        "He had no knowledge of cells or chromosomes and did not have a microscope.",
+        "He worked closely with computational models of genes.",
+        "He had mapped the pea genome using DNA microarrays."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide explicitly states that Mendel 'Had no knowledge of cells or chromosomes' and 'Did not have a microscope.'"
+    }
+  ]
+}

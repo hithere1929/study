@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 84,
+  "filename": "Unit_3_4.txt",
+  "section_title": "The Cell Cycle",
+  "page_num_in_file": 11,
+  "slide_title": "Mitosis -Prophase",
+  "original_text": "Mitosis -Prophase\nBegins with shortening and tight coiling of DNA into chromosomes from chromatin \nDNA was copied in S phase; each copy (chromatid) stays connected at the centromere \nNucleolus & nuclear membrane are broken down \n2 pairs of centrosomes appear next to disappearing nucleus\nAnimal cell centrosomes contain a pair of small, cylindrical centrioles; plant cells do not \nCentrosomes move toward opposite poles of cell\nSpindle fibers, composed of microtubules, radiate from centrosomes as they move; preparing for metaphase \nArray of spindle fibers called mitotic spindle \nequally divides chromatids between offspring cells during division \nMitotic spindle composed of 2 types of spindle fibers: kinetochore and polar fibers \nKinetochore fiber: attach to kinetochore, disc shaped protein in centromere of chromosome; extend from chromatid to centrosome \nPolar fiber: extend across cell from centrosome to centrosome without attaching to chromosomes",
+  "explanation": "Prophase is the first stage of mitosis. It begins with the shortening and tight coiling of chromatin into distinct chromosomes. Since DNA was replicated in the S phase, each chromosome consists of two sister chromatids connected at the centromere. During prophase, the nucleolus and nuclear membrane break down. Two pairs of centrosomes appear near the nucleus and migrate toward opposite poles. Centrosomes in animal cells contain a pair of small, cylindrical centrioles, which are absent in plant cells. As they migrate, microtubules radiate from them to form the mitotic spindle. The mitotic spindle contains two types of fibers: kinetochore fibers, which attach to the kinetochore (a disc-shaped protein in the chromosome's centromere) and extend to the centrosome, and polar fibers, which span from centrosome to centrosome without attaching to the chromosomes.",
+  "questions": [
+    {
+      "q": "What is the difference between kinetochore fibers and polar fibers in the mitotic spindle?",
+      "opts": [
+        "Kinetochore fibers extend from pole to pole; polar fibers attach to chromosomes.",
+        "Kinetochore fibers attach to disc-shaped proteins in the centromere of chromosomes; polar fibers extend pole-to-pole without attaching.",
+        "Kinetochore fibers are composed of actin; polar fibers are composed of tubulin.",
+        "Kinetochore fibers occur in plant cells; polar fibers occur in animal cells."
+      ],
+      "a": 1,
+      "exp": "Kinetochore fibers attach to the kinetochore protein in the centromere of each chromosome, whereas polar fibers extend across the cell from centrosome to centrosome without attaching to chromosomes."
+    },
+    {
+      "q": "Which structural feature is present in animal cell centrosomes during prophase but absent in plant cell centrosomes?",
+      "opts": [
+        "Microtubules",
+        "Centrioles",
+        "Kinetochores",
+        "Spindle fibers"
+      ],
+      "a": 1,
+      "exp": "The slide states that animal cell centrosomes contain a pair of small, cylindrical centrioles, while plant cells do not."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 112,
+  "filename": "Unit_2_4.txt",
+  "section_title": "Metabolism",
+  "page_num_in_file": 15,
+  "slide_title": "Exergonic v Endergonic",
+  "original_text": "Exergonic v Endergonic",
+  "explanation": "This slide acts as a visual summary comparing the energy profiles of exergonic (energy-releasing) and endergonic (energy-requiring) reactions.",
+  "questions": [
+    {
+      "q": "What comparison is featured on this placeholder slide?",
+      "opts": [
+        "Photosynthesis vs Cellular Respiration",
+        "Exergonic vs Endergonic reactions",
+        "Hydrolysis vs Condensation",
+        "Diffusion vs Osmosis"
+      ],
+      "a": 1,
+      "exp": "The slide title is 'Exergonic v Endergonic'."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 92,
+  "filename": "Unit_2_3.txt",
+  "section_title": "Movement of Molecules",
+  "page_num_in_file": 18,
+  "slide_title": "Bulk Transport of Molecules",
+  "original_text": "Bulk Transport of Molecules¨A cell uses two mechanisms to move large molecules across membranes.1.Exocytosisis used to export bulky molecules, such as proteins or polysaccharides.2.Endocytosisis used to take in large molecules.¨In both cases, material to be transported is packaged within a vesicle that fuses with the membrane.",
+  "explanation": "Cells employ two primary bulk transport mechanisms to move large, bulky molecules across their membranes. Exocytosis is the process used to export large molecules, such as proteins or polysaccharides, out of the cell. Endocytosis is the process used to bring large molecules into the cell. In both bulk transport mechanisms, the substances are packaged inside a membrane-bound vesicle that fuses with the cell's plasma membrane to complete the transport.",
+  "questions": [
+    {
+      "q": "Which bulk transport mechanism is used by a cell to export bulky molecules like proteins and polysaccharides?",
+      "opts": [
+        "Endocytosis",
+        "Phagocytosis",
+        "Exocytosis",
+        "Facilitated diffusion"
+      ],
+      "a": 2,
+      "exp": "Exocytosis is the cellular process of exporting bulky materials by enclosing them in a vesicle that fuses with the plasma membrane to release the contents outside."
+    },
+    {
+      "q": "What structure packages the materials during bulk transport?",
+      "opts": [
+        "An aquaporin tunnel",
+        "A membrane-bound vesicle",
+        "A carbohydrate chain",
+        "A fused steroid ring"
+      ],
+      "a": 1,
+      "exp": "In both endocytosis and exocytosis, materials are packaged within a membrane-bound vesicle that fuses with the cell membrane."
+    }
+  ]
+}

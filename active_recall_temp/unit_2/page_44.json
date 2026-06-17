@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 44,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 8,
+  "slide_title": "Polymer Formation/Degradation",
+  "original_text": "Polymer Formation/Degradation¨Monomerscombine to form polymersthrough a condensation reaction¤Each time a monomer unit is added, a watermolecule is released¤AKA dehydration synthesis¨Polymers are broken down into their component monomers through a hydrolysis reaction¤A watermolecule breaks the bond linking the monomers",
+  "explanation": "Monomers combine to form larger polymer molecules via a condensation reaction, which is also commonly referred to as dehydration synthesis. During this reaction, each time a new monomer unit is linked to the chain, a water molecule is released. Conversely, polymers are degraded back into their individual monomer components through a hydrolysis reaction. In hydrolysis, a water molecule is consumed to break the chemical bond that links the monomers together.",
+  "questions": [
+    {
+      "q": "What type of reaction links monomers together to form a polymer while releasing a water molecule?",
+      "opts": [
+        "Hydrolysis reaction",
+        "Condensation reaction (dehydration synthesis)",
+        "Ionization reaction",
+        "Neutralization reaction"
+      ],
+      "a": 1,
+      "exp": "A condensation reaction (or dehydration synthesis) links monomers together and releases a water molecule as a byproduct."
+    },
+    {
+      "q": "How does a hydrolysis reaction break down polymers?",
+      "opts": [
+        "By releasing a water molecule to form a double bond.",
+        "By using a water molecule to break the bond linking the monomers.",
+        "By adding thermal energy to melt the covalent bonds.",
+        "By converting organic compounds into inorganic salts."
+      ],
+      "a": 1,
+      "exp": "Hydrolysis uses a water molecule to chemically split the bond between monomers in a polymer chain."
+    }
+  ]
+}

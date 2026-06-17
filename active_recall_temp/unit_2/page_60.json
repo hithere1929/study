@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 60,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 24,
+  "slide_title": "2: Enzymes",
+  "original_text": "2: Enzymes¨Enzymes are a special type of protein¤Biologic Catalyst\nnWork to accelerate chemical reactions\nnIn biology, many enzymes act on other proteins known as substrates. \nnCan convert these substrates into other substances, or work to signal chemical pathways within the body to turn on or off.",
+  "explanation": "Enzymes are a specialized class of proteins that function as biological catalysts, acting to accelerate chemical reactions within cells. In biological systems, enzymes often bind to specific target molecules called substrates (which are frequently other proteins). The enzyme can convert these substrates into different products or act as signals that turn metabolic pathways on or off.",
+  "questions": [
+    {
+      "q": "What is the primary function of an enzyme?",
+      "opts": [
+        "To act as a structural component of cell walls.",
+        "To store genetic information.",
+        "To function as a biological catalyst that accelerates chemical reactions.",
+        "To serve as a major energy storage lipid."
+      ],
+      "a": 2,
+      "exp": "Enzymes are specialized proteins that act as biological catalysts to speed up chemical reactions."
+    },
+    {
+      "q": "What is the term for the molecules upon which enzymes act?",
+      "opts": [
+        "Products",
+        "Substrates",
+        "Catalysts",
+        "Polypeptides"
+      ],
+      "a": 1,
+      "exp": "The molecules that bind to enzymes and undergo chemical transformation are known as substrates."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 1,
+  "page": 60,
+  "filename": "Unit_1_4.txt",
+  "section_title": "Microscopy",
+  "page_num_in_file": 10,
+  "slide_title": "Resolution v.Magnification",
+  "original_text": "Resolution v.Magnification\n\u2013Resolution:\u2022The ability to distinguish two points which are closely adjacent and would otherwise appear to be one.\u2022\u201cHigher\u201d (better) resolution is a shorter distance; \u201clower\u201d (poorer) resolution is a longer distance\n\u2013Magnification:\u2022The degree of enlargement of an image as compared to the original.\u2022A measure of the increase in diameter of a structure.\u2022Written as a quantity X (ex: 1000X) for                                                   how many times the image is magnified",
+  "explanation": "This slide distinguishes between resolution and magnification. Resolution is the ability to distinguish two points that are closely adjacent and would otherwise appear as a single point. A 'higher' (better) resolution corresponds to a shorter distance of separation, whereas a 'lower' (poorer) resolution represents a longer distance. Magnification is defined as the degree of enlargement of an image compared to the original, which measures the increase in the diameter of a structure. It is expressed as a number followed by an X (e.g., 1000X) representing how many times the image has been enlarged.",
+  "questions": [
+    {
+      "q": "What is the definition of resolution in microscopy?",
+      "opts": [
+        "The degree of enlargement of an image compared to the original",
+        "The ability to distinguish two closely adjacent points that would otherwise appear as one",
+        "The distance from the lens where passing rays converge",
+        "The process of staining a specimen to make it visible"
+      ],
+      "a": 1,
+      "exp": "The slide defines resolution as: 'The ability to distinguish two points which are closely adjacent and would otherwise appear to be one.'"
+    },
+    {
+      "q": "How is magnification measured and written?",
+      "opts": [
+        "As a distance in micrometers (\u00b5m)",
+        "As a wavelength value in nanometers",
+        "As a quantity X (e.g., 1000X) representing the increase in diameter of a structure compared to the original",
+        "As a ratio of pixels on a digital screen"
+      ],
+      "a": 2,
+      "exp": "The text states magnification is: 'A measure of the increase in diameter of a structure. Written as a quantity X (ex: 1000X) for how many times the image is magnified'."
+    }
+  ]
+}

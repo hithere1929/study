@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 185,
+  "filename": "Unit_4_9.txt",
+  "section_title": "Mendelian Inheritance P2 - Genetic Disorders",
+  "page_num_in_file": 11,
+  "slide_title": "Extending the Range of Mendelian Genetics¨Incomplete Dominance:¤Heterozygote has a phenotype intermediate between that of either homozygotenHomozygous red has red phenotypenHomozygous white has white phenotypenHeterozygote has pink (intermediate) phenotype¤Phenotype reveals genotype without a test cross",
+  "original_text": "Extending the Range of Mendelian Genetics¨Incomplete Dominance:¤Heterozygote has a phenotype intermediate between that of either homozygotenHomozygous red has red phenotypenHomozygous white has white phenotypenHeterozygote has pink (intermediate) phenotype¤Phenotype reveals genotype without a test cross",
+  "explanation": "Incomplete dominance occurs when the heterozygote displays a phenotype that is intermediate between the phenotypes of the two homozygotes. For example, crossing a homozygous red flower with a homozygous white flower results in heterozygous offspring with pink flowers. Because of this, the phenotype of the individual directly reveals its genotype, eliminating the need for a testcross to determine the underlying alleles.",
+  "questions": [
+    {
+      "q": "What is the phenotypic outcome of a heterozygote in incomplete dominance?",
+      "opts": [
+        "It expresses both parental traits fully and simultaneously.",
+        "It has a phenotype intermediate between that of either homozygote.",
+        "It only expresses the recessive phenotype.",
+        "It fails to develop."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'Heterozygote has a phenotype intermediate between that of either homozygote'."
+    },
+    {
+      "q": "Why is a genetic testcross unnecessary under incomplete dominance?",
+      "opts": [
+        "Heterozygotes do not exist.",
+        "The homozygous dominant state is lethal.",
+        "The phenotype directly reveals the genotype of the individual.",
+        "Recessive alleles are permanently deleted."
+      ],
+      "a": 2,
+      "exp": "Option C is correct because each genotype corresponds to a distinct, unique phenotype (e.g. AA is red, Aa is pink, aa is white), so the 'Phenotype reveals genotype without a test cross'."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 24,
+  "filename": "Unit_8_2.txt",
+  "section_title": "Population Ecology",
+  "page_num_in_file": 9,
+  "slide_title": "Population Growth Models¨Two working models for population growth:¤SemelparitynMembers of a population have only a single reproductive event in their lifetime  Ex: insects¤IteroparitynMembers of the population experience many reproductive events throughout their lifetime. Ex: most vertebrates, shrubs, and trees¨Exponential Growth¤Rate of population growth increases as the total number of females increases¤Biotic potential is having full effect and birthrate is a maximum during exponential growth¤Phases of an exponential growth curvenDuring the lag phase, growth is small because the population is small.nDuring the exponential growth phase, growth is accelerating.",
+  "original_text": "Population Growth Models¨Two working models for population growth:¤SemelparitynMembers of a population have only a single reproductive event in their lifetime  Ex: insects¤IteroparitynMembers of the population experience many reproductive events throughout their lifetime. Ex: most vertebrates, shrubs, and trees¨Exponential Growth¤Rate of population growth increases as the total number of females increases¤Biotic potential is having full effect and birthrate is a maximum during exponential growth¤Phases of an exponential growth curvenDuring the lag phase, growth is small because the population is small.nDuring the exponential growth phase, growth is accelerating.",
+  "explanation": "This slide details life history reproduction models and exponential growth. Organisms are classified by reproductive frequency: 1) Semelparity occurs when individuals have only a single reproductive event in their lifetime, typical of insects. 2) Iteroparity occurs when individuals experience multiple reproductive events throughout their lifetime, as seen in most vertebrates, shrubs, and trees. Exponential growth happens when the rate of population growth increases as the number of reproductive females increases. During exponential growth, biotic potential exerts its full effect, and the birthrate is at its maximum. An exponential growth curve has two phases: a lag phase, where total growth is small because the initial population is small, and an exponential growth phase, where population growth accelerates rapidly.",
+  "questions": [
+    {
+      "q": "What is the difference between semelparity and iteroparity?",
+      "opts": [
+        "Semelparity involves one single reproductive event in a lifetime, while iteroparity involves multiple reproductive events over a lifetime.",
+        "Semelparity occurs in vertebrates, while iteroparity is restricted to single-celled bacteria.",
+        "Semelparity requires sexual selection, while iteroparity is asexual.",
+        "Semelparity leads to logistic growth, while iteroparity leads only to exponential growth."
+      ],
+      "a": 0,
+      "exp": "The notes define semelparity as 'Members of a population have only a single reproductive event in their lifetime' (e.g. insects) and iteroparity as 'Members of the population experience many reproductive events throughout their lifetime' (e.g. vertebrates, shrubs, trees)."
+    },
+    {
+      "q": "What occurs during the exponential growth phase of an exponential growth curve?",
+      "opts": [
+        "Growth stops entirely as carrying capacity is reached.",
+        "Growth is small because the starting population is very small.",
+        "Growth slows down because of resource scarcity.",
+        "Growth is accelerating rapidly."
+      ],
+      "a": 3,
+      "exp": "The notes describe two phases of exponential growth: during the lag phase, 'growth is small because the population is small', and during the exponential growth phase, 'growth is accelerating.'"
+    }
+  ]
+}

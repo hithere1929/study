@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 5,
+  "filename": "Unit_8_1.txt",
+  "section_title": "Behavioral Ecology",
+  "page_num_in_file": 5,
+  "slide_title": "The Environment Influences Behavior¨Fixed Action Patterns (FAP’s)¤Unchanging behavioral response¤Increasingly, scientists have found behaviors that were thought to be FAP’s could improve with practice ¨Instinct & Learning¤A durable change in behavior brought about by experiencenEx: pecking behavior in laughing gulls (pecking leads to food)¨Imprinting¤Imitation of behavior observed during sensitive period (period of time when a particular behavior develops)nEx: Birds follow any moving object after birth   Vid1",
+  "original_text": "The Environment Influences Behavior¨Fixed Action Patterns (FAP’s)¤Unchanging behavioral response¤Increasingly, scientists have found behaviors that were thought to be FAP’s could improve with practice ¨Instinct & Learning¤A durable change in behavior brought about by experiencenEx: pecking behavior in laughing gulls (pecking leads to food)¨Imprinting¤Imitation of behavior observed during sensitive period (period of time when a particular behavior develops)nEx: Birds follow any moving object after birth   Vid1",
+  "explanation": "Environmental factors significantly impact behavior. A Fixed Action Pattern (FAP) is classically defined as an unchanging behavioral response; however, scientists have increasingly found that some behaviors once thought to be rigid FAPs can actually improve with practice. Learning is defined as a durable change in behavior that is brought about by experience, such as laughing gull chicks improving their accuracy in pecking at their parents' bills to trigger feeding. Imprinting is another form of learning where an animal imitates a behavior observed during a sensitive period (a specific developmental window). For example, newly hatched birds will imprint on and follow the first moving object they see after birth.",
+  "questions": [
+    {
+      "q": "What is imprinting?",
+      "opts": [
+        "An unchanging behavioral response that cannot be altered by practice",
+        "A durable change in behavior brought about by experience over a long period",
+        "Imitation of behavior observed during a specific sensitive period of development",
+        "A hormonal response triggered by the endocrine system immediately after birth"
+      ],
+      "a": 2,
+      "exp": "The notes define imprinting as the 'imitation of behavior observed during sensitive period (period of time when a particular behavior develops).'"
+    },
+    {
+      "q": "What has recent research shown regarding Fixed Action Patterns (FAPs)?",
+      "opts": [
+        "They are completely learned and have no genetic components.",
+        "They can improve with practice, despite being previously thought of as unchanging.",
+        "They only occur in adult birds and never in younger offspring.",
+        "They are entirely controlled by the endocrine system and hormones."
+      ],
+      "a": 1,
+      "exp": "The notes state that 'increasingly, scientists have found behaviors that were thought to be FAP’s could improve with practice.'"
+    }
+  ]
+}

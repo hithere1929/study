@@ -1,0 +1,34 @@
+{
+  "unit": 6,
+  "page": 20,
+  "filename": "Unit_6_2.txt",
+  "section_title": "Prokaryotes",
+  "page_num_in_file": 9,
+  "slide_title": "Domain Bacteria\u00a8Bacteria are the more common type of prokaryote.\u00a4Over 2,000 different bacteria have been named. \u00a4Most bacterial cells are protected by a cell wallnContains peptidoglycan\u00a8Bacteria are commonly diagnosed using the Gram stain procedure \u00a4When washed after staining: nGram-positive bacteria retain dye and appear purplenGram-negative bacteria do not retain dye and appear pink\u00a8Bacteria can be further classified in terms of their three basic shapes \u00a4Spiral (spirilli), \u00a4Rod (bacilli), and \u00a4Round (cocci)",
+  "original_text": "Domain Bacteria\u00a8Bacteria are the more common type of prokaryote.\u00a4Over 2,000 different bacteria have been named. \u00a4Most bacterial cells are protected by a cell wallnContains peptidoglycan\u00a8Bacteria are commonly diagnosed using the Gram stain procedure \u00a4When washed after staining: nGram-positive bacteria retain dye and appear purplenGram-negative bacteria do not retain dye and appear pink\u00a8Bacteria can be further classified in terms of their three basic shapes \u00a4Spiral (spirilli), \u00a4Rod (bacilli), and \u00a4Round (cocci)",
+  "explanation": "Domain Bacteria contains the more common types of prokaryotes, with over 2,000 species named. Most bacteria are surrounded by a protective cell wall containing peptidoglycan. The Gram stain procedure is commonly used for diagnosing and classifying bacteria. Gram-positive bacteria retain the primary dye and appear purple after washing, while Gram-negative bacteria lose the dye and appear pink. Bacteria are also classified based on three physical shapes: spiral (spirilli), rod-shaped (bacilli), and round (cocci).",
+  "questions": [
+    {
+      "q": "What color do Gram-positive bacteria appear after the Gram stain washing step?",
+      "opts": [
+        "Pink",
+        "Purple",
+        "Green",
+        "Colorless"
+      ],
+      "a": 1,
+      "exp": "The notes state that 'Gram-positive bacteria retain dye and appear purple'."
+    },
+    {
+      "q": "What are the three basic shapes used to classify bacteria?",
+      "opts": [
+        "Spiral (cocci), Rod (bacilli), Round (spirilli)",
+        "Spiral (spirilli), Rod (cocci), Round (bacilli)",
+        "Spiral (spirilli), Rod (bacilli), Round (cocci)",
+        "Square (bacilli), Oval (cocci), Flat (spirilli)"
+      ],
+      "a": 2,
+      "exp": "The basic shapes and names listed are: Spiral (spirilli), Rod (bacilli), and Round (cocci)."
+    }
+  ]
+}

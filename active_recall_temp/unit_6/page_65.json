@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 65,
+  "filename": "Unit_6_5.txt",
+  "section_title": "Plant Evolution & Diversity",
+  "page_num_in_file": 15,
+  "slide_title": "Angiosperms -The Flower\u00a8Penducle(flower stalk) expands at tip into receptacle\u00a4Bears sepals, petals, stamens, and carpels, all attached to receptacle in whorls\u00a4Calyx (collection of sepals) protect flower bud before it opens\u00a4Corolla (Collection of petals)\u00a8Each stamen consist of an anther and a filament (stalk)\u00a8Carpel has three major regions\u00a4Ovary \u2013Swollen base (fruit)\u00a4Style \u2013elevates stigma\u00a4Stigma \u2013Stick receptor of pollen grains\u00a8Wind-pollinated flowers are usually not showy \u00a8Bird-pollinated flowers are often colorful \u00a8Night-blooming flowers attract nocturnal mammals or insects \u00a4Usually white or cream-colored\u00a8Fruits of flowers protect and aid in dispersal \u00a4Utilize wind, gravity, water, and animals for dispersal",
+  "original_text": "Angiosperms -The Flower\u00a8Penducle(flower stalk) expands at tip into receptacle\u00a4Bears sepals, petals, stamens, and carpels, all attached to receptacle in whorls\u00a4Calyx (collection of sepals) protect flower bud before it opens\u00a4Corolla (Collection of petals)\u00a8Each stamen consist of an anther and a filament (stalk)\u00a8Carpel has three major regions\u00a4Ovary \u2013Swollen base (fruit)\u00a4Style \u2013elevates stigma\u00a4Stigma \u2013Stick receptor of pollen grains\u00a8Wind-pollinated flowers are usually not showy \u00a8Bird-pollinated flowers are often colorful \u00a8Night-blooming flowers attract nocturnal mammals or insects \u00a4Usually white or cream-colored\u00a8Fruits of flowers protect and aid in dispersal \u00a4Utilize wind, gravity, water, and animals for dispersal",
+  "explanation": "The flower develops on a peduncle (flower stalk), which expands at its tip to form the receptacle. The receptacle bears sepals, petals, stamens, and carpels attached in whorls. The calyx is the collection of sepals that protects the bud before opening, and the corolla is the collection of petals. The stamen consists of an anther and a filament stalk. The female carpel has three regions: the swollen ovary base (which becomes the fruit), the style, and the sticky stigma receptor for pollen. Flower appearance is linked to pollination: wind-pollinated flowers are not showy; bird-pollinated flowers are colorful; and night-blooming flowers are typically white or cream-colored to attract nocturnal animals. Fruits protect seeds and aid in their dispersal via wind, gravity, water, and animals.",
+  "questions": [
+    {
+      "q": "What are the three structural regions of the female carpel?",
+      "opts": [
+        "Anther, Filament, Receptacle",
+        "Ovary, Style, Stigma",
+        "Calyx, Corolla, Peduncle",
+        "Sepal, Petal, Receptacle"
+      ],
+      "a": 1,
+      "exp": "The notes list the three regions of the carpel as: 'Ovary \u2013 Swollen base (fruit)', 'Style \u2013 elevates stigma', and 'Stigma \u2013 Stick receptor of pollen grains'."
+    },
+    {
+      "q": "What terms refer to the collective structures of sepals and petals, respectively?",
+      "opts": [
+        "Anther and Filament",
+        "Stigma and Style",
+        "Calyx and Corolla",
+        "Peduncle and Receptacle"
+      ],
+      "a": 2,
+      "exp": "The notes state: 'Calyx (collection of sepals)' and 'Corolla (Collection of petals)'."
+    },
+    {
+      "q": "What is a typical adaptation of night-blooming flowers to attract nocturnal pollinators?",
+      "opts": [
+        "They are exceptionally colorful.",
+        "They are usually white or cream-colored.",
+        "They lack petals and carpels.",
+        "They rely strictly on wind pollination."
+      ],
+      "a": 1,
+      "exp": "The notes state that night-blooming flowers are 'Usually white or cream-colored'."
+    }
+  ]
+}

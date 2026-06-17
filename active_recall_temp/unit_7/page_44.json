@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 44,
+  "filename": "Unit_7_3.txt",
+  "section_title": "Plant Control of Growth Responses",
+  "page_num_in_file": 9,
+  "slide_title": "Plant Hormones: Cytokinins",
+  "original_text": "Plant Hormones Cytokinins-promote cell division Found in dividing tissues of roots, in seeds, and in fruits Varying concentrations of Auxin:Cytokininscauses differentiation into tissue types In culture, concentration changes results in formation of the different plant tissues (below) Have been used to prolong the life of flower cuttings as well as vegetables in storage Auxin and cytokininsinteract Prevent senescence(aging process) May cause shift from apical dominance to axillary bud growth",
+  "explanation": "Cytokinins are plant hormones that promote cytokinesis (cell division) and are found in actively dividing tissues like root tips, seeds, and fruits. The ratio of auxin to cytokinin concentrations determines the differentiation of cells into specific tissues (such as shoots or roots) in tissue cultures. Cytokinins are used to extend the freshness of cut flowers and stored vegetables. Cytokinins and auxins interact to prevent senescence (the aging process). Furthermore, cytokinins can oppose auxin's apical dominance, shifting growth from the terminal bud to lateral axillary buds.",
+  "questions": [
+    {
+      "q": "Which plant hormone is named for its ability to promote cell division?",
+      "opts": [
+        "Auxin",
+        "Gibberellin",
+        "Cytokinin",
+        "Abscisic acid"
+      ],
+      "a": 2,
+      "exp": "Cytokinins promote cell division (cytokinesis) and are found in dividing tissues."
+    },
+    {
+      "q": "In plant tissue culture, what determines the differentiation of undifferentiated cells into different tissues?",
+      "opts": [
+        "The absolute concentration of ethylene gas",
+        "The relative concentrations (ratio) of auxin and cytokinins",
+        "The amount of nitrogen-fixing bacteria present",
+        "The level of abscisic acid in the water"
+      ],
+      "a": 1,
+      "exp": "Varying the ratio of auxin to cytokinin concentrations determines whether plant cells differentiate into roots, shoots, or other tissues."
+    },
+    {
+      "q": "How do cytokinins and auxins interact regarding plant aging?",
+      "opts": [
+        "They promote rapid aging (senescence) to shed leaves.",
+        "They interact to prevent senescence (aging).",
+        "They have no relationship with aging.",
+        "They cause immediate cell death upon interaction."
+      ],
+      "a": 1,
+      "exp": "Auxins and cytokinins interact to prevent senescence, which is the aging process in plants."
+    }
+  ]
+}

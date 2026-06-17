@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 120,
+  "filename": "Unit_7_7.txt",
+  "section_title": "Respiratory System",
+  "page_num_in_file": 3,
+  "slide_title": "Gas Exchange Surfaces: Respiration Steps",
+  "original_text": "Gas Exchange Surfaces Respiration The events that result in gas exchange between the body s cells and environment Gas exchange occurs via diffusion Respiration steps include: Ventilation(breathing)  Inspiration (breathing in air to lungs), and expiration (breathing out air from lungs) External Respiration  Gas exchange between air and blood within the lungs Internal Respiration  Gas exchange between the blood and tissue fluid Oxygen transported by respiration moves to the mitochondria for cellular respiration occurs Organisms are either small enough to allow gas exchange across their membranes, or have developed specialized tissues to allow diffusion of gasses",
+  "explanation": "Respiration refers to all the physiological events that result in gas exchange between an organism's cells and the environment. All gas exchange occurs passively via diffusion. The process consists of three main steps: 1) Ventilation (breathing): involving inspiration (inhalation of air into the lungs) and expiration (exhalation of air out of the lungs). 2) External Respiration: the exchange of gases between air in the alveoli and blood in the pulmonary capillaries. 3) Internal Respiration: the exchange of gases between systemic capillaries and the surrounding tissue fluid. Oxygen transported by this system is delivered to cellular mitochondria to power cellular respiration.",
+  "questions": [
+    {
+      "q": "What is the difference between external and internal respiration?",
+      "opts": [
+        "External respiration involves inhalation, while internal respiration involves exhalation.",
+        "External respiration is the gas exchange between lung air and blood; internal respiration is the gas exchange between blood and tissue fluid.",
+        "External respiration occurs in the mitochondria, while internal respiration occurs in the cytoplasm.",
+        "External respiration is active transport, while internal respiration is facilitated diffusion."
+      ],
+      "a": 1,
+      "exp": "External respiration takes place in the lungs (air-to-blood exchange), whereas internal respiration occurs throughout the body tissues (blood-to-tissue exchange)."
+    },
+    {
+      "q": "Where in the cell is oxygen ultimately utilized to produce energy during cellular respiration?",
+      "opts": [
+        "Nucleus",
+        "Ribosome",
+        "Mitochondria",
+        "Golgi apparatus"
+      ],
+      "a": 2,
+      "exp": "Oxygen transported by respiration is delivered to the mitochondria, where it acts as the final electron acceptor in the electron transport chain."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 33,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 18,
+  "slide_title": "Golgi Apparatus",
+  "original_text": "Golgi Apparatus\nSystem of flattened membranous sacs (vary from 3-23)\nSacs closest to nucleus receive vesicles from ER containing newly made proteins or lipids (cis facing)\nVesicles travel through Golgi, transporting substances as they go\nStacked membranes modify contents of vesicle as they go\nProteins are labeled, which directs them to the proper part of the cell, or out of the cell\nEx: carbohydrate added to proteins",
+  "explanation": "The Golgi Apparatus is a system composed of 3 to 23 flattened membranous sacs. The cis face of the Golgi, which is closest to the nucleus, receives vesicles carrying newly made proteins or lipids from the ER. As these vesicles travel through the Golgi stack, the membrane enzymes modify their contents—for example, by adding carbohydrates to proteins to form glycoproteins. The Golgi also labels the proteins, directing them to their correct intracellular location or preparing them for export from the cell.",
+  "questions": [
+    {
+      "q": "Which face of the Golgi Apparatus is closest to the nucleus and receives vesicles from the ER?",
+      "opts": [
+        "Trans face",
+        "Cis face",
+        "Medial face",
+        "Distal face"
+      ],
+      "a": 1,
+      "exp": "The slide states that the sacs closest to the nucleus receive vesicles from the ER (cis facing)."
+    },
+    {
+      "q": "What is the primary function of the Golgi Apparatus?",
+      "opts": [
+        "Synthesizing proteins on its outer membrane",
+        "Modifying, labeling, and directing proteins/lipids to their proper destinations",
+        "Breaking down waste products via digestive enzymes",
+        "Storing genetic information in the form of DNA"
+      ],
+      "a": 1,
+      "exp": "The Golgi apparatus modifies contents of vesicles, labeling proteins to direct them to the proper part of the cell or out of the cell."
+    }
+  ]
+}

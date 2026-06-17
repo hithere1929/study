@@ -1,0 +1,23 @@
+{
+  "unit": 7,
+  "page": 51,
+  "filename": "Unit_7_3.txt",
+  "section_title": "Plant Control of Growth Responses",
+  "page_num_in_file": 16,
+  "slide_title": "Plant Responses: Sleep Movements & Circadian Rhythms",
+  "original_text": "Plant Responses Sleep movements: Occur daily in response to light and dark changesnCircadian rhythm Biological rhythms with a 24-hour cycle nTend to be persistent nRhythm is maintained in the absence of environmental stimuli nCaused by a biological clocknPhotoperiodism",
+  "explanation": "Sleep movements are daily, rhythmic movements in plants that occur in response to transitions between light and dark. These movements are guided by circadian rhythms, which are endogenous biological rhythms that operate on an approximate 24-hour cycle. Circadian rhythms are persistent and continue even in the absence of external environmental cues, indicating they are controlled by an internal biological clock. These rhythms are closely integrated with photoperiodism (the plant's response to day/night length).",
+  "questions": [
+    {
+      "q": "What is a key feature of circadian rhythms in plants?",
+      "opts": [
+        "They only occur in response to physical touch.",
+        "They operate on a 24-hour cycle and persist even without environmental stimuli.",
+        "They are growth responses that cause stems to bend toward blue light.",
+        "They require the digestion of insects to function."
+      ],
+      "a": 1,
+      "exp": "Circadian rhythms are 24-hour biological cycles that are self-sustaining and continue even in the absence of external cues, regulated by an internal biological clock."
+    }
+  ]
+}

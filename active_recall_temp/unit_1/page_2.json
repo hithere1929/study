@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 2,
+  "filename": "Unit_1_1.txt",
+  "section_title": "Lab Safety",
+  "page_num_in_file": 2,
+  "slide_title": "Lab SafetyThe “Why’s”",
+  "original_text": "Lab SafetyThe “Why’s”\n–https://youtu.be/6aK2CKrdjbE–Why is lab safety the first lesson we are receiving as freshman in biology?–Isn’t lab safety obvious?–What is the goal of this lesson?–To understand basic lab procedures–Relatively universal across all labs–https://www.youtube.com/watch?v=tsAHt0FiwNM",
+  "explanation": "This page discusses the reasoning ('Why's') behind starting biology with lab safety. It raises introductory questions about why safety is the first lesson for freshmen and whether it is obvious. It defines the main objective of the lesson, which is to understand basic laboratory procedures that are relatively universal across all scientific labs.",
+  "questions": [
+    {
+      "q": "What is the defined goal of the lab safety lesson according to the slide?",
+      "opts": [
+        "To memorize the names of all laboratory equipment",
+        "To understand basic lab procedures that are relatively universal across all labs",
+        "To perform chemical reactions without supervision",
+        "To learn how to write a scientific research paper"
+      ],
+      "a": 1,
+      "exp": "The slide explicitly lists the goal of the lesson: 'To understand basic lab procedures' which are 'Relatively universal across all labs'."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 19,
+  "filename": "Unit_5_1.txt",
+  "section_title": "Darwin & Evidence for Evolution",
+  "page_num_in_file": 19,
+  "slide_title": "Evidence for Evolution",
+  "original_text": "Evidence for Evolution\n\u00a8Biochemical Evidence\n\u00a4All living organisms:\n   nUse the same basic biochemical molecules\n   nUtilize same DNA triplet code\n   nUtilize same 20 amino acids in their proteins\n\u00a4DNA base-sequence differences:\n   nWhen very similar, suggest recent common descent\n   nWhen more different, suggest more ancient common descent",
+  "explanation": "Biochemical evidence demonstrates the unity of life through shared molecular machinery. All living organisms utilize the same basic biochemical molecules, the same DNA triplet genetic code, and the same 20 amino acids to synthesize proteins. By comparing DNA base sequences, scientists can infer evolutionary relationships: highly similar DNA sequences suggest a recent common ancestor (recent common descent), whereas greater sequence differences suggest a more distant common ancestor (ancient common descent).",
+  "questions": [
+    {
+      "q": "Which biochemical characteristic is shared by all living organisms on Earth?",
+      "opts": [
+        "They all possess a postanal tail as adults.",
+        "They utilize the same DNA triplet code and 20 amino acids in their proteins.",
+        "They contain identical DNA base sequences.",
+        "They undergo the same geographical migrations."
+      ],
+      "a": 1,
+      "exp": "According to the notes, all living organisms share basic biochemical molecules, use the same DNA triplet code, and use the same 20 amino acids for protein synthesis."
+    },
+    {
+      "q": "What do minor differences in DNA base sequences between two species indicate?",
+      "opts": [
+        "A recent common descent",
+        "A more ancient common descent",
+        "No evolutionary relationship",
+        "Catastrophic local repopulation"
+      ],
+      "a": 0,
+      "exp": "The notes explain that DNA base-sequence differences suggest recent common descent when they are very similar, and more ancient common descent when they are more different."
+    }
+  ]
+}

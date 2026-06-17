@@ -1,0 +1,27 @@
+{
+  "id": "u4_t2",
+  "title": "Euchromatin/Heterochromatin",
+  "cheat_card": [
+    "Eukaryotic chromosomes consist of a single double-helix DNA molecule wrapped around a <b>histone octet</b> (two copies each of <b>H2A, H2B, H3, H4</b>) to form beads called <b>nucleosomes</b>, with <b>H1 histone</b> facilitating folding.",
+    "<b>Euchromatin</b> is a less compacted, active form of chromatin containing genes that are <b>actively transcribed</b> by the cell.",
+    "<b>Heterochromatin</b> is a highly condensed, inactive form of chromatin containing genes that are <b>infrequently transcribed</b>, visible as dark-stained fibers.",
+    "Chromatin compaction is regulated by histone modifications: <b>acetylation (-COCH3)</b> opens chromatin to allow transcription, while <b>methylation (-CH3)</b> condenses chromatin to silence gene expression.",
+    "Epigenetic controls include <b>Barr bodies</b> (inactive condensed X chromosomes in genetic females) and <b>genomic imprinting</b> (methylation of maternal or paternal alleles during gamete formation)."
+  ],
+  "memory_anchor": "| Chromatin State | Compaction Level | Histone Modification | Transcription Activity | Microscopic Appearance |\n|---|---|---|---|---|\n| **Euchromatin** | Loose, radial loops | Acetylation (`-COCH3`) | Active (High) | Light-stained |\n| **Heterochromatin** | Highly condensed | Methylation (`-CH3`) | Inactive (Low) | Dark-stained |",
+  "flashcards": [
+    {
+      "q": "How do histone acetylation and methylation differentially affect eukaryotic gene expression?",
+      "a": "Histone acetylation adds acetyl groups (-COCH3) to histone tails, reducing their positive charge and weakening their binding to DNA, which results in a looser euchromatin structure that allows transcription. Histone methylation adds methyl groups (-CH3), leading to chromosome condensation into heterochromatin, which silences transcription."
+    },
+    {
+      "q": "What is a Barr body, and why is it biologically necessary in genetic females?",
+      "a": "A Barr body is a highly condensed, inactive X chromosome formed during embryonic development in genetic females. It is necessary for dosage compensation, ensuring that females and males produce equivalent amounts of gene products from X-linked genes."
+    },
+    {
+      "q": "Explain the concept of genomic imprinting and how it affects phenotypic expression of genes.",
+      "a": "Genomic imprinting is an epigenetic process where either the maternal or paternal allele of a gene is methylated (and thus inactivated) during gamete formation. The offspring will only express the unmethylated allele inherited from the other parent, regardless of normal DNA sequence."
+    }
+  ],
+  "outline_blanks": "Eukaryotic DNA is wound around a histone octet to form [[nucleosomes]]. Active transcription occurs in less compacted regions called [[euchromatin]], which is promoted by histone [[acetylation]]. In contrast, inactive genes are located in highly condensed, dark-staining [[heterochromatin]], which is associated with histone [[methylation]]."
+}

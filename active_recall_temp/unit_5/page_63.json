@@ -1,0 +1,23 @@
+{
+  "unit": 5,
+  "page": 63,
+  "filename": "Unit_5_3.txt",
+  "section_title": "Speciation & Macroevolution",
+  "page_num_in_file": 14,
+  "slide_title": "Modes of Speciation",
+  "original_text": "Modes of Speciation\n\u00a8Adaptive Radiation\n\u00a4Occurs when members of a species invade several new geographically separate environments\n\u00a4The populations become adapted to the different environments\n\u00a4Many new species evolve from the single ancestral species\n  nDarwin\u2019s finches are an example",
+  "explanation": "Adaptive Radiation is an evolutionary process where a single ancestral species rapidly diversifies into many new species. This occurs when members of a species colonize several newly available, geographically separate environments (such as different islands). The isolated populations adapt to the different selection pressures of their respective environments, resulting in speciation. Darwin's Gal\u00e1pagos finches represent a classic example of adaptive radiation, where different species evolved from a single common ancestor to exploit different food sources.",
+  "questions": [
+    {
+      "q": "What occurs during adaptive radiation?",
+      "opts": [
+        "A population becomes extinct due to a catastrophic event.",
+        "Members of a species colonize several new environments and adapt, leading to many new species evolving from a single ancestor.",
+        "Unrelated species evolve identical traits due to similar environmental pressures.",
+        "A population undergoes severe genetic drift due to inbreeding."
+      ],
+      "a": 1,
+      "exp": "Adaptive radiation is the rapid evolution of many diverse species from a single common ancestor when populations invade and adapt to new, different environments."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "u4_h_t5",
+  "title": "Autosomal Disorders",
+  "cheat_card": [
+    "An <b>autosome</b> is any chromosome other than a sex chromosome (humans have 22 pairs). <b>Autosomal disorders</b> are caused by abnormal genes located on these chromosomes.",
+    "In <b>autosomal dominant disorders</b>, individuals with <b>AA</b> or <b>Aa</b> genotypes have the disorder, whereas <b>aa</b> individuals do not. Affected children must have at least one affected parent.",
+    "Key autosomal dominant examples include <b>Osteogenesis Imperfecta</b> (brittle bones due to <i>type I collagen mutations</i>) and <b>Hereditary Spherocytosis</b> (fragile red blood cells due to <i>ankyrin-1 mutations</i>).",
+    "In <b>autosomal recessive disorders</b>, only <b>aa</b> individuals have the disorder; <b>Aa</b> individuals are unaffected <b>carriers</b>. Affected children can have unaffected carrier parents.",
+    "Key autosomal recessive examples include <b>Methemoglobinemia</b> (skin appears bluish-purple due to <i>methemoglobin accumulation</i>) and <b>Cystic Fibrosis</b> (thick, viscous mucus in bronchial tubes and pancreas).",
+    "A <b>pedigree</b> traces inheritance patterns: <b>squares represent males</b>, <b>circles represent females</b>, horizontal lines show unions, and vertical lines lead to offspring."
+  ],
+  "memory_anchor": "### Autosomal Inheritance Patterns\n\n| Feature | Autosomal Dominant | Autosomal Recessive |\n| :--- | :--- | :--- |\n| **Genotypes with Disorder** | **AA**, **Aa** | **aa** |\n| **Heterozygote (Aa) Status** | Affected (expressed) | Unaffected **Carrier** |\n| **Pedigree Pattern** | Does not skip generations; affected child has affected parent | Can skip generations; affected child can have normal parents |\n| **Key Examples** | Osteogenesis Imperfecta, Hereditary Spherocytosis | Cystic Fibrosis, Methemoglobinemia |",
+  "flashcards": [
+    {
+      "q": "How can you distinguish between an autosomal dominant pedigree and an autosomal recessive pedigree?",
+      "a": "In an autosomal dominant pedigree, the disorder typically appears in every generation, and every affected individual must have at least one affected parent. In an autosomal recessive pedigree, the disorder can skip generations, and an affected child can be born to two unaffected, carrier parents (Aa)."
+    },
+    {
+      "q": "Explain the molecular cause and physiological symptoms of Cystic Fibrosis.",
+      "a": "Cystic Fibrosis is an autosomal recessive disorder caused by defective chloride channel proteins. This defect leads to the accumulation of thick, viscous mucus in the bronchial tubes of the lungs and the pancreatic ducts, causing severe respiratory and digestive blockages."
+    },
+    {
+      "q": "If two individuals who are both carriers for methemoglobinemia have a child, what is the probability that their child will be affected? What if one parent is affected and one is a carrier?",
+      "a": "Methemoglobinemia is autosomal recessive. If both parents are carriers (Aa x Aa), there is a 25% (1/4) chance their child will be affected (aa). If one parent is affected (aa) and the other is a carrier (Aa), there is a 50% (1/2) chance their child will be affected (aa)."
+    }
+  ],
+  "outline_blanks": "Autosomal disorders are located on non-sex chromosomes. In autosomal dominant diseases like [[Osteogenesis Imperfecta]], which is caused by a type I collagen mutation, heterozygotes [[do]] express the disorder. Conversely, in autosomal recessive conditions like [[Cystic Fibrosis]], heterozygotes act as [[carriers]] and do not show symptoms, while homozygotes for the mutant allele [[do]] express the disease."
+}

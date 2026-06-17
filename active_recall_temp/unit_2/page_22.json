@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 22,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 22,
+  "slide_title": "3: Polarity of Water",
+  "original_text": "3: Polarity of Water¨Biological function of water comes from its chemical structure¤H’s and O share electrons in covalent bonds –unequally¤O attracts more electrons than H, pulling them toward its own nucleus¨Although molecule has net 0 charge, each atom has partial charge¤O is partially –(σ-)and Hs are partially + (σ+). When charge is not equally distributed among atoms of a molecule, known as polar",
+  "explanation": "The biological functions of water stem directly from its chemical structure. The hydrogen (H) and oxygen (O) atoms share electrons unequally via covalent bonds. Oxygen possesses a higher electronegativity, attracting the shared electrons more strongly and pulling them closer to its own nucleus. Although the overall water molecule has a net charge of zero, this unequal sharing gives rise to partial electrical charges on the individual atoms: the oxygen atom becomes partially negative (σ-), while the hydrogen atoms become partially positive (σ+). When electric charge is distributed unequally among the atoms of a molecule in this manner, the molecule is classified as polar.",
+  "questions": [
+    {
+      "q": "Why is a water molecule considered polar?",
+      "opts": [
+        "It has a net negative charge.",
+        "It has a net positive charge.",
+        "Electrons are shared unequally between oxygen and hydrogen, resulting in partial charges on the atoms.",
+        "The hydrogen atoms completely transfer their electrons to the oxygen atom."
+      ],
+      "a": 2,
+      "exp": "Water is polar because hydrogen and oxygen share electrons unequally (with oxygen attracting them more), leading to partial positive charges on hydrogens and a partial negative charge on oxygen, despite an overall net charge of zero."
+    },
+    {
+      "q": "What partial charge does the oxygen atom carry in a water molecule?",
+      "opts": [
+        "Partial positive (σ+)",
+        "Partial negative (σ-)",
+        "Net neutral (0)",
+        "Double positive (2+)"
+      ],
+      "a": 1,
+      "exp": "Because oxygen attracts the shared electrons more strongly, it acquires a partial negative charge (σ-)."
+    }
+  ]
+}

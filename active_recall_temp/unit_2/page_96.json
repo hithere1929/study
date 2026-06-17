@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 96,
+  "filename": "Unit_2_3.txt",
+  "section_title": "Movement of Molecules",
+  "page_num_in_file": 22,
+  "slide_title": "Endocytosis",
+  "original_text": "Endocytosis\nReceptor-mediated Endocytosis",
+  "explanation": "This slide displays a diagram illustrating receptor-mediated endocytosis, demonstrating how extracellular solutes bind to specific receptors on the cell membrane before the membrane invaginates to form a vesicle.",
+  "questions": [
+    {
+      "q": "What specific form of bulk transport is illustrated on this page?",
+      "opts": [
+        "Phagocytosis",
+        "Pinocytosis",
+        "Receptor-mediated Endocytosis",
+        "Exocytosis"
+      ],
+      "a": 2,
+      "exp": "The slide is titled 'Receptor-mediated Endocytosis'."
+    }
+  ]
+}

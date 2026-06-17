@@ -1,0 +1,26 @@
+{
+  "id": "u7_t6",
+  "title": "Animal Tissues",
+  "cheat_card": [
+    "<b>Epithelial Tissue</b>: Forms continuous sheets lining body cavities, anchored to a <b>basement membrane</b>. Classifed as simple (one layer: squamous, cuboidal, columnar) or stratified, joined by <b>tight, adhesion, or gap junctions</b>.",
+    "<b>Connective Tissue</b>: Consists of specialized cells in a noncellular <b>ground substance</b> with protein fibers (collagen, reticular, elastic). Categories: fibrous (loose, adipose, dense in tendons/ligaments), supportive (cartilage in <b>lacunae</b>; bone in lacunae within concentric circles of <b>osteons</b> around <b>central canals</b>), and fluid (blood, lymph).",
+    "<b>Muscular Tissue</b>: Contractile fibers containing <b>actin and myosin</b>. Skeletal is voluntary and striated; smooth is involuntary and non-striated; cardiac is striated, involuntary, and joined by <b>intercalated disks</b>.",
+    "<b>Nervous Tissue</b>: Conducts electrical impulses. Contains <b>neurons</b> (cell body, dendrites, axon) and supporting <b>neuroglia</b> (microglia, astrocytes, oligodendrocytes)."
+  ],
+  "memory_anchor": "<h3>Four Animal Tissue Types Overview</h3><ul><li><b>Epithelial: Protection & Lining</b> (Connected to basement membrane; simple/stratified squamous, cuboidal, columnar).</li><li><b>Connective: Support & Transport</b> (Cells in ground matrix; fibrous, supportive [cartilage/bone], fluid [blood/lymph]).</li><li><b>Muscular: Movement</b> (Contractile actin/myosin; skeletal [striated, voluntary], smooth [non-striated, involuntary], cardiac [striated, intercalated disks]).</li><li><b>Nervous: Communication</b> (Impulse conduction; neurons and supporting glial cells [neuroglia]).</li></ul>",
+  "flashcards": [
+    {
+      "q": "Contrast simple squamous, simple cuboidal, and simple columnar epithelial tissues.",
+      "a": "All three are single layers of cells touching the basement membrane. Simple squamous epithelia consist of flattened cells optimized for diffusion; simple cuboidal epithelia have cube-shaped cells optimized for secretion/absorption; simple columnar epithelia have tall, column-shaped cells optimized for absorption and lining the digestive tract."
+    },
+    {
+      "q": "Describe the microanatomy of compact bone tissue.",
+      "a": "Compact bone contains structural units called osteons. Within each osteon, inorganic calcium salts and protein fibers are deposited in concentric circles around a central canal (which contains blood vessels). Mature bone cells (osteocytes) reside within small chambers called lacunae."
+    },
+    {
+      "q": "Compare skeletal, smooth, and cardiac muscular tissues structurally and functionally.",
+      "a": "Skeletal muscle is voluntary, striated, and composed of long, multinucleated fibers. Smooth muscle is involuntary, spindle-shaped, and lacks striations. Cardiac muscle is striated but involuntary, consists of branching cells bound by intercalated disks, and contracts rhythmically via pacemaker cells."
+    }
+  ],
+  "outline_blanks": "Animal organs are composed of four tissue types. Epithelial tissue is anchored to a [[basement membrane]], supportive connective tissue includes bone organized into [[osteons]], and muscular tissue contains contractile [[actin and myosin]] filaments. Nervous tissue consists of conducting cells called [[neurons]] and supporting cells called [[neuroglia]]."
+}

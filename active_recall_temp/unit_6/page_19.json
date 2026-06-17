@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 19,
+  "filename": "Unit_6_2.txt",
+  "section_title": "Prokaryotes",
+  "page_num_in_file": 8,
+  "slide_title": "Nutrition \u00a8Photoautotrophs \u00a4Use solar energy to reduce carbon dioxide to organic compounds \u00a4Photosynthetic \u00a8Chemoautotrophs \u00a4Oxidize inorganic compounds to obtain the necessary energy \u00a4Use it to reduce CO2 to an organic compound\u00a4Chemosynthetic\u00a8Most prokaryotes are chemoheterotrophs that take in organic nutrients \u00a4Aerobic saprotrophs decompose most large organic molecules to smaller molecules \u00a4Essential components of healthy ecosystem \u00a8May be free-living or symbiotic \u00a4Nitrogen fixation \u00a4Commensalism \u00a4Parasites",
+  "original_text": "Nutrition \u00a8Photoautotrophs \u00a4Use solar energy to reduce carbon dioxide to organic compounds \u00a4Photosynthetic \u00a8Chemoautotrophs \u00a4Oxidize inorganic compounds to obtain the necessary energy \u00a4Use it to reduce CO2 to an organic compound\u00a4Chemosynthetic\u00a8Most prokaryotes are chemoheterotrophs that take in organic nutrients \u00a4Aerobic saprotrophs decompose most large organic molecules to smaller molecules \u00a4Essential components of healthy ecosystem \u00a8May be free-living or symbiotic \u00a4Nitrogen fixation \u00a4Commensalism \u00a4Parasites",
+  "explanation": "Prokaryotes show incredibly diverse nutritional strategies. Photoautotrophs are photosynthetic organisms that capture solar energy to reduce carbon dioxide to organic compounds. Chemoautotrophs are chemosynthetic organisms that oxidize inorganic compounds to acquire energy, which is then used to reduce CO2 to an organic compound. The majority of prokaryotes, however, are chemoheterotrophs that consume pre-formed organic nutrients. Within this group, aerobic saprotrophs decompose large organic molecules into smaller, reusable molecules, making them critical components of healthy ecosystems. Furthermore, prokaryotes can be free-living or engage in symbiotic relationships, including nitrogen fixation (mutualistic relationships), commensalism, and parasitism.",
+  "questions": [
+    {
+      "q": "How do chemoautotrophs obtain energy and build organic molecules?",
+      "opts": [
+        "By harvesting solar energy to reduce carbon dioxide",
+        "By oxidizing inorganic compounds for energy to reduce carbon dioxide into organic compounds",
+        "By decomposing dead organic matter anaerobically",
+        "By absorbing organic nutrients directly from host cell cytoplasm"
+      ],
+      "a": 1,
+      "exp": "Chemoautotrophs 'Oxidize inorganic compounds to obtain the necessary energy' and 'Use it to reduce CO2 to an organic compound'."
+    },
+    {
+      "q": "What is the primary ecological function of aerobic saprotrophs?",
+      "opts": [
+        "They perform nitrogen fixation in root nodules.",
+        "They decompose large organic molecules into smaller molecules.",
+        "They carry out photosynthesis in marine environments.",
+        "They act as obligate intracellular parasites in animals."
+      ],
+      "a": 1,
+      "exp": "The notes state that aerobic saprotrophs 'decompose most large organic molecules to smaller molecules', which makes them essential components of a healthy ecosystem."
+    },
+    {
+      "q": "Which of the following nutritional strategies is NOT mentioned in the text?",
+      "opts": [
+        "Photoautotrophy",
+        "Chemoautotrophy",
+        "Chemoheterotrophy",
+        "Photoheterotrophy"
+      ],
+      "a": 3,
+      "exp": "The slide describes photoautotrophs, chemoautotrophs, and chemoheterotrophs, but does not mention photoheterotrophs."
+    }
+  ]
+}

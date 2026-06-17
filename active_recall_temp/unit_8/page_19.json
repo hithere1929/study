@@ -1,0 +1,45 @@
+{
+  "unit": 8,
+  "page": 19,
+  "filename": "Unit_8_2.txt",
+  "section_title": "Population Ecology",
+  "page_num_in_file": 4,
+  "slide_title": "Demographics of Populations ¨Demographyis the statistical study of a population¤Demography includes population density, population distribution & growth rate of a population¨Density and Distribution¤Population Density -Number of individuals per unit area¤Population Distribution -Pattern of dispersal of individuals across an area of interestnDistribution patterns may take uniform, clumped, or random distributionsnPatterns don’t necessarily remain constant throughout an entire region¤Limiting factors are environmental aspects that particularly determine where an organism livesnLight, water, space, mates, food",
+  "original_text": "Demographics of Populations ¨Demographyis the statistical study of a population¤Demography includes population density, population distribution & growth rate of a population¨Density and Distribution¤Population Density -Number of individuals per unit area¤Population Distribution -Pattern of dispersal of individuals across an area of interestnDistribution patterns may take uniform, clumped, or random distributionsnPatterns don’t necessarily remain constant throughout an entire region¤Limiting factors are environmental aspects that particularly determine where an organism livesnLight, water, space, mates, food",
+  "explanation": "Demography is the statistical study of populations, incorporating analysis of population density, distribution, and growth rate. Population density is defined as the number of individuals per unit of area, whereas population distribution is the spatial pattern of dispersal of individuals across an area of interest. Distribution patterns can be uniform, clumped, or random, and they do not necessarily remain constant throughout a whole region. Limiting factors are specific environmental conditions that determine where an organism can live, such as light, water, space, mates, and food.",
+  "questions": [
+    {
+      "q": "What three main factors does the study of demography include?",
+      "opts": [
+        "Symbiosis, carrying capacity, and mortality rates",
+        "Population density, population distribution, and growth rate",
+        "Niche separation, resource partitioning, and survivorship curves",
+        "Genetic drift, mutation rates, and natural selection pressures"
+      ],
+      "a": 1,
+      "exp": "The notes state that 'Demography includes population density, population distribution & growth rate of a population.'"
+    },
+    {
+      "q": "What are the three possible patterns of population distribution (dispersal)?",
+      "opts": [
+        "Dense, sparse, and clustered",
+        "Uniform, clumped, and random",
+        "Linear, exponential, and logistic",
+        "Aquatic, terrestrial, and atmospheric"
+      ],
+      "a": 1,
+      "exp": "The notes explicitly state: 'Distribution patterns may take uniform, clumped, or random distributions.'"
+    },
+    {
+      "q": "Which of the following is defined as an environmental aspect that determines where an organism lives?",
+      "opts": [
+        "Limiting factor",
+        "Survivorship curve",
+        "Biotic potential",
+        "Demographic rate"
+      ],
+      "a": 0,
+      "exp": "The notes state: 'Limiting factors are environmental aspects that particularly determine where an organism lives' and list examples such as light, water, space, mates, and food."
+    }
+  ]
+}

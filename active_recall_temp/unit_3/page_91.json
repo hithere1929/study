@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 91,
+  "filename": "Unit_3_4.txt",
+  "section_title": "The Cell Cycle",
+  "page_num_in_file": 18,
+  "slide_title": "Mitosis -Summarized",
+  "original_text": "Mitosis -Summarized\nCell Cycle & Mitosis Review",
+  "explanation": "This page serves as a summary and review slide for the Cell Cycle & Mitosis.",
+  "questions": [
+    {
+      "q": "What is the purpose of the slide shown on this page?",
+      "opts": [
+        "To introduce meiosis",
+        "To summarize mitosis and review the cell cycle",
+        "To describe stem cell differentiation",
+        "To explain cancer cell checkpoints"
+      ],
+      "a": 1,
+      "exp": "The slide is titled 'Mitosis - Summarized' and has subtitle 'Cell Cycle & Mitosis Review'."
+    }
+  ]
+}

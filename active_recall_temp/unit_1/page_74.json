@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 74,
+  "filename": "Unit_1_5.txt",
+  "section_title": "Biotechnology and Bioethics",
+  "page_num_in_file": 9,
+  "slide_title": "Bioethics",
+  "original_text": "\u2013Breakout questions\n1.What do you think is meant by Bioethics?\n2.Is it possible to be an ethical scientist?\n3.What are factors that could stand in the way of ethical considerations by individuals?\n4.What are examples of individuals and/or groups in society looking out for ethics in scientific research?",
+  "explanation": "This final slide of Unit 1 presents four breakout discussion questions concerning bioethics: 1) 'What do you think is meant by Bioethics?', 2) 'Is it possible to be an ethical scientist?', 3) 'What are factors that could stand in the way of ethical considerations by individuals?', and 4) 'What are examples of individuals and/or groups in society looking out for ethics in scientific research?'",
+  "questions": [
+    {
+      "q": "What is the focus of the breakout discussion questions on Page 74?",
+      "opts": [
+        "Taxonomy and classification hierarchies",
+        "Bioethics and ethical considerations in science",
+        "Scanning and Transmission Electron Microscopy",
+        "The steps of the Scientific Method"
+      ],
+      "a": 1,
+      "exp": "The questions on the slide are focused on 'Bioethics', asking about its meaning, ethical scientist possibilities, obstacles to ethics, and groups protecting ethics in research."
+    }
+  ]
+}

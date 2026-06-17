@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 128,
+  "filename": "Unit_4_6.txt",
+  "section_title": "Meiosis",
+  "page_num_in_file": 24,
+  "slide_title": "Sexual Reproduction¨Production of offspring via meiosis and union of sperm and egg¨Offspring produced are genetically different from parent¤Genes are combined in new ways during meiosisnCrossing over and independent assortment¤Offspring contain unique combinations of parents’ genesnExcept for identical twins¨Evolutionary advantage of sexual reproduction:¤Enables species to rapidly adapt to new conditions¤Genetic variation leads to ‘survival of fittest’nOrganisms with most favorable traits survive to reproduce and pass on their traits¨Offspring from asexual reproduction are genetically identical to parent (clone)¤Offers no genetic diversity¤Simplest organisms",
+  "original_text": "Sexual Reproduction¨Production of offspring via meiosis and union of sperm and egg¨Offspring produced are genetically different from parent¤Genes are combined in new ways during meiosisnCrossing over and independent assortment¤Offspring contain unique combinations of parents’ genesnExcept for identical twins¨Evolutionary advantage of sexual reproduction:¤Enables species to rapidly adapt to new conditions¤Genetic variation leads to ‘survival of fittest’nOrganisms with most favorable traits survive to reproduce and pass on their traits¨Offspring from asexual reproduction are genetically identical to parent (clone)¤Offers no genetic diversity¤Simplest organisms",
+  "explanation": "Sexual reproduction involves producing offspring through meiosis and the subsequent fusion (union) of sperm and egg gametes. Shuffling genetic material during meiosis via crossing-over and independent assortment combines genes in new ways, yielding offspring that are genetically distinct from their parents (with the exception of identical twins). The primary evolutionary benefit of sexual reproduction is that genetic variation allows species to rapidly adapt to new conditions, driving the survival of the fittest where organisms with favorable traits live to pass them on. Conversely, asexual reproduction produces genetically identical clones of the parent, which provides no genetic diversity and is typically limited to simpler organisms.",
+  "questions": [
+    {
+      "q": "What processes during meiosis ensure that sexually reproduced offspring are genetically different from their parents?",
+      "opts": [
+        "Spermatogenesis and oogenesis",
+        "Crossing-over and independent assortment",
+        "Mitotic duplication and cytokinesis",
+        "Hormonal regulation by FSH and LH"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'Genes are combined in new ways during meiosis: Crossing over and independent assortment.'"
+    },
+    {
+      "q": "What is the key evolutionary advantage of sexual reproduction over asexual reproduction?",
+      "opts": [
+        "It requires less energy and produces identical clones.",
+        "It enables species to rapidly adapt to new conditions through genetic variation.",
+        "It prevents somatic mutations from accumulating.",
+        "It relies on the simplest cellular machinery."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states the evolutionary advantage: 'Enables species to rapidly adapt to new conditions' and explains how genetic variation drives survival of the fittest."
+    }
+  ]
+}

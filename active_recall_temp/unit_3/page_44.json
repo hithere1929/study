@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 44,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 29,
+  "slide_title": "Cytoskeleton",
+  "original_text": "Cytoskeleton",
+  "explanation": "This page serves as a transition or title slide for the Cytoskeleton.",
+  "questions": [
+    {
+      "q": "What is the title of the slide shown on this page?",
+      "opts": [
+        "Cytoskeleton",
+        "Microfilaments",
+        "Cellular Structure",
+        "Organelle Tracks"
+      ],
+      "a": 0,
+      "exp": "The slide is titled 'Cytoskeleton'."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "u3_t9",
+  "title": "Cancer",
+  "cheat_card": [
+    "<b>Cancer</b> is defined as uncontrolled cell division resulting from the accumulation of mutations. Normal cells are limited to <b>~50 cell divisions</b>, whereas cancer cells can divide indefinitely.",
+    "Cancer cells exhibit five distinct characteristics: <b>1) lack of differentiation</b> (abnormal structure and non-specialized), <b>2) abnormal nuclei</b> (enlarged, incorrect chromosome count, gene deletions/amplification), <b>3) avoidance of apoptosis</b>, <b>4) tumor formation</b> (loss of <i>contact inhibition</i>), and <b>5) metastasis & angiogenesis</b>.",
+    "<b>Metastasis</b> occurs when cells invade underlying layers, enter blood/lymph vessels, and spread. <b>Angiogenesis</b> is the process where cancer cells signal the creation of new blood vessels to supply nutrients.",
+    "Causes of cancer involve two categories of genes: <b>proto-oncogenes</b> (promote cell cycle / prevent apoptosis, acts as a \"gas pedal\" like the <i>ras gene family</i> or <i>BRCA1</i>) and <b>tumor suppressor genes</b> (inhibit cell cycle / promote apoptosis, acts as a \"brake pedal\").",
+    "Over half of all human cancers are associated with a mutated, broken, or missing <b>p53 tumor suppressor gene</b>."
+  ],
+  "memory_anchor": "### Gas Pedal vs. Brake Pedal Metaphor\n* **Proto-oncogenes** = **Gas Pedal**: Normal genes that promote cell division. A mutation turns them into **oncogenes** (stuck gas pedal), causing continuous division.\n* **Tumor Suppressors** = **Brake Pedal**: Normal genes that slow down cell division or trigger apoptosis. A mutation disables them (broken brakes), letting cell division run out of control (e.g., missing **p53**)." ,
+  "flashcards": [
+    {
+      "q": "Identify and describe the five hallmark characteristics of cancer cells.",
+      "a": "1) Lack differentiation (non-specialized and structurally abnormal). 2) Abnormal nuclei (enlarged, with altered chromosome counts or gene amplification). 3) Do not undergo apoptosis. 4) Form tumors (due to a loss of contact inhibition). 5) Undergo metastasis (spread through blood/lymph) and angiogenesis (stimulating new blood vessels)."
+    },
+    {
+      "q": "Compare the roles of proto-oncogenes and tumor suppressor genes in cell cycle control, and how mutations affect them.",
+      "a": "Proto-oncogenes act as the cell cycle 'gas pedal' by promoting cell division and preventing apoptosis; mutations turn them into overactive oncogenes (e.g., ras, BRCA1). Tumor suppressor genes act as the 'brake pedal' by inhibiting division and promoting apoptosis; mutations inactivate them, causing loss of control (e.g., mutated p53 in over 50% of cancers)."
+    },
+    {
+      "q": "Define the terms metastasis and angiogenesis, explaining their significance in cancer progression.",
+      "a": "Metastasis is the process where cancer cells break away, invade underlying tissues, enter the blood or lymph supply, and colonize other areas of the body. Angiogenesis is the recruitment of new blood vessels to the tumor site. Both allow the cancer to grow larger by securing nutrients and spread throughout the body."
+    }
+  ],
+  "outline_blanks": "Cancer is characterized by uncontrolled cell division caused by accumulated mutations. Cancer cells lose [[contact inhibition]], enabling them to form tumors, and undergo [[metastasis]] to spread through the body. Cell division is regulated by [[proto-oncogenes]] which promote growth, and [[tumor suppressor genes]] like [[p53]] which halt growth."
+}

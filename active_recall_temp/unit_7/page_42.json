@@ -1,0 +1,23 @@
+{
+  "unit": 7,
+  "page": 42,
+  "filename": "Unit_7_3.txt",
+  "section_title": "Plant Control of Growth Responses",
+  "page_num_in_file": 7,
+  "slide_title": "Plant Hormones",
+  "original_text": "Plant Hormones",
+  "explanation": "This slide acts as a section divider or title page for the discussion of specific plant hormones.",
+  "questions": [
+    {
+      "q": "Which topic is introduced by this slide?",
+      "opts": [
+        "Plant Hormones",
+        "Plant Nutrients",
+        "Root Anatomy",
+        "Leaf Structure"
+      ],
+      "a": 0,
+      "exp": "The slide serves as a transition to discuss plant hormones."
+    }
+  ]
+}

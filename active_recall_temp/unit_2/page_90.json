@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 90,
+  "filename": "Unit_2_3.txt",
+  "section_title": "Movement of Molecules",
+  "page_num_in_file": 16,
+  "slide_title": "Facilitated Diffusion",
+  "original_text": "Facilitated Diffusion¨Some proteins function by becoming a hydrophilic tunnel for passage of ions or other molecules.¨Other proteins bind their passenger, change shape, and release their passenger on the other side.¨In both cases, the transport protein helps a specific substance diffuse across the membrane down its concentration gradient and thus requires no input of energy.\nAquaporin is specific type of protein identified in the rapid diffusion of water into or out of a cell",
+  "explanation": "During facilitated diffusion, transport proteins assist solutes across the membrane using two main mechanisms: some proteins act as hydrophilic tunnels (channels) that allow ions or specific polar molecules to pass through, while other proteins (carriers) physically bind their target molecule, undergo a structural shape change, and release the molecule on the opposite side. In both instances, the protein simply helps the substance diffuse down its concentration gradient, requiring no cellular energy. A key example is aquaporin, a specialized channel protein that facilitates the rapid diffusion of water molecules into or out of cells.",
+  "questions": [
+    {
+      "q": "What is the function of an aquaporin protein?",
+      "opts": [
+        "To pump sodium ions out of the cell.",
+        "To act as a receptor for hormones.",
+        "To facilitate the rapid diffusion of water across the cell membrane.",
+        "To anchor adjacent cells in a tissue."
+      ],
+      "a": 2,
+      "exp": "Aquaporins are specialized channel proteins that allow water molecules to cross the hydrophobic membrane rapidly by facilitated diffusion."
+    },
+    {
+      "q": "What are the two ways transport proteins facilitate passive diffusion?",
+      "opts": [
+        "By releasing water and using ATP",
+        "By forming a hydrophilic tunnel, or by binding the molecule and changing shape to release it on the other side",
+        "By dissolving the lipid bilayer and pumping ions",
+        "By binding to DNA and activating transcription"
+      ],
+      "a": 1,
+      "exp": "Transport proteins can act as channel proteins (hydrophilic tunnels) or carrier proteins (which bind the solute, change shape, and release it)."
+    }
+  ]
+}

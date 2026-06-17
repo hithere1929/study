@@ -1,0 +1,34 @@
+{
+  "unit": 1,
+  "page": 5,
+  "filename": "Unit_1_1.txt",
+  "section_title": "Lab Safety",
+  "page_num_in_file": 5,
+  "slide_title": "Basic Lab Safety",
+  "original_text": "Basic Lab Safety\n–Keep long hair tied back.\n–Wear long pants, closed-toed shoes, and all other forms of clothing that will cover bare skin. Clothing should also not be loose or baggy, in order to avoid. accidents\n–Never leave a hot plate that is in use unattended; assume the hot plate is hot and never touch the heating surface.\n–Do not handle hot glassware with bare hands.\n–Students are not permitted to work alone in the laboratory.",
+  "explanation": "This slide details guidelines for personal attire and physical safety during labs. Long hair must be tied back, and clothing must cover bare skin (long pants and closed-toed shoes are required) and not be loose or baggy to avoid snagging or catching fire. When using heating devices, active hot plates must never be left unattended, and their heating surfaces should never be touched directly. Hot glassware must be handled using appropriate tools, not bare hands. Finally, working alone in the laboratory is strictly prohibited for students.",
+  "questions": [
+    {
+      "q": "Which clothing choices are mandatory to prevent accidents in the lab?",
+      "opts": [
+        "Shorts and open-toed sandals",
+        "Loose, baggy garments that allow free movement",
+        "Long pants, closed-toed shoes, and clothing that covers bare skin (avoiding loose or baggy fits)",
+        "Any clothing, as long as a protective lab coat is worn over it"
+      ],
+      "a": 2,
+      "exp": "The slide explicitly requires students to wear long pants, closed-toed shoes, and other forms of clothing that cover bare skin, while avoiding loose or baggy clothing to prevent accidents."
+    },
+    {
+      "q": "What is the safety instruction regarding hot plates and hot glassware?",
+      "opts": [
+        "Hot plates can be left unattended if set to low heat",
+        "Assume hot plates are hot, never leave them unattended when in use, and never handle hot glassware with bare hands",
+        "Hot glassware can be touched with bare hands if it has cooled for 30 seconds",
+        "Hot plates should be turned off only when they start smoking"
+      ],
+      "a": 1,
+      "exp": "The slide instructs to never leave a hot plate in use unattended, assume it is hot (never touch the surface), and avoid handling hot glassware with bare hands."
+    }
+  ]
+}

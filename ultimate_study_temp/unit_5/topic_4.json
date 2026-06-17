@@ -1,0 +1,27 @@
+{
+  "id": "u5_t4",
+  "title": "Causes of Evolution",
+  "cheat_card": [
+    "<b>Genetic Mutations & Gene Flow</b>: Mutations are rare but are the <i>raw material and driver</i> of evolution. <i>Gene flow</i> is the movement of alleles between populations, which <i>reduces genetic divergence</i> when constant, and increases it when absent.",
+    "<b>Genetic Drift & Population Size</b>: <i>Genetic drift</i> refers to random changes in allele frequencies due to chance, showing a much <i>stronger effect in small populations</i>. It includes the <i>bottleneck effect</i> (disaster randomly eliminates most individuals) and the <i>founder effect</i> (a few individuals start a new population).",
+    "<b>Nonrandom & Assortative Mating</b>: Occurs when individuals choose mates with the same phenotype (e.g., body size or feather length), which alters genotype frequencies but does not directly change allele frequencies.",
+    "<b>Modes of Natural Selection</b>: <i>Directional selection</i> shifts the phenotypic curve toward one extreme (e.g., antibiotic resistance in bacteria); <i>stabilizing selection</i> favors the intermediate phenotype and reduces variation (e.g., human birth weight); <i>disruptive selection</i> favors both extremes, creating two peaks (e.g., British land snails).",
+    "<b>Sexual Selection Dynamics</b>: Involves <i>male competition</i> (often resulting in phenotypic <i>dimorphism</i> and territoriality) and <i>female choice</i> (explained by the <i>good genes hypothesis</i> for survival traits, or the <i>runaway hypothesis</i> for aesthetic traits)."
+  ],
+  "memory_anchor": "### Modes of Natural Selection\n\n| Selection Type | Curve Shift / Impact | Slide Example | Visual Representation |\n| :--- | :--- | :--- | :--- |\n| **Directional** | Shifts peak toward one extreme phenotype | Antibiotic resistance in bacteria; increasing horse body size | One tail favored, curve moves left/right |\n| **Stabilizing** | Narrows curve; favors intermediate phenotype | Human baby birth weight survival rates | Peak gets taller/thinner, tails decrease |\n| **Disruptive** | Splits curve; favors both extreme phenotypes | British land snails in varied geographic range | Bimodal distribution (two peaks) |",
+  "flashcards": [
+    {
+      "q": "How does gene flow affect the genetic divergence between two adjacent populations of the same species?",
+      "a": "Continual gene flow reduces genetic divergence, making the two populations more genetically similar over time. If gene flow is blocked, the populations become more divergent."
+    },
+    {
+      "q": "Explain the difference between the bottleneck effect and the founder effect as mechanisms of genetic drift.",
+      "a": "The bottleneck effect occurs when a random event (like a disaster) prevents the majority of individuals from reproducing, leaving a small group whose alleles are randomly preserved. The founder effect occurs when a few colonizing individuals start a new, isolated population, carrying alleles that only represent a random sample of the original population."
+    },
+    {
+      "q": "Under what hypothesis does a female bird choose a mate with bright plumage because it indicates high fitness and resistance to parasites?",
+      "a": "This is explained by the good genes hypothesis, which states that females choose mates based on traits that reflect survival advantages and overall genetic health."
+    }
+  ],
+  "outline_blanks": "Evolution is driven by several mechanisms: mutations provide raw material, while [[gene flow]] reduces divergence between populations. In small populations, [[genetic drift]] causes random allele frequency changes via the [[bottleneck]] or founder effects. Natural selection shapes phenotypes through three modes: [[directional]] selection, stabilizing selection, or [[disruptive]] selection, which produces two distinct peaks."
+}

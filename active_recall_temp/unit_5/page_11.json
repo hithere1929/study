@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 11,
+  "filename": "Unit_5_1.txt",
+  "section_title": "Darwin & Evidence for Evolution",
+  "page_num_in_file": 11,
+  "slide_title": "Darwin\u2019s Theory of Evolution",
+  "original_text": "Darwin\u2019s Theory of Evolution\n\u00a8Natural Selection& Adaptation\n\u00a4Members of a population have inheritable variations\n\u00a4More individuals are produced in each generation than environment can support\n\u00a4Some individuals have adaptive characteristics\n   nFavorable traits that result in increased survival and reproduction\n\u00a4Natural selection can result in a population adapted to the local environment\n   nAn increasing proportion of succeeding generations will have favorable characteristics\n\u00a8Darwin\u2019s Natural Selection hypothesis was based on his observation of the tortoises and finches on the Galapagos Islands",
+  "explanation": "Darwin's hypothesis of evolutionary change is driven by natural selection and adaptation, a concept he formulated based on his observations of Gal\u00e1pagos tortoises and finches. The mechanism relies on four fundamental tenets: first, members of a biological population exhibit inheritable variations; second, in each generation, more offspring are produced than the environment has resources to support; third, some individuals possess adaptive characteristics, meaning favorable traits that boost their survival and reproductive chances; and fourth, natural selection acts to favor these individuals, resulting in a population increasingly adapted to its local environment as a higher percentage of offspring inherit these favorable traits over generations.",
+  "questions": [
+    {
+      "q": "Which of the following is a key requirement for natural selection to occur within a population?",
+      "opts": [
+        "All members of the population must be genetically identical.",
+        "The environment must support the survival of all offspring produced.",
+        "Members of the population must possess inheritable variations.",
+        "Individuals must be able to change their genes during their lifetime."
+      ],
+      "a": 2,
+      "exp": "For natural selection to work, there must be inheritable variations within a population so that some traits can be favored over others."
+    },
+    {
+      "q": "What is the ultimate result of natural selection on succeeding generations in a local environment?",
+      "opts": [
+        "An increasing proportion of individuals will possess favorable adaptive characteristics.",
+        "The population will eventually stop reproducing.",
+        "Organisms will lose all their variations and become identical clones.",
+        "The species will revert back to its ancestral form."
+      ],
+      "a": 0,
+      "exp": "Natural selection results in populations adapted to their local environments, meaning an increasing proportion of succeeding generations will carry favorable characteristics."
+    }
+  ]
+}

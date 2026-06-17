@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 130,
+  "filename": "Unit_2_5.txt",
+  "section_title": "Enzymes",
+  "page_num_in_file": 8,
+  "slide_title": "Enzymes",
+  "original_text": "Enzymes\nReactants\nProgress of the reaction\nProducts\na, b, c labels on energy curve",
+  "explanation": "This slide displays a coordinate graph representing the progress of a chemical reaction. It plots energy on the vertical axis against the progress of the reaction on the horizontal axis, marking key energy states (reactants, transition state/activation energy, and products) with labels a, b, and c.",
+  "questions": [
+    {
+      "q": "What parameters are typically plotted on the axes of an enzyme reaction coordinate graph?",
+      "opts": [
+        "Time on the vertical axis, temperature on the horizontal axis.",
+        "Energy on the vertical axis, progress of the reaction on the horizontal axis.",
+        "Solute concentration on the vertical axis, solvent volume on the horizontal axis.",
+        "pH on the vertical axis, enzyme concentration on the horizontal axis."
+      ],
+      "a": 1,
+      "exp": "Reaction coordinate graphs plot energy (potential energy) on the vertical axis versus the progress of the reaction on the horizontal axis."
+    }
+  ]
+}

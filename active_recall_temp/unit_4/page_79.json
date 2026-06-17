@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 79,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 30,
+  "slide_title": "Gene Mutations¨Development of cancer involves a series of accumulating mutations¨Proto-oncogenes –Stimulate cell division¤Mutated proto-oncogenes become oncogenes that are always active¨Tumor suppressor genes –inhibit cell division¨Mutations in oncogene and tumor suppressor genes:¤Stimulate the cell cycle uncontrollably¤Lead to tumor formation",
+  "original_text": "Gene Mutations¨Development of cancer involves a series of accumulating mutations¨Proto-oncogenes –Stimulate cell division¤Mutated proto-oncogenes become oncogenes that are always active¨Tumor suppressor genes –inhibit cell division¨Mutations in oncogene and tumor suppressor genes:¤Stimulate the cell cycle uncontrollably¤Lead to tumor formation",
+  "explanation": "The development of cancer is characterized by the accumulation of a series of genetic mutations over time. Two major types of regulatory genes are implicated: proto-oncogenes and tumor suppressor genes. Proto-oncogenes stimulate cell division; when mutated, they transform into oncogenes, which are active at all times. In contrast, tumor suppressor genes function to inhibit cell division. Mutations that activate proto-oncogenes into oncogenes or deactivate tumor suppressor genes stimulate the cell cycle to progress uncontrollably, which ultimately leads to tumor formation.",
+  "questions": [
+    {
+      "q": "What is the difference in function between proto-oncogenes and tumor suppressor genes?",
+      "opts": [
+        "Proto-oncogenes inhibit cell division, while tumor suppressor genes stimulate cell division.",
+        "Proto-oncogenes stimulate cell division, while tumor suppressor genes inhibit cell division.",
+        "Proto-oncogenes repair DNA, while tumor suppressor genes trigger apoptosis.",
+        "Proto-oncogenes promote translation, while tumor suppressor genes promote transcription."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide defines 'Proto-oncogenes - Stimulate cell division' and 'Tumor suppressor genes - inhibit cell division.' Option A swaps their roles, and Options C and D are incorrect."
+    },
+    {
+      "q": "What happens when proto-oncogenes mutate?",
+      "opts": [
+        "They are degraded by the proteasome.",
+        "They become oncogenes that are always active, stimulating cell division.",
+        "They turn into tumor suppressor genes.",
+        "They prevent the cell cycle from starting."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'Mutated proto-oncogenes become oncogenes that are always active.' The other choices are incorrect."
+    }
+  ]
+}

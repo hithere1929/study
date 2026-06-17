@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 23,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 8,
+  "slide_title": "Fluid Mosaic Model",
+  "original_text": "Fluid Mosaic Model\nPlasma membrane is dynamic\nKnown as a fluid mosaic: phospholipid bilayer behaves like a fluid more than it behaves like a solid\nMembrane lipids and proteins can move laterally within the bilayer\nThus the pattern (mosaic) of lipids and proteins in the cell membrane constantly changes",
+  "explanation": "The Fluid Mosaic Model describes the dynamic nature of the plasma membrane. Under this model, the phospholipid bilayer behaves more like a fluid than a solid. Both lipids and membrane proteins are capable of moving laterally within the bilayer. As a result, the overall pattern or 'mosaic' of lipids and proteins in the cell membrane is constantly shifting and changing.",
+  "questions": [
+    {
+      "q": "Why is the cell membrane described as a 'fluid mosaic'?",
+      "opts": [
+        "The membrane is completely solid but has a pattern of proteins.",
+        "The phospholipid bilayer behaves more like a fluid than a solid, and lipids and proteins can move laterally within it.",
+        "Water flows freely across the membrane in a mosaic pattern.",
+        "The membrane contains liquid-filled compartments called vesicles."
+      ],
+      "a": 1,
+      "exp": "The fluid mosaic model describes the membrane because the phospholipid bilayer behaves like a fluid and its lipids and proteins can move laterally, changing the pattern."
+    }
+  ]
+}

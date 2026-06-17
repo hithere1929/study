@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 52,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 37,
+  "slide_title": "Plant Cell Wall",
+  "original_text": "Plant Cell Wall\nCellulose synthesized directly on surface of plasma membrane by enzymes that travel along the membrane\nGuided by microtubules\nGrowth of primary cell wall occurs in 1 direction, based on orientation of microtubules\nOther components synthesized in the ER, travel in vesicles to the Golgi then to the cell surface\nWhen cell stops growing, secondary cell wall is synthesized between plasma membrane and primary cell wall\nVery strong; no expansion capability\nWood is composed of billions of secondary cell walls in which the cells have died and disintegrated",
+  "explanation": "Cellulose is synthesized directly on the surface of the plasma membrane by enzymes that travel along it, guided by microtubules. Because of this microtubule guidance, growth of the primary cell wall occurs in a single direction. Other components of the cell wall are synthesized in the ER, packaged into vesicles to travel to the Golgi, and then exported to the cell surface. When a plant cell ceases to grow, it synthesizes a highly rigid secondary cell wall between the plasma membrane and the primary cell wall. This secondary cell wall is extremely strong and cannot expand. Wood is composed of billions of these secondary cell walls left behind after the cells have died and disintegrated.",
+  "questions": [
+    {
+      "q": "Where is the secondary cell wall synthesized relative to the other cell layers?",
+      "opts": [
+        "Outside the primary cell wall",
+        "Between the plasma membrane and the primary cell wall",
+        "Inside the cytoplasm surrounding the vacuole",
+        "Inside the nuclear envelope"
+      ],
+      "a": 1,
+      "exp": "The slide states that when the cell stops growing, the secondary cell wall is synthesized between the plasma membrane and the primary cell wall."
+    },
+    {
+      "q": "What guides the enzymes that synthesize cellulose on the surface of the plasma membrane?",
+      "opts": [
+        "Ribosomes",
+        "Microtubules",
+        "Golgi vesicles",
+        "Intermediate filaments"
+      ],
+      "a": 1,
+      "exp": "Enzymes that synthesize cellulose travel along the plasma membrane and are guided by microtubules."
+    }
+  ]
+}

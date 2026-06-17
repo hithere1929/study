@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 72,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 36,
+  "slide_title": "4: Nucleic Acids",
+  "original_text": "4: Nucleic Acids",
+  "explanation": "This slide serves as a header placeholder for nucleic acids.",
+  "questions": [
+    {
+      "q": "What category of organic molecules is featured on this placeholder slide?",
+      "opts": [
+        "Proteins",
+        "Carbohydrates",
+        "Lipids",
+        "Nucleic Acids"
+      ],
+      "a": 3,
+      "exp": "The slide is titled '4: Nucleic Acids'."
+    }
+  ]
+}

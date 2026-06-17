@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 48,
+  "filename": "Unit_1_3.txt",
+  "section_title": "The Process of Science",
+  "page_num_in_file": 14,
+  "slide_title": "The Scientific MethodCase Study 2",
+  "original_text": "Beach populationInland population",
+  "explanation": "This slide lists 'Beach population' and 'Inland population', which are the two environments or populations studied in the mouse camouflage experiment (Case Study 2).",
+  "questions": [
+    {
+      "q": "Which two mouse populations/habitats were compared in Case Study 2?",
+      "opts": [
+        "Forest population and Desert population",
+        "Beach population and Inland population",
+        "Mountain population and Valley population",
+        "Urban population and Rural population"
+      ],
+      "a": 1,
+      "exp": "The slide content lists: 'Beach population' and 'Inland population'."
+    }
+  ]
+}

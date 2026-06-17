@@ -1,0 +1,23 @@
+{
+  "unit": 5,
+  "page": 60,
+  "filename": "Unit_5_3.txt",
+  "section_title": "Speciation & Macroevolution",
+  "page_num_in_file": 11,
+  "slide_title": "How New Species Evolve",
+  "original_text": "How New Species Evolve\n\u00a8Reproductive Isolating Mechanisms (cont.)\n\u00a8Postzygotic Isolating Mechanisms-Prevent hybrid offspring from developing or breeding\n\u00a4Hybrid Inviability-hybrid zygote is not viable and dies\n\u00a4Hybrid Sterility -hybrid zygote develops into a sterile adult",
+  "explanation": "Postzygotic Isolating Mechanisms are reproductive barriers that act after fertilization has occurred, preventing hybrid offspring from successfully developing or reproducing. The slide details two main types: (1) Hybrid Inviability, where the hybrid zygote is genetically incompatible, fails to develop properly, and dies; and (2) Hybrid Sterility, where the hybrid zygote successfully develops into an adult, but the adult is sterile (unable to produce gametes/offspring), thereby halting further gene flow between the parent species.",
+  "questions": [
+    {
+      "q": "What is the difference between hybrid inviability and hybrid sterility?",
+      "opts": [
+        "Hybrid inviability occurs before fertilization; hybrid sterility occurs after fertilization.",
+        "Hybrid inviability means the hybrid zygote dies; hybrid sterility means the hybrid develops into a sterile adult.",
+        "Hybrid inviability occurs in plants; hybrid sterility occurs in animals.",
+        "Hybrid inviability leads to polyploidy; hybrid sterility leads to genetic drift."
+      ],
+      "a": 1,
+      "exp": "Hybrid inviability refers to the death of the hybrid zygote, while hybrid sterility refers to the hybrid successfully growing into an adult but being unable to reproduce."
+    }
+  ]
+}

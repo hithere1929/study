@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 108,
+  "filename": "Unit_3_5.txt",
+  "section_title": "Stem Cells & Cancer",
+  "page_num_in_file": 14,
+  "slide_title": "Cancer",
+  "original_text": "Cancer\n4.Cancer cells form tumors\nNormal cells stop dividing when they come in contact with other cells \nContact inhibition\nCancer cells have lost this restraint\n5.Cancer cells undergo metastasis and angiogenesis\nInvade underlying layers and can enter blood supply and spread to other areas of the body \nmetastasis\nAcquired mutations may allow cells to signal the creation of new blood vessels to supply it nutrients to grow \nangiogenesis\nCancer treatments aim to attack some of these attributes",
+  "explanation": "Cancer cells exhibit two other key characteristics. Fourth, cancer cells form tumors because they have lost contact inhibition, which is the mechanism that causes normal cells to stop dividing when they make contact with neighboring cells. Fifth, cancer cells undergo metastasis and angiogenesis. Metastasis occurs when cancer cells invade underlying tissue layers, enter the blood supply, and spread to form secondary tumors in other areas of the body. Angiogenesis is the process where acquired mutations enable cancer cells to release signals that stimulate the formation of new blood vessels, supplying the tumor with nutrients needed for growth. Modern cancer treatments are designed to target these specific cellular abnormalities.",
+  "questions": [
+    {
+      "q": "What is the term for the spread of cancer cells to other areas of the body via the blood supply?",
+      "opts": [
+        "Angiogenesis",
+        "Metastasis",
+        "Apoptosis",
+        "Contact inhibition"
+      ],
+      "a": 1,
+      "exp": "Metastasis is the process where cancer cells invade underlying layers, enter the blood supply, and spread to other areas of the body."
+    },
+    {
+      "q": "What is angiogenesis in the context of cancer growth?",
+      "opts": [
+        "The programmed death of cancer cells",
+        "The signaling and creation of new blood vessels to supply nutrients to the tumor",
+        "The loss of contact inhibition between dividing cells",
+        "The packing of DNA around histone proteins"
+      ],
+      "a": 1,
+      "exp": "Angiogenesis is when acquired mutations allow cancer cells to signal the creation of new blood vessels to supply the tumor with nutrients to grow."
+    }
+  ]
+}

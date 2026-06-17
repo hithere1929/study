@@ -1,0 +1,30 @@
+{
+  "id": "u8_t9",
+  "title": "Light dependent/independent",
+  "cheat_card": [
+    "<b>Light-dependent reactions</b> occur in the <b>thylakoids</b>, converting light and water into <b>ATP and NADPH</b> while releasing oxygen.",
+    "<b>Light-independent reactions (Calvin Cycle)</b> occur in the <b>stroma</b>, utilizing ATP and NADPH to reduce $CO_2$ to a carbohydrate.",
+    "The Calvin Cycle has three phases: <b>$CO_2$ fixation</b>, <b>$CO_2$ reduction</b>, and <b>RuBP regeneration</b>.",
+    "<b>$CO_2$ fixation</b> is catalyzed by <b>Rubisco</b>, attaching $CO_2$ to the 5-carbon <b>RuBP</b>, which splits into two 3-carbon <b>3PG</b> molecules.",
+    "For every <b>three turns</b> of the Calvin Cycle, <b>five G3P</b> are recycled into <b>three RuBP</b>, with one G3P exiting the cycle."
+  ],
+  "memory_anchor": "Calvin Cycle Math:\n3 CO2 + 3 RuBP (5C) = 6 3PG (3C)\n6 3PG + 6 ATP + 6 NADPH = 6 G3P (3C)\n5 G3P (15C) + 3 ATP = 3 RuBP (15C) [Regeneration]\n1 Net G3P exits to make glucose (requires 6 turns total).",
+  "flashcards": [
+    {
+      "q": "Compare the cellular location and primary inputs/outputs of the light-dependent reactions and the Calvin Cycle.",
+      "q_id": "u8_t9_f1",
+      "a": "Light-dependent reactions occur in the thylakoid membranes, inputting light and water to output ATP, NADPH, and oxygen. The Calvin Cycle occurs in the stroma, inputting carbon dioxide, ATP, and NADPH to output G3P (carbohydrates)."
+    },
+    {
+      "q": "What role does the enzyme Rubisco play in carbon fixation, and what is its abundance in the chloroplast?",
+      "q_id": "u8_t9_f2",
+      "a": "Rubisco (RuBP carboxylase) catalyzes the attachment of carbon dioxide to the 5-carbon molecule RuBP. It is highly abundant, making up 20% to 50% of all chloroplast protein."
+    },
+    {
+      "q": "Explain the mathematical recycling of G3P to RuBP in the regeneration phase of the Calvin Cycle.",
+      "q_id": "u8_t9_f3",
+      "a": "To keep the cycle running, for every 3 turns of the Calvin Cycle, 5 molecules of G3P (each with 3 carbons, totaling 15 carbons) are converted using ATP into 3 molecules of RuBP (each with 5 carbons, totaling 15 carbons)."
+    }
+  ],
+  "outline_blanks": "The light reactions occur in the thylakoids and generate ATP and NADPH, which are then used in the stroma during the [[Calvin Cycle]]. The first step of this light-independent process is carbon fixation, where CO2 is attached to RuBP by the enzyme [[Rubisco]]. The resulting molecules are reduced to G3P, with five of these molecules recycled to regenerate [[three]] molecules of RuBP."
+}

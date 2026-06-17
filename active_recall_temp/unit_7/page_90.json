@@ -1,0 +1,23 @@
+{
+  "unit": 7,
+  "page": 90,
+  "filename": "Unit_7_5.txt",
+  "section_title": "Animal Organization",
+  "page_num_in_file": 17,
+  "slide_title": "The Integumentary System",
+  "original_text": "The Integumentary System",
+  "explanation": "This slide is a divider page introducing the integumentary system.",
+  "questions": [
+    {
+      "q": "What is the primary topic of this slide?",
+      "opts": [
+        "Homeostasis",
+        "The Integumentary System",
+        "Fluid Connective Tissue",
+        "Epithelial Junctions"
+      ],
+      "a": 1,
+      "exp": "The slide serves as a title or transition page for the Integumentary System."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 38,
+  "filename": "Unit_7_3.txt",
+  "section_title": "Plant Control of Growth Responses",
+  "page_num_in_file": 3,
+  "slide_title": "Plant Hormones: Environmental Stimuli",
+  "original_text": "Plant Hormones Flowering plants respond to environmental stimuli Stimuli include light, gravity, carbon dioxide levels, pathogen infection, drought, and touch Response to stimuli leads to the survival of the species The responses can be: Short term nStomata open and close in response to light levels. Long term nThe response to gravity causes downward growth of the root and the upward growth of the stem Response of plants to environmental stimuli involves signal transduction The binding of a molecular signal that initiates and amplifies a response.",
+  "explanation": "Flowering plants respond to environmental stimuli (including light, gravity, carbon dioxide levels, pathogen infection, drought, and touch) to ensure species survival. These responses can be short-term, such as guard cells opening and closing stomata in response to changing light levels, or long-term, such as gravitropism causing roots to grow downward and stems to grow upward. Environmental responses involve signal transduction, a process in which the binding of a molecular signal (hormone or environmental trigger) to a receptor initiates and amplifies a cellular response cascade.",
+  "questions": [
+    {
+      "q": "Which of the following is an example of a long-term response of a plant to an environmental stimulus?",
+      "opts": [
+        "Stomata opening and closing in response to light",
+        "Growth of the root downward and stem upward in response to gravity",
+        "Rapid trapping of an insect by a Venus flytrap",
+        "Active pumping of K+ ions into guard cells"
+      ],
+      "a": 1,
+      "exp": "Gravitropism (downward growth of roots and upward growth of stems) is a long-term growth response, while stomatal opening/closing is a short-term response."
+    },
+    {
+      "q": "What is signal transduction in plant biology?",
+      "opts": [
+        "The physical transport of sucrose through phloem sieve tubes",
+        "The process where a molecular signal binds to a receptor to initiate and amplify a response",
+        "The evaporation of water from leaves during transpiration",
+        "The mechanical mixing of soil by burrowing animals"
+      ],
+      "a": 1,
+      "exp": "Signal transduction involves a molecular signal binding to a receptor, which triggers and amplifies a pathway leading to a cellular response."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 89,
+  "filename": "Unit_3_4.txt",
+  "section_title": "The Cell Cycle",
+  "page_num_in_file": 16,
+  "slide_title": "Cytokinesis",
+  "original_text": "Cytokinesis\nDuring telophase, cytoplasm begins to divide \nCytokinesis begins with cell membrane pinching inward at midpoint of poles of dividing cell\nPinched in area eventually separates dividing cell into two cells at cleavage furrow\nCleavage furrow pinches two cells completely apart by the action of microfilaments \nPlant cells: vesicles from Golgi join together at midline of dividing cell to form cell plate; cell wall eventually forms there dividing into 2 separate cells \nOffspring cells approx. equal in size; receive identical copy of original chromosomes, half cytoplasm & organelles of original cell \nReturn to 2n",
+  "explanation": "During telophase, cytokinesis begins as the cell's cytoplasm starts to divide. In animal cells, the cell membrane pinches inward at the midpoint between poles, forming a cleavage furrow. Microfilaments act to pinch the cell completely apart into two cells. In plant cells, cytokinesis occurs differently: vesicles from the Golgi apparatus join together at the cell midline to construct a cell plate, which eventually develops into a new cell wall, separating the plant cell. The resulting daughter cells are approximately equal in size, receiving an identical copy of the chromosomes, and half of the parent cell's cytoplasm and organelles, returning them to the diploid (2n) state.",
+  "questions": [
+    {
+      "q": "How does cytokinesis differ between plant and animal cells?",
+      "opts": [
+        "Animal cells form a cell plate; plant cells form a cleavage furrow.",
+        "Animal cells form a cleavage furrow pinched by microfilaments; plant cells form a cell plate from Golgi vesicles.",
+        "Animal cells divide their nuclei; plant cells do not divide their nuclei.",
+        "Animal cells use polar fibers; plant cells use kinetochore fibers."
+      ],
+      "a": 1,
+      "exp": "In animal cells, cytokinesis involves a cleavage furrow pinching the cell apart using microfilaments. In plant cells, vesicles from the Golgi join at the midline to form a cell plate, which eventually becomes a new cell wall."
+    },
+    {
+      "q": "What do the daughter cells receive upon the completion of cytokinesis?",
+      "opts": [
+        "An identical copy of chromosomes, and approximately half of the cytoplasm and organelles.",
+        "Double the chromosome number of the parent cell.",
+        "Only cytoplasm and no organelles.",
+        "Only ribosomes and mitochondria, but no DNA."
+      ],
+      "a": 0,
+      "exp": "Offspring cells receive an identical copy of the original chromosomes, and approximately half the cytoplasm and organelles of the parent cell, returning to the diploid (2n) state."
+    }
+  ]
+}

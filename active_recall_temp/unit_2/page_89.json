@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 89,
+  "filename": "Unit_2_3.txt",
+  "section_title": "Movement of Molecules",
+  "page_num_in_file": 15,
+  "slide_title": "Facilitated Diffusion",
+  "original_text": "Facilitated Diffusion¨Hydrophobic substances easily diffuse across a cell membrane.¨However, polar or charged substances do not easily cross cell membranes and, instead, move across membranes with the help of specific transport proteins in a process called facilitated diffusion, which¤does not require energy and¤relies on the concentration gradient.",
+  "explanation": "Hydrophobic (nonpolar) substances can easily diffuse directly across the cell membrane's lipid bilayer. However, polar or charged substances cannot pass through the hydrophobic core easily. Instead, they cross membranes with the assistance of specific membrane-bound transport proteins. This process is called facilitated diffusion. Because it is a form of passive transport, it does not require energy expenditure by the cell and relies entirely on the existing concentration gradient, moving substances down their gradient.",
+  "questions": [
+    {
+      "q": "How does facilitated diffusion differ from simple diffusion?",
+      "opts": [
+        "It requires ATP energy to move molecules.",
+        "It moves molecules against their concentration gradient.",
+        "It requires the assistance of specific membrane transport proteins.",
+        "It only allows hydrophobic molecules to pass."
+      ],
+      "a": 2,
+      "exp": "Facilitated diffusion is passive and moves solutes down their gradient like simple diffusion, but it requires specific transport proteins to help polar or charged molecules cross the membrane."
+    },
+    {
+      "q": "Does facilitated diffusion require energy expenditure from the cell?",
+      "opts": [
+        "Yes, it requires ATP to change the shape of transport proteins.",
+        "No, it is a passive process that relies on the concentration gradient.",
+        "Yes, but only for moving hydrophobic substances.",
+        "No, but it only occurs when the cell is dead."
+      ],
+      "a": 1,
+      "exp": "Facilitated diffusion requires no energy input because it is a passive transport mechanism driving molecules down their concentration gradient."
+    }
+  ]
+}

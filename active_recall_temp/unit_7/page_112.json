@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 112,
+  "filename": "Unit_7_6.txt",
+  "section_title": "Circulation & Cardiovascular System",
+  "page_num_in_file": 18,
+  "slide_title": "Blood: Red Blood Cells & Blood Types",
+  "original_text": "Blood Red Blood Cells (RBCs) Small, biconcave disks Lack a nucleus and contain hemoglobin Hemoglobin contains Four globin protein chains, each associated with an iron-containing heme group (associates with and carries oxygen) Manufactured continuously in bone marrow of skull, ribs, vertebrae, and ends of long bones Blood Types Determined by the presence or absence of a surface antigen ABO System Rh System Antibodies in the plasma can cause agglutination Cross-reactions occur when antigens meet antibodies",
+  "explanation": "1) Red Blood Cells (RBCs, or erythrocytes) are small, biconcave disks that lack a nucleus at maturity, maximizing hemoglobin storage. Hemoglobin is a protein composed of four globin chains, each containing an iron-bearing heme group that binds and transports oxygen. RBCs are continuously produced in the red bone marrow (skull, ribs, vertebrae, and long bone ends). 2) Blood types are determined by the presence of surface antigens on RBCs (ABO and Rh systems). If incompatible blood is transfused, recipient plasma antibodies bind to donor antigens, causing agglutination (clumping), which is a dangerous cross-reaction.",
+  "questions": [
+    {
+      "q": "What is the structure of hemoglobin, and where is it located?",
+      "opts": [
+        "Four globin protein chains with iron-containing heme groups; located in Red Blood Cells",
+        "Two actin and two myosin filaments; located in muscle fibers",
+        "Fibrin threads and platelets; located in blood clots",
+        "Granules containing histamines; located in basophils"
+      ],
+      "a": 0,
+      "exp": "Hemoglobin is the oxygen-carrying protein in Red Blood Cells, consisting of four globin polypeptide chains, each containing an iron-bearing heme group."
+    },
+    {
+      "q": "Where in the body are red blood cells produced?",
+      "opts": [
+        "In the spleen and liver",
+        "In the yellow bone marrow of the pelvis",
+        "In the red bone marrow of the skull, ribs, vertebrae, and long bones",
+        "In the thymus and lymph nodes"
+      ],
+      "a": 2,
+      "exp": "RBCs are produced continuously in the red bone marrow found in the skull, ribs, vertebrae, and the ends of long bones."
+    },
+    {
+      "q": "What is the immunological result of transfusing incompatible blood types?",
+      "opts": [
+        "Somatic embryogenesis",
+        "Agglutination (clumping) due to antibodies binding to target surface antigens",
+        "Dilution of plasma proteins",
+        "Stimulation of erythropoietin in the kidneys"
+      ],
+      "a": 1,
+      "exp": "If incompatible blood is introduced, antibodies in the recipient's plasma bind to the foreign antigens on the donor RBCs, causing agglutination (clumping)."
+    }
+  ]
+}

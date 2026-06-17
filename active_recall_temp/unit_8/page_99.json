@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 99,
+  "filename": "Unit_8_6.txt",
+  "section_title": "Major Ecosystems of the Biosphere",
+  "page_num_in_file": 8,
+  "slide_title": "Terrestrial Ecosystems¨Coniferous Forests¤Found in the taiga, near mountaintops, and along the Pacific Coast of North America¤Taigatypifies coniferous forest with cone-bearing treesnTrees well adapted to coldnLeaves and bark have thick coveringnNeedle-like leaves can withstand weight of heavy snowfall¤Temperate Rainforest (old-growth forest) of Pacific NorthwestnEvergreen forest¤Mostly colder-adapted organisms prevalent in this ecosystem",
+  "original_text": "Terrestrial Ecosystems¨Coniferous Forests¤Found in the taiga, near mountaintops, and along the Pacific Coast of North America¤Taigatypifies coniferous forest with cone-bearing treesnTrees well adapted to coldnLeaves and bark have thick coveringnNeedle-like leaves can withstand weight of heavy snowfall¤Temperate Rainforest (old-growth forest) of Pacific NorthwestnEvergreen forest¤Mostly colder-adapted organisms prevalent in this ecosystem",
+  "explanation": "Coniferous forests are located in the subarctic taiga, near high-altitude mountaintops, and along the Pacific Coast of North America. The taiga represents the classic coniferous forest, characterized by cone-bearing trees (conifers). These trees are highly adapted to freezing temperatures: their leaves and bark feature thick, protective coverings, and their needle-like leaves are structurally built to shed and withstand heavy snowfall. Additionally, the Pacific Northwest contains temperate rainforests (old-growth forests), which are evergreen coniferous forests. The organisms in these coniferous ecosystems are predominantly adapted to cold climates.",
+  "questions": [
+    {
+      "q": "What adaptations allow coniferous trees in the taiga to survive cold climates and heavy snow?",
+      "opts": [
+        "Broad, thin leaves that drop off in winter",
+        "Leaves and bark with thick coverings, and needle-like leaves that withstand heavy snowfall",
+        "Fleshy, water-storing stems and shallow root networks",
+        "The ability to perform CAM photosynthesis at night"
+      ],
+      "a": 1,
+      "exp": "The notes state that trees in the taiga are 'well adapted to cold', 'Leaves and bark have thick covering', and 'Needle-like leaves can withstand weight of heavy snowfall.'"
+    },
+    {
+      "q": "Where are coniferous forests found according to the notes?",
+      "opts": [
+        "At equatorial regions with nutrient-poor soils",
+        "In the taiga, near mountaintops, and along the Pacific Coast of North America",
+        "Exclusively in coastal chaparral environments",
+        "At latitudes of 30 degrees North and South"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Found in the taiga, near mountaintops, and along the Pacific Coast of North America.'"
+    }
+  ]
+}

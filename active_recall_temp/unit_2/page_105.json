@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 105,
+  "filename": "Unit_2_4.txt",
+  "section_title": "Metabolism",
+  "page_num_in_file": 8,
+  "slide_title": "Thermodynamics",
+  "original_text": "Thermodynamics¨Thermodynamicsis the study of energy transformations that occur in a collection of matter.¥The word systemis used for the matter under study.¥The word surroundingsis used for everything outside the system; the rest of the universe.",
+  "explanation": "Thermodynamics is the scientific study of energy transformations that occur within a designated collection of matter. In thermodynamic terminology, the term 'system' refers to the specific matter that is being studied or observed, while the term 'surroundings' refers to everything outside of that system, representing the remainder of the universe.",
+  "questions": [
+    {
+      "q": "What is thermodynamics?",
+      "opts": [
+        "The study of chemical bonds in organic molecules.",
+        "The study of energy transformations that occur in a collection of matter.",
+        "The study of heat tolerance in animals.",
+        "The study of water movement across membranes."
+      ],
+      "a": 1,
+      "exp": "Thermodynamics is defined as the study of energy transformations within a collection of matter."
+    },
+    {
+      "q": "In thermodynamics, what is the term for the matter under study?",
+      "opts": [
+        "Surroundings",
+        "System",
+        "Universe",
+        "Entropy"
+      ],
+      "a": 1,
+      "exp": "The 'system' is the specific matter under study, and the 'surroundings' is everything else."
+    }
+  ]
+}

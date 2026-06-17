@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 56,
+  "filename": "Unit_5_3.txt",
+  "section_title": "Speciation & Macroevolution",
+  "page_num_in_file": 7,
+  "slide_title": "How New Species Evolve",
+  "original_text": "How New Species Evolve\n\u00a8Phylogenetic Species Concept\n\u00a4Relies on the identification of species based on common ancestry\n\u00a4Evolutionary \u201cfamily tree\u201d, or phylogenetic tree used\n\u00a4A branch that contains all descendants of a common ancestor is known as monophyletic\u2013criterion used for defining a species\n\u00a4Advantage is it relies on DNA sequence, and not morphological traits",
+  "explanation": "The Phylogenetic Species Concept defines species based on common ancestry. It utilizes phylogenetic trees, which act as evolutionary family trees. Under this concept, a species is identified using the monophyletic criterion: a monophyletic group is a branch on the tree that contains a common ancestor and all of its descendants. The major advantage of the phylogenetic species concept is its reliance on objective DNA sequence comparison rather than morphological traits, bypassing the issues of cryptic species and organisms lacking physical characteristics.",
+  "questions": [
+    {
+      "q": "What does it mean for a group to be 'monophyletic' in the context of the Phylogenetic Species Concept?",
+      "opts": [
+        "The group contains organisms that look morphologically identical.",
+        "The group consists of a branch containing a common ancestor and all of its descendants.",
+        "The group can only reproduce through self-fertilization.",
+        "The group has been isolated by a geographic barrier."
+      ],
+      "a": 1,
+      "exp": "Monophyletic is defined as a branch on a phylogenetic tree that contains all the descendants of a common ancestor."
+    },
+    {
+      "q": "What is a primary advantage of the Phylogenetic Species Concept?",
+      "opts": [
+        "It is based purely on fossil footprints.",
+        "It relies on objective DNA sequences rather than morphological traits.",
+        "It can easily be tested by breeding any animals in a lab.",
+        "It ignores common ancestry."
+      ],
+      "a": 1,
+      "exp": "By using DNA sequences instead of morphological characteristics, the phylogenetic concept provides an objective genetic basis for identifying species."
+    }
+  ]
+}

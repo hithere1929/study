@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 51,
+  "filename": "Unit_8_3.txt",
+  "section_title": "Community & Ecosystem Ecology",
+  "page_num_in_file": 17,
+  "slide_title": "Dynamics of an Ecosystem¨The Nitrogen Cycle¤Nitrogen gas makes up about 78% of the atmospherenPlants cannot use nitrogen gas, so nitrogen is a limiting factor, must be converted¤Nitrogen FixationnCarried out by some cyanobacteria and bacterianConversion of nitrogen gas (N2) to ammonium ions (NH4+)nPlants can use ammonium ions¤Nitrification: production of nitrates which plants can also usenNitrogen gas converted to nitrate in atmosphere by lightning, meteor trails, cosmic radiationnAmmonium in soil converted to nitrate by nitrifying bacteria¤Plants take up ammonium and nitrates to produce proteins and amino acids¤Denitrification: conversion of nitrate back to nitrogen gas by denitrifying bacteria",
+  "original_text": "Dynamics of an Ecosystem¨The Nitrogen Cycle¤Nitrogen gas makes up about 78% of the atmospherenPlants cannot use nitrogen gas, so nitrogen is a limiting factor, must be converted¤Nitrogen FixationnCarried out by some cyanobacteria and bacterianConversion of nitrogen gas (N2) to ammonium ions (NH4+)nPlants can use ammonium ions¤Nitrification: production of nitrates which plants can also usenNitrogen gas converted to nitrate in atmosphere by lightning, meteor trails, cosmic radiationnAmmonium in soil converted to nitrate by nitrifying bacteria¤Plants take up ammonium and nitrates to produce proteins and amino acids¤Denitrification: conversion of nitrate back to nitrogen gas by denitrifying bacteria",
+  "explanation": "Nitrogen gas (N2) comprises approximately 78% of the Earth's atmosphere, but plants cannot use gaseous nitrogen directly, making it a limiting factor. The nitrogen cycle converts N2 into usable forms: 1) Nitrogen fixation is carried out by certain cyanobacteria and bacteria, converting nitrogen gas into ammonium ions (NH4+), which plants can assimilate. 2) Nitrification produces nitrates (NO3-), another usable form. Gaseous nitrogen is converted to nitrates in the atmosphere by lightning, meteor trails, and cosmic radiation, while soil ammonium is converted to nitrate by nitrifying bacteria. Plants absorb ammonium and nitrates to synthesize proteins and amino acids. 3) Denitrification is the conversion of nitrate back into nitrogen gas by denitrifying bacteria, completing the cycle.",
+  "questions": [
+    {
+      "q": "What is nitrogen fixation and what organisms perform it?",
+      "opts": [
+        "Conversion of nitrates to gaseous nitrogen by plants",
+        "Conversion of nitrogen gas to ammonium ions by some cyanobacteria and bacteria",
+        "Assimilation of nitrates into amino acids by herbivores",
+        "Conversion of soil ammonium to nitrate by terrestrial fungi"
+      ],
+      "a": 1,
+      "exp": "The notes define nitrogen fixation as: 'Conversion of nitrogen gas (N2) to ammonium ions (NH4+)' and state it is 'Carried out by some cyanobacteria and bacteria.'"
+    },
+    {
+      "q": "Which bacterial process converts soil nitrates back into nitrogen gas?",
+      "opts": [
+        "Nitrification",
+        "Nitrogen fixation",
+        "Eutrophication",
+        "Denitrification"
+      ],
+      "a": 3,
+      "exp": "The notes define denitrification as the 'conversion of nitrate back to nitrogen gas by denitrifying bacteria.'"
+    }
+  ]
+}

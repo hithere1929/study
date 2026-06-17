@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 64,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 13,
+  "slide_title": "1) Chromatin Structure Regulation¨Euchromatin is DNA less compacted and available for transcription. Heterochromatin more compacted and not going through transcription.¨Histone proteins that are involved in compaction of DNA are also involved in regulation. ¤Histones have tails ¤In heterochromatin, tails have methyl group added, or are methylated (-CH3)¤In euchromatin, tails have acetyl groups added, or are acetylated (-COCH3)¤Chromatin Remodeling Complexcan push aside acetylated histones to allow transcription to occur",
+  "original_text": "1) Chromatin Structure Regulation¨Euchromatin is DNA less compacted and available for transcription. Heterochromatin more compacted and not going through transcription.¨Histone proteins that are involved in compaction of DNA are also involved in regulation. ¤Histones have tails ¤In heterochromatin, tails have methyl group added, or are methylated (-CH3)¤In euchromatin, tails have acetyl groups added, or are acetylated (-COCH3)¤Chromatin Remodeling Complexcan push aside acetylated histones to allow transcription to occur",
+  "explanation": "The structure of chromatin plays a major role in gene regulation. Euchromatin is a loosely compacted form of DNA, making genes accessible to RNA polymerase for transcription. In contrast, heterochromatin is highly compacted DNA that is transcriptionally inactive. The histone proteins around which DNA wraps are directly involved in this structural regulation. Histones have tail regions that can be chemically modified: in heterochromatin, these tails have methyl groups (-CH3) added (methylated), promoting tight compaction. In euchromatin, these tails have acetyl groups (-COCH3) added (acetylated), which loosens the histone-DNA interaction. A molecular machine called the Chromatin Remodeling Complex can then push aside these acetylated histones, clearing the path for transcription to proceed.",
+  "questions": [
+    {
+      "q": "What chemical modification is typically found on histone tails in euchromatin, and what is its effect?",
+      "opts": [
+        "Methylation (-CH3), which compacts DNA to prevent transcription.",
+        "Acetylation (-COCH3), which loosens compaction to allow transcription.",
+        "Phosphorylation, which replicates the DNA strand.",
+        "Deamination, which destroys the histone proteins."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states 'In euchromatin, tails have acetyl groups added, or are acetylated (-COCH3)' and explains that 'Chromatin Remodeling Complex can push aside acetylated histones to allow transcription to occur.' Methylation (Option A) is associated with heterochromatin (compaction and gene silencing). Options C and D are incorrect."
+    },
+    {
+      "q": "What is the function of the Chromatin Remodeling Complex?",
+      "opts": [
+        "It synthesizes new histone proteins in the cytoplasm.",
+        "It pushes aside acetylated histones to allow transcription to occur.",
+        "It removes the modified guanine cap from mRNA transcripts.",
+        "It binds to the stop codon of structural genes."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'Chromatin Remodeling Complex can push aside acetylated histones to allow transcription to occur.' The other options describe functions unrelated to chromatin remodeling."
+    }
+  ]
+}

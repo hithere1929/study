@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 4,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 4,
+  "slide_title": "1: Elements",
+  "original_text": "1: Elements¨Substance that can not be converted into a simpler substance with different properties (density, solubility…)¨More than 100 elements identified (& continue to be identified)¤≈ 30 are involved in living processes\nPrimarily O, C, H, N¨Elements organized on the periodic table¨Each has own chemical symbol:¤1-3 letters; some are Latin abbr.¤Atomic number¤Atomic mass",
+  "explanation": "An element is a substance that cannot be converted into a simpler substance with different properties (such as density, solubility, etc.). More than 100 elements have been identified, and discovery continues. Approximately 30 elements are involved in living processes, with Oxygen (O), Carbon (C), Hydrogen (H), and Nitrogen (N) being the primary elements involved in life. Elements are organized on the periodic table, and each has its own chemical symbol consisting of 1 to 3 letters (some of which are abbreviations of Latin names), along with an atomic number and atomic mass.",
+  "questions": [
+    {
+      "q": "Which four elements are primarily involved in living processes?",
+      "opts": [
+        "Carbon, Hydrogen, Iron, Oxygen",
+        "Oxygen, Carbon, Hydrogen, Nitrogen",
+        "Nitrogen, Sulfur, Phosphorus, Carbon",
+        "Sodium, Chlorine, Potassium, Hydrogen"
+      ],
+      "a": 1,
+      "exp": "The elements primarily involved in living processes are Oxygen (O), Carbon (C), Hydrogen (H), and Nitrogen (N)."
+    },
+    {
+      "q": "Which of the following describes an element?",
+      "opts": [
+        "A substance that can be easily converted into a simpler substance with different properties.",
+        "A substance that cannot be converted into a simpler substance with different properties.",
+        "A mixture of different compounds that perform metabolic functions.",
+        "A particle composed of neutrons and protons only."
+      ],
+      "a": 1,
+      "exp": "An element is defined as a substance that cannot be converted into a simpler substance with different properties (density, solubility, etc.)."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 84,
+  "filename": "Unit_2_3.txt",
+  "section_title": "Movement of Molecules",
+  "page_num_in_file": 10,
+  "slide_title": "Passive Transport -Diffusion",
+  "original_text": "Passive Transport -Diffusion¨Diffusion–Movement of molecules from a higher to lower concentration until equilibrium is achieved and molecules are distributed equally.\n¤Random process¤In cells, only certain moleculescan enter and exit cells by diffusionnGases –small and nonpolar",
+  "explanation": "Diffusion is a type of passive transport defined as the movement of molecules from a higher concentration to a lower concentration until equilibrium is achieved and molecules are distributed equally. Diffusion is a random molecular process. In cells, only specific types of molecules can cross the plasma membrane via simple diffusion, primarily small and nonpolar gases like oxygen and carbon dioxide.",
+  "questions": [
+    {
+      "q": "What is diffusion?",
+      "opts": [
+        "The movement of molecules from low to high concentration using ATP.",
+        "The movement of molecules from higher to lower concentration until equilibrium is achieved.",
+        "The active pumping of ions across a membrane.",
+        "The self-assembly of phospholipids in water."
+      ],
+      "a": 1,
+      "exp": "Diffusion is the passive, random movement of molecules from high concentration to low concentration until they are equally distributed."
+    },
+    {
+      "q": "Which types of molecules can cross cell membranes by simple diffusion?",
+      "opts": [
+        "Large polar proteins",
+        "Charged ions like Na+ and Cl-",
+        "Small, nonpolar gases",
+        "Polysaccharides like starch"
+      ],
+      "a": 2,
+      "exp": "Only small, nonpolar molecules (such as gases like O2 and CO2) can pass directly through the lipid bilayer via simple diffusion."
+    }
+  ]
+}

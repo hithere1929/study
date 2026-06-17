@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 106,
+  "filename": "Unit_7_6.txt",
+  "section_title": "Circulation & Cardiovascular System",
+  "page_num_in_file": 12,
+  "slide_title": "The Human Cardiovascular System: Heartbeat & Cardiac Cycle",
+  "original_text": "The Human Cardiovascular System Heartbeat Systole-Contraction of heart chambers Diastole-Relaxation of heart chambers Cardiac cycle -Two-part pumping action that takes about a second Blood collects in atria, the atria contract Pushes blood through tricuspid and mitral valves into the resting lower ventricles AtrioleSystole, Ventricular Diastole Second part begins after the ventricles fill Ventricles contract AV valves close, Semilunar valves open Lubsound AtrioleDiastole, Ventricular Systole After blood moves into the pulmonary artery and aorta, the ventricles relax Semilunar valves close Dub sound",
+  "explanation": "The heartbeat is regulated by the cardiac cycle, which consists of systole (contraction of heart chambers) and diastole (relaxation of heart chambers). This cycle is a two-part pumping action lasting about one second: 1) Atrial Systole, Ventricular Diastole: Blood collects in the atria, which contract, pushing blood through the tricuspid and mitral (bicuspid) valves into the relaxed ventricles. 2) Atrial Diastole, Ventricular Systole: Once the ventricles fill, they contract. The sudden pressure closes the AV valves (producing the 'lub' sound) and opens the semilunar valves. 3) Ventricular Diastole: As blood enters the pulmonary trunk and aorta, the ventricles relax, and the semilunar valves snap shut to prevent backflow, producing the 'dub' sound.",
+  "questions": [
+    {
+      "q": "What event is responsible for generating the 'lub' sound of the heartbeat?",
+      "opts": [
+        "The contraction of the atria",
+        "The closure of the atrioventricular (AV) valves during ventricular systole",
+        "The closure of the semilunar valves during ventricular diastole",
+        "The flow of blood through the capillary beds"
+      ],
+      "a": 1,
+      "exp": "The first heart sound ('lub') is caused by the snapping shut of the atrioventricular (tricuspid and mitral) valves when the ventricles contract during ventricular systole."
+    },
+    {
+      "q": "What occurs during the second part of the cardiac cycle when the ventricles contract?",
+      "opts": [
+        "Atrial Systole and Ventricular Diastole",
+        "Atrial Diastole and Ventricular Systole",
+        "Closure of the semilunar valves and opening of the AV valves",
+        "Both atria and ventricles relax simultaneously"
+      ],
+      "a": 1,
+      "exp": "When the ventricles contract (ventricular systole), the atria are relaxed (atrial diastole)."
+    },
+    {
+      "q": "What causes the 'dub' sound of the heartbeat?",
+      "opts": [
+        "The opening of the AV valves",
+        "The closing of the semilunar valves during ventricular diastole",
+        "The passage of blood through the venae cavae",
+        "The electrical charging of the SA node"
+      ],
+      "a": 1,
+      "exp": "The second heart sound ('dub') is produced by the closure of the semilunar valves as the ventricles relax."
+    }
+  ]
+}

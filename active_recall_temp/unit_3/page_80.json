@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 80,
+  "filename": "Unit_3_4.txt",
+  "section_title": "The Cell Cycle",
+  "page_num_in_file": 7,
+  "slide_title": "Eukaryotic Cell Division",
+  "original_text": "Eukaryotic Cell Division\nMeiosis: occurs during formation of gametes \nhaploid reproductive cells (Sexual Reproduction)\nNew cells have half the number of chromosomes of original cell\nNew cells have potential to join with other haploid cells to produce a diploid cell (full number of chromosomes) \nAllows for genetic variation between generations\nCell cycle: repeating set of events in life of cell \nCell division \ndivided into 2 parts: \nMitosis: nucleus of cell divides \nCytokinesis: cytoplasm divides \nInterphase \ntime between divisions",
+  "explanation": "The second type of eukaryotic cell division is meiosis, which occurs during the formation of gametes (haploid reproductive cells for sexual reproduction). Meiosis yields cells with exactly half the number of chromosomes of the parent cell, which can later fuse with other haploid gametes to create a diploid zygote, promoting genetic variation. Eukaryotic cells follow a regulated cell cycle, which is a repeating sequence of cellular growth and division. The cell cycle's division stage is split into mitosis (the division of the nucleus) and cytokinesis (the division of the cytoplasm). The period between active cell divisions is called interphase.",
+  "questions": [
+    {
+      "q": "What is the distinction between mitosis and cytokinesis in the eukaryotic cell cycle?",
+      "opts": [
+        "Mitosis is the division of the nucleus; cytokinesis is the division of the cytoplasm.",
+        "Mitosis is the division of the cytoplasm; cytokinesis is the division of the nucleus.",
+        "Mitosis is asexual reproduction; cytokinesis is sexual reproduction.",
+        "Mitosis occurs during interphase; cytokinesis occurs during prophase."
+      ],
+      "a": 0,
+      "exp": "The cell cycle cell division is divided into two parts: mitosis (where the nucleus of the cell divides) and cytokinesis (where the cytoplasm divides)."
+    },
+    {
+      "q": "Which process reduces the chromosome number in half to form gametes for sexual reproduction?",
+      "opts": [
+        "Mitosis",
+        "Binary fission",
+        "Meiosis",
+        "Cytokinesis"
+      ],
+      "a": 2,
+      "exp": "Meiosis occurs during the formation of gametes, resulting in new cells that have half the number of chromosomes of the original cell."
+    }
+  ]
+}

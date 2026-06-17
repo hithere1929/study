@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 24,
+  "filename": "Unit_1_2.txt",
+  "section_title": "Intro to Biology",
+  "page_num_in_file": 11,
+  "slide_title": "Characteristics of Life",
+  "original_text": "Characteristics of Life\n6.Living things can develop\u2013After reproducing, an organism must go through a set of stages to develop into a mature organism\u2013Can increase in size\u2013Can become more complex\u2013Can change over time\u2013The organisms genes include not only the material involved in reproduction, but also the blueprint for an organisms development!",
+  "explanation": "This slide describes the sixth characteristic of life: living things can develop. After reproduction, an organism must progress through a sequence of stages to become a mature organism. Development can involve increasing in size, becoming more complex, and changing over time. An organism's genes do not just contain the materials for reproduction, but also act as the complete blueprint for its development.",
+  "questions": [
+    {
+      "q": "What serves as the blueprint for an organism's development according to the slide?",
+      "opts": [
+        "The external environment",
+        "Homeostatic feedback loops",
+        "The organism's genes",
+        "Nervous system signals"
+      ],
+      "a": 2,
+      "exp": "The slide states: 'The organisms genes include not only the material involved in reproduction, but also the blueprint for an organisms development!'"
+    }
+  ]
+}

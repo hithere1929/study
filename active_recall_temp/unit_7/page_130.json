@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 130,
+  "filename": "Unit_7_7.txt",
+  "section_title": "Respiratory System",
+  "page_num_in_file": 13,
+  "slide_title": "Breathing & Transport of Gases: One-Way Ventilation in Birds",
+  "original_text": "Breathing and Transport of Gases Ventilation Birds use a one-way ventilation mechanism in lungs nAir flows from trachea to posterior sacs, then into the lung, then into anterior sacs, and is then expelled nFresh air never mixes with used air nIncreases gas-exchange efficiency",
+  "explanation": "Birds utilize a highly efficient one-way ventilation mechanism. In this system, air flows in a single direction: from the trachea to the posterior air sacs, then through the lungs (where gas exchange occurs), into the anterior air sacs, and is finally expelled. Because of this one-way flow, fresh inhaled air never mixes with stale, used air, maximizing the concentration gradient and gas-exchange efficiency.",
+  "questions": [
+    {
+      "q": "What is the pathway of air flow in a bird's respiratory system?",
+      "opts": [
+        "Trachea -> Anterior sacs -> Lungs -> Posterior sacs -> Expelled",
+        "Trachea -> Posterior sacs -> Lungs -> Anterior sacs -> Expelled",
+        "Nose -> Pharynx -> Alveoli -> Bronchi -> Expelled",
+        "Trachea -> Bronchioles -> Posterior sacs -> Expelled"
+      ],
+      "a": 1,
+      "exp": "Air in birds flows from the trachea to the posterior sacs, through the lungs, into the anterior sacs, and is then expelled."
+    },
+    {
+      "q": "Why is bird ventilation more efficient than mammalian ventilation?",
+      "opts": [
+        "Birds perform countercurrent exchange using skin capillaries.",
+        "Fresh air never mixes with used air due to one-way flow.",
+        "Birds have larger alveoli than mammals.",
+        "Birds use positive pressure to inhale air."
+      ],
+      "a": 1,
+      "exp": "One-way flow prevents inhaled air from mixing with stale air, ensuring that the lungs are always supplied with high-oxygen air."
+    }
+  ]
+}

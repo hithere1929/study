@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 145,
+  "filename": "Unit_7_8.txt",
+  "section_title": "Nervous System",
+  "page_num_in_file": 7,
+  "slide_title": "Nervous Tissue: Neurons & Types",
+  "original_text": "Nervous Tissue Neurons(Nerve Cells) Cell body contains nucleus and organelles Dendritesreceive signals from sensory receptors or other neurons Axonconducts nerve impulses to another neuron or to other cells Covered by myelin sheath Any long axon is also called a nerve fiber Types of Neurons Motor (efferent) neurons Accept nerve impulses from the CNS Transmit them to muscles or glands Sensory (afferent) neurons Accept impulses from sensory receptors Transmit them to the CNS Interneurons Convey nerve impulses between various parts of the CNS",
+  "explanation": "Nervous tissue is composed of neurons (nerve cells). Neurons consist of: 1) Cell body: containing the nucleus and organelles. 2) Dendrites: receive incoming signals. 3) Axon: conducts impulses away; long axons are covered in myelin and are called nerve fibers. Neurons are functionally divided into: 1) Sensory (afferent) neurons: carry impulses from receptors to the CNS. 2) Interneurons: convey signals between parts of the CNS. 3) Motor (efferent) neurons: carry impulses from the CNS to effector muscles or glands.",
+  "questions": [
+    {
+      "q": "What are the three structural parts of a neuron?",
+      "opts": [
+        "Globin, heme, and iron",
+        "Cell body, dendrites, and axon",
+        "Myelin, node, and synapse",
+        "Alveoli, trachea, and bronchus"
+      ],
+      "a": 1,
+      "exp": "A neuron consists of a central cell body, signal-receiving dendrites, and a signal-conducting axon."
+    },
+    {
+      "q": "Which type of neuron transmits impulses from sensory receptors to the Central Nervous System?",
+      "opts": [
+        "Motor (efferent) neuron",
+        "Sensory (afferent) neuron",
+        "Interneuron",
+        "Neuromuscular junction"
+      ],
+      "a": 1,
+      "exp": "Sensory (afferent) neurons carry sensory information from peripheral receptors toward the central nervous system."
+    },
+    {
+      "q": "What is the term for a long axon?",
+      "opts": [
+        "Dendrite",
+        "Nerve fiber",
+        "Myelin sheath",
+        "Synaptic cleft"
+      ],
+      "a": 1,
+      "exp": "Any long axon is also referred to as a nerve fiber."
+    }
+  ]
+}

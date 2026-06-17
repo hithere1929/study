@@ -1,0 +1,23 @@
+{
+  "unit": 7,
+  "page": 108,
+  "filename": "Unit_7_6.txt",
+  "section_title": "Circulation & Cardiovascular System",
+  "page_num_in_file": 14,
+  "slide_title": "Human Cardiovascular System: Path of Blood",
+  "original_text": "Human Cardiovascular System Path of Blood",
+  "explanation": "This slide serves as a transition to discuss the systemic and pulmonary pathways of blood.",
+  "questions": [
+    {
+      "q": "What is the focus of this transition slide?",
+      "opts": [
+        "Heart conduction system",
+        "Path of blood",
+        "Blood cells",
+        "Cardiovascular disease"
+      ],
+      "a": 1,
+      "exp": "The slide is a section divider for the path of blood through the human body."
+    }
+  ]
+}

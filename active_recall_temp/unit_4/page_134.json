@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 134,
+  "filename": "Unit_4_7.txt",
+  "section_title": "Chromosome-based Syndromes",
+  "page_num_in_file": 6,
+  "slide_title": "Aneuploidy¨In autosomal cells, both monosomy and trisomy tend to be lethal for the organism¤Trisomy have a better chance of survival¨In humans, there are only 3 trisomicconditions that are viable beyond birth¤Trisomy 13, 18, & 21¤Trisomy 21 the only one survivable beyond childhoodnDown Syndrome",
+  "original_text": "Aneuploidy¨In autosomal cells, both monosomy and trisomy tend to be lethal for the organism¤Trisomy have a better chance of survival¨In humans, there are only 3 trisomicconditions that are viable beyond birth¤Trisomy 13, 18, & 21¤Trisomy 21 the only one survivable beyond childhoodnDown Syndrome",
+  "explanation": "In autosomal (non-sex) chromosomes, monosomy and trisomy are usually lethal to the developing organism, though trisomies generally offer a slightly better chance of survival. In humans, only three autosomal trisomies are viable beyond birth: Trisomy 13, Trisomy 18, and Trisomy 21. Among these three, Trisomy 21 is the only one that is survivable beyond childhood; this condition is known as Down Syndrome.",
+  "questions": [
+    {
+      "q": "Which autosomal trisomies in humans are viable beyond birth?",
+      "opts": [
+        "Trisomies 1, 2, and 3",
+        "Trisomies 13, 18, and 21",
+        "Trisomies X, Y, and Z",
+        "Trisomies 5, 10, and 15"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'In humans, there are only 3 trisomic conditions that are viable beyond birth: Trisomy 13, 18, & 21.'"
+    },
+    {
+      "q": "Which autosomal trisomy is the only one survivable beyond childhood, resulting in Down Syndrome?",
+      "opts": [
+        "Trisomy 13",
+        "Trisomy 18",
+        "Trisomy 21",
+        "Klinefelter Syndrome"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide states: 'Trisomy 21 the only one survivable beyond childhood - Down Syndrome.'"
+    }
+  ]
+}

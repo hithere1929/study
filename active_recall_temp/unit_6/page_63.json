@@ -1,0 +1,23 @@
+{
+  "unit": 6,
+  "page": 63,
+  "filename": "Unit_6_5.txt",
+  "section_title": "Plant Evolution & Diversity",
+  "page_num_in_file": 13,
+  "slide_title": "Gymnosperm Life Cycle",
+  "original_text": "Gymnosperm Life Cycle",
+  "explanation": "This slide displays a diagram of the Gymnosperm life cycle, focusing on the alternation of generations in conifers, from cones to fertilization and seed growth.",
+  "questions": [
+    {
+      "q": "Which life cycle is represented on this slide?",
+      "opts": [
+        "Fern Life Cycle",
+        "Gymnosperm Life Cycle",
+        "Flowering Plant Life Cycle",
+        "Bryophyte Life Cycle"
+      ],
+      "a": 1,
+      "exp": "The slide is titled 'Gymnosperm Life Cycle'."
+    }
+  ]
+}

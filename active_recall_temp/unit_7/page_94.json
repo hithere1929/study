@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 94,
+  "filename": "Unit_7_5.txt",
+  "section_title": "Animal Organization",
+  "page_num_in_file": 21,
+  "slide_title": "Homeostasis: Positive Feedback",
+  "original_text": "Homeostasis Positive feedback is a mechanism that brings about an ever greater change in the same direction Childbirth process Does not result in equilibrium Does not occur as often as negative feedback Also found in blood clotting, stomach digestion of proteins Can be problematic -fever",
+  "explanation": "Positive feedback is a mechanism that amplifies a physiological change in the same direction, driving the variable further away from the set point. Unlike negative feedback, positive feedback does not result in equilibrium. It occurs less frequently and regulates rapid, terminal processes. Examples include: 1) Childbirth (uterine contractions stimulate oxytocin, causing stronger contractions). 2) Blood clotting (platelet aggregation recruits more platelets). 3) Protein digestion in the stomach (enzyme activation stimulates more enzyme production). Positive feedback can occasionally be harmful, such as a runaway high fever.",
+  "questions": [
+    {
+      "q": "How does positive feedback differ from negative feedback?",
+      "opts": [
+        "Positive feedback maintains a variable close to a set point, while negative feedback amplifies changes.",
+        "Positive feedback brings about an ever-greater change in the same direction away from equilibrium, while negative feedback works to restore equilibrium.",
+        "Positive feedback occurs more frequently than negative feedback.",
+        "Positive feedback is controlled by auxiliary buds, while negative feedback is controlled by the root cap."
+      ],
+      "a": 1,
+      "exp": "Positive feedback amplifies a stimulus in the same direction, moving a system away from equilibrium. Negative feedback reverses a change to bring the system back to its set point."
+    },
+    {
+      "q": "Which of the following processes is regulated by positive feedback?",
+      "opts": [
+        "Blood glucose regulation",
+        "Childbirth and blood clotting",
+        "Thermoregulation in cold weather",
+        "Root gravitropism"
+      ],
+      "a": 1,
+      "exp": "Childbirth, blood clotting, and protein digestion in the stomach are classic examples of positive feedback loops."
+    }
+  ]
+}

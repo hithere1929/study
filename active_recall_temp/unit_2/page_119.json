@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 119,
+  "filename": "Unit_2_4.txt",
+  "section_title": "Metabolism",
+  "page_num_in_file": 22,
+  "slide_title": "Metabolism",
+  "original_text": "Metabolism¨Catabolism¥Relates to the degradative reactions that occur within cells¥Energy released in the breaking of moleculesnProteins --> Amino Acids        ¨Anabolism¥Relates to the constructive reactions that occur within a cell. ¥Energy must be input in the formation of moleculesnGlucose --> Complex Carbohydrates",
+  "explanation": "Metabolism is composed of two opposing pathways: catabolism and anabolism. Catabolism refers to the degradative chemical reactions within cells that break down large, complex molecules into simpler units (such as breaking proteins down into amino acids), releasing stored chemical energy. Anabolism refers to the constructive, biosynthetic reactions within a cell that build complex molecules from simpler building blocks (such as building complex carbohydrates from glucose), which requires an input of energy.",
+  "questions": [
+    {
+      "q": "What is the difference between catabolism and anabolism?",
+      "opts": [
+        "Catabolism builds molecules and stores energy; anabolism breaks down molecules and releases energy.",
+        "Catabolism breaks down molecules and releases energy; anabolism builds complex molecules and requires energy input.",
+        "Catabolism occurs only in the nucleus; anabolism occurs only in the cytoplasm.",
+        "There is no difference; they are synonymous terms."
+      ],
+      "a": 1,
+      "exp": "Catabolism refers to the degradative, energy-releasing reactions that break down molecules, while anabolism refers to constructive, energy-requiring reactions that build molecules."
+    },
+    {
+      "q": "Which of the following is an example of an anabolic reaction?",
+      "opts": [
+        "Breaking down a protein into amino acids.",
+        "Converting glucose into complex carbohydrates.",
+        "Hydrolyzing ATP into ADP and phosphate.",
+        "The breakdown of glucose during cellular respiration."
+      ],
+      "a": 1,
+      "exp": "Building complex carbohydrates from glucose is a constructive (anabolic) process that requires energy, whereas breaking down proteins is catabolic."
+    }
+  ]
+}

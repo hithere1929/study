@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 37,
+  "filename": "Unit_4_3.txt",
+  "section_title": "DNA Replication, Transcription, Translation",
+  "page_num_in_file": 10,
+  "slide_title": "Errors in DNA Replication¨Extremely accurate process: average one error per billion nucleotides copied¤How?¨DNA polymerase also has proofreading function¤Reads newly synthesized DNA to make sure bases are paired correctly ¤When error does occur, incorrect nucleotide removed, correct one inserted¨Error in replication results in base sequence of new DNA different from parent DNA¤Change in nucleotide sequence: mutation¤Can change gene; disrupt cell function¨Not all errors can be repaired¤Chemicals, UV radiation from sun cause DNA damage¤Some mutations lead to cancer",
+  "original_text": "Errors in DNA Replication¨Extremely accurate process: average one error per billion nucleotides copied¤How?¨DNA polymerase also has proofreading function¤Reads newly synthesized DNA to make sure bases are paired correctly ¤When error does occur, incorrect nucleotide removed, correct one inserted¨Error in replication results in base sequence of new DNA different from parent DNA¤Change in nucleotide sequence: mutation¤Can change gene; disrupt cell function¨Not all errors can be repaired¤Chemicals, UV radiation from sun cause DNA damage¤Some mutations lead to cancer",
+  "explanation": "DNA replication is an extremely accurate process, averaging only one error for every billion nucleotides copied. This high fidelity is due to the proofreading function of DNA polymerase. As it builds the new strand, DNA polymerase reads the newly synthesized DNA to ensure that bases are paired correctly. If an error is detected, the enzyme removes the incorrect nucleotide and inserts the correct one. However, some errors slip through. An unrepaired replication error results in a base sequence that differs from the parent DNA. Any change in the nucleotide sequence is called a mutation, which can alter a gene and disrupt normal cellular functions. In addition to replication errors, DNA can be damaged by external factors like chemicals and UV radiation from the sun. If these mutations are not repaired, they can potentially lead to cancer.",
+  "questions": [
+    {
+      "q": "How often does an error occur during DNA replication on average?",
+      "opts": [
+        "One error per thousand nucleotides",
+        "One error per million nucleotides",
+        "One error per billion nucleotides",
+        "One error per trillion nucleotides"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide states there is an 'average one error per billion nucleotides copied.' The other options are incorrect."
+    },
+    {
+      "q": "What is the term for a change in the nucleotide sequence of DNA?",
+      "opts": [
+        "Proofreading",
+        "Transformation",
+        "Mutation",
+        "Translation"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide defines a 'Change in nucleotide sequence: mutation.' Proofreading is the repair mechanism, transformation is genetic transfer, and translation is protein synthesis."
+    }
+  ]
+}

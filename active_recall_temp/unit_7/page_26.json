@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 26,
+  "filename": "Unit_7_2.txt",
+  "section_title": "Plant Nutrition and Transport",
+  "page_num_in_file": 5,
+  "slide_title": "Soil & Nutrients: Soil",
+  "original_text": "Soil & Nutrients Soil Mixture of mineral particles, decaying organic matter, living organisms, air, and water All soil contains a mix of three different sized particles Sand  Largest, most open space and drainage Silt  Intermediate size and drainage Clay  Smallest particles, hold water with little room for air Humus decaying organic matter Mixes with top layer of soil, increases benefits Plants do well in soil containing minimum 10–20% humus Living Organisms Large plants break soil and make room for small plants Animals (toads, snakes, moles, worms, ants, etc.) mix soil as they dig and loosen layers Microorganisms (bacteria, fungi, protozoans) responsible for final decomposition",
+  "explanation": "Soil is a heterogeneous mixture of mineral particles, decaying organic matter (humus), living organisms, air, and water. The mineral component consists of three particle sizes: sand (largest, provides optimal space and drainage), silt (intermediate size and drainage), and clay (smallest, retains water but leaves little space for air). Humus is decaying organic matter that mixes with the topsoil to increase nutrient availability and soil structure; plants grow best in soil containing a minimum of 10-20% humus. Living organisms contribute to soil health: large plants break up soil layers, digging animals (like moles, worms, ants, toads, and snakes) loosen and mix soil, and microorganisms (bacteria, fungi, and protozoans) carry out the final decomposition of organic matter.",
+  "questions": [
+    {
+      "q": "Which soil particle type is the smallest and retains water effectively but provides very little space for air?",
+      "opts": [
+        "Sand",
+        "Silt",
+        "Clay",
+        "Humus"
+      ],
+      "a": 2,
+      "exp": "Clay particles are the smallest, allowing them to hold water tightly, but they leave very little room for air. Sand is the largest and clay the smallest."
+    },
+    {
+      "q": "What is humus, and what is the minimum percentage of it recommended in soil for optimal plant growth?",
+      "opts": [
+        "Decaying organic matter; 10–20%",
+        "Finely ground clay particles; 5–10%",
+        "Inorganic mineral crystals; 30–40%",
+        "A mixture of sand and silt; 50%"
+      ],
+      "a": 0,
+      "exp": "Humus is decaying organic matter. Plants thrive in soil containing a minimum of 10-20% humus."
+    },
+    {
+      "q": "Which group of soil organisms is primarily responsible for the final decomposition of organic matter?",
+      "opts": [
+        "Large plants",
+        "Digging animals like moles and worms",
+        "Microorganisms (bacteria, fungi, protozoans)",
+        "Insects like ants"
+      ],
+      "a": 2,
+      "exp": "Microorganisms, including bacteria, fungi, and protozoans, are responsible for the final decomposition of organic matter in the soil."
+    }
+  ]
+}

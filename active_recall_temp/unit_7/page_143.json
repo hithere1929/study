@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 143,
+  "filename": "Unit_7_8.txt",
+  "section_title": "Nervous System",
+  "page_num_in_file": 5,
+  "slide_title": "Evolution of the Nervous System: Divisions",
+  "original_text": "Evolution of the Nervous System Division of Nervous System: The Central Nervous System (CNS) Includes the brain and spinal cord The Peripheral Nervous System (PNS) Consists of all nerves and ganglia that lie outside the CNS Two divisions Somatic nervous system Sensory and motor functions that control skeletal muscle Autonomic nervous system Controls smooth muscle, cardiac, muscle, and gland Divided into sympathetic and parasympathetic divisions",
+  "explanation": "The nervous system is divided into: 1) The Central Nervous System (CNS): consisting of the brain and spinal cord. 2) The Peripheral Nervous System (PNS): consisting of nerves and ganglia outside the CNS. The PNS has two divisions: a) Somatic nervous system: handles sensory and motor functions controlling voluntary skeletal muscle. b) Autonomic nervous system: controls involuntary smooth muscle, cardiac muscle, and glands, and is subdivided into the sympathetic and parasympathetic divisions.",
+  "questions": [
+    {
+      "q": "What structures compose the Central Nervous System (CNS)?",
+      "opts": [
+        "Nerves and ganglia outside the brain stem",
+        "The brain and spinal cord",
+        "The somatic and autonomic divisions",
+        "Sympathetic and parasympathetic nerves"
+      ],
+      "a": 1,
+      "exp": "The CNS is made up of the brain and the spinal cord."
+    },
+    {
+      "q": "Contrast the somatic and autonomic nervous systems of the PNS.",
+      "opts": [
+        "The somatic system is central, while the autonomic system is peripheral.",
+        "The somatic system controls voluntary skeletal muscle; the autonomic system controls involuntary smooth muscle, cardiac muscle, and glands.",
+        "The somatic system uses a nerve net, while the autonomic system uses a dorsal neural tube.",
+        "The somatic system is active during sleep, while the autonomic system is active during exercise."
+      ],
+      "a": 1,
+      "exp": "The somatic system mediates voluntary actions via skeletal muscles, whereas the autonomic system regulates automatic, involuntary visceral functions."
+    },
+    {
+      "q": "What are the two subdivisions of the autonomic nervous system?",
+      "opts": [
+        "Brain and spinal cord",
+        "Somatic and visceral",
+        "Sympathetic and parasympathetic",
+        "Sensory and motor"
+      ],
+      "a": 2,
+      "exp": "The autonomic system is split into the sympathetic ('fight or flight') and parasympathetic ('rest and digest') divisions."
+    }
+  ]
+}

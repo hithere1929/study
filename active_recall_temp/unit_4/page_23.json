@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 23,
+  "filename": "Unit_4_2.txt",
+  "section_title": "DNA Structure",
+  "page_num_in_file": 9,
+  "slide_title": "Complementary Bases¨American biochemist Chargoffobserved in a sample of DNA:¤% of A equals % of T; % of C equals % of G¨Led to development of base pairing rules, aka Chargoff’srules¤C on one strand always pairs with G on other¤A on one strand always pairs with T on other¤Pairs called complementary base pairs¨Pairs contain one purine; one pyrimidine¨Because of this:¤Order of bases on one strand is complementary to order of bases on other strand¤Order of bases known as base sequence, or DNA sequence¨Complementary base pairing important to DNA structure¤Hydrogen bonding holds strands together¤Complementary structure explains how DNA can be replicated before cell divisionnOne strand of DNA serves as template for formation of new complementary strand",
+  "original_text": "Complementary Bases¨American biochemist Chargoffobserved in a sample of DNA:¤% of A equals % of T; % of C equals % of G¨Led to development of base pairing rules, aka Chargoff’srules¤C on one strand always pairs with G on other¤A on one strand always pairs with T on other¤Pairs called complementary base pairs¨Pairs contain one purine; one pyrimidine¨Because of this:¤Order of bases on one strand is complementary to order of bases on other strand¤Order of bases known as base sequence, or DNA sequence¨Complementary base pairing important to DNA structure¤Hydrogen bonding holds strands together¤Complementary structure explains how DNA can be replicated before cell divisionnOne strand of DNA serves as template for formation of new complementary strand",
+  "explanation": "American biochemist Erwin Chargaff observed that in any sample of DNA, the percentage of adenine (A) is equal to the percentage of thymine (T), and the percentage of cytosine (C) is equal to the percentage of guanine (G). This key finding led to the development of base pairing rules, known as Chargaff's rules, which specify that adenine on one strand always pairs with thymine on the opposite strand, and cytosine always pairs with guanine. These pairs are referred to as complementary base pairs, and each pair consists of one double-ring purine and one single-ring pyrimidine. Consequently, the order of bases on one strand is completely complementary to the order of bases on the other. This sequence of bases is referred to as the base sequence or DNA sequence. Complementary base pairing is critical to DNA's structure and function because hydrogen bonds between the complementary bases hold the two strands together. Furthermore, this complementary structure explains the mechanism of DNA replication prior to cell division: one strand can serve as a physical template for synthesis of a new complementary strand.",
+  "questions": [
+    {
+      "q": "What did Erwin Chargaff observe about the nitrogenous bases in a sample of DNA?",
+      "opts": [
+        "The amount of purines is always double the amount of pyrimidines.",
+        "The percentage of A equals the percentage of T, and the percentage of C equals the percentage of G.",
+        "Adenine always binds covalently to Guanine.",
+        "DNA contains equal amounts of ribose and deoxyribose."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states Chargaff observed '% of A equals % of T; % of C equals % of G.' Option A is incorrect because a purine always pairs with a pyrimidine, so the total amount of purines equals pyrimidines (1:1 ratio), not double. Option C and D are incorrect biological facts."
+    },
+    {
+      "q": "Why is complementary base pairing crucial for DNA replication?",
+      "opts": [
+        "It allows the DNA to form a triple-helix structure.",
+        "It ensures that the DNA remains permanently wound and cannot be copied.",
+        "It allows one strand of DNA to serve as a template for building a new complementary strand.",
+        "It prevents mutations from occurring in the cell cycle."
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide states 'Complementary structure explains how DNA can be replicated before cell division' and 'One strand of DNA serves as template for formation of new complementary strand.' The other options are incorrect."
+    }
+  ]
+}

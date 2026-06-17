@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 121,
+  "filename": "Unit_7_7.txt",
+  "section_title": "Respiratory System",
+  "page_num_in_file": 4,
+  "slide_title": "Gas Exchange Surfaces: Aquatic vs. Terrestrial",
+  "original_text": "Gas Exchange Surfaces Aquatic animals expend more energy carrying out gas exchange  Fish 25%, Humans 1-2% Water is more dense, and a given volume of water only carries a fraction of air. Small aquatic (hydra, planarian) Large surface area compared to body size nMost cells can exchange gasses directly with environment Small Terrestrial Invertebrates (earthworm) Uses body surface for respiration because capillaries come close to the surface",
+  "explanation": "Gas exchange in water requires more energy than in air because water is denser and contains far less dissolved oxygen. Consequently, active fish expend up to 25% of their energy on respiration, compared to only 1–2% for humans. Simple, small aquatic animals (like hydra and planarians) have a high surface-area-to-volume ratio, allowing direct diffusion between cells and the environment. Small terrestrial invertebrates, such as earthworms, use their moist body surface for gas exchange, bringing capillaries close to the skin to facilitate diffusion.",
+  "questions": [
+    {
+      "q": "Why do fish expend up to 25% of their energy on respiration, whereas humans only expend 1-2%?",
+      "opts": [
+        "Fish have inefficient, open circulatory systems.",
+        "Water is denser and holds much less dissolved oxygen than air, making extraction more energy-intensive.",
+        "Fish lungs must remain dry to function.",
+        "Fish rely entirely on tidal ventilation."
+      ],
+      "a": 1,
+      "exp": "Water is much denser than air and contains a much smaller fraction of dissolved oxygen, requiring aquatic organisms to expend more energy to perform gas exchange."
+    },
+    {
+      "q": "How does an earthworm perform gas exchange?",
+      "opts": [
+        "Using highly vascularized internal gills",
+        "Across its body surface, which has capillaries close to the skin",
+        "Through a system of branching tracheal tubes",
+        "Via tidal lungs in its thoracic cavity"
+      ],
+      "a": 1,
+      "exp": "Earthworms use their moist outer body surface for gas exchange, bringing a network of capillaries close to the skin for direct diffusion."
+    }
+  ]
+}

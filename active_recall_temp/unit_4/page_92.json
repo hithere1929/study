@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 92,
+  "filename": "Unit_4_5.txt",
+  "section_title": "Biotech & Genomics",
+  "page_num_in_file": 12,
+  "slide_title": "Biotechnology Products¨Uses of transgenic bacteria¤Transgenic bacteria can produce chemical products.¤Transgenic bacteria promote plant healthnFrost resistant strawberries¤Transgenic bacteria can degrade substancesnOil-Eating Bacteria",
+  "original_text": "Biotechnology Products¨Uses of transgenic bacteria¤Transgenic bacteria can produce chemical products.¤Transgenic bacteria promote plant healthnFrost resistant strawberries¤Transgenic bacteria can degrade substancesnOil-Eating Bacteria",
+  "explanation": "Transgenic bacteria have several valuable applications across multiple fields. They are used to synthesize various industrial chemical products. In agriculture, they can be utilized to promote plant health, such as genetically modified bacteria that make strawberries frost-resistant. In environmental science, transgenic bacteria can be engineered to degrade harmful substances, such as oil-eating bacteria used to clean up oil spills.",
+  "questions": [
+    {
+      "q": "Which of the following is an agricultural application of transgenic bacteria mentioned on the slide?",
+      "opts": [
+        "Creating oil-eating strains to degrade pollutants.",
+        "Synthesizing human growth hormone in large vats.",
+        "Promoting plant health, such as making strawberries frost-resistant.",
+        "Knocking out the SRY gene in crops."
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide lists 'Frost resistant strawberries' as an example under 'Transgenic bacteria promote plant health.' Option A is an environmental application, Option B is a medical application, and Option D is incorrect."
+    },
+    {
+      "q": "How are transgenic bacteria used to address environmental pollutants?",
+      "opts": [
+        "They are used to synthesize chemical fertilizers.",
+        "They act as oil-eating bacteria to degrade harmful substances.",
+        "They prevent the formation of Barr bodies in aquatic life.",
+        "They insert restriction enzymes into the soil."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide notes that transgenic bacteria can 'degrade substances' and gives the example of 'Oil-Eating Bacteria.' The other options are incorrect."
+    }
+  ]
+}

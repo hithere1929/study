@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 54,
+  "filename": "Unit_6_5.txt",
+  "section_title": "Plant Evolution & Diversity",
+  "page_num_in_file": 4,
+  "slide_title": "Alternation of Generations\u00a8Plants go through alternating generations of life\u00a42n stage and 1n stage\u00a4Spore is the 1n cell created by meiosis.nResults in gametophyte stage, which produces gametes\u00a4Gametes fuse to make 2n zygote which grows through mitosisnResults in sporophyte stage, which will produce spores\u00a4As plants became better adapted to life on land, the sporophyte stage became the dominant cycle",
+  "original_text": "Alternation of Generations\u00a8Plants go through alternating generations of life\u00a42n stage and 1n stage\u00a4Spore is the 1n cell created by meiosis.nResults in gametophyte stage, which produces gametes\u00a4Gametes fuse to make 2n zygote which grows through mitosisnResults in sporophyte stage, which will produce spores\u00a4As plants became better adapted to life on land, the sporophyte stage became the dominant cycle",
+  "explanation": "Plants exhibit an alternation of generations, cycling between diploid (2n) and haploid (1n) stages. The haploid spore is created by meiosis and germinates into the gametophyte stage, which produces gametes. When these gametes fuse, they form a diploid (2n) zygote that grows through mitosis into the sporophyte stage. The sporophyte then produces spores to repeat the cycle. As plants became better adapted to life on land, the sporophyte stage became the dominant phase of their life cycle.",
+  "questions": [
+    {
+      "q": "Which generation is produced by the germination of a haploid spore?",
+      "opts": [
+        "Sporophyte stage",
+        "Gametophyte stage",
+        "Zygote stage",
+        "Basidiocarp stage"
+      ],
+      "a": 1,
+      "exp": "The notes state that the spore is a 1n cell that 'Results in gametophyte stage, which produces gametes'."
+    },
+    {
+      "q": "How is the sporophyte stage of the plant life cycle formed?",
+      "opts": [
+        "By the fusion of spores via meiosis",
+        "By the mitotic growth of a 2n zygote (formed by gamete fusion)",
+        "By the budding of yeast cells",
+        "By the extension of vegetative hyphae"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Gametes fuse to make 2n zygote which grows through mitosis -> Results in sporophyte stage'."
+    },
+    {
+      "q": "How did the dominance of plant generations change as plants adapted to land?",
+      "opts": [
+        "The gametophyte stage became dominant.",
+        "The sporophyte stage became dominant.",
+        "The haploid stage disappeared.",
+        "Plants ceased performing meiosis."
+      ],
+      "a": 1,
+      "exp": "The notes state: 'As plants became better adapted to life on land, the sporophyte stage became the dominant cycle'."
+    }
+  ]
+}

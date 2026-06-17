@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 150,
+  "filename": "Unit_7_8.txt",
+  "section_title": "Nervous System",
+  "page_num_in_file": 12,
+  "slide_title": "The Central Nervous System: The Spinal Cord",
+  "original_text": "The Central Nervous System The Spinal Cord Two main functions Center for many reflex actions Means of communication between the brain and spinal nerves Composed of grey matter and white matter Cell bodies and short unmyelinated fibers give the gray mater its color Myelinated long fibers of interneurons running in tracts give white mater its color",
+  "explanation": "The spinal cord has two primary functions: it serves as the center for many reflex actions, and it is the pathway of communication between the brain and spinal nerves. It is composed of gray matter and white matter. Gray matter (located centrally) contains neuronal cell bodies and short, unmyelinated fibers. White matter (located peripherally) contains tracts of long, myelinated interneuron fibers that carry signals up and down the spinal cord.",
+  "questions": [
+    {
+      "q": "What are the two primary functions of the spinal cord?",
+      "opts": [
+        "Pumping blood and filtering metabolic wastes",
+        "Serving as a reflex center and communicating between the brain and spinal nerves",
+        "Releasing insulin and storing glucose as glycogen",
+        "Performing external respiration and filtering inhaled air"
+      ],
+      "a": 1,
+      "exp": "The spinal cord acts as the integration center for reflexes and provides a pathway of communication between the brain and peripheral spinal nerves."
+    },
+    {
+      "q": "What gives white matter in the spinal cord its characteristic color?",
+      "opts": [
+        "The presence of oxygenated hemoglobin",
+        "Myelinated long fibers of interneurons running in tracts",
+        "Cell bodies and short, unmyelinated fibers",
+        "A dense network of lymphatic capillaries"
+      ],
+      "a": 1,
+      "exp": "The lipid-rich myelin sheaths wrapping the long interneuron axons running in tracts give white matter its white appearance."
+    }
+  ]
+}

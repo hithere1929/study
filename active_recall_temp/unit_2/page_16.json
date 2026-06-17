@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 16,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 16,
+  "slide_title": "1: Chemical Bonds",
+  "original_text": "1: Chemical Bonds¨Although these are the two most common, they are not the only types of bonds. ¨We will discuss additional chemical bonds when we discuss water and all of it’s properties",
+  "explanation": "While covalent and ionic bonds are the two most common forms of chemical bonds, they are not the only types. Other chemical bonds (such as hydrogen bonds) are introduced and discussed in detail when studying the unique properties of water.",
+  "questions": [
+    {
+      "q": "Are covalent and ionic bonds the only types of chemical bonds?",
+      "opts": [
+        "Yes, they are the only biological bonds.",
+        "No, other bonds exist and will be discussed in relation to water.",
+        "Yes, all other interactions are physical rather than chemical.",
+        "No, but they are the only bonds that involve electrons."
+      ],
+      "a": 1,
+      "exp": "The slide states that covalent and ionic bonds are not the only types, and others will be discussed when covering water."
+    }
+  ]
+}

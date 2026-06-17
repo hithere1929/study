@@ -1,0 +1,23 @@
+{
+  "unit": 5,
+  "page": 45,
+  "filename": "Unit_5_2.txt",
+  "section_title": "How Populations Evolve",
+  "page_num_in_file": 24,
+  "slide_title": "Natural Selection",
+  "original_text": "Natural Selection\n\u00a4Competition -Humans\n  nA study of sexual selection among humans shows that female choice and male competition apply to humans too\n    nWomen must invest more in having a child than men.\n    nMen need only contribute sperm\n    nGenerally more available for mating than are women.\n    nMore available men results in competition\n    nMen also have a choice\n    nPrefer women who are most likely to present them with children.",
+  "explanation": "Studies of human behavior indicate that the evolutionary principles of sexual selection\u2014namely female choice and male competition\u2014apply to humans. Biologically, women invest significantly more energy and resources into childbearing (gestation, lactation) than men, who contribute only sperm. Because men are generally more available for mating, this creates competitive pressures among males. However, men also exhibit mate selection, preferring females who show traits indicating they are most likely to successfully bear and present them with children.",
+  "questions": [
+    {
+      "q": "Based on sexual selection theory in humans, why is there competition among men?",
+      "opts": [
+        "Men invest more resources in childbearing than women.",
+        "Men are generally more available for mating than women, leading to competition.",
+        "Men do not contribute genetic material.",
+        "Human populations are in genetic equilibrium."
+      ],
+      "a": 1,
+      "exp": "Because women invest more in child-bearing and men are more available for mating, competition arises among the more available sex (men)."
+    }
+  ]
+}

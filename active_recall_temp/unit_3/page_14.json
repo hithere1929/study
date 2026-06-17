@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 14,
+  "filename": "Unit_3_1.txt",
+  "section_title": "Cell Biology",
+  "page_num_in_file": 14,
+  "slide_title": "Basics of the Cell",
+  "original_text": "Basics of the Cell",
+  "explanation": "This page is a placeholder or title slide for the 'Basics of the Cell' section.",
+  "questions": [
+    {
+      "q": "What is the title of this transition slide?",
+      "opts": [
+        "Basics of the Cell",
+        "Cellular Diversity",
+        "Prokaryotic Differences",
+        "Cell Organelles"
+      ],
+      "a": 0,
+      "exp": "The slide is titled 'Basics of the Cell'."
+    }
+  ]
+}

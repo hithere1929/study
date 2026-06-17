@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 54,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 3,
+  "slide_title": "Regulation¨What is meant by gene regulation?¤The process of turning genes on and off",
+  "original_text": "Regulation¨What is meant by gene regulation?¤The process of turning genes on and off\n¨Why is it necessary for genes to be regulated?¤All genes do not need to be transcribed and translated at all times. By regulating genes, gene products can be produced only when and if needed by a cell or organism.¨Regulation differs in prokaryotes and eukaryotes",
+  "explanation": "Gene regulation refers to the processes by which cells turn specific genes on or off (controlling whether they are expressed or not). This regulation is necessary because cells do not need all of their genes transcribed and translated into proteins at all times. By controlling gene expression, cells can conserve resources and produce specific gene products only when they are needed. The mechanisms and structures of gene regulation differ significantly between prokaryotes and eukaryotes.",
+  "questions": [
+    {
+      "q": "Why is gene regulation necessary for cells and organisms?",
+      "opts": [
+        "To ensure that DNA replication occurs continuously.",
+        "To allow gene products to be produced only when and if they are needed by the cell.",
+        "To keep all genes turned on at all times.",
+        "To translate proteins in the nucleus."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'By regulating genes, gene products can be produced only when and if needed by a cell or organism.' Option C is the opposite of regulation. Options A and D are biologically incorrect."
+    }
+  ]
+}

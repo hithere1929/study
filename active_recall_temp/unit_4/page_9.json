@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 9,
+  "filename": "Unit_4_1.txt",
+  "section_title": "DNA Advances through 20th Century",
+  "page_num_in_file": 9,
+  "slide_title": "Historical Basis –Hershey-Chase¨Early 1950’s America: Chase & Hershey sought to determinewhether DNA or protein was hereditary materialtransferred by viruses entering a bacterium¤Bacteriophage (phage): virus that infects bacteria¨Grew phage in presence of radioactive sulfur (35S) to label proteins¨Grew phage in presence of radioactive phosphorus (32P) to label DNA¨Allowed labeled phage to infect bacteria¨Used a blender to remove phage coats from cells¨Used a centrifuge to separate phage from bacteria¨Findings:¤Radioactive sulfur present in supernatant (viruses) not bacterial cell pellet¤Radioactive phosphorus present in bacterial cell pellet, notsupernatant¨Conclusion:¤DNAis the hereditary material of viruses¨Hershey Chase Visualized",
+  "original_text": "Historical Basis –Hershey-Chase¨Early 1950’s America: Chase & Hershey sought to determinewhether DNA or protein was hereditary materialtransferred by viruses entering a bacterium¤Bacteriophage (phage): virus that infects bacteria¨Grew phage in presence of radioactive sulfur (35S) to label proteins¨Grew phage in presence of radioactive phosphorus (32P) to label DNA¨Allowed labeled phage to infect bacteria¨Used a blender to remove phage coats from cells¨Used a centrifuge to separate phage from bacteria¨Findings:¤Radioactive sulfur present in supernatant (viruses) not bacterial cell pellet¤Radioactive phosphorus present in bacterial cell pellet, notsupernatant¨Conclusion:¤DNAis the hereditary material of viruses¨Hershey Chase Visualized",
+  "explanation": "In the early 1950s in America, Martha Chase and Alfred Hershey aimed to determine if DNA or protein was the hereditary material transferred by viruses. They used bacteriophages (phages), which are viruses that infect bacteria. They labeled phage proteins using radioactive sulfur (35S) and labeled phage DNA using radioactive phosphorus (32P). After allowing these labeled phages to infect bacteria, they used a blender to disrupt and remove empty phage coats from the cell surface and a centrifuge to separate the heavier bacteria (pellet) from the lighter viral coats (supernatant). They found that radioactive sulfur (35S) remained in the supernatant, whereas radioactive phosphorus (32P) was found within the bacterial pellet. This demonstrated that phage DNA, and not protein, was injected into the host bacteria, concluding that DNA is the hereditary material of viruses.",
+  "questions": [
+    {
+      "q": "Why did Hershey and Chase use radioactive sulfur (35S) to label proteins rather than DNA?",
+      "opts": [
+        "Sulfur is a key element in the sugar-phosphate backbone of DNA.",
+        "Sulfur is found in certain amino acids that make up proteins but is absent in DNA.",
+        "Sulfur makes the viral coat heavy enough to be separated by the blender.",
+        "Sulfur glows in the dark, allowing the researchers to see the viruses."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because sulfur is present in proteins (specifically in certain amino acids like cysteine and methionine) but is not found in DNA. This allows selective labeling of proteins. Option A is incorrect because phosphorus, not sulfur, is in the DNA backbone. Options C and D are incorrect descriptions."
+    },
+    {
+      "q": "What did Hershey and Chase find in the bacterial cell pellet after centrifuging the bacteria infected with 32P-labeled phage?",
+      "opts": [
+        "Radioactive sulfur (35S)",
+        "Radioactive phosphorus (32P)",
+        "Both 35S and 32P",
+        "Neither radioactive isotope"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'Radioactive phosphorus present in bacterial cell pellet, not supernatant.' Option A is incorrect because radioactive sulfur was in the supernatant. Options C and D are incorrect."
+    }
+  ]
+}

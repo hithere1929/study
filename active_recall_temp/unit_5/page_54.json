@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 54,
+  "filename": "Unit_5_3.txt",
+  "section_title": "Speciation & Macroevolution",
+  "page_num_in_file": 5,
+  "slide_title": "How New Species Evolve",
+  "original_text": "How New Species Evolve\n\u00a8Morphological Species Concept\n\u00a4Based on analysis of diagnostic traitsdistinguishing one species from another.\n\u00a4Can be distinguished anatomically\n\u00a4Method used by Linnaeus\n\u00a4Most species are described this way\n\u00a8Drawbacks\n\u00a4Some species, like different bacteria, have no observable, morphological traits to analyze\n\u00a4Cryptic species \u2013some species look so similar, it is difficult to identify them as distinct species.",
+  "explanation": "The Morphological Species Concept defines species based on the analysis of diagnostic physical traits that distinguish them from one another. Organisms are separated into species if they can be distinguished anatomically. This was the method originally used by Carolus Linnaeus, and it remains the way most species are described today. However, it has key drawbacks: first, some organisms, such as various bacteria, lack distinct, observable morphological traits to analyze; second, 'cryptic species' look so anatomically similar to one another that it is extremely difficult to recognize them as distinct species based on appearance alone.",
+  "questions": [
+    {
+      "q": "Who originally used the morphological species concept, and how are species defined under it?",
+      "opts": [
+        "Charles Darwin; based on common DNA sequences",
+        "Carolus Linnaeus; based on diagnostic anatomical traits",
+        "Georges Cuvier; based on the fossil layers they occupy",
+        "Jean-Baptiste Lamarck; based on acquired characteristics"
+      ],
+      "a": 1,
+      "exp": "Carolus Linnaeus used the morphological species concept, which distinguishes species based on diagnostic anatomical (morphological) traits."
+    },
+    {
+      "q": "What is a drawback of the morphological species concept?",
+      "opts": [
+        "It relies too heavily on DNA sequencing.",
+        "It cannot be used for multicellular animals.",
+        "Cryptic species look so similar that they are hard to identify as distinct, and some organisms like bacteria lack clear morphological traits.",
+        "It requires observing breeding patterns in the wild."
+      ],
+      "a": 2,
+      "exp": "Drawbacks include cryptic species (which look identical but are distinct) and organisms like bacteria that lack distinct morphological traits to compare."
+    }
+  ]
+}

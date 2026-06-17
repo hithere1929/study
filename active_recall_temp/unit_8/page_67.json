@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 67,
+  "filename": "Unit_8_4.txt",
+  "section_title": "Photosynthesis",
+  "page_num_in_file": 14,
+  "slide_title": "Plants as Carbon Dioxide Fixers¨The Calvin Cycle¤One CO2is attached to a 5-carbon ribulose-1,5-biphosphate (RuBP) nResults in a 6-carbon moleculenThis splits into two 3-carbon molecules, 3-phosphoglycerate (3PG)nATP used to convert 3PG into glyceraldehyde-3-phosphate (G3P)\nnRuBP carboxylase (Rubisco) protein that makes up 20-50% of chloroplast protein content. Speeds up this reaction.¤CO2is now “fixed” because it is part of a carbohydrate",
+  "original_text": "Plants as Carbon Dioxide Fixers¨The Calvin Cycle¤One CO2is attached to a 5-carbon ribulose-1,5-biphosphate (RuBP) nResults in a 6-carbon moleculenThis splits into two 3-carbon molecules, 3-phosphoglycerate (3PG)nATP used to convert 3PG into glyceraldehyde-3-phosphate (G3P)\nnRuBP carboxylase (Rubisco) protein that makes up 20-50% of chloroplast protein content. Speeds up this reaction.¤CO2is now “fixed” because it is part of a carbohydrate",
+  "explanation": "During the Calvin cycle, carbon dioxide is 'fixed' by incorporating it into an organic carbohydrate. One CO2 molecule (1-carbon) is attached to a 5-carbon sugar called ribulose-1,5-bisphosphate (RuBP), catalyzed by the enzyme RuBP carboxylase (Rubisco). Rubisco is a highly abundant protein, comprising 20% to 50% of all chloroplast protein content. This fixation yields an unstable 6-carbon intermediate that immediately splits into two 3-carbon molecules of 3-phosphoglycerate (3PG). ATP and NADPH are then consumed to convert 3PG into glyceraldehyde-3-phosphate (G3P).",
+  "questions": [
+    {
+      "q": "What enzyme catalyzes the attachment of carbon dioxide to RuBP, and what percentage of chloroplast protein does it represent?",
+      "opts": [
+        "ATP synthase; 5-10%",
+        "RuBP carboxylase (Rubisco); 20-50%",
+        "PEP carboxylase; 75-80%",
+        "NADP+ reductase; 20-50%"
+      ],
+      "a": 1,
+      "exp": "The notes state that 'RuBP carboxylase (Rubisco)' catalyzes this reaction and is a 'protein that makes up 20-50% of chloroplast protein content.'"
+    },
+    {
+      "q": "What is the immediate product when a 6-carbon molecule formed during CO2 fixation splits?",
+      "opts": [
+        "One molecule of glucose",
+        "Two molecules of 3-phosphoglycerate (3PG)",
+        "Three molecules of ribulose-1,5-bisphosphate",
+        "Two molecules of glyceraldehyde-3-phosphate (G3P)"
+      ],
+      "a": 1,
+      "exp": "According to the notes, the 6-carbon molecule 'splits into two 3-carbon molecules, 3-phosphoglycerate (3PG).'"
+    }
+  ]
+}

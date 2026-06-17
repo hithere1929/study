@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 45,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 30,
+  "slide_title": "Centrioles",
+  "original_text": "Centrioles\nConsist of 2 short cylinders of microtubules at right angles to each other\nLocated in the cytoplasm near the nuclear envelope\nOccur in animal cells, not in plant cells; organize microtubules of cytoskeleton during cell division\nBasal bodies: found at the base of cilia and flagella; organize their development\nHave same structure as centrioles",
+  "explanation": "Centrioles are structures consisting of two short cylinders of microtubules oriented at right angles to each other. They are located in the cytoplasm near the nuclear envelope. Centrioles occur in animal cells but are absent in plant cells; their primary role is to organize the microtubules of the cytoskeleton during cell division. Basal bodies, which are found at the base of cilia and flagella, organize the development of these hair-like structures. Basal bodies share the exact same structural organization as centrioles.",
+  "questions": [
+    {
+      "q": "Which of the following is true about centrioles?",
+      "opts": [
+        "They occur in both plant and animal cells.",
+        "They consist of two short cylinders of microtubules at right angles and occur only in animal cells.",
+        "They are located inside the nucleolus.",
+        "They are double-membrane organelles that synthesize ATP."
+      ],
+      "a": 1,
+      "exp": "Centrioles consist of 2 short cylinders of microtubules at right angles, are located in the cytoplasm near the nuclear envelope of animal cells, and are absent in plant cells."
+    },
+    {
+      "q": "What structure organizes the development of cilia and flagella and has the same structure as a centriole?",
+      "opts": [
+        "Centrosome",
+        "Basal body",
+        "Intermediate filament",
+        "Spindle fiber"
+      ],
+      "a": 1,
+      "exp": "Basal bodies are found at the base of cilia and flagella, organize their development, and have the same structure as centrioles."
+    }
+  ]
+}

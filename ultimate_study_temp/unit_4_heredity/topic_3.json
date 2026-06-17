@@ -1,0 +1,27 @@
+{
+  "id": "u4_h_t3",
+  "title": "Punnett Squares",
+  "cheat_card": [
+    "A <b>Punnett square</b> is a grid-based tool that aligns maternal (egg) and paternal (sperm) gamete genotypes to calculate the <b>probability of offspring genotypes and phenotypes</b>.",
+    "For a single allele in heterozygous parents, each gamete has a <b>50% (or 1/2) chance</b> of inheriting either allele. Genotype probabilities are independent: <b>EE = 1/4, Ee = 1/2, ee = 1/4</b>.",
+    "A monohybrid heterozygous cross (Aa x Aa) yields a phenotypic ratio of <b>3:1 (75% dominant, 25% recessive)</b>, with a <b>25% chance</b> of inheriting any specific single-allele genotype.",
+    "A dihybrid heterozygous cross (AaBb x AaBb) has a 1/16 chance for each allele combination, yielding a standard phenotypic ratio of <b>9:3:3:1</b> for autosomal dominant/recessive traits.",
+    "Every fertilization is an <b>independent event</b>, meaning that previous births do not change the probability (e.g., 25%) of a couple's future child inheriting a specific trait."
+  ],
+  "memory_anchor": "### Phenotypic and Genotypic Ratios of Heterozygous Crosses\n\n| Cross Type | Parent Genotypes | Genotypic Ratio | Phenotypic Ratio (Dominance) | Total Zygote Combos |\n| :--- | :--- | :--- | :--- | :--- |\n| **Monohybrid** | Aa x Aa | 1 AA : 2 Aa : 1 aa | 3 Dominant : 1 Recessive | 4 (2x2 grid) |\n| **Dihybrid** | AaBb x AaBb | Complex (9 distinct genotypes) | 9 A_B_ : 3 A_bb : 3 aaB_ : 1 aabb | 16 (4x4 grid) |",
+  "flashcards": [
+    {
+      "q": "Explain the product rule of probability and how it is used to calculate the 1/4 chance of obtaining an 'aa' genotype from an Aa x Aa cross.",
+      "a": "The product rule states that the probability of two independent events occurring together is the product of their individual probabilities. For an Aa x Aa cross, the chance of the sperm carrying 'a' is 1/2, and the chance of the egg carrying 'a' is 1/2. Thus, the probability of an 'aa' offspring is 1/2 * 1/2 = 1/4 (25%)."
+    },
+    {
+      "q": "Under what conditions does a dihybrid cross yield a 9:3:3:1 phenotypic ratio in the F2 generation?",
+      "a": "This ratio occurs when: (1) both parents are heterozygous for both traits (AaBb x AaBb), (2) the two genes assort independently (are on different chromosomes or far apart), and (3) both traits display complete dominant-recessive inheritance."
+    },
+    {
+      "q": "If a couple has three children who are all homozygous recessive for a trait (aa), what is the probability that their fourth child will also be homozygous recessive? Explain.",
+      "a": "The probability remains 25% (or 1/4). Each fertilization event is an independent event, meaning the genetic outcome of previous children has no impact on the probability of subsequent offspring inheriting specific alleles."
+    }
+  ],
+  "outline_blanks": "A Punnett square maps out potential zygotes, where a monohybrid heterozygous cross (Aa x Aa) yields a phenotypic ratio of [[3:1]] and a genotypic ratio of [[1:2:1]]. In a dihybrid heterozygous cross (AaBb x AaBb), the independent assortment of alleles results in a [[9:3:3:1]] phenotypic ratio. Each individual birth is an [[independent]] probability event, meaning previous outcomes do not alter the likelihood of traits."
+}

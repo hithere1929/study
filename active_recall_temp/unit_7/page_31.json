@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 31,
+  "filename": "Unit_7_2.txt",
+  "section_title": "Plant Nutrition and Transport",
+  "page_num_in_file": 10,
+  "slide_title": "Transport Mechanisms: Water Transport & Root Pressure",
+  "original_text": "Transport Mechanisms Water Transport Xylem vessels form an open pipeline. The vessel elements are separated by perforated plates. Water moves into and out of tracheidsthrough pits. Water entering roots creates a positive pressure (root pressure). It pushes xylem sap upward. May be responsible for guttation Water forced out vein endings along edges of leaves",
+  "explanation": "Xylem vessels function as an open pipeline for water transport, consisting of vessel elements aligned end-to-end and separated by perforated plates. Water also moves into and out of tracheids via pits. When water enters root cells, it generates a positive hydrostatic pressure known as root pressure, which pushes xylem sap upward. Under conditions of high soil moisture and low transpiration (such as at night), root pressure can force liquid water out of specialized vein endings at the edges of leaves, a process known as guttation.",
+  "questions": [
+    {
+      "q": "What is guttation?",
+      "opts": [
+        "The evaporation of water from the stomata during the day",
+        "The transport of sucrose from leaves to roots in phloem",
+        "The forcing of liquid water out of vein endings at leaf margins due to root pressure",
+        "The entry of water into root hairs by active transport"
+      ],
+      "a": 2,
+      "exp": "Guttation is the release of liquid water droplets from vein endings at leaf margins, caused by positive root pressure when transpiration is low."
+    },
+    {
+      "q": "How does water enter and exit tracheid cells?",
+      "opts": [
+        "Through perforated plates in their end walls",
+        "Through pits in their walls",
+        "Via active transport pumps",
+        "Through plasmodesmata"
+      ],
+      "a": 1,
+      "exp": "In tracheids, water moves in and out through pits in their end and side walls, unlike vessel elements which have perforated plates."
+    }
+  ]
+}

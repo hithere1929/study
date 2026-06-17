@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 74,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 38,
+  "slide_title": "Exit Ticket",
+  "original_text": "Exit Ticket¨Please go on to Google Classroom and fill out the exit ticket posted for Unit 2. ¨For this exit ticket, consider both presentations for Unit 2 to date:¥Name 3 interesting things you learned so far in Unit 2¥Name 2 things you want to learn more about in class or on your own¥Ask one question about a topic that you feel needs more explanation",
+  "explanation": "This slide details a classroom exit ticket assignment on Google Classroom. Students are prompted to identify three interesting facts they learned in Unit 2, two topics they want to explore further, and one question about a concept requiring further explanation.",
+  "questions": [
+    {
+      "q": "What is the purpose of the Exit Ticket described on this slide?",
+      "opts": [
+        "To take a formal Unit 2 exam.",
+        "To submit a biology lab report.",
+        "To reflect on Unit 2 learning by naming 3 interesting things, 2 topics to explore, and 1 question.",
+        "To draw the chemical structures of ATP and DNA."
+      ],
+      "a": 2,
+      "exp": "The Exit Ticket asks students to consider the Unit 2 presentations and identify 3 interesting things, 2 things to learn more about, and 1 question."
+    }
+  ]
+}

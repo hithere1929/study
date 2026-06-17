@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 28,
+  "filename": "Unit_4_2.txt",
+  "section_title": "DNA Structure",
+  "page_num_in_file": 15,
+  "slide_title": "Chromatin¨Zig-zags continue folding back and forth into radial loops¨These loose coiled loops are known as euchromatin¤Region of DNA with active chromatin containing genes that are being transcribed¨DNA that gets further compacted forms heterochromatin¤Region of DNA considered inactive because genes contained in it are infrequently transcribed¤Usually dark-stained fibers in the nucleus when observed using microscopy¨Most chromosomes exhibit both levels of compaction, depending on which regions of the chromosome is being used more frequently¨Regulating the level of compaction is an important method of controlling gene expression in a cell",
+  "original_text": "Chromatin¨Zig-zags continue folding back and forth into radial loops¨These loose coiled loops are known as euchromatin¤Region of DNA with active chromatin containing genes that are being transcribed¨DNA that gets further compacted forms heterochromatin¤Region of DNA considered inactive because genes contained in it are infrequently transcribed¤Usually dark-stained fibers in the nucleus when observed using microscopy¨Most chromosomes exhibit both levels of compaction, depending on which regions of the chromosome is being used more frequently¨Regulating the level of compaction is an important method of controlling gene expression in a cell",
+  "explanation": "The zig-zag folded nucleosome structures continue to fold back and forth, organizing into radial loops. These loosely coiled loops are called euchromatin, which represents active regions of DNA containing genes that are actively being transcribed by the cell. When DNA is compacted even further, it forms heterochromatin. Heterochromatin is considered transcriptionally inactive because the genes located within it are infrequently transcribed. Under microscopy, heterochromatin usually appears as dark-stained fibers in the nucleus. Most chromosomes contain both euchromatin and heterochromatin, and the level of compaction varies depending on which regions are needed. The regulation of chromatin compaction is a fundamental mechanism the cell uses to control gene expression.",
+  "questions": [
+    {
+      "q": "Which type of chromatin consists of loosely coiled radial loops containing genes that are actively being transcribed?",
+      "opts": [
+        "Heterochromatin",
+        "Euchromatin",
+        "Linker DNA",
+        "Nucleosomes"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide defines 'euchromatin' as 'loose coiled loops' and 'Region of DNA with active chromatin containing genes that are being transcribed.' Heterochromatin (Option A) is tightly compacted and inactive. Linker DNA and nucleosomes are lower-level structures."
+    },
+    {
+      "q": "How does the compaction of chromatin affect gene expression in a cell?",
+      "opts": [
+        "Compacted chromatin (heterochromatin) is highly active and transcribed.",
+        "Loose chromatin (euchromatin) contains genes that are actively transcribed, whereas compacted chromatin is inactive.",
+        "Compaction of chromatin determines the cell's rate of ATP synthesis.",
+        "Chromatin compaction has no effect on gene expression."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide explains that euchromatin (loose loops) is active and contains genes being transcribed, whereas heterochromatin (highly compacted DNA) is inactive with infrequently transcribed genes. Therefore, regulating compaction levels controls gene expression."
+    }
+  ]
+}

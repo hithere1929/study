@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 107,
+  "filename": "Unit_3_5.txt",
+  "section_title": "Stem Cells & Cancer",
+  "page_num_in_file": 13,
+  "slide_title": "Cancer",
+  "original_text": "Cancer\n2.Cancer cells have abnormal nuclei\nNuclei enlarged, and sometimes have incorrect chromosome number, or duplicated portions of chromosomes\nResults in gene amplification, or gene deletions\n3.Cancer cells do not undergo apoptosis\nMutations acquired may stop the checkpoint functions that would cause cells with damage to stop replicating and be destroyed",
+  "explanation": "Cancer cells exhibit further abnormal characteristics. Second, cancer cells have abnormal nuclei, which are typically enlarged and may contain an incorrect chromosome number or duplicated portions of chromosomes, leading to gene amplification or deletions. Third, cancer cells fail to undergo apoptosis. The mutations they accumulate often deactivate the cell cycle checkpoint functions that would otherwise identify severe cellular damage, halt replication, and signal apoptotic destruction.",
+  "questions": [
+    {
+      "q": "Which of the following nuclear abnormalities is commonly observed in cancer cells?",
+      "opts": [
+        "Enlarged nuclei with incorrect chromosome numbers or duplicated/deleted portions",
+        "Highly condensed histones that prevent transcription completely",
+        "A lack of nuclear pores on the nuclear envelope",
+        "The conversion of DNA into circular plasmids"
+      ],
+      "a": 0,
+      "exp": "Cancer cells have abnormal nuclei: they are enlarged, and sometimes have incorrect chromosome numbers or duplicated/deleted portions of chromosomes."
+    }
+  ]
+}

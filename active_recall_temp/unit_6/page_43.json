@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 43,
+  "filename": "Unit_6_4.txt",
+  "section_title": "Fungi",
+  "page_num_in_file": 7,
+  "slide_title": "Diversity -Zygomycota\u00a8Mainly saprotrophs \u2013decompose animal and plant matter, common with baked goods\u00a8Black bread mold (Rhizopus stolonifer)\u00a4Both asexual and sexual life cycle\u00a4Spores settle on food source and develop into 3 specialized hyphaenStolons\u2013grow horizontal on surface of breadnRhizoids \u2013grow into bread as anchorsnSporangiophores \u2013Aerial hyphae that produce haploid spores",
+  "original_text": "Diversity -Zygomycota\u00a8Mainly saprotrophs \u2013decompose animal and plant matter, common with baked goods\u00a8Black bread mold (Rhizopus stolonifer)\u00a4Both asexual and sexual life cycle\u00a4Spores settle on food source and develop into 3 specialized hyphaenStolons\u2013grow horizontal on surface of breadnRhizoids \u2013grow into bread as anchorsnSporangiophores \u2013Aerial hyphae that produce haploid spores",
+  "explanation": "Phylum Zygomycota contains fungi that are mainly saprotrophs, decomposing animal and plant matter. They are commonly found on baked goods. A prominent example is the black bread mold (Rhizopus stolonifer), which has both asexual and sexual life cycles. Its spores settle on food and develop into three types of specialized hyphae: 1) Stolons, which grow horizontally across the surface of the bread; 2) Rhizoids, which grow downward into the bread as anchors; and 3) Sporangiophores, which are aerial hyphae that produce haploid spores.",
+  "questions": [
+    {
+      "q": "What is the function of rhizoids in Rhizopus stolonifer?",
+      "opts": [
+        "To grow horizontally on the surface of bread",
+        "To grow into the bread as anchors",
+        "To produce haploid spores aerially",
+        "To form flagellated gametes"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Rhizoids \u2013 grow into bread as anchors'."
+    },
+    {
+      "q": "Which type of hyphae in black bread mold grows horizontally on the bread surface?",
+      "opts": [
+        "Rhizoids",
+        "Sporangiophores",
+        "Stolons",
+        "Mycelia"
+      ],
+      "a": 2,
+      "exp": "The notes state: 'Stolons\u2013grow horizontal on surface of bread'."
+    },
+    {
+      "q": "What are sporangiophores?",
+      "opts": [
+        "Flagellated gametes in aquatic fungi",
+        "Root-like anchoring filaments in soil",
+        "Aerial hyphae that produce haploid spores",
+        "Horizontal spreading filaments on bread"
+      ],
+      "a": 2,
+      "exp": "The notes define Sporangiophores as 'Aerial hyphae that produce haploid spores'."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "unit": 8,
+  "page": 109,
+  "filename": "Unit_8_6.txt",
+  "section_title": "Major Ecosystems of the Biosphere",
+  "page_num_in_file": 18,
+  "slide_title": "Aquatic Ecosystems¨Pelagic Zones¤Epipelagic ZonenLacks inorganic nutrientsnDoes not have high concentration of phytoplankton¤Mesopelagic ZonenHigh concentration of organisms due to sunlight penetration and supply of inorganic nutrients¤Bathypelagic ZonenComplete darkness except for bioluminescent lightnCarnivores and scavengers¨Abyssal Plain¤High pressure and extreme cold¤Organisms are dependent on debris sinking down from above¤Interrupted by oceanic ridges¤Hydrothermal ventsnSeawater percolates through cracks in the ocean floor and is heated to about 350 degreesnCausing sulfate to react with water forming hydrogen sulfidenProvides source of energy for chemoautotrophic organisms¨Unlike Energy, that reduces in concentration as it moves through an ecosystem, pollutants can concentrate as they move through a system –biomagnification",
+  "original_text": "Aquatic Ecosystems¨Pelagic Zones¤Epipelagic ZonenLacks inorganic nutrientsnDoes not have high concentration of phytoplankton¤Mesopelagic ZonenHigh concentration of organisms due to sunlight penetration and supply of inorganic nutrients¤Bathypelagic ZonenComplete darkness except for bioluminescent lightnCarnivores and scavengers¨Abyssal Plain¤High pressure and extreme cold¤Organisms are dependent on debris sinking down from above¤Interrupted by oceanic ridges¤Hydrothermal ventsnSeawater percolates through cracks in the ocean floor and is heated to about 350 degreesnCausing sulfate to react with water forming hydrogen sulfidenProvides source of energy for chemoautotrophic organisms¨Unlike Energy, that reduces in concentration as it moves through an ecosystem, pollutants can concentrate as they move through a system –biomagnification",
+  "explanation": "The open ocean is divided into pelagic zones: 1) Epipelagic zone: the uppermost sunlit layer, which lacks inorganic nutrients and thus has low phytoplankton concentration. 2) Mesopelagic zone: a middle layer receiving light and containing inorganic nutrients, supporting a high concentration of organisms. 3) Bathypelagic zone: characterized by complete darkness except for bioluminescent light, populated by carnivores and scavengers. The abyssal plain is a deep, high-pressure, freezing environment where organisms depend on falling debris. It is interrupted by hydrothermal vents, where water is heated to 350°C through sea floor cracks, causing sulfate to react with water to form hydrogen sulfide. Chemoautotrophic organisms use this hydrogen sulfide as an energy source. The slide also notes that while energy decreases at higher trophic levels, chemical pollutants can concentrate as they move up the food chain, a process called biomagnification.",
+  "questions": [
+    {
+      "q": "Why does the mesopelagic zone support a higher concentration of organisms than the epipelagic zone?",
+      "opts": [
+        "The epipelagic zone is in complete darkness.",
+        "The epipelagic zone lacks inorganic nutrients, whereas the mesopelagic zone has both sunlight penetration and inorganic nutrients.",
+        "The mesopelagic zone contains hydrothermal vents that release hydrogen sulfide.",
+        "The epipelagic zone suffers from extreme water pressure."
+      ],
+      "a": 1,
+      "exp": "The notes state that the Epipelagic zone 'Lacks inorganic nutrients' and lacks high phytoplankton, whereas the Mesopelagic zone has 'High concentration of organisms due to sunlight penetration and supply of inorganic nutrients.'"
+    },
+    {
+      "q": "What molecule is formed at hydrothermal vents and acts as an energy source for chemoautotrophs?",
+      "opts": [
+        "Carbon dioxide",
+        "Ammonia",
+        "Hydrogen sulfide",
+        "Phosphate ions"
+      ],
+      "a": 2,
+      "exp": "The notes state that heated seawater reacting with sulfate forms 'hydrogen sulfide' which 'Provides source of energy for chemoautotrophic organisms' at hydrothermal vents."
+    },
+    {
+      "q": "What is biomagnification?",
+      "opts": [
+        "The rapid growth of phytoplankton in oligotrophic lakes.",
+        "The reduction of energy at higher levels of the ecological pyramid.",
+        "The process where chemical pollutants concentrate as they move through a food system.",
+        "The evolutionary divergence of characteristics in sympatric species."
+      ],
+      "a": 2,
+      "exp": "The notes state: 'Unlike Energy, that reduces in concentration as it moves through an ecosystem, pollutants can concentrate as they move through a system – biomagnification.'"
+    }
+  ]
+}

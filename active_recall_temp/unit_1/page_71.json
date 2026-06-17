@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 71,
+  "filename": "Unit_1_5.txt",
+  "section_title": "Biotechnology and Bioethics",
+  "page_num_in_file": 6,
+  "slide_title": "Evolution Connection & Biotechnology",
+  "original_text": "\u2013Evolution is a core theme of biology.\u2013Humans selectively breed plants and animals in the process of artificialselectionto produce\u2013more productive crops,\u2013better livestock, and\u2013a great variety of pets that bear little resemblance to their wild ancestors.",
+  "explanation": "This slide connects evolution and biotechnology through the practice of selective breeding, or artificial selection. Evolution is a core theme of biology. Through artificial selection, humans selectively breed plants and animals to produce more productive crops, better livestock, and a wide variety of pets that look very different from their wild ancestors.",
+  "questions": [
+    {
+      "q": "What is the process called when humans selectively breed plants and animals to produce specific traits, such as more productive crops or domestic pets?",
+      "opts": [
+        "Natural selection",
+        "Homeostatic regulation",
+        "Artificial selection",
+        "Cellular respiration"
+      ],
+      "a": 2,
+      "exp": "The slide states: 'Humans selectively breed plants and animals in the process of artificial selection...'"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "u6_t5",
+  "title": "Protists/Plants/Fungi",
+  "cheat_card": [
+    "<b>Eukaryotic Diversity</b>: Protists represent six polyphyletic Supergroups. Plants evolved from Charophyte green algae (Supergroup <i>Archaeplastida</i>), and fungi belong to <i>Opisthokonta</i> alongside animals.",
+    "<b>Fungi Anatomy and Spores</b>: Fungi are heterotrophic saprotrophs with cell walls made of <b>chitin</b>; their body (<b>mycelium</b>) is composed of threadlike <b>hyphae</b>. They reproduce via windblown spores and complex sexual cycles.",
+    "<b>Plant Adaptations to Land</b>: Plants developed a waxy <b>cuticle</b> to prevent drying out and <b>stomata</b> for gas exchange. They undergo an <b>alternation of generations</b> where the diploid <b>sporophyte</b> became the dominant phase over the haploid <b>gametophyte</b>.",
+    "<b>Bryophytes vs. Vascular Plants</b>: <b>Bryophytes</b> (nonvascular mosses) are gametophyte-dominant and require water for flagellated sperm to swim to archegonia. Vascular plants are sporophyte-dominant, using <b>xylem</b> (strengthened by <b>lignin</b> to transport water) and <b>phloem</b>.",
+    "<b>Gymnosperms vs. Angiosperms</b>: Gymnosperms bear naked seeds on cones. Angiosperms are flowering plants whose seeds are enclosed within a diploid <b>ovary</b> (which matures into fruit) and are split into <b>monocots</b> (one cotyledon) and <b>eudicots</b> (two cotyledons)."
+  ],
+  "memory_anchor": "### Evolutionary Tree of Eukaryotes & Organism Roles\n\n* **Archaeplastida**: Land Plants, Green Algae (Charophytes), Red Algae. \n  * *Characteristics*: Cellulose cell walls, store starch, chlorophyll a & b.\n* **Opisthokonta**: Fungi, Animals, Choanoflagellates.\n  * *Characteristics*: Chitin cell walls (fungi), heterotrophic nutrition, more closely related to each other than to plants.\n\n### Vascular vs. Nonvascular Plants:\n* **Bryophytes (Nonvascular)**: No vascular tissue $\\rightarrow$ Gametophyte ($1n$) is dominant. Needs water for sperm.\n* **Tracheophytes (Vascular)**: Have xylem & phloem $\\rightarrow$ Sporophyte ($2n$) is dominant. Includes seedless (ferns) and seed plants (gymnosperms/angiosperms).",
+  "flashcards": [
+    {
+      "q": "How do the cell walls and nutritional strategies of plants and fungi differ, and which supergroups do they belong to?",
+      "a": "Plants have cell walls composed of cellulose, are photoautotrophic, and belong to the supergroup Archaeplastida. Fungi have cell walls composed of chitin, are heterotrophic saprotrophs (absorbing organic matter), and belong to the supergroup Opisthokonta."
+    },
+    {
+      "q": "Describe the alternation of generations in land plants and explain how the dominant generation changed as plants became better adapted to terrestrial life.",
+      "a": "Plants alternate between a diploid ($2n$) sporophyte generation (which produces spores via meiosis) and a haploid ($1n$) gametophyte generation (which produces gametes via mitosis). As plants became better adapted to land, the sporophyte generation became the dominant, larger cycle, while the gametophyte became highly reduced."
+    },
+    {
+      "q": "Compare how seeds are positioned in gymnosperms versus angiosperms, and list the two major classes of angiosperms.",
+      "a": "Gymnosperms produce 'naked' seeds that are not enclosed within a fruit and are usually borne on cones. Angiosperms enclose their seeds within a diploid ovary, which develops into a protective fruit. The two major classes of angiosperms are monocots (one cotyledon in the seed) and eudicots/dicots (two cotyledons in the seed)."
+    }
+  ],
+  "outline_blanks": "Plants evolved from green algae called [[charophytes]] and adapted to land by developing a waxy [[cuticle]] to prevent water loss. Fungi are saprotrophic organisms containing cell walls composed of [[chitin]] and bodies made of filaments called [[hyphae]]. Flowering plants, or [[angiosperms]], enclose their seeds within diploid ovary tissue that matures into fruit."
+}

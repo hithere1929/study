@@ -1,0 +1,34 @@
+{
+  "unit": 6,
+  "page": 42,
+  "filename": "Unit_6_4.txt",
+  "section_title": "Fungi",
+  "page_num_in_file": 6,
+  "slide_title": "Diversity -Chytridiomycota\u00a8Chytrid\u00a4Aquatic fungi \u2013almost 800 species\u00a4Unique among funginOnly fungi to still have flagellated cellsnHelp with aquatic lifestylenProduce flagellated gametes and sporesnMost reproduce asexually through production of zoospore within a single cell, which grows into new chitridnSuggest shared ancestry with choanoflagellate protists",
+  "original_text": "Diversity -Chytridiomycota\u00a8Chytrid\u00a4Aquatic fungi \u2013almost 800 species\u00a4Unique among funginOnly fungi to still have flagellated cellsnHelp with aquatic lifestylenProduce flagellated gametes and sporesnMost reproduce asexually through production of zoospore within a single cell, which grows into new chitridnSuggest shared ancestry with choanoflagellate protists",
+  "explanation": "Phylum Chytridiomycota contains chytrids, which are aquatic fungi representing almost 800 species. Chytrids are unique as they are the only fungi that still possess flagellated cells (both flagellated gametes and spores), aiding their aquatic lifestyle. Most chytrids reproduce asexually by producing a flagellated zoospore within a single cell, which grows into a new chytrid. This flagellated state suggests a shared evolutionary ancestry with choanoflagellate protists.",
+  "questions": [
+    {
+      "q": "What unique evolutionary feature is found in chytrids but absent in other fungi?",
+      "opts": [
+        "Cell walls containing cellulose",
+        "Flagellated cells",
+        "Lack of a nucleus",
+        "A multi-chambered calcium carbonate test"
+      ],
+      "a": 1,
+      "exp": "The notes state that chytrids are the 'Only fungi to still have flagellated cells'."
+    },
+    {
+      "q": "With which group of protists do chytrids share a suggested ancestry due to their flagellated cells?",
+      "opts": [
+        "Dinoflagellates",
+        "Choanoflagellates",
+        "Euglenids",
+        "Ciliates"
+      ],
+      "a": 1,
+      "exp": "The notes state that their flagellated structures 'Suggest shared ancestry with choanoflagellate protists'."
+    }
+  ]
+}

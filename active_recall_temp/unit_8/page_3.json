@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 3,
+  "filename": "Unit_8_1.txt",
+  "section_title": "Behavioral Ecology",
+  "page_num_in_file": 3,
+  "slide_title": "Inheritance Influences Behavior¨Behavior-any action that can be observed and described¨Nature (inherited) versus nurture (environmental) questions are still debated¤Today, most evidence points to the conclusion that most behaviors have a genetic basis¤May be tied to nervous and endocrine systems",
+  "original_text": "Inheritance Influences Behavior¨Behavior-any action that can be observed and described¨Nature (inherited) versus nurture (environmental) questions are still debated¤Today, most evidence points to the conclusion that most behaviors have a genetic basis¤May be tied to nervous and endocrine systems",
+  "explanation": "Behavior is defined as any action that can be observed and described. Although the debate continues over nature (inherited traits) versus nurture (environmental influences), modern scientific consensus indicates that most behaviors possess a genetic foundation. These inherited behaviors are often physically linked to the development and function of the nervous and endocrine systems.",
+  "questions": [
+    {
+      "q": "What is the scientific definition of behavior as stated in the notes?",
+      "opts": [
+        "Any action that can be observed and described",
+        "A purely learned response to environmental stimuli",
+        "A physiological change mediated by hormones",
+        "An action determined exclusively by conscious choice"
+      ],
+      "a": 0,
+      "exp": "The notes define behavior as 'any action that can be observed and described.'"
+    },
+    {
+      "q": "What is the consensus regarding the basis of most animal behaviors?",
+      "opts": [
+        "They are entirely determined by environmental factors (nurture)",
+        "They have a genetic basis (nature)",
+        "They are completely independent of the nervous system",
+        "They are not influenced by the endocrine system"
+      ],
+      "a": 1,
+      "exp": "The notes state that 'most evidence points to the conclusion that most behaviors have a genetic basis.'"
+    }
+  ]
+}

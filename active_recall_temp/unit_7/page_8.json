@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 8,
+  "filename": "Unit_7_1.txt",
+  "section_title": "Plant Structure & Organization",
+  "page_num_in_file": 8,
+  "slide_title": "Tissues of Flowering Plants: Ground Tissue",
+  "original_text": "Tissues of Flowering Plants Ground tissue forms bulk of a flowering plant Parenchyma cells: Least specialized and are found in all organs of plant Can divide and give rise to more specialized cells Collenchyma cells: Have thicker primary walls Form bundles underneath epidermis Provide flexible support for immature regions of the plant Sclerenchyma cells: Have thick secondary walls impregnated with lignin Most are nonliving Primary function is to support mature regions of the plant Two types of sclerenchyma cells Fibers Sclereids",
+  "explanation": "Ground tissue forms the majority of the internal volume of a flowering plant and consists of three distinct cell types: parenchyma, collenchyma, and sclerenchyma. Parenchyma cells are the least specialized cells, are present in all plant organs, and retain the capability to divide and give rise to more specialized cells. Collenchyma cells have unevenly thickened primary cell walls and form bundles directly beneath the epidermis, providing flexible structural support to growing, immature regions of the plant. Sclerenchyma cells possess thick secondary cell walls reinforced with lignin. Most sclerenchyma cells are dead (nonliving) at functional maturity, and their primary role is to provide rigid support to mature, non-growing parts of the plant. Sclerenchyma cells are subcategorized into fibers (long, slender bundles) and sclereids (short, irregular cells).",
+  "questions": [
+    {
+      "q": "Which type of ground tissue cells are least specialized, present in all organs, and retain the ability to divide?",
+      "opts": [
+        "Collenchyma",
+        "Parenchyma",
+        "Sclereids",
+        "Fibers"
+      ],
+      "a": 1,
+      "exp": "Parenchyma cells are the least specialized ground tissue cells, are found throughout the plant, and can divide to regenerate tissues."
+    },
+    {
+      "q": "What is the primary function and characteristic of sclerenchyma cells?",
+      "opts": [
+        "Provide flexible support for immature regions with thin primary walls",
+        "Divide continuously to produce secondary xylem and phloem",
+        "Provide rigid support to mature regions with thick, lignified secondary walls, and are mostly dead at maturity",
+        "Form the waxy cuticle on the outer epidermis to prevent water loss"
+      ],
+      "a": 2,
+      "exp": "Sclerenchyma cells have thick secondary walls impregnated with lignin, are mostly nonliving at maturity, and function to support mature regions of the plant."
+    }
+  ]
+}

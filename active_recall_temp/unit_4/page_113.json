@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 113,
+  "filename": "Unit_4_6.txt",
+  "section_title": "Meiosis",
+  "page_num_in_file": 7,
+  "slide_title": "Meiosis I",
+  "original_text": "Meiosis I",
+  "explanation": "This slide serves as an introductory or transition slide for Meiosis I.",
+  "questions": [
+    {
+      "q": "What is the title of the cell division process shown on this page?",
+      "opts": [
+        "Mitosis",
+        "Meiosis I",
+        "Meiosis II",
+        "Binary fission"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide title is 'Meiosis I'."
+    }
+  ]
+}

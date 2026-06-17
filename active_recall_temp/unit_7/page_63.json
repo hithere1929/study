@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 63,
+  "filename": "Unit_7_4.txt",
+  "section_title": "Plant Reproduction",
+  "page_num_in_file": 9,
+  "slide_title": "Reproductive Strategies: Pollination & Fertilization",
+  "original_text": "Reproductive Strategies Pollination The transfer of pollen from an anther to the stigma of a carpel Self-pollination occurs if the pollen is from the same plant Cross-pollination occurs if the pollen is from a different plant Fertilization When a pollen grain lands on the stigma, it germinates, forming a pollen tube The pollen tube passes between the stigma and style to reach the micropyle of the ovule Double fertilization occurs nOne sperm nucleus unites with the egg nucleus, producing a 2n zygote nThe other sperm nucleus unites with the polar nuclei, forming a 3n endosperm nucleus, which develops into the endosperm A mature seed contains the embryo, stored food, and the seed coat",
+  "explanation": "Pollination is the transfer of pollen from the anther to the stigma of a carpel. It can be self-pollination (same plant) or cross-pollination (different plant). Upon pollination, the pollen grain germinates, forming a pollen tube that grows down through the style to reach the ovule's micropyle. Angiosperms undergo double fertilization: one sperm nucleus fuses with the egg cell to form a diploid (2n) zygote (which becomes the embryo). The other sperm nucleus fuses with the two polar nuclei in the central cell, forming a triploid (3n) endosperm nucleus that develops into endosperm tissue to nourish the embryo. The mature seed consists of the embryo, stored food, and a protective seed coat.",
+  "questions": [
+    {
+      "q": "What is the product of the fusion between the second sperm nucleus and the two polar nuclei during double fertilization?",
+      "opts": [
+        "A diploid (2n) zygote",
+        "A triploid (3n) endosperm nucleus",
+        "A haploid (n) megaspore",
+        "A protective seed coat"
+      ],
+      "a": 1,
+      "exp": "The second sperm nucleus fuses with the two polar nuclei of the central cell to produce a triploid (3n) endosperm nucleus, which develops into nutrient storage tissue."
+    },
+    {
+      "q": "What is the term for the path that sperm nuclei travel through the style to reach the micropyle of the ovule?",
+      "opts": [
+        "Suspensor",
+        "Pollen tube",
+        "Vascular ray",
+        "Lenticel"
+      ],
+      "a": 1,
+      "exp": "The pollen grain germinates on the stigma to form a pollen tube, which grows through the style to reach the micropyle of the ovule."
+    }
+  ]
+}

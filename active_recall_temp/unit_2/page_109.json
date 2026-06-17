@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 109,
+  "filename": "Unit_2_4.txt",
+  "section_title": "Metabolism",
+  "page_num_in_file": 12,
+  "slide_title": "Exergonic Reactions",
+  "original_text": "Exergonic Reactions\nReactants\nEnergy\nProducts\nAmount of energy released\nPotential energy",
+  "explanation": "This slide provides a graphical energy profile of an exergonic reaction. It shows that reactants start with a high level of potential energy, and as the reaction proceeds, energy is released. The resulting products have lower potential energy than the reactants, and the difference in energy levels is the net amount of energy released.",
+  "questions": [
+    {
+      "q": "In an exergonic reaction graph, how do the energy levels of the reactants and products compare?",
+      "opts": [
+        "Reactants have lower potential energy than products.",
+        "Reactants and products have equal potential energy.",
+        "Reactants have higher potential energy than products.",
+        "Products have infinite potential energy."
+      ],
+      "a": 2,
+      "exp": "Because exergonic reactions release energy, the reactants start with higher potential energy and the products end up with lower potential energy."
+    }
+  ]
+}

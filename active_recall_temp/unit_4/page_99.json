@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 99,
+  "filename": "Unit_4_5.txt",
+  "section_title": "Biotech & Genomics",
+  "page_num_in_file": 21,
+  "slide_title": "Genomics",
+  "original_text": "Genomics",
+  "explanation": "This slide is a continuation slide within the Genomics and Eukaryotic Gene Structure section of the unit.",
+  "questions": [
+    {
+      "q": "What is the main subject of this section?",
+      "opts": [
+        "Replication",
+        "Genomics",
+        "Translation",
+        "Mutations"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide title is 'Genomics'. The other choices are incorrect."
+    }
+  ]
+}

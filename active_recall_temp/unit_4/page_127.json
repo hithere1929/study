@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 127,
+  "filename": "Unit_4_6.txt",
+  "section_title": "Meiosis",
+  "page_num_in_file": 21,
+  "slide_title": "Hormones -Females¨The Ovarian Cycle¤Follicle changes from a primary to a secondary to a vesicular (Graafian) follicle under the influence of FSH and LH¤OvulationnRelease of secondary oocyte from a vesicular folliclenSecondary oocyte enters an oviductnFollicle develops in corpus luteumnDegenerates if pregnancy does not occurnIf pregnancy does occur, HCG begins to be produced to keep pregnancy viable",
+  "original_text": "Hormones -Females¨The Ovarian Cycle¤Follicle changes from a primary to a secondary to a vesicular (Graafian) follicle under the influence of FSH and LH¤OvulationnRelease of secondary oocyte from a vesicular folliclenSecondary oocyte enters an oviductnFollicle develops in corpus luteumnDegenerates if pregnancy does not occurnIf pregnancy does occur, HCG begins to be produced to keep pregnancy viable",
+  "explanation": "During the ovarian cycle, an oocyte-containing follicle matures under the joint influence of FSH and LH, progressing from a primary follicle, to a secondary follicle, and finally to a vesicular (Graafian) follicle. Ovulation is defined as the release of the secondary oocyte from this mature vesicular follicle. Once released, the secondary oocyte enters an oviduct. The empty follicle then transforms into the corpus luteum. If pregnancy does not occur, this corpus luteum degenerates. However, if pregnancy does occur, Human Chorionic Gonadotropin (HCG) is produced to maintain and keep the pregnancy viable.",
+  "questions": [
+    {
+      "q": "What is ovulation as described on this slide?",
+      "opts": [
+        "The degeneration of the vesicular follicle before fertilization.",
+        "The release of a secondary oocyte from a vesicular follicle into an oviduct.",
+        "The unequal division of the cytoplasm during meiosis II.",
+        "The conversion of a secondary follicle into a primary follicle."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide defines ovulation as: 'Release of secondary oocyte from a vesicular follicle' which then 'enters an oviduct.'"
+    },
+    {
+      "q": "What happens to the corpus luteum if pregnancy does not occur versus if it does occur?",
+      "opts": [
+        "It turns into a vesicular follicle in both cases.",
+        "It degenerates if pregnancy does not occur; if pregnancy does occur, HCG is produced to keep it viable.",
+        "It secretes estrogen in both cases to block ovulation.",
+        "It moves into the oviduct to protect the zygote."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states that the follicle develops into the corpus luteum, which 'Degenerates if pregnancy does not occur' and 'If pregnancy does occur, HCG begins to be produced to keep pregnancy viable.'"
+    }
+  ]
+}

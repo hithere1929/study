@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 96,
+  "filename": "Unit_8_6.txt",
+  "section_title": "Major Ecosystems of the Biosphere",
+  "page_num_in_file": 5,
+  "slide_title": "Climate and the Biosphere¨Topography¤The physical features of the landnConsider a coastal mountain rangenWindward side of the mountainnWinds rise & Release moisturenLeeward sidenDry winds subsidenEvaporates existing water and rarely rainsnCreate a rain shadownProperties of water also affect climate –evaporative cooling, heat retention –land heats quicker than water in day, causes breezes at night¤Monsoon climatenOcean winds blow onshore for almost half the yearnLand heats more rapidly than the water, which causes an enormous circulation of airnWarm air rises over land and is replaced by cooler ocean airnAs the air rises it loses its moisture and the monsoon season begins",
+  "original_text": "Climate and the Biosphere¨Topography¤The physical features of the landnConsider a coastal mountain rangenWindward side of the mountainnWinds rise & Release moisturenLeeward sidenDry winds subsidenEvaporates existing water and rarely rainsnCreate a rain shadownProperties of water also affect climate –evaporative cooling, heat retention –land heats quicker than water in day, causes breezes at night¤Monsoon climatenOcean winds blow onshore for almost half the yearnLand heats more rapidly than the water, which causes an enormous circulation of airnWarm air rises over land and is replaced by cooler ocean airnAs the air rises it loses its moisture and the monsoon season begins",
+  "explanation": "Topography represents the physical features of the land, which significantly shape local climates. For instance, in a coastal mountain range, the windward side receives moist winds that rise and release precipitation. Conversely, on the leeward side, dry winds descend, evaporating moisture and rarely producing rain, which creates an arid rain shadow. Water's physical properties, such as high heat retention and evaporative cooling, also regulate climate; land heats up faster than water during the day, causing sea breezes, and cools faster at night, causing land breezes. In a monsoon climate, ocean winds blow onshore for nearly half the year because the land heats up much faster than the ocean. This creates massive air circulation where warm air rises over land and is replaced by cool, moist ocean air, which cools as it rises and triggers torrential monsoon rains.",
+  "questions": [
+    {
+      "q": "What is a rain shadow, and how does it form?",
+      "opts": [
+        "An area of high rainfall on the windward side of a mountain range.",
+        "An arid region on the leeward side of a mountain range, formed when descending dry winds evaporate moisture and rarely rain.",
+        "A cooling breeze created at night when land heats up faster than water.",
+        "A high-pressure zone at 30 degrees latitude created by Earth's rotation."
+      ],
+      "a": 1,
+      "exp": "The notes state that on the leeward side of a mountain, 'Dry winds subside', 'Evaporates existing water and rarely rains', which 'Create a rain shadow.'"
+    },
+    {
+      "q": "What drives the monsoon climate cycle?",
+      "opts": [
+        "The melting of polar ice sheets in the summer months.",
+        "The rapid heating of land compared to water, which draws cool, moist ocean air onshore where it rises and releases moisture.",
+        "The Coriolis effect causing winds to rotate counterclockwise in the Northern Hemisphere.",
+        "The permanent blockage of stomata in coastal vegetation."
+      ],
+      "a": 1,
+      "exp": "According to the notes, 'Land heats more rapidly than the water... Warm air rises over land and is replaced by cooler ocean air. As the air rises it loses its moisture and the monsoon season begins.'"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 110,
+  "filename": "Unit_2_4.txt",
+  "section_title": "Metabolism",
+  "page_num_in_file": 13,
+  "slide_title": "Endergonic Reactions",
+  "original_text": "Endergonic Reactions¨An endergonic reaction¥requires an input of energy and¥yields products rich in potential energy.¨Endergonic reactions¥start with reactant molecules that contain relatively little potential energy but¥end with products that contain more chemical energy.¥Examples include building proteins, DNA, etc. Large molecules with stored energy",
+  "explanation": "An endergonic reaction requires a net input of energy to proceed, resulting in products that are rich in potential chemical energy. These reactions start with simple reactant molecules containing relatively little potential energy and, by absorbing energy, assemble them into complex products that store higher amounts of chemical energy. Biological examples include anabolic processes such as synthesis of large molecules like proteins and DNA.",
+  "questions": [
+    {
+      "q": "Which of the following is an example of an endergonic process?",
+      "opts": [
+        "Burning wood",
+        "Cellular respiration",
+        "Synthesizing proteins or DNA from simpler building blocks",
+        "Boiling water"
+      ],
+      "a": 2,
+      "exp": "Building complex macromolecules (like proteins or DNA) from simpler monomers requires energy input, making it an endergonic process."
+    },
+    {
+      "q": "How do the reactant and product energy states compare in endergonic reactions?",
+      "opts": [
+        "Reactants have high potential energy, and products have low chemical energy.",
+        "Reactants start with little potential energy, and products end with higher chemical energy.",
+        "Reactants and products have the same chemical energy.",
+        "Reactants have no potential energy whatsoever."
+      ],
+      "a": 1,
+      "exp": "Endergonic reactions consume energy, so the simple reactants have low potential energy, and the complex products contain more stored chemical energy."
+    }
+  ]
+}

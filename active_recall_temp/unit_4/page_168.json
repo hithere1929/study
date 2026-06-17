@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 168,
+  "filename": "Unit_4_8.txt",
+  "section_title": "Mendelian Inheritance P1 - Mendelian Genetics",
+  "page_num_in_file": 23,
+  "slide_title": "Mendel’s Laws¨Mendel formulated the Law of Independent Assortment¤The pair of factors for one trait segregate independentlyof the factors for other traits¤All possible combinations of factors can occur in the gametesnIf this law didn’t hold true, things like plant height (tall) and Color (yellow) would always assort together instead if independently¨P generation is the parental generation in a breeding experiment.¨F1 generation is the first-generation offspring in a breeding experiment.¨F2 generation is the second-generation offspring in a breeding experiment",
+  "original_text": "Mendel’s Laws¨Mendel formulated the Law of Independent Assortment¤The pair of factors for one trait segregate independentlyof the factors for other traits¤All possible combinations of factors can occur in the gametesnIf this law didn’t hold true, things like plant height (tall) and Color (yellow) would always assort together instead if independently¨P generation is the parental generation in a breeding experiment.¨F1 generation is the first-generation offspring in a breeding experiment.¨F2 generation is the second-generation offspring in a breeding experiment",
+  "explanation": "Mendel formulated the Law of Independent Assortment, which states that the pair of factors (alleles) for one trait segregates (separates) independently of the factors for other traits. This allows all possible combinations of factors to occur in the gametes. Without this law, traits like plant height (tall) and seed color (yellow) would always be inherited together rather than independently. In these experiments, the P generation is the parental generation, the F1 generation is the first-generation offspring, and the F2 generation is the second-generation offspring.",
+  "questions": [
+    {
+      "q": "What does the Law of Independent Assortment state?",
+      "opts": [
+        "Alleles of a gene separate during gamete formation so each gamete has one allele.",
+        "The pair of factors for one trait segregates independently of the factors for other traits.",
+        "Homozygous dominant alleles always assort with homozygous recessive alleles.",
+        "Gametes receive only maternal chromosomes."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide defines the Law of Independent Assortment: 'The pair of factors for one trait segregate independently of the factors for other traits'."
+    },
+    {
+      "q": "What would happen if the Law of Independent Assortment did not hold true for height and color?",
+      "opts": [
+        "Height and color traits would always assort together instead of independently.",
+        "Height and color traits would never be expressed.",
+        "The offspring would fail to develop.",
+        "All offspring would be homozygous recessive."
+      ],
+      "a": 0,
+      "exp": "Option A is correct because the slide notes: 'If this law didn’t hold true, things like plant height (tall) and Color (yellow) would always assort together instead if independently'."
+    }
+  ]
+}

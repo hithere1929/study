@@ -1,0 +1,26 @@
+{
+  "id": "u7_t10",
+  "title": "Sense Receptors",
+  "cheat_card": [
+    "Receptors perform <b>sensory transduction</b>, converting stimuli to nerve impulses. Types include chemoreceptors (taste/smell), photoreceptors (rods/cones), mechanoreceptors (pressure/sound/balance), thermoreceptors (temp), and nociceptors (pain).",
+    "<b>Human Eye</b>: Outer sclera becomes the transparent <b>cornea</b>. Middle choroid forms the <b>ciliary body</b> (controls lens shape during <b>visual accommodation</b>) and the <b>iris</b> (controls pupil size). Inner retina contains rods (low light, rhodopsin) and cones (bright light, B/G/R color). Cones are packed in the <b>fovea centralis</b>.",
+    "<b>Human Ear</b>: Sound vibrates the tympanic membrane, transferring pressure to ossicles (<b>malleus, incus, stapes</b>) which multiply pressure. Stapes strikes the <b>oval window</b>, vibrating fluid in the <b>cochlea</b>.",
+    "<b>Hearing & Equilibrium</b>: Cochlear sound waves vibrate the <b>basilar membrane</b> in the <b>organ of Corti</b>, bending the stereocilia on hair cells. Equilibrium is sensed by hair cells in <b>semicircular canals</b> (rotational) and the <b>utricle and saccule</b> (gravitational)."
+  ],
+  "memory_anchor": "<h3>Retinal Integration and Synaptic Convergence</h3><ul><li><b>Photoreceptors (Rods/Cones)</b> &rarr; [Synapse with] &rarr; <b>Bipolar Cells</b> &rarr; [Synapse with] &rarr; <b>Ganglion Cells</b> (Axons form the <b>Optic Nerve</b>).</li><li><i>Sharpness Hook:</i> Cones have low convergence (few cones per ganglion cell), providing high-acuity central vision in the <b>fovea centralis</b>. Rods have high convergence (many rods per ganglion cell), giving high sensitivity for low-light but low detail.</li></ul>",
+  "flashcards": [
+    {
+      "q": "Explain how the human eye adjusts its focus for near versus distant objects.",
+      "a": "The eye undergoes visual accommodation via the ciliary muscle which controls the shape of the lens. To view a distant object, the ciliary muscle relaxes, causing the lens to flatten. To view a near object, the ciliary muscle contracts, causing the lens to become more rounded and thick, increasing its refractive power."
+    },
+    {
+      "q": "Describe the path of sound waves and pressure through the human ear to the generation of a nerve impulse.",
+      "a": "Sound waves enter the auditory canal -> vibrate the tympanic membrane -> pass through the ossicles (malleus, incus, stapes) which multiply pressure -> stapes strikes the oval window -> pressure waves travel through fluid in the cochlea -> vibrate the basilar membrane in the organ of Corti -> bend the stereocilia on hair cells (mechanoreceptors) -> generate action potentials in the cochlear nerve."
+    },
+    {
+      "q": "How does the inner ear detect rotational and gravitational equilibrium?",
+      "a": "Rotational equilibrium is detected by hair cells in the ampullae of the semicircular canals, which bend when fluid shifts during rotation. Gravitational equilibrium is detected by hair cells in the utricle and saccule, which shift in response to the pull of gravity when the head bends."
+    }
+  ],
+  "outline_blanks": "The process of converting environmental stimuli into nerve impulses is called [[sensory transduction]]. In the eye, light is focused on the [[fovea centralis]] of the retina, which is packed with color-detecting [[cone cells]]. In the ear, sound waves vibrate the [[basilar membrane]], bending the stereocilia of hair cells."
+}

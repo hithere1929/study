@@ -1,0 +1,27 @@
+{
+  "id": "u6_t6",
+  "title": "Vertebrates/Mammals/Humans",
+  "cheat_card": [
+    "<b>Chordate Characteristics</b>: All chordates share four basic features at some point in development: a supporting <b>notochord</b>, a <b>dorsal tubular nerve cord</b>, <b>pharyngeal pouches</b>, and a <b>postanal tail</b>.",
+    "<b>Vertebrate Evolution</b>: Evolution progressed from jawless fish to jawed fish, then to <b>amphibians</b> (the first land tetrapods, which still require water for reproduction), and finally to <b>reptiles</b>, which fully conquered land with watertight skin and the <b>amniotic egg</b>.",
+    "<b>Amniote Lineages</b>: Amniotes are classified by skull openings behind the eye socket: <b>anapsids</b> (no opening; turtles), <b>diapsids</b> (two openings; reptiles and birds), and <b>synapsids</b> (one opening; mammals).",
+    "<b>Mammal Characteristics</b>: Mammals are endotherms distinguished by having <b>hair</b>, <b>mammary glands</b>, a four-chambered heart, efficient respiratory/circulatory systems, and a skeleton containing a large brain.",
+    "<b>Mammalian Subgroups</b>: Mammals are divided into three groups based on reproductive strategy: <b>monotremes</b> (egg-laying), <b>marsupials</b> (young finish development in a pouch), and <b>placental</b> mammals (sustained internally by a placenta)."
+  ],
+  "memory_anchor": "### Skull Openings (Temporal Fenestrae) in Amniote Evolution\n\n* **Anapsid** = **A**- (Without) + **Napsid** (Openings) $\\rightarrow$ **0 Openings** behind the eye socket. (Example: Turtles)\n* **Synapsid** = **Syn**- (Together/Single) $\\rightarrow$ **1 Opening** behind the eye socket. (Example: Mammals)\n* **Diapsid** = **Di**- (Two) $\\rightarrow$ **2 Openings** behind the eye socket. (Example: Reptiles, Birds, Dinosaurs)\n\n### The Four Diagnostic Chordate Traits:\n1. **Notochord** (skeletal rod; becomes vertebral column in vertebrates)\n2. **Dorsal Tubular Nerve Cord** (neural tube; becomes spinal cord & brain)\n3. **Pharyngeal Pouches** (gills in fish; auditory tubes/tonsils in humans)\n4. **Postanal Tail** (tail extending past anus; reduced in humans)",
+  "flashcards": [
+    {
+      "q": "What are the four developmental characteristics that define the Phylum Chordata, and what do they become in adult vertebrates?",
+      "a": "The four characteristics are the notochord (becomes the vertebral column), the dorsal tubular nerve cord (becomes the spinal cord and brain), the pharyngeal pouches (become gills in fish, or auditory tubes and glands in land vertebrates), and the postanal tail (remains or is absorbed/reduced during development)."
+    },
+    {
+      "q": "How did the transition from amphibians to reptiles represent a major breakthrough in land adaptation, particularly regarding reproduction?",
+      "a": "Amphibians are tetrapods but must return to water to reproduce because their eggs are jelly-coated and subject to drying out. Reptiles fully adapted to land by developing watertight, scaly skin and the amniotic egg, which provides the embryo with its own self-contained aquatic environment and nutrients, eliminating the need for water-based reproduction."
+    },
+    {
+      "q": "Compare the three main groups of mammals in terms of how their young are born and developed.",
+      "a": "Monotremes lay hard-shelled amniotic eggs (e.g., platypus). Marsupials are born highly immature and crawl into a maternal pouch where they attach to a nipple to finish development (e.g., kangaroo). Placental mammals undergo complete internal embryonic development sustained by a placenta inside the mother's uterus before birth (e.g., humans)."
+    }
+  ],
+  "outline_blanks": "All chordates possess four traits at some point in development: a dorsal supporting rod called the [[notochord]], a dorsal tubular nerve cord, [[pharyngeal pouches]], and a postanal tail. In land colonization, reptiles evolved the [[amniotic egg]] to protect embryos from drying out. Mammals are distinguished by having hair and [[mammary glands]], and are classified into egg-laying monotremes, pouched marsupials, and [[placental]] mammals."
+}

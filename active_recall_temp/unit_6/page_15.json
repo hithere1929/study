@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 15,
+  "filename": "Unit_6_2.txt",
+  "section_title": "Prokaryotes",
+  "page_num_in_file": 4,
+  "slide_title": "Structure\u00a8Lack a membrane-bounded nucleus (DNA in nucleoid region) \u00a8Outer cell wall containing peptidoglycan \u00a8Some move by means of flagella \u00a8Lack membranous organelles \u00a8May have accessory ring of DNA (plasmid)",
+  "original_text": "Structure\u00a8Lack a membrane-bounded nucleus (DNA in nucleoid region) \u00a8Outer cell wall containing peptidoglycan \u00a8Some move by means of flagella \u00a8Lack membranous organelles \u00a8May have accessory ring of DNA (plasmid)",
+  "explanation": "Prokaryotic cells have distinct structural characteristics. First, they lack a membrane-bounded nucleus, meaning their DNA is localized in a region known as the nucleoid. Second, they have a protective outer cell wall that contains peptidoglycan. Third, some prokaryotes are motile and achieve movement via flagella. Fourth, they lack membranous organelles. Finally, many prokaryotes carry an accessory ring of DNA called a plasmid, which is separate from their main chromosomal DNA.",
+  "questions": [
+    {
+      "q": "Where is the genomic DNA of a prokaryote stored?",
+      "opts": [
+        "In a membrane-bounded nucleus",
+        "In the nucleoid region",
+        "Inside the chloroplast",
+        "Within the cell wall"
+      ],
+      "a": 1,
+      "exp": "The notes state that prokaryotes 'Lack a membrane-bounded nucleus' and their DNA is in the 'nucleoid region'."
+    },
+    {
+      "q": "What is the cell wall of a prokaryote composed of?",
+      "opts": [
+        "Cellulose",
+        "Chitin",
+        "Peptidoglycan",
+        "Phospholipids"
+      ],
+      "a": 2,
+      "exp": "The notes specify that the 'Outer cell wall containing peptidoglycan'."
+    },
+    {
+      "q": "What is the term for the accessory ring of DNA found in some prokaryotes?",
+      "opts": [
+        "Plasmid",
+        "Nucleoid",
+        "Flagellum",
+        "Ribosome"
+      ],
+      "a": 0,
+      "exp": "The notes state they 'May have accessory ring of DNA (plasmid)'."
+    }
+  ]
+}

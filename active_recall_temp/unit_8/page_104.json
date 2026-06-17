@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 104,
+  "filename": "Unit_8_6.txt",
+  "section_title": "Major Ecosystems of the Biosphere",
+  "page_num_in_file": 13,
+  "slide_title": "Aquatic Ecosystems¨Aquatic ecosystems are classified as¤Freshwater(inland) or¤Saltwater¤Brackishwater is a combination of both¨Wetlandsare areas that are wet for at least part of the year¤Marshes–frequently or continually inundated by water¤Swamps–dominated by woody plants or shrubs¤Bogs–characterized by acidic waters, peat deposits, and sphagnum moss",
+  "original_text": "Aquatic Ecosystems¨Aquatic ecosystems are classified as¤Freshwater(inland) or¤Saltwater¤Brackishwater is a combination of both¨Wetlandsare areas that are wet for at least part of the year¤Marshes–frequently or continually inundated by water¤Swamps–dominated by woody plants or shrubs¤Bogs–characterized by acidic waters, peat deposits, and sphagnum moss",
+  "explanation": "Aquatic ecosystems are classified into freshwater (inland), saltwater (marine), or brackish water (a mixture of fresh and salt water). Wetlands are ecosystems that remain wet for at least part of the year and are categorized into three main types: 1) Marshes: wetlands that are frequently or continually inundated by water. 2) Swamps: wetlands dominated by woody trees or shrubs. 3) Bogs: wetlands characterized by highly acidic waters, peat deposits, and sphagnum moss.",
+  "questions": [
+    {
+      "q": "What defines a swamp compared to a marsh or a bog?",
+      "opts": [
+        "Swamps are characterized by acidic waters and peat deposits.",
+        "Swamps are dominated by woody plants or shrubs.",
+        "Swamps are continually inundated but have no vegetation.",
+        "Swamps are composed entirely of brackish water."
+      ],
+      "a": 1,
+      "exp": "The notes state that 'Swamps – dominated by woody plants or shrubs', whereas marshes are 'frequently or continually inundated by water' and bogs are 'characterized by acidic waters, peat deposits, and sphagnum moss.'"
+    },
+    {
+      "q": "What is brackish water?",
+      "opts": [
+        "Water that is permanently frozen in permafrost",
+        "A combination of freshwater and saltwater",
+        "Acidic water containing sphagnum moss",
+        "Nutrient-poor water in oligotrophic lakes"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Brackish water is a combination of both [freshwater and saltwater].'"
+    }
+  ]
+}

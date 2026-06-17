@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 14,
+  "filename": "Unit_1_1.txt",
+  "section_title": "Lab Safety",
+  "page_num_in_file": 14,
+  "slide_title": "Safety Symbols",
+  "original_text": "Safety Symbols",
+  "explanation": "This slide is titled 'Safety Symbols' and serves as a placeholder or introduction slide for laboratory safety symbols and warning signs.",
+  "questions": [
+    {
+      "q": "What is the title of this page?",
+      "opts": [
+        "Hazard Labels",
+        "Safety Symbols",
+        "Chemical Names",
+        "MSDS Instructions"
+      ],
+      "a": 1,
+      "exp": "The slide is titled 'Safety Symbols'."
+    }
+  ]
+}

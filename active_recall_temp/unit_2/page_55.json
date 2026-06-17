@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 55,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 19,
+  "slide_title": "2: Amino Acids",
+  "original_text": "2: Amino Acids¨20 amino acids; share the same basic structure:¤Central C atom covalently bonded to 4 other atoms/functional groups\nnHydrogen atom\nnCarboxyl group\nnAmino group\nnVariable side chain, known as R group",
+  "explanation": "There are 20 different amino acids that make up proteins, and they all share a common basic chemical structure. Each amino acid contains a central carbon (C) atom that is covalently bonded to four distinct atoms or functional groups: a hydrogen (H) atom, a carboxyl group (-COOH), an amino group (-NH2), and a variable side chain referred to as the R group, which is what distinguishes one amino acid from another.",
+  "questions": [
+    {
+      "q": "Which of the following is NOT one of the groups bonded to the central carbon of an amino acid?",
+      "opts": [
+        "Carboxyl group",
+        "Amino group",
+        "Phosphate group",
+        "Variable R group"
+      ],
+      "a": 2,
+      "exp": "An amino acid central carbon is bonded to a hydrogen atom, a carboxyl group, an amino group, and a variable R group. It does not contain a phosphate group as part of its basic monomer structure."
+    },
+    {
+      "q": "What component of an amino acid's structure varies between the 20 different amino acids?",
+      "opts": [
+        "The carboxyl group",
+        "The amino group",
+        "The central carbon atom",
+        "The variable side chain (R group)"
+      ],
+      "a": 3,
+      "exp": "The 20 amino acids share the same basic backbone but differ in their variable side chain, known as the R group."
+    }
+  ]
+}

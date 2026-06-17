@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 102,
+  "filename": "Unit_7_6.txt",
+  "section_title": "Circulation & Cardiovascular System",
+  "page_num_in_file": 8,
+  "slide_title": "The Human Cardiovascular System: The Human Heart",
+  "original_text": "The Human Cardiovascular System The Human Heart Fist-sized Cone-shaped Muscular organ (cardiac fibers) Lies within a membranous sac (the pericardium) Located between lungs and directly behind sternum Tilted so the apex (pointed-end) is oriented to the left",
+  "explanation": "The human heart is a fist-sized, cone-shaped organ composed of cardiac muscle fibers. It is enclosed in a double-walled membranous sac called the pericardium, which reduces friction during contraction. The heart is located in the thoracic cavity between the lungs, directly behind the sternum, and is tilted so that its pointed apex is oriented toward the left side of the body.",
+  "questions": [
+    {
+      "q": "What is the membranous sac that encloses the human heart?",
+      "opts": [
+        "Pleura",
+        "Pericardium",
+        "Peritoneum",
+        "Integument"
+      ],
+      "a": 1,
+      "exp": "The pericardium is the membranous sac that surrounds and protects the human heart."
+    },
+    {
+      "q": "What is the physical size, shape, and orientation of the human heart?",
+      "opts": [
+        "Fist-sized, cone-shaped, tilted with its apex to the left",
+        "Microscopic, spindle-shaped, oriented to the right",
+        "Flat, rectangular, located in the dorsal cavity",
+        "Double-lobed, circular, located in the pelvic cavity"
+      ],
+      "a": 0,
+      "exp": "The human heart is fist-sized, cone-shaped, and located in the thoracic cavity between the lungs, with its apex tilted toward the left."
+    }
+  ]
+}

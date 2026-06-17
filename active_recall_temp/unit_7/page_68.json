@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 68,
+  "filename": "Unit_7_4.txt",
+  "section_title": "Plant Reproduction",
+  "page_num_in_file": 14,
+  "slide_title": "Fruit Type & Seed Dispersal: Pericarp & Dry Fruits",
+  "original_text": "Fruit Type & Seed Dispersal Fruit Development The ovary wall thickens to become the pericarp, which can have three layers The exocarpforms the outermost skin The mesocarpis the fleshy tissue between the exocarp and the endocarp The endocarpis the boundary around the seeds Fruit Types In dry fruits, the pericarp is paper, leathery, or woody when the fruit is mature Dehiscent -the fruit splits open when ripe Legumes Indehiscent -the fruit does not split open when ripe Grains",
+  "explanation": "As fruit develops, the ovary wall thickens into the pericarp. In fleshy fruits, the pericarp has three layers: the exocarp (outer skin), mesocarp (fleshy middle tissue), and endocarp (inner boundary around the seeds). In dry fruits, the pericarp is papery, leathery, or woody at maturity. Dry fruits are subclassified as dehiscent (the fruit splits open when ripe to release seeds, e.g., legumes) or indehiscent (the fruit does not split open, e.g., grains).",
+  "questions": [
+    {
+      "q": "What are the three layers of the pericarp in a fleshy fruit, starting from the outside?",
+      "opts": [
+        "Endodermis, Cortex, Epidermis",
+        "Exocarp, Mesocarp, Endocarp",
+        "Integument, Suspensor, Endosperm",
+        "Pith, Wood, Bark"
+      ],
+      "a": 1,
+      "exp": "The pericarp consists of the exocarp (outer skin), mesocarp (middle fleshy layer), and endocarp (inner boundary surrounding the seeds)."
+    },
+    {
+      "q": "How do dehiscent dry fruits differ from indehiscent dry fruits?",
+      "opts": [
+        "Dehiscent fruits split open when ripe; indehiscent fruits do not split open.",
+        "Dehiscent fruits are fleshy; indehiscent fruits are woody.",
+        "Dehiscent fruits develop from compound ovaries; indehiscent from simple ovaries.",
+        "Dehiscent fruits are wind-dispersed; indehiscent fruits are animal-dispersed."
+      ],
+      "a": 0,
+      "exp": "Dehiscent dry fruits (like legumes) split open at maturity to release seeds. Indehiscent dry fruits (like grains) do not split open."
+    }
+  ]
+}

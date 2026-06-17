@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 97,
+  "filename": "Unit_3_5.txt",
+  "section_title": "Stem Cells & Cancer",
+  "page_num_in_file": 3,
+  "slide_title": "Stem Cells",
+  "original_text": "Stem Cells\nMost cells of the body in adulthood permanently arrested in G0stage\nIf injury occurs, body must be able to repair the injury (cut, broken bone, etc)\nSome cells must retain ability to divide\nStem cells\nCells that retain the ability to divide and differentiate\nEmbryonic\nfrom blastocyst (can become any cells)\nTissue Specific \nsomatic \nHematopoietic-all blood cells\nMesenchymal\nin bone marrow; tissue, bone, cartilage, fat repair\nInduced pluripotent \nlab engineered from somatic cells; act like embryonic, can become all cells",
+  "explanation": "In adult organisms, most body cells are permanently arrested in the G0 stage. However, when injury occurs (such as a cut or a broken bone), the body must be able to perform repairs, meaning some cells must retain the capacity to divide. Stem cells are specialized cells that retain the ability to divide and differentiate. They include Embryonic stem cells (derived from the blastocyst, capable of becoming any cell type in the body), Tissue-specific somatic stem cells (such as hematopoietic stem cells that form all blood cells, or mesenchymal stem cells in the bone marrow that repair tissue, bone, cartilage, and fat), and Induced Pluripotent stem cells (iPSCs, which are lab-engineered from somatic cells to act like embryonic stem cells and differentiate into all cell types).",
+  "questions": [
+    {
+      "q": "Which type of stem cell is derived from the blastocyst and has the potential to become any cell type in the body?",
+      "opts": [
+        "Hematopoietic stem cells",
+        "Mesenchymal stem cells",
+        "Embryonic stem cells",
+        "Somatic stem cells"
+      ],
+      "a": 2,
+      "exp": "Embryonic stem cells are derived from the blastocyst and can become any cells."
+    },
+    {
+      "q": "What are induced pluripotent stem cells (iPSCs)?",
+      "opts": [
+        "Naturally occurring stem cells in bone marrow",
+        "Stem cells that can only differentiate into blood cells",
+        "Lab-engineered stem cells derived from somatic cells that act like embryonic stem cells",
+        "Terminally differentiated nerve cells"
+      ],
+      "a": 2,
+      "exp": "Induced pluripotent stem cells are lab-engineered from somatic cells and act like embryonic stem cells, with the potential to differentiate into all cell types."
+    }
+  ]
+}

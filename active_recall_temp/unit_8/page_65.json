@@ -1,0 +1,23 @@
+{
+  "unit": 8,
+  "page": 65,
+  "filename": "Unit_8_4.txt",
+  "section_title": "Photosynthesis",
+  "page_num_in_file": 12,
+  "slide_title": "Plants as Solar Energy Converters",
+  "original_text": "Plants as Solar Energy Converters",
+  "explanation": "This slide serves as a transition or review slide for the 'Plants as Solar Energy Converters' topic under Photosynthesis.",
+  "questions": [
+    {
+      "q": "What process is detailed under the topic of 'Plants as Solar Energy Converters'?",
+      "opts": [
+        "The Calvin cycle",
+        "The light reactions and chemiosmotic ATP production",
+        "The Krebs cycle",
+        "Glycolysis"
+      ],
+      "a": 1,
+      "exp": "The section titled 'Plants as Solar Energy Converters' focuses on how light energy is captured and converted to chemical energy (ATP/NADPH) in the light reactions."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 10,
+  "filename": "Unit_5_1.txt",
+  "section_title": "Darwin & Evidence for Evolution",
+  "page_num_in_file": 10,
+  "slide_title": "Darwin\u2019s Theory of Evolution",
+  "original_text": "Darwin\u2019s Theory of Evolution\n\u00a8Galapagos Islands\n\u00a4Site of major advancement in Darwin\u2019s observations\n\u00a4Site too far from mainland for animals to travel to it, but islands populated.\n\u00a4Not only were species different than the mainland, they also varied between the different islands\n   nTortoises\n      nDarwin observed tortoise neck length, shell pattern, color differed between islands\n      nProposed speciation on islands correlated with a difference in vegetation\n   nFinches\n      nFound many different species of finch on the different islands\n      nBeak size and shape varied between species\n      nCould have descended from mainland finches",
+  "explanation": "The Gal\u00e1pagos Islands represented a critical location for Darwin's evolutionary insights. Although the islands were located too far from the South American mainland for easy migration, they were nevertheless populated by diverse species. Darwin noted that the island species differed not only from their mainland ancestors but also among the individual islands. He observed that tortoises on different islands exhibited distinct neck lengths, shell patterns, and shell colors, and he hypothesized that tortoise speciation was correlated with differences in local vegetation. Additionally, he identified multiple distinct species of finches across the islands, showing variation in beak size and shape, which he proposed had descended and diversified from a single ancestral mainland finch species.",
+  "questions": [
+    {
+      "q": "What correlation did Darwin propose to explain the variations in tortoise neck lengths and shell patterns across the Gal\u00e1pagos Islands?",
+      "opts": [
+        "A correlation with different rates of volcanic activity",
+        "A correlation with differences in local island vegetation",
+        "A correlation with the presence of mammalian predators",
+        "A correlation with the age of the individual tortoises"
+      ],
+      "a": 1,
+      "exp": "Darwin proposed that tortoise speciation and variation (such as neck length and shell patterns) on different islands correlated with differences in the vegetation available for food."
+    },
+    {
+      "q": "How did Darwin explain the source of the multiple finch species found on the different Gal\u00e1pagos Islands?",
+      "opts": [
+        "They were created independently on each island and could not change.",
+        "They migrated from Europe and adapted to the tropical climate.",
+        "They descended from a common ancestral finch species from the mainland.",
+        "They were selectively bred by early human inhabitants of the islands."
+      ],
+      "a": 2,
+      "exp": "Darwin suggested that the various finch species on the Gal\u00e1pagos Islands descended from mainland finches that migrated to the islands and subsequently diversified."
+    }
+  ]
+}

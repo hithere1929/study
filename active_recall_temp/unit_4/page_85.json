@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 85,
+  "filename": "Unit_4_5.txt",
+  "section_title": "Biotech & Genomics",
+  "page_num_in_file": 5,
+  "slide_title": "DNA Cloning¨Restriction Enzyme-cuts DNA at specific points.¤Cleaves vector (plasmid) and foreign (human) DNA.¤Cleaving DNA makes DNA fragments ending in short single-stranded segments with “sticky ends.”¤The “sticky ends” allow insertion of foreign DNA into vector DNA.",
+  "original_text": "DNA Cloning¨Restriction Enzyme-cuts DNA at specific points.¤Cleaves vector (plasmid) and foreign (human) DNA.¤Cleaving DNA makes DNA fragments ending in short single-stranded segments with “sticky ends.”¤The “sticky ends” allow insertion of foreign DNA into vector DNA.",
+  "explanation": "Restriction enzymes are proteins that recognize and cut double-stranded DNA at specific nucleotide sequences. In cloning, the same restriction enzyme is used to cleave both the plasmid vector and the foreign target DNA (such as human DNA). This cleavage produces DNA fragments with short, single-stranded overhangs known as 'sticky ends.' These sticky ends are useful because they can hydrogen-bond to complementary sticky ends on other fragments, allowing the foreign DNA fragment to be inserted into the vector plasmid.",
+  "questions": [
+    {
+      "q": "How do restriction enzymes cut DNA, and what is the significance of 'sticky ends'?",
+      "opts": [
+        "They cut DNA at random points; sticky ends prevent ligase from binding.",
+        "They cut DNA at specific points; sticky ends are short single-stranded segments that allow insertion of foreign DNA into vector DNA.",
+        "They cut DNA at the poly-A tail; sticky ends bind to ribosomes.",
+        "They cut DNA at the start codon; sticky ends promote transcription."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states that the restriction enzyme 'cuts DNA at specific points' and that 'Cleaving DNA makes DNA fragments ending in short single-stranded segments with \"sticky ends\"' which 'allow insertion of foreign DNA into vector DNA.' The other options are incorrect."
+    }
+  ]
+}

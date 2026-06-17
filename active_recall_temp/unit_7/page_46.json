@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 46,
+  "filename": "Unit_7_3.txt",
+  "section_title": "Plant Control of Growth Responses",
+  "page_num_in_file": 11,
+  "slide_title": "Plant Hormones: Ethylene",
+  "original_text": "Plant Hormones Ethylene(H2C = CH2) is a gas formed from the amino acid methionine. Effects of ethylene Abscission nEthylene stimulates certain enzymes, such as cellulase, which helps cause leaf, fruit, or flower drop Ripening of fruits nIncreases the activity of enzymes, such as cellulase, that soften fruits nPromotes the activity of enzymes that produce the flavor and smell of ripened fruits. Axillary bud inhibition Suppression of stem and root elongation",
+  "explanation": "Ethylene ($H_2C=CH_2$) is a gaseous plant hormone synthesized from the amino acid methionine. Unlike other plant hormones, ethylene diffuses through the air to coordinate responses. Ethylene promotes abscission (the dropping of leaves, fruits, or flowers) by stimulating enzymes like cellulase to break down cell walls at the drop site. It accelerates fruit ripening by increasing cellulase activity to soften the fruit and promoting other enzymes that generate the characteristic flavor and aroma of ripe fruit. Additionally, ethylene inhibits axillary bud growth and suppresses stem and root elongation.",
+  "questions": [
+    {
+      "q": "What gaseous plant hormone is derived from the amino acid methionine?",
+      "opts": [
+        "Auxin",
+        "Gibberellin",
+        "Ethylene",
+        "Abscisic acid"
+      ],
+      "a": 2,
+      "exp": "Ethylene is a gaseous hormone ($H_2C=CH_2$) synthesized from the amino acid methionine."
+    },
+    {
+      "q": "Which enzyme is activated by ethylene to facilitate fruit softening and leaf abscission?",
+      "opts": [
+        "Amylase",
+        "Cellulase",
+        "Protease",
+        "Ligase"
+      ],
+      "a": 1,
+      "exp": "Ethylene stimulates cellulase, an enzyme that breaks down cellulose in cell walls, leading to fruit softening and leaf/fruit/flower drop (abscission)."
+    }
+  ]
+}

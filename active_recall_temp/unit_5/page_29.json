@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 29,
+  "filename": "Unit_5_2.txt",
+  "section_title": "How Populations Evolve",
+  "page_num_in_file": 8,
+  "slide_title": "Genes, Populations, & Evolution",
+  "original_text": "Genes, Populations, & Evolution\n\u00a8A population where alleles do not change over time is said to be in genetic equilibrium, or Hardy-Weinberg Equilibrium\n\u00a8Hardy-Weinberg Equilibrium states that allele frequencies in a population will remain constant assuming all the following occur:\n  nNo Mutations \n  nNo Migration (Gene Flow)\n  nRandom Mating \n  nNo Genetic Drift\n  nNo Selection\n\u00a8Although possible in theory, HWE can NEVER be achieved in wild populations because all 5 conditions can never be met",
+  "explanation": "When the allele frequencies of a population remain constant over generations, the population is in genetic equilibrium, also known as Hardy-Weinberg Equilibrium (HWE). HWE states that allele frequencies will remain unchanged if five conditions are met: (1) no mutations occur, (2) no migration (no gene flow) takes place, (3) mating is completely random, (4) there is no genetic drift (which requires an infinitely large population to prevent chance changes), and (5) there is no natural selection favoring any phenotype. While useful as a theoretical model, HWE can never be achieved in wild populations because it is biologically impossible for all five of these conditions to be met simultaneously in nature.",
+  "questions": [
+    {
+      "q": "Which of the following is NOT one of the five conditions required to maintain Hardy-Weinberg Equilibrium?",
+      "opts": [
+        "No Mutation",
+        "No Migration (Gene Flow)",
+        "Non-random Mating",
+        "No Selection"
+      ],
+      "a": 2,
+      "exp": "Random mating is required for HWE. Non-random mating would cause genotype frequencies to shift, disrupting equilibrium."
+    },
+    {
+      "q": "Why can Hardy-Weinberg Equilibrium never be achieved in wild populations?",
+      "opts": [
+        "Wild populations do not have gene pools.",
+        "It is impossible for all five required conditions to be met in nature.",
+        "Natural selection is the only condition that can ever change.",
+        "Mutations never occur in wild populations."
+      ],
+      "a": 1,
+      "exp": "HWE is theoretical because all five conditions (no mutation, no migration, random mating, no genetic drift, no selection) can never be met simultaneously in any wild population."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 32,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 17,
+  "slide_title": "Smooth ER",
+  "original_text": "Smooth ER\nLacks ribosomes \nsmooth appearance\nMost cells contain very little\nBuilds lipids such as cholesterol, as well as steroid hormones estrogenand testosterone\nIn muscle cells, releases Ca2+ which stimulates contraction\nDetoxifies drugsand poisons in the liverand kidneys\nLong term abuse of alcohol or drugs leads to increased production of smooth ER \ncan lead to drug tolerance",
+  "explanation": "The Smooth Endoplasmic Reticulum (Smooth ER) lacks ribosomes, giving it a smooth appearance. While most cells contain very little Smooth ER, it performs essential specialized functions: it builds lipids like cholesterol and steroid hormones (such as estrogen and testosterone); in muscle cells, it stores and releases calcium ions (Ca2+) to stimulate contraction; and in the liver and kidneys, it detoxifies drugs and poisons. Long-term drug or alcohol abuse causes cells to increase production of Smooth ER, which can lead to drug tolerance.",
+  "questions": [
+    {
+      "q": "Which of the following is a function of the Smooth ER?",
+      "opts": [
+        "Synthesizing ribosomal RNA",
+        "Building lipids (cholesterol) and steroid hormones (estrogen/testosterone)",
+        "Lining the nuclear envelope with pores",
+        "Mailing proteins to Golgi apparatus"
+      ],
+      "a": 1,
+      "exp": "The Smooth ER is responsible for building lipids such as cholesterol, and steroid hormones like estrogen and testosterone."
+    },
+    {
+      "q": "How does long-term abuse of alcohol or drugs affect the Smooth ER in liver and kidney cells?",
+      "opts": [
+        "It destroys all Smooth ER, leading to cell death.",
+        "It leads to increased production of Smooth ER, which can lead to drug tolerance.",
+        "It causes the Smooth ER to be covered in ribosomes.",
+        "It converts Smooth ER into mitochondria."
+      ],
+      "a": 1,
+      "exp": "The slide states that long-term abuse leads to increased production of smooth ER, which can lead to drug tolerance."
+    }
+  ]
+}

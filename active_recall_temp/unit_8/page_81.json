@@ -1,0 +1,23 @@
+{
+  "unit": 8,
+  "page": 81,
+  "filename": "Unit_8_5.txt",
+  "section_title": "Cellular Respiration",
+  "page_num_in_file": 9,
+  "slide_title": "Outside the Mitochondria: Fermentation¨Pyruvateis a pivotal metabolite in cellular respiration¨If O2is not available to the cell, fermentation, an anaerobic process, occurs in the cytoplasm.¤During fermentation, glucose is incompletely metabolized to lactate, or to CO2and alcohol (depending on the organism).¨If O2is available to the cell, pyruvate enters the mitochondria for aerobic respiration.",
+  "original_text": "Outside the Mitochondria: Fermentation¨Pyruvateis a pivotal metabolite in cellular respiration¨If O2is not available to the cell, fermentation, an anaerobic process, occurs in the cytoplasm.¤During fermentation, glucose is incompletely metabolized to lactate, or to CO2and alcohol (depending on the organism).¨If O2is available to the cell, pyruvate enters the mitochondria for aerobic respiration.",
+  "explanation": "Pyruvate serves as a pivotal metabolite that determines the cell's metabolic direction. If oxygen (O2) is not available, anaerobic fermentation occurs in the cytoplasm, resulting in the incomplete metabolism of glucose to lactate or to carbon dioxide and alcohol (depending on the species). If oxygen is present, pyruvate is transported into the mitochondria to undergo aerobic cellular respiration.",
+  "questions": [
+    {
+      "q": "What determines whether pyruvate enters the mitochondria or undergoes fermentation in the cytoplasm?",
+      "opts": [
+        "The availability of light",
+        "The availability of oxygen (O2)",
+        "The number of ATP molecules in the reservoir",
+        "The concentration of Rubisco in the stroma"
+      ],
+      "a": 1,
+      "exp": "The notes state that 'If O2 is not available... fermentation... occurs in the cytoplasm' and 'If O2 is available to the cell, pyruvate enters the mitochondria.'"
+    }
+  ]
+}

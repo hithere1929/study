@@ -1,0 +1,34 @@
+{
+  "unit": 1,
+  "page": 7,
+  "filename": "Unit_1_1.txt",
+  "section_title": "Lab Safety",
+  "page_num_in_file": 7,
+  "slide_title": "Basic Lab Safety",
+  "original_text": "\u2013If any part of an experiment, preparation or equipment use is unclear, ask questions.  Do not attempt to perform a task you do not understand. \n\u2013Do not leave an on-going experiment or preparation unattended.\n\u2013Keep aisles clear and store backpacks and jackets underneath tables to prevent tripping.\n\u2013No rough-housing or fooling around is allowed in the lab.\n\u2013Wash hands thoroughly when leaving the lab, especially before eating.",
+  "explanation": "This page outlines several critical behaviors for safety in the lab. If any part of an experiment, preparation, or equipment usage is unclear, the student must ask questions rather than attempting to perform an understood task. Ongoing experiments or chemical preparations must never be left unattended. To prevent tripping hazards, aisles must be kept clear, and backpacks and jackets should be stored underneath the lab tables. Additionally, rough-housing or fooling around is strictly forbidden. Finally, hands must be washed thoroughly when leaving the laboratory, particularly prior to eating.",
+  "questions": [
+    {
+      "q": "What should a student do if a step in a lab experiment or equipment use is unclear?",
+      "opts": [
+        "Attempt the step anyway to see what happens",
+        "Ask questions instead of attempting a task they do not understand",
+        "Wait for another student to do it first",
+        "Skip that step of the experiment entirely"
+      ],
+      "a": 1,
+      "exp": "The slide advises: 'If any part of an experiment, preparation or equipment use is unclear, ask questions. Do not attempt to perform a task you do not understand.'"
+    },
+    {
+      "q": "Where should backpacks and jackets be stored to prevent tripping hazards in the lab?",
+      "opts": [
+        "In the aisles or walkways",
+        "On top of the lab benches",
+        "Underneath tables",
+        "In the lab refrigerator"
+      ],
+      "a": 2,
+      "exp": "The text states: 'Keep aisles clear and store backpacks and jackets underneath tables to prevent tripping.'"
+    }
+  ]
+}

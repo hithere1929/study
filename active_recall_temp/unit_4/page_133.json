@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 133,
+  "filename": "Unit_4_7.txt",
+  "section_title": "Chromosome-based Syndromes",
+  "page_num_in_file": 5,
+  "slide_title": "Aneuploidy Nondisjunction",
+  "original_text": "Aneuploidy Nondisjunction\n1o2o",
+  "explanation": "This slide features a diagram of nondisjunction during cell division, comparing primary (1o) and secondary (2o) nondisjunction events.",
+  "questions": [
+    {
+      "q": "What do the terms '1o' and '2o' represent on this slide about nondisjunction?",
+      "opts": [
+        "Single-strand and double-strand DNA",
+        "Primary and secondary nondisjunction",
+        "Mitosis and Meiosis",
+        "Monosomy and Trisomy"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because '1o' and '2o' stand for primary and secondary nondisjunction in the context of meiotic division errors."
+    }
+  ]
+}

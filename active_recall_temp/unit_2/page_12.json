@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 12,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 12,
+  "slide_title": "1: Compounds",
+  "original_text": "1: Compounds",
+  "explanation": "This slide serves as an intermediate heading page for compounds.",
+  "questions": [
+    {
+      "q": "What topic is continued on this slide?",
+      "opts": [
+        "Energy",
+        "Compounds",
+        "Solutions",
+        "Water"
+      ],
+      "a": 1,
+      "exp": "The slide lists '1: Compounds', continuing the discussion on compounds."
+    }
+  ]
+}

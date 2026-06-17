@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 98,
+  "filename": "Unit_8_6.txt",
+  "section_title": "Major Ecosystems of the Biosphere",
+  "page_num_in_file": 7,
+  "slide_title": "Terrestrial Ecosystems¨Tundra¤Arctic Tundra -Encircles Earth just south of ice-covered polar seas in Northern Hemisphere¤Covers 20% of Earth’s land surface¤Permafrostlayer never thaws¤Trees are not found in the tundranGrowing season is too shortnRoots cannot penetrate permafrostnRoots cannot become anchored in shallow boggy soilnShort grasses, sedges, lichen and moss found in summer months¤Some burrowing organisms and animals adapted to cold live year-round",
+  "original_text": "Terrestrial Ecosystems¨Tundra¤Arctic Tundra -Encircles Earth just south of ice-covered polar seas in Northern Hemisphere¤Covers 20% of Earth’s land surface¤Permafrostlayer never thaws¤Trees are not found in the tundranGrowing season is too shortnRoots cannot penetrate permafrostnRoots cannot become anchored in shallow boggy soilnShort grasses, sedges, lichen and moss found in summer months¤Some burrowing organisms and animals adapted to cold live year-round",
+  "explanation": "The Arctic Tundra is a biome that encircles the Earth just south of the polar ice seas in the Northern Hemisphere, covering roughly 20% of the Earth's land surface. It is defined by a permafrost layer—a subsurface layer of soil that remains permanently frozen year-round. Trees are absent from the tundra because the growing season is too short, tree roots cannot penetrate the frozen permafrost, and they cannot anchor securely in the shallow, boggy summer soil. Vegetation is limited to short grasses, sedges, lichens, and mosses during the brief summer. Animal residents include cold-adapted species and burrowing organisms that survive there year-round.",
+  "questions": [
+    {
+      "q": "What is permafrost, and what biome is it associated with?",
+      "opts": [
+        "A sandy soil layer in deserts that thaws daily",
+        "A permanently frozen subsurface soil layer that never thaws, associated with the tundra",
+        "A layer of acidic peat in bogs",
+        "The canopy layer of coniferous forests"
+      ],
+      "a": 1,
+      "exp": "The notes state under 'Tundra' that it features a 'Permafrost layer [that] never thaws.'"
+    },
+    {
+      "q": "Why are trees NOT found in the tundra?",
+      "opts": [
+        "The rainfall exceeds 250 cm, rotting tree roots.",
+        "The growing season is too short, and roots cannot penetrate the permafrost or anchor in the shallow boggy soil.",
+        "Large herbivores eat all the saplings before they mature.",
+        "Algal blooms deplete the soil nutrients needed for tree growth."
+      ],
+      "a": 1,
+      "exp": "According to the notes, trees are absent because the 'Growing season is too short', 'Roots cannot penetrate permafrost', and 'Roots cannot become anchored in shallow boggy soil.'"
+    }
+  ]
+}

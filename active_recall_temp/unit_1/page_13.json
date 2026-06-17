@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 13,
+  "filename": "Unit_1_1.txt",
+  "section_title": "Lab Safety",
+  "page_num_in_file": 13,
+  "slide_title": "Emergency Procedures",
+  "original_text": "\u2013In case of:\u2013Chemical or sample splash to eyes\n\u2013Spill\n\u2013Skin or clothing contact with a hazardous substance\n\u2013Ingestion\n\u2013Inhalation",
+  "explanation": "This slide details emergency scenarios that involve chemical or sample exposure. These incidents include: chemical/sample splashes to the eyes, general spills, skin or clothing contact with a hazardous substance, chemical ingestion (swallowing), and inhalation of hazardous vapors.",
+  "questions": [
+    {
+      "q": "What type of emergency scenario involving eye exposure is highlighted on this page?",
+      "opts": [
+        "Dropping a pair of safety goggles",
+        "Chemical or sample splash to the eyes",
+        "Reading labels in low light",
+        "Rubbing eyes with clean hands"
+      ],
+      "a": 1,
+      "exp": "The slide lists 'Chemical or sample splash to eyes' under emergency cases."
+    }
+  ]
+}

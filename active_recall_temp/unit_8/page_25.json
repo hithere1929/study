@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 25,
+  "filename": "Unit_8_2.txt",
+  "section_title": "Population Ecology",
+  "page_num_in_file": 10,
+  "slide_title": "Population Growth Models¨Logistic growth¤Occurs when limiting environmental factors oppose growth¤Phases of a logistic growth curvenDuring the lag phase, growth is slow because the population is small.nDuring the exponential growth phase, growth is accelerating.nDuring the deceleration phase, growth slows down.nDuring the stable equilibrium phase, there is little if any growth.¨Carrying Capacity¤The maximum number of individuals of a species the environment can continuously supportnThe closer the population to the carrying capacity, the more likely its resources will become scarce and that biotic effects such as competition and predation will become apparent",
+  "original_text": "Population Growth Models¨Logistic growth¤Occurs when limiting environmental factors oppose growth¤Phases of a logistic growth curvenDuring the lag phase, growth is slow because the population is small.nDuring the exponential growth phase, growth is accelerating.nDuring the deceleration phase, growth slows down.nDuring the stable equilibrium phase, there is little if any growth.¨Carrying Capacity¤The maximum number of individuals of a species the environment can continuously supportnThe closer the population to the carrying capacity, the more likely its resources will become scarce and that biotic effects such as competition and predation will become apparent",
+  "explanation": "Logistic growth occurs when limiting environmental factors oppose population growth. The logistic growth curve features four phases: 1) a lag phase, where growth is slow due to a small population; 2) an exponential growth phase, where growth accelerates; 3) a deceleration phase, where growth rates slow down; and 4) a stable equilibrium phase, where little to no growth occurs. Carrying capacity is defined as the maximum number of individuals of a species that the environment can continuously support. As the population size approaches carrying capacity, resources become scarce, and biotic pressures such as competition and predation become increasingly apparent.",
+  "questions": [
+    {
+      "q": "What are the four phases of a logistic growth curve in order?",
+      "opts": [
+        "Lag, exponential growth, deceleration, and stable equilibrium",
+        "Lag, acceleration, deceleration, and extinction",
+        "Exponential growth, stable equilibrium, lag, and decline",
+        "Carrying capacity, lag, exponential growth, and stable equilibrium"
+      ],
+      "a": 0,
+      "exp": "The notes list the phases of a logistic growth curve as: lag phase, exponential growth phase, deceleration phase, and stable equilibrium phase."
+    },
+    {
+      "q": "What is carrying capacity?",
+      "opts": [
+        "The minimum number of individuals required to maintain genetic diversity",
+        "The total biomass of all species present in a community",
+        "The maximum number of individuals of a species the environment can continuously support",
+        "The speed at which a population recovers from a major disease outbreak"
+      ],
+      "a": 2,
+      "exp": "The notes define carrying capacity as 'The maximum number of individuals of a species the environment can continuously support.'"
+    }
+  ]
+}

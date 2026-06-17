@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 113,
+  "filename": "Unit_2_4.txt",
+  "section_title": "Metabolism",
+  "page_num_in_file": 16,
+  "slide_title": "Metabolism",
+  "original_text": "Metabolism¨A living organism carries out thousands of endergonic and exergonic chemical reactions.¨The total of an organism’s chemical reactions is called metabolism.¨A metabolic pathwayis a series of chemical reactions that either¥builds a complex molecule or ¥breaks down a complex molecule into simpler compounds.",
+  "explanation": "Living organisms perform thousands of endergonic and exergonic chemical reactions simultaneously. The sum total of all these chemical reactions occurring within an organism is defined as metabolism. These reactions are organized into metabolic pathways, which are ordered series of chemical reactions that either build up a complex molecule (anabolism) or break down a complex molecule into simpler compounds (catabolism).",
+  "questions": [
+    {
+      "q": "What is a metabolic pathway?",
+      "opts": [
+        "A pathway that allows water to enter plant roots.",
+        "A series of chemical reactions that either builds a complex molecule or breaks one down into simpler compounds.",
+        "The movement of electrons in a valence orbital.",
+        "The flow of blood through capillaries."
+      ],
+      "a": 1,
+      "exp": "A metabolic pathway is a linked chain of chemical reactions in a cell that either builds up or breaks down complex molecules."
+    }
+  ]
+}

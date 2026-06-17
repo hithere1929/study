@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 62,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 11,
+  "slide_title": "Eukaryotic Regulation",
+  "original_text": "Eukaryotic Regulation",
+  "explanation": "This slide serves as an introduction to eukaryotic gene regulation. Unlike prokaryotes, eukaryotic regulation operates at multiple cellular levels and is highly complex.",
+  "questions": [
+    {
+      "q": "What is the subject introduced on this page?",
+      "opts": [
+        "Prokaryotic binary fission",
+        "Eukaryotic gene regulation",
+        "Bacterial operon structures",
+        "RNA replication in viruses"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide title is 'Eukaryotic Regulation.' The other choices are incorrect."
+    }
+  ]
+}

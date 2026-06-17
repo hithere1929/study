@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 43,
+  "filename": "Unit_8_3.txt",
+  "section_title": "Community & Ecosystem Ecology",
+  "page_num_in_file": 9,
+  "slide_title": "Community Development¨Ecological Succession¤A change involving a series of species replacements following a disturbancenPrimary succession occurs in areas where there is no soil formationnSecondary succession begins in areas where soil is presentnThe first species to begin secondary succession are called pioneer species",
+  "original_text": "Community Development¨Ecological Succession¤A change involving a series of species replacements following a disturbancenPrimary succession occurs in areas where there is no soil formationnSecondary succession begins in areas where soil is presentnThe first species to begin secondary succession are called pioneer species",
+  "explanation": "Ecological succession is a directional change involving a series of species replacements in a community following a disturbance. There are two main types: 1) Primary succession, which occurs in barren areas where no soil formation exists (such as bare rock after a volcanic eruption). 2) Secondary succession, which begins in areas where soil is already present (such as an abandoned agricultural field). The very first species that colonize and begin secondary succession are referred to as pioneer species.",
+  "questions": [
+    {
+      "q": "How does primary succession differ from secondary succession?",
+      "opts": [
+        "Primary succession starts in areas with no soil, whereas secondary succession begins where soil is already present.",
+        "Primary succession only occurs in marine environments, while secondary succession is land-based.",
+        "Primary succession involves K-strategists, while secondary succession involves only r-strategists.",
+        "Primary succession is fast, while secondary succession takes thousands of years."
+      ],
+      "a": 0,
+      "exp": "The notes state that 'Primary succession occurs in areas where there is no soil formation' and 'Secondary succession begins in areas where soil is present.'"
+    },
+    {
+      "q": "What is the term for the first species to colonize and begin secondary succession?",
+      "opts": [
+        "Climax species",
+        "Ecotone species",
+        "Pioneer species",
+        "Apex species"
+      ],
+      "a": 2,
+      "exp": "The notes state: 'The first species to begin secondary succession are called pioneer species.'"
+    }
+  ]
+}

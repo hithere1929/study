@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 20,
+  "filename": "Unit_8_2.txt",
+  "section_title": "Population Ecology",
+  "page_num_in_file": 5,
+  "slide_title": "Demographics of Populations¨Population Growth¤The rate of natural increase (r) depends onnThe number of individuals born each year, andnThe number of individuals who die each year¨Biotic Potential¤The maximum rate of natural increase for a population that can occur when resources are unlimited¨Biotic potential depends on factors that influence the population’s reproduction, including¤The usual number of offspring surviving to reproductive age¤The amount of competition within the population¤Age of and number of reproductive opportunities¤Presence of disease and predators",
+  "original_text": "Demographics of Populations¨Population Growth¤The rate of natural increase (r) depends onnThe number of individuals born each year, andnThe number of individuals who die each year¨Biotic Potential¤The maximum rate of natural increase for a population that can occur when resources are unlimited¨Biotic potential depends on factors that influence the population’s reproduction, including¤The usual number of offspring surviving to reproductive age¤The amount of competition within the population¤Age of and number of reproductive opportunities¤Presence of disease and predators",
+  "explanation": "Population growth is described by the rate of natural increase (denoted as 'r'), which depends on the number of individuals born each year and the number of individuals who die each year. Biotic potential is defined as the maximum rate of natural increase a population can achieve under unlimited resource conditions. Biotic potential depends on several reproductive and survival factors, including the typical number of offspring that survive to reproductive age, the intensity of competition within the population, the age and total number of reproductive opportunities, and the presence of environmental constraints like disease and predators.",
+  "questions": [
+    {
+      "q": "What determines the rate of natural increase (r) for a population?",
+      "opts": [
+        "Only the density and distribution patterns",
+        "The number of individuals born each year and the number of individuals who die each year",
+        "The carrying capacity of the environment",
+        "The amount of light and water available in the habitat"
+      ],
+      "a": 1,
+      "exp": "The notes state that 'The rate of natural increase (r) depends on: The number of individuals born each year, and The number of individuals who die each year.'"
+    },
+    {
+      "q": "What is biotic potential?",
+      "opts": [
+        "The minimum size a population needs to avoid extinction",
+        "The carrying capacity of a habitat under extreme predation pressure",
+        "The maximum rate of natural increase that can occur when resources are unlimited",
+        "The statistical study of population density and distribution over time"
+      ],
+      "a": 2,
+      "exp": "Biotic potential is defined as 'The maximum rate of natural increase for a population that can occur when resources are unlimited.'"
+    }
+  ]
+}

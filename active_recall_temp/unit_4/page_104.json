@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 104,
+  "filename": "Unit_4_5.txt",
+  "section_title": "Biotech & Genomics",
+  "page_num_in_file": 26,
+  "slide_title": "Genomics",
+  "original_text": "Genomics",
+  "explanation": "This slide serves as a transition slide within the Genomics subsection.",
+  "questions": [
+    {
+      "q": "What is the subject title of this page?",
+      "opts": [
+        "Translation",
+        "Genomics",
+        "Meiosis",
+        "Gene Therapy"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide is titled 'Genomics'. The other choices are incorrect."
+    }
+  ]
+}

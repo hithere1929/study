@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 12,
+  "filename": "Unit_4_1.txt",
+  "section_title": "DNA Advances through 20th Century",
+  "page_num_in_file": 12,
+  "slide_title": "A DNAdouble helix",
+  "original_text": "A DNAdouble helix\nTwist",
+  "explanation": "This page displays a diagram of the DNA double helix, illustrating the winding and twisting nature of the two complementary strands of DNA.",
+  "questions": [
+    {
+      "q": "What is the shape of the DNA model shown on this page?",
+      "opts": [
+        "Single linear strand",
+        "A flat ladder",
+        "A double helix",
+        "A triple helix"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide title is 'A DNA double helix' and indicates the 'Twist' structure of DNA."
+    }
+  ]
+}

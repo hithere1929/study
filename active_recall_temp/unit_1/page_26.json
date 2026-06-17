@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 26,
+  "filename": "Unit_1_2.txt",
+  "section_title": "Intro to Biology",
+  "page_num_in_file": 13,
+  "slide_title": "Characteristics of Life",
+  "original_text": "Living things:\n1.are organized\n2.acquire material and energy\n3.maintain homeostasis\n4.respond\n5.can reproduce\n6.can develop\n7.have adaptations\n\nThese 7 characteristics drive every unit of study we will explore this year!\nEvolution, genetics, ecology, cytology, etc!",
+  "explanation": "This page summarizes the seven fundamental characteristics of life that define living organisms: structural organization, acquisition of materials and energy, homeostasis (maintenance of biological balance), response to the environment/other organisms, capacity for reproduction, development through specific stages, and evolutionary adaptations. These 7 core concepts form the foundation for all units covered in the course, including evolution, genetics, ecology, and cytology.",
+  "questions": [
+    {
+      "q": "Which fields of biological study are mentioned as being driven by the 7 characteristics of life?",
+      "opts": [
+        "Chemistry, physics, and geology",
+        "Evolution, genetics, ecology, and cytology",
+        "Anatomy, astronomy, and meteorology",
+        "Botany, biochemistry, and thermodynamics"
+      ],
+      "a": 1,
+      "exp": "The slide explicitly lists: 'Evolution, genetics, ecology, cytology, etc!' as subjects driven by these seven characteristics."
+    }
+  ]
+}

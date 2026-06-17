@@ -1,0 +1,34 @@
+{
+  "unit": 1,
+  "page": 46,
+  "filename": "Unit_1_3.txt",
+  "section_title": "The Process of Science",
+  "page_num_in_file": 12,
+  "slide_title": "The Process of Science",
+  "original_text": "\u2013A scientific theoryis\u2013much broader in scope than a hypothesis and \u2013supported by a large and usually growing body of evidence.\u2013Examples of 2 Fundamental Theories of Biology\u2013Evolution\u2013All living things have a common ancestor, but each is adapted to a particular way of life\u2013Cell\u2013All organisms are composed of cells, and new cells only come from pre-existing cells\u2013When a theory is supported by all experimentation over a longer period of time, it may be referred to as a Principleor Law\u2013Science is a social activity in which scientists\u2013work in teams,\u2013share information through peer-reviewed publications, meetings, and personal communication, and\u2013build on and confirm each other\u2019s work.",
+  "explanation": "This slide distinguishes a scientific theory from a hypothesis, defining a theory as being much broader in scope and supported by a large, growing body of evidence. It lists two fundamental theories in biology: 1) The Theory of Evolution, which states that all living things share a common ancestor, but each species is adapted to a particular way of life; and 2) The Cell Theory, which states that all organisms are composed of cells, and new cells only arise from pre-existing cells. Over longer periods of time, when a theory is consistently supported by all experiments, it may be designated as a Principle or Law. Furthermore, the slide highlights that science is a collaborative social activity where scientists work in teams, share findings via peer-reviewed publications, meetings, and direct communication, and build upon and confirm one another's work.",
+  "questions": [
+    {
+      "q": "What defines a scientific theory according to the slide?",
+      "opts": [
+        "A simple, unproven guess about a natural phenomenon",
+        "An informed statement that is tested for the first time",
+        "An explanation that is much broader in scope than a hypothesis and supported by a large, growing body of evidence",
+        "A rule about safety procedures in a chemical lab"
+      ],
+      "a": 2,
+      "exp": "The slide defines a scientific theory as 'much broader in scope than a hypothesis and supported by a large and usually growing body of evidence.'"
+    },
+    {
+      "q": "What are the two fundamental theories of biology discussed on this slide?",
+      "opts": [
+        "Gene Theory and Homeostasis Theory",
+        "Theory of Evolution and Cell Theory",
+        "Theory of Gravity and Atomic Theory",
+        "Ecosystem Theory and Microscope Theory"
+      ],
+      "a": 1,
+      "exp": "The slide explicitly gives 'Evolution' and 'Cell' as 'Examples of 2 Fundamental Theories of Biology'."
+    }
+  ]
+}

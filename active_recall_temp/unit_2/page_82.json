@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 82,
+  "filename": "Unit_2_3.txt",
+  "section_title": "Movement of Molecules",
+  "page_num_in_file": 8,
+  "slide_title": "Membrane Permeability",
+  "original_text": "Membrane Permeability¨Plasma membrane of cells is selectively permeable¤Allows in some substances while keeping other out.nSome molecules can freely move across the membrane without needing to expend any energynHydrophobic molecules are similar to inside of the bilayer, and can move across at no energy costnPolar molecules require energy input to move acrossmembrane",
+  "explanation": "The plasma membrane is selectively permeable, meaning it allows certain substances to cross while blocking others. Some molecules cross the membrane freely without requiring cellular energy. Hydrophobic (nonpolar) molecules, being chemically similar to the interior of the lipid bilayer, can dissolve in and cross the bilayer at no energy cost. Conversely, polar or charged molecules cannot cross the hydrophobic core easily and require energy input (or transport proteins) to cross the membrane.",
+  "questions": [
+    {
+      "q": "What does 'selective permeability' mean?",
+      "opts": [
+        "All molecules can cross the membrane freely.",
+        "No molecules are allowed to cross the membrane.",
+        "Only water is allowed to cross.",
+        "The membrane allows some substances to pass while keeping others out."
+      ],
+      "a": 3,
+      "exp": "Selective permeability is the property of a membrane that allows some substances to pass through while preventing others from doing so."
+    },
+    {
+      "q": "Why can hydrophobic molecules cross the cell membrane at no energy cost?",
+      "opts": [
+        "They are actively pumped by channel proteins.",
+        "They are chemically similar to the hydrophobic interior of the phospholipid bilayer.",
+        "They are broken down into ATP during transport.",
+        "They bind to carbohydrates on the membrane surface."
+      ],
+      "a": 1,
+      "exp": "Because hydrophobic molecules are nonpolar, they are compatible with the hydrophobic core of the bilayer, allowing them to diffuse across without energy expenditure."
+    }
+  ]
+}

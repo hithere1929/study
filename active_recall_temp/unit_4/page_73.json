@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 73,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 24,
+  "slide_title": "5) Post-translational Control¨Affects the activity of the protein product¤Accomplished by regulating activation and degradation ratenActivation –Some proteins are not immediately active after synthesisnA protein may fold into 3-D conformation and then need to be cleaved into parts before becoming its active formnDegradation–Proteaseswill degrade proteins. Proteases are confined to areas known as proteasomes, a special type of lysosome. nA protein gets tagged by signaling protein that signifies it should be moved to the proteasome for degradation",
+  "original_text": "5) Post-translational Control¨Affects the activity of the protein product¤Accomplished by regulating activation and degradation ratenActivation –Some proteins are not immediately active after synthesisnA protein may fold into 3-D conformation and then need to be cleaved into parts before becoming its active formnDegradation–Proteaseswill degrade proteins. Proteases are confined to areas known as proteasomes, a special type of lysosome. nA protein gets tagged by signaling protein that signifies it should be moved to the proteasome for degradation",
+  "explanation": "Post-translational control regulates the activity of protein products after they have been synthesized. This is accomplished by controlling both their activation rate and their degradation rate. In terms of activation, many proteins are not immediately functional after translation. A polypeptide may fold into a three-dimensional conformation but must still undergo chemical cleavage into smaller parts before it becomes active. In terms of degradation, enzymes called proteases break down proteins. These proteases are sequestered within cell structures called proteasomes, described as a special type of lysosome. A protein is targeted for degradation when it is tagged by a signaling protein, indicating it should be transported to the proteasome for disassembly.",
+  "questions": [
+    {
+      "q": "What is required for some newly folded 3-D proteins to become active during post-translational control?",
+      "opts": [
+        "They must be exported from the cell via active transport.",
+        "They must be cleaved into parts.",
+        "They must bind immediately to a ribosome.",
+        "They must be methylated on their nitrogenous bases."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states under Activation: 'A protein may fold into 3-D conformation and then need to be cleaved into parts before becoming its active form.' The other choices are incorrect."
+    },
+    {
+      "q": "What are proteasomes, and how are proteins targeted to them for degradation?",
+      "opts": [
+        "They are cytoplasmic ribosomes; proteins are targeted by mRNA binding.",
+        "They are specialized nuclear zones; proteins are targeted by phosphorylation.",
+        "They are structures containing proteases (a special type of lysosome); proteins are targeted by being tagged with a signaling protein.",
+        "They are mitochondrial compartments; proteins are targeted by glycolytic enzymes."
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide notes 'Proteases are confined to areas known as proteasomes, a special type of lysosome' and 'A protein gets tagged by signaling protein that signifies it should be moved to the proteasome for degradation.' The other options are incorrect."
+    }
+  ]
+}

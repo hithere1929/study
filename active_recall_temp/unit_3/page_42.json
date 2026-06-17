@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 42,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 27,
+  "slide_title": "Cytoskeleton",
+  "original_text": "Cytoskeleton\nA networka thin tubes and filamentsthat crisscrosses the cytosol\nMicrotubules\nActin filaments\nIntermediate filaments\nGives shape to the cell\nActs as a system of internal “tracks” for items to move around the cell",
+  "explanation": "The cytoskeleton is an intracellular network of thin tubes and protein filaments that crisscrosses the cytosol. It is composed of three primary structural components: microtubules, actin filaments, and intermediate filaments. The cytoskeleton performs two essential functions: it gives shape and structural support to the cell, and it acts as an internal network of 'tracks' that guides the movement of organelles and other items throughout the cell.",
+  "questions": [
+    {
+      "q": "Which of the following are the three types of fibers that compose the cytoskeleton?",
+      "opts": [
+        "Cilia, Flagella, and Centrioles",
+        "Microtubules, Actin filaments, and Intermediate filaments",
+        "Cisternae, Cristae, and Cytosol",
+        "Phospholipids, Sterols, and Glycoproteins"
+      ],
+      "a": 1,
+      "exp": "The slide states that the cytoskeleton consists of microtubules, actin filaments, and intermediate filaments."
+    }
+  ]
+}

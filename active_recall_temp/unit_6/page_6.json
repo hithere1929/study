@@ -1,0 +1,23 @@
+{
+  "unit": 6,
+  "page": 6,
+  "filename": "Unit_6_1.txt",
+  "section_title": "Viruses",
+  "page_num_in_file": 6,
+  "slide_title": "Virus Structure",
+  "original_text": "Virus Structure\nNotice common components, and differences between different types of virus. Notice the envelope structure around the last example.",
+  "explanation": "This slide focuses on virus structure, asking students to compare different types of viruses, notice their common components, and recognize their structural differences. In particular, it highlights the outer envelope structure present in some viruses.",
+  "questions": [
+    {
+      "q": "What structural feature is highlighted on this slide to be noticed around some viral examples?",
+      "opts": [
+        "A flagellum",
+        "An envelope structure",
+        "A peptidoglycan layer",
+        "A double-membrane nucleus"
+      ],
+      "a": 1,
+      "exp": "The slide text explicitly directs to 'Notice the envelope structure around the last example.'"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 6,
+  "filename": "Unit_3_1.txt",
+  "section_title": "Cell Biology",
+  "page_num_in_file": 6,
+  "slide_title": "Contributions of Microscopy",
+  "original_text": "Contributions of Microscopy\nStudy of cell biology limited until development of the compound light microscope\nContinues to expand with development of electron microscopes and other molecular biology tools\nMicroscopy lead to clarifications of our definition of life, that all living things share basic characteristics:\nConsist of organized parts\nObtain energy from surroundings\nPerform chemical reactions\nChange with time\nRespond to environment\nReproduce\nSeparate their constant internal environment from the changing external environment\nShare a common history \ncommon characteristics that show how cells are related to other living things",
+  "explanation": "The study of cell biology was historically limited until the development of the compound light microscope, and the field continues to grow with advanced electron microscopes and molecular biology tools. Microscopy helped clarify the biological definition of life. All living organisms share several basic characteristics: they consist of organized parts, obtain energy from their surroundings, perform chemical reactions, change over time, respond to their environment, reproduce, separate their constant internal environment from the changing external environment, and share a common history showing their relatedness.",
+  "questions": [
+    {
+      "q": "What technological development initially broke the limitations on the study of cell biology?",
+      "opts": [
+        "The electron microscope",
+        "The compound light microscope",
+        "Molecular biology tools",
+        "Staining techniques"
+      ],
+      "a": 1,
+      "exp": "The slide states that the study of cell biology was limited until the development of the compound light microscope."
+    },
+    {
+      "q": "Which of the following is a basic characteristic of all living things identified through microscopy on this page?",
+      "opts": [
+        "Having a cell wall for protection",
+        "Separating a constant internal environment from a changing external environment",
+        "Operating as multicellular systems",
+        "Using sunlight directly as an energy source"
+      ],
+      "a": 1,
+      "exp": "One of the shared basic characteristics listed is that living things separate their constant internal environment from the changing external environment."
+    }
+  ]
+}

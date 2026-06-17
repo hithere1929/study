@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 136,
+  "filename": "Unit_4_7.txt",
+  "section_title": "Chromosome-based Syndromes",
+  "page_num_in_file": 8,
+  "slide_title": "Trisomy 21",
+  "original_text": "Trisomy 21",
+  "explanation": "This slide serves as a transition or features a visual representation (such as a karyotype) of Trisomy 21.",
+  "questions": [
+    {
+      "q": "What genetic condition is the topic of this page?",
+      "opts": [
+        "Trisomy 13",
+        "Trisomy 21",
+        "Turner Syndrome",
+        "Klinefelter Syndrome"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide title is 'Trisomy 21'."
+    }
+  ]
+}

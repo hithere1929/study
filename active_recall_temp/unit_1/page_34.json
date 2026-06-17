@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 34,
+  "filename": "Unit_1_2.txt",
+  "section_title": "Intro to Biology",
+  "page_num_in_file": 21,
+  "slide_title": "Coming Soon in Unit 1",
+  "original_text": "\u2013The Process of Science\u2013The Scientific Method\u2013Graded activity \n\u2013Science Technology\u2013The Microscope\u2013Graded activity\n\u2013Biotechnology, Bioengineering, & Bioethics\u2013Journal Club\n\u2013Objectives Submission & Review\n\u2013Unit Assessment",
+  "explanation": "This slide lists upcoming topics, activities, and assessments for Unit 1. These include: the Scientific Method (under the Process of Science, with a graded activity), the Microscope (under Science Technology, with a graded activity), Biotechnology, Bioengineering, & Bioethics (investigated via a Journal Club), objectives submission and review, and the final Unit Assessment.",
+  "questions": [
+    {
+      "q": "Which of the following is listed as an upcoming science technology topic with a graded activity?",
+      "opts": [
+        "The Microscope",
+        "DNA Sequencing",
+        "Spectrophotometry",
+        "Centrifugation"
+      ],
+      "a": 0,
+      "exp": "Under 'Science Technology', the slide lists 'The Microscope' alongside 'Graded activity'."
+    }
+  ]
+}

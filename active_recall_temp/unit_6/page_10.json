@@ -1,0 +1,44 @@
+{
+  "unit": 6,
+  "page": 10,
+  "filename": "Unit_6_1.txt",
+  "section_title": "Viruses",
+  "page_num_in_file": 10,
+  "slide_title": "Emerging Viruses\u00a8Viruses who have made a move between species, or infect otherwise unaffected populations\u00a4Ex. \u2013H1N1 flu, West Nile, COVID-19\u00a8Ex-Flu Pandemic \u00a4A flu virus has an H (hemagglutinin) spike and an N (neuraminidase) spike nH spike allows the virus to bind to the receptor n16 different typesnN spike attacks host plasma membranes nAllows mature viruses to exit the cell n9 different types \u00a4Each type of spike can occur in different varieties \u00a4Our immune system only recognizes H spikes and N spikes it has been exposed to",
+  "explanation": "Emerging viruses are viruses that have recently crossed species barriers or have infected previously unaffected populations, such as H1N1 flu, West Nile virus, and COVID-19. In influenza pandemics, the viral structure features two critical surface proteins: the H (hemagglutinin) spike and the N (neuraminidase) spike. The H spike, which has 16 different types, binds to receptors on host cell membranes. The N spike, which has 9 different types, attacks host cell membranes to facilitate the exit of mature viruses. Because each type of spike has multiple varieties, the host's immune system can only recognize and defend against H and N spikes to which it has previously been exposed.",
+  "questions": [
+    {
+      "q": "What is an emerging virus?",
+      "opts": [
+        "A virus that has mutated to become less infectious",
+        "A virus that has moved between species or infected previously unaffected populations",
+        "A virus that replicates purely in marine environments",
+        "A virus that has been eradicated globally"
+      ],
+      "a": 1,
+      "exp": "The notes define emerging viruses as 'Viruses who have made a move between species, or infect otherwise unaffected populations.'"
+    },
+    {
+      "q": "What are the roles of the H and N spikes on the influenza virus?",
+      "opts": [
+        "The H spike exits the cell, and the N spike binds receptors",
+        "The H spike binds receptors, and the N spike attacks host membranes to allow exit",
+        "The H spike synthesizes proteins, and the N spike replicates nucleic acids",
+        "The H spike forms the envelope, and the N spike forms the capsid"
+      ],
+      "a": 1,
+      "exp": "According to the notes, the H spike allows the virus to bind to the receptor, and the N spike attacks host plasma membranes to allow mature viruses to exit."
+    },
+    {
+      "q": "How many types of H (hemagglutinin) and N (neuraminidase) spikes are there, respectively?",
+      "opts": [
+        "16 H types and 9 N types",
+        "9 H types and 16 N types",
+        "4 H types and 2 N types",
+        "10 H types and 10 N types"
+      ],
+      "a": 0,
+      "exp": "The notes state there are 16 different types of H spikes and 9 different types of N spikes."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 10,
+  "filename": "Unit_7_1.txt",
+  "section_title": "Plant Structure & Organization",
+  "page_num_in_file": 10,
+  "slide_title": "Tissues of Flowering Plants: Vascular Tissue - Phloem",
+  "original_text": "Tissues of Flowering Plants Vascular Tissue Phloemtransports sucrose and other organic compounds from the leaves to the roots Sieve-tubemembersfunction as conducting cells Contain cytoplasm, but lack nuclei Sieve plate  cluster of pores in wall Each sieve-tube member has a companion cell Plasmodesmata connect the two Companion cell contains a nucleus",
+  "explanation": "Phloem is the vascular tissue that transports sucrose and other organic nutrients from the leaves (sites of photosynthesis) downward to the roots and other non-photosynthetic organs. The primary conducting cells are sieve-tube members, which are living cells containing cytoplasm but lacking nuclei and most organelles at maturity to facilitate unimpeded flow. The end walls of these cells contain clusters of pores called sieve plates. Every sieve-tube member is closely associated with a adjacent companion cell, which contains a nucleus and coordinates metabolic activities for the sieve-tube member. The cytoplasm of the sieve-tube member and its companion cell are connected by intercellular junctions called plasmodesmata.",
+  "questions": [
+    {
+      "q": "Which of the following statements accurately describes sieve-tube members?",
+      "opts": [
+        "They are dead cells that lack cytoplasm and nuclei.",
+        "They are living cells that contain cytoplasm but lack nuclei.",
+        "They are living cells that contain both nuclei and companion cells inside their cytoplasm.",
+        "They are tracheary elements with lignified secondary walls."
+      ],
+      "a": 1,
+      "exp": "Sieve-tube members function as conducting cells that contain cytoplasm but lack nuclei at maturity. They are associated with companion cells which do have nuclei."
+    },
+    {
+      "q": "What structures connect sieve-tube members to their companion cells?",
+      "opts": [
+        "Perforated plates",
+        "Pits in secondary walls",
+        "Plasmodesmata",
+        "Vascular rays"
+      ],
+      "a": 2,
+      "exp": "Plasmodesmata are cytoplasmic channels that connect sieve-tube members to their companion cells, allowing exchange of materials and metabolic regulation."
+    }
+  ]
+}

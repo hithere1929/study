@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 43,
+  "filename": "Unit_5_2.txt",
+  "section_title": "How Populations Evolve",
+  "page_num_in_file": 22,
+  "slide_title": "Natural Selection",
+  "original_text": "Natural Selection\n\u00a4Male Competition -Dimorphism\n  nThere is a phenotypic difference between males and females of a populations\n  nMale baboons larger than female\n  nMale birds with flamboyant coloration (peacock vs peahen)",
+  "explanation": "Sexual dimorphism refers to the phenotypic differences between males and females of the same species. This condition arises due to sexual selection pressures. The slide provides two examples of dimorphism: (1) male baboons are significantly larger than females, a trait that aids in physical competition; and (2) male birds exhibit flamboyant coloration (such as a peacock's vibrant feathers) to attract females, while females (peahens) have duller, cryptic coloration.",
+  "questions": [
+    {
+      "q": "What is the term for phenotypic differences between males and females of the same population?",
+      "opts": [
+        "Homology",
+        "Uniformitarianism",
+        "Sexual Dimorphism",
+        "Heterozygote Advantage"
+      ],
+      "a": 2,
+      "exp": "Sexual dimorphism is defined as the phenotypic differences between males and females within a population."
+    },
+    {
+      "q": "Which of the following is an example of sexual dimorphism described in the notes?",
+      "opts": [
+        "Human babies with low birth weights",
+        "Antibiotic resistance in bacteria",
+        "Peacocks having flamboyant coloration compared to peahens",
+        "Peppered moths changing color due to soot"
+      ],
+      "a": 2,
+      "exp": "Peacocks having flamboyant feathers while peahens are dull is a classic example of sexual dimorphism driven by sexual selection."
+    }
+  ]
+}

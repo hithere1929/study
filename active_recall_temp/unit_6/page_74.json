@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 74,
+  "filename": "Unit_6_6.txt",
+  "section_title": "Invertebrates",
+  "page_num_in_file": 7,
+  "slide_title": "Diversity -Lophotrochozoans\u00a8Bilaterally symmetrical at some point in their life\u00a8Divided into Lophophoransand Trochozoans\u00a4LophophoransnAquatic, with mouth surrounded by ciliated tentacle-like structure \u2013lophophorenBryozoans, Brachiopods, & Phoronoids\u00a4TrochozoansnFlatworms (Platyhelminthes)nFree living \u2013planariannWell developed excretory system; sexual reproducing (hermaphroditic); ladder type nervous systemnParasitic  -Flukes, tapewormsnLive off host system for survivalnRotifers (Rotifera)nHave a crown of cilia on their heads.",
+  "original_text": "Diversity -Lophotrochozoans\u00a8Bilaterally symmetrical at some point in their life\u00a8Divided into Lophophoransand Trochozoans\u00a4LophophoransnAquatic, with mouth surrounded by ciliated tentacle-like structure \u2013lophophorenBryozoans, Brachiopods, & Phoronoids\u00a4TrochozoansnFlatworms (Platyhelminthes)nFree living \u2013planariannWell developed excretory system; sexual reproducing (hermaphroditic); ladder type nervous systemnParasitic  -Flukes, tapewormsnLive off host system for survivalnRotifers (Rotifera)nHave a crown of cilia on their heads.",
+  "explanation": "Lophotrochozoans are bilaterally symmetrical at some point in their life and are divided into Lophophorans and Trochozoans. Lophophorans are aquatic animals whose mouth is surrounded by a ciliated, tentacle-like feeding structure called a lophophore (includes Bryozoans, Brachiopods, and Phoronoids). Trochozoans include: 1) Flatworms (Platyhelminthes), which can be free-living planarians (featuring a well-developed excretory system, hermaphroditic sexual reproduction, and a ladder-type nervous system) or parasitic flukes and tapeworms that rely on host systems; and 2) Rotifers (Rotifera), which have a distinctive crown of cilia on their heads.",
+  "questions": [
+    {
+      "q": "What ciliated feeding structure surrounds the mouth of aquatic lophophorans like bryozoans?",
+      "opts": [
+        "Cnidocyte",
+        "Lophophore",
+        "Radula",
+        "Ossicle"
+      ],
+      "a": 1,
+      "exp": "The notes define a 'lophophore' as a 'ciliated tentacle-like structure' surrounding the mouth in Lophophorans."
+    },
+    {
+      "q": "Which characteristics describe free-living planarians?",
+      "opts": [
+        "Radial symmetry and no tissues",
+        "A well-developed excretory system, hermaphroditic reproduction, and a ladder-type nervous system",
+        "A crown of cilia and a multi-chambered shell",
+        "Parasitic lifestyle in host intestines"
+      ],
+      "a": 1,
+      "exp": "The notes describe planarians as 'Free living' with a 'Well developed excretory system; sexual reproducing (hermaphroditic); ladder type nervous system'."
+    },
+    {
+      "q": "What morphological feature distinguishes members of Phylum Rotifera?",
+      "opts": [
+        "A cup-down medusa form",
+        "A crown of cilia on their heads",
+        "Non-segmented chitinous tests",
+        "A network of septate hyphae"
+      ],
+      "a": 1,
+      "exp": "The notes state that Rotifers 'Have a crown of cilia on their heads.'"
+    }
+  ]
+}

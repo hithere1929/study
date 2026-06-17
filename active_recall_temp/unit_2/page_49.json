@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 49,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 13,
+  "slide_title": "1: Carbohydrates",
+  "original_text": "1: Carbohydrates¨Carbohydrates: Carbon/ Water¤Organic compounds composed of carbon, hydrogen and oxygen in a ratio of about 1C : 2H : 1O¤Number of atoms can vary; ratio remains the same¨Serve as energy source and structural material¨Exist as monosaccharides, disaccharidesand polysaccharides",
+  "explanation": "Carbohydrates are organic compounds consisting of carbon, hydrogen, and oxygen, with a characteristic atomic ratio of approximately 1 Carbon to 2 Hydrogen to 1 Oxygen (1C:2H:1O). Although the total number of atoms in different carbohydrates can vary, this ratio remains constant. Carbohydrates function as primary energy sources and structural materials in living things. They exist in three main forms: monosaccharides (single sugars), disaccharides (double sugars), and polysaccharides (complex chains).",
+  "questions": [
+    {
+      "q": "What is the characteristic atomic ratio of elements in a carbohydrate?",
+      "opts": [
+        "1C : 1H : 1O",
+        "2C : 1H : 2O",
+        "1C : 2H : 1O",
+        "1C : 2H : 2O"
+      ],
+      "a": 2,
+      "exp": "Carbohydrates are composed of carbon, hydrogen, and oxygen in a ratio of approximately 1C : 2H : 1O."
+    },
+    {
+      "q": "What are the three structural forms in which carbohydrates exist?",
+      "opts": [
+        "Amino acids, peptides, and proteins",
+        "Monosaccharides, disaccharides, and polysaccharides",
+        "Glycerol, fatty acids, and triglycerides",
+        "Nucleotides, DNA, and RNA"
+      ],
+      "a": 1,
+      "exp": "Carbohydrates exist as monosaccharides, disaccharides, and polysaccharides."
+    }
+  ]
+}

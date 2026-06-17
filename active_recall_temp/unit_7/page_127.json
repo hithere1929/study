@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 127,
+  "filename": "Unit_7_7.txt",
+  "section_title": "Respiratory System",
+  "page_num_in_file": 10,
+  "slide_title": "Breathing & Transport of Gases: Inspiration",
+  "original_text": "Breathing and Transport of Gases Breathing Inspirationin mammals nCreation of negative pressure in the lungs The rib cage is elevated The diaphragmcontracts and lowers Thoracic pressure decreases to less than atmospheric pressure nAtmospheric pressure forces air into the lungs",
+  "explanation": "Mammals breathe using negative pressure ventilation. During inspiration (inhalation): 1) the diaphragm contracts and moves downward, and 2) the intercostal muscles contract, elevating the rib cage. These actions expand the volume of the thoracic cavity, causing the air pressure inside the lungs to decrease below atmospheric pressure. The higher atmospheric pressure outside then forces air into the lungs.",
+  "questions": [
+    {
+      "q": "What muscular contractions occur to initiate inspiration in mammals?",
+      "opts": [
+        "The diaphragm relaxes and rises; the rib cage lowers.",
+        "The diaphragm contracts and lowers; the rib cage is elevated.",
+        "The stomach muscles contract to push air upward.",
+        "The epiglottis closes the glottis."
+      ],
+      "a": 1,
+      "exp": "Inspiration is initiated when the diaphragm contracts and flattens (lowers) and the rib cage is elevated, expanding the thoracic cavity."
+    },
+    {
+      "q": "How does negative pressure ventilation draw air into the lungs?",
+      "opts": [
+        "By raising thoracic pressure above atmospheric pressure",
+        "By expanding the thoracic cavity, which decreases lung pressure below atmospheric pressure so air flows in",
+        "By active transport of oxygen through the trachea",
+        "By contracting the alveoli to pull air in"
+      ],
+      "a": 1,
+      "exp": "Expanding the thoracic cavity lowers the internal pressure (creating a partial vacuum, or negative pressure) below atmospheric pressure, forcing air in."
+    }
+  ]
+}

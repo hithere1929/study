@@ -1,0 +1,27 @@
+{
+  "id": "u2_t4",
+  "title": "Enzyme Kinetics",
+  "cheat_card": [
+    "<b>Enzymes</b> are biological catalysts (usually proteins, though some RNA molecules are <b>ribozymes</b>) that speed up chemical reactions by <b>lowering the activation energy (Ea)</b> barrier without being consumed.",
+    "Substrates bind to the enzyme's <b>active site</b> via an <b>induced fit</b>. Human enzymes typically have an optimal temperature of <b>35-40°C</b> and work best at a pH near neutrality.",
+    "Enzymes often require nonprotein helpers: inorganic <b>cofactors</b> (e.g., zinc, iron, copper ions) or organic <b>coenzymes</b> (e.g., vitamins, Acetyl CoA, CoQ10) to function in catalysis.",
+    "Inhibition can be <b>competitive</b> (inhibitor blocks the active site directly) or <b>noncompetitive</b> (inhibitor binds elsewhere, altering the active site's shape). <b>Feedback inhibition</b> occurs when a pathway's final product inhibits an earlier enzyme.",
+    "Many drugs function as enzyme inhibitors: <b>ibuprofen</b> blocks prostaglandins (pain/inflammation signals), while blood pressure meds, antidepressants, antibiotics, and HIV protease inhibitors target specific enzymes."
+  ],
+  "memory_anchor": "| Inhibitor Type | Binding Location | Effect on Active Site | How to Overcome |\n|---|---|---|---|\n| **Competitive** | Active Site | Directly blocked / occupied | Increase substrate concentration |\n| **Noncompetitive** | Other than active site | Changes shape, preventing substrate binding | Cannot be overcome by adding substrate |",
+  "flashcards": [
+    {
+      "q": "What is activation energy, and how do enzymes accelerate reactions without altering the energy level of the reactants or products?",
+      "a": "Activation energy is the initial energy barrier required to transition reactants into an unstable state to start a reaction. Enzymes accelerate reactions by lowering this activation energy barrier (Ea), making it easier for reactants to proceed to products, while the free energy of the reactants and products remains unchanged."
+    },
+    {
+      "q": "Distinguish between competitive and noncompetitive inhibitors in terms of where they bind and their effect on enzyme-substrate interaction.",
+      "a": "Competitive inhibitors bind directly to the enzyme's active site, physically blocking the substrate from entering and reducing productivity. Noncompetitive inhibitors bind to a site other than the active site, causing a conformational change in the enzyme that alters the shape of the active site so that the substrate can no longer bind."
+    },
+    {
+      "q": "Explain how feedback inhibition works to regulate metabolic pathways and prevent cellular waste.",
+      "a": "Feedback inhibition occurs when the final product of a metabolic pathway acts as an inhibitor of an enzyme that functions early in that pathway. When the product accumulates in high concentration, it binds to and inhibits the early enzyme, shutting down the pathway and preventing the overproduction of intermediate and final products."
+    }
+  ],
+  "outline_blanks": "Enzymes are catalysts, often proteins or RNA molecules called [[ribozymes]], that speed up chemical reactions by lowering the [[activation energy]]. Substrates bind to the [[active site]] through a conformational matching process known as [[induced fit]]. Enzyme activity can be hindered by [[competitive inhibitors]] that block the active site, or by [[noncompetitive inhibitors]] that bind elsewhere and alter the active site's shape."
+}

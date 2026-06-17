@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 64,
+  "filename": "Unit_3_3.txt",
+  "section_title": "Chromosomes",
+  "page_num_in_file": 5,
+  "slide_title": "Levels of DNA Compaction",
+  "original_text": "Levels of DNA Compaction",
+  "explanation": "This page serves as a transition or title slide for the topic 'Levels of DNA Compaction'.",
+  "questions": [
+    {
+      "q": "What is the title of the slide shown on this page?",
+      "opts": [
+        "Levels of DNA Compaction",
+        "Histone Wrapping",
+        "Chromatid Separation",
+        "Nucleosome Structure"
+      ],
+      "a": 0,
+      "exp": "The slide is titled 'Levels of DNA Compaction'."
+    }
+  ]
+}

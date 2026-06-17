@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 62,
+  "filename": "Unit_5_3.txt",
+  "section_title": "Speciation & Macroevolution",
+  "page_num_in_file": 13,
+  "slide_title": "Modes of Speciation",
+  "original_text": "Modes of Speciation\n\u00a8Sympatric Speciation\n\u00a4One population develops into two or more reproductively isolated groups -No prior geographic isolation\n\u00a4In plants, sympatric speciation often involves polyploidy(more than the diploid [2n] number)\n\u00a4A polyploid plant can reproduce with itself, but cannot reproduce with the 2n population because not all the chromosomes would be able to pair during meiosis.\n  nTwo types of polyploidy are known:\n  nAutoploidy -diploid plant produces diploid gametes due to nondisjunction during meiosis.\n    nIf diploid gamete fuses with a haploid gamete, a triploid plant results.\n    nAn triploid (3n) plant is sterile and cannot produce offspring\n  nAlloploidy -more complicated process than autoploidy\n    nRequires two different but related species of plants\n    nHybridization is followed by doubling of the chromosomes.",
+  "explanation": "Sympatric Speciation is the mode of speciation where a new species arises within a single population without any geographic isolation. In plants, this is frequently driven by polyploidy (having more than the diploid 2n number of chromosomes). A polyploid plant can self-reproduce or mate with other polyploids but cannot breed with the parent 2n population because their chromosomes cannot pair properly during meiosis. There are two types of polyploidy: (1) Autoploidy, which occurs when a diploid plant produces diploid gametes due to chromosome nondisjunction during meiosis. If a diploid (2n) gamete fuses with a normal haploid (n) gamete, a triploid (3n) plant results, which is sterile. (2) Alloploidy, a more complex process involving hybridization between two different but related plant species, followed by chromosome doubling to restore fertility.",
+  "questions": [
+    {
+      "q": "How does Sympatric Speciation differ from Allopatric Speciation?",
+      "opts": [
+        "Sympatric speciation requires physical geographic isolation.",
+        "Sympatric speciation occurs within a population without prior geographic isolation.",
+        "Sympatric speciation only occurs in animals, never in plants.",
+        "Sympatric speciation is driven entirely by natural selection."
+      ],
+      "a": 1,
+      "exp": "Sympatric speciation occurs when populations become reproductively isolated and diverge into new species without any physical geographic separation."
+    },
+    {
+      "q": "Why is a triploid (3n) plant resulting from autoploidy typically sterile?",
+      "opts": [
+        "It lacks Hox genes completely.",
+        "Its chromosomes cannot pair properly during meiosis.",
+        "It cannot perform photosynthesis.",
+        "It is killed by the environment."
+      ],
+      "a": 1,
+      "exp": "Triploid (3n) plants are sterile because they have an odd number of chromosome sets, making proper pairing of homologous chromosomes during meiosis impossible."
+    }
+  ]
+}

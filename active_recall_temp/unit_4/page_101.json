@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 101,
+  "filename": "Unit_4_5.txt",
+  "section_title": "Biotech & Genomics",
+  "page_num_in_file": 23,
+  "slide_title": "Genomics¨Functional Genomics¤Functional genomics aims to understand the role of the genome in cells or organisms¤DNA microarrays can monitor the expression of thousands of genes simultaneously and tell us:nWhat genes are turned onnEnvironmental conditions that turn on the gene¤DNA microarrays contain microscopic amounts of known DNA fixed onto a small glass slide or silicon chip in known locations¤mRNAs bind through to DNA sequences on the chip through complementary base pairingnAllows identification of genes that are active in the cell¤Can be used to identify various mutations in the genome of an individualnThis is called the person’s genetic profile",
+  "original_text": "Genomics¨Functional Genomics¤Functional genomics aims to understand the role of the genome in cells or organisms¤DNA microarrays can monitor the expression of thousands of genes simultaneously and tell us:nWhat genes are turned onnEnvironmental conditions that turn on the gene¤DNA microarrays contain microscopic amounts of known DNA fixed onto a small glass slide or silicon chip in known locations¤mRNAs bind through to DNA sequences on the chip through complementary base pairingnAllows identification of genes that are active in the cell¤Can be used to identify various mutations in the genome of an individualnThis is called the person’s genetic profile",
+  "explanation": "Functional genomics is a branch of genomics that aims to understand the physiological roles and functions of the genome in cells or organisms. A central technology in this field is the DNA microarray, which can monitor the expression of thousands of genes simultaneously, revealing which genes are active and what environmental conditions trigger their expression. DNA microarrays consist of microscopic amounts of known DNA sequences fixed at precise spots on a glass slide or silicon chip. Cellular mRNAs are allowed to hybridize to these complementary DNA spots through base pairing, enabling researchers to identify active genes. Furthermore, microarrays can identify genetic mutations in an individual to construct their genetic profile.",
+  "questions": [
+    {
+      "q": "What is the goal of functional genomics, and what key technology is used to monitor thousands of active genes at once?",
+      "opts": [
+        "To sequence chromosomes; PCR.",
+        "To understand the role of the genome in cells; DNA microarrays.",
+        "To splice introns; spliceosomes.",
+        "To degrade cellular proteins; proteasomes."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide defines functional genomics' aim as understanding 'the role of the genome in cells or organisms' and states that 'DNA microarrays can monitor the expression of thousands of genes simultaneously.' The other options are incorrect."
+    },
+    {
+      "q": "How do DNA microarrays detect active genes?",
+      "opts": [
+        "By using restriction enzymes to cleave active genes.",
+        "By allowing cellular mRNAs to bind to known DNA sequences on the chip through complementary base pairing.",
+        "By performing vortex mixing with silicon-carbide needles.",
+        "By separating protein fragments based on size and charge."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'mRNAs bind through to DNA sequences on the chip through complementary base pairing' which 'Allows identification of genes that are active in the cell.' The other options are incorrect."
+    }
+  ]
+}

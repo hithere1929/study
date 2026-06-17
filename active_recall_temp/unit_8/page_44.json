@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 44,
+  "filename": "Unit_8_3.txt",
+  "section_title": "Community & Ecosystem Ecology",
+  "page_num_in_file": 10,
+  "slide_title": "Community Development¨Models About Succession¤Facilitation ModelnEach stage facilitates invasion and replacement by organisms of the next stagenSuccession in a particular area will always lead to the same type of community, a climax community¤Inhibition ModelnColonists remain and inhibit growth of other plants until the colonists are damaged or die¤Tolerance ModelnDifferent types of plants can colonize an area at the same timenChance determines which seeds arrive first",
+  "original_text": "Community Development¨Models About Succession¤Facilitation ModelnEach stage facilitates invasion and replacement by organisms of the next stagenSuccession in a particular area will always lead to the same type of community, a climax community¤Inhibition ModelnColonists remain and inhibit growth of other plants until the colonists are damaged or die¤Tolerance ModelnDifferent types of plants can colonize an area at the same timenChance determines which seeds arrive first",
+  "explanation": "Three ecological models describe the dynamics of succession: 1) Facilitation Model: each successive stage of species facilitates the invasion and establishment of the next stage of organisms. In this model, succession in a given area always leads to a predictable, stable climax community. 2) Inhibition Model: early colonists establish themselves and actively inhibit the growth and establishment of other plant species. Succession only proceeds when these colonists are damaged or die. 3) Tolerance Model: different types of plants can colonize a disturbed area at the same time, with chance playing the major role in determining which seeds arrive and establish first.",
+  "questions": [
+    {
+      "q": "According to the facilitation model of succession, what is the ultimate result of succession in a given area?",
+      "opts": [
+        "A random assortment of transient species",
+        "A stable climax community that is always the same type",
+        "Total desertification due to resource depletion",
+        "The complete elimination of pioneer species by inhibition"
+      ],
+      "a": 1,
+      "exp": "The notes state that under the Facilitation Model, 'Succession in a particular area will always lead to the same type of community, a climax community.'"
+    },
+    {
+      "q": "Which succession model states that early colonists actively prevent the growth of other plants until those colonists die or are damaged?",
+      "opts": [
+        "Facilitation Model",
+        "Inhibition Model",
+        "Tolerance Model",
+        "Stochastic Model"
+      ],
+      "a": 1,
+      "exp": "The notes define the Inhibition Model as: 'Colonists remain and inhibit growth of other plants until the colonists are damaged or die.'"
+    }
+  ]
+}

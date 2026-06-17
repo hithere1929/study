@@ -1,0 +1,34 @@
+{
+  "unit": 1,
+  "page": 30,
+  "filename": "Unit_1_2.txt",
+  "section_title": "Intro to Biology",
+  "page_num_in_file": 17,
+  "slide_title": "Organizing Diversity",
+  "original_text": "\u2013Basic classification categories go from least inclusive to most inclusive (just like levels of organization discussed earlier)\u2013Least inclusive is species, and is a group of interbreeding individuals\u2013As you move up a level in hierarchy, the level contains more individuals, but the individuals share less characteristics\n\u20133 Domains\u2013Bacteria\u2013Archaea\u2013Both Prokaryotes\u2013Eukarya\u20134 Kingdoms",
+  "explanation": "This slide explains how biological classification is structured hierarchically. The basic classification categories go from the least inclusive (species) to the most inclusive. A species is defined as a group of interbreeding individuals. Moving up the levels of the hierarchy increases the number of individuals in each group, but they share fewer common characteristics. The slide also introduces the three domains of life: Domain Bacteria and Domain Archaea (both of which consist of prokaryotes), and Domain Eukarya, which has four kingdoms.",
+  "questions": [
+    {
+      "q": "How do biological classification categories change as you move up the hierarchy from least inclusive to most inclusive?",
+      "opts": [
+        "The groups contain fewer individuals that share more characteristics.",
+        "The groups contain more individuals, and these individuals share fewer characteristics.",
+        "The groups remain the same size but change names.",
+        "The groups become more specific to individual behaviors."
+      ],
+      "a": 1,
+      "exp": "The slide states: 'As you move up a level in hierarchy, the level contains more individuals, but the individuals share less characteristics.'"
+    },
+    {
+      "q": "Which domains are composed entirely of prokaryotes according to the slide?",
+      "opts": [
+        "Bacteria and Eukarya",
+        "Archaea and Eukarya",
+        "Bacteria and Archaea",
+        "Only Domain Bacteria"
+      ],
+      "a": 2,
+      "exp": "The slide groups Bacteria and Archaea together, stating: 'Both Prokaryotes'."
+    }
+  ]
+}

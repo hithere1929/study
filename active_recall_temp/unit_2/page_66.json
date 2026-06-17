@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 66,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 30,
+  "slide_title": "3: Phospholipids",
+  "original_text": "3: Phospholipids¨Phospholipids: 1 molecule of glycerolattached to 2 fatty acids and one phosphategroup¤Hydrophilic “head”: glycerol/phosphateendof molecule¤Hydrophobic “tail”: carbonchain¨Cell membranes composed of 2 layers of phospholipids¤Known as lipid bilayer¤Hydrophobic nature of lipids allow them to serve as barrier between inside & outside of cell\nnBoth of which aqueous solutions",
+  "explanation": "Phospholipids are structural lipids composed of a single glycerol molecule attached to two fatty acid chains and one phosphate group. This structure results in an amphipathic molecule: a hydrophilic head made of the polar glycerol and phosphate group, and two hydrophobic tails made of nonpolar fatty acid carbon chains. Cell membranes are constructed from two layers of these molecules, forming a phospholipid bilayer. The hydrophobic tails point inward, away from water, allowing the bilayer to act as an effective barrier separating the aqueous intracellular fluid from the aqueous extracellular fluid.",
+  "questions": [
+    {
+      "q": "Describe the structure of a phospholipid.",
+      "opts": [
+        "1 glycerol, 3 fatty acids, and 1 amino acid",
+        "1 glycerol, 2 fatty acids, and 1 phosphate group",
+        "1 glucose, 2 phosphates, and 1 nitrogenous base",
+        "2 glycerols and 2 fatty acids"
+      ],
+      "a": 1,
+      "exp": "A phospholipid is composed of 1 glycerol molecule, 2 fatty acid chains, and 1 phosphate group."
+    },
+    {
+      "q": "How does the structure of a phospholipid bilayer allow it to function as a cell membrane barrier?",
+      "opts": [
+        "The hydrophilic tails face inward to block all water.",
+        "The hydrophobic tails point inward, creating a nonpolar barrier that separates the aqueous environments inside and outside the cell.",
+        "It dissolves completely in the surrounding aqueous solutions.",
+        "It forms covalent bonds with external proteins to seal the cell."
+      ],
+      "a": 1,
+      "exp": "The hydrophobic tails pack together on the interior of the membrane, creating a barrier that is impermeable to most polar/aqueous substances, separating the cell's interior from the outside environment."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 5,
+  "page": 24,
+  "filename": "Unit_5_2.txt",
+  "section_title": "How Populations Evolve",
+  "page_num_in_file": 3,
+  "slide_title": "5.2 \u2013Opening Question",
+  "original_text": "5.2 \u2013Opening Question\u00a8Fur color is biggest observable difference. \u00a8Selection pressures will ultimately determine whether a trait is an evolutionary advantage or disadvantage\u2026",
+  "explanation": "This slide answers the opening question from the previous page. It points out that the primary observable difference among the hares is their fur color. It explains the central evolutionary concept that selection pressures in the environment determine whether a particular trait, such as a specific fur color, acts as an evolutionary advantage or disadvantage for survival and reproduction.",
+  "questions": [
+    {
+      "q": "What determines whether a trait like fur color is an evolutionary advantage or disadvantage?",
+      "opts": [
+        "The choice of the animal itself",
+        "Selection pressures in the environment",
+        "The size of the population's gene pool",
+        "The rate of genetic mutations"
+      ],
+      "a": 1,
+      "exp": "The slide explicitly states that 'selection pressures will ultimately determine whether a trait is an evolutionary advantage or disadvantage...'"
+    }
+  ]
+}

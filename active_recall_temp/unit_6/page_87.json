@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 87,
+  "filename": "Unit_6_7.txt",
+  "section_title": "Vertebrates",
+  "page_num_in_file": 8,
+  "slide_title": "Diversity \u2013Amphibians\u00a8Live life on both land and water, with the following unifying characteristics:\u00a4Limbs\u2013normally tetrapods(4 limbs)\u00a4Smooth, non-scaly skin\u2013for maintaining water balance\u00a4Lungs\u2013if present, small and used for gas exchange\u00a4Double-looped circulatory pathway \u20133 chamber heart\u00a4Sense organs \u2013sight, hearing, and smell tuned for life on land\u00a4Ectotherms\u00a4Aquatic reproduction \u2013Deposit jelly-coated eggs in water and are fertilized; young hatch and grow early part of life in water. Most emerge for life on land as adults\u00a8Diversity includes \u00a4Salamanders and newts\u00a4Frogs and Toads\u00a4Caecilians",
+  "original_text": "Diversity \u2013Amphibians\u00a8Live life on both land and water, with the following unifying characteristics:\u00a4Limbs\u2013normally tetrapods(4 limbs)\u00a4Smooth, non-scaly skin\u2013for maintaining water balance\u00a4Lungs\u2013if present, small and used for gas exchange\u00a4Double-looped circulatory pathway \u20133 chamber heart\u00a4Sense organs \u2013sight, hearing, and smell tuned for life on land\u00a4Ectotherms\u00a4Aquatic reproduction \u2013Deposit jelly-coated eggs in water and are fertilized; young hatch and grow early part of life in water. Most emerge for life on land as adults\u00a8Diversity includes \u00a4Salamanders and newts\u00a4Frogs and Toads\u00a4Caecilians",
+  "explanation": "Amphibians live on both land and water, sharing several unifying characteristics: 1) Limbs: normally tetrapods (having 4 limbs); 2) Smooth, non-scaly skin: adapted for maintaining water balance; 3) Lungs: if present, they are small and used for gas exchange; 4) Double-looped circulatory pathway, featuring a 3-chambered heart; 5) terrestrial-adapted sense organs (sight, hearing, smell); and 6) Ectothermy (body temperature dependent on the environment). Amphibians rely on aquatic reproduction, depositing jelly-coated eggs in water where they are fertilized. The young hatch and grow in water before emerging as terrestrial adults. Amphibian diversity includes salamanders and newts, frogs and toads, and caecilians.",
+  "questions": [
+    {
+      "q": "What describes the heart and circulatory pathway of amphibians?",
+      "opts": [
+        "Single-loop pathway with a 2-chambered heart",
+        "Double-loop pathway with a 3-chambered heart",
+        "Closed pathway with a 4-chambered heart",
+        "Open circulatory system with no specialized heart"
+      ],
+      "a": 1,
+      "exp": "The notes state that amphibians have a 'Double-looped circulatory pathway \u2013 3 chamber heart'."
+    },
+    {
+      "q": "What is the typical mode of reproduction in amphibians?",
+      "opts": [
+        "Internal fertilization and amniotic egg laying on land",
+        "Aquatic reproduction by depositing jelly-coated eggs in water for fertilization",
+        "Budding and asexual spore formation",
+        "Internal placental development followed by live birth"
+      ],
+      "a": 1,
+      "exp": "The notes describe 'Aquatic reproduction \u2013 Deposit jelly-coated eggs in water and are fertilized'."
+    },
+    {
+      "q": "Which of the following groups are classified as amphibians?",
+      "opts": [
+        "Turtles, snakes, and lizards",
+        "Salamanders, frogs, and caecilians",
+        "Lampreys, sharks, and lungfish",
+        "Eagles, penguins, and ostriches"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Diversity includes: Salamanders and newts; Frogs and Toads; Caecilians'."
+    }
+  ]
+}

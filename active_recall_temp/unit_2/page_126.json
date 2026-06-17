@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 126,
+  "filename": "Unit_2_5.txt",
+  "section_title": "Enzymes",
+  "page_num_in_file": 4,
+  "slide_title": "Enzymes",
+  "original_text": "Enzymes¨We can think of activation energy as the amount of energy needed for a reactant molecule to move “uphill” to a higher-energy but an unstable state so that the “downhill” part of the reaction can begin.¨One way to speed up a reaction is to add heat, which agitates atoms so that bonds break more easily and reactions can proceed, but too much heat will kill a cell.",
+  "explanation": "Activation energy can be conceptualized as the 'uphill' energy needed to push reactant molecules into a highly unstable, high-energy transition state, allowing the 'downhill' portion of the reaction (forming products) to begin. While adding heat is a simple physical way to accelerate chemical reactions by agitating atoms and facilitating bond breakage, biological cells cannot use excessive heat because high temperatures would destroy cellular proteins and kill the cell.",
+  "questions": [
+    {
+      "q": "Why is adding heat NOT a viable biological strategy for cells to speed up chemical reactions?",
+      "opts": [
+        "Heat converts reactants into inorganic salts.",
+        "Heat slows down the movement of molecules.",
+        "Excessive heat destroys cellular structures and will kill the cell.",
+        "Heat prevents ATP from releasing phosphate."
+      ],
+      "a": 2,
+      "exp": "Although heat speeds up reactions by agitating atoms, too much heat denatures proteins and destroys cells, making it unsafe for living organisms."
+    }
+  ]
+}

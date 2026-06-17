@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 175,
+  "filename": "Unit_7_9.txt",
+  "section_title": "Sense Organs",
+  "page_num_in_file": 15,
+  "slide_title": "Somatic Senses: Proprioceptors, Cutaneous & Pain Receptors",
+  "original_text": "Somatic Senses Somatic senses Senses whose receptors are associated with the skin, muscles, joints, and viscera Proprioceptors Mechanoreceptors involved in reflex actions that maintain muscle tone Muscle spindles, Golgi tendon organs Cutaneous receptors Make the skin sensitive to touch, pressure, pain, and temperature Meissner corpuscles Krause end builds Merkel disks Pacinian corpuscles Ruffini endings Pain Receptors Also termed free nerve endings or nociceptors Damaged cells release chemicals causing nociceptors to generate nerve impulses that are interpreted by the brain as pain.",
+  "explanation": "Somatic senses have receptors in the skin, muscles, joints, and internal organs (viscera): 1) Proprioceptors: mechanoreceptors in muscles and joints involved in reflex actions maintaining muscle tone (e.g., muscle spindles and Golgi tendon organs). 2) Cutaneous receptors: specialized structures in the skin that detect touch, pressure, pain, and temperature (e.g., Meissner corpuscles, Pacinian corpuscles, Merkel disks, Ruffini endings, and Krause end bulbs). 3) Pain receptors (nociceptors): free nerve endings that generate nerve impulses when stimulated by chemicals released by damaged cells, interpreted by the brain as pain.",
+  "questions": [
+    {
+      "q": "What are proprioceptors, and what is an example?",
+      "opts": [
+        "Sensory cells for smell; olfactory bulb",
+        "Receptors in muscles and joints that maintain muscle tone; muscle spindles and Golgi tendon organs",
+        "Rods and cones in the fovea centralis",
+        "Vibrating tympanum membranes in insects"
+      ],
+      "a": 1,
+      "exp": "Proprioceptors are mechanoreceptors that monitor muscle length and tension (like muscle spindles and Golgi tendon organs) to regulate muscle tone."
+    },
+    {
+      "q": "What type of receptor is a pain receptor, and how does it detect injury?",
+      "opts": [
+        "Myelinated Pacinian corpuscles; detects mechanical stretch",
+        "Free nerve endings (nociceptors); stimulated by chemicals released from damaged cells",
+        "Ommatidia units; stimulated by UV light wavelengths",
+        "Bipolar cells; stimulated by calcium influx"
+      ],
+      "a": 1,
+      "exp": "Pain receptors are free nerve endings (nociceptors) that detect chemicals released from injured or damaged cells."
+    }
+  ]
+}

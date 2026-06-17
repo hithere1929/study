@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 124,
+  "filename": "Unit_2_5.txt",
+  "section_title": "Enzymes",
+  "page_num_in_file": 2,
+  "slide_title": "Questions",
+  "original_text": "Questions¨You are lost in the woods, and nightfall is approaching. You need to make a fire.¥What materials do you need for the fire¥If you had access, what could be used to create a larger fire, or help you make the fire faster?",
+  "explanation": "This slide poses a warm-up scenario where students imagine making a fire in the woods. The exercise prompts students to think about materials needed and methods to accelerate fire production (such as using an accelerant or match), serving as an analogy for activation energy and catalysts.",
+  "questions": [
+    {
+      "q": "What conceptual analogy is introduced by the fire-making questions on this slide?",
+      "opts": [
+        "The difference between animal and plant cells.",
+        "Activation energy and the role of catalysts/enzymes in speeding up reactions.",
+        "The passive transport of water across membranes.",
+        "The structure of the DNA double helix."
+      ],
+      "a": 1,
+      "exp": "Thinking about what is needed to start a fire (an initial spark/energy) and how to speed it up (catalyst) introduces the concepts of activation energy and enzymes."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "unit": 8,
+  "page": 87,
+  "filename": "Unit_8_5.txt",
+  "section_title": "Cellular Respiration",
+  "page_num_in_file": 15,
+  "slide_title": "Inside the Mitochondria¨Electron Transport Chain (ETC)¤Location:nEukaryotes: cristae of the mitochondrianAerobic prokaryotes: plasma membrane¤Series of carrier molecules:nPass energy-rich electrons successively from one to anothernComplex arrays of protein and cytochromenCytochromes are proteins with hemegroups with central iron atoms¤The electron transport chainnReceives electrons from NADH & FADH2nProduces ATP by oxidative phosphorylation¤Oxygen serves as the final electron acceptornOxygen combines with hydrogen ions to form water\n¨The fate of the hydrogens:¤Hydrogens from NADHdeliver enough energy to make 3 ATPs¤Those from FADH2have only enough for 2 ATPs¤“Spent” hydrogens combine with oxygen¨Recycling of coenzymes increases efficiency¤Once NADH delivers hydrogens, it returns (as NAD+) to pick up more hydrogens¤However, hydrogens must be combined with oxygen to make water¤If O2is not present, NADH cannot release H+¤No longer recycled back to NAD+",
+  "original_text": "Inside the Mitochondria¨Electron Transport Chain (ETC)¤Location:nEukaryotes: cristae of the mitochondrianAerobic prokaryotes: plasma membrane¤Series of carrier molecules:nPass energy-rich electrons successively from one to anothernComplex arrays of protein and cytochromenCytochromes are proteins with hemegroups with central iron atoms¤The electron transport chainnReceives electrons from NADH & FADH2nProduces ATP by oxidative phosphorylation¤Oxygen serves as the final electron acceptornOxygen combines with hydrogen ions to form water\n¨The fate of the hydrogens:¤Hydrogens from NADHdeliver enough energy to make 3 ATPs¤Those from FADH2have only enough for 2 ATPs¤“Spent” hydrogens combine with oxygen¨Recycling of coenzymes increases efficiency¤Once NADH delivers hydrogens, it returns (as NAD+) to pick up more hydrogens¤However, hydrogens must be combined with oxygen to make water¤If O2is not present, NADH cannot release H+¤No longer recycled back to NAD+",
+  "explanation": "The Electron Transport Chain (ETC) is located on the cristae (inner membrane folds) of mitochondria in eukaryotes, and on the plasma membrane in aerobic prokaryotes. It consists of a series of carrier molecules, including complex protein arrays and cytochromes (proteins featuring heme groups with a central iron atom). The ETC accepts energy-rich electrons from NADH and FADH2 to generate ATP via oxidative phosphorylation. Oxygen (O2) acts as the final electron acceptor, combining with spent hydrogen ions to form water. Electrons from NADH deliver enough energy to synthesize 3 ATP molecules, whereas electrons from FADH2 provide enough energy to yield 2 ATP. For efficiency, coenzymes are recycled: once NADH delivers its electrons/hydrogens, it returns to the matrix as NAD+ to pick up more. However, if oxygen is absent, NADH cannot release its electrons, halting coenzyme recycling and the ETC.",
+  "questions": [
+    {
+      "q": "Where is the electron transport chain located in eukaryotic cells vs. aerobic prokaryotes?",
+      "opts": [
+        "Matrix of the mitochondria; cytoplasm",
+        "Cristae of the mitochondria; plasma membrane",
+        "Outer mitochondrial membrane; cell wall",
+        "Stroma of the chloroplast; ribosome"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Location: Eukaryotes: cristae of the mitochondrion; Aerobic prokaryotes: plasma membrane.'"
+    },
+    {
+      "q": "What is the final electron acceptor of the electron transport chain, and what molecule is formed as a result?",
+      "opts": [
+        "Carbon dioxide; glucose",
+        "FAD; FADH2",
+        "Oxygen; water",
+        "Iron; cytochrome"
+      ],
+      "a": 2,
+      "exp": "The notes state: 'Oxygen serves as the final electron acceptor' and 'Oxygen combines with hydrogen ions to form water.'"
+    },
+    {
+      "q": "Why does NADH yield more ATP than FADH2 in the ETC?",
+      "opts": [
+        "NADH has iron atoms, whereas FADH2 contains copper.",
+        "Hydrogens from NADH deliver enough energy to make 3 ATPs, while FADH2 hydrogens only deliver enough for 2 ATPs.",
+        "NADH works anaerobically, whereas FADH2 works only in the Calvin cycle.",
+        "NADH is found only in prokaryotes."
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Hydrogens from NADH deliver enough energy to make 3 ATPs' and 'Those from FADH2 have only enough for 2 ATPs.'"
+    }
+  ]
+}

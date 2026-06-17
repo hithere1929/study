@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 122,
+  "filename": "Unit_4_6.txt",
+  "section_title": "Meiosis",
+  "page_num_in_file": 16,
+  "slide_title": "Male Reproductive System",
+  "original_text": "Male Reproductive System",
+  "explanation": "This slide serves as a transition slide introducing the anatomy and function of the Male Reproductive System.",
+  "questions": [
+    {
+      "q": "What organ system is introduced on this slide?",
+      "opts": [
+        "Female Reproductive System",
+        "Male Reproductive System",
+        "Excretory System",
+        "Endocrine System"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide is titled 'Male Reproductive System'."
+    }
+  ]
+}

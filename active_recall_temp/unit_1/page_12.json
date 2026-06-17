@@ -1,0 +1,34 @@
+{
+  "unit": 1,
+  "page": 12,
+  "filename": "Unit_1_1.txt",
+  "section_title": "Lab Safety",
+  "page_num_in_file": 12,
+  "slide_title": "Chemical & Sample Safety",
+  "original_text": "\u2013Treat all chemicals as if they were dangerous; do not taste, touch or smell anything.\u2013Never assume that a clear liquid is water.\u2013Carry reagent bottles and beakers with two hands to avoid spilling or dropping them, or use a cart when available.\u2013Do not return unused reagent to the original container to avoid contamination.\u2013Do not leave containers and bottles open for extended periods of time.  Close caps and lids tightly when not in use.\u2013Always return chemicals where you found them when you are finished.",
+  "explanation": "This slide sets rules for handling chemicals safely. All chemicals must be treated as dangerous; tasting, touching, or smelling them is forbidden. One must never assume a clear, colorless liquid is water. Beakers and reagent bottles should be carried using two hands to prevent drops and spills, or transported on a cart when available. To avoid contaminating stock chemicals, unused reagents must never be poured back into their original containers. Containers and bottles must not be left open for extended periods; caps and lids should be closed tightly when not in use. Finally, after finishing, chemicals must always be returned to their original designated locations.",
+  "questions": [
+    {
+      "q": "Why is it forbidden to return unused reagent back to its original container?",
+      "opts": [
+        "It wastes chemical reagents",
+        "To avoid contaminating the original chemical source",
+        "It alters the labeling of the bottle",
+        "It is illegal under federal safety laws"
+      ],
+      "a": 1,
+      "exp": "The text states: 'Do not return unused reagent to the original container to avoid contamination.'"
+    },
+    {
+      "q": "What is the rule regarding how to carry reagent bottles and beakers?",
+      "opts": [
+        "Use one hand to keep the other hand free for opening doors",
+        "Carry them close to the face to monitor any reactions",
+        "Carry them with two hands to avoid spilling or dropping them, or use a cart",
+        "Only teachers are allowed to move chemical bottles"
+      ],
+      "a": 2,
+      "exp": "The text states: 'Carry reagent bottles and beakers with two hands to avoid spilling or dropping them, or use a cart when available.'"
+    }
+  ]
+}

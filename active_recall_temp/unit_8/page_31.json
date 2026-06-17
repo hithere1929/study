@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 31,
+  "filename": "Unit_8_2.txt",
+  "section_title": "Population Ecology",
+  "page_num_in_file": 16,
+  "slide_title": "Human Population Growth¨The human population is undergoing exponential growth¤Present size is >8 billion people¨The doubling time of the human population was previously estimated at 35-60 years¤Experts believe it will take longer to reach 12-14 billion, as it would put extreme demands on resources ¨Population Sizen1800         1 Billionn1930         2 Billionn1960         3 Billionn2012         6 Billionn2022         8 Billion",
+  "original_text": "Human Population Growth¨The human population is undergoing exponential growth¤Present size is >8 billion people¨The doubling time of the human population was previously estimated at 35-60 years¤Experts believe it will take longer to reach 12-14 billion, as it would put extreme demands on resources ¨Population Sizen1800         1 Billionn1930         2 Billionn1960         3 Billionn2012         6 Billionn2022         8 Billion",
+  "explanation": "The human population is currently undergoing exponential growth, with the present population size exceeding 8 billion people. Previously, the human population's doubling time was estimated to be between 35 and 60 years. However, experts believe that growth will slow down, and it will take longer to reach a population of 12 to 14 billion, as such sizes would place extreme demands on global resources. The historical progression of human population size is as follows: 1 billion in 1800, 2 billion in 1930, 3 billion in 1960, 6 billion in 2012, and 8 billion in 2022.",
+  "questions": [
+    {
+      "q": "What is the current growth pattern of the global human population?",
+      "opts": [
+        "Stable equilibrium growth",
+        "Exponential growth",
+        "Linear deceleration",
+        "Stepwise decline"
+      ],
+      "a": 1,
+      "exp": "The notes state that 'The human population is undergoing exponential growth.'"
+    },
+    {
+      "q": "According to the historical milestones listed, in what year did the human population reach 6 billion?",
+      "opts": [
+        "1930",
+        "1960",
+        "2012",
+        "2022"
+      ],
+      "a": 2,
+      "exp": "The notes state: '2012 6 Billion'."
+    }
+  ]
+}

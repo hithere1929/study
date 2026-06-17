@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 59,
+  "filename": "Unit_1_4.txt",
+  "section_title": "Microscopy",
+  "page_num_in_file": 9,
+  "slide_title": "The Microscope",
+  "original_text": "\u2013Detectors & Imaging\u2013Device that collects electromagnetic radiation after it has passed through the sample and all of the lenses and displays the final image.\u2013LM:\u2013Eye\u2013Digital camera & Computers",
+  "explanation": "This slide defines a detector as a device that collects electromagnetic radiation after it has passed through the sample and all the lenses, displaying the final image. In Light Microscopy (LM), the detectors can be the human eye or a digital camera connected to computers.",
+  "questions": [
+    {
+      "q": "What is the definition of a detector in microscopy?",
+      "opts": [
+        "The source that generates electromagnetic radiation",
+        "A lens that focuses light onto the specimen",
+        "A device that collects electromagnetic radiation after it has passed through the sample and lenses to display the final image",
+        "A dye used to stain the cell membrane"
+      ],
+      "a": 2,
+      "exp": "The text defines detector as: 'Device that collects electromagnetic radiation after it has passed through the sample and all of the lenses and displays the final image.'"
+    }
+  ]
+}

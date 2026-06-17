@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 9,
+  "filename": "Unit_3_1.txt",
+  "section_title": "Cell Biology",
+  "page_num_in_file": 9,
+  "slide_title": "Size of Cells",
+  "original_text": "Size of Cells\nMost cells too small to be seen with the naked eye\n10-50 μm in diameter\nExcept some nerve cells and human egg cell\nCell size limitedby relationship between surface area and volume(surface area-to-volume ratio)\nDuring cell growth, volumeincreases much fasterthan surface area\nNecessary materials (nutrients & O2) and waste products (CO2) must pass through cell surface\nCell size limited to microscopic level because surface area needs to be sufficientto support needs of cell",
+  "explanation": "Most cells are too small to be seen with the naked eye, typically measuring between 10 to 50 micrometers (μm) in diameter. Notable exceptions include certain long nerve cells and the human egg cell. Cell size is physically limited by the relationship between surface area and volume, known as the surface area-to-volume ratio. As a cell grows, its volume increases much faster than its surface area. Because necessary materials (such as nutrients and oxygen) must enter, and waste products (such as carbon dioxide) must exit through the cell's surface membrane, the surface area must be large enough to support the metabolic needs of the cell's volume, keeping cell size microscopic.",
+  "questions": [
+    {
+      "q": "What is the typical diameter range for most cells?",
+      "opts": [
+        "1-5 micrometers (μm)",
+        "10-50 micrometers (μm)",
+        "100-500 micrometers (μm)",
+        "1-2 millimeters (mm)"
+      ],
+      "a": 1,
+      "exp": "The slide states that most cells are 10-50 μm in diameter."
+    },
+    {
+      "q": "Why does the surface area-to-volume ratio limit cell size as a cell grows?",
+      "opts": [
+        "Volume increases much faster than surface area, leaving insufficient surface area to transport nutrients and wastes for the cell's volume.",
+        "Surface area increases faster than volume, causing the cell membrane to rupture.",
+        "The control center runs out of DNA to manage a larger surface area.",
+        "Gravity pulls harder on larger surface areas, destabilizing the cell structure."
+      ],
+      "a": 0,
+      "exp": "During cell growth, volume increases much faster than surface area. Because nutrients and wastes must pass through the surface, cells must remain microscopic to ensure the surface area is sufficient to support the cell's volume."
+    }
+  ]
+}

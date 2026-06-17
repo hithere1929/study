@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 42,
+  "filename": "Unit_8_3.txt",
+  "section_title": "Community & Ecosystem Ecology",
+  "page_num_in_file": 8,
+  "slide_title": "Ecology of Communities¨Symbiotic Relationships¤CommensalismnA symbiotic relationship in which one species benefits and the other is neither benefited nor harmednClownfish living within tentacles of sea anemonesnMany supposed examples may turn out to be mutualism or parasitism¤MutualismnA symbiotic relationship in which both members of the association benefitnNeed not be equally beneficial to both speciesnCleaning symbiosisnOften help each other obtain food or avoid predationnBacteria in human intestinal tract",
+  "original_text": "Ecology of Communities¨Symbiotic Relationships¤CommensalismnA symbiotic relationship in which one species benefits and the other is neither benefited nor harmednClownfish living within tentacles of sea anemonesnMany supposed examples may turn out to be mutualism or parasitism¤MutualismnA symbiotic relationship in which both members of the association benefitnNeed not be equally beneficial to both speciesnCleaning symbiosisnOften help each other obtain food or avoid predationnBacteria in human intestinal tract",
+  "explanation": "This slide distinguishes commensalism and mutualism. Commensalism is a symbiotic relationship where one species benefits while the other is unaffected (neither helped nor harmed), such as clownfish living safely inside the stinging tentacles of sea anemones. However, researchers note that many relationships thought to be commensal may actually be mutualistic or parasitic upon closer inspection. Mutualism is a relationship where both species benefit. It does not have to be equally beneficial to both. Examples of mutualism include cleaning symbioses (where one organism cleans parasites off another), partnerships that help obtain food or avoid predation, and beneficial bacteria living in the human intestinal tract.",
+  "questions": [
+    {
+      "q": "What is mutualism?",
+      "opts": [
+        "A relationship where one species benefits and the other is harmed",
+        "A symbiotic relationship in which both members of the association benefit",
+        "A relationship where one species benefits and the other is unaffected",
+        "A competition between two species occupying the same niche"
+      ],
+      "a": 1,
+      "exp": "The notes define mutualism as 'A symbiotic relationship in which both members of the association benefit.'"
+    },
+    {
+      "q": "Which of the following is given as an example of commensalism, with the caveat that it might actually be mutualism or parasitism?",
+      "opts": [
+        "Heartworms inside a dog's heart",
+        "Bacteria inside the human intestinal tract",
+        "Clownfish living within tentacles of sea anemones",
+        "Leeches feeding on a host"
+      ],
+      "a": 2,
+      "exp": "The notes present 'Clownfish living within tentacles of sea anemones' as an example of commensalism, and add that 'Many supposed examples may turn out to be mutualism or parasitism.'"
+    }
+  ]
+}

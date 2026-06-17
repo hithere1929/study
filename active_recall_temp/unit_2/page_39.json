@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 39,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 3,
+  "slide_title": "Organic vs. Inorganic Compounds",
+  "original_text": "Organic vs. Inorganic Compounds¨All compounds fall into 2 broad categories¤Organic¤Inorganic¨Organic compounds: made primarily of carbon atoms¤Most matter in living organisms consists of organic compounds¨Inorganic compounds: generally do not contain carbon",
+  "explanation": "All chemical compounds can be classified into two broad categories: organic compounds and inorganic compounds. Organic compounds are characterized by being made primarily of carbon atoms, and they constitute most of the matter found in living organisms. In contrast, inorganic compounds generally do not contain carbon atoms.",
+  "questions": [
+    {
+      "q": "What is the primary defining characteristic of an organic compound?",
+      "opts": [
+        "It is always a liquid.",
+        "It is made primarily of carbon atoms.",
+        "It cannot contain hydrogen atoms.",
+        "It is only found in non-living matter."
+      ],
+      "a": 1,
+      "exp": "Organic compounds are defined as compounds that are made primarily of carbon atoms."
+    },
+    {
+      "q": "How do inorganic compounds differ from organic compounds?",
+      "opts": [
+        "They are larger and more complex.",
+        "They generally do not contain carbon atoms.",
+        "They are only formed via covalent bonds.",
+        "They can only exist in gaseous form."
+      ],
+      "a": 1,
+      "exp": "Inorganic compounds generally do not contain carbon, whereas organic compounds are built around carbon."
+    }
+  ]
+}

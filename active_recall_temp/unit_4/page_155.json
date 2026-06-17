@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 155,
+  "filename": "Unit_4_8.txt",
+  "section_title": "Mendelian Inheritance P1 - Mendelian Genetics",
+  "page_num_in_file": 10,
+  "slide_title": "Mendel’s Monohybrid Cross",
+  "original_text": "Mendel’s Monohybrid Cross",
+  "explanation": "This slide represents a visual representation or further detail of Mendel's monohybrid cross, in which parental plants of differing traits (like tall vs. short) are crossed to study the segregation of a single gene.",
+  "questions": [
+    {
+      "q": "In Mendel's monohybrid cross of tall and short pea plants, what trait was typically observed in all F1 offspring?",
+      "opts": [
+        "Medium height",
+        "The recessive trait (short)",
+        "The dominant trait (tall)",
+        "No trait (lethal)"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the dominant trait (tall) masks the recessive trait (short) in the F1 heterozygous generation."
+    }
+  ]
+}

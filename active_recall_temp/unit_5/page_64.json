@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 64,
+  "filename": "Unit_5_3.txt",
+  "section_title": "Speciation & Macroevolution",
+  "page_num_in_file": 15,
+  "slide_title": "Modes of Speciation",
+  "original_text": "Modes of Speciation\n\u00a8Convergent Evolution\n\u00a4Occurs when a similar biological trait evolves in two unrelated species as a result of exposure to similar environments.\n\u00a4Traits evolving in this manner are termed analogous traits.\n\u00a4Similar function, but different origin\n  nbird wing vs. bat wing\n  nChichlidsin 2 African lakes\n    nMore closely related to species in own lake than morphological similar from other lake",
+  "explanation": "Convergent Evolution occurs when similar biological traits evolve independently in two unrelated species due to exposure to similar environmental selection pressures. These traits are called analogous traits: they have a similar function but different evolutionary origins (for example, the wings of a bird and a bat, which are structurally different but both adapted for flight). Another example is cichlid fish in two separate African lakes; species in the different lakes look morphologically similar due to similar niches, but genetic analysis shows they are more closely related to species in their own lake than to their look-alikes in the other lake.",
+  "questions": [
+    {
+      "q": "What are analogous traits?",
+      "opts": [
+        "Traits that share a similar evolutionary origin and structure but have different functions",
+        "Traits that have a similar function but different evolutionary origins, arising from convergent evolution",
+        "Traits that are inherited directly from a recent common ancestor",
+        "Traits that only occur in polyploid plants"
+      ],
+      "a": 1,
+      "exp": "Analogous traits (like bird wings vs. bat wings) share a similar function because they evolved to solve similar environmental challenges, but they do not share a common structural origin."
+    },
+    {
+      "q": "Why do cichlid fish in two different African lakes provide an example of convergent evolution?",
+      "opts": [
+        "They can interbreed freely across the lakes.",
+        "They look morphologically similar due to similar environments, but genetically they are more closely related to fish in their own lake.",
+        "They are identical species that migrated from a single source population.",
+        "They evolved from a common ancestor via allopatric speciation."
+      ],
+      "a": 1,
+      "exp": "Even though cichlids in the two lakes resemble each other morphologically due to adapting to similar niches, they are genetically distinct and more closely related to different species in their respective lakes."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 101,
+  "filename": "Unit_8_6.txt",
+  "section_title": "Major Ecosystems of the Biosphere",
+  "page_num_in_file": 10,
+  "slide_title": "Terrestrial Ecosystems¨Tropical Forests¤Tropical rainforests are found in equatorial regionsnWarm weather and plentiful rainfallnComplex structure with forest floor, understory, and canopynMost animals live in treesnAbundant insect lifenEpiphytes grow in many areasnPlants that grow on other plantsnSoils are nutrient-poornRapid recycling of nutrients",
+  "original_text": "Terrestrial Ecosystems¨Tropical Forests¤Tropical rainforests are found in equatorial regionsnWarm weather and plentiful rainfallnComplex structure with forest floor, understory, and canopynMost animals live in treesnAbundant insect lifenEpiphytes grow in many areasnPlants that grow on other plantsnSoils are nutrient-poornRapid recycling of nutrients",
+  "explanation": "Tropical rainforests are located in equatorial regions characterized by warm weather and plentiful, year-round rainfall. They possess a complex vertical structure divided into the forest floor, understory, and a dense canopy. Most animals here live in the tree canopy, and insect life is exceptionally abundant. Epiphytes—plants that grow physically on top of other plants rather than in the soil—are common. Although the vegetation is highly lush, the soils are nutrient-poor because nutrients are rapidly recycled and reabsorbed by the dense plant life.",
+  "questions": [
+    {
+      "q": "Why are the soils of tropical rainforests nutrient-poor?",
+      "opts": [
+        "Because there are no decomposers in equatorial regions.",
+        "Because of the rapid recycling and absorption of nutrients by dense vegetation.",
+        "Because acidic water from peat deposits leaches all the minerals.",
+        "Because the soil is permanently frozen under a layer of permafrost."
+      ],
+      "a": 1,
+      "exp": "The notes state that tropical rainforest 'Soils are nutrient-poor' due to the 'Rapid recycling of nutrients.'"
+    },
+    {
+      "q": "What are epiphytes?",
+      "opts": [
+        "Parasitic insects that feed on tree bark",
+        "Plants that grow on other plants rather than in the soil",
+        "Burrowing rodents adapted to tropical soils",
+        "Fungi that cause eutrophication in forest lakes"
+      ],
+      "a": 1,
+      "exp": "The notes define epiphytes as 'Plants that grow on other plants.'"
+    }
+  ]
+}

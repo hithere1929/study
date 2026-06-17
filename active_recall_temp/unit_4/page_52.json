@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 52,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 1,
+  "slide_title": "UNIT 4: MOLECULAR GENETICS4.4 –GENE EXPRESSIONBiology 9        Mr. QueenanCh. 14.3 (p. 451-456)",
+  "original_text": "UNIT 4: MOLECULAR GENETICS4.4 –GENE EXPRESSIONBiology 9        Mr. QueenanCh. 14.3 (p. 451-456)",
+  "explanation": "This is the title page for Section 4.4 of Unit 4: Molecular Genetics, titled 'Gene Expression.' It corresponds to Chapter 14.3 (pages 451-456) of the Biology 9 course with Mr. Queenan.",
+  "questions": [
+    {
+      "q": "What is the main title of Section 4.4?",
+      "opts": [
+        "DNA Structure",
+        "DNA Replication",
+        "Gene Expression",
+        "Historical Basis"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide lists the title as '4.4 - GENE EXPRESSION.' Other options are incorrect."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 112,
+  "filename": "Unit_3_5.txt",
+  "section_title": "Stem Cells & Cancer",
+  "page_num_in_file": 18,
+  "slide_title": "Cell Cycle Regulation and Cancer",
+  "original_text": "Cell Cycle Regulation and Cancer",
+  "explanation": "This page serves as a final transition or summary slide for Cell Cycle Regulation and Cancer.",
+  "questions": [
+    {
+      "q": "What is the title of the slide shown on this page?",
+      "opts": [
+        "Cell Cycle Regulation and Cancer",
+        "Proto-oncogene Mutations",
+        "p53 Mechanisms",
+        "Pluripotent Differentiation"
+      ],
+      "a": 0,
+      "exp": "The slide is titled 'Cell Cycle Regulation and Cancer'."
+    }
+  ]
+}

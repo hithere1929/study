@@ -1,0 +1,27 @@
+{
+  "id": "u5_t1",
+  "title": "Evidence for Evolution",
+  "cheat_card": [
+    "<b>Fossil Evidence & Transitional Forms</b>: Fossils document the historical succession of life from simple to complex; <i>transitional fossils</i> represent a common ancestor between two distinct groups, tracing evolutionary lineage.",
+    "<b>Biogeographical Evidence</b>: The study of the geographic distribution of life forms (like Darwin's <i>Patagonian cavy</i> vs. rabbits) shows that related organisms evolve in one locale and spread to accessible regions.",
+    "<b>Anatomical & Embryological Homology</b>: <i>Homologous structures</i> (e.g., vertebrate forelimbs) share the same bone organization due to common descent, even if modified for different functions. During embryological development, all vertebrates share a <i>postanal tail</i> and <i>paired pharyngeal (gill) pouches</i>.",
+    "<b>Biochemical Homology</b>: All living organisms utilize the <i>same DNA triplet code</i> and the <i>same 20 amino acids</i> for proteins; fewer DNA sequence differences indicate a more recent common ancestor.",
+    "<b>Developmental Hox Genes</b>: <i>Hox genes</i> are regulatory genes that orchestrate the developmental body plan of all animals; differences in their activation and quantity explain the diversity of animal body plans."
+  ],
+  "memory_anchor": "### Lines of Evidence for Evolution\n\n| Category | Key Slide Detail / Mechanism | Class Example |\n| :--- | :--- | :--- |\n| **Fossil Record** | Transitional fossils link two distinct groups | Common ancestors showing descent |\n| **Biogeography** | Related forms evolve in one locale & spread | Patagonian cavy (guinea pig face, rabbit legs) |\n| **Anatomical** | Homologous structures share organized bone layout | Vertebrate forelimbs |\n| **Embryological** | Shared embryonic structures in all vertebrates | Postanal tail & pharyngeal (gill) pouches |\n| **Biochemical** | Universal molecular triplet code & amino acids | DNA base-sequence similarity |\n| **Developmental** | Regulatory genes control body plans | **Hox genes** activation |",
+  "flashcards": [
+    {
+      "q": "How do homologous structures differ from analogous structures, and what do homologous structures indicate about ancestry?",
+      "a": "Homologous structures share the same organized arrangement of bones due to inheritance from a common ancestor, even though they may be modified for different functions (e.g., vertebrate forelimbs). Analogous structures share similar functions due to similar environmental pressures but do not share a common ancestry."
+    },
+    {
+      "q": "What two embryological features are shared by all vertebrate embryos during development, supporting the hypothesis of common descent?",
+      "a": "All vertebrate embryos possess a postanal tail and paired pharyngeal (gill) pouches during their developmental stages."
+    },
+    {
+      "q": "What role do Hox genes play in animal development, and how do they contribute to evolutionary diversity?",
+      "a": "Hox genes are regulatory genes that orchestrate the body plan in all animals. Diversity in body plans arises from differences in the number and variety of Hox genes, as well as when these genes are activated during development."
+    }
+  ],
+  "outline_blanks": "Evidence for common descent includes [[homologous structures]] like vertebrate forelimbs, which share similar bone organization. Additionally, all vertebrate embryos share developmental features such as a postanal tail and [[pharyngeal pouches]]. At the molecular level, all life is unified by using the same DNA triplet code, 20 amino acids, and regulatory [[Hox genes]] that orchestrate animal body plans."
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 27,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 12,
+  "slide_title": "Ribosomes",
+  "original_text": "Ribosomes\nSmall, roughly spherical organelles responsible for building proteins (protein synthesis)\nDo not have a membrane; composed of protein& RNAmolecules\nAssembly of ribosomes begins in nucleolusand is completed in cytoplasm\nOne small sub-unit and one large sub-unit come together to make a functioning ribosome \n2 types of ribosomes:\nFree–free-floating within the cytosol\nAttached–attached to the endoplasmic reticulum\nAttach to ER when signal peptide being synthesized recognized by signal recognition particle and carried to ER to complete synthesis.",
+  "explanation": "Ribosomes are small, spherical organelles responsible for protein synthesis (building proteins). They lack a membrane and are composed entirely of protein and RNA molecules. Ribosomal assembly begins in the nucleolus and finishes in the cytoplasm, where one small subunit and one large subunit unite to form a functioning ribosome. Ribosomes exist in two states: 'free' ribosomes float freely in the cytosol, while 'attached' ribosomes are bound to the endoplasmic reticulum. Ribosomes attach to the ER when a signal peptide being synthesized is recognized by a signal recognition particle and guided to the ER membrane.",
+  "questions": [
+    {
+      "q": "Which of the following is true about ribosomes?",
+      "opts": [
+        "They are surrounded by a double membrane.",
+        "They consist of protein and RNA molecules and lack a membrane.",
+        "They are assembled entirely within the lysosome.",
+        "They only exist as free-floating structures in the cytoplasm."
+      ],
+      "a": 1,
+      "exp": "The slide states that ribosomes do not have a membrane and are composed of protein and RNA molecules."
+    },
+    {
+      "q": "How do attached ribosomes bind to the endoplasmic reticulum?",
+      "opts": [
+        "By fusing their membranes with the ER.",
+        "When a signal recognition particle recognizes a synthesizing signal peptide and carries it to the ER.",
+        "Through nuclear pores that attach them directly.",
+        "By using cholesterol molecules as anchors."
+      ],
+      "a": 1,
+      "exp": "Ribosomes attach to the ER when a signal peptide being synthesized is recognized by a signal recognition particle and carried to the ER."
+    }
+  ]
+}

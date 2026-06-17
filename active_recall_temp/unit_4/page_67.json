@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 67,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 16,
+  "slide_title": "1) Chromatin Structure Regulation¨Epigenetic Inheritance¤Variations in a pattern of inheritance not due to the DNA but instead, due to methylationnHistones for a gene get methylated, and as a result, DNA itself becomes methylated as wellnStops expression of that DNA¨Genomic Imprinting¤Process of mother or father’s genes (but not both) being methylated during gamete formation. ¤If inherited allele for a gene is methylated, it is not expressed unless an unmethylated version is inherited from the second parent¤Genes are normal in all regards except for methylation",
+  "original_text": "1) Chromatin Structure Regulation¨Epigenetic Inheritance¤Variations in a pattern of inheritance not due to the DNA but instead, due to methylationnHistones for a gene get methylated, and as a result, DNA itself becomes methylated as wellnStops expression of that DNA¨Genomic Imprinting¤Process of mother or father’s genes (but not both) being methylated during gamete formation. ¤If inherited allele for a gene is methylated, it is not expressed unless an unmethylated version is inherited from the second parent¤Genes are normal in all regards except for methylation",
+  "explanation": "Epigenetic inheritance refers to variations in inheritance patterns that are not caused by changes in the underlying DNA sequence, but rather by chemical modifications such as methylation. Specifically, when histone proteins associated with a gene become methylated, the DNA itself can also undergo methylation, which acts to silence gene expression. A specific form of epigenetic regulation is genomic imprinting, which is the process where alleles from either the mother or the father (but not both) are methylated during gamete formation. If an inherited allele is methylated, it is transcriptionally silenced. The gene itself is completely normal in sequence, but its expression is blocked solely due to this methylation imprint.",
+  "questions": [
+    {
+      "q": "What is 'epigenetic inheritance'?",
+      "opts": [
+        "Inheritance patterns determined by alterations in the nucleotide sequence of DNA.",
+        "Inheritance patterns determined by chemical modifications like methylation rather than DNA sequence changes.",
+        "The inheritance of acquired physical characteristics like muscle mass.",
+        "Inheritance that occurs exclusively through mitochondrial DNA."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide defines epigenetic inheritance as 'Variations in a pattern of inheritance not due to the DNA but instead, due to methylation.' Option A describes classical Mendelian/genetic inheritance. Options C and D are incorrect."
+    },
+    {
+      "q": "What is 'genomic imprinting'?",
+      "opts": [
+        "The process by which both parental alleles are deleted during fertilization.",
+        "The process of mother or father's genes (but not both) being methylated during gamete formation, silencing their expression.",
+        "The copying of DNA sequences from parent to offspring.",
+        "The physical attachment of chromosomes to the spindle fibers."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide defines genomic imprinting as: 'Process of mother or father’s genes (but not both) being methylated during gamete formation' and notes that if the allele is methylated it is not expressed. Options A, C, and D are incorrect."
+    }
+  ]
+}

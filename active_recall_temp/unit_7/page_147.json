@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 147,
+  "filename": "Unit_7_8.txt",
+  "section_title": "Nervous System",
+  "page_num_in_file": 9,
+  "slide_title": "Nervous Tissue: Propagation of Action Potentials",
+  "original_text": "Nervous Tissue Propagation of Action Potentials In nonmyelinated axons, the action potential travels down an axon one small section at a time In myelinated fibers, an action potential at one node causes an action potential at the next node Saltatory (jumping) Conduction Conduction of a nerve impulse is an all-or-nothing event Intensity of signal is determined by how many impulses are generated within a given time span Once an action potential has moved on, the previous section goes through a refractory period, where Na+channels are unable to open Action Potential Short Video",
+  "explanation": "Action potential propagation depends on axon myelination: 1) Nonmyelinated axons: the action potential travels continuously, depolarizing one small adjacent section at a time. 2) Myelinated axons: the action potential jumps from one node to the next, a process called saltatory (jumping) conduction. 3) General principles: Conduction is an all-or-nothing event. Signal intensity is determined by the frequency of impulses (how many are generated per unit time), not the size of the potential. As the impulse propagates, the preceding membrane segment undergoes a refractory period during which its sodium ($Na^+$) channels are inactivated, preventing backward propagation.",
+  "questions": [
+    {
+      "q": "What is saltatory conduction?",
+      "opts": [
+        "The movement of sodium through the sodium-potassium pump",
+        "The jumping of an action potential from node to node along a myelinated axon",
+        "The continuous depolarization of a nonmyelinated axon",
+        "The release of neurotransmitters into the synaptic cleft"
+      ],
+      "a": 1,
+      "exp": "Saltatory conduction is the rapid, jumping propagation of action potentials along myelinated axons from one node of Ranvier to the next."
+    },
+    {
+      "q": "Why does an action potential only propagate in one direction down an axon?",
+      "opts": [
+        "The myelin sheath blocks backward flow.",
+        "The previous section of axon is in a refractory period where its sodium channels cannot open.",
+        "Dendrites actively repel incoming electrical charges.",
+        "The sodium-potassium pump only runs in one direction."
+      ],
+      "a": 1,
+      "exp": "During the refractory period, sodium channels are temporarily inactivated, ensuring that the action potential cannot travel back toward the cell body."
+    }
+  ]
+}

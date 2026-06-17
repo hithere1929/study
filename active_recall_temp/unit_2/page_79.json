@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 79,
+  "filename": "Unit_2_3.txt",
+  "section_title": "Movement of Molecules",
+  "page_num_in_file": 5,
+  "slide_title": "Membrane Bound Carbohydrates",
+  "original_text": "Membrane Bound Carbohydrates¨Glycoproteins and glycolipids¤Phospholipids or proteins that have a sugar chain attached¤Carbohydrate chains only occur on the outside surface of cell, making cell membrane “asymmetrical”¤Main purpose of these molecules:\nnCell-to-cell adhesion\nnReception off signaling molecules\nnCell-to-cell signaling¤Diversity of carbohydrate chains leads to cellular “fingerprints\"",
+  "explanation": "Membrane-bound carbohydrates exist as glycoproteins (proteins with an attached sugar chain) and glycolipids (phospholipids with an attached sugar chain). These carbohydrate chains are located exclusively on the outer surface of the cell, which makes the cell membrane structurally asymmetrical. The primary functions of glycolipids and glycoproteins are to mediate cell-to-cell adhesion, serve in the reception of signaling molecules, and facilitate cell-to-cell signaling. The high diversity of these carbohydrate chains creates unique cellular 'fingerprints' that help identify cell types.",
+  "questions": [
+    {
+      "q": "Why is the cell membrane considered 'asymmetrical' regarding its carbohydrate chains?",
+      "opts": [
+        "Carbohydrates are only found on the inside surface of the cell membrane.",
+        "Carbohydrates only occur on the outside surface of the cell membrane.",
+        "The chains are of different lengths on each side.",
+        "Carbohydrates are only attached to proteins, never lipids."
+      ],
+      "a": 1,
+      "exp": "Carbohydrate chains only occur on the outside surface of the cell, resulting in an asymmetrical membrane structure."
+    },
+    {
+      "q": "What are the primary functions of glycoproteins and glycolipids?",
+      "opts": [
+        "To act as enzymes and synthesize ATP.",
+        "To serve as genetic templates and replication sites.",
+        "Cell-to-cell adhesion, cell-to-cell signaling, and reception of signaling molecules.",
+        "To store carbon and energy in the cell membrane."
+      ],
+      "a": 2,
+      "exp": "The main functions of membrane carbohydrates are cell adhesion, signaling, and serving as receptors for signal molecules."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 88,
+  "filename": "Unit_7_5.txt",
+  "section_title": "Animal Organization",
+  "page_num_in_file": 15,
+  "slide_title": "The Integumentary System: Epidermis, Dermis & Subcutaneous Layer",
+  "original_text": "The Integumentary System Epidermis Stratified squamous epithelium New cells are pushed outward, become keratinized, and are sloughed off Melanocytes produce melanin(pigment) UV radiation can cause mutations in the DNA of skin cells, leading to skin cancer. Dermis Deeper and thicker than epidermis Fibrous connective tissue containing elastic and collagen fibers contains: Receptors, Nerve fibers, Blood vessels Subcutaneous Layer -Loose, connective tissue located below dermis",
+  "explanation": "This slide details the three layers of the skin: 1) Epidermis: the outermost layer, composed of stratified squamous epithelium. Cells produced at the bottom are pushed outward, accumulate the tough protein keratin (keratinization), die, and eventually slough off. It contains melanocytes that produce the pigment melanin. UV radiation can damage epidermal DNA, causing mutations that lead to skin cancer. 2) Dermis: a deeper, thicker layer composed of fibrous connective tissue rich in collagen and elastic fibers. It contains sensory receptors, nerve fibers, and blood vessels. 3) Subcutaneous layer (hypodermis): located beneath the dermis, composed of loose connective tissue.",
+  "questions": [
+    {
+      "q": "What type of tissue makes up the epidermis?",
+      "opts": [
+        "Simple columnar epithelium",
+        "Stratified squamous epithelium",
+        "Loose fibrous connective tissue",
+        "Dense fibrous connective tissue"
+      ],
+      "a": 1,
+      "exp": "The epidermis is composed of stratified squamous epithelium, consisting of multiple layers of flattened cells."
+    },
+    {
+      "q": "How does the dermis differ from the epidermis in structure and composition?",
+      "opts": [
+        "The dermis is thin and contains keratinized cells; the epidermis is thick and contains blood vessels.",
+        "The dermis is a deeper, thicker layer composed of fibrous connective tissue with elastic and collagen fibers, blood vessels, and nerves.",
+        "The dermis is composed of stratified squamous cells, whereas the epidermis is composed of osteocytes.",
+        "The dermis lacks a blood supply, while the epidermis is highly vascular."
+      ],
+      "a": 1,
+      "exp": "The dermis is thicker than the epidermis, consisting of fibrous connective tissue with collagen and elastic fibers, nerves, sensory receptors, and blood vessels. The epidermis is epithelial and avascular."
+    },
+    {
+      "q": "Which cells in the epidermis produce the pigment that helps protect skin from UV radiation?",
+      "opts": [
+        "Fibroblasts",
+        "Chondrocytes",
+        "Melanocytes",
+        "Osteocytes"
+      ],
+      "a": 2,
+      "exp": "Melanocytes produce the pigment melanin, which absorbs UV radiation and helps protect skin cells from DNA mutations."
+    }
+  ]
+}

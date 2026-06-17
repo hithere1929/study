@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 5,
+  "filename": "Unit_7_1.txt",
+  "section_title": "Plant Structure & Organization",
+  "page_num_in_file": 5,
+  "slide_title": "Organs of Flowering Plants: Leaves",
+  "original_text": "Organs of Flowering Plants Leaves Major part of the plant that carries on photosynthesis Foliage leaves are usually broad and thin Blade-Wide portion of foliage leaf Petiole-Stalk attaching blade to stem Leaf Axil -Upper acute angle between petiole and stem where the axillary bud is found Tendrils-Leaves that attach to objects Bulbs-Leaves that store food \n Plants either categorized as monocots or eudicots (as described in Unit 6.5)",
+  "explanation": "Leaves are the principal photosynthetic organs of plants. Typically broad and thin to optimize light capture, foliage leaves have two main parts: the wide blade and the petiole (the stalk that joins the blade to the stem). The upper acute angle between the petiole and stem is the leaf axil, where the axillary bud resides. Leaves can be modified for specialized tasks, such as tendrils (leaves that wrap around objects for support) and bulbs (leaves adapted for food storage). Additionally, flowering plants are broadly classified into monocots or eudicots.",
+  "questions": [
+    {
+      "q": "What is the name of the stalk that connects the leaf blade to the stem?",
+      "opts": [
+        "Petiole",
+        "Axil",
+        "Tendril",
+        "Internode"
+      ],
+      "a": 0,
+      "exp": "The petiole is the stalk that attaches the leaf blade to the stem. The blade is the wide portion of the leaf."
+    },
+    {
+      "q": "Which leaf modification is correctly paired with its function?",
+      "opts": [
+        "Tendrils – Food storage",
+        "Bulbs – Attachment to objects",
+        "Tendrils – Attachment to objects",
+        "Petiole – Photosynthesis"
+      ],
+      "a": 2,
+      "exp": "Tendrils are leaves modified to attach to objects, whereas bulbs are leaves modified to store food."
+    }
+  ]
+}

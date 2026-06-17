@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 6,
+  "filename": "Unit_1_1.txt",
+  "section_title": "Lab Safety",
+  "page_num_in_file": 6,
+  "slide_title": "Basic Lab Safety",
+  "original_text": "Basic Lab Safety",
+  "explanation": "This page is titled 'Basic Lab Safety' and does not contain additional text details, serving as a structural divider or placeholder within the laboratory safety guidelines.",
+  "questions": [
+    {
+      "q": "What is the heading of Unit 1, page 6 in the Lab Safety section?",
+      "opts": [
+        "Chemical Safety",
+        "Basic Lab Safety",
+        "Emergency Procedures",
+        "Dressing for the Lab"
+      ],
+      "a": 1,
+      "exp": "The page title and content is simply 'Basic Lab Safety'."
+    }
+  ]
+}

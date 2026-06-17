@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 3,
+  "filename": "Unit_3_1.txt",
+  "section_title": "Cell Biology",
+  "page_num_in_file": 3,
+  "slide_title": "Section 1: The History of Cell Biology",
+  "original_text": "Section 1: The History of Cell Biology",
+  "explanation": "This is a transition slide marking the beginning of Section 1: The History of Cell Biology.",
+  "questions": [
+    {
+      "q": "What is the title of Section 1 introduced on this page?",
+      "opts": [
+        "The Structures of Cells",
+        "The History of Cell Biology",
+        "Cell Division and Reproduction",
+        "Cellular Energy and Respiration"
+      ],
+      "a": 1,
+      "exp": "The page serves as the section title slide for 'Section 1: The History of Cell Biology'."
+    }
+  ]
+}

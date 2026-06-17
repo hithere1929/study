@@ -1,0 +1,23 @@
+{
+  "unit": 7,
+  "page": 66,
+  "filename": "Unit_7_4.txt",
+  "section_title": "Plant Reproduction",
+  "page_num_in_file": 12,
+  "slide_title": "Seed Development: Monocots vs. Eudicots",
+  "original_text": "Seed Development Monocot and eudicot structures differ slightly , especially regarding how nutrients are stored in the seed. In monocots, cotyledon store nutrients and also absorb other molecules from the endosperm See below, endosperm disappears in the corn kernal In eudicots, cotyledon stores all nutrients embryo will need",
+  "explanation": "Seed structures in monocots and eudicots differ in nutrient storage. In monocot seeds (e.g., corn), the single cotyledon absorbs nutrients from the endosperm and transfers them to the embryo; the endosperm is present during seed development and is absorbed during germination. In eudicot seeds, the two cotyledons absorb all the nutrients from the endosperm during seed development and store them directly, so the mature seed contains no separate endosperm tissue.",
+  "questions": [
+    {
+      "q": "How is nutrient storage different in eudicot seeds compared to monocot seeds?",
+      "opts": [
+        "Eudicot cotyledons store all the nutrients the embryo needs, whereas monocots rely on the cotyledon absorbing nutrients from a separate endosperm.",
+        "Monocot seeds store all nutrients in the hypocotyl, whereas eudicots store them in the radicle.",
+        "Eudicot seeds retain a large endosperm at maturity, while monocots lack an endosperm entirely.",
+        "Monocot seeds store nutrients in the seed coat, while eudicots store them in the suspensor."
+      ],
+      "a": 0,
+      "exp": "In eudicots, the cotyledons store all the nutrients the embryo will need. In monocots, the cotyledon absorbs nutrients from the endosperm."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 56,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 5,
+  "slide_title": "Prokaryotic Regulation¨Prokaryotic DNA is normally less complex than eukaryotic¤Genes for a certain pathway are all grouped together so that they are transcribed at the same time¤These are termed Structural Genes¨Gene regulation in prokaryotes controlled by repressors, and the entire gene encoding region known as an Operon¨Some operons in always on state unless regulated, and others in always off unless regulated",
+  "original_text": "Prokaryotic Regulation¨Prokaryotic DNA is normally less complex than eukaryotic¤Genes for a certain pathway are all grouped together so that they are transcribed at the same time¤These are termed Structural Genes¨Gene regulation in prokaryotes controlled by repressors, and the entire gene encoding region known as an Operon¨Some operons in always on state unless regulated, and others in always off unless regulated",
+  "explanation": "Prokaryotic DNA is generally less complex than eukaryotic DNA. In prokaryotes, genes that function together in a metabolic pathway are grouped together on the chromosome so they can be transcribed simultaneously into a single mRNA molecule. These grouped genes are known as structural genes. In prokaryotes, gene expression is controlled by DNA-binding proteins called repressors, and the entire functional unit of DNA containing these clustered genes and their regulatory sequences is called an operon. Some operons are default-on (expressed continuously unless specifically turned off by regulation), while others are default-off (not expressed unless specifically turned on).",
+  "questions": [
+    {
+      "q": "What is an 'operon' in prokaryotic genetics?",
+      "opts": [
+        "A protein that replicates circular chromosomes",
+        "The entire gene-encoding region under the control of a single regulatory system",
+        "An organelle that translates mRNA in prokaryotes",
+        "A single-stranded RNA molecule that contains introns"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide defines the operon as 'the entire gene encoding region' controlled by repressors, containing structural genes grouped together. Options A, C, and D are incorrect."
+    },
+    {
+      "q": "What are 'structural genes'?",
+      "opts": [
+        "Genes that only code for chromosomal histone proteins",
+        "Genes that are always mutated during replication",
+        "Genes for a certain pathway that are grouped together so that they are transcribed at the same time",
+        "Genes that exist only in eukaryotic nuclei"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide states: 'Genes for a certain pathway are all grouped together so that they are transcribed at the same time - These are termed Structural Genes.' The other options are incorrect."
+    }
+  ]
+}

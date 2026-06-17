@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 5,
+  "filename": "Unit_3_1.txt",
+  "section_title": "Cell Biology",
+  "page_num_in_file": 5,
+  "slide_title": "Cell Theory",
+  "original_text": "Cell Theory\nSummary of work of Hooke, Leeuwenhoek, Schleiden, Schwann, and Virchow from 16-1900s\n1: All living organisms are composed of one or more cells\n2: Cells are the basic units of structure and function in an organism\n3: Cells come only from the reproduction of existing cells (self-reproducing)",
+  "explanation": "The Cell Theory summarizes the collective work of Hooke, Leeuwenhoek, Schleiden, Schwann, and Virchow spanning from the 1600s to the 1900s. It consists of three main tenets: (1) All living organisms are composed of one or more cells. (2) Cells are the basic units of structure and function in an organism. (3) Cells come only from the reproduction of existing cells (meaning they are self-reproducing).",
+  "questions": [
+    {
+      "q": "Which of the following is NOT one of the three tenets of the Cell Theory?",
+      "opts": [
+        "All living organisms are composed of one or more cells.",
+        "Cells are the basic units of structure and function in an organism.",
+        "Cells come only from the reproduction of existing cells.",
+        "All cells contain a membrane-bound nucleus and organelles."
+      ],
+      "a": 3,
+      "exp": "The three tenets of Cell Theory are that all organisms are composed of cells, cells are the basic units of structure and function, and cells come only from pre-existing cells. The statement that all cells contain a membrane-bound nucleus is false (prokaryotic cells do not) and is not part of the Cell Theory."
+    }
+  ]
+}

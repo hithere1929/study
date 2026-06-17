@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 169,
+  "filename": "Unit_7_9.txt",
+  "section_title": "Sense Organs",
+  "page_num_in_file": 9,
+  "slide_title": "Sense of Vision: Rods & Cones",
+  "original_text": "Sense of Vision Photoreceptors of the Eye Both rods and cones have an outer segment joined to an inner segment by a stalk Pigment molecules are embedded in membrane of the disks in the outer segment Rhodopsin-pigment composed of opsin and retinal, a derivative of vitamin A Rods permit vision in low light Peripheral vision and motion Cones permit vision in bright light Fine detail and color Three different types of cones, each containing a different type of photopigment B (blue), G (green), R (red)",
+  "explanation": "The retina contains rods and cones, which have outer segments with pigment-embedded disks joined to inner segments by a stalk. 1) Rod cells: contain the pigment rhodopsin (opsin protein + vitamin A derivative retinal). Rods permit vision in low light, peripheral vision, and motion detection. 2) Cone cells: operate in bright light to provide high-acuity color vision and fine detail. There are three types of cones, each containing a photopigment sensitive to a different wavelength: Blue (B), Green (G), or Red (R).",
+  "questions": [
+    {
+      "q": "What are the components of the rod photopigment rhodopsin?",
+      "opts": [
+        "Bicarbonate and carbon dioxide",
+        "Opsin protein and retinal (a vitamin A derivative)",
+        "Actin and myosin proteins",
+        "Sebum and melanin"
+      ],
+      "a": 1,
+      "exp": "Rhodopsin is made of the protein opsin bound to retinal, which is derived from vitamin A."
+    },
+    {
+      "q": "Which photoreceptor cell type is responsible for color vision and fine detail in bright light?",
+      "opts": [
+        "Rod cells",
+        "Cone cells",
+        "Bipolar cells",
+        "Ganglion cells"
+      ],
+      "a": 1,
+      "exp": "Cone cells provide sharp, detailed color vision in bright light conditions."
+    },
+    {
+      "q": "What are the three types of cone cells found in the human eye?",
+      "opts": [
+        "Yellow, orange, and purple cones",
+        "Blue, green, and red cones",
+        "Low, medium, and high-frequency cones",
+        "Rod-like, cone-like, and macular cones"
+      ],
+      "a": 1,
+      "exp": "Human color vision is trichromatic, relying on Blue (B), Green (G), and Red (R) cones."
+    }
+  ]
+}

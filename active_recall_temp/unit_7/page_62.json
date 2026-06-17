@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 62,
+  "filename": "Unit_7_4.txt",
+  "section_title": "Plant Reproduction",
+  "page_num_in_file": 8,
+  "slide_title": "Reproductive Strategies: Gametophyte Development",
+  "original_text": "Reproductive Strategies Male Gametophytes Microspores are produced in anthers Each anther has four pollen sacs, each with many microspore mother cells nMicrospore mother cells undergo meiosis to produce microspores nMicrospores undergo mitosis to produce pollen grains Female Gametophyte The ovary contains one or more ovules An ovule has a central mass of parenchyma cells covered by integuments One parenchyma cell enlarges to become a megaspore mother cell The megaspore mother cell undergoes meiosis to produce four haploid megaspores, three of which are nonfunctional The functional megaspore divides mitotically until there are eight nuclei in the female gametophyte The female gametophyte (embryo sac) contains One egg cell associated with two synergidcells One central cell with two polar nuclei Three antipodal cells",
+  "explanation": "This slide describes male and female gametophyte development. 1) Male gametophytes: are produced in the anthers, which contain four pollen sacs. Diploid microspore mother cells in these sacs undergo meiosis to produce haploid microspores, which then undergo mitosis to form pollen grains. 2) Female gametophyte: develops inside the ovary's ovules. The ovule consists of parenchyma cells covered by integuments. One parenchyma cell enlarges to become a diploid megaspore mother cell, which undergoes meiosis to produce four haploid megaspores; three degenerate, leaving one functional megaspore. The functional megaspore undergoes mitosis to produce an 8-nucleate embryo sac containing: one egg cell flanked by two synergid cells, one central cell with two polar nuclei, and three antipodal cells.",
+  "questions": [
+    {
+      "q": "In the development of the female gametophyte, how many haploid megaspores survive to undergo mitosis?",
+      "opts": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "a": 0,
+      "exp": "Meiosis produces four haploid megaspores, but three are nonfunctional (degenerate), leaving only one functional megaspore to undergo mitosis."
+    },
+    {
+      "q": "What cells and nuclei comprise the mature female gametophyte (embryo sac) in flowering plants?",
+      "opts": [
+        "Four microspores and a pollen tube cell",
+        "One egg cell, two synergids, one central cell with two polar nuclei, and three antipodal cells",
+        "Three egg cells, two polar nuclei, and three synergid cells",
+        "A proembryo and a suspensor"
+      ],
+      "a": 1,
+      "exp": "The embryo sac is composed of 8 nuclei organized into: 1 egg cell, 2 synergids, a central cell containing 2 polar nuclei, and 3 antipodal cells."
+    },
+    {
+      "q": "What nuclear division produces the pollen grain from a microspore?",
+      "opts": [
+        "Meiosis",
+        "Mitosis",
+        "Double fertilization",
+        "Binary fission"
+      ],
+      "a": 1,
+      "exp": "Microspores undergo mitosis to produce pollen grains, whereas microspore mother cells undergo meiosis to produce microspores."
+    }
+  ]
+}

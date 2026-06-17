@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 103,
+  "filename": "Unit_7_6.txt",
+  "section_title": "Circulation & Cardiovascular System",
+  "page_num_in_file": 9,
+  "slide_title": "The Human Cardiovascular System: Structure of the Heart",
+  "original_text": "The Human Cardiovascular System Structure of the Heart Septumseparates the heart into left & right sides Each side has two chambers Upper two chambers are the atria Thin-walled Receive blood from circulation Lower two chambers are the ventricles Thick-walled Pump blood away from heart",
+  "explanation": "The human heart is divided internally into left and right halves by a muscular wall called the septum. This complete separation prevents oxygenated and deoxygenated blood from mixing. The heart has four chambers: two upper atria and two lower ventricles. The atria are thin-walled because they only receive blood from systemic or pulmonary circulation and pump it a short distance into the ventricles. The ventricles are thick-walled because they must generate enough pressure to pump blood away from the heart to the lungs or the rest of the body.",
+  "questions": [
+    {
+      "q": "What is the function of the septum in the human heart?",
+      "opts": [
+        "It regulates the rhythm of the heart as a pacemaker.",
+        "It separates the heart into left and right sides to prevent blood mixing.",
+        "It connects the atria directly to the aorta.",
+        "It acts as a valve to prevent backflow into the ventricles."
+      ],
+      "a": 1,
+      "exp": "The septum is a muscular wall that completely separates the left and right sides of the heart, preventing oxygen-poor and oxygen-rich blood from mixing."
+    },
+    {
+      "q": "Why are the walls of the ventricles thicker than the walls of the atria?",
+      "opts": [
+        "The ventricles receive blood from the veins, which is under high pressure.",
+        "The ventricles must generate high pressure to pump blood out of the heart, whereas the atria only receive blood.",
+        "The ventricles contain pacemaker cells that require thick muscle fibers to generate electrical signals.",
+        "The ventricles are exposed to the external thoracic cavity."
+      ],
+      "a": 1,
+      "exp": "Ventricles are thick-walled because they pump blood away from the heart into long vascular pathways under high pressure, while atria are thin-walled as they only receive blood."
+    }
+  ]
+}

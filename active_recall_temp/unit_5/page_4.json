@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 4,
+  "filename": "Unit_5_1.txt",
+  "section_title": "Darwin & Evidence for Evolution",
+  "page_num_in_file": 4,
+  "slide_title": "History of Evolutionary Thought",
+  "original_text": "History of Evolutionary Thought\n¨Prior to Darwin\n¤The view of nature was determined by deep-seated beliefs held to be intractable truths rather than experimentation and observation\n¤Biologists had slowly begun to accept various new ideas of evolution –species change over time\n¨Evolution is the Unifying Principle of Biology\n¤Explains the unity and diversity of life\nnSimilarities between living things reflect recent common ancestors\nnDissimilarities between living things reflect ancient common ancestor",
+  "explanation": "Before Charles Darwin, the prevailing view of the natural world was dictated by deep-seated traditional beliefs accepted as absolute truths, rather than scientific observation and active experimentation. However, biologists gradually began to entertain the idea that species change over time, laying the groundwork for evolutionary theory. Today, evolution is considered the unifying principle of biology because it explains both the unity and diversity of life. The similarities observed among living things point to recent common ancestry, while the dissimilarities point to more ancient common ancestry.",
+  "questions": [
+    {
+      "q": "Prior to Darwin's theories, how was the view of nature primarily established?",
+      "opts": [
+        "Through empirical research and experimentation",
+        "By deep-seated beliefs held to be intractable truths",
+        "Through genetic analysis and sequence alignment",
+        "By comparing the fossil layers in different geological strata"
+      ],
+      "a": 1,
+      "exp": "The notes state that before Darwin, the view of nature was determined by deep-seated beliefs held to be intractable truths, rather than experimentation and observation."
+    },
+    {
+      "q": "Under the evolutionary framework, what do similarities and dissimilarities between organisms signify?",
+      "opts": [
+        "Similarities reflect ancient common ancestors, whereas dissimilarities reflect recent common ancestors.",
+        "Similarities reflect recent common ancestors, whereas dissimilarities reflect ancient common ancestors.",
+        "Similarities are purely accidental, while dissimilarities are caused by environmental changes.",
+        "Similarities and dissimilarities both reflect the same rate of mutation in all lineages."
+      ],
+      "a": 1,
+      "exp": "According to the slide, similarities between living things reflect recent common ancestors, whereas dissimilarities reflect ancient common ancestors."
+    }
+  ]
+}

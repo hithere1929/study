@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 2,
+  "filename": "Unit_4_1.txt",
+  "section_title": "DNA Advances through 20th Century",
+  "page_num_in_file": 2,
+  "slide_title": "How is genetic information passed through generations?",
+  "original_text": "How is genetic information passed through generations?\nUnit Essential Question",
+  "explanation": "This page outlines the Unit Essential Question for Unit 4, which is: 'How is genetic information passed through generations?' This question serves as the core inquiry guiding the studies in Molecular Genetics.",
+  "questions": [
+    {
+      "q": "What is the Unit Essential Question for Unit 4?",
+      "opts": [
+        "How do cells obtain and use energy?",
+        "How is genetic information passed through generations?",
+        "What are the stages of mitosis?",
+        "How do mutations affect protein synthesis?"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide defines the Unit Essential Question as 'How is genetic information passed through generations?' The other options represent other biological questions not listed as this unit's essential question."
+    }
+  ]
+}

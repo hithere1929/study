@@ -1,0 +1,3486 @@
+[
+  {
+    "unit": 6,
+    "page": 1,
+    "filename": "Unit_6_1.txt",
+    "section_title": "Viruses",
+    "page_num_in_file": 1,
+    "slide_title": "Viruses - Visual Page 1",
+    "original_text": "UNIT 6: DIVERSITY OF LIFE FORMS6.1 –VIRUSESBiology 9 Mr. QueenanCh. 21.1 (pg. 682-688)",
+    "explanation": "This is the introductory title page for Unit 6: Diversity of Life Forms, specifically section 6.1 on Viruses, for Biology 9 taught by Mr. Queenan. It covers Chapter 21.1, pages 682 to 688 of the course material.",
+    "questions": [
+      {
+        "q": "Which chapter and page range in the biology course material correspond to Unit 6.1 on Viruses?",
+        "opts": [
+          "Chapter 21.1 (pg. 682-688)",
+          "Chapter 18.2 (pg. 550-562)",
+          "Chapter 22.3 (pg. 710-725)",
+          "Chapter 15.1 (pg. 400-412)"
+        ],
+        "a": 0,
+        "exp": "The title page explicitly states that Unit 6.1 - Viruses corresponds to Chapter 21.1 (pg. 682-688)."
+      }
+    ],
+    "legacy_index": 0
+  },
+  {
+    "unit": 6,
+    "page": 2,
+    "filename": "Unit_6_1.txt",
+    "section_title": "Viruses",
+    "page_num_in_file": 2,
+    "slide_title": "EQ-Does tech help to clarify or confuse classification of diversity?",
+    "original_text": "•EQ-Does tech help to clarify or confuse classification of diversity?•Basic Info and Classification•Viral Structure•Life Cycles•Additional Info\nViruses Outline",
+    "explanation": "This outline slide details the structure of the viruses unit (6.1). It presents the Essential Question (EQ): 'Does tech help to clarify or confuse classification of diversity?' and lists the topics of focus, which include Basic Info and Classification, Viral Structure, Life Cycles, and Additional Info.",
+    "questions": [
+      {
+        "q": "What is the Essential Question (EQ) presented for the unit on viruses?",
+        "opts": [
+          "Does tech help to clarify or confuse classification of diversity?",
+          "Are viruses living organisms or non-living particles?",
+          "How do mutations in viral genomes lead to evolution?",
+          "What classification system is used for eukaryotic viruses?"
+        ],
+        "a": 0,
+        "exp": "The slide explicitly lists 'EQ-Does tech help to clarify or confuse classification of diversity?' as the Essential Question for the section."
+      }
+    ],
+    "legacy_index": 1
+  },
+  {
+    "unit": 6,
+    "page": 3,
+    "filename": "Unit_6_1.txt",
+    "section_title": "Viruses",
+    "page_num_in_file": 3,
+    "slide_title": "Virus Overview",
+    "original_text": "Virus Overview¨Viruses related to a variety of plant, animal, and human disease. ¨Non-cellular construction¨May have DNA or RNA genome¨Able to evolve as a result of mutations¨Require the machinery of the host cell they infect to replicate ¨Not considered living¤Do not have metabolism, cannot respond to stimuli",
+    "explanation": "Viruses are infectious agents associated with a wide variety of diseases in plants, animals, and humans. They feature a non-cellular construction and can possess either a DNA or RNA genome. Because they can acquire mutations, they are able to evolve. However, they are not considered living organisms because they do not have a metabolism and cannot respond to environmental stimuli. To replicate, they must infect a host cell and exploit its cellular machinery.",
+    "questions": [
+      {
+        "q": "Which of the following biological features is NOT characteristic of viruses according to the overview?",
+        "opts": [
+          "Non-cellular construction",
+          "Possession of a DNA or RNA genome",
+          "Ability to replicate independently without a host cell",
+          "Ability to evolve via mutations"
+        ],
+        "a": 2,
+        "exp": "Viruses require the machinery of the host cell they infect in order to replicate; they cannot replicate independently."
+      },
+      {
+        "q": "What primary reasons are given for why viruses are not considered living?",
+        "opts": [
+          "They are too small to be seen with light microscopes and contain RNA.",
+          "They do not have a metabolism and cannot respond to stimuli.",
+          "They lack any genetic material and cannot mutate.",
+          "They are unable to cause disease in plant and animal tissues."
+        ],
+        "a": 1,
+        "exp": "Viruses are not considered living because they lack their own metabolism and cannot respond to external stimuli."
+      }
+    ],
+    "legacy_index": 2
+  },
+  {
+    "unit": 6,
+    "page": 4,
+    "filename": "Unit_6_1.txt",
+    "section_title": "Viruses",
+    "page_num_in_file": 4,
+    "slide_title": "Virus Discovery & Classification",
+    "original_text": "Virus Discovery & Classification¨Louis Pasteur –one of the first to determine objects smaller than bacteria with infectious properties¨Confirmed in mid 20thcentury with electron microscopy¨Classification in 2 parts¤First sorts virus into Groups I –IVnBased on structure of genome (DNA vs RNA, Single vs Double Stranded)¤Second similar to Linnaean classificationnOrder, Family, Genus, Species –No higher levelsnEx –Chickenpox = VaricellovirusZosternSeasonal flu is example of a new strain developing within a single species annually",
+    "explanation": "Louis Pasteur was among the first to hypothesize the existence of infectious agents smaller than bacteria, which was later confirmed in the mid-20th century via electron microscopy. Classification of viruses consists of two parts. The first part categorizes viruses into Groups I through IV based on genome structure (DNA vs RNA, single vs double stranded). The second part uses a hierarchy similar to Linnaean classification (Order, Family, Genus, and Species) but does not include any taxonomic ranks higher than Order. For example, chickenpox is classified as Varicellovirus Zoster, and the seasonal flu is an example of a new strain that develops within a single viral species annually.",
+    "questions": [
+      {
+        "q": "What features determine the grouping of viruses into Groups I through IV?",
+        "opts": [
+          "The shape of the capsid and the size of the envelope",
+          "The structure of the genome (DNA vs RNA, single vs double stranded)",
+          "The species of the host cell they infect",
+          "The method of transmission (airborne, waterborne, etc.)"
+        ],
+        "a": 1,
+        "exp": "The first part of virus classification sorts them into Groups I–IV based on the genome structure, specifically DNA vs RNA and single-stranded vs double-stranded status."
+      },
+      {
+        "q": "Which taxonomic levels are used in the second part of virus classification?",
+        "opts": [
+          "Kingdom, Phylum, Class, Order, Family, Genus, Species",
+          "Domain, Kingdom, Phylum, Class",
+          "Order, Family, Genus, Species only (no higher levels)",
+          "Genus and Species only"
+        ],
+        "a": 2,
+        "exp": "The second part of virus classification uses Order, Family, Genus, and Species, and explicitly states that there are no taxonomic levels higher than Order."
+      },
+      {
+        "q": "What is Varicellovirus Zoster an example of according to the notes?",
+        "opts": [
+          "A bacterial disease resembling a virus",
+          "The virus that causes chickenpox",
+          "A virus that lacks a genome",
+          "A viral strain that develops annually within the seasonal flu"
+        ],
+        "a": 1,
+        "exp": "The notes state: 'Ex – Chickenpox = Varicellovirus Zoster'."
+      }
+    ],
+    "legacy_index": 3
+  },
+  {
+    "unit": 6,
+    "page": 5,
+    "filename": "Unit_6_1.txt",
+    "section_title": "Viruses",
+    "page_num_in_file": 5,
+    "slide_title": "Virus Structure",
+    "original_text": "Virus Structure¨Range from 10-400nm in size¨Categorized by 1) shape, 2) genetic material, & 3) presence /absence of outer envelope\n¨All Viruses contain same basic anatomy otherwise:¤Outer capsid made of protein complexes¤Inner core of nucleic acid –3 to 100’s of genes.¨Viruses with no envelope said to be “Naked”¨Enveloped viruses covered in outer coating made of cell plasma membrane.",
+    "explanation": "Viruses range in size from 10 to 400 nm. They are categorized based on three criteria: shape, genetic material, and the presence or absence of an outer envelope. All viruses possess a common basic anatomy consisting of an outer protein capsid (made of protein complexes) and an inner core of nucleic acid, which contains between 3 to hundreds of genes. Viruses that lack an outer envelope are termed 'naked' viruses. Enveloped viruses feature an outer coating made of cell plasma membrane acquired from the host cell.",
+    "questions": [
+      {
+        "q": "Which of the following is NOT one of the three criteria used to categorize viruses?",
+        "opts": [
+          "Shape",
+          "Genetic material",
+          "Presence or absence of an outer envelope",
+          "Type of host cell metabolism"
+        ],
+        "a": 3,
+        "exp": "Viruses are categorized by shape, genetic material, and the presence/absence of an outer envelope. Host cell metabolism is not one of the criteria."
+      },
+      {
+        "q": "What is the outer coating of an enveloped virus composed of?",
+        "opts": [
+          "A thick peptidoglycan cell wall",
+          "Host cell plasma membrane",
+          "Viral proteins only",
+          "Pure lipid droplets synthesized by the capsid"
+        ],
+        "a": 1,
+        "exp": "The notes state that enveloped viruses are covered in an outer coating made of cell plasma membrane."
+      },
+      {
+        "q": "What is the genetic capacity of a virus's inner core of nucleic acid?",
+        "opts": [
+          "3 to hundreds of genes",
+          "Thousands of genes",
+          "Only 1 to 2 genes",
+          "No genes, only proteins"
+        ],
+        "a": 0,
+        "exp": "The notes specify that the inner core of nucleic acid has '3 to 100’s of genes'."
+      }
+    ],
+    "legacy_index": 4
+  },
+  {
+    "unit": 6,
+    "page": 6,
+    "filename": "Unit_6_1.txt",
+    "section_title": "Viruses",
+    "page_num_in_file": 6,
+    "slide_title": "Virus Structure",
+    "original_text": "Virus Structure\nNotice common components, and differences between different types of virus. Notice the envelope structure around the last example.",
+    "explanation": "This slide focuses on virus structure, asking students to compare different types of viruses, notice their common components, and recognize their structural differences. In particular, it highlights the outer envelope structure present in some viruses.",
+    "questions": [
+      {
+        "q": "What structural feature is highlighted on this slide to be noticed around some viral examples?",
+        "opts": [
+          "A flagellum",
+          "An envelope structure",
+          "A peptidoglycan layer",
+          "A double-membrane nucleus"
+        ],
+        "a": 1,
+        "exp": "The slide text explicitly directs to 'Notice the envelope structure around the last example.'"
+      }
+    ],
+    "legacy_index": 5
+  },
+  {
+    "unit": 6,
+    "page": 7,
+    "filename": "Unit_6_1.txt",
+    "section_title": "Viruses",
+    "page_num_in_file": 7,
+    "slide_title": "Virus Reproduction",
+    "original_text": "Virus Reproduction¨Technically intracellular parasites –Do not contain their own machinery for reproduction¨Gain entry into specific host cell ¤Capsid (or spikes of the envelope) adhere to specific receptor sites on the host cell surface. ¨Viral nucleic acid then enters a cell ¤Viral genome codes for production of protein units in the capsid. Host cell makes the subunits to create new virus particles¨Relies on host cell enzymes, ribosomes, transfer RNA (tRNA), and ATP for its own replication¨Mistakes made in reproduction allow for mutations, and possible viral evolution as a result.",
+    "explanation": "Viruses are obligate intracellular parasites because they lack their own machinery for reproduction. To replicate, they must enter a specific host cell. This entry is initiated when the viral capsid or the spikes of its envelope adhere to specific receptor sites on the host cell surface. After attachment, the viral nucleic acid enters the host cell. The viral genome then directs the host cell to synthesize capsid protein subunits, which assemble into new viral particles. In this process, the virus relies completely on the host cell's enzymes, ribosomes, transfer RNA (tRNA), and ATP. Mistakes made during viral genome replication introduce mutations, which can lead to viral evolution.",
+    "questions": [
+      {
+        "q": "How does a virus gain entry into a specific host cell?",
+        "opts": [
+          "By engulfing the host cell using phagocytosis",
+          "By the adhesion of the capsid or envelope spikes to specific receptor sites on the host cell surface",
+          "By releasing toxic enzymes that digest the entire host membrane",
+          "By utilizing viral active transport proteins powered by viral ATP"
+        ],
+        "a": 1,
+        "exp": "The notes state that the capsid (or spikes of the envelope) adhere to specific receptor sites on the host cell surface to gain entry."
+      },
+      {
+        "q": "Which host cell resources does the virus rely on for its replication?",
+        "opts": [
+          "Host cell enzymes, ribosomes, tRNA, and ATP",
+          "Host cell nucleus, cell wall, and lysosomes",
+          "Host cell vacuoles, chloroplasts, and cytoskeleton",
+          "Host cell DNA polymerase only"
+        ],
+        "a": 0,
+        "exp": "The notes state that the virus 'Relies on host cell enzymes, ribosomes, transfer RNA (tRNA), and ATP for its own replication'."
+      },
+      {
+        "q": "What is the biological consequence of replication errors during viral reproduction?",
+        "opts": [
+          "They prevent the host cell from dividing",
+          "They result in the destruction of the viral genome",
+          "They allow for mutations and potential viral evolution",
+          "They cause the virus to transition into a prokaryote"
+        ],
+        "a": 2,
+        "exp": "The notes indicate that 'Mistakes made in reproduction allow for mutations, and possible viral evolution as a result.'"
+      }
+    ],
+    "legacy_index": 6
+  },
+  {
+    "unit": 6,
+    "page": 8,
+    "filename": "Unit_6_1.txt",
+    "section_title": "Viruses",
+    "page_num_in_file": 8,
+    "slide_title": "Virus Reproduction",
+    "explanation": "Bacteriophages, or phages, are viruses that infect bacterial cells. Viruses replicate using two main types of life cycles: the lytic cycle and the lysogenic cycle. In the lytic cycle, the virus infects the cell, takes control of the host machinery to synthesize new viruses, and bursts the host cell open to release them. The lytic cycle proceeds through five distinct stages: Attachment, Penetration, Biosynthesis, Maturation, and Release. The Ebola virus behaves via a lytic cycle. In the lysogenic cycle, the virus infects the cell but integrates its genetic material into the host genome (integration occurs after penetration). There is no immediate viral proliferation, and the virus can remain dormant for years before potentially entering the lytic cycle. HIV is an example of a lysogenic virus that remains dormant before replicating.",
+    "questions": [
+      {
+        "q": "What is a bacteriophage?",
+        "opts": [
+          "A type of bacterium that infects animal viruses",
+          "A virus that infects bacterial cells",
+          "A photosynthetic prokaryote",
+          "An organelle found inside viruses"
+        ],
+        "a": 1,
+        "exp": "The notes define Bacteriophage ('phage') as 'Viruses that infect bacterial cells'."
+      },
+      {
+        "q": "What are the five steps of the lytic cycle in order?",
+        "opts": [
+          "Attachment, Biosynthesis, Penetration, Maturation, Release",
+          "Attachment, Penetration, Biosynthesis, Maturation, Release",
+          "Penetration, Integration, Biosynthesis, Maturation, Release",
+          "Attachment, Integration, Biosynthesis, Maturation, Release"
+        ],
+        "a": 1,
+        "exp": "The notes list the lytic cycle steps in this order: Attachment, Penetration, Biosynthesis, Maturation, Release."
+      },
+      {
+        "q": "How does the lysogenic cycle differ from the lytic cycle?",
+        "opts": [
+          "The lysogenic cycle does not involve host cell infection",
+          "The lysogenic cycle involves immediate destruction of the host cell",
+          "The lysogenic cycle involves integrating the viral genome into the host's genetic material, allowing it to lay dormant",
+          "The lysogenic cycle does not require host cell machinery for replication"
+        ],
+        "a": 2,
+        "exp": "In the lysogenic cycle, the virus incorporates its genetic material into the host (integration) after penetration and exhibits no immediate proliferation, laying dormant."
+      }
+    ],
+    "legacy_index": 7,
+    "original_text": "Virus Reproduction¨Bacteriophage (“phage”) –Viruses that infect bacterial cells¨Two types of viral life cycles¤Lytic CyclenVirus infects cell, takes over host machinery, bursts cell open to release virusnAttachment, Penetration, Biosynthesis, Maturation, ReleasenEbola Virus ¤Lysogenic cyclenVirus infects cell, but may incorporates its gen. material into host. nIntegration occurs after the penetration stepnNo immediate proliferation; can occur at later time, even years later –may enter lytic cycle at this timenHIV virus is lysogenic –lays dormant until a later time"
+  },
+  {
+    "unit": 6,
+    "page": 9,
+    "filename": "Unit_6_1.txt",
+    "section_title": "Viruses",
+    "page_num_in_file": 9,
+    "slide_title": "Virus Reproduction",
+    "explanation": "When animal viruses infect a cell, they undergo an uncoating process that releases their viral DNA or RNA. The method of viral release depends on the presence of an envelope. Naked viruses (lacking an envelope) typically release new particles by bursting (lysing) the host cell. Enveloped viruses exit via budding: the viral particles migrate to the host cell membrane, form a bud, and exit, wrapping themselves in a portion of the host cell's membrane that has been modified with viral proteins and carbohydrates. Retroviruses are RNA viruses that possess the enzyme reverse transcriptase, which transcribes viral RNA into complementary DNA (cDNA). This cDNA integrates into the host cell's genome and replicates alongside it. The viral DNA is later transcribed to produce new viral particles. HIV and Human T Lymphotropic Virus 1 are examples of retroviruses.",
+    "questions": [
+      {
+        "q": "How are enveloped animal viruses typically released from host cells?",
+        "opts": [
+          "By lytic bursting that immediately destroys the cell",
+          "Through a process called budding, where they exit wrapped in the host cell membrane",
+          "By active transport through protein channels",
+          "By transforming into naked viruses"
+        ],
+        "a": 1,
+        "exp": "The notes state that if the virus is enveloped, budding occurs, where viral particles reach the cell membrane and exit, becoming enveloped in cell membrane."
+      },
+      {
+        "q": "What is the function of the enzyme Reverse Transcriptase in retroviruses?",
+        "opts": [
+          "It replicates host cell DNA directly",
+          "It converts host cell proteins into viral capsid proteins",
+          "It synthesizes cDNA from a viral RNA template",
+          "It breaks down the host cell membrane to allow budding"
+        ],
+        "a": 2,
+        "exp": "Reverse transcriptase carries out RNA to cDNA reverse transcription, allowing the retroviral genome to integrate into the host DNA."
+      },
+      {
+        "q": "Which of the following is an example of a retrovirus mentioned in the text?",
+        "opts": [
+          "Bacteriophage",
+          "Ebola virus",
+          "Human T Lymphotropic Virus 1",
+          "Varicellovirus Zoster"
+        ],
+        "a": 2,
+        "exp": "The notes list HIV and Human T Lymphotropic Virus 1 as examples of retroviruses."
+      }
+    ],
+    "legacy_index": 8,
+    "original_text": "Virus Reproduction¨Animal Viruses enter host cell¨Uncoating releases viral DNA or RNA¤If “naked virus”, release is usually lytic bursting of host cell¤If enveloped, “budding” will occurnViral particles reach cell membrane, bud forms out of the cell, and virus becomes enveloped in cell membrane coated in protein and carbohydrates. ¨Retroviruses –RNA Viruses¤Contain a special enzyme -Reverse Transcriptase¤Carries out RNA àcDNA reverse transcription¤cDNA becomes integrated into host DNAnReplicated as host DNA replicates¤Viral DNA is transcribed; new viruses are producednHIV, Human T Lymphotropic Virus 1"
+  },
+  {
+    "unit": 6,
+    "page": 10,
+    "filename": "Unit_6_1.txt",
+    "section_title": "Viruses",
+    "page_num_in_file": 10,
+    "slide_title": "Emerging Viruses",
+    "explanation": "Emerging viruses are viruses that have recently crossed species barriers or have infected previously unaffected populations, such as H1N1 flu, West Nile virus, and COVID-19. In influenza pandemics, the viral structure features two critical surface proteins: the H (hemagglutinin) spike and the N (neuraminidase) spike. The H spike, which has 16 different types, binds to receptors on host cell membranes. The N spike, which has 9 different types, attacks host cell membranes to facilitate the exit of mature viruses. Because each type of spike has multiple varieties, the host's immune system can only recognize and defend against H and N spikes to which it has previously been exposed.",
+    "questions": [
+      {
+        "q": "What is an emerging virus?",
+        "opts": [
+          "A virus that has mutated to become less infectious",
+          "A virus that has moved between species or infected previously unaffected populations",
+          "A virus that replicates purely in marine environments",
+          "A virus that has been eradicated globally"
+        ],
+        "a": 1,
+        "exp": "The notes define emerging viruses as 'Viruses who have made a move between species, or infect otherwise unaffected populations.'"
+      },
+      {
+        "q": "What are the roles of the H and N spikes on the influenza virus?",
+        "opts": [
+          "The H spike exits the cell, and the N spike binds receptors",
+          "The H spike binds receptors, and the N spike attacks host membranes to allow exit",
+          "The H spike synthesizes proteins, and the N spike replicates nucleic acids",
+          "The H spike forms the envelope, and the N spike forms the capsid"
+        ],
+        "a": 1,
+        "exp": "According to the notes, the H spike allows the virus to bind to the receptor, and the N spike attacks host plasma membranes to allow mature viruses to exit."
+      },
+      {
+        "q": "How many types of H (hemagglutinin) and N (neuraminidase) spikes are there, respectively?",
+        "opts": [
+          "16 H types and 9 N types",
+          "9 H types and 16 N types",
+          "4 H types and 2 N types",
+          "10 H types and 10 N types"
+        ],
+        "a": 0,
+        "exp": "The notes state there are 16 different types of H spikes and 9 different types of N spikes."
+      }
+    ],
+    "legacy_index": 9,
+    "original_text": "Emerging Viruses¨Viruses who have made a move between species, or infect otherwise unaffected populations¤Ex. –H1N1 flu, West Nile, COVID-19¨Ex-Flu Pandemic ¤A flu virus has an H (hemagglutinin) spike and an N (neuraminidase) spike nH spike allows the virus to bind to the receptor n16 different typesnN spike attacks host plasma membranes nAllows mature viruses to exit the cell n9 different types ¤Each type of spike can occur in different varieties ¤Our immune system only recognizes H spikes and N spikes it has been exposed to"
+  },
+  {
+    "unit": 6,
+    "page": 11,
+    "filename": "Unit_6_1.txt",
+    "section_title": "Viruses",
+    "page_num_in_file": 11,
+    "slide_title": "Viroids and Prions",
+    "explanation": "Viroids and prions are sub-viral infectious particles. Viroids consist of naked strands of RNA with no surrounding capsid. They are associated with several crop diseases, instructing host plant cells to replicate more viroids. Prions, or proteinaceous infectious particles, are abnormal proteins. They share a similar primary sequence with normal cellular proteins but possess a different, contagious tertiary conformation. When prions interact with normal proteins, they force them to adopt the abnormal conformation at an exponential rate. Prions cause neurodegenerative diseases known as Transmissible Spongiform Encephalopathies (TSEs). A notable example is Bovine Spongiform Encephalopathy (BSE, or Mad Cow disease), which occurs in cattle and can be transmitted to humans.",
+    "questions": [
+      {
+        "q": "What is the structure of a viroid?",
+        "opts": [
+          "An infectious protein with a modified tertiary shape",
+          "A naked strand of RNA with no capsid",
+          "A double-stranded DNA molecule inside a capsid",
+          "An enveloped RNA virus that infects animals"
+        ],
+        "a": 1,
+        "exp": "The notes define viroids as 'Naked strands of RNA – no capsid'."
+      },
+      {
+        "q": "How do prions propagate inside a host organism?",
+        "opts": [
+          "They transcribe their RNA genome into DNA using reverse transcriptase",
+          "They cause normal proteins in the host to change into the abnormal prion conformation at an exponential rate",
+          "They hijack host ribosomes to translate their genetic material",
+          "They multiply via binary fission within host tissues"
+        ],
+        "a": 1,
+        "exp": "Prions propagate by causing the conformation of normal proteins in the organism to convert into prions at an exponential rate."
+      },
+      {
+        "q": "What class of diseases are prions associated with?",
+        "opts": [
+          "Transmissible Spongiform Encephalopathies (TSEs)",
+          "Plant crop blight and mosaic diseases",
+          "Respiratory tract pandemics",
+          "Autoimmune skin conditions"
+        ],
+        "a": 0,
+        "exp": "Prions are associated with neurodegenerative diseases, or Transmissible Spongiform Encephalopathies (TSEs), such as Mad Cow disease."
+      }
+    ],
+    "legacy_index": 10,
+    "original_text": "Virioidsand Prions¨Viriods¤Naked strands of RNA –no capsid¤Associated with many crop disease¤Direct cell to create more virioids¨Prions¤Proteinaceous Infectious Particles¤Similar to proteins that normally exist, but with a different, contagious tertiary conformationnCauses conformation of normal proteins in the organism into prions at exponential ratenAssociated with neurodegenerative diseases, or Transmissible Spongiform Encephalopathies, or TSE’ snMad Cow disease, a BSE, ND in cows that can pass to humans"
+  },
+  {
+    "unit": 6,
+    "page": 12,
+    "filename": "Unit_6_2.txt",
+    "section_title": "Prokaryotes",
+    "page_num_in_file": 1,
+    "slide_title": "Prokaryotes - Visual Page 1",
+    "original_text": "UNIT 6: DIVERSITY OF LIFE FORMS6.2 –THE PROKARYOTESBiology 9 Mr. QueenanCh. 21.2 (pg. 689-697)",
+    "explanation": "This is the title page for Unit 6, Section 6.2 of the Biology 9 course taught by Mr. Queenan. The section is titled 'The Prokaryotes' and corresponds to Chapter 21.2, pages 689-697 of the textbook.",
+    "questions": [
+      {
+        "q": "Which textbook chapter and page range correspond to the Prokaryotes section of Unit 6.2?",
+        "opts": [
+          "Chapter 21.2 (pg. 689-697)",
+          "Chapter 21.1 (pg. 682-688)",
+          "Chapter 22.1 (pg. 701-710)",
+          "Chapter 20.2 (pg. 650-660)"
+        ],
+        "a": 0,
+        "exp": "The title page explicitly lists 'Ch. 21.2 (pg. 689-697)' for Unit 6.2 - The Prokaryotes."
+      }
+    ],
+    "legacy_index": 11
+  },
+  {
+    "unit": 6,
+    "page": 13,
+    "filename": "Unit_6_2.txt",
+    "section_title": "Prokaryotes",
+    "page_num_in_file": 2,
+    "slide_title": "Structure",
+    "original_text": "•Structure•Reproduction•Nutrition•Classification•Bacteria•Archaea\nProkaryote Outline",
+    "explanation": "This slide provides an outline for the Prokaryotes unit, highlighting the key subtopics to be discussed: Structure, Reproduction, Nutrition, Classification, Domain Bacteria, and Domain Archaea.",
+    "questions": [
+      {
+        "q": "Which of the following topics is NOT listed on the Prokaryote Outline slide?",
+        "opts": [
+          "Structure and Reproduction",
+          "Nutrition and Classification",
+          "Viral Replication Cycles",
+          "Bacteria and Archaea"
+        ],
+        "a": 2,
+        "exp": "The outline covers Structure, Reproduction, Nutrition, Classification, Bacteria, and Archaea. Viral replication cycles were covered in Unit 6.1 (Viruses)."
+      }
+    ],
+    "legacy_index": 12
+  },
+  {
+    "unit": 6,
+    "page": 14,
+    "filename": "Unit_6_2.txt",
+    "section_title": "Prokaryotes",
+    "page_num_in_file": 3,
+    "slide_title": "Background",
+    "original_text": "Background¨Include bacteria and archaea, which are fully functioning cells ¤A single spoonful of earth can contain >1000 prokaryotes ¤Range in size from 1-10 μmin length and 0.7-1.5 μmin width¨Originally believed to be spontaneously generating organisms¤Disproved in 1850’s by Louis Pasteur",
+    "explanation": "Prokaryotes comprise two major groups: bacteria and archaea, both of which are fully functioning cells. They are incredibly abundant; for instance, a single spoonful of soil can contain more than 1,000 prokaryotic cells. Structurally, they are very small, typically ranging in size from 1 to 10 micrometers (μm) in length and 0.7 to 1.5 μm in width. Historically, it was believed that prokaryotic organisms could spontaneously generate from non-living matter, a concept that was successfully disproved in the 1850s by Louis Pasteur.",
+    "questions": [
+      {
+        "q": "What is the typical physical size of a prokaryote as described in the notes?",
+        "opts": [
+          "1-10 nm in length and 0.7-1.5 nm in width",
+          "1-10 μm in length and 0.7-1.5 μm in width",
+          "10-100 μm in length and 5-10 μm in width",
+          "0.1-0.5 μm in length and 0.1-0.2 μm in width"
+        ],
+        "a": 1,
+        "exp": "The notes state that prokaryotes 'Range in size from 1-10 μm in length and 0.7-1.5 μm in width'."
+      },
+      {
+        "q": "Who disproved the hypothesis of spontaneous generation, and when?",
+        "opts": [
+          "Robert Koch in the 1880s",
+          "Louis Pasteur in the 1850s",
+          "Antoni van Leeuwenhoek in the 1670s",
+          "Louis Pasteur in the 1950s"
+        ],
+        "a": 1,
+        "exp": "The notes state that spontaneous generation was 'Disproved in 1850’s by Louis Pasteur'."
+      }
+    ],
+    "legacy_index": 13
+  },
+  {
+    "unit": 6,
+    "page": 15,
+    "filename": "Unit_6_2.txt",
+    "section_title": "Prokaryotes",
+    "page_num_in_file": 4,
+    "slide_title": "Structure",
+    "original_text": "Structure¨Lack a membrane-bounded nucleus (DNA in nucleoid region) ¨Outer cell wall containing peptidoglycan ¨Some move by means of flagella ¨Lack membranous organelles ¨May have accessory ring of DNA (plasmid)",
+    "explanation": "Prokaryotic cells have distinct structural characteristics. First, they lack a membrane-bounded nucleus, meaning their DNA is localized in a region known as the nucleoid. Second, they have a protective outer cell wall that contains peptidoglycan. Third, some prokaryotes are motile and achieve movement via flagella. Fourth, they lack membranous organelles. Finally, many prokaryotes carry an accessory ring of DNA called a plasmid, which is separate from their main chromosomal DNA.",
+    "questions": [
+      {
+        "q": "Where is the genomic DNA of a prokaryote stored?",
+        "opts": [
+          "In a membrane-bounded nucleus",
+          "In the nucleoid region",
+          "Inside the chloroplast",
+          "Within the cell wall"
+        ],
+        "a": 1,
+        "exp": "The notes state that prokaryotes 'Lack a membrane-bounded nucleus' and their DNA is in the 'nucleoid region'."
+      },
+      {
+        "q": "What is the cell wall of a prokaryote composed of?",
+        "opts": [
+          "Cellulose",
+          "Chitin",
+          "Peptidoglycan",
+          "Phospholipids"
+        ],
+        "a": 2,
+        "exp": "The notes specify that the 'Outer cell wall containing peptidoglycan'."
+      },
+      {
+        "q": "What is the term for the accessory ring of DNA found in some prokaryotes?",
+        "opts": [
+          "Plasmid",
+          "Nucleoid",
+          "Flagellum",
+          "Ribosome"
+        ],
+        "a": 0,
+        "exp": "The notes state they 'May have accessory ring of DNA (plasmid)'."
+      }
+    ],
+    "legacy_index": 14
+  },
+  {
+    "unit": 6,
+    "page": 16,
+    "filename": "Unit_6_2.txt",
+    "section_title": "Prokaryotes",
+    "page_num_in_file": 5,
+    "slide_title": "Reproduction",
+    "original_text": "Reproduction¨Asexual ¤Prokaryotes reproduce asexually by means of binary fission¨Methods of genetic recombination ¤Conjugation nSex pilus forms between two cells nDonor cell passes DNA to recipient cell through pilus¤Transformation¤Transduction",
+    "explanation": "Prokaryotes reproduce asexually via a process called binary fission. To introduce genetic variety, prokaryotes employ methods of genetic recombination. The three main methods are conjugation, transformation, and transduction. In conjugation, a physical connection called a sex pilus forms between two prokaryotic cells. The donor cell then passes a copy of its DNA to the recipient cell through this pilus.",
+    "questions": [
+      {
+        "q": "How do prokaryotes reproduce asexually?",
+        "opts": [
+          "Mitosis",
+          "Binary fission",
+          "Meiosis",
+          "Budding"
+        ],
+        "a": 1,
+        "exp": "The notes explicitly state that prokaryotes 'reproduce asexually by means of binary fission'."
+      },
+      {
+        "q": "Which method of genetic recombination involves a sex pilus?",
+        "opts": [
+          "Transformation",
+          "Transduction",
+          "Conjugation",
+          "Binary fission"
+        ],
+        "a": 2,
+        "exp": "During conjugation, a 'Sex pilus forms between two cells' and the donor passes DNA to the recipient through it."
+      }
+    ],
+    "legacy_index": 15
+  },
+  {
+    "unit": 6,
+    "page": 17,
+    "filename": "Unit_6_2.txt",
+    "section_title": "Prokaryotes",
+    "page_num_in_file": 6,
+    "slide_title": "Reproduction",
+    "original_text": "Reproduction¨Transformation ¤Occurs when bacterium picks up free pieces of DNA from other prokaryotes ¤Becomes incorporated into genome ¨Transduction ¤Occurs when bacteriophages carry portions of bacterial DNA from one cell to another ¤Serve as vectors",
+    "explanation": "Two other major methods of genetic recombination in prokaryotes are transformation and transduction. Transformation occurs when a bacterial cell absorbs free pieces of foreign DNA from its environment (released by other prokaryotes) and incorporates them into its own genome. Transduction, on the other hand, is mediated by viruses. It occurs when bacteriophages, serving as vectors, transport fragments of bacterial DNA from a previously infected host cell into a new bacterial host cell.",
+    "questions": [
+      {
+        "q": "What is transformation in bacterial reproduction?",
+        "opts": [
+          "When a bacterium splits into two cells asexually",
+          "When a bacterium picks up free pieces of DNA from the environment and incorporates them into its genome",
+          "When a bacteriophage injects viral RNA into a bacterial cell",
+          "When DNA is passed directly through a sex pilus"
+        ],
+        "a": 1,
+        "exp": "Transformation is defined as occurring 'when bacterium picks up free pieces of DNA from other prokaryotes' which then 'becomes incorporated into genome'."
+      },
+      {
+        "q": "What agent serves as a vector during bacterial transduction?",
+        "opts": [
+          "A sex pilus",
+          "A plasmid",
+          "A bacteriophage",
+          "A eukaryotic host cell"
+        ],
+        "a": 2,
+        "exp": "Transduction occurs when 'bacteriophages carry portions of bacterial DNA from one cell to another' and 'serve as vectors'."
+      }
+    ],
+    "legacy_index": 16
+  },
+  {
+    "unit": 6,
+    "page": 18,
+    "filename": "Unit_6_2.txt",
+    "section_title": "Prokaryotes",
+    "page_num_in_file": 7,
+    "slide_title": "Nutrition",
+    "original_text": "Nutrition¨Oxygen requirements: ¤Obligate aerobes –unable to grow in the absence of free oxygen ¤Obligate anaerobes –unable to grow in the presence of free oxygen ¤Facultative anaerobes –able to grow in either the presence or absence of free oxygen",
+    "explanation": "Prokaryotes have different relationships with oxygen. They can be divided into three categories based on oxygen requirements: 1) Obligate aerobes, which cannot survive or grow without free oxygen; 2) Obligate anaerobes, which cannot grow in the presence of free oxygen and are harmed by it; and 3) Facultative anaerobes, which are metabolic generalists able to grow in either the presence or the absence of free oxygen.",
+    "questions": [
+      {
+        "q": "Which term describes prokaryotes that are unable to grow in the presence of free oxygen?",
+        "opts": [
+          "Obligate aerobes",
+          "Obligate anaerobes",
+          "Facultative anaerobes",
+          "Chemoheterotrophs"
+        ],
+        "a": 1,
+        "exp": "Obligate anaerobes are defined as being 'unable to grow in the presence of free oxygen'."
+      },
+      {
+        "q": "What is a characteristic of facultative anaerobes?",
+        "opts": [
+          "They can only grow in environments containing 100% pure oxygen.",
+          "They are unable to perform cellular respiration.",
+          "They are able to grow in either the presence or absence of free oxygen.",
+          "They only obtain energy through photosynthesis."
+        ],
+        "a": 2,
+        "exp": "The notes state that facultative anaerobes are 'able to grow in either the presence or absence of free oxygen'."
+      }
+    ],
+    "legacy_index": 17
+  },
+  {
+    "unit": 6,
+    "page": 19,
+    "filename": "Unit_6_2.txt",
+    "section_title": "Prokaryotes",
+    "page_num_in_file": 8,
+    "slide_title": "Nutrition",
+    "original_text": "Nutrition ¨Photoautotrophs ¤Use solar energy to reduce carbon dioxide to organic compounds ¤Photosynthetic ¨Chemoautotrophs ¤Oxidize inorganic compounds to obtain the necessary energy ¤Use it to reduce CO2 to an organic compound¤Chemosynthetic¨Most prokaryotes are chemoheterotrophs that take in organic nutrients ¤Aerobic saprotrophs decompose most large organic molecules to smaller molecules ¤Essential components of healthy ecosystem ¨May be free-living or symbiotic ¤Nitrogen fixation ¤Commensalism ¤Parasites",
+    "explanation": "Prokaryotes show incredibly diverse nutritional strategies. Photoautotrophs are photosynthetic organisms that capture solar energy to reduce carbon dioxide to organic compounds. Chemoautotrophs are chemosynthetic organisms that oxidize inorganic compounds to acquire energy, which is then used to reduce CO2 to an organic compound. The majority of prokaryotes, however, are chemoheterotrophs that consume pre-formed organic nutrients. Within this group, aerobic saprotrophs decompose large organic molecules into smaller, reusable molecules, making them critical components of healthy ecosystems. Furthermore, prokaryotes can be free-living or engage in symbiotic relationships, including nitrogen fixation (mutualistic relationships), commensalism, and parasitism.",
+    "questions": [
+      {
+        "q": "How do chemoautotrophs obtain energy and build organic molecules?",
+        "opts": [
+          "By harvesting solar energy to reduce carbon dioxide",
+          "By oxidizing inorganic compounds for energy to reduce carbon dioxide into organic compounds",
+          "By decomposing dead organic matter anaerobically",
+          "By absorbing organic nutrients directly from host cell cytoplasm"
+        ],
+        "a": 1,
+        "exp": "Chemoautotrophs 'Oxidize inorganic compounds to obtain the necessary energy' and 'Use it to reduce CO2 to an organic compound'."
+      },
+      {
+        "q": "What is the primary ecological function of aerobic saprotrophs?",
+        "opts": [
+          "They perform nitrogen fixation in root nodules.",
+          "They decompose large organic molecules into smaller molecules.",
+          "They carry out photosynthesis in marine environments.",
+          "They act as obligate intracellular parasites in animals."
+        ],
+        "a": 1,
+        "exp": "The notes state that aerobic saprotrophs 'decompose most large organic molecules to smaller molecules', which makes them essential components of a healthy ecosystem."
+      },
+      {
+        "q": "Which of the following nutritional strategies is NOT mentioned in the text?",
+        "opts": [
+          "Photoautotrophy",
+          "Chemoautotrophy",
+          "Chemoheterotrophy",
+          "Photoheterotrophy"
+        ],
+        "a": 3,
+        "exp": "The slide describes photoautotrophs, chemoautotrophs, and chemoheterotrophs, but does not mention photoheterotrophs."
+      }
+    ],
+    "legacy_index": 18
+  },
+  {
+    "unit": 6,
+    "page": 20,
+    "filename": "Unit_6_2.txt",
+    "section_title": "Prokaryotes",
+    "page_num_in_file": 9,
+    "slide_title": "Domain Bacteria",
+    "original_text": "Domain Bacteria¨Bacteria are the more common type of prokaryote.¤Over 2,000 different bacteria have been named. ¤Most bacterial cells are protected by a cell wallnContains peptidoglycan¨Bacteria are commonly diagnosed using the Gram stain procedure ¤When washed after staining: nGram-positive bacteria retain dye and appear purplenGram-negative bacteria do not retain dye and appear pink¨Bacteria can be further classified in terms of their three basic shapes ¤Spiral (spirilli), ¤Rod (bacilli), and ¤Round (cocci)",
+    "explanation": "Domain Bacteria contains the more common types of prokaryotes, with over 2,000 species named. Most bacteria are surrounded by a protective cell wall containing peptidoglycan. The Gram stain procedure is commonly used for diagnosing and classifying bacteria. Gram-positive bacteria retain the primary dye and appear purple after washing, while Gram-negative bacteria lose the dye and appear pink. Bacteria are also classified based on three physical shapes: spiral (spirilli), rod-shaped (bacilli), and round (cocci).",
+    "questions": [
+      {
+        "q": "What color do Gram-positive bacteria appear after the Gram stain washing step?",
+        "opts": [
+          "Pink",
+          "Purple",
+          "Green",
+          "Colorless"
+        ],
+        "a": 1,
+        "exp": "The notes state that 'Gram-positive bacteria retain dye and appear purple'."
+      },
+      {
+        "q": "What are the three basic shapes used to classify bacteria?",
+        "opts": [
+          "Spiral (cocci), Rod (bacilli), Round (spirilli)",
+          "Spiral (spirilli), Rod (cocci), Round (bacilli)",
+          "Spiral (spirilli), Rod (bacilli), Round (cocci)",
+          "Square (bacilli), Oval (cocci), Flat (spirilli)"
+        ],
+        "a": 2,
+        "exp": "The basic shapes and names listed are: Spiral (spirilli), Rod (bacilli), and Round (cocci)."
+      }
+    ],
+    "legacy_index": 19
+  },
+  {
+    "unit": 6,
+    "page": 21,
+    "filename": "Unit_6_2.txt",
+    "section_title": "Prokaryotes",
+    "page_num_in_file": 10,
+    "slide_title": "Domain Bacteria",
+    "original_text": "Domain Bacteria",
+    "explanation": "This slide serves as an introduction to the specific features, structures, and functions of Domain Bacteria.",
+    "questions": [
+      {
+        "q": "Which domain is introduced by this slide?",
+        "opts": [
+          "Domain Archaea",
+          "Domain Bacteria",
+          "Domain Eukarya",
+          "Domain Prokarya"
+        ],
+        "a": 1,
+        "exp": "The title of the slide is 'Domain Bacteria'."
+      }
+    ],
+    "legacy_index": 20
+  },
+  {
+    "unit": 6,
+    "page": 22,
+    "filename": "Unit_6_2.txt",
+    "section_title": "Prokaryotes",
+    "page_num_in_file": 11,
+    "slide_title": "Domain Bacteria",
+    "original_text": "Domain Bacteria¨Cyanobacteria -Formerly called the Blue-Green algae (Cyanophyta) ¤Cyanobacteria are Gram-negative bacteria that photosynthesize ¤Believed to be responsible for introducing oxygen into the primitive atmosphere ¤Lack visible means of locomotion ¤Can live in extreme environments ¤When commensals with fungi, form lichens",
+    "explanation": "Cyanobacteria, historically referred to as blue-green algae, are photosynthesizing, Gram-negative bacteria. They are believed to be the organisms responsible for introducing oxygen into Earth's primitive atmosphere. Cyanobacteria lack any visible means of locomotion and are able to survive in extreme environments. When they form commensal relationships with fungi, they form lichens.",
+    "questions": [
+      {
+        "q": "What major ecological role is attributed to Cyanobacteria regarding Earth's early atmosphere?",
+        "opts": [
+          "They depleted all carbon dioxide to trigger an ice age.",
+          "They introduced oxygen into the primitive atmosphere.",
+          "They produced massive amounts of nitrogen gas.",
+          "They synthesized methane, warming the planet."
+        ],
+        "a": 1,
+        "exp": "The notes state that Cyanobacteria are 'Believed to be responsible for introducing oxygen into the primitive atmosphere'."
+      },
+      {
+        "q": "What symbiotic partnership is formed when Cyanobacteria act as commensals with fungi?",
+        "opts": [
+          "Mycorrhizae",
+          "Lichens",
+          "Viroids",
+          "Plasmodium"
+        ],
+        "a": 1,
+        "exp": "The notes state: 'When commensals with fungi, form lichens.'"
+      }
+    ],
+    "legacy_index": 21
+  },
+  {
+    "unit": 6,
+    "page": 23,
+    "filename": "Unit_6_2.txt",
+    "section_title": "Prokaryotes",
+    "page_num_in_file": 12,
+    "slide_title": "Domain Archaea",
+    "original_text": "Domain Archaea¨Archaea were earlier considered bacteria ¤Discovered that the base sequence of their rRNA differs from Bacteria ¤Other differences: nArchaea do not have peptidoglycan in their cell walls like the Bacteria nArchaea biochemical more like Eukarya than BacterianArchaea now thought to be more closely related to Eukarya than to Bacteria¨Most are chemoautotrophs ¨Some mutualistic, Some commensalistic¨None known to be parasitic ¨None are photosynthetic",
+    "explanation": "Archaea were once classified as bacteria, but scientists discovered that their ribosomal RNA (rRNA) base sequences differ from those of bacteria. Other key differences include: Archaea cell walls lack peptidoglycan, and their biochemistry is more similar to Eukarya than to Bacteria. Thus, Archaea are now considered more closely related to Eukarya than to Bacteria. Most Archaea are chemoautotrophs. They can form mutualistic or commensalistic relationships, but none are known to be parasitic, and none are photosynthetic.",
+    "questions": [
+      {
+        "q": "Which of the following is a key difference between Archaea and Bacteria?",
+        "opts": [
+          "Archaea possess cell walls containing peptidoglycan.",
+          "Archaea ribosomal RNA base sequences differ from Bacteria, and their cell walls lack peptidoglycan.",
+          "Bacteria are biochemical generalists, whereas Archaea are always parasites.",
+          "Archaea are photosynthetic, whereas Bacteria are not."
+        ],
+        "a": 1,
+        "exp": "The notes state that Archaea rRNA base sequence differs from Bacteria, and 'Archaea do not have peptidoglycan in their cell walls like the Bacteria'."
+      },
+      {
+        "q": "Which of the following statements about Archaea nutrition and ecology is true?",
+        "opts": [
+          "Most are photoautotrophs.",
+          "Many species are known human parasites.",
+          "Most are chemoautotrophs, and none are known to be parasitic.",
+          "All Archaea are obligate aerobes."
+        ],
+        "a": 2,
+        "exp": "The notes explicitly state: 'Most are chemoautotrophs' and 'None known to be parasitic'."
+      }
+    ],
+    "legacy_index": 22
+  },
+  {
+    "unit": 6,
+    "page": 24,
+    "filename": "Unit_6_2.txt",
+    "section_title": "Prokaryotes",
+    "page_num_in_file": 13,
+    "slide_title": "Domain Archaea",
+    "original_text": "Domain Archaea¨Many live in harsh conditions: ¤Anaerobic marshes nMethanogens nProduce methane from hydrogen gas and carbon dioxide¤Salty lakes nHalophiles nRequire high salt concentrations for growth, and ¤Hot sulfur springs & Thermal vents nThermoacidophiles nReduce sulfides and survive best at temperatures above 80ºC and low pHnPlasma membranes contain unusual lipids convey tolerance of high temperatures",
+    "explanation": "Archaea are known to thrive in harsh environments. Methanogens live in anaerobic marshes and produce methane from hydrogen gas and carbon dioxide. Halophiles reside in salty lakes and require high salt concentrations for growth. Thermoacidophiles inhabit hot sulfur springs and thermal vents, where they reduce sulfides and survive best at low pH and temperatures above 80°C. Their plasma membranes contain unusual lipids that convey tolerance to these high temperatures.",
+    "questions": [
+      {
+        "q": "What type of Archaea lives in anaerobic marshes and produces methane gas?",
+        "opts": [
+          "Halophiles",
+          "Methanogens",
+          "Thermoacidophiles",
+          "Cyanobacteria"
+        ],
+        "a": 1,
+        "exp": "The notes state that methanogens live in anaerobic marshes and 'Produce methane from hydrogen gas and carbon dioxide'."
+      },
+      {
+        "q": "What structural feature allows thermoacidophiles to tolerate temperatures above 80°C?",
+        "opts": [
+          "An outer cell wall containing peptidoglycan",
+          "Plasma membranes containing unusual lipids",
+          "A proteinaceous capsid coat",
+          "Accessory plasmids containing heat-shock genes"
+        ],
+        "a": 1,
+        "exp": "According to the notes, their 'Plasma membranes contain unusual lipids convey tolerance of high temperatures'."
+      }
+    ],
+    "legacy_index": 23
+  },
+  {
+    "unit": 6,
+    "page": 25,
+    "filename": "Unit_6_3.txt",
+    "section_title": "Protists",
+    "page_num_in_file": 1,
+    "slide_title": "Protists - Visual Page 1",
+    "original_text": "UNIT 6: DIVERSITY OF LIFE FORMS6.3 –PROTISTSBiology 9 Mr. QueenanCh. 21.3 (pg. 698-703)",
+    "explanation": "This is the title slide for Unit 6.3 on Protists in Biology 9 taught by Mr. Queenan, corresponding to Chapter 21.3, pages 698-703 of the textbook.",
+    "questions": [
+      {
+        "q": "Which textbook pages cover the Protist unit 6.3?",
+        "opts": [
+          "Pages 682-688",
+          "Pages 689-697",
+          "Pages 698-703",
+          "Pages 704-715"
+        ],
+        "a": 2,
+        "exp": "The title slide lists 'Ch. 21.3 (pg. 698-703)' for Unit 6.3 - Protists."
+      }
+    ],
+    "legacy_index": 24
+  },
+  {
+    "unit": 6,
+    "page": 26,
+    "filename": "Unit_6_3.txt",
+    "section_title": "Protists",
+    "page_num_in_file": 2,
+    "slide_title": "Characteristics",
+    "original_text": "•Characteristics•Diversity•Supergroups•Defining features of each supergroup•Representative organisms",
+    "explanation": "This slide lists the outline of the Protists unit (6.3), which covers Characteristics, Diversity, Supergroups, Defining features of each supergroup, and Representative organisms.",
+    "questions": [
+      {
+        "q": "Which of the following is a topic outlined for the Protists unit?",
+        "opts": [
+          "Gram-positive vs Gram-negative diagnosis",
+          "Extremophiles of Archaea",
+          "Defining features of each supergroup",
+          "Lytic vs Lysogenic life cycles"
+        ],
+        "a": 2,
+        "exp": "The outline on this slide includes 'Defining features of each supergroup'."
+      }
+    ],
+    "legacy_index": 25
+  },
+  {
+    "unit": 6,
+    "page": 27,
+    "filename": "Unit_6_3.txt",
+    "section_title": "Protists",
+    "page_num_in_file": 3,
+    "slide_title": "Characteristics",
+    "original_text": "Characteristics¨Simplest, but most diverse of all eukaryotes¨Live in marine or freshwater environments¨Most unicellular, but some live in colonies or are multicellular. Range from microscopic to 200m¤Spirogyra –unicellular filamentous¤Volvox –colonial¤Kelp –brown algae, multicellular¨Have membranous organelles (mitochondria)¨Mainly reproduce by asexual, but if conditions are right, some species use sexual ¤Spores that remain dormant until conditions are perfect¨Vary in nutrition¤Photoautotrophs –contain chloroplasts¤Heterotrophs –absorb organic molecules or ingest larger food particles¤Mixotrophs -combine photosynthesis and heterotrophic nutrition¨Many can cause diseases in humans, but are critical to ecosystems",
+    "explanation": "Protists are the simplest yet most biologically diverse eukaryotes, primarily inhabiting marine or freshwater environments. Most protists are unicellular, but some are colonial (like Volvox) or multicellular (like Kelp, a brown algae that can grow up to 200m). Spirogyra is a unicellular filamentous example. Protists possess membrane-bound organelles, such as mitochondria. They reproduce primarily asexually, but under certain conditions, they can reproduce sexually by producing spores that remain dormant until conditions are favorable. Their nutrition varies widely: photoautotrophs contain chloroplasts; heterotrophs absorb organic molecules or ingest food particles; and mixotrophs combine photosynthesis and heterotrophic nutrition. While many protists cause human disease, they are critical ecological components.",
+    "questions": [
+      {
+        "q": "What term describes a protist that combines both photosynthesis and heterotrophic nutrition?",
+        "opts": [
+          "Saprotroph",
+          "Photoautotroph",
+          "Mixotroph",
+          "Chemoautotroph"
+        ],
+        "a": 2,
+        "exp": "The notes define mixotrophs as organisms that 'combine photosynthesis and heterotrophic nutrition'."
+      },
+      {
+        "q": "Which of the following protists is correctly paired with its structural organization type?",
+        "opts": [
+          "Spirogyra - colonial; Volvox - multicellular",
+          "Spirogyra - unicellular filamentous; Volvox - colonial; Kelp - multicellular",
+          "Spirogyra - multicellular; Volvox - unicellular filamentous",
+          "Spirogyra - colonial; Kelp - unicellular filamentous"
+        ],
+        "a": 1,
+        "exp": "The notes state: 'Spirogyra – unicellular filamentous', 'Volvox – colonial', and 'Kelp – brown algae, multicellular'."
+      }
+    ],
+    "legacy_index": 26
+  },
+  {
+    "unit": 6,
+    "page": 28,
+    "filename": "Unit_6_3.txt",
+    "section_title": "Protists",
+    "page_num_in_file": 4,
+    "slide_title": "Diversity",
+    "original_text": "Diversity¨Once classified under a single kingdom¤Thought to be monophyletic ¨DNA evidence shows that all protists don’t evolve from a single common ancestor¨Six distinct evolutionary lines¨Grouped into Supergroups¤Level below domain but above kingdom¤Represent separate evolutionary lineagenArchaeplastida nChromalveolatanExcavatanAmoebazoanOpisthokontanRhizaria",
+    "explanation": "Protists were historically classified under a single kingdom because they were thought to be monophyletic. However, DNA evidence has shown that all protists do not evolve from a single common ancestor, revealing instead six distinct evolutionary lines. Eukaryotes, including protists, are therefore grouped into Supergroups, which represent taxonomic levels below domain but above kingdom, each representing a separate evolutionary lineage. The six supergroups are Archaeplastida, Chromalveolata, Excavata, Amoebozoa (Amoebazoan), Opisthokonta (Opisthokontan), and Rhizaria.",
+    "questions": [
+      {
+        "q": "What taxonomic rank represents a level below Domain but above Kingdom?",
+        "opts": [
+          "Phylum",
+          "Supergroup",
+          "Class",
+          "Family"
+        ],
+        "a": 1,
+        "exp": "The notes state that Supergroups are a 'Level below domain but above kingdom'."
+      },
+      {
+        "q": "Why was the kingdom-level classification of all protists in a single group abandoned?",
+        "opts": [
+          "DNA evidence showed they do not evolve from a single common ancestor.",
+          "They were found to be multicellular prokaryotes.",
+          "They lack membrane-bound organelles.",
+          "They were merged with the kingdom of viruses."
+        ],
+        "a": 0,
+        "exp": "DNA evidence disproved their monophyletic status by showing that protists do not all evolve from a single common ancestor."
+      }
+    ],
+    "legacy_index": 27
+  },
+  {
+    "unit": 6,
+    "page": 29,
+    "filename": "Unit_6_3.txt",
+    "section_title": "Protists",
+    "page_num_in_file": 5,
+    "slide_title": "Diversity",
+    "original_text": "Diversity\nExamples of members of each of the supergroupsCommon ancestors were the first EukaryotesNotice –Supergroups above Kingdom level classificationPlants fall under Archaeplastida SupergroupFungi fall under OpisthokontasupergroupAnimals fall under OpisthokontasupergroupFungi and Animals more closely related than animals and plants",
+    "explanation": "The common ancestors of the eukaryotic supergroups were the first Eukaryotes. Eukaryotic supergroups are positioned above the Kingdom level of classification. Land plants belong to the Archaeplastida supergroup. Both Fungi and Animals are classified within the Opisthokonta supergroup. This shared evolutionary lineage indicates that Fungi and Animals are more closely related to each other than animals are to plants.",
+    "questions": [
+      {
+        "q": "Under which supergroup are plants classified?",
+        "opts": [
+          "Opisthokonta",
+          "Archaeplastida",
+          "Chromalveolata",
+          "Excavata"
+        ],
+        "a": 1,
+        "exp": "According to the slide, 'Plants fall under Archaeplastida Supergroup'."
+      },
+      {
+        "q": "Which organisms are more closely related according to eukaryotic supergroup classification?",
+        "opts": [
+          "Animals and plants",
+          "Fungi and plants",
+          "Fungi and animals",
+          "Plants and bacteria"
+        ],
+        "a": 2,
+        "exp": "The notes state: 'Fungi and Animals more closely related than animals and plants' because they both fall under the Opisthokonta supergroup."
+      }
+    ],
+    "legacy_index": 28
+  },
+  {
+    "unit": 6,
+    "page": 30,
+    "filename": "Unit_6_3.txt",
+    "section_title": "Protists",
+    "page_num_in_file": 6,
+    "slide_title": "Supergroup Archaeplastida",
+    "original_text": "Supergroup Archaeplastida¨Include land plants and other photosynthetic organisms, contain plastids from cyanobacteria¤Red & Green Algae¤Contain Chlorophyll a & b¨Green algae broken into 2 groups¤ChlorophytesnChlamydomonas–can exist in sexual life cyclenVolvox–colonialnUlva-multicellular ¤Chorophytes–Filamentous (most closely related to land plantsnSpirogyranChara¨Red algae¤Contain red and blue accessory pigments¤Used to produce agar –lab substrate¤Carrageenanextracts used in chocolate and cosmetics¤Porphyraused for seaweed wrappings on sushi",
+    "explanation": "Supergroup Archaeplastida includes land plants and other photosynthetic organisms that contain plastids derived from cyanobacteria. This group features red and green algae, which contain chlorophyll a and b. Green algae are split into two groups: 1) Chlorophytes, such as Chlamydomonas (exhibits a sexual life cycle), Volvox (colonial), and Ulva (multicellular); and 2) Charophytes, which are filamentous algae that are most closely related to land plants, including Spirogyra and Chara. Red algae contain red and blue accessory pigments and have various commercial uses, including the production of agar (lab substrate), carrageenan extracts (used in chocolate and cosmetics), and Porphyra (seaweed wrappings for sushi).",
+    "questions": [
+      {
+        "q": "Which green algae group is most closely related to land plants?",
+        "opts": [
+          "Chlorophytes",
+          "Charophytes",
+          "Red algae",
+          "Cyanobacteria"
+        ],
+        "a": 1,
+        "exp": "The notes state that Charophytes are filamentous and 'most closely related to land plants'."
+      },
+      {
+        "q": "What is Porphyra used for?",
+        "opts": [
+          "Producing agar in laboratory substrates",
+          "Seaweed wrappings on sushi",
+          "Extracting carrageenan for cosmetics",
+          "Photosynthetic oxygen generation in marshes"
+        ],
+        "a": 1,
+        "exp": "The notes state: 'Porphyra used for seaweed wrappings on sushi'."
+      },
+      {
+        "q": "Which of the following is a multicellular Chlorophyte?",
+        "opts": [
+          "Ulva",
+          "Volvox",
+          "Spirogyra",
+          "Chara"
+        ],
+        "a": 0,
+        "exp": "The notes list 'Ulva-multicellular' as a Chlorophyte green algae."
+      }
+    ],
+    "legacy_index": 29
+  },
+  {
+    "unit": 6,
+    "page": 31,
+    "filename": "Unit_6_3.txt",
+    "section_title": "Protists",
+    "page_num_in_file": 7,
+    "slide_title": "Supergroup Chromalveolata",
+    "original_text": "Supergroup Chromalveolata¨Contain 2 Subgroups¤Stramenopilesinclude:nBrown algae –Laminaria (kelp)nDiatoms –porous silica shell –filtersnGolden Brown Algae –2 flagellanWater molds –not fungi –absorb nutrients from dead or dying organisms¤Alveolatesinclude:nDinoflagellatesnResponsible for red tides & fish kills nCan be phospholuminescentnCiliates nParamecium–move with cilianStentor –use cilia to sweep food to oral cavitynApicomplexans nParasitic on animals. nApicoplastpenetrates host cellnPlasmodium -malaria",
+    "explanation": "Supergroup Chromalveolata contains two subgroups: Stramenopiles and Alveolates. Stramenopiles include brown algae like Laminaria (kelp), diatoms (possessing porous silica shells used as filters), golden-brown algae (with two flagella), and water molds (heterotrophs that absorb nutrients from dead or dying organisms and are not true fungi). Alveolates include dinoflagellates (responsible for toxic red tides, fish kills, and can be phospholuminescent), ciliates like Paramecium (move with cilia) and Stentor (use cilia to sweep food into their oral cavity), and apicomplexans (animal parasites that use an apicoplast to penetrate host cells, such as Plasmodium, which causes malaria).",
+    "questions": [
+      {
+        "q": "Which organism is a Stramenopile with a porous silica shell used for filters?",
+        "opts": [
+          "Dinoflagellates",
+          "Diatoms",
+          "Ciliates",
+          "Water molds"
+        ],
+        "a": 1,
+        "exp": "The notes state that Stramenopiles include 'Diatoms – porous silica shell – filters'."
+      },
+      {
+        "q": "Which organism is an animal parasite that causes malaria?",
+        "opts": [
+          "Trypanosoma",
+          "Trichomonas",
+          "Plasmodium",
+          "Stentor"
+        ],
+        "a": 2,
+        "exp": "The notes identify Plasmodium as an apicomplexan parasite that causes malaria."
+      },
+      {
+        "q": "What is a characteristic of dinoflagellates?",
+        "opts": [
+          "They are responsible for red tides and fish kills, and can be phospholuminescent.",
+          "They lack mitochondria and rely on fermentation.",
+          "They are multicellular green algae used to produce agar.",
+          "They are a type of water mold that decomposes forest debris."
+        ],
+        "a": 0,
+        "exp": "The notes state that Dinoflagellates are 'Responsible for red tides & fish kills' and 'Can be phospholuminescent'."
+      }
+    ],
+    "legacy_index": 30
+  },
+  {
+    "unit": 6,
+    "page": 32,
+    "filename": "Unit_6_3.txt",
+    "section_title": "Protists",
+    "page_num_in_file": 8,
+    "slide_title": "Supergroup Excavata",
+    "original_text": "Supergroup Excavata¨Include zooflagellates (animal-like) that have atypical or absent mitochondria and distinctive flagella and/or deep (excavated) oral grooves¨Euglinids¤Euglena –Small; freshwater; unicellular¤Long flagellum¤Contains eyespot that can detect light¨Parabasalids& Diplomonads¤Unicellular, flagellated¤Can survive anaerobic environments, lack mitochondria. Rely on fermentation. nParabasalids–common STD –TrichomoniasisnDiplomonads –Transmitted in contaminated drinking water; cause severe diarrhea¨Kinetoplastids¤Named for large DNA mass in mitchondria¤Trypanosomestransmitted through insect bitesnAfrican Sleeping sickness; Chagas disease",
+    "explanation": "Supergroup Excavata includes animal-like zooflagellates characterized by atypical or absent mitochondria and distinctive flagella and/or deep, excavated oral grooves. Euglenids, such as Euglena, are small, unicellular, freshwater organisms with a long flagellum and a light-sensitive eyespot. Parabasalids and Diplomonads are unicellular, flagellated organisms that lack mitochondria, allowing them to survive in anaerobic environments by relying on fermentation. Parabasalids cause Trichomoniasis, a common sexually transmitted disease, while Diplomonads are transmitted through contaminated drinking water, causing severe diarrhea. Kinetoplastids are named for a large DNA mass in their mitochondria, which includes Trypanosomes. These are transmitted by insect bites and cause African Sleeping Sickness and Chagas disease.",
+    "questions": [
+      {
+        "q": "What characteristic defines Parabasalids and Diplomonads?",
+        "opts": [
+          "They possess a porous silica shell and perform photosynthesis.",
+          "They lack mitochondria and rely on fermentation to survive in anaerobic environments.",
+          "They are multicellular and form dormant spores.",
+          "They have large DNA masses in their cell walls containing peptidoglycan."
+        ],
+        "a": 1,
+        "exp": "The notes state that they 'Can survive anaerobic environments, lack mitochondria. Rely on fermentation.'"
+      },
+      {
+        "q": "What disease is caused by Trypanosomes, a type of Kinetoplastid?",
+        "opts": [
+          "Malaria",
+          "Trichomoniasis",
+          "African Sleeping sickness",
+          "Dysentery"
+        ],
+        "a": 2,
+        "exp": "The notes state: 'Trypanosomes transmitted through insect bites' cause 'African Sleeping sickness; Chagas disease'."
+      },
+      {
+        "q": "Which organism belongs to the Euglenids (Euglinids) and has an eyespot to detect light?",
+        "opts": [
+          "Euglena",
+          "Trichomonas",
+          "Paramecium",
+          "Stentor"
+        ],
+        "a": 0,
+        "exp": "The notes state: 'Euglena – Small; freshwater; unicellular... Contains eyespot that can detect light'."
+      }
+    ],
+    "legacy_index": 31
+  },
+  {
+    "unit": 6,
+    "page": 33,
+    "filename": "Unit_6_3.txt",
+    "section_title": "Protists",
+    "page_num_in_file": 9,
+    "slide_title": "Supergroup Amoebazoa",
+    "original_text": "Supergroup Amoebazoa¨Protozoans that move by pseudopod (False-foot)¨Amoeboid¤Ingest food through phagocytosis using pseudopod¤Digest using a food vacuole ¤One infectious amoeboid causes dysentery¨Slime molds¤Decomposer that feeds on dead plant material¤Not fungi because they lack cell walls and have flagella for a portion of their life¤Plasmodium nA slug-like slime moldnConsumes decaying matter from forest floornIndividual amoeboid cells come together to form pseudoplasmodiumnDevelop sporangium and spores when conditions are not favorable, germinate when conditions are",
+    "explanation": "Supergroup Amoebozoa (Amoebazoa) includes protozoans that move using pseudopods (false-feet). Amoeboids ingest food via phagocytosis using their pseudopods and digest it within food vacuoles. One infectious amoeboid species causes dysentery. Slime molds, also in this supergroup, are decomposers that feed on dead plant material. They are not fungi because they lack cell walls and possess flagella during a portion of their life cycle. A plasmodial slime mold acts as a slug-like organism that consumes decaying matter on the forest floor. Individual amoeboid cells aggregate to form a pseudoplasmodium, which develops a sporangium and spores during unfavorable conditions, germinating when conditions improve.",
+    "questions": [
+      {
+        "q": "What structures do Amoebozoa use to move and ingest food?",
+        "opts": [
+          "Cilia",
+          "Flagella",
+          "Pseudopods",
+          "Apicoplasts"
+        ],
+        "a": 2,
+        "exp": "The notes state that Amoebozoa are 'Protozoans that move by pseudopod (False-foot)' and 'Ingest food through phagocytosis using pseudopod'."
+      },
+      {
+        "q": "Why are slime molds not classified as fungi?",
+        "opts": [
+          "They are autotrophic photoautotrophs.",
+          "They lack cell walls and have flagella for a portion of their life.",
+          "They contain a porous silica shell.",
+          "They lack membrane-bound organelles."
+        ],
+        "a": 1,
+        "exp": "The notes state: 'Not fungi because they lack cell walls and have flagella for a portion of their life'."
+      },
+      {
+        "q": "What happens when conditions are not favorable for a slime mold?",
+        "opts": [
+          "It undergoes lytic bursting immediately.",
+          "It undergoes conjugation via a sex pilus.",
+          "It develops a sporangium and spores.",
+          "It forms an envelope containing lipids."
+        ],
+        "a": 2,
+        "exp": "The notes state that slime molds 'Develop sporangium and spores when conditions are not favorable'."
+      }
+    ],
+    "legacy_index": 32
+  },
+  {
+    "unit": 6,
+    "page": 34,
+    "filename": "Unit_6_3.txt",
+    "section_title": "Protists",
+    "page_num_in_file": 10,
+    "slide_title": "Supergroup Opisthokonta",
+    "original_text": "Supergroup Opisthokonta¨Unicellular and multicellular protozoans¤Contain Fungi and Animalia¤ChoanoflagellatesnUnicellular and colonial, similar to spongesnColonies sometimes attach to surface with a stalk, or will be free floatingnFilter Feeders -Use flagellum to move food particles into colony, and absorb through phagocytosis¤NucleariidsnRounded or slightly flattened; use threadlike pseudopodia (filopodia)nFeed on algae and cyanobacterianClose relative to fungi but lack characteristic cell wall",
+    "explanation": "Supergroup Opisthokonta contains both unicellular and multicellular eukaryotic organisms, including the kingdoms Fungi and Animalia. Opisthokont protists include: 1) Choanoflagellates, which are unicellular and colonial filter-feeders that resemble sponge cells. Their colonies can be free-floating or attached to a surface via a stalk, and they use a flagellum to direct food particles into the colony where they are absorbed by phagocytosis; and 2) Nucleariids, which are rounded or slightly flattened protists that use threadlike pseudopodia (filopodia) to feed on algae and cyanobacteria. Nucleariids are close relatives to fungi but lack the chitinous cell wall typical of Fungi.",
+    "questions": [
+      {
+        "q": "Which protists in Supergroup Opisthokonta are filter-feeders that resemble sponge cells?",
+        "opts": [
+          "Nucleariids",
+          "Choanoflagellates",
+          "Euglenids",
+          "Dinoflagellates"
+        ],
+        "a": 1,
+        "exp": "The notes state that Choanoflagellates are 'Unicellular and colonial, similar to sponges' and act as 'Filter Feeders'."
+      },
+      {
+        "q": "What is a characteristic of nucleariids?",
+        "opts": [
+          "They are multicellular green algae that produce agar.",
+          "They are rounded or slightly flattened, use threadlike pseudopodia, and feed on algae and cyanobacteria.",
+          "They contain an outer cell wall made of peptidoglycan.",
+          "They are flagellated parasites that cause malaria."
+        ],
+        "a": 1,
+        "exp": "The notes describe nucleariids as 'Rounded or slightly flattened; use threadlike pseudopodia (filopodia)' and they 'Feed on algae and cyanobacteria'."
+      },
+      {
+        "q": "Which eukaryotic kingdoms are included within Supergroup Opisthokonta?",
+        "opts": [
+          "Fungi and Animalia",
+          "Plantae and Fungi",
+          "Animalia and Plantae",
+          "Protista and Bacteria"
+        ],
+        "a": 0,
+        "exp": "The notes state that the Supergroup Opisthokonta 'Contain Fungi and Animalia'."
+      }
+    ],
+    "legacy_index": 33
+  },
+  {
+    "unit": 6,
+    "page": 35,
+    "filename": "Unit_6_3.txt",
+    "section_title": "Protists",
+    "page_num_in_file": 11,
+    "slide_title": "Supergroup Rhizaria",
+    "original_text": "Supergroup Rhizaria¨Comprised of foramniferansand radiolarens¤Contain calcium carbonate skeleton called test¤Fine, threadlike pseudopods¤In foramniferans, test is multi-chamberednPseudopod extends through opening¤In radiolarens, glassy silicon test has radial arrangement of spines¨Together form a layer of sedimentary material on ocean floor. ¤Different time periods marked by distinctively different foramniferans",
+    "explanation": "Supergroup Rhizaria comprises foraminiferans (foramniferans) and radiolarians (radiolarens), which are characterized by fine, threadlike pseudopods and protective shells called tests. Foraminiferans possess multi-chambered tests composed of calcium carbonate, through which their pseudopods extend. Radiolarians possess glassy silicon tests featuring a radial arrangement of spines. Together, the accumulated tests of these organisms form layers of sedimentary material on the ocean floor. Fossilized foraminiferans serve as markers for different geological time periods.",
+    "questions": [
+      {
+        "q": "What composition is typical of the multi-chambered test of a foraminiferan?",
+        "opts": [
+          "Chitin",
+          "Glassy silicon",
+          "Calcium carbonate",
+          "Peptidoglycan"
+        ],
+        "a": 2,
+        "exp": "The notes state that foraminiferans 'Contain calcium carbonate skeleton called test' which is 'multi-chambered'."
+      },
+      {
+        "q": "What describes the test structure of radiolarians?",
+        "opts": [
+          "Multi-chambered calcium carbonate test",
+          "Glassy silicon test with a radial arrangement of spines",
+          "Peptidoglycan cell wall containing lipids",
+          "A protein capsid with spikes"
+        ],
+        "a": 1,
+        "exp": "The notes state: 'In radiolarens, glassy silicon test has radial arrangement of spines'."
+      },
+      {
+        "q": "What is the ecological and geological significance of Rhizarians?",
+        "opts": [
+          "They cause red tides and toxic fish kills.",
+          "They form lichens in mutualistic relationships with fungi.",
+          "They accumulate to form layers of sedimentary material on the ocean floor.",
+          "They decompose large forest debris as aerobic saprotrophs."
+        ],
+        "a": 2,
+        "exp": "The notes state that they 'Together form a layer of sedimentary material on ocean floor.'"
+      }
+    ],
+    "legacy_index": 34
+  },
+  {
+    "unit": 6,
+    "page": 36,
+    "filename": "Unit_6_3.txt",
+    "section_title": "Protists",
+    "page_num_in_file": 12,
+    "slide_title": "Overview",
+    "original_text": "Overview\nReview of 6 Supergroups, members, and distinguishing features\nClearer image available on text page 385",
+    "explanation": "This slide provides a brief overview reminding students to review the 6 eukaryotic supergroups, their representative members, and distinguishing features, directing them to page 385 of the textbook for a clearer illustration.",
+    "questions": [
+      {
+        "q": "Where can a clearer image reviewing the 6 supergroups be found?",
+        "opts": [
+          "Text page 682",
+          "Text page 689",
+          "Text page 385",
+          "Text page 704"
+        ],
+        "a": 2,
+        "exp": "The slide notes state: 'Clearer image available on text page 385'."
+      }
+    ],
+    "legacy_index": 35
+  },
+  {
+    "unit": 6,
+    "page": 37,
+    "filename": "Unit_6_4.txt",
+    "section_title": "Fungi",
+    "page_num_in_file": 1,
+    "slide_title": "Fungi - Visual Page 1",
+    "original_text": "UNIT 6: DIVERSITY OF LIFE FORMS6.4 –FUNGIBiology 9 Mr. QueenanCh. 21.4 (pg. 704-709)",
+    "explanation": "This is the title slide for Unit 6.4 on Fungi in Biology 9 taught by Mr. Queenan, corresponding to Chapter 21.4, pages 704-709 of the textbook.",
+    "questions": [
+      {
+        "q": "Which textbook chapter and page range correspond to Unit 6.4 on Fungi?",
+        "opts": [
+          "Chapter 21.4 (pg. 704-709)",
+          "Chapter 21.3 (pg. 698-703)",
+          "Chapter 21.2 (pg. 689-697)",
+          "Chapter 22.1 (pg. 710-720)"
+        ],
+        "a": 0,
+        "exp": "The title slide lists 'Ch. 21.4 (pg. 704-709)' for Unit 6.4 - Fungi."
+      }
+    ],
+    "legacy_index": 36
+  },
+  {
+    "unit": 6,
+    "page": 38,
+    "filename": "Unit_6_4.txt",
+    "section_title": "Fungi",
+    "page_num_in_file": 2,
+    "slide_title": "Evolution",
+    "original_text": "•Evolution•Structure•Reproduction•Diversity•Symbiotic Relationships of Fungi\nFungi Outline",
+    "explanation": "This slide outlines the subtopics to be discussed in the Fungi unit (6.4): Evolution, Structure, Reproduction, Diversity, and Symbiotic Relationships of Fungi.",
+    "questions": [
+      {
+        "q": "Which of the following topics is NOT listed on the Fungi Outline slide?",
+        "opts": [
+          "Evolution and Structure",
+          "Reproduction and Diversity",
+          "Symbiotic Relationships of Fungi",
+          "Amoeboid Locomotion"
+        ],
+        "a": 3,
+        "exp": "Amoeboid locomotion belongs to the study of protists (Amoebozoa), not Fungi. The outline lists Evolution, Structure, Reproduction, Diversity, and Symbiotic Relationships."
+      }
+    ],
+    "legacy_index": 37
+  },
+  {
+    "unit": 6,
+    "page": 39,
+    "filename": "Unit_6_4.txt",
+    "section_title": "Fungi",
+    "page_num_in_file": 3,
+    "slide_title": "Evolution",
+    "original_text": "Evolution¨Over 80,000 species¨Mostly multicellular, but some unicellular¨Heterotrophic -consume organic matter¤Saprotrophs –absorb this organic matternUsually dead or decaying matter from surroundings¨Kingdom Fungi¤5 Phylum¤Do not fossilize well, hard to examine fossil record",
+    "explanation": "Kingdom Fungi contains over 80,000 species. While some species are unicellular, most fungi are multicellular. Fungi are heterotrophic organisms that consume organic matter, acting primarily as saprotrophs that absorb nutrients from dead or decaying matter in their environment. Kingdom Fungi is divided into 5 Phyla. Because fungi do not fossilize well, it is difficult to examine their fossil record.",
+    "questions": [
+      {
+        "q": "How do saprotrophic fungi acquire nutrients?",
+        "opts": [
+          "By engulfing other microorganisms via phagocytosis",
+          "By absorbing organic matter, usually dead or decaying, from their surroundings",
+          "By using solar energy to synthesize sugars",
+          "By oxidizing hydrogen gas and carbon dioxide"
+        ],
+        "a": 1,
+        "exp": "The notes state that saprotrophs 'absorb this organic matter' which is 'Usually dead or decaying matter from surroundings'."
+      },
+      {
+        "q": "Why is it difficult to examine the evolutionary record of Kingdom Fungi?",
+        "opts": [
+          "Fungi did not exist before the 20th century.",
+          "Fungi lack genetic material.",
+          "Fungi do not fossilize well.",
+          "Fungi only live inside other living hosts."
+        ],
+        "a": 2,
+        "exp": "The notes explicitly mention that fungi 'Do not fossilize well, hard to examine fossil record'."
+      },
+      {
+        "q": "How many phyla are recognized within Kingdom Fungi?",
+        "opts": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "a": 2,
+        "exp": "The notes state: 'Kingdom Fungi - 5 Phylum'."
+      }
+    ],
+    "legacy_index": 38
+  },
+  {
+    "unit": 6,
+    "page": 40,
+    "filename": "Unit_6_4.txt",
+    "section_title": "Fungi",
+    "page_num_in_file": 4,
+    "slide_title": "Structure",
+    "original_text": "Structure¨Most multicellular¤Multicellular usually have a thallus or body structure called myceliumnMade up of a network of filaments known as hyphaenProvide high surface area : volume –good for absorptionnHyphae can wall off as they grow, becoming septatenIf no cell walls form, nonseptate¤Lack chloroplasts¤Have a cell wall made of chitin instead of cellulose¤Most are non-motilenOnly movement is toward a food source by extension of hyphae",
+    "explanation": "Most fungi are multicellular. Multicellular fungi possess a thallus or body structure called a mycelium, which is made of a network of filaments known as hyphae. This network provides a high surface-area-to-volume ratio, facilitating absorption. Hyphae can wall off as they grow (septate) or remain unpartitioned (nonseptate). Fungi lack chloroplasts and have cell walls composed of chitin rather than cellulose. They are non-motile, meaning their only movement is the growth extension of their hyphae toward a food source.",
+    "questions": [
+      {
+        "q": "What is the thallus or body structure of a multicellular fungus called?",
+        "opts": [
+          "Capsid",
+          "Mycelium",
+          "Test",
+          "Stolon"
+        ],
+        "a": 1,
+        "exp": "The notes state: 'Multicellular usually have a thallus or body structure called mycelium'."
+      },
+      {
+        "q": "What substance makes up fungal cell walls?",
+        "opts": [
+          "Cellulose",
+          "Chitin",
+          "Peptidoglycan",
+          "Calcium carbonate"
+        ],
+        "a": 1,
+        "exp": "The notes state that fungi 'Have a cell wall made of chitin instead of cellulose'."
+      },
+      {
+        "q": "How do non-motile fungi move toward a food source?",
+        "opts": [
+          "By beating flagella",
+          "By extending their pseudopods",
+          "By extending their hyphae",
+          "By utilizing cilia"
+        ],
+        "a": 2,
+        "exp": "The notes state: 'Only movement is toward a food source by extension of hyphae'."
+      }
+    ],
+    "legacy_index": 39
+  },
+  {
+    "unit": 6,
+    "page": 41,
+    "filename": "Unit_6_4.txt",
+    "section_title": "Fungi",
+    "page_num_in_file": 5,
+    "slide_title": "Reproduction",
+    "original_text": "Reproduction¨Use both asexual and sexual reproduction¨Sexual involves 3 stages¤Haploid Hyphae¤Dikaryotic StagenHyphae from two different mating types fuse. Paired haploid nuclei termed dikaryotic.¤Diploid ZygotenNuclear fusion produces diploid nucleusnHaploid spores produced by meiosisnSpores germinate directly into haploid hyphae¨Windblown spores allow for spread of fungi since non-motile¨Some species only do asexual through production of windblown spores¨Unicellular yeast reproduce asexually by budding.",
+    "explanation": "Fungi reproduce both asexually and sexually. Fungal sexual reproduction involves three stages: 1) Haploid Hyphae, 2) Dikaryotic Stage, in which hyphae from two different mating types fuse, leaving paired, unfused haploid nuclei, and 3) Diploid Zygote, where nuclear fusion creates a diploid nucleus. Meiosis then produces haploid spores that germinate directly into haploid hyphae. Fungi disperse via windblown spores. Some species reproduce only asexually through windblown spores, and unicellular yeast reproduce asexually by budding.",
+    "questions": [
+      {
+        "q": "What characterizes the dikaryotic stage in fungal reproduction?",
+        "opts": [
+          "Nuclear fusion creates a diploid nucleus.",
+          "Haploid spores germinate directly into new cells.",
+          "Hyphae from two different mating types fuse, resulting in paired, unfused haploid nuclei.",
+          "A small yeast bud pinches off from the parent cell."
+        ],
+        "a": 2,
+        "exp": "The notes state: 'Hyphae from two different mating types fuse. Paired haploid nuclei termed dikaryotic.'"
+      },
+      {
+        "q": "What type of cell division produces haploid spores in the diploid zygote stage?",
+        "opts": [
+          "Mitosis",
+          "Meiosis",
+          "Binary fission",
+          "Budding"
+        ],
+        "a": 1,
+        "exp": "The notes state: 'Haploid spores produced by meiosis'."
+      },
+      {
+        "q": "How do yeast cells reproduce asexually?",
+        "opts": [
+          "Transduction",
+          "Conjugation",
+          "Budding",
+          "Meiosis"
+        ],
+        "a": 2,
+        "exp": "The notes state: 'Unicellular yeast reproduce asexually by budding.'"
+      }
+    ],
+    "legacy_index": 40
+  },
+  {
+    "unit": 6,
+    "page": 42,
+    "filename": "Unit_6_4.txt",
+    "section_title": "Fungi",
+    "page_num_in_file": 6,
+    "slide_title": "Diversity -Chytridiomycota",
+    "original_text": "Diversity -Chytridiomycota¨Chytrid¤Aquatic fungi –almost 800 species¤Unique among funginOnly fungi to still have flagellated cellsnHelp with aquatic lifestylenProduce flagellated gametes and sporesnMost reproduce asexually through production of zoospore within a single cell, which grows into new chitridnSuggest shared ancestry with choanoflagellate protists",
+    "explanation": "Phylum Chytridiomycota contains chytrids, which are aquatic fungi representing almost 800 species. Chytrids are unique as they are the only fungi that still possess flagellated cells (both flagellated gametes and spores), aiding their aquatic lifestyle. Most chytrids reproduce asexually by producing a flagellated zoospore within a single cell, which grows into a new chytrid. This flagellated state suggests a shared evolutionary ancestry with choanoflagellate protists.",
+    "questions": [
+      {
+        "q": "What unique evolutionary feature is found in chytrids but absent in other fungi?",
+        "opts": [
+          "Cell walls containing cellulose",
+          "Flagellated cells",
+          "Lack of a nucleus",
+          "A multi-chambered calcium carbonate test"
+        ],
+        "a": 1,
+        "exp": "The notes state that chytrids are the 'Only fungi to still have flagellated cells'."
+      },
+      {
+        "q": "With which group of protists do chytrids share a suggested ancestry due to their flagellated cells?",
+        "opts": [
+          "Dinoflagellates",
+          "Choanoflagellates",
+          "Euglenids",
+          "Ciliates"
+        ],
+        "a": 1,
+        "exp": "The notes state that their flagellated structures 'Suggest shared ancestry with choanoflagellate protists'."
+      }
+    ],
+    "legacy_index": 41
+  },
+  {
+    "unit": 6,
+    "page": 43,
+    "filename": "Unit_6_4.txt",
+    "section_title": "Fungi",
+    "page_num_in_file": 7,
+    "slide_title": "Diversity -Zygomycota",
+    "original_text": "Diversity -Zygomycota¨Mainly saprotrophs –decompose animal and plant matter, common with baked goods¨Black bread mold (Rhizopus stolonifer)¤Both asexual and sexual life cycle¤Spores settle on food source and develop into 3 specialized hyphaenStolons–grow horizontal on surface of breadnRhizoids –grow into bread as anchorsnSporangiophores –Aerial hyphae that produce haploid spores",
+    "explanation": "Phylum Zygomycota contains fungi that are mainly saprotrophs, decomposing animal and plant matter. They are commonly found on baked goods. A prominent example is the black bread mold (Rhizopus stolonifer), which has both asexual and sexual life cycles. Its spores settle on food and develop into three types of specialized hyphae: 1) Stolons, which grow horizontally across the surface of the bread; 2) Rhizoids, which grow downward into the bread as anchors; and 3) Sporangiophores, which are aerial hyphae that produce haploid spores.",
+    "questions": [
+      {
+        "q": "What is the function of rhizoids in Rhizopus stolonifer?",
+        "opts": [
+          "To grow horizontally on the surface of bread",
+          "To grow into the bread as anchors",
+          "To produce haploid spores aerially",
+          "To form flagellated gametes"
+        ],
+        "a": 1,
+        "exp": "The notes state: 'Rhizoids – grow into bread as anchors'."
+      },
+      {
+        "q": "Which type of hyphae in black bread mold grows horizontally on the bread surface?",
+        "opts": [
+          "Rhizoids",
+          "Sporangiophores",
+          "Stolons",
+          "Mycelia"
+        ],
+        "a": 2,
+        "exp": "The notes state: 'Stolons–grow horizontal on surface of bread'."
+      },
+      {
+        "q": "What are sporangiophores?",
+        "opts": [
+          "Flagellated gametes in aquatic fungi",
+          "Root-like anchoring filaments in soil",
+          "Aerial hyphae that produce haploid spores",
+          "Horizontal spreading filaments on bread"
+        ],
+        "a": 2,
+        "exp": "The notes define Sporangiophores as 'Aerial hyphae that produce haploid spores'."
+      }
+    ],
+    "legacy_index": 42
+  },
+  {
+    "unit": 6,
+    "page": 44,
+    "filename": "Unit_6_4.txt",
+    "section_title": "Fungi",
+    "page_num_in_file": 8,
+    "slide_title": "Diversity –Glomeromycota",
+    "original_text": "Diversity –Glomeromycota¨Arbuscular mycorrhizal (AM) Fungi¤Arbuscules–branching invaginations that fungus make when invading plant roots¤Mycorrhizae -mutualistic associations of plants and fungi¤Previously grouped as Zygomycota, but molecular data determined it is its own unique genetic group.",
+    "explanation": "Phylum Glomeromycota consists of arbuscular mycorrhizal (AM) fungi. They form arbuscules, which are branching invaginations that the fungus makes when invading host plant roots. These fungi form mycorrhizae, which are mutualistic associations between plants and fungi. Although they were previously grouped within Zygomycota, molecular data has shown that Glomeromycota is a distinct genetic group.",
+    "questions": [
+      {
+        "q": "What are arbuscules in Glomeromycota?",
+        "opts": [
+          "Horizontal surface hyphae on bread",
+          "Branching invaginations that the fungus forms when invading plant roots",
+          "Flagellated reproductive cells",
+          "Spores that germinate into haploid hyphae"
+        ],
+        "a": 1,
+        "exp": "The notes define arbuscules as 'branching invaginations that fungus make when invading plant roots'."
+      },
+      {
+        "q": "How were Glomeromycota classified before molecular data separated them?",
+        "opts": [
+          "As Ascomycota",
+          "As Zygomycota",
+          "As Chytridiomycota",
+          "As Eukaryotic plants"
+        ],
+        "a": 1,
+        "exp": "The notes state that they were 'Previously grouped as Zygomycota, but molecular data determined it is its own unique genetic group.'"
+      }
+    ],
+    "legacy_index": 43
+  },
+  {
+    "unit": 6,
+    "page": 45,
+    "filename": "Unit_6_4.txt",
+    "section_title": "Fungi",
+    "page_num_in_file": 9,
+    "slide_title": "Diversity -Ascomycota",
+    "original_text": "Diversity -Ascomycota¨Sac Fungi –50,000 species¨Most Saprotrophs, most septate hyphae¨Examples¤Morels and truffles -delicacies¤Many plant diseases –powdery mildew, ergot of rye…¤Aspergillus & Candida cause serious human infection¤Talaromyces(formerly Penicilllium) is source of penicillin¨Asexual reproduction is the norm¤Yeast reproduce by buddingnSmall bulge appears on one side of cell, and pinches off¤Others produce spores called conidia,which develop at tip of hyphaenThese spores can be used for fungal identification",
+    "explanation": "Phylum Ascomycota, also called Sac Fungi, contains around 50,000 species, most of which are saprotrophs with septate hyphae. Examples include edible morels and truffles, plant pathogens causing powdery mildew and ergot of rye, human pathogens like Aspergillus and Candida, and Talaromyces (formerly Penicillium), which is the source of penicillin. Asexual reproduction is the norm: yeasts reproduce by budding (a small bulge appears and pinches off), while other ascomycetes produce asexual spores called conidia at the tips of their hyphae, which are used for species identification.",
+    "questions": [
+      {
+        "q": "What are the asexual spores produced at the tips of Ascomycota hyphae called?",
+        "opts": [
+          "Zoospores",
+          "Conidia",
+          "Ascocarps",
+          "Stolons"
+        ],
+        "a": 1,
+        "exp": "The notes state that they 'produce spores called conidia, which develop at tip of hyphae'."
+      },
+      {
+        "q": "Which of the following is a source of the antibiotic penicillin?",
+        "opts": [
+          "Aspergillus",
+          "Candida",
+          "Talaromyces (formerly Penicillium)",
+          "Rhizopus stolonifer"
+        ],
+        "a": 2,
+        "exp": "The notes list 'Talaromyces (formerly Penicilliium) is source of penicillin'."
+      },
+      {
+        "q": "What phylum of fungi is commonly called Sac Fungi?",
+        "opts": [
+          "Zygomycota",
+          "Ascomycota",
+          "Chytridiomycota",
+          "Glomeromycota"
+        ],
+        "a": 1,
+        "exp": "The notes state: 'Diversity - Ascomycota Sac Fungi – 50,000 species'."
+      }
+    ],
+    "legacy_index": 44
+  },
+  {
+    "unit": 6,
+    "page": 46,
+    "filename": "Unit_6_4.txt",
+    "section_title": "Fungi",
+    "page_num_in_file": 10,
+    "slide_title": "Diversity -Ascomycota",
+    "original_text": "Diversity -Ascomycota¨Sexual reproduction¤Ascusis a fingerlike sac that develops during sexualnMay be surrounded and protected by sterile hyphae within a fruiting body called an ascocarpnIn cup fungi, ascocarpare cup shapednIn morels, they are stalked and crowned by a pitted bell-shapednHaploid hyphae fuse to make diploidnMeiosis occurs, followed by mitosis –results in 8 ascosporesnSpores move by wind, contact female organ, and produce new haploid hyphae",
+    "explanation": "During Ascomycota sexual reproduction, a specialized fingerlike sac called an ascus is formed. These asci are often protected by a surrounding layer of sterile hyphae within a fruiting body called an ascocarp. The shape of the ascocarp varies: it is cup-shaped in cup fungi and stalked with a pitted bell-shaped crown in morels. The reproduction process involves the fusion of haploid hyphae to form a diploid nucleus, which undergoes meiosis followed by a single mitotic division, resulting in 8 haploid ascospores. These spores are dispersed by the wind, and upon contacting a female organ, they germinate to produce new haploid hyphae.",
+    "questions": [
+      {
+        "q": "What is the characteristic reproductive sac of Ascomycota called?",
+        "opts": [
+          "Basidium",
+          "Ascus",
+          "Sporangium",
+          "Conidia"
+        ],
+        "a": 1,
+        "exp": "The notes state that an 'Ascus is a fingerlike sac that develops during sexual' reproduction in Ascomycota."
+      },
+      {
+        "q": "How many ascospores are produced in each ascus after meiosis and mitosis occur?",
+        "opts": [
+          "4",
+          "6",
+          "8",
+          "16"
+        ],
+        "a": 2,
+        "exp": "The notes state: 'Meiosis occurs, followed by mitosis – results in 8 ascospores'."
+      },
+      {
+        "q": "What is the fruiting body of an Ascomycete called?",
+        "opts": [
+          "Basidiocarp",
+          "Ascocarp",
+          "Mycelium",
+          "Stolon"
+        ],
+        "a": 1,
+        "exp": "The notes state the asci may be protected within a fruiting body called an 'ascocarp'."
+      }
+    ],
+    "legacy_index": 45
+  },
+  {
+    "unit": 6,
+    "page": 47,
+    "filename": "Unit_6_4.txt",
+    "section_title": "Fungi",
+    "page_num_in_file": 11,
+    "slide_title": "Ascomycota –Benefits and Harms",
+    "original_text": "Ascomycota –Benefits and Harms¨Yeast¤Used to make beer and wine, bread leavening¤Genetic experiments –model organism¤Candida albicanscauses fungal infections –oral thrush¨Molds¤Aspergillus–green molds used to produce soy sauce, and citric and gallic acids¤Aspergillus flavus secretes a carcinogenic toxin¤Trichophyton–athletes foot¤Histoplasma capsulatum leads to “fungal flu”¨Mushrooms¤Yummy¤Certain wild varieties poisonousnRed and yellow AmanitasnDeath angel mushroom, Amanita phalloides, 90% of fatalities from wild mushroomsnAbdominal pain, vomiting, hallucinationsnPoison inhibits RNA polymerase, leading to kidney andliver damage",
+    "explanation": "Ascomycota and other fungi exhibit a wide array of benefits and harms. Yeasts are widely utilized in making beer, wine, and bread, and serve as model organisms in genetic research, but Candida albicans causes infections like oral thrush. Molds such as Aspergillus are used to produce soy sauce, citric acid, and gallic acid. However, Aspergillus flavus secretes a carcinogenic toxin, Trichophyton causes athlete's foot, and Histoplasma capsulatum causes 'fungal flu'. Regarding mushrooms, while many are edible, some are extremely poisonous. Wild varieties like the red and yellow Amanitas, specifically the Death Angel mushroom (Amanita phalloides), cause 90% of wild mushroom fatalities. This toxin inhibits RNA polymerase, leading to abdominal pain, vomiting, hallucinations, and severe kidney and liver damage.",
+    "questions": [
+      {
+        "q": "Which mold species is a green mold used to produce soy sauce, citric acid, and gallic acid?",
+        "opts": [
+          "Candida albicans",
+          "Aspergillus",
+          "Trichophyton",
+          "Histoplasma capsulatum"
+        ],
+        "a": 1,
+        "exp": "The notes state: 'Aspergillus–green molds used to produce soy sauce, and citric and gallic acids'."
+      },
+      {
+        "q": "What is the toxic mechanism of the Death Angel mushroom (Amanita phalloides)?",
+        "opts": [
+          "It lyses the red blood cells.",
+          "It inhibits RNA polymerase, causing kidney and liver damage.",
+          "It blocks the synthesis of peptidoglycan in the cell wall.",
+          "It prevents the replication of viral cDNA."
+        ],
+        "a": 1,
+        "exp": "The notes state that the 'Poison inhibits RNA polymerase, leading to kidney and liver damage'."
+      },
+      {
+        "q": "Which fungus is responsible for athlete's foot?",
+        "opts": [
+          "Candida albicans",
+          "Trichophyton",
+          "Histoplasma capsulatum",
+          "Aspergillus flavus"
+        ],
+        "a": 1,
+        "exp": "The notes state: 'Trichophyton–athletes foot'."
+      }
+    ],
+    "legacy_index": 46
+  },
+  {
+    "unit": 6,
+    "page": 48,
+    "filename": "Unit_6_4.txt",
+    "section_title": "Fungi",
+    "page_num_in_file": 12,
+    "slide_title": "Diversity -Basidiomycota",
+    "original_text": "Diversity -Basidiomycota¨Club Fungi –22,000 species¤Familiar toadstools, mushrooms, bracket fungi, puffballsnSome poisonousnSome cause plant diseases (smuts and rusts)¤Mycelium composed of septate hyphae¤Usually reproduce sexuallynHaploid hyphae fuse to form dikaryotic mycelium (n + n)nDikaryotic mycelium form fruiting bodies –basidiocarpwith club shaped basidiumnNuclear fusion followed by meiosis forms basidiospores",
+    "explanation": "Phylum Basidiomycota, known as Club Fungi, comprises around 22,000 species, including toadstools, mushrooms, bracket fungi, and puffballs. Some species are poisonous, and some cause plant diseases like smuts and rusts. The mycelium of Basidiomycota has septate hyphae. They typically reproduce sexually. Haploid hyphae fuse to form a dikaryotic mycelium (n + n), which develops into a fruiting body called a basidiocarp. This fruiting body contains club-shaped reproductive structures called basidia. Within the basidium, nuclear fusion is followed by meiosis to produce basidiospores.",
+    "questions": [
+      {
+        "q": "What is the common name for members of Phylum Basidiomycota?",
+        "opts": [
+          "Sac Fungi",
+          "Club Fungi",
+          "AM Fungi",
+          "Aquatic Fungi"
+        ],
+        "a": 1,
+        "exp": "The notes state: 'Diversity -Basidiomycota Club Fungi – 22,000 species'."
+      },
+      {
+        "q": "What reproductive structure is formed by the dikaryotic mycelium of Basidiomycota?",
+        "opts": [
+          "An ascocarp with fingerlike asci",
+          "A basidiocarp containing club-shaped basidia",
+          "A sporangiophore containing zoospores",
+          "A multi-chambered test of calcium carbonate"
+        ],
+        "a": 1,
+        "exp": "According to the notes, the dikaryotic mycelium forms 'fruiting bodies – basidiocarp with club shaped basidium'."
+      },
+      {
+        "q": "What process forms basidiospores in the basidium?",
+        "opts": [
+          "Meiosis followed by mitosis",
+          "Nuclear fusion followed by meiosis",
+          "Budding of the basidiocarp",
+          "Binary fission"
+        ],
+        "a": 1,
+        "exp": "The notes state: 'Nuclear fusion followed by meiosis forms basidiospores'."
+      }
+    ],
+    "legacy_index": 47
+  },
+  {
+    "unit": 6,
+    "page": 49,
+    "filename": "Unit_6_4.txt",
+    "section_title": "Fungi",
+    "page_num_in_file": 13,
+    "slide_title": "Symbiotic Relationships of Fungi",
+    "original_text": "Symbiotic Relationships of Fungi¨Lichen¤Fungus & Cyanobacterium or green algaenFungal hyphae penetrates photosynthetic symbiontnNutrients transferred to fungusnPossibly mutualistic but fungus more parasiticnPhotosynthetic symbiont independentnFungal symbiont cannot grow alone¤3 morphological typesnCompact crustose –found on bare rocks or tree barknFruticose –shrublikenFoliose –leaflike¤Can live in extreme conditions¤Sensitive indicators of air pollution¨Mycorrhizae¤Discussed earlier",
+    "explanation": "Lichens represent a symbiotic relationship between a fungus and a photosynthetic partner, which can be either a cyanobacterium or green algae. Fungal hyphae penetrate the photosynthetic host cell to transfer nutrients back to the fungus. Although historically considered mutualistic, the relationship may be more parasitic because the photosynthetic partner can live independently, whereas the fungal partner cannot grow alone. Lichens exhibit three morphological growth forms: 1) compact crustose (often found on bare rocks or tree bark), 2) fruticose (shrublike), and 3) foliose (leaflike). Lichens are highly resilient, allowing them to live in extreme environments, but they are also highly sensitive indicators of air pollution. Mycorrhizae are another major symbiotic relationship of fungi, as discussed previously.",
+    "questions": [
+      {
+        "q": "Which of the following is NOT one of the three morphological types of lichens?",
+        "opts": [
+          "Compact crustose",
+          "Fruticose",
+          "Foliose",
+          "Septate"
+        ],
+        "a": 3,
+        "exp": "The three morphological types of lichens listed are crustose, fruticose, and foliose. Septate refers to walled-off hyphae in fungi."
+      },
+      {
+        "q": "Why is the lichen symbiosis considered to lean towards parasitism by the fungus?",
+        "opts": [
+          "The fungus digests the photosynthetic symbiont's nucleus.",
+          "The photosynthetic symbiont cannot grow alone, but the fungus can.",
+          "The photosynthetic symbiont can grow independently, but the fungal partner cannot grow alone and extracts nutrients from the host.",
+          "The fungus introduces viral pathogens into the green algae."
+        ],
+        "a": 2,
+        "exp": "The notes state: 'Possibly mutualistic but fungus more parasitic' because the photosynthetic partner is independent but the 'Fungal symbiont cannot grow alone' and nutrients are transferred to the fungus."
+      },
+      {
+        "q": "Why are lichens ecologically significant indicators?",
+        "opts": [
+          "They indicate changes in water salinity.",
+          "They are sensitive indicators of air pollution.",
+          "They reflect changes in atmospheric nitrogen gas.",
+          "They track the abundance of soil saprotrophs."
+        ],
+        "a": 1,
+        "exp": "The notes state that lichens are 'Sensitive indicators of air pollution'."
+      }
+    ],
+    "legacy_index": 48
+  },
+  {
+    "unit": 6,
+    "page": 50,
+    "filename": "Unit_6_4.txt",
+    "section_title": "Fungi",
+    "page_num_in_file": 14,
+    "slide_title": "Overview",
+    "original_text": "Overview",
+    "explanation": "Study this complete page carefully. Focus on every named term, relationship, process, example, qualification, and exception shown in the notes, then answer the recall prompt below.",
+    "questions": [
+      {
+        "q": "Which kingdom has been summarized prior to this overview slide?",
+        "opts": [
+          "Plantae",
+          "Fungi",
+          "Animalia",
+          "Protista"
+        ],
+        "a": 1,
+        "exp": "This slide marks the overview for the Fungi section (Unit 6.4)."
+      }
+    ],
+    "legacy_index": 49
+  },
+  {
+    "unit": 6,
+    "page": 51,
+    "filename": "Unit_6_5.txt",
+    "section_title": "Plant Evolution & Diversity",
+    "page_num_in_file": 1,
+    "slide_title": "Plant Evolution & Diversity - Visual Page 1",
+    "original_text": "UNIT 6: DIVERSITY OF LIFE FORMS6.5 –PLANT EVOLUTION & DIVERSITYBiology 9 Mr. QueenanCh. 22.1-22.2 (pg. 722-736)",
+    "explanation": "This is the title slide for Unit 6.5 on Plant Evolution & Diversity in Biology 9 taught by Mr. Queenan, corresponding to Chapters 22.1-22.2, pages 722-736 of the textbook.",
+    "questions": [
+      {
+        "q": "Which textbook chapters correspond to the Plant Evolution & Diversity section?",
+        "opts": [
+          "Chapters 22.1-22.2 (pg. 722-736)",
+          "Chapter 21.4 (pg. 704-709)",
+          "Chapter 21.3 (pg. 698-703)",
+          "Chapters 20.1-20.2 (pg. 650-662)"
+        ],
+        "a": 0,
+        "exp": "The title slide explicitly lists 'Ch. 22.1-22.2 (pg. 722-736)' for Unit 6.5."
+      }
+    ],
+    "legacy_index": 50
+  },
+  {
+    "unit": 6,
+    "page": 52,
+    "filename": "Unit_6_5.txt",
+    "section_title": "Plant Evolution & Diversity",
+    "page_num_in_file": 2,
+    "slide_title": "Evolution & Ancestry",
+    "original_text": "•Evolution & Ancestry•Alternation of Generations•Common Traits•Diversity & Characteristics\nPlant Outline",
+    "explanation": "This slide outlines the subtopics to be discussed in the plants unit (6.5): Evolution & Ancestry, Alternation of Generations, Common Traits, and Diversity & Characteristics.",
+    "questions": [
+      {
+        "q": "Which of the following topics is listed on the Plant Outline slide?",
+        "opts": [
+          "Mycorrhizal Fungi Partnerships",
+          "Viral Genome Structure",
+          "Alternation of Generations",
+          "Bacterial Binary Fission"
+        ],
+        "a": 2,
+        "exp": "The outline lists 'Alternation of Generations' as one of the four main plant topics."
+      }
+    ],
+    "legacy_index": 51
+  },
+  {
+    "unit": 6,
+    "page": 53,
+    "filename": "Unit_6_5.txt",
+    "section_title": "Plant Evolution & Diversity",
+    "page_num_in_file": 3,
+    "slide_title": "Plant Evolution & Ancestry",
+    "original_text": "Plant Evolution & Ancestry¨Multicellular, photosynthetic eukaryotes, marked by adaptation to land existence¤Thought to have evolved from green algae; Charophytes closest by RNA analysis¤Adaptation to land required ability to survive threat of drying out; but CO2more available¤Able to store excess carbohydrates as starch¤Cellulose cell walls",
+    "explanation": "Plants are multicellular, photosynthetic eukaryotes that adapted to a terrestrial lifestyle. RNA analysis suggests that plants evolved from green algae, with Charophytes being their closest relative. Adapting to land required plants to overcome the threat of desiccation (drying out); however, a significant advantage of land was that carbon dioxide (CO2) was much more available in the air. Plants store excess carbohydrates as starch and have cell walls made of cellulose.",
+    "questions": [
+      {
+        "q": "Which group of green algae is closest to land plants according to RNA analysis?",
+        "opts": [
+          "Chlorophytes",
+          "Charophytes",
+          "Dinoflagellates",
+          "Red Algae"
+        ],
+        "a": 1,
+        "exp": "The notes state that 'Charophytes closest by RNA analysis' when tracing plant evolution from green algae."
+      },
+      {
+        "q": "What advantage did adapting to land offer to early plants?",
+        "opts": [
+          "Lower threat of drying out",
+          "CO2 was more available",
+          "Presence of peptidoglycan in the soil",
+          "Lack of solar radiation"
+        ],
+        "a": 1,
+        "exp": "The notes state that land adaptation featured 'CO2 more available'."
+      },
+      {
+        "q": "What substance makes up plant cell walls, and how do they store excess carbohydrates?",
+        "opts": [
+          "Chitin; stored as glycogen",
+          "Peptidoglycan; stored as starch",
+          "Cellulose; stored as starch",
+          "Silica; stored as glucose"
+        ],
+        "a": 2,
+        "exp": "According to the notes, plants have 'Cellulose cell walls' and are 'Able to store excess carbohydrates as starch'."
+      }
+    ],
+    "legacy_index": 52
+  },
+  {
+    "unit": 6,
+    "page": 54,
+    "filename": "Unit_6_5.txt",
+    "section_title": "Plant Evolution & Diversity",
+    "page_num_in_file": 4,
+    "slide_title": "Alternation of Generations",
+    "original_text": "Alternation of Generations¨Plants go through alternating generations of life¤2n stage and 1n stage¤Spore is the 1n cell created by meiosis.nResults in gametophyte stage, which produces gametes¤Gametes fuse to make 2n zygote which grows through mitosisnResults in sporophyte stage, which will produce spores¤As plants became better adapted to life on land, the sporophyte stage became the dominant cycle",
+    "explanation": "Plants exhibit an alternation of generations, cycling between diploid (2n) and haploid (1n) stages. The haploid spore is created by meiosis and germinates into the gametophyte stage, which produces gametes. When these gametes fuse, they form a diploid (2n) zygote that grows through mitosis into the sporophyte stage. The sporophyte then produces spores to repeat the cycle. As plants became better adapted to life on land, the sporophyte stage became the dominant phase of their life cycle.",
+    "questions": [
+      {
+        "q": "Which generation is produced by the germination of a haploid spore?",
+        "opts": [
+          "Sporophyte stage",
+          "Gametophyte stage",
+          "Zygote stage",
+          "Basidiocarp stage"
+        ],
+        "a": 1,
+        "exp": "The notes state that the spore is a 1n cell that 'Results in gametophyte stage, which produces gametes'."
+      },
+      {
+        "q": "How is the sporophyte stage of the plant life cycle formed?",
+        "opts": [
+          "By the fusion of spores via meiosis",
+          "By the mitotic growth of a 2n zygote (formed by gamete fusion)",
+          "By the budding of yeast cells",
+          "By the extension of vegetative hyphae"
+        ],
+        "a": 1,
+        "exp": "The notes state: 'Gametes fuse to make 2n zygote which grows through mitosis -> Results in sporophyte stage'."
+      },
+      {
+        "q": "How did the dominance of plant generations change as plants adapted to land?",
+        "opts": [
+          "The gametophyte stage became dominant.",
+          "The sporophyte stage became dominant.",
+          "The haploid stage disappeared.",
+          "Plants ceased performing meiosis."
+        ],
+        "a": 1,
+        "exp": "The notes state: 'As plants became better adapted to life on land, the sporophyte stage became the dominant cycle'."
+      }
+    ],
+    "legacy_index": 53
+  },
+  {
+    "unit": 6,
+    "page": 55,
+    "filename": "Unit_6_5.txt",
+    "section_title": "Plant Evolution & Diversity",
+    "page_num_in_file": 5,
+    "slide_title": "Common Traits",
+    "original_text": "Common Traits¨Common reproductive traits¤Observed in alternating generations on last slidenEmbryophytaàSporophyte (Sporangia produce spores) àGametophyte (gametangia produce gametes)nMale gametangia = antheridium, female = archegonium¤Common traits associated with land adaptationnExposed parts of plants covered with waxy coatingnCuticle -prevents loss of waternLand plants have little openings for gas exchangenStomata (plural) / Stoma (singular)nPresence of apical tissue –allows ability to produce complex tissue and organs",
+    "explanation": "Land plants (Embryophytes) share common reproductive and structural traits. Reproductive organs include sporangia on the sporophyte (which produce spores) and gametangia on the gametophyte (which produce gametes). The male gametangium is called the antheridium, and the female is the archegonium. Key adaptations to land life include: 1) a waxy coating called a cuticle covering exposed parts to prevent water loss; 2) microscopic openings called stomata (singular: stoma) that facilitate gas exchange; and 3) the presence of apical tissue, which allows plants to grow and differentiate complex tissues and organs.",
+    "questions": [
+      {
+        "q": "What are the male and female gamete-producing organs in land plants?",
+        "opts": [
+          "Antheridium (male) and Archegonium (female)",
+          "Archegonium (male) and Antheridium (female)",
+          "Sporangium (male) and Stoma (female)",
+          "Cuticle (male) and Apical Tissue (female)"
+        ],
+        "a": 0,
+        "exp": "The notes state: 'Male gametangia = antheridium, female = archegonium'."
+      },
+      {
+        "q": "What is the primary function of the waxy plant cuticle?",
+        "opts": [
+          "To allow gas exchange",
+          "To prevent water loss",
+          "To produce gametes",
+          "To anchor the plant into soil"
+        ],
+        "a": 1,
+        "exp": "The notes state that the 'Cuticle - prevens loss of water'."
+      },
+      {
+        "q": "What structures allow land plants to perform gas exchange through their waxy cuticle?",
+        "opts": [
+          "Archegonia",
+          "Apical tissues",
+          "Stomata (singular: stoma)",
+          "Antheridia"
+        ],
+        "a": 2,
+        "exp": "The notes describe 'Stomata (plural) / Stoma (singular)' as 'little openings for gas exchange'."
+      }
+    ],
+    "legacy_index": 54
+  },
+  {
+    "unit": 6,
+    "page": 56,
+    "filename": "Unit_6_5.txt",
+    "section_title": "Plant Evolution & Diversity",
+    "page_num_in_file": 6,
+    "slide_title": "Diversity -Bryophytes",
+    "original_text": "Diversity -Bryophytes¨Nonvascular plants -Liverworts, Hornworts, & Mosses¤Lack specialized means of transporting water and organic nutrients nDo not have true roots, stems, and leaves nMost use Rhyzoidstructure for anchoring¤Only land plant where gametophyte is dominant generationnProduces eggs in archegonia nProduces flagellated sperm in antheridia nSperm swim to egg in film of water to make zygote",
+    "explanation": "Bryophytes are nonvascular land plants, comprising liverworts, hornworts, and mosses. Because they lack vascular tissue to transport water and organic nutrients, they do not possess true roots, stems, or leaves, instead relying on rhizoid (rhyzoid) structures for anchoring. Bryophytes are the only land plants in which the gametophyte is the dominant generation. The gametophyte produces eggs in archegonia and flagellated sperm in antheridia. The sperm must swim to the egg through a film of environmental water to fertilize it and form the zygote.",
+    "questions": [
+      {
+        "q": "Which of the following is a bryophyte (nonvascular plant)?",
+        "opts": [
+          "Charophyte",
+          "Moss",
+          "Fern",
+          "Conifer"
+        ],
+        "a": 1,
+        "exp": "The notes state that Bryophytes (nonvascular plants) include 'Liverworts, Hornworts, & Mosses'."
+      },
+      {
+        "q": "What is unique about the alternation of generations in bryophytes compared to other land plants?",
+        "opts": [
+          "The sporophyte stage is dominant.",
+          "The gametophyte stage is dominant.",
+          "They reproduce only asexually via binary fission.",
+          "They lack archegonia and antheridia."
+        ],
+        "a": 1,
+        "exp": "The notes state that Bryophytes are the 'Only land plant where gametophyte is dominant generation'."
+      },
+      {
+        "q": "Why do bryophytes require water for fertilization?",
+        "opts": [
+          "Their egg cells are released into the water.",
+          "Their flagellated sperm must swim to the egg in archegonia.",
+          "Water is needed to dissolve their cell walls.",
+          "Their spores cannot survive in dry air."
+        ],
+        "a": 1,
+        "exp": "The notes state that bryophytes produce 'flagellated sperm in antheridia' and 'Sperm swim to egg in film of water to make zygote'."
+      }
+    ],
+    "legacy_index": 55
+  },
+  {
+    "unit": 6,
+    "page": 57,
+    "filename": "Unit_6_5.txt",
+    "section_title": "Plant Evolution & Diversity",
+    "page_num_in_file": 7,
+    "slide_title": "Bryophyte Life Cycle",
+    "original_text": "Bryophyte Life Cycle",
+    "explanation": "This slide provides a detailed visual diagram of the Bryophyte Life Cycle, illustrating the alternation of generations.",
+    "questions": [
+      {
+        "q": "Which life cycle is represented on this slide?",
+        "opts": [
+          "Lytic cycle of viruses",
+          "Sac fungi life cycle",
+          "Bryophyte Life Cycle",
+          "Angiosperm life cycle"
+        ],
+        "a": 2,
+        "exp": "The slide title is 'Bryophyte Life Cycle'."
+      }
+    ],
+    "legacy_index": 56
+  },
+  {
+    "unit": 6,
+    "page": 58,
+    "filename": "Unit_6_5.txt",
+    "section_title": "Plant Evolution & Diversity",
+    "page_num_in_file": 8,
+    "slide_title": "Evolution of Vascular Plants",
+    "original_text": "Evolution of Vascular Plants¨Vascular Plants –Have roots that absorb water and nutrients from soil, and transport through a network of tubes¤Xylemconducts water and dissolved minerals up from roots ¤Phloemconducts sucrose and other organic compounds throughout the plant ¤Ligninstrengthens walls of conducting cells in xylem ¤Most seedless vascular plants are homosporousnWindblown spores are dispersal agents ¤All seed plants are heterosporousand have male and female gametophytes nSeeds disperse offspring",
+    "explanation": "Vascular plants possess roots that absorb water and nutrients from the soil, transporting them through a network of specialized tubes. The vascular tissue includes: 1) Xylem, which conducts water and dissolved minerals upward from the roots, and features walls reinforced with lignin to strengthen the conducting cells; and 2) Phloem, which conducts sucrose and other organic compounds throughout the plant. Most seedless vascular plants are homosporous, producing a single type of spore that acts as a windblown dispersal agent. In contrast, all seed plants are heterosporous, having distinct male and female gametophytes, and they use seeds to disperse their offspring.",
+    "questions": [
+      {
+        "q": "Which vascular tissue conducts sucrose and organic compounds throughout the plant?",
+        "opts": [
+          "Xylem",
+          "Phloem",
+          "Stomata",
+          "Rhizoid"
+        ],
+        "a": 1,
+        "exp": "The notes state: 'Phloem conducts sucrose and other organic compounds throughout the plant'."
+      },
+      {
+        "q": "What substance is responsible for strengthening the walls of water-conducting cells in the xylem?",
+        "opts": [
+          "Cellulose",
+          "Peptidoglycan",
+          "Chitin",
+          "Lignin"
+        ],
+        "a": 3,
+        "exp": "The notes specify that 'Lignin strengthens walls of conducting cells in xylem'."
+      },
+      {
+        "q": "How do seedless vascular plants compare to seed plants in terms of spore type and offspring dispersal?",
+        "opts": [
+          "Seedless vascular plants are homosporous (dispersed by spores), whereas seed plants are heterosporous (dispersed by seeds).",
+          "Seedless vascular plants are heterosporous, while seed plants are homosporous.",
+          "Both seedless and seed vascular plants are homosporous.",
+          "Seedless vascular plants use flagellated sperm only, while seed plants lack gametophytes."
+        ],
+        "a": 0,
+        "exp": "The notes state: 'Most seedless vascular plants are homosporous... windblown spores are dispersal agents' and 'All seed plants are heterosporous... Seeds disperse offspring'."
+      }
+    ],
+    "legacy_index": 57
+  },
+  {
+    "unit": 6,
+    "page": 59,
+    "filename": "Unit_6_5.txt",
+    "section_title": "Plant Evolution & Diversity",
+    "page_num_in_file": 9,
+    "slide_title": "Diversity –Lycophytes & Pteridophytes",
+    "original_text": "Diversity –Lycophytes & Pteridophytes¨Seedless vascular plants¤LycophytesnHave leaves called microphyllsbecause they have only one strand of vascular tissuenInclude club mosses (ground pines, spike mosses, and quillworts)¤PteridophytesnHave leaves called megaphyllsbecause they have several strands of vascular tissuenInclude horsetails, Whisk ferns, and ferns",
+    "explanation": "Lycophytes and Pteridophytes are two groups of seedless vascular plants. Lycophytes possess leaves called microphylls, which contain only a single strand of vascular tissue; this group includes club mosses, ground pines, spike mosses, and quillworts. Pteridophytes possess leaves called megaphylls, which contain several strands of vascular tissue; this group includes horsetails, whisk ferns, and true ferns.",
+    "questions": [
+      {
+        "q": "What distinguishes microphylls from megaphylls?",
+        "opts": [
+          "Microphylls are found on seed plants, while megaphylls are found on seedless plants.",
+          "Microphylls have only one strand of vascular tissue, whereas megaphylls have several strands.",
+          "Microphylls lack chlorophyll, whereas megaphylls contain it.",
+          "Microphylls are colonial structures, whereas megaphylls are multicellular."
+        ],
+        "a": 1,
+        "exp": "The notes state: 'microphylls because they have only one strand of vascular tissue' and 'megaphylls because they have several strands of vascular tissue'."
+      },
+      {
+        "q": "Which of the following plants is classified as a Pteridophyte?",
+        "opts": [
+          "Ground pine",
+          "Spike moss",
+          "Fern",
+          "Quillwort"
+        ],
+        "a": 2,
+        "exp": "According to the notes, Pteridophytes 'Include horsetails, Whisk ferns, and ferns'."
+      }
+    ],
+    "legacy_index": 58
+  },
+  {
+    "unit": 6,
+    "page": 60,
+    "filename": "Unit_6_5.txt",
+    "section_title": "Plant Evolution & Diversity",
+    "page_num_in_file": 10,
+    "slide_title": "Fern Life Cycle",
+    "original_text": "Fern Life Cycle",
+    "explanation": "This slide showcases the multi-stage visual life cycle of ferns, displaying how spores develop into gametophytes and fertilize to form dominant sporophytes.",
+    "questions": [
+      {
+        "q": "Which organism's life cycle is shown on this slide?",
+        "opts": [
+          "Moss Life Cycle",
+          "Fern Life Cycle",
+          "Pine Life Cycle",
+          "Sac Fungi Life Cycle"
+        ],
+        "a": 1,
+        "exp": "The slide is titled 'Fern Life Cycle'."
+      }
+    ],
+    "legacy_index": 59
+  },
+  {
+    "unit": 6,
+    "page": 61,
+    "filename": "Unit_6_5.txt",
+    "section_title": "Plant Evolution & Diversity",
+    "page_num_in_file": 11,
+    "slide_title": "Evolution of Seed Plants",
+    "original_text": "Evolution of Seed Plants¨Seed plants are the most plentiful plants in the biosphere ¨Seed coat and stored food allow an embryo to survive harsh conditions during long period of dormancy ¤Heterosporous nDrought-resistant pollen grains nOvule develops into seed¨Seed plants broken into two groups¤Gymnosperms –non-flowering plants¤Angiosperms –flowering plants",
+    "explanation": "Seed plants are the most plentiful plants in the biosphere. A protective seed coat and stored food within the seed allow the plant embryo to survive harsh environmental conditions during extended dormancy. Seed plants are heterosporous, featuring drought-resistant pollen grains and ovules that develop into seeds. Seed plants are categorized into two groups: Gymnosperms (non-flowering plants) and Angiosperms (flowering plants).",
+    "questions": [
+      {
+        "q": "What features of a seed allow plant embryos to survive harsh conditions and dormancy?",
+        "opts": [
+          "A waxy cuticle and stomata",
+          "A protective seed coat and stored food",
+          "Xylem and phloem tubes",
+          "Antheridia and archegonia"
+        ],
+        "a": 1,
+        "exp": "The notes state: 'Seed coat and stored food allow an embryo to survive harsh conditions during long period of dormancy'."
+      },
+      {
+        "q": "Into what structure does the plant ovule develop after fertilization?",
+        "opts": [
+          "A spore",
+          "A seed",
+          "A microphyll",
+          "A pollen grain"
+        ],
+        "a": 1,
+        "exp": "The notes state: 'Ovule develops into seed'."
+      },
+      {
+        "q": "What are the two major groups of seed plants?",
+        "opts": [
+          "Bryophytes and Lycophytes",
+          "Pteridophytes and Gymnosperms",
+          "Gymnosperms and Angiosperms",
+          "Monocots and Eudicots only"
+        ],
+        "a": 2,
+        "exp": "The notes state: 'Seed plants broken into two groups: Gymnosperms – non-flowering plants; Angiosperms – flowering plants'."
+      }
+    ],
+    "legacy_index": 60
+  },
+  {
+    "unit": 6,
+    "page": 62,
+    "filename": "Unit_6_5.txt",
+    "section_title": "Plant Evolution & Diversity",
+    "page_num_in_file": 12,
+    "slide_title": "Diversity -Gymnosperms",
+    "original_text": "Diversity -Gymnosperms¨Since seeds are not enclosed by fruit, termed “naked” seeds¨Broken down into 4 groups¤ConifersnHave conesnMonecious (plant carries both male and female parts)nPines, redwood¤CycadsnMore tropical, used in landscapingnTend to be pollinated by insects instead of wind¤GinkgoesnDominant in fossil record, but only one surviving species, Ginkgo bilobanDioecious –either male or female plant¤Gnetophytesn3 living genera and 70 speciesnVaried appearance based on location",
+    "explanation": "Gymnosperms are seed plants whose seeds are not enclosed by fruit, earning them the term 'naked' seeds. They are divided into 4 groups: 1) Conifers, which produce cones, are monoecious (monecious - both male and female reproductive structures on the same plant), and include pines and redwoods; 2) Cycads, which are tropical plants used in landscaping that tend to be pollinated by insects rather than wind; 3) Ginkgoes, which were dominant in the fossil record but are now represented by only one surviving species, Ginkgo biloba (which is dioecious, meaning individual plants are either male or female); and 4) Gnetophytes, which contain 3 living genera and 70 species, exhibiting varied appearances depending on their location.",
+    "questions": [
+      {
+        "q": "What does the term monoecious (monecious) mean in relation to conifers?",
+        "opts": [
+          "The plant has flagellated sperm.",
+          "The plant carries both male and female reproductive parts on a single individual.",
+          "The seeds are enclosed in a diploid fruit tissue.",
+          "Individual plants are either strictly male or strictly female."
+        ],
+        "a": 1,
+        "exp": "The notes define 'Monecious' as a plant that 'carries both male and female parts'."
+      },
+      {
+        "q": "Which gymnosperm group contains only one single surviving species, and what is its name?",
+        "opts": [
+          "Conifers; Redwood",
+          "Ginkgoes; Ginkgo biloba",
+          "Cycads; Cycas",
+          "Gnetophytes; Ephedra"
+        ],
+        "a": 1,
+        "exp": "The notes state that Ginkgoes have 'only one surviving species, Ginkgo biloba'."
+      },
+      {
+        "q": "What is unique about cycad pollination compared to most gymnosperms?",
+        "opts": [
+          "They are pollinated by water currents.",
+          "They tend to be pollinated by insects instead of wind.",
+          "They do not require pollination.",
+          "They are pollinated strictly by nocturnal mammals."
+        ],
+        "a": 1,
+        "exp": "The notes state that cycads 'Tend to be pollinated by insects instead of wind'."
+      }
+    ],
+    "legacy_index": 61
+  },
+  {
+    "unit": 6,
+    "page": 63,
+    "filename": "Unit_6_5.txt",
+    "section_title": "Plant Evolution & Diversity",
+    "page_num_in_file": 13,
+    "slide_title": "Gymnosperm Life Cycle",
+    "original_text": "Gymnosperm Life Cycle",
+    "explanation": "This slide displays a diagram of the Gymnosperm life cycle, focusing on the alternation of generations in conifers, from cones to fertilization and seed growth.",
+    "questions": [
+      {
+        "q": "Which life cycle is represented on this slide?",
+        "opts": [
+          "Fern Life Cycle",
+          "Gymnosperm Life Cycle",
+          "Flowering Plant Life Cycle",
+          "Bryophyte Life Cycle"
+        ],
+        "a": 1,
+        "exp": "The slide is titled 'Gymnosperm Life Cycle'."
+      }
+    ],
+    "legacy_index": 62
+  },
+  {
+    "unit": 6,
+    "page": 64,
+    "filename": "Unit_6_5.txt",
+    "section_title": "Plant Evolution & Diversity",
+    "page_num_in_file": 14,
+    "slide_title": "Diversity -Angiosperms",
+    "original_text": "Diversity -Angiosperms¨Angiosperms (phylum Anthophyta) ¤An exceptionally large and successful group of plants ¤Ovules are always enclosed within diploid tissues ¤Became dominant group of plants in the late Cretaceous and early Paleocene periods¨Monocots and Eudicots ¤Two classes of flowering plants nMonocotyledones(Monocots) One cotyledon in seednCorn, tulips, pineapples, bamboo, sugarcanenEudicotyledones(Dicots) Two cotyledons in seednCacti, strawberry, dandelion, poplars, beans¤Other differences found in chart",
+    "explanation": "Angiosperms, belonging to the phylum Anthophyta, are an exceptionally large and successful group of plants whose ovules are always enclosed within diploid maternal tissues. They became the dominant plant group during the late Cretaceous and early Paleocene periods. Flowering plants are divided into two classes: 1) Monocots (Monocotyledones), which have one cotyledon in the seed (including corn, tulips, pineapples, bamboo, and sugarcane); and 2) Eudicots (Eudicotyledones or Dicots), which have two cotyledons in the seed (including cacti, strawberries, dandelions, poplars, and beans).",
+    "questions": [
+      {
+        "q": "What maternal tissue characteristic defines angiosperms?",
+        "opts": [
+          "Ovules are exposed on the surface of cones.",
+          "Ovules are enclosed within diploid tissues.",
+          "Seeds contain only a haploid endosperm.",
+          "They lack vascular tissues."
+        ],
+        "a": 1,
+        "exp": "The notes state: 'Ovules are always enclosed within diploid tissues'."
+      },
+      {
+        "q": "Which of the following plants is classified as a Eudicot (Dicot)?",
+        "opts": [
+          "Corn",
+          "Bamboo",
+          "Sugarcane",
+          "Dandelion"
+        ],
+        "a": 3,
+        "exp": "The notes list 'Cacti, strawberry, dandelion, poplars, beans' as Eudicotyledones (Dicots), while corn, bamboo, and sugarcane are Monocots."
+      },
+      {
+        "q": "How many cotyledons do Monocots and Eudicots have in their seeds, respectively?",
+        "opts": [
+          "One; Two",
+          "Two; One",
+          "One; One",
+          "Two; Two"
+        ],
+        "a": 0,
+        "exp": "According to the notes, Monocots have 'One cotyledon in seed' and Eudicots have 'Two cotyledons in seed'."
+      }
+    ],
+    "legacy_index": 63
+  },
+  {
+    "unit": 6,
+    "page": 65,
+    "filename": "Unit_6_5.txt",
+    "section_title": "Plant Evolution & Diversity",
+    "page_num_in_file": 15,
+    "slide_title": "Angiosperms -The Flower",
+    "original_text": "Angiosperms -The Flower¨Penducle(flower stalk) expands at tip into receptacle¤Bears sepals, petals, stamens, and carpels, all attached to receptacle in whorls¤Calyx (collection of sepals) protect flower bud before it opens¤Corolla (Collection of petals)¨Each stamen consist of an anther and a filament (stalk)¨Carpel has three major regions¤Ovary –Swollen base (fruit)¤Style –elevates stigma¤Stigma –Stick receptor of pollen grains¨Wind-pollinated flowers are usually not showy ¨Bird-pollinated flowers are often colorful ¨Night-blooming flowers attract nocturnal mammals or insects ¤Usually white or cream-colored¨Fruits of flowers protect and aid in dispersal ¤Utilize wind, gravity, water, and animals for dispersal",
+    "explanation": "The flower develops on a peduncle (flower stalk), which expands at its tip to form the receptacle. The receptacle bears sepals, petals, stamens, and carpels attached in whorls. The calyx is the collection of sepals that protects the bud before opening, and the corolla is the collection of petals. The stamen consists of an anther and a filament stalk. The female carpel has three regions: the swollen ovary base (which becomes the fruit), the style, and the sticky stigma receptor for pollen. Flower appearance is linked to pollination: wind-pollinated flowers are not showy; bird-pollinated flowers are colorful; and night-blooming flowers are typically white or cream-colored to attract nocturnal animals. Fruits protect seeds and aid in their dispersal via wind, gravity, water, and animals.",
+    "questions": [
+      {
+        "q": "What are the three structural regions of the female carpel?",
+        "opts": [
+          "Anther, Filament, Receptacle",
+          "Ovary, Style, Stigma",
+          "Calyx, Corolla, Peduncle",
+          "Sepal, Petal, Receptacle"
+        ],
+        "a": 1,
+        "exp": "The notes list the three regions of the carpel as: 'Ovary – Swollen base (fruit)', 'Style – elevates stigma', and 'Stigma – Stick receptor of pollen grains'."
+      },
+      {
+        "q": "What terms refer to the collective structures of sepals and petals, respectively?",
+        "opts": [
+          "Anther and Filament",
+          "Stigma and Style",
+          "Calyx and Corolla",
+          "Peduncle and Receptacle"
+        ],
+        "a": 2,
+        "exp": "The notes state: 'Calyx (collection of sepals)' and 'Corolla (Collection of petals)'."
+      },
+      {
+        "q": "What is a typical adaptation of night-blooming flowers to attract nocturnal pollinators?",
+        "opts": [
+          "They are exceptionally colorful.",
+          "They are usually white or cream-colored.",
+          "They lack petals and carpels.",
+          "They rely strictly on wind pollination."
+        ],
+        "a": 1,
+        "exp": "The notes state that night-blooming flowers are 'Usually white or cream-colored'."
+      }
+    ],
+    "legacy_index": 64
+  },
+  {
+    "unit": 6,
+    "page": 66,
+    "filename": "Unit_6_5.txt",
+    "section_title": "Plant Evolution & Diversity",
+    "page_num_in_file": 16,
+    "slide_title": "Flowering Plant Life Cycle",
+    "original_text": "Flowering Plant Life Cycle",
+    "explanation": "This slide provides a detailed visual diagram of the Flowering Plant (Angiosperm) Life Cycle, illustrating double fertilization, fruit development, and germination.",
+    "questions": [
+      {
+        "q": "Which life cycle is represented on this slide?",
+        "opts": [
+          "Gymnosperm Life Cycle",
+          "Flowering Plant Life Cycle",
+          "Bryophyte Life Cycle",
+          "Fern Life Cycle"
+        ],
+        "a": 1,
+        "exp": "The slide is titled 'Flowering Plant Life Cycle'."
+      }
+    ],
+    "legacy_index": 65
+  },
+  {
+    "unit": 6,
+    "page": 67,
+    "filename": "Unit_6_5.txt",
+    "section_title": "Plant Evolution & Diversity",
+    "page_num_in_file": 17,
+    "slide_title": "Overview",
+    "original_text": "Overview",
+    "explanation": "This slide serves as the overview and summary page for the unit on Plant Evolution & Diversity (6.5).",
+    "questions": [
+      {
+        "q": "Which section is summarized by this overview slide?",
+        "opts": [
+          "Bryophytes only",
+          "Invertebrate body plans",
+          "Plant Evolution & Diversity",
+          "Fungi and lichens"
+        ],
+        "a": 2,
+        "exp": "This is the overview slide for the Plant Evolution & Diversity section (Unit 6.5)."
+      }
+    ],
+    "legacy_index": 66
+  },
+  {
+    "unit": 6,
+    "page": 68,
+    "filename": "Unit_6_6.txt",
+    "section_title": "Invertebrates",
+    "page_num_in_file": 1,
+    "slide_title": "Invertebrates - Visual Page 1",
+    "original_text": "UNIT 6: DIVERSITY OF LIFE FORMS6.6 –INVERTEBRATESBiology 9 Mr. QueenanCh. 24.1-24.2 (pg. 800-809)",
+    "explanation": "This is the title slide for Unit 6.6 on Invertebrates in Biology 9 taught by Mr. Queenan, corresponding to Chapters 24.1-24.2, pages 800-809 of the textbook.",
+    "questions": [
+      {
+        "q": "Which textbook chapters and pages cover the Invertebrates section of Unit 6.6?",
+        "opts": [
+          "Chapters 24.1-24.2 (pg. 800-809)",
+          "Chapters 22.1-22.2 (pg. 722-736)",
+          "Chapter 21.4 (pg. 704-709)",
+          "Chapters 25.1-25.2 (pg. 850-865)"
+        ],
+        "a": 0,
+        "exp": "The title slide explicitly lists 'Ch. 24.1-24.2 (pg. 800-809)' for Unit 6.6 - Invertebrates."
+      }
+    ],
+    "legacy_index": 67
+  },
+  {
+    "unit": 6,
+    "page": 69,
+    "filename": "Unit_6_6.txt",
+    "section_title": "Invertebrates",
+    "page_num_in_file": 2,
+    "slide_title": "Characteristics of Animals",
+    "original_text": "•Characteristics of Animals•Evolution•Symmetry of Body Plans•Development•Invertebrate Diversity•Simple Invertebrates•Radiata•Lophotrochozoans•Ecdysozoans•Deuterostomes\nInvertebrates Outline",
+    "explanation": "This slide outlines the subtopics to be discussed in the Invertebrates unit (6.6): Characteristics of Animals, Evolution, Symmetry of Body Plans, Development, Invertebrate Diversity, Simple Invertebrates, Radiata, Lophotrochozoans, Ecdysozoans, and Deuterostomes.",
+    "questions": [
+      {
+        "q": "Which of the following is listed as a topic on the Invertebrates Outline?",
+        "opts": [
+          "Gymnosperm Seed Enclosure",
+          "Symmetry of Body Plans",
+          "Bryophyte Dominant Gametophyte",
+          "Cyanobacteria Atmospheric Roles"
+        ],
+        "a": 1,
+        "exp": "The outline includes 'Symmetry of Body Plans' as one of the subtopics in the Invertebrates unit."
+      }
+    ],
+    "legacy_index": 68
+  },
+  {
+    "unit": 6,
+    "page": 70,
+    "filename": "Unit_6_6.txt",
+    "section_title": "Invertebrates",
+    "page_num_in_file": 3,
+    "slide_title": "Characteristics of Animals",
+    "original_text": "Characteristics of Animals¨All animals have a number of common features¤Heterotrophs, that must ingest food, and digest internally¤Cells lack cell walls¤Generally mobile¤Coordinated movement using nerves and muscles¤Reproduce sexuallynInvertebratesnDo not have a backbonenVertebratesnHave a spinal cord or backbone at some stage of their life running down the center of their back¤Most likely descended from an ancestral flagellate colony, where cells took specialized roles¤Wide diversity in body plans, but most members have varying developmental plans controlled by Hoxgene family",
+    "explanation": "All animals share a set of common features: they are heterotrophs that ingest food and digest it internally; their cells lack cell walls; they are generally mobile; they coordinate movement using nerves and muscles; and they reproduce sexually. Animals are divided into invertebrates (which do not have a backbone) and vertebrates (which have a spinal cord or backbone at some stage of their life running down the center of their back). Animals most likely descended from an ancestral flagellate colony in which cells took on specialized roles. Despite a wide diversity of body plans, most animal developmental pathways are controlled by the Hox gene family.",
+    "questions": [
+      {
+        "q": "Which of the following is a common characteristic of all animals?",
+        "opts": [
+          "Autotrophs with cellulose cell walls",
+          "Heterotrophs that ingest food and digest it internally",
+          "Unicellular organisms lacking nuclei",
+          "Saprotrophs with chitin cell walls"
+        ],
+        "a": 1,
+        "exp": "The notes state that all animals are 'Heterotrophs, that must ingest food, and digest internally' and 'Cells lack cell walls'."
+      },
+      {
+        "q": "What gene family controls the developmental plans and body patterns in most animals?",
+        "opts": [
+          "Monecious gene family",
+          "Plasmids",
+          "Hox gene family",
+          "Spicule genes"
+        ],
+        "a": 2,
+        "exp": "The notes state: 'most members have varying developmental plans controlled by Hoxgene family'."
+      },
+      {
+        "q": "How do vertebrates differ from invertebrates according to the animal characteristics slide?",
+        "opts": [
+          "Vertebrates reproduce sexually, whereas invertebrates reproduce only asexually.",
+          "Vertebrates have a spinal cord or backbone at some stage of their life running down the center of their back.",
+          "Vertebrates lack specialized muscle and nerve tissue.",
+          "Vertebrates are descended from green algae."
+        ],
+        "a": 1,
+        "exp": "The notes state that Vertebrates 'Have a spinal cord or backbone at some stage of their life running down the center of their back', whereas Invertebrates 'Do not have a backbone'."
+      }
+    ],
+    "legacy_index": 69
+  },
+  {
+    "unit": 6,
+    "page": 71,
+    "filename": "Unit_6_6.txt",
+    "section_title": "Invertebrates",
+    "page_num_in_file": 4,
+    "slide_title": "Animal Phylogenetic Tree",
+    "original_text": "Animal Phylogenetic Tree¨Major branchingsin the tree occur based on the following criteria:¤SymmetrynCan be radial(like a wheel) or bilateral(left and right along a single longitudinal line)¤Embryonic DevelopmentnOrganisms can have tissue layersnDiploblastic-2 layersnTissues developed buno specialized organsnTriploblastic–3 layersnEcto, meso, & endodermnOrganisms either protostomes(mouth develops before anus) or deuterostomes (anus develops before mouth)nOther branchingsbetween protostomes and deuterostomes based on cleavage of cells, blastula formation, and coelom development",
+    "explanation": "Major branches in the animal phylogenetic tree are established based on: 1) Symmetry: radial (organized around a central axis like a wheel) or bilateral (divided into left and right halves along a single longitudinal line); 2) Embryonic Development, specifically tissue layer number: diploblastic organisms have 2 tissue layers (tissues are developed but specialized organs are absent), whereas triploblastic organisms have 3 germ layers (ectoderm, mesoderm, and endoderm); and 3) Gastrulation patterns: organisms are either protostomes (mouth develops before the anus) or deuterostomes (anus develops before the mouth). Cleavage of cells, blastula formation, and coelom development also differentiate protostomes and deuterostomes.",
+    "questions": [
+      {
+        "q": "What is the defining tissue layer difference between diploblastic and triploblastic animals?",
+        "opts": [
+          "Diploblastic has 1 layer, triploblastic has 2.",
+          "Diploblastic has 2 layers (tissues developed, no specialized organs), while triploblastic has 3 layers (ectoderm, mesoderm, and endoderm).",
+          "Diploblastic has radial symmetry, while triploblastic has bilateral symmetry.",
+          "Diploblastic develops the mouth first, while triploblastic develops the anus first."
+        ],
+        "a": 1,
+        "exp": "The notes state: 'Diploblastic-2 layers Tissues developed but no specialized organs' and 'Triploblastic–3 layers Ecto, meso, & endoderm'."
+      },
+      {
+        "q": "How are protostomes distinguished from deuterostomes during embryonic development?",
+        "opts": [
+          "In protostomes, the anus develops before the mouth; in deuterostomes, the mouth develops first.",
+          "In protostomes, the mouth develops before the anus; in deuterostomes, the anus develops before the mouth.",
+          "Protostomes lack tissue layers, whereas deuterostomes are triploblastic.",
+          "Protostomes have radial symmetry, while deuterostomes are bilateral."
+        ],
+        "a": 1,
+        "exp": "The notes state: 'protostomes(mouth develops before anus) or deuterostomes (anus develops before mouth)'."
+      },
+      {
+        "q": "What are the three embryonic germ layers in triploblastic animals?",
+        "opts": [
+          "Calyx, corolla, and receptacle",
+          "Ectoderm, mesoderm, and endoderm",
+          "Mycelium, hyphae, and septa",
+          "Stolon, rhizoid, and sporangiophore"
+        ],
+        "a": 1,
+        "exp": "The notes list the three layers as 'Ecto, meso, & endoderm'."
+      }
+    ],
+    "legacy_index": 70
+  },
+  {
+    "unit": 6,
+    "page": 72,
+    "filename": "Unit_6_6.txt",
+    "section_title": "Invertebrates",
+    "page_num_in_file": 5,
+    "slide_title": "Diversity of Invertebrates",
+    "original_text": "Diversity of Invertebrates¨Simple Invertebrates¨Radiata¨Protostomia¤Lophotrochozoa¤Ecdysozoa¨Deuterostomia",
+    "explanation": "This slide outlines the classification categories of invertebrate diversity: Simple Invertebrates, Radiata, Protostomia (further divided into Lophotrochozoa and Ecdysozoa), and Deuterostomia.",
+    "questions": [
+      {
+        "q": "Which of the following sub-groups is classified under Protostomia?",
+        "opts": [
+          "Radiata",
+          "Deuterostomia",
+          "Lophotrochozoa",
+          "Simple Invertebrates"
+        ],
+        "a": 2,
+        "exp": "Under the heading 'Protostomia', the outline lists 'Lophotrochozoa' and 'Ecdysozoa'."
+      }
+    ],
+    "legacy_index": 71
+  },
+  {
+    "unit": 6,
+    "page": 73,
+    "filename": "Unit_6_6.txt",
+    "section_title": "Invertebrates",
+    "page_num_in_file": 6,
+    "slide_title": "Diversity –Simple Invertebrates & Radiata",
+    "original_text": "Diversity –Simple Invertebrates & Radiata¨Sponges¤Only animal to lack true tissue¤Body perforated by pores¤Interior canal contains flagellated cells¤Filter feeder¤Spicule structure used for identification¤Reproduce sexually and asexually¨Comb Jellies¤Solitary, free swimming marine animal¤Use beating cilia to movenA few cm to 1.5 m in length¤Body made of transparent jellylike substance –mesoglea¤Most do not have stinging properties; adhere to prey¤Some bioluminescent¨Cnidarians¤Most have stinging cells –cnidocytes¤2 layered sac (internal is digestive cavity)nAlso serves as hydrostatic skeleton¤Body form polyp-cup up; medusa-cup down¤Sea anemone, coral, hydrozoans, jellyfish, hydra",
+    "explanation": "This slide covers simple invertebrates and Radiata. Sponges are the only animals that lack true tissue; they are filter feeders with porous bodies, interior canals lined with flagellated cells, and structural spicules used for species identification. Sponges reproduce both sexually and asexually. Comb Jellies are solitary, free-swimming marine animals (a few cm to 1.5 m long) that move using beating cilia; their body is made of transparent mesoglea, they lack stinging properties (adhering to prey instead), and some are bioluminescent. Cnidarians have stinging cells called cnidocytes, and a body structured as a two-layered sac (the internal digestive cavity also acts as a hydrostatic skeleton). Their body forms are polyp (cup facing up) or medusa (cup facing down), and examples include sea anemone, coral, hydrozoans, jellyfish, and hydra.",
+    "questions": [
+      {
+        "q": "Which animal group is unique in having no true tissues?",
+        "opts": [
+          "Comb Jellies",
+          "Sponges",
+          "Cnidarians",
+          "Platyhelminthes"
+        ],
+        "a": 1,
+        "exp": "The notes state that Sponges are the 'Only animal to lack true tissue'."
+      },
+      {
+        "q": "What structures do comb jellies use for locomotion, and what substance forms their body?",
+        "opts": [
+          "Flagella; chitin",
+          "Beating cilia; transparent mesoglea",
+          "Pseudopods; calcium carbonate",
+          "Jointed legs; cuticle"
+        ],
+        "a": 1,
+        "exp": "The notes state that comb jellies 'Use beating cilia to move' and have a 'Body made of transparent jellylike substance – mesoglea'."
+      },
+      {
+        "q": "What are the two body forms of cnidarians, and which cell type is characteristic of them?",
+        "opts": [
+          "Stolon and Rhizoid; choanoflagellates",
+          "Polyp (cup up) and Medusa (cup down); cnidocytes",
+          "Ossicle and Spicule; filopodia",
+          "Bivalve and Gastropod; conidia"
+        ],
+        "a": 1,
+        "exp": "The notes state that cnidarians have 'stinging cells – cnidocytes' and their body forms are 'polyp-cup up; medusa-cup down'."
+      }
+    ],
+    "legacy_index": 72
+  },
+  {
+    "unit": 6,
+    "page": 74,
+    "filename": "Unit_6_6.txt",
+    "section_title": "Invertebrates",
+    "page_num_in_file": 7,
+    "slide_title": "Diversity -Lophotrochozoans",
+    "original_text": "Diversity -Lophotrochozoans¨Bilaterally symmetrical at some point in their life¨Divided into Lophophoransand Trochozoans¤LophophoransnAquatic, with mouth surrounded by ciliated tentacle-like structure –lophophorenBryozoans, Brachiopods, & Phoronoids¤TrochozoansnFlatworms (Platyhelminthes)nFree living –planariannWell developed excretory system; sexual reproducing (hermaphroditic); ladder type nervous systemnParasitic -Flukes, tapewormsnLive off host system for survivalnRotifers (Rotifera)nHave a crown of cilia on their heads.",
+    "explanation": "Lophotrochozoans are bilaterally symmetrical at some point in their life and are divided into Lophophorans and Trochozoans. Lophophorans are aquatic animals whose mouth is surrounded by a ciliated, tentacle-like feeding structure called a lophophore (includes Bryozoans, Brachiopods, and Phoronoids). Trochozoans include: 1) Flatworms (Platyhelminthes), which can be free-living planarians (featuring a well-developed excretory system, hermaphroditic sexual reproduction, and a ladder-type nervous system) or parasitic flukes and tapeworms that rely on host systems; and 2) Rotifers (Rotifera), which have a distinctive crown of cilia on their heads.",
+    "questions": [
+      {
+        "q": "What ciliated feeding structure surrounds the mouth of aquatic lophophorans like bryozoans?",
+        "opts": [
+          "Cnidocyte",
+          "Lophophore",
+          "Radula",
+          "Ossicle"
+        ],
+        "a": 1,
+        "exp": "The notes define a 'lophophore' as a 'ciliated tentacle-like structure' surrounding the mouth in Lophophorans."
+      },
+      {
+        "q": "Which characteristics describe free-living planarians?",
+        "opts": [
+          "Radial symmetry and no tissues",
+          "A well-developed excretory system, hermaphroditic reproduction, and a ladder-type nervous system",
+          "A crown of cilia and a multi-chambered shell",
+          "Parasitic lifestyle in host intestines"
+        ],
+        "a": 1,
+        "exp": "The notes describe planarians as 'Free living' with a 'Well developed excretory system; sexual reproducing (hermaphroditic); ladder type nervous system'."
+      },
+      {
+        "q": "What morphological feature distinguishes members of Phylum Rotifera?",
+        "opts": [
+          "A cup-down medusa form",
+          "A crown of cilia on their heads",
+          "Non-segmented chitinous tests",
+          "A network of septate hyphae"
+        ],
+        "a": 1,
+        "exp": "The notes state that Rotifers 'Have a crown of cilia on their heads.'"
+      }
+    ],
+    "legacy_index": 73
+  },
+  {
+    "unit": 6,
+    "page": 75,
+    "filename": "Unit_6_6.txt",
+    "section_title": "Invertebrates",
+    "page_num_in_file": 8,
+    "slide_title": "Diversity -Lophotrochozoans",
+    "original_text": "Diversity -Lophotrochozoans¨Trochozoans-continuednMolluscs(Mollusca)n3 part body plan. More developed body plannBivalve (Bivalvia)n2 part shellnClams, scallops, musselsnGastropods (Stomach foot)nLong, flattened foot and coiled shellnSnails, slugs, conch, nudibranchnCephalopods (Head Foot)nWell developed brainsnSquid, octopusnAnnelids (Annelida)nSegmented wormsnRepeating body segment patternnClosed circulatory systemnEarthworms, marine worms, leeches",
+    "explanation": "Trochozoans also include Molluscs and Annelids. Molluscs (Mollusca) have a developed three-part body plan. They include: Bivalves (Bivalvia), which have a two-part shell (clams, scallops, mussels); Gastropods (meaning 'stomach foot'), which have a long, flattened foot and often a coiled shell (snails, slugs, conch, nudibranchs); and Cephalopods (meaning 'head foot'), which have well-developed brains (squid, octopus). Annelids (Annelida) are segmented worms with a repeating body segment pattern and a closed circulatory system; examples include earthworms, marine worms, and leeches.",
+    "questions": [
+      {
+        "q": "Which class of molluscs contains clams, scallops, and mussels?",
+        "opts": [
+          "Gastropods",
+          "Cephalopods",
+          "Bivalves",
+          "Annelids"
+        ],
+        "a": 2,
+        "exp": "The notes state that Bivalves (Bivalvia) have a '2 part shell' and include 'Clams, scallops, mussels'."
+      },
+      {
+        "q": "What features define Annelids (Annelida)?",
+        "opts": [
+          "Non-segmented bodies and open circulation",
+          "Segmented bodies with a repeating segment pattern and a closed circulatory system",
+          "A stomach-foot and coiled shells",
+          "A two-part shell and well-developed brains"
+        ],
+        "a": 1,
+        "exp": "The notes state that Annelids are 'Segmented worms' with a 'Repeating body segment pattern' and a 'Closed circulatory system'."
+      },
+      {
+        "q": "Which mollusc group is characterized by a 'head foot' and well-developed brains?",
+        "opts": [
+          "Gastropods",
+          "Bivalves",
+          "Cephalopods",
+          "Annelids"
+        ],
+        "a": 2,
+        "exp": "The notes identify Cephalopods as 'Head Foot' with 'Well developed brains'."
+      }
+    ],
+    "legacy_index": 74
+  },
+  {
+    "unit": 6,
+    "page": 76,
+    "filename": "Unit_6_6.txt",
+    "section_title": "Invertebrates",
+    "page_num_in_file": 9,
+    "slide_title": "Diversity -Ecdysozoans",
+    "original_text": "Diversity -Ecdysozoans¨Large group containing roundworms and arthropods¤Roundworms (Nematoda)nNon-segmented nematodesnCan be free-living or parasiticnCaenorhabditis elegansis a model research organismnAscarisinfections can occur in humans and other animalsnTrichinosisserious infection from eating uncooked porknFilarial worms and pinworms also common parasitic roundworms",
+    "explanation": "Ecdysozoans represent a large group containing roundworms and arthropods. Roundworms (Nematoda) are non-segmented nematodes that can be free-living or parasitic. Caenorhabditis elegans is a major model organism used in scientific research. Parasitic roundworms include Ascaris (infecting humans and animals), Trichinella (causing trichinosis, a serious infection from eating uncooked pork), filarial worms, and pinworms.",
+    "questions": [
+      {
+        "q": "Which nematode is widely utilized as a genetic model organism in research?",
+        "opts": [
+          "Ascaris",
+          "Caenorhabditis elegans",
+          "Trichinella",
+          "Planarian"
+        ],
+        "a": 1,
+        "exp": "The notes state that 'Caenorhabditis elegans is a model research organism' under Nematoda."
+      },
+      {
+        "q": "What parasitic roundworm infection is acquired by eating uncooked pork?",
+        "opts": [
+          "Oral thrush",
+          "Trichinosis",
+          "Athlete's foot",
+          "Malaria"
+        ],
+        "a": 1,
+        "exp": "The notes describe 'Trichinosis' as a 'serious infection from eating uncooked pork'."
+      },
+      {
+        "q": "What is a major structural difference between Nematodes and Annelids?",
+        "opts": [
+          "Nematodes have segmented bodies, while Annelids are non-segmented.",
+          "Nematodes are non-segmented, while Annelids are segmented.",
+          "Nematodes have cell walls, while Annelids lack them.",
+          "Nematodes have radial symmetry, while Annelids are bilateral."
+        ],
+        "a": 1,
+        "exp": "The notes state that Roundworms are 'Non-segmented nematodes', whereas Annelids are 'Segmented worms' with a 'Repeating body segment pattern'."
+      }
+    ],
+    "legacy_index": 75
+  },
+  {
+    "unit": 6,
+    "page": 77,
+    "filename": "Unit_6_6.txt",
+    "section_title": "Invertebrates",
+    "page_num_in_file": 10,
+    "slide_title": "Diversity -Ecdysozoans",
+    "original_text": "Diversity -Ecdysozoans¨Arthropods (Arthropoda)¤Members have exoskeleton, jointed appendages, brain and nervous system, and a variety of respiratory organsnSome go through a process of metamorphosis¤Phylum contains:nCrustaceans –hard crusty exoskeleton made of chitin and calcium carbonate. Head with compound eyes, and 5 pairs of appendagesnCopepod, krill, crayfishnMillipedes & Centipedes –Distinguished by # of pairs of leg on body segmentsnInsects –have head, thorax, and abdomen. Head has sense organs, thorax has 3 pairs of legs and 1 or 2 pairs of wingsnGrasshopper, bee, butterflynChelicerates –First pair of appendages pincher-like for feeding and defense, second pair can have multiple functions. Have a cephalothorax (fused head and thorax) followed by abdomen.nHorseshoe crab, Arachnids (ticks, mites, spiders, scorpions)",
+    "explanation": "Arthropods (Arthropoda) have an exoskeleton, jointed appendages, a brain and nervous system, and a variety of respiratory organs, and some undergo metamorphosis. The phylum contains: 1) Crustaceans, which have a hard exoskeleton made of chitin and calcium carbonate, compound eyes on the head, and 5 pairs of appendages (e.g., copepods, krill, crayfish); 2) Millipedes & Centipedes, which are distinguished by the number of leg pairs on their body segments; 3) Insects, which have a head with sense organs, a thorax with 3 pairs of legs and 1 or 2 pairs of wings, and an abdomen (e.g., grasshoppers, bees, butterflies); and 4) Chelicerates, which have a cephalothorax (fused head and thorax) and an abdomen, with the first pair of appendages being pincher-like for feeding and defense, and the second pair serving multiple functions (includes horseshoe crabs and arachnids like ticks, mites, spiders, and scorpions).",
+    "questions": [
+      {
+        "q": "What composition makes up the hard exoskeleton of crustaceans?",
+        "opts": [
+          "Cellulose and silica",
+          "Chitin and calcium carbonate",
+          "Peptidoglycan and lipids",
+          "Lignin and protein"
+        ],
+        "a": 1,
+        "exp": "The notes state that crustaceans have a 'hard crusty exoskeleton made of chitin and calcium carbonate'."
+      },
+      {
+        "q": "Which insect body segment bears the three pairs of legs and the wings?",
+        "opts": [
+          "Head",
+          "Thorax",
+          "Abdomen",
+          "Cephalothorax"
+        ],
+        "a": 1,
+        "exp": "The notes state: 'thorax has 3 pairs of legs and 1 or 2 pairs of wings'."
+      },
+      {
+        "q": "What characterizes the body plans and first appendages of Chelicerates?",
+        "opts": [
+          "Head, thorax, and abdomen; 5 pairs of walking legs",
+          "A cephalothorax and abdomen; pincher-like first appendages",
+          "Repeating segments; one pair of legs per segment",
+          "Three-part body with a coiled shell; ciliated lophophore tentacles"
+        ],
+        "a": 1,
+        "exp": "The notes state that Chelicerates 'Have a cephalothorax... followed by abdomen' and the 'First pair of appendages pincher-like for feeding and defense'."
+      }
+    ],
+    "legacy_index": 76
+  },
+  {
+    "unit": 6,
+    "page": 78,
+    "filename": "Unit_6_6.txt",
+    "section_title": "Invertebrates",
+    "page_num_in_file": 11,
+    "slide_title": "Diversity -Deuterostomes",
+    "original_text": "Diversity -Deuterostomes¨Include Echinoderms and Chordates. All echinoderm are invertebrates. Most chordates are vertebrates¨Echinoderms¤Primarily bottom dwelling marine animals. ¤Range in size from 1cm to 2m¤5-pointed radial symmetry as adults (bilateral as larva)¤Endoskeleton of spiny, calcium-rich plates called ossicles¤Water vasuclarsystem for locomotion, feeding, gas exchange, and sensory receptionnInclude sea stars, sea cucumbers, sea urchins and sand dollars¨The chordate invertebrates will be discussed in the next lesson",
+    "explanation": "Deuterostomes include Echinoderms and Chordates. All echinoderms are invertebrates, whereas most chordates are vertebrates. Echinoderms are primarily bottom-dwelling marine animals, ranging from 1cm to 2m. They exhibit 5-pointed radial symmetry as adults but are bilaterally symmetrical as larvae. They possess an endoskeleton made of spiny, calcium-rich plates called ossicles, and use a specialized water vascular system for locomotion, feeding, gas exchange, and sensory reception. This group includes sea stars, sea cucumbers, sea urchins, and sand dollars. Invertebrate chordates are deferred to the next lesson.",
+    "questions": [
+      {
+        "q": "What type of symmetry is shown by echinoderms at different life stages?",
+        "opts": [
+          "Radial as larvae, bilateral as adults",
+          "Bilateral as larvae, 5-pointed radial as adults",
+          "Asymmetrical as larvae, bilateral as adults",
+          "Radial as both larvae and adults"
+        ],
+        "a": 1,
+        "exp": "The notes state: '5-pointed radial symmetry as adults (bilateral as larva)'."
+      },
+      {
+        "q": "What is the endoskeleton of echinoderms composed of?",
+        "opts": [
+          "Chitinous cuticle",
+          "Spiny, calcium-rich plates called ossicles",
+          "Glassy silicon tests",
+          "Cellulose fibers"
+        ],
+        "a": 1,
+        "exp": "The notes describe the echinoderm skeleton as an 'Endoskeleton of spiny, calcium-rich plates called ossicles'."
+      },
+      {
+        "q": "What is the function of the water vascular system in echinoderms?",
+        "opts": [
+          "To transport blood and glucose to organs",
+          "For locomotion, feeding, gas exchange, and sensory reception",
+          "To secrete an acidic mucus that dissolves prey cell walls",
+          "To pump air into the coelom"
+        ],
+        "a": 1,
+        "exp": "The notes state: 'Water vasuclar system for locomotion, feeding, gas exchange, and sensory reception'."
+      }
+    ],
+    "legacy_index": 77
+  },
+  {
+    "unit": 6,
+    "page": 79,
+    "filename": "Unit_6_6.txt",
+    "section_title": "Invertebrates",
+    "page_num_in_file": 12,
+    "slide_title": "Overview",
+    "original_text": "Overview\nClearer version of the invertebrate overview can be found on p526",
+    "explanation": "This slide serves as an overview for the invertebrate section, directing students to page 526 of the textbook for a clearer illustration.",
+    "questions": [
+      {
+        "q": "Where can a clearer version of the invertebrate overview be found?",
+        "opts": [
+          "Text page 385",
+          "Text page 526",
+          "Text page 800",
+          "Text page 704"
+        ],
+        "a": 1,
+        "exp": "The notes state: 'Clearer version of the invertebrate overview can be found on p526'."
+      }
+    ],
+    "legacy_index": 78
+  },
+  {
+    "unit": 6,
+    "page": 80,
+    "filename": "Unit_6_7.txt",
+    "section_title": "Vertebrates",
+    "page_num_in_file": 1,
+    "slide_title": "Vertebrates - Visual Page 1",
+    "original_text": "UNIT 6: DIVERSITY OF LIFE FORMS6.7 –VERTEBRATESBiology 9 Mr. QueenanCh. 24.2 (pg. 810-815)",
+    "explanation": "This is the title slide for Unit 6.7 on Vertebrates in Biology 9 taught by Mr. Queenan, corresponding to Chapter 24.2, pages 810-815 of the textbook.",
+    "questions": [
+      {
+        "q": "Which textbook chapter and page range correspond to Unit 6.7 on Vertebrates?",
+        "opts": [
+          "Chapter 24.2 (pg. 810-815)",
+          "Chapters 24.1-24.2 (pg. 800-809)",
+          "Chapter 22.1 (pg. 722-730)",
+          "Chapter 25.1 (pg. 850-860)"
+        ],
+        "a": 0,
+        "exp": "The title slide lists 'Ch. 24.2 (pg. 810-815)' for Unit 6.7."
+      }
+    ],
+    "legacy_index": 79
+  },
+  {
+    "unit": 6,
+    "page": 81,
+    "filename": "Unit_6_7.txt",
+    "section_title": "Vertebrates",
+    "page_num_in_file": 2,
+    "slide_title": "Chordates",
+    "original_text": "•Chordates•Nonvertebrate vs Vertebrate Chordates•Characteristics of Vertebrates•Vertebrate diversity•Fish•Amphibians•Reptiles & Birds•Mammals\nVertebrate Outline",
+    "explanation": "This slide outlines the subtopics to be discussed in the Vertebrates unit (6.7): Chordates, Nonvertebrate vs Vertebrate Chordates, Characteristics of Vertebrates, Vertebrate diversity, Fish, Amphibians, Reptiles & Birds, and Mammals.",
+    "questions": [
+      {
+        "q": "Which of the following topics is listed on the Vertebrate Outline slide?",
+        "opts": [
+          "Fungi and Lichen Symbiosis",
+          "Nonvertebrate vs Vertebrate Chordates",
+          "Microphylls vs Megaphylls",
+          "Choanoflagellate Feeding Habits"
+        ],
+        "a": 1,
+        "exp": "The outline lists 'Nonvertebrate vs Vertebrate Chordates' as a key topic in the vertebrates unit."
+      }
+    ],
+    "legacy_index": 80
+  },
+  {
+    "unit": 6,
+    "page": 82,
+    "filename": "Unit_6_7.txt",
+    "section_title": "Vertebrates",
+    "page_num_in_file": 3,
+    "slide_title": "Characteristics of Chordates",
+    "original_text": "Characteristics of Chordates¨Deuterostomes, with internal bone and cartilage skeleton instead of exoskeleton¨All chordates have 4 basic characteristics:¤Notochord –dorsal supporting rod, turns into vertebral column in many¤Dorsal tubular nerve cord –Anterior portion becomes the brain. Known as spinal cord in many¤Pharyngeal pouches –Observable in embryos for most. Become gills in fish, varying function in others¤Postanaltail –Tail structure present at some point",
+    "explanation": "Chordates are deuterostomes characterized by an internal bone and cartilage skeleton instead of an exoskeleton. All chordates possess four basic characteristics at some point in their life: 1) a Notochord, which is a dorsal supporting rod that turns into the vertebral column in many chordates; 2) a Dorsal tubular nerve cord, whose anterior portion becomes the brain, and which is known as the spinal cord in many species; 3) Pharyngeal pouches, which are observable in the embryos of most chordates, developing into functional gills in fish and having varying functions in others; and 4) a Postanal tail, which is a tail structure present at some developmental point.",
+    "questions": [
+      {
+        "q": "Which of the following is NOT one of the four defining characteristics of chordates?",
+        "opts": [
+          "Notochord",
+          "Dorsal tubular nerve cord",
+          "Chitinous exoskeleton",
+          "Postanal tail"
+        ],
+        "a": 2,
+        "exp": "Chordates possess an internal bone and cartilage skeleton, not an exoskeleton. The four characteristics are: notochord, dorsal tubular nerve cord, pharyngeal pouches, and postanal tail."
+      },
+      {
+        "q": "What does the notochord become in many adult chordates?",
+        "opts": [
+          "The brain",
+          "The vertebral column",
+          "Gills",
+          "The postanal tail"
+        ],
+        "a": 1,
+        "exp": "The notes state that the notochord is a 'dorsal supporting rod, turns into vertebral column in many'."
+      },
+      {
+        "q": "What structures develop from pharyngeal pouches in fish?",
+        "opts": [
+          "Lungs",
+          "Gills",
+          "Swim bladders",
+          "Vertebrae"
+        ],
+        "a": 1,
+        "exp": "The notes state that pharyngeal pouches 'Become gills in fish, varying function in others'."
+      }
+    ],
+    "legacy_index": 81
+  },
+  {
+    "unit": 6,
+    "page": 83,
+    "filename": "Unit_6_7.txt",
+    "section_title": "Vertebrates",
+    "page_num_in_file": 4,
+    "slide_title": "Nonvertebrate Chordates",
+    "original_text": "Nonvertebrate Chordates¨Do not have a spine made of bony vertebrate¨Lancelets (cephalochordates)¤Marine Chordates¤Maintain all 4 characteristics of chordates for entire life¨Sea squirts (urochordates)¤Also known as tunicatesnHave an outer, tunic-like coveringnLarva posses all 4 characteristics¨You can see the phylogenetic tree of all chordates here",
+    "explanation": "Nonvertebrate chordates are chordate organisms that do not have a spine composed of bony vertebrae. They include: 1) Lancelets (cephalochordates), which are marine chordates that maintain all 4 characteristics of chordates for their entire life; and 2) Sea squirts (urochordates), also known as tunicates, which possess an outer, tunic-like covering. In sea squirts, only the free-swimming larva possesses all 4 chordate characteristics. A phylogenetic tree of all chordates is referenced here.",
+    "questions": [
+      {
+        "q": "Which nonvertebrate chordates retain all 4 chordate characteristics throughout their entire life cycle?",
+        "opts": [
+          "Sea squirts (tunicates)",
+          "Lancelets (cephalochordates)",
+          "Lampreys",
+          "Bony fish"
+        ],
+        "a": 1,
+        "exp": "The notes state that lancelets 'Maintain all 4 characteristics of chordates for entire life'."
+      },
+      {
+        "q": "What stage of the sea squirt (urochordate) life cycle possesses all 4 chordate characteristics?",
+        "opts": [
+          "Only the adult stage",
+          "Only the larva stage",
+          "Both adult and larva stages",
+          "Neither stage"
+        ],
+        "a": 1,
+        "exp": "The notes state that in sea squirts (urochordates), the 'Larva posses all 4 characteristics'."
+      },
+      {
+        "q": "What is another name for sea squirts?",
+        "opts": [
+          "Lancelets",
+          "Tunicates",
+          "Placoderms",
+          "Ossicles"
+        ],
+        "a": 1,
+        "exp": "The notes identify: 'Sea squirts (urochordates) Also known as tunicates'."
+      }
+    ],
+    "legacy_index": 82
+  },
+  {
+    "unit": 6,
+    "page": 84,
+    "filename": "Unit_6_7.txt",
+    "section_title": "Vertebrates",
+    "page_num_in_file": 5,
+    "slide_title": "Vertebrate Characteristics",
+    "original_text": "Vertebrate Characteristics¨Have same 4 characteristics as non-vertebrates as embryos, but also all share other characteristics¤Vertebral column –replaces the notochord¤Skull–contains brain and houses other sensory features¤Endoskeleton–living tissue that grows with the organism, protects organs, anchor for muscles¤Internal organs –large coelom and complete digestive tract, closed circulatory system, respiration using lungs or gills, sexes generally separate, with sexual reproduction¨Evolution¤Most likely began with jawless fish¤Fish then developed jaws¤Amphibians most likely first terrestrial organisms with limbs, and reproduced and lived partial lives in aquatic environments¤Reptiles first fully adapted to land, and first organisms to have amniotic eggs. Also have watertight skin¤Birds and mammals evolved further from there",
+    "explanation": "Vertebrates possess the same 4 chordate characteristics as nonvertebrates in their embryonic stages, but additionally share: 1) a Vertebral column that replaces the embryonic notochord; 2) a Skull enclosing the brain and sensory organs; 3) an Endoskeleton of living tissue that grows with the organism, protecting organs and anchoring muscles; and 4) complex Internal organs (large coelom, complete digestive tract, closed circulatory system, lungs or gills, and separate sexes reproducing sexually). Evolutionarily, vertebrates began with jawless fish, followed by jawed fish. Amphibians were the first terrestrial organisms with limbs, reproducing in water. Reptiles were the first to fully adapt to land, developing amniotic eggs and watertight skin. Birds and mammals evolved further from reptilian lineages.",
+    "questions": [
+      {
+        "q": "What replaces the embryonic notochord in adult vertebrates?",
+        "opts": [
+          "The skull",
+          "The vertebral column",
+          "The nerve cord",
+          "The endoskeleton"
+        ],
+        "a": 1,
+        "exp": "The notes state: 'Vertebral column – replaces the notochord'."
+      },
+      {
+        "q": "Which group was the first to fully adapt to land, developing watertight skin and amniotic eggs?",
+        "opts": [
+          "Amphibians",
+          "Reptiles",
+          "Lobe-finned fish",
+          "Mammals"
+        ],
+        "a": 1,
+        "exp": "According to the notes, 'Reptiles first fully adapted to land, and first organisms to have amniotic eggs. Also have watertight skin'."
+      },
+      {
+        "q": "What is unique about a vertebrate endoskeleton compared to arthropod exoskeletons?",
+        "opts": [
+          "It is made of chitin and must be shed periodically.",
+          "It is a living tissue that grows with the organism.",
+          "It completely lacks bone or cartilage.",
+          "It is secreted outside the epithelial cells."
+        ],
+        "a": 1,
+        "exp": "The notes define the endoskeleton as 'living tissue that grows with the organism, protects organs, anchor for muscles'."
+      }
+    ],
+    "legacy_index": 83
+  },
+  {
+    "unit": 6,
+    "page": 85,
+    "filename": "Unit_6_7.txt",
+    "section_title": "Vertebrates",
+    "page_num_in_file": 6,
+    "slide_title": "Diversity –Fish",
+    "original_text": "Diversity –Fish¨Largest group of vertebrates. mm in length to 12m in length¤Jawless Fish (Agnathans)nCylindrical, up to a meter long, smooth, nonscalyskin. nScavengers that feed off dead fishnLamprey¤Fish with jawsnAll share following characteristicsnEctotherms (environment regulates temp), gills, bony endoskeleton, and scalesnExtinct placoderms¤Cartilaginous fishnCartilage skeleton instead of bonen5-7 gill slits, no gill covernTeethlike scalesnSharks, rays, skates, chimaeras",
+    "explanation": "Fish represent the largest vertebrate group, ranging from a few millimeters to 12 meters in length. Jawless Fish (Agnathans) are cylindrical (up to a meter long), have smooth, non-scaly skin, act as scavengers feeding on dead fish, and include lampreys. Fish with jaws are ectotherms (body temperature regulated by the environment), and possess gills, a bony endoskeleton, and scales (including extinct placoderms). Cartilaginous fish possess a cartilage skeleton instead of bone, 5-7 open gill slits (no gill cover), teethlike scales, and include sharks, rays, skates, and chimaeras.",
+    "questions": [
+      {
+        "q": "Which fish are characterized by cylindrical bodies, smooth non-scaly skin, scavenger habits, and include lampreys?",
+        "opts": [
+          "Cartilaginous fish",
+          "Jawless Fish (Agnathans)",
+          "Bony fish",
+          "Placoderms"
+        ],
+        "a": 1,
+        "exp": "The notes describe Jawless Fish (Agnathans) as 'Cylindrical... smooth, nonscaly skin. Scavengers... Lamprey'."
+      },
+      {
+        "q": "Which characteristics are shared by all fish with jaws?",
+        "opts": [
+          "Endotherms with lungs and hair",
+          "Ectotherms with gills, bony endoskeleton, and scales",
+          "Hermaphroditic reproduction and spicules",
+          "Three-chambered hearts and amniotic eggs"
+        ],
+        "a": 1,
+        "exp": "The notes list shared characteristics for jawed fish as: 'Ectotherms (environment regulates temp), gills, bony endoskeleton, and scales'."
+      },
+      {
+        "q": "What features distinguish cartilaginous fish from bony fish?",
+        "opts": [
+          "A cartilage skeleton instead of bone, 5-7 gill slits with no cover, and teethlike scales",
+          "A bony skeleton, a swim bladder, and flat scales",
+          "A cylindrical body with smooth nonscaly skin and no jaws",
+          "Fleshy fins supported by bones"
+        ],
+        "a": 0,
+        "exp": "The notes state that cartilaginous fish have a 'Cartilage skeleton instead of bone', '5-7 gill slits, no gill cover', and 'Teethlike scales' (e.g. sharks, rays)."
+      }
+    ],
+    "legacy_index": 84
+  },
+  {
+    "unit": 6,
+    "page": 86,
+    "filename": "Unit_6_7.txt",
+    "section_title": "Vertebrates",
+    "page_num_in_file": 7,
+    "slide_title": "Diversity –Fish",
+    "original_text": "Diversity –Fish¨Largest group of vertebrates. mm in length to 12m in length¤Bony FishnMost are ray finned (fan shaped)nHave swim bladder for buoyancynWell developed nervous system and brain ¤Lobe-finned fishnContain fleshy fins supported by bonenGave rise to first amphibiansnContain lungfish and coelacanth",
+    "explanation": "Bony Fish are the largest group of vertebrates. Most bony fish are ray-finned, meaning they possess fan-shaped fins, a swim bladder to regulate buoyancy, and a well-developed nervous system and brain. Lobe-finned fish contain fleshy fins supported by internal bones. Lobe-finned fish gave rise to the first terrestrial amphibians, and living representatives include the lungfish and coelacanth.",
+    "questions": [
+      {
+        "q": "What structure do ray-finned bony fish use to maintain and regulate buoyancy?",
+        "opts": [
+          "Notochord",
+          "Swim bladder",
+          "Lobular lungs",
+          "Cartilaginous spicules"
+        ],
+        "a": 1,
+        "exp": "The notes state that ray-finned bony fish 'Have swim bladder for buoyancy'."
+      },
+      {
+        "q": "What evolutionary significance is held by lobe-finned fish, and which are modern examples?",
+        "opts": [
+          "They developed the first feathers; eagles and geese",
+          "They gave rise to the first amphibians; lungfish and coelacanth",
+          "They developed jawless cylindrical bodies; lampreys",
+          "They were the first to lay amniotic eggs; turtles and snakes"
+        ],
+        "a": 1,
+        "exp": "The notes state that lobe-finned fish 'Gave rise to first amphibians' and 'Contain lungfish and coelacanth'."
+      }
+    ],
+    "legacy_index": 85
+  },
+  {
+    "unit": 6,
+    "page": 87,
+    "filename": "Unit_6_7.txt",
+    "section_title": "Vertebrates",
+    "page_num_in_file": 8,
+    "slide_title": "Diversity –Amphibians",
+    "original_text": "Diversity –Amphibians¨Live life on both land and water, with the following unifying characteristics:¤Limbs–normally tetrapods(4 limbs)¤Smooth, non-scaly skin–for maintaining water balance¤Lungs–if present, small and used for gas exchange¤Double-looped circulatory pathway –3 chamber heart¤Sense organs –sight, hearing, and smell tuned for life on land¤Ectotherms¤Aquatic reproduction –Deposit jelly-coated eggs in water and are fertilized; young hatch and grow early part of life in water. Most emerge for life on land as adults¨Diversity includes ¤Salamanders and newts¤Frogs and Toads¤Caecilians",
+    "explanation": "Amphibians live on both land and water, sharing several unifying characteristics: 1) Limbs: normally tetrapods (having 4 limbs); 2) Smooth, non-scaly skin: adapted for maintaining water balance; 3) Lungs: if present, they are small and used for gas exchange; 4) Double-looped circulatory pathway, featuring a 3-chambered heart; 5) terrestrial-adapted sense organs (sight, hearing, smell); and 6) Ectothermy (body temperature dependent on the environment). Amphibians rely on aquatic reproduction, depositing jelly-coated eggs in water where they are fertilized. The young hatch and grow in water before emerging as terrestrial adults. Amphibian diversity includes salamanders and newts, frogs and toads, and caecilians.",
+    "questions": [
+      {
+        "q": "What describes the heart and circulatory pathway of amphibians?",
+        "opts": [
+          "Single-loop pathway with a 2-chambered heart",
+          "Double-loop pathway with a 3-chambered heart",
+          "Closed pathway with a 4-chambered heart",
+          "Open circulatory system with no specialized heart"
+        ],
+        "a": 1,
+        "exp": "The notes state that amphibians have a 'Double-looped circulatory pathway – 3 chamber heart'."
+      },
+      {
+        "q": "What is the typical mode of reproduction in amphibians?",
+        "opts": [
+          "Internal fertilization and amniotic egg laying on land",
+          "Aquatic reproduction by depositing jelly-coated eggs in water for fertilization",
+          "Budding and asexual spore formation",
+          "Internal placental development followed by live birth"
+        ],
+        "a": 1,
+        "exp": "The notes describe 'Aquatic reproduction – Deposit jelly-coated eggs in water and are fertilized'."
+      },
+      {
+        "q": "Which of the following groups are classified as amphibians?",
+        "opts": [
+          "Turtles, snakes, and lizards",
+          "Salamanders, frogs, and caecilians",
+          "Lampreys, sharks, and lungfish",
+          "Eagles, penguins, and ostriches"
+        ],
+        "a": 1,
+        "exp": "The notes state: 'Diversity includes: Salamanders and newts; Frogs and Toads; Caecilians'."
+      }
+    ],
+    "legacy_index": 86
+  },
+  {
+    "unit": 6,
+    "page": 88,
+    "filename": "Unit_6_7.txt",
+    "section_title": "Vertebrates",
+    "page_num_in_file": 9,
+    "slide_title": "Diversity -Reptiles",
+    "original_text": "Diversity -Reptiles¨Terrestrial animals, which includes birds in class Reptilia, with the following unifying characteristics:¤Paired limbs –2 pairs, usually 5 toes each. Adapted for climbing, running, paddling, or flying¤Skin–Thick and dry, impermeable to water, scaly¤Efficient breathing -lungs better developed than amphibians¤Efficient circulation –Heart prevents mixing of blood¤Efficient excretion –well developed kidneys¤Ectotherms¤Well-adapted reproduction–internal fertilization. Amniotic egg¨Amphibians gave rise to reptiles according to multiple lineages",
+    "explanation": "Reptiles are terrestrial animals (which taxonomically includes birds in class Reptilia) that share several unifying characteristics: 1) Paired limbs: 2 pairs, typically with 5 toes each, adapted for climbing, running, paddling, or flying; 2) Skin: thick, dry, scaly, and impermeable to water; 3) Efficient breathing: lungs are better developed than in amphibians; 4) Efficient circulation: the heart prevents the mixing of oxygenated and deoxygenated blood; 5) Efficient excretion: well-developed kidneys; 6) Ectothermy; and 7) Reproduction: internal fertilization and production of amniotic eggs. Multiple lineages of amphibians gave rise to reptiles.",
+    "questions": [
+      {
+        "q": "What type of skin and breathing system are characteristic of reptiles?",
+        "opts": [
+          "Smooth, non-scaly skin with small lungs",
+          "Thick, dry, scaly skin impermeable to water, with lungs better developed than in amphibians",
+          "Porous skin with no lungs",
+          "Moist skin containing stomata for gas exchange"
+        ],
+        "a": 1,
+        "exp": "The notes list 'Skin–Thick and dry, impermeable to water, scaly' and 'Efficient breathing - lungs better developed than amphibians'."
+      },
+      {
+        "q": "What reproductive features are characteristic of reptiles?",
+        "opts": [
+          "External fertilization in water and jelly-coated eggs",
+          "Internal fertilization and amniotic eggs",
+          "Asexual reproduction and spore production",
+          "Placental internal development only"
+        ],
+        "a": 1,
+        "exp": "The notes state that reptiles have 'Well-adapted reproduction–internal fertilization. Amniotic egg'."
+      },
+      {
+        "q": "Which animal group is identified as having given rise to reptiles?",
+        "opts": [
+          "Cartilaginous fish",
+          "Amphibians",
+          "Lycophytes",
+          "Yeasts"
+        ],
+        "a": 1,
+        "exp": "The notes state: 'Amphibians gave rise to reptiles according to multiple lineages'."
+      }
+    ],
+    "legacy_index": 87
+  },
+  {
+    "unit": 6,
+    "page": 89,
+    "filename": "Unit_6_7.txt",
+    "section_title": "Vertebrates",
+    "page_num_in_file": 10,
+    "slide_title": "Evolution of Reptiles",
+    "original_text": "Evolution of Reptiles¨Lineages grouped on presence and number of openings behind eye-socket¤Anapsid –no openingnTurtles¤Diapsid –2 openingsnMost reptiles and birds¤Synapsid –1 openingnMammals¨Most reptiles do not have 1 known common ancestor –paraphyletic rather than monophyletic¨Crocodiles and birds more closely related to dinosaurs than lizards",
+    "explanation": "Reptile lineages are classified based on the presence and number of openings (temporal fenestrae) behind the eye socket: 1) Anapsid (no opening) - turtles; 2) Diapsid (2 openings) - most reptiles and birds; and 3) Synapsid (1 opening) - mammals. Because most reptiles do not share a single unique common ancestor, Reptilia is considered a paraphyletic group rather than a monophyletic one. Crocodiles and birds are more closely related to dinosaurs than they are to lizards.",
+    "questions": [
+      {
+        "q": "Which skull lineage features one opening behind the eye socket and leads to mammals?",
+        "opts": [
+          "Anapsid",
+          "Diapsid",
+          "Synapsid",
+          "Deuterostome"
+        ],
+        "a": 2,
+        "exp": "The notes state: 'Synapsid – 1 opening Mammals'."
+      },
+      {
+        "q": "Why is the traditional class Reptilia considered paraphyletic rather than monophyletic?",
+        "opts": [
+          "Reptiles do not have a single known common ancestor.",
+          "Reptiles reproduce using external spores.",
+          "Reptiles are invertebrates.",
+          "Reptiles are all endothermic."
+        ],
+        "a": 0,
+        "exp": "The notes state: 'Most reptiles do not have 1 known common ancestor – paraphyletic rather than monophyletic'."
+      },
+      {
+        "q": "Which modern groups are more closely related to dinosaurs than lizards are?",
+        "opts": [
+          "Turtles and tuataras",
+          "Crocodiles and birds",
+          "Salamanders and frogs",
+          "Sharks and rays"
+        ],
+        "a": 1,
+        "exp": "The notes state: 'Crocodiles and birds more closely related to dinosaurs than lizards'."
+      }
+    ],
+    "legacy_index": 88
+  },
+  {
+    "unit": 6,
+    "page": 90,
+    "filename": "Unit_6_7.txt",
+    "section_title": "Vertebrates",
+    "page_num_in_file": 11,
+    "slide_title": "Diversity of Reptiles and Birds",
+    "original_text": "Diversity of Reptiles and Birds¨Living reptiles include:¤Tortoises and turtles¤Lizards¤Snakes¤Tuataras¤Crocodilians¨Birds are also included and have features such as:¤Feathers¤Modified skeleton¤Modified respiration (with lobular lungs)¤Endotherms–metabolic heat to maintain temp¤Well-dev. sense organs and nervous system¤Diversity includes:nFlying birds –eagles, geese, mockingbirdsnFlightless -emu, kiwi, penguin, ostrichnNormally classified by beak and foot type, and habitat",
+    "explanation": "Living reptiles include tortoises and turtles, lizards, snakes, tuataras, and crocodilians. Birds are also included in the reptile lineage and possess characteristic features: 1) feathers, 2) a modified skeleton for flight, 3) modified respiration using lobular lungs, 4) endothermy (using metabolic heat to maintain a constant body temperature), and 5) well-developed sense organs and nervous systems. Bird diversity includes flying birds (e.g., eagles, geese, mockingbirds) and flightless birds (e.g., emu, kiwi, penguin, ostrich). Birds are normally classified by their beak type, foot type, and habitat.",
+    "questions": [
+      {
+        "q": "What term describes organisms like birds that generate metabolic heat to maintain their body temperature?",
+        "opts": [
+          "Ectotherms",
+          "Endotherms",
+          "Saprotrophs",
+          "Heterotrophs"
+        ],
+        "a": 1,
+        "exp": "The notes state: 'Endotherms–metabolic heat to maintain temp'."
+      },
+      {
+        "q": "Which of the following is listed as a flightless bird in the notes?",
+        "opts": [
+          "Eagle",
+          "Mockingbird",
+          "Ostrich",
+          "Goose"
+        ],
+        "a": 2,
+        "exp": "The notes list 'emu, kiwi, penguin, ostrich' as flightless birds."
+      },
+      {
+        "q": "On what criteria are birds normally classified?",
+        "opts": [
+          "Embryonic tissue layers",
+          "Beak and foot type, and habitat",
+          "Whether they are monoecious or dioecious",
+          "Symmetry of their body plans"
+        ],
+        "a": 1,
+        "exp": "The notes state that birds are 'Normally classified by beak and foot type, and habitat'."
+      }
+    ],
+    "legacy_index": 89
+  },
+  {
+    "unit": 6,
+    "page": 91,
+    "filename": "Unit_6_7.txt",
+    "section_title": "Vertebrates",
+    "page_num_in_file": 12,
+    "slide_title": "Diversity -Mammals",
+    "original_text": "Diversity -Mammals¨Include largest animals to live, with the following unifying characteristics:¤Hair–ornamental or purpose¤Mammary glands¤Skeleton–holds larger brain than reptiles¤Internal Organs –efficient respand circ, 4 chamber heart, developed nervous system¤Internal development –born alive after development¨Mammalanevolution based on type of offspring birth state¤Monotremes –egg laying mammalnOnly includes duck-billed platypus & Echidna¤Marsupials –Pouched mammals (embryos nourished by a yolk based placenta in pouchnKangaroo, koala, wombats, opossums¤Placental –Placenta internal for full growth and developmentnAll other animals",
+    "explanation": "Mammals share unifying characteristics: hair (ornamental or functional), mammary glands, a skeleton housing a larger brain than reptiles, efficient respiration and circulation with a 4-chambered heart, a developed nervous system, and internal development where offspring are born alive. Mammals are classified into three groups based on offspring birth state: 1) Monotremes (egg-laying mammals) - only includes the duck-billed platypus and Echidna; 2) Marsupials (pouched mammals), whose embryos are nourished by a yolk-based placenta in a pouch (kangaroos, koalas, wombats, opossums); and 3) Placental mammals, which feature an internal placenta for full embryonic growth and development (all other mammals).",
+    "questions": [
+      {
+        "q": "Which mammalian group consists of egg-laying mammals, and what are its only living members?",
+        "opts": [
+          "Marsupials; kangaroo and opossum",
+          "Monotremes; duck-billed platypus and Echidna",
+          "Placental mammals; koala and wombat",
+          "Synapsids; turtles and birds"
+        ],
+        "a": 1,
+        "exp": "The notes state that Monotremes are 'egg laying mammal' and 'Only includes duck-billed platypus & Echidna'."
+      },
+      {
+        "q": "How do marsupial embryos receive nourishment?",
+        "opts": [
+          "Directly from the yolk inside an egg shell on land",
+          "By a yolk-based placenta inside a maternal pouch",
+          "Through a complex internal placenta for their entire development until full growth",
+          "Via absorption from surrounding water using flagella"
+        ],
+        "a": 1,
+        "exp": "The notes define Marsupials as 'Pouched mammals (embryos nourished by a yolk based placenta in pouch)'."
+      },
+      {
+        "q": "What internal organ structures define mammals?",
+        "opts": [
+          "Double-looped pathway with a 3-chambered heart",
+          "Efficient respiration and circulation, a 4-chambered heart, and a developed nervous system",
+          "Single-loop pathway with a 2-chambered heart",
+          "Complete absence of specialized respiratory and circulatory structures"
+        ],
+        "a": 1,
+        "exp": "The notes state that mammals have 'efficient resp and circ, 4 chamber heart, developed nervous system' as internal organ features."
+      }
+    ],
+    "legacy_index": 90
+  },
+  {
+    "unit": 6,
+    "page": 92,
+    "filename": "Unit_6_7.txt",
+    "section_title": "Vertebrates",
+    "page_num_in_file": 13,
+    "slide_title": "Diversity of Mammals",
+    "original_text": "Diversity of Mammals\nFor more info on the full diversity ofmammals, see page 566 in text",
+    "explanation": "This slide serves as an overview and conclusion for the section on mammals, directing students to page 566 of the textbook for additional details on mammalian diversity.",
+    "questions": [
+      {
+        "q": "Where can students find more information about the full diversity of mammals?",
+        "opts": [
+          "Text page 385",
+          "Text page 526",
+          "Text page 566",
+          "Text page 810"
+        ],
+        "a": 2,
+        "exp": "The slide notes state: 'For more info on the full diversity ofmammals, see page 566 in text'."
+      }
+    ],
+    "legacy_index": 91
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 78,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 29,
+  "slide_title": "Point Mutations in Hemoglobin",
+  "original_text": "Point Mutations in Hemoglobin",
+  "explanation": "This slide introduces the clinical and molecular example of point mutations in hemoglobin.",
+  "questions": [
+    {
+      "q": "What specific protein is mentioned on this slide as an example of point mutations?",
+      "opts": [
+        "RNA polymerase",
+        "Hemoglobin",
+        "Histone",
+        "Protease"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide is titled 'Point Mutations in Hemoglobin'. The other options are not mentioned."
+    }
+  ]
+}

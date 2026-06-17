@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 76,
+  "filename": "Unit_6_6.txt",
+  "section_title": "Invertebrates",
+  "page_num_in_file": 9,
+  "slide_title": "Diversity -Ecdysozoans\u00a8Large group containing roundworms and arthropods\u00a4Roundworms (Nematoda)nNon-segmented nematodesnCan be free-living or parasiticnCaenorhabditis elegansis a model research organismnAscarisinfections can occur in humans and other animalsnTrichinosisserious infection from eating uncooked porknFilarial worms and pinworms also common parasitic roundworms",
+  "original_text": "Diversity -Ecdysozoans\u00a8Large group containing roundworms and arthropods\u00a4Roundworms (Nematoda)nNon-segmented nematodesnCan be free-living or parasiticnCaenorhabditis elegansis a model research organismnAscarisinfections can occur in humans and other animalsnTrichinosisserious infection from eating uncooked porknFilarial worms and pinworms also common parasitic roundworms",
+  "explanation": "Ecdysozoans represent a large group containing roundworms and arthropods. Roundworms (Nematoda) are non-segmented nematodes that can be free-living or parasitic. Caenorhabditis elegans is a major model organism used in scientific research. Parasitic roundworms include Ascaris (infecting humans and animals), Trichinella (causing trichinosis, a serious infection from eating uncooked pork), filarial worms, and pinworms.",
+  "questions": [
+    {
+      "q": "Which nematode is widely utilized as a genetic model organism in research?",
+      "opts": [
+        "Ascaris",
+        "Caenorhabditis elegans",
+        "Trichinella",
+        "Planarian"
+      ],
+      "a": 1,
+      "exp": "The notes state that 'Caenorhabditis elegans is a model research organism' under Nematoda."
+    },
+    {
+      "q": "What parasitic roundworm infection is acquired by eating uncooked pork?",
+      "opts": [
+        "Oral thrush",
+        "Trichinosis",
+        "Athlete's foot",
+        "Malaria"
+      ],
+      "a": 1,
+      "exp": "The notes describe 'Trichinosis' as a 'serious infection from eating uncooked pork'."
+    },
+    {
+      "q": "What is a major structural difference between Nematodes and Annelids?",
+      "opts": [
+        "Nematodes have segmented bodies, while Annelids are non-segmented.",
+        "Nematodes are non-segmented, while Annelids are segmented.",
+        "Nematodes have cell walls, while Annelids lack them.",
+        "Nematodes have radial symmetry, while Annelids are bilateral."
+      ],
+      "a": 1,
+      "exp": "The notes state that Roundworms are 'Non-segmented nematodes', whereas Annelids are 'Segmented worms' with a 'Repeating body segment pattern'."
+    }
+  ]
+}

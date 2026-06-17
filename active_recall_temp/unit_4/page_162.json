@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 162,
+  "filename": "Unit_4_8.txt",
+  "section_title": "Mendelian Inheritance P1 - Mendelian Genetics",
+  "page_num_in_file": 17,
+  "slide_title": "Mendel’s Laws¨Law of Segregation:¤Each individual has a pair of factors (alleles) for each trait¤The factors (alleles) segregate (separate) during gamete (sperm & egg) formation¤Each gamete contains only one factor (allele) from each pair of factors¤Fertilization gives the offspring two factors for each trait",
+  "original_text": "Mendel’s Laws¨Law of Segregation:¤Each individual has a pair of factors (alleles) for each trait¤The factors (alleles) segregate (separate) during gamete (sperm & egg) formation¤Each gamete contains only one factor (allele) from each pair of factors¤Fertilization gives the offspring two factors for each trait",
+  "explanation": "The Law of Segregation states that each individual has a pair of factors (alleles) for each trait. These alleles separate (segregate) during gamete (sperm and egg) formation. As a result, each gamete contains only one allele from each pair. Fertilization then restores the double number of alleles by giving the offspring two factors for each trait.",
+  "questions": [
+    {
+      "q": "What does the Law of Segregation state about gamete formation?",
+      "opts": [
+        "Each gamete receives two alleles for each gene.",
+        "Alleles for different genes assort independently.",
+        "The alleles for a trait separate so that each gamete contains only one allele from the pair.",
+        "Fertilization reduces the allele count to one."
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide explains: 'The factors (alleles) segregate (separate) during gamete (sperm & egg) formation; Each gamete contains only one factor (allele) from each pair of factors.'"
+    },
+    {
+      "q": "How does fertilization affect the number of alleles for each trait in an offspring?",
+      "opts": [
+        "It reduces the number of alleles to one.",
+        "It doubles the number of alleles compared to somatic cells.",
+        "It restores the double number of alleles, giving the offspring two factors for each trait.",
+        "It causes alleles to segregate randomly."
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide states: 'Fertilization gives the offspring two factors for each trait.'"
+    }
+  ]
+}

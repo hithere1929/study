@@ -1,0 +1,23 @@
+{
+  "unit": 8,
+  "page": 49,
+  "filename": "Unit_8_3.txt",
+  "section_title": "Community & Ecosystem Ecology",
+  "page_num_in_file": 15,
+  "slide_title": "Dynamics of an Ecosystem¨The Water Cycle¤Freshwater evaporates from bodies of water¤Precipitation over land enters ground, surface waters, aquifers¤Eventually returns to oceans over time¨Human Impact¤In arid West and southern Florida, groundwater mining is occurringnAquifers are being drained faster than they can be naturally replenished",
+  "original_text": "Dynamics of an Ecosystem¨The Water Cycle¤Freshwater evaporates from bodies of water¤Precipitation over land enters ground, surface waters, aquifers¤Eventually returns to oceans over time¨Human Impact¤In arid West and southern Florida, groundwater mining is occurringnAquifers are being drained faster than they can be naturally replenished",
+  "explanation": "The water cycle involves freshwater evaporating from bodies of water and returning to Earth as precipitation over land. This water enters the ground, surface waters, and underground aquifers, eventually flowing back into the oceans. Human activities, particularly in the arid West and southern Florida, have disrupted this cycle through groundwater mining, which drains aquifers much faster than natural precipitation can replenish them.",
+  "questions": [
+    {
+      "q": "What human impact on the water cycle is specifically highlighted in the notes?",
+      "opts": [
+        "Acid rain formation in North America",
+        "Groundwater mining draining aquifers faster than replenishment in the arid West and southern Florida",
+        "The complete evaporation of the oceans due to global warming",
+        "An increase in precipitation rates worldwide due to deforestation"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'In arid West and southern Florida, groundwater mining is occurring' where 'Aquifers are being drained faster than they can be naturally replenished.'"
+    }
+  ]
+}

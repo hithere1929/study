@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 82,
+  "filename": "Unit_3_4.txt",
+  "section_title": "The Cell Cycle",
+  "page_num_in_file": 9,
+  "slide_title": "Interphase",
+  "original_text": "Interphase\nG2 phase: third stage of interphase\nCell prepares for next division\nG2: time gap between DNA synthesis and next cell division \nCells can exit cell cycle, typically at G1, and enter G0 phase \nCells are not dividing or copying DNA \nMany cells exist in this stage; those that are fully developed and no longer need to divideni.e. cells of central nervous system",
+  "explanation": "The G2 phase is the third stage of interphase, representing the time gap between DNA synthesis (S phase) and the next cell division. During G2, the cell prepares for division. Alternatively, cells can exit the active cell cycle, typically during the G1 phase, to enter a resting state known as the G0 phase. In G0, cells do not divide or copy their DNA. Many cells exist permanently in the G0 stage, particularly those that are fully developed and no longer require division, such as neurons of the central nervous system.",
+  "questions": [
+    {
+      "q": "What is the characteristic of cells in the G0 phase?",
+      "opts": [
+        "They are actively dividing and copying DNA.",
+        "They are not dividing or copying DNA, representing a resting state for fully developed cells.",
+        "They are undergoing rapid cell growth.",
+        "They are in the process of nuclear envelope breakdown."
+      ],
+      "a": 1,
+      "exp": "In the G0 phase, cells are not dividing or copying DNA. Many fully developed cells that no longer need to divide (such as central nervous system cells) exist in this phase."
+    },
+    {
+      "q": "At which point in the cell cycle can a cell exit to enter the G0 phase?",
+      "opts": [
+        "M phase",
+        "S phase",
+        "G1 phase",
+        "G2 phase"
+      ],
+      "a": 2,
+      "exp": "According to the slide, cells can exit the cell cycle, typically at G1, and enter the G0 phase."
+    }
+  ]
+}

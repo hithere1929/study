@@ -1,0 +1,27 @@
+{
+  "id": "u6_t2",
+  "title": "Virus Mechanics",
+  "cheat_card": [
+    "<b>Anatomy</b>: Every virus contains a protein outer shell called a <b>capsid</b> and an inner core of genetic material (DNA or RNA, containing 3 to 100s of genes). <i>Naked</i> viruses lack an outer membrane, while <i>enveloped</i> viruses are wrapped in host cell plasma membrane.",
+    "<b>Lytic vs. Lysogenic</b>: In the <b>lytic cycle</b>, viral replication leads to immediate host cell lysis (stages: attachment, penetration, biosynthesis, maturation, release). In the <b>lysogenic cycle</b>, viral genome <i>integration</i> occurs, and the virus remains dormant as it is replicated with host DNA.",
+    "<b>Animal Viruses and Budding</b>: Animal viruses release via lytic lysis if they are naked, but enveloped viruses exit by <b>budding</b>, wrapping themselves in the host cell membrane coated in proteins and carbohydrates.",
+    "<b>Retrovirus Replication</b>: Retroviruses are RNA viruses that use the enzyme <b>reverse transcriptase</b> to synthesize cDNA from their RNA template; this cDNA then integrates into the host chromosome.",
+    "<b>Influenza Spikes</b>: Influenza viruses have <b>H (hemagglutinin) spikes</b> (16 varieties, used for binding host receptors) and <b>N (neuraminidase) spikes</b> (9 varieties, used to attack host membranes and exit cells)."
+  ],
+  "memory_anchor": "### Replication Cycle Comparison: Lytic vs. Lysogenic\n\n* **Lytic Cycle** (Immediate Destruction): \n  1. **Attachment** (spikes bind host receptors) $\\rightarrow$ 2. **Penetration** (viral DNA enters) $\\rightarrow$ 3. **Biosynthesis** (host makes capsid/viral parts) $\\rightarrow$ 4. **Maturation** (assembly) $\\rightarrow$ 5. **Release** (cell bursts/lyses).\n* **Lysogenic Cycle** (Silent Integration):\n  1. **Attachment & Penetration** $\\rightarrow$ 2. **Integration** (viral DNA inserts into host genome, becoming a prophage/provirus) $\\rightarrow$ 3. **Dormancy** (replicates with host) $\\rightarrow$ 4. **Induction** (triggers entry into the lytic cycle).\n\n**Mnemonic for Influenza Spikes:**\n* **H**emagglutinin = **H**ook (helps the virus bind/enter the cell; 16 types)\n* **N**euraminidase = **N**ick/Exit (helps the virus cut its way out of the cell; 9 types)",
+  "flashcards": [
+    {
+      "q": "How does a retrovirus like HIV replicate its RNA genome within a host cell, and what key enzyme is required for this process?",
+      "a": "A retrovirus carries the enzyme reverse transcriptase, which transcribes its single-stranded RNA genome into complementary DNA (cDNA). This cDNA is then integrated into the host cell's double-stranded DNA genome, allowing it to be replicated along with the host's genome and transcribed into new viral particles."
+    },
+    {
+      "q": "Explain the difference in host cell exit strategies between naked viruses and enveloped animal viruses.",
+      "a": "Naked viruses typically exit the host cell through lytic bursting, which destroys the cell membrane. Enveloped viruses exit via budding; they push through the host's cell plasma membrane, wrapping themselves in a portion of the membrane that becomes coated in viral proteins and carbohydrates."
+    },
+    {
+      "q": "What roles do H spikes and N spikes play in influenza infections, and how many distinct varieties of each exist?",
+      "a": "The H (hemagglutinin) spike binds to specific receptors on the host cell surface to allow viral entry, and there are 16 different types. The N (neuraminidase) spike attacks host plasma membranes, allowing mature viruses to exit the host cell, and there are 9 different types."
+    }
+  ],
+  "outline_blanks": "To replicate, retroviruses use the enzyme [[reverse transcriptase]] to convert their RNA genome into [[cDNA]], which then integrates into the host's DNA. Influenza viruses use their [[hemagglutinin]] spikes to bind to host receptors and [[neuraminidase]] spikes to exit host cells. Defending plants and animals are pathogens like [[viroids]], which consist of naked RNA, and [[prions]], which are infectious misfolded proteins."
+}

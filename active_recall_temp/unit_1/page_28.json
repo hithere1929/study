@@ -1,0 +1,34 @@
+{
+  "unit": 1,
+  "page": 28,
+  "filename": "Unit_1_2.txt",
+  "section_title": "Intro to Biology",
+  "page_num_in_file": 15,
+  "slide_title": "Organizing Diversity",
+  "original_text": "\u2013Categories are needed to make sense of all of Earth\u2019s diversity\u2013Scientists have identified close to 2 million different species\u2013Actual estimates of Earth\u2019s diversity are 10-100 million species\n\u2013Taxonomyis the discipline of identifying and grouping organisms\u2013Names species\u2013Classifies species into a hierarchy of broader groups\n\u2013Systematicsis the study of evolutionary relationships between organisms",
+  "explanation": "This page introduces methods used to categorize the massive diversity of life on Earth. While scientists have identified approximately 2 million species, estimates of total global diversity range from 10 to 100 million species. Taxonomy is defined as the scientific discipline of identifying, naming, and classifying organisms into a hierarchical system of broader groups. Systematics is the study of the evolutionary relationships that exist between organisms.",
+  "questions": [
+    {
+      "q": "What is the primary difference between taxonomy and systematics according to this slide?",
+      "opts": [
+        "Taxonomy deals with identifying, naming, and classifying species, while systematics is the study of evolutionary relationships.",
+        "Taxonomy focuses on cellular anatomy, while systematics studies global ecosystems.",
+        "Taxonomy calculates the total number of species, while systematics names new organisms.",
+        "Taxonomy deals with living organisms, while systematics studies extinct species only."
+      ],
+      "a": 0,
+      "exp": "The slide defines taxonomy as the discipline of identifying, grouping, naming, and classifying species, and systematics as the study of evolutionary relationships between organisms."
+    },
+    {
+      "q": "What is the estimated range of Earth's total species diversity compared to the number identified by scientists?",
+      "opts": [
+        "1 million identified; 5 million estimated",
+        "Close to 2 million identified; 10-100 million estimated",
+        "5 million identified; 50 million estimated",
+        "10 million identified; 1 billion estimated"
+      ],
+      "a": 1,
+      "exp": "The slide states that scientists have identified close to 2 million species, but actual estimates of Earth's diversity are 10-100 million species."
+    }
+  ]
+}

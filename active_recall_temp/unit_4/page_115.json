@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 115,
+  "filename": "Unit_4_6.txt",
+  "section_title": "Meiosis",
+  "page_num_in_file": 9,
+  "slide_title": "Meiosis I",
+  "original_text": "Meiosis I",
+  "explanation": "This slide continues the illustration of the meiotic stages within Meiosis I.",
+  "questions": [
+    {
+      "q": "Which division stage is the focus of this page?",
+      "opts": [
+        "Mitosis",
+        "Meiosis I",
+        "Meiosis II",
+        "Interkinesis"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide is titled 'Meiosis I'."
+    }
+  ]
+}

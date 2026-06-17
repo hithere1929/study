@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 136,
+  "filename": "Unit_2_5.txt",
+  "section_title": "Enzymes",
+  "page_num_in_file": 14,
+  "slide_title": "Substrate",
+  "original_text": "Substrate\nEnzyme\nActive site\nNormal binding of substrate\nCompetitive inhibitor\nNoncompetitive inhibitor\nEnzyme inhibition",
+  "explanation": "This slide displays a visual comparison between normal substrate binding, competitive inhibition (where the inhibitor blocks the active site), and noncompetitive inhibition (where the inhibitor binds to another site, causing a change in the active site's shape).",
+  "questions": [
+    {
+      "q": "Which type of inhibition is shown when a molecule blocks the substrate from docking into the active site by fitting into it directly?",
+      "opts": [
+        "Allosteric inhibition",
+        "Noncompetitive inhibition",
+        "Competitive inhibition",
+        "Feedback activation"
+      ],
+      "a": 2,
+      "exp": "Competitive inhibition occurs when the inhibitor directly occupies the active site, preventing substrate binding."
+    }
+  ]
+}

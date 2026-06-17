@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 47,
+  "filename": "Unit_4_3.txt",
+  "section_title": "DNA Replication, Transcription, Translation",
+  "page_num_in_file": 23,
+  "slide_title": "Proteins¨Proteins made of one or more polypeptides¨Chains of amino acids linked by peptide bonds¨20 different amino acids present in organisms¨Each polypeptide can be hundreds to thousands of amino acids in length¨Sequence of amino acids is unique to each protein¨Sequence of amino acids determines how protein will fold into its 3-dimensional structure¤Structure dictates function",
+  "original_text": "Proteins¨Proteins made of one or more polypeptides¨Chains of amino acids linked by peptide bonds¨20 different amino acids present in organisms¨Each polypeptide can be hundreds to thousands of amino acids in length¨Sequence of amino acids is unique to each protein¨Sequence of amino acids determines how protein will fold into its 3-dimensional structure¤Structure dictates function",
+  "explanation": "Proteins are macromolecular structures composed of one or more polypeptide chains. Polypeptides are linear polymers of amino acids linked together by covalent peptide bonds. Eukaryotic and prokaryotic organisms use 20 different amino acids to construct these chains, which can range from hundreds to thousands of amino acids in length. Every protein has a unique amino acid sequence. This primary sequence determines how the polypeptide chain folds into a specific three-dimensional shape, and this structure ultimately dictates the biological function of the protein.",
+  "questions": [
+    {
+      "q": "What type of bond links amino acids together in a polypeptide chain?",
+      "opts": [
+        "Hydrogen bond",
+        "Phosphodiester bond",
+        "Peptide bond",
+        "Ionic bond"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide states that polypeptides are 'Chains of amino acids linked by peptide bonds.' Phosphodiester bonds (Option B) link nucleotides in DNA/RNA. Hydrogen bonds (Option A) stabilize base pairs."
+    }
+  ]
+}

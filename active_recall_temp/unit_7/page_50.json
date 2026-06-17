@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 50,
+  "filename": "Unit_7_3.txt",
+  "section_title": "Plant Control of Growth Responses",
+  "page_num_in_file": 15,
+  "slide_title": "Plant Responses: Nastic Movements",
+  "original_text": "Plant Responses Nastic movements: Do not involve growth and are not dependent on the stimulus direction nHave to do with turgor pressure from water leaving and entering the cell. nAKA -Turgor movements nResult from touch, shaking, or thermal stimulation nMimosa pudicanVenus flytrap",
+  "explanation": "Nastic movements (also known as turgor movements) are rapid, reversible plant movements that do not involve growth and are independent of the direction of the stimulus. These movements are driven by rapid changes in turgor pressure as water enters or leaves specialized motor cells. Nastic movements are triggered by stimuli such as touch, shaking, or temperature changes. Classic examples include the folding of leaves in the sensitive plant (Mimosa pudica) and the rapid snap-closure of a Venus flytrap.",
+  "questions": [
+    {
+      "q": "How do nastic movements differ from tropisms?",
+      "opts": [
+        "Nastic movements are slower and involve cell division.",
+        "Nastic movements do not involve growth and are independent of stimulus direction.",
+        "Nastic movements are always directed toward gravity.",
+        "Nastic movements require the pigment phototropin to absorb red light."
+      ],
+      "a": 1,
+      "exp": "Nastic movements are rapid, do not involve growth, and are independent of stimulus direction, whereas tropisms are growth responses directed toward or away from a stimulus."
+    },
+    {
+      "q": "What physical change drives nastic movements?",
+      "opts": [
+        "Changes in turgor pressure due to water moving in and out of cells",
+        "The elongation of cell walls by auxin-activated proton pumps",
+        "The accumulation of secondary lignin in wood cells",
+        "The division of cells in the shoot apical meristem"
+      ],
+      "a": 0,
+      "exp": "Nastic movements are turgor movements driven by rapid, reversible turgor pressure changes as water enters and exits motor cells."
+    }
+  ]
+}

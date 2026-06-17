@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 100,
+  "filename": "Unit_8_6.txt",
+  "section_title": "Major Ecosystems of the Biosphere",
+  "page_num_in_file": 9,
+  "slide_title": "Terrestrial Ecosystems¨Temperate Deciduous Forests¤Found south of taiga in eastern North America, eastern Asia, and much of Europe¤Moderate climatenRelatively high rainfallnFour well-defined seasons with long growing seasons¤Tallest trees form a canopy¤Ground-life is plentifulnAmphibians and reptiles found in these environments, unlike taiga, because winters are not as cold.",
+  "original_text": "Terrestrial Ecosystems¨Temperate Deciduous Forests¤Found south of taiga in eastern North America, eastern Asia, and much of Europe¤Moderate climatenRelatively high rainfallnFour well-defined seasons with long growing seasons¤Tallest trees form a canopy¤Ground-life is plentifulnAmphibians and reptiles found in these environments, unlike taiga, because winters are not as cold.",
+  "explanation": "Temperate deciduous forests are located south of the taiga in eastern North America, eastern Asia, and throughout much of Europe. This biome is characterized by a moderate climate, relatively high rainfall, and four distinct seasons featuring a long growing season. The tallest trees grow close together to form a canopy. Ground-level life is highly abundant. Notably, amphibians and reptiles are common in these forests, unlike in the taiga, because the winters are not cold enough to exclude them.",
+  "questions": [
+    {
+      "q": "Why are amphibians and reptiles found in temperate deciduous forests but generally absent from the taiga?",
+      "opts": [
+        "Deciduous forests have acidic peat bogs that protect them.",
+        "Winters in temperate deciduous forests are not as cold as in the taiga.",
+        "The trees in deciduous forests do not form a canopy, letting in more light.",
+        "Amphibians and reptiles feed exclusively on deciduous tree bark."
+      ],
+      "a": 1,
+      "exp": "The notes explain: 'Amphibians and reptiles found in these environments, unlike taiga, because winters are not as cold.'"
+    },
+    {
+      "q": "What is the geographic distribution of temperate deciduous forests?",
+      "opts": [
+        "Equatorial regions and tropical islands",
+        "South of the taiga in eastern North America, eastern Asia, and much of Europe",
+        "Along California coastal chaparral",
+        "At latitudes of 30 degrees in the Southern Hemisphere"
+      ],
+      "a": 1,
+      "exp": "The notes state they are 'Found south of taiga in eastern North America, eastern Asia, and much of Europe.'"
+    }
+  ]
+}

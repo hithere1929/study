@@ -1,0 +1,34 @@
+{
+  "unit": 6,
+  "page": 17,
+  "filename": "Unit_6_2.txt",
+  "section_title": "Prokaryotes",
+  "page_num_in_file": 6,
+  "slide_title": "Reproduction\u00a8Transformation \u00a4Occurs when bacterium picks up free pieces of DNA from other prokaryotes \u00a4Becomes incorporated into genome \u00a8Transduction \u00a4Occurs when bacteriophages carry portions of bacterial DNA from one cell to another \u00a4Serve as vectors",
+  "original_text": "Reproduction\u00a8Transformation \u00a4Occurs when bacterium picks up free pieces of DNA from other prokaryotes \u00a4Becomes incorporated into genome \u00a8Transduction \u00a4Occurs when bacteriophages carry portions of bacterial DNA from one cell to another \u00a4Serve as vectors",
+  "explanation": "Two other major methods of genetic recombination in prokaryotes are transformation and transduction. Transformation occurs when a bacterial cell absorbs free pieces of foreign DNA from its environment (released by other prokaryotes) and incorporates them into its own genome. Transduction, on the other hand, is mediated by viruses. It occurs when bacteriophages, serving as vectors, transport fragments of bacterial DNA from a previously infected host cell into a new bacterial host cell.",
+  "questions": [
+    {
+      "q": "What is transformation in bacterial reproduction?",
+      "opts": [
+        "When a bacterium splits into two cells asexually",
+        "When a bacterium picks up free pieces of DNA from the environment and incorporates them into its genome",
+        "When a bacteriophage injects viral RNA into a bacterial cell",
+        "When DNA is passed directly through a sex pilus"
+      ],
+      "a": 1,
+      "exp": "Transformation is defined as occurring 'when bacterium picks up free pieces of DNA from other prokaryotes' which then 'becomes incorporated into genome'."
+    },
+    {
+      "q": "What agent serves as a vector during bacterial transduction?",
+      "opts": [
+        "A sex pilus",
+        "A plasmid",
+        "A bacteriophage",
+        "A eukaryotic host cell"
+      ],
+      "a": 2,
+      "exp": "Transduction occurs when 'bacteriophages carry portions of bacterial DNA from one cell to another' and 'serve as vectors'."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 8,
+  "filename": "Unit_5_1.txt",
+  "section_title": "Darwin & Evidence for Evolution",
+  "page_num_in_file": 8,
+  "slide_title": "Darwin’s Theory of Evolution",
+  "original_text": "Darwin’s Theory of Evolution\n¨Charles Darwin\n¤Naturalist, 22 years old when he set off on his 5 year voyage around South America on the SMS Beagle\n¤On his voyage, saw geological observations consistent with Lyell\n   nObserved layers of fossils in raised beaches of Argentina \n   nBiogeography –The study of geographic distribution of life forms on Earth\n¤Darwin saw similar species in similar habitats\n   nReasoned that related species could be modified by the environment\n   nLiving forms could be descended from extinct forms known only from fossil records",
+  "explanation": "Charles Darwin, a 22-year-old naturalist, embarked on a five-year voyage around South America on the HMS Beagle (referred to in slide as SMS Beagle). During the trip, he made geological observations that supported Charles Lyell's uniformitarianism, such as finding fossil layers in raised beaches in Argentina. These observations stimulated his interest in biogeography, the study of the geographic distribution of life forms on Earth. Observing that similar species lived in similar habitats, Darwin reasoned that related species could be modified by their environment over time, and that living forms could be descendants of extinct species known only from the fossil record.",
+  "questions": [
+    {
+      "q": "What is the term for the study of the geographic distribution of life forms on Earth?",
+      "opts": [
+        "Paleontology",
+        "Biogeography",
+        "Geological uplift",
+        "Catastrophism"
+      ],
+      "a": 1,
+      "exp": "Biogeography is defined in the notes as the study of the geographic distribution of life forms on Earth."
+    },
+    {
+      "q": "What reasoning did Charles Darwin develop from observing similar species in similar habitats and fossil layers in Argentina?",
+      "opts": [
+        "Species are fixed and never change over time.",
+        "Related species could be modified by the environment and living species are descended from extinct fossil forms.",
+        "Earth's geological layers are the result of sudden, global catastrophes.",
+        "Organisms modify their physical traits through a strive for perfection and pass them to offspring."
+      ],
+      "a": 1,
+      "exp": "Darwin reasoned that related species could be modified by their environment, and that living forms could be descended from extinct forms documented in fossil records."
+    }
+  ]
+}

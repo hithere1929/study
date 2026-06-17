@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 121,
+  "filename": "Unit_2_4.txt",
+  "section_title": "Metabolism",
+  "page_num_in_file": 24,
+  "slide_title": "Metabolism",
+  "original_text": "Metabolism¨Glucose is considered to be the primary source of sugar used to generate ATP ¨Fats make excellent cellular fuel because they ¥contain many hydrogen atoms and thus many energy-rich electrons and¥yield more than twice as much ATP per gram as a gram of carbohydrate. ¨Proteins can also be used for fuel, although your body preferentially burns sugars and fats first.",
+  "explanation": "Glucose is the primary sugar utilized by cells to generate ATP. However, fats serve as highly efficient cellular fuel because they contain large numbers of hydrogen atoms, providing a dense source of energy-rich electrons. Consequently, fats yield more than twice as much ATP per gram compared to carbohydrates. While proteins can also be broken down and used for fuel, the body preferentially metabolizes sugars and fats first to spare proteins.",
+  "questions": [
+    {
+      "q": "Why do fats yield more than twice as much ATP per gram as carbohydrates?",
+      "opts": [
+        "They contain fewer C-H bonds.",
+        "They contain many hydrogen atoms and thus many energy-rich electrons.",
+        "They are soluble in water.",
+        "They contain high concentrations of nitrogen."
+      ],
+      "a": 1,
+      "exp": "Fats contain many hydrogen atoms and energy-rich electrons, which allows them to yield more than double the energy (ATP) per gram compared to carbohydrates."
+    },
+    {
+      "q": "Which fuel source does the human body preferentially burn first for energy?",
+      "opts": [
+        "Proteins and Nucleic acids",
+        "Sugars (carbohydrates) and Fats",
+        "Waxes and Steroids",
+        "Amino acids only"
+      ],
+      "a": 1,
+      "exp": "The body preferentially burns sugars and fats for fuel before breaking down proteins."
+    }
+  ]
+}

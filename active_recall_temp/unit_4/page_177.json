@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 177,
+  "filename": "Unit_4_9.txt",
+  "section_title": "Mendelian Inheritance P2 - Genetic Disorders",
+  "page_num_in_file": 3,
+  "slide_title": "Mendel’s Laws¨Genetic disorders are medical conditions caused by alleles inherited from parents¨Autosome-Any chromosome other than a sex chromosome (X or Y)¨Genetic disorders caused by genes on autosomes are called autosomal disorders¤Some genetic disorders are autosomal dominantnAn individual with AA has the disordernAn individual with Aa has the disordernAn individual with aa does NOT have the disorder¤Other genetic disorders are autosomal recessivenAn individual with AA does NOT have the disordernAn individual with Aa does NOT have the disorder, but is a carriernAn individual with aa DOES have the disorder",
+  "original_text": "Mendel’s Laws¨Genetic disorders are medical conditions caused by alleles inherited from parents¨Autosome-Any chromosome other than a sex chromosome (X or Y)¨Genetic disorders caused by genes on autosomes are called autosomal disorders¤Some genetic disorders are autosomal dominantnAn individual with AA has the disordernAn individual with Aa has the disordernAn individual with aa does NOT have the disorder¤Other genetic disorders are autosomal recessivenAn individual with AA does NOT have the disordernAn individual with Aa does NOT have the disorder, but is a carriernAn individual with aa DOES have the disorder",
+  "explanation": "Genetic disorders are medical conditions resulting from alleles inherited from parents. An autosome is any chromosome other than a sex chromosome (X or Y). Genetic disorders caused by genes on autosomes are called autosomal disorders. Autosomal dominant disorders occur in individuals with genotype AA or Aa, while those with genotype aa are unaffected. Autosomal recessive disorders only occur in individuals with genotype aa; individuals with AA are unaffected, and heterozygotes (Aa) are unaffected carriers.",
+  "questions": [
+    {
+      "q": "What is an autosome?",
+      "opts": [
+        "A sex-determining chromosome (X or Y).",
+        "Any chromosome that is not a sex chromosome.",
+        "A protein that packages DNA.",
+        "A vesicle involved in cellular digestion."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide defines an autosome as: 'Any chromosome other than a sex chromosome (X or Y)'."
+    },
+    {
+      "q": "How do autosomal dominant and autosomal recessive genotypes differ in terms of disease expression?",
+      "opts": [
+        "Autosomal dominant disorders affect only homozygous recessive individuals; autosomal recessive affect heterozygotes.",
+        "Autosomal dominant disorders affect AA and Aa individuals; autosomal recessive disorders affect only aa individuals.",
+        "Autosomal dominant disorders affect only females; autosomal recessive affect only males.",
+        "Autosomal dominant disorders require two copies of the allele; autosomal recessive require one copy."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states autosomal dominant disorders affect individuals with AA or Aa, whereas for autosomal recessive, an individual with aa has the disorder and Aa is an unaffected carrier."
+    }
+  ]
+}

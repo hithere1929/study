@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 143,
+  "filename": "Unit_4_7.txt",
+  "section_title": "Chromosome-based Syndromes",
+  "page_num_in_file": 15,
+  "slide_title": "Changes in Chromosome StructureInversion¨A segment of a chromosome gets flipped 180o¨Normally exhibit no abnormalities, but any gene deletions or mutations that result can be passed on to offspring\nTranslocation¨Movement of a chromosome segment from one chromosome to a different chromsome¨If balanced, as shown, most offspring have no issues.¨If translocation unbalanced, usually results in miscarriage or sever symptoms",
+  "original_text": "Changes in Chromosome StructureInversion¨A segment of a chromosome gets flipped 180o¨Normally exhibit no abnormalities, but any gene deletions or mutations that result can be passed on to offspring\nTranslocation¨Movement of a chromosome segment from one chromosome to a different chromsome¨If balanced, as shown, most offspring have no issues.¨If translocation unbalanced, usually results in miscarriage or sever symptoms",
+  "explanation": "This slide describes inversions and translocations. An inversion occurs when a chromosomal segment is rotated 180 degrees. Individuals carrying an inversion usually exhibit no physical abnormalities, but any gene mutations or deletions that occur as a result of the inversion can be inherited by their offspring. A translocation is the movement of a chromosome segment to a different, non-homologous chromosome. If a translocation is balanced, offspring usually have no health issues. However, if the translocation is unbalanced, it commonly leads to miscarriages or severe clinical symptoms.",
+  "questions": [
+    {
+      "q": "What is a chromosomal inversion, and how does it typically affect the carrier?",
+      "opts": [
+        "The transfer of a segment to a different chromosome; it causes severe defects.",
+        "The 180-degree flipping of a chromosome segment; carriers normally exhibit no abnormalities but can pass resulting mutations to offspring.",
+        "The loss of an end piece; it is always lethal.",
+        "The duplication of a gene; it prevents cell division."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'Inversion - A segment of a chromosome gets flipped 180o' and carriers 'Normally exhibit no abnormalities, but any gene deletions or mutations that result can be passed on to offspring.'"
+    },
+    {
+      "q": "What is a translocation, and what are the potential outcomes of balanced vs unbalanced translocations?",
+      "opts": [
+        "The movement of a segment to a different chromosome; balanced translocations generally cause no issues, whereas unbalanced translocations usually result in miscarriage or severe symptoms.",
+        "The deletion of chromosome 7; balanced causes Down syndrome, unbalanced causes Williams syndrome.",
+        "The duplication of sex chromosomes; balanced results in males, unbalanced in females.",
+        "The transfer of genes between organelles; balanced creates mutations, unbalanced deletes them."
+      ],
+      "a": 0,
+      "exp": "Option A is correct because the slide defines translocation as 'Movement of a chromosome segment from one chromosome to a different chromsome' and explains the outcomes of balanced vs unbalanced translocations."
+    }
+  ]
+}

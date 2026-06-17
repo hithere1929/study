@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 9,
+  "filename": "Unit_1_1.txt",
+  "section_title": "Lab Safety",
+  "page_num_in_file": 9,
+  "slide_title": "Emergency Procedures",
+  "original_text": "\u2013In case of:\u2013Fire Drill\n\u2013Fire\n\u2013Broken Glass\n\u2013Power Failure\n\u2013Lockdown\n\u2013Accident (Bodily Harm)",
+  "explanation": "This slide lists various emergency situations that can arise in the laboratory, for which students must know the correct protocols. These emergencies include fire drills, actual fires, broken glass, power failures, school or building lockdowns, and physical accidents causing bodily harm.",
+  "questions": [
+    {
+      "q": "Which of the following is listed on the slide as a potential emergency situation in the lab?",
+      "opts": [
+        "Reading protocols before the lab",
+        "Wearing long pants and closed-toed shoes",
+        "Broken glass or power failure",
+        "Labeling student-prepared solutions"
+      ],
+      "a": 2,
+      "exp": "The slide lists 'Broken Glass' and 'Power Failure' as emergency conditions alongside fires, drills, lockdowns, and bodily harm accidents."
+    }
+  ]
+}

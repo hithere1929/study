@@ -1,0 +1,23 @@
+{
+  "unit": 7,
+  "page": 69,
+  "filename": "Unit_7_4.txt",
+  "section_title": "Plant Reproduction",
+  "page_num_in_file": 15,
+  "slide_title": "Fruit Type & Seed Dispersal: Dispersal Mechanisms",
+  "original_text": "Fruit Type & Seed Dispersal Dispersal of Fruits Many dry fruits are dispersed by wind Woolly hairs, plumes, wings Many fruits attract animals and provide them with food Peaches, cherries, tomatoes",
+  "explanation": "Seed dispersal is crucial for plant reproduction. Many dry fruits utilize wind dispersal, possessing structures like wings, plumes, or woolly hairs. Other fruits are fleshy (e.g., peaches, cherries, and tomatoes) and contain nutrients that attract animals, which consume the fruit and disperse the seeds.",
+  "questions": [
+    {
+      "q": "Which structures are common adaptations for wind dispersal of dry fruits?",
+      "opts": [
+        "Fleshy mesocarp and thick endocarp",
+        "Swollen thorns and hollow chambers",
+        "Woolly hairs, plumes, or wings",
+        "Stomata and waxy cuticles"
+      ],
+      "a": 2,
+      "exp": "Dry fruits adapted for wind dispersal often possess structures such as woolly hairs, plumes, or wings to catch the wind."
+    }
+  ]
+}

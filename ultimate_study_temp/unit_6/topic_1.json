@@ -1,0 +1,27 @@
+{
+  "id": "u6_t1",
+  "title": "Kingdom/Domain Placement",
+  "cheat_card": [
+    "<b>Three-Domain System</b>: Organisms are classified into Domains <i>Bacteria</i>, <i>Archaea</i>, and <i>Eukarya</i> based on ribosomal RNA (rRNA) sequence differences.",
+    "<b>Archaea vs. Bacteria</b>: Archaea share a more recent common ancestor with Eukarya than with Bacteria, biochemically resembling Eukarya, and <i>lack peptidoglycan</i> in their cell walls.",
+    "<b>Eukaryotic Supergroups</b>: Kingdom Protista is polyphyletic (six distinct evolutionary lines) and classified into six <i>Supergroups</i>: Archaeplastida, Chromalveolata, Excavata, Amoebazoa, Opisthokonta, and Rhizaria.",
+    "<b>Fungi and Animal Clade</b>: Fungi and animals belong to the same supergroup, <i>Opisthokonta</i>, making them more closely related to each other than either is to plants (which belong to <i>Archaeplastida</i>).",
+    "<b>Virus Exclusion</b>: Viruses are excluded from the domains of life because they are non-cellular, lack metabolism, and cannot respond to stimuli."
+  ],
+  "memory_anchor": "### The Three Domains and Eukaryotic Supergroups\n\n| Domain / Group | Cell Wall Material | Key rRNA & Evolutionary Status | Organism Examples |\n| :--- | :--- | :--- | :--- |\n| **Domain Bacteria** | Peptidoglycan | Distinct bacterial rRNA; prokaryotic | E. coli, Cyanobacteria |\n| **Domain Archaea** | No Peptidoglycan | Archaeal rRNA; biochemically closer to Eukarya | Halophiles, Methanogens |\n| **Domain Eukarya** | Cellulose (Plants) or Chitin (Fungi) | Eukaryotic rRNA; divided into 6 Supergroups | Plants, Animals, Fungi, Protists |\n| *Supergroup Archaeplastida* | Cellulose | Contains plastids from cyanobacteria | Land plants, Red & Green Algae |\n| *Supergroup Opisthokonta* | Chitin (Fungi) or None (Animals) | Fungi and animals form a sister clade | Mushroom, Sponges, Humans |",
+  "flashcards": [
+    {
+      "q": "Why is the traditional Kingdom Protista no longer considered a valid clade, and what taxonomic group replaces it in modern classification?",
+      "a": "Protists are not monophyletic; DNA evidence shows they represent six distinct evolutionary lineages that did not evolve from a single common ancestor. In modern systematics, they are split into six Supergroups, which represent separate evolutionary lines that rank below Domain but above Kingdom."
+    },
+    {
+      "q": "Describe two major biochemical or structural differences that distinguish Domain Archaea from Domain Bacteria, despite both being prokaryotic.",
+      "a": "First, Archaea lack peptidoglycan in their cell walls, which is a defining component of bacterial cell walls. Second, the base sequence of Archaea ribosomal RNA (rRNA) differs significantly from Bacteria, biochemically aligning them more closely with Eukarya."
+    },
+    {
+      "q": "Which eukaryotic supergroups do land plants, fungi, and animals belong to, and what does this reveal about their evolutionary relationships?",
+      "a": "Land plants belong to the supergroup Archaeplastida. Fungi and animals both belong to the supergroup Opisthokonta. This classification shows that fungi and animals share a more recent common ancestor and are more closely related to each other than either is to land plants."
+    }
+  ],
+  "outline_blanks": "The tree of life is organized into three domains based on rRNA differences, where Domain [[Archaea]] lacks peptidoglycan and is biochemically more similar to Domain [[Eukarya]] than to Domain [[Bacteria]]. In eukaryotic classification, organisms are grouped into six [[Supergroups]], meaning that plants belong to [[Archaeplastida]] while fungi and animals are closely related within [[Opisthokonta]]. In contrast, [[Viruses]] are not placed in any kingdom or domain because they are non-cellular and not considered living."
+}

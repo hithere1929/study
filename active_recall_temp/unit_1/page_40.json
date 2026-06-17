@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 40,
+  "filename": "Unit_1_3.txt",
+  "section_title": "The Process of Science",
+  "page_num_in_file": 6,
+  "slide_title": "The Scientific Method",
+  "original_text": "\u2013General Case StudyYour flashlight doesn\u2019t work\nObservation:\nQuestion:\nFlashlight doesn\u2019t work\nWhy doesn\u2019t the flashlight work?",
+  "explanation": "This slide introduces a general case study featuring a malfunctioning flashlight. The Observation is 'Flashlight doesn't work', and the corresponding Question is 'Why doesn't the flashlight work?'",
+  "questions": [
+    {
+      "q": "In the case study presented, what is the question that arises from the observation?",
+      "opts": [
+        "Is the flashlight too old?",
+        "Why doesn't the flashlight work?",
+        "Are the batteries dead?",
+        "Where is the spare bulb?"
+      ],
+      "a": 1,
+      "exp": "The slide defines the Question as: 'Why doesn't the flashlight work?'"
+    }
+  ]
+}

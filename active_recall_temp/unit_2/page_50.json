@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 50,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 14,
+  "slide_title": "1: Monosaccharides",
+  "original_text": "1: Monosaccharides¨Monosaccharide: monomer unit of carbohydrate¤Also known as simple sugar¤General formula: (CH2O)n where nis any whole number from 3-8nEx: (CH2O)6 àC6H12O6 ¨Most common monosaccharides:¤Glucose–energy for cells (what most sugars are broken down into ¤Fructose–found in fruit; sweetest simple sugar  ¤Galactose–found in milk",
+  "explanation": "A monosaccharide is the monomer building block of a carbohydrate, also commonly referred to as a simple sugar. The general chemical formula for a monosaccharide is (CH2O)n, where 'n' represents any whole number ranging from 3 to 8 (for example, when n is 6, the resulting formula is C6H12O6). The three most common monosaccharides are glucose, which is the primary energy source for cells and the molecule that most dietary sugars are ultimately broken down into; fructose, which is found in fruits and is the sweetest of the simple sugars; and galactose, which is a sugar found in milk.",
+  "questions": [
+    {
+      "q": "What is the general formula for a monosaccharide?",
+      "opts": [
+        "(CHO)n",
+        "(CH2O)n, where n is a whole number from 3-8",
+        "(C2H2O)n",
+        "(CH3O)n"
+      ],
+      "a": 1,
+      "exp": "The general chemical formula for monosaccharides is (CH2O)n, where n ranges from 3 to 8."
+    },
+    {
+      "q": "Which of the following matches the monosaccharide to its correct description?",
+      "opts": [
+        "Glucose - milk sugar; Fructose - cellular energy; Galactose - fruit sugar",
+        "Glucose - sweetest sugar; Fructose - milk sugar; Galactose - cellular energy",
+        "Glucose - cellular energy; Fructose - fruit sugar (sweetest); Galactose - milk sugar",
+        "Glucose - fruit sugar; Fructose - milk sugar; Galactose - sweetest sugar"
+      ],
+      "a": 2,
+      "exp": "Glucose provides energy for cells; Fructose is found in fruit and is the sweetest simple sugar; Galactose is found in milk."
+    }
+  ]
+}

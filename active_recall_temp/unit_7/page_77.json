@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 77,
+  "filename": "Unit_7_5.txt",
+  "section_title": "Animal Organization",
+  "page_num_in_file": 4,
+  "slide_title": "Types of Tissues: Epithelial Tissue",
+  "original_text": "Types of Tissues Epithelial Tissue (epithelium) Forms a continuous layer over body surfaces Usually exposed to an environment on one side, and connected to a basement layer on the other Lines body cavities Forms glands Epithelial cells may be connected to one another by Tight junctions, Adhesion junctions, or Gap junctions Functions of epithelial tissue include: Protection, Secretion, Absorption, Excretion, Filtration 3 types of epithelial tissue: Simple, Stratified, or Glandular",
+  "explanation": "Epithelial tissue (epithelium) forms continuous sheets of cells that cover body surfaces, line internal cavities, and form glands. Epithelial sheets are polar: one surface is typically exposed to the external environment or an internal cavity, while the opposite surface is attached to a basement membrane. Epithelial cells are secured to one another by intercellular junctions: tight junctions, adhesion junctions, or gap junctions. Epithelial tissue performs several vital functions: protection, secretion, absorption, excretion, and filtration. It is structurally classified into simple, stratified, or glandular epithelia.",
+  "questions": [
+    {
+      "q": "Which of the following is NOT a primary function of epithelial tissue?",
+      "opts": [
+        "Absorption",
+        "Contraction and movement",
+        "Protection",
+        "Secretion"
+      ],
+      "a": 1,
+      "exp": "Epithelial tissue functions in protection, secretion, absorption, excretion, and filtration. Contraction and movement is the function of muscular tissue."
+    },
+    {
+      "q": "What are the three types of junctions that connect epithelial cells together?",
+      "opts": [
+        "Plasmodesmata, Pits, and Perforations",
+        "Sieve plates, Central canals, and Lacunae",
+        "Tight junctions, Adhesion junctions, and Gap junctions",
+        "Tendons, Ligaments, and Osteons"
+      ],
+      "a": 2,
+      "exp": "Epithelial cells are connected to each other by tight junctions, adhesion junctions, or gap junctions."
+    }
+  ]
+}

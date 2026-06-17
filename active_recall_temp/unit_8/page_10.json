@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 10,
+  "filename": "Unit_8_1.txt",
+  "section_title": "Behavioral Ecology",
+  "page_num_in_file": 10,
+  "slide_title": "Animal Communication¨Tactile Communication¤Occurs when one animal touches anothernGull chicks peck at the parent’s beak in order to induce the parent to feed themnForaging honeybees use tactile communication to impart information about the environmentnHoneybees return to the hive and perform a waggle dancenThe dance indicates the distance and direction of a food sourcenVid 1",
+  "original_text": "Animal Communication¨Tactile Communication¤Occurs when one animal touches anothernGull chicks peck at the parent’s beak in order to induce the parent to feed themnForaging honeybees use tactile communication to impart information about the environmentnHoneybees return to the hive and perform a waggle dancenThe dance indicates the distance and direction of a food sourcenVid 1",
+  "explanation": "Tactile communication occurs when one animal physically touches another. An example is gull chicks pecking at their parent's beak to induce regurgitation and feeding. Another example is honeybees, which use tactile communication to share information about the environment with hive mates. When a foraging honeybee returns to the hive, it performs a specific movement known as the waggle dance. This dance, which is perceived by other bees tactilely in the dark hive, indicates both the distance and direction of a food source.",
+  "questions": [
+    {
+      "q": "What is tactile communication?",
+      "opts": [
+        "Communication using chemical pheromones",
+        "Communication that occurs when one animal touches another",
+        "Communication utilizing visual threat postures",
+        "Communication that is limited to acoustic language"
+      ],
+      "a": 1,
+      "exp": "The notes define tactile communication as occurring 'when one animal touches another.'"
+    },
+    {
+      "q": "What information does a honeybee's waggle dance communicate to other bees in the hive?",
+      "opts": [
+        "The presence of a predator near the hive",
+        "The distance and direction of a food source",
+        "The identity and health status of the queen bee",
+        "The temperature and humidity inside the colony"
+      ],
+      "a": 1,
+      "exp": "The notes state that the waggle dance 'indicates the distance and direction of a food source.'"
+    }
+  ]
+}

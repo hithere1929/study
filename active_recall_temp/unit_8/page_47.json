@@ -1,0 +1,45 @@
+{
+  "unit": 8,
+  "page": 47,
+  "filename": "Unit_8_3.txt",
+  "section_title": "Community & Ecosystem Ecology",
+  "page_num_in_file": 13,
+  "slide_title": "Dynamics of an Ecosystem¨Food Web¤Shows the interconnectedness of energy flow in the systemnGrazing food web starts with producersnDetrital food web starts with decomposers¨Food Chains¤Straight line feeding relationships in an ecosystem¨Trophic Levels¤Level of nutrients within a food chainnProducers –Primary consumers –secondary consumers, …¨Ecological Pyramid¤Diagram showing energy losses between trophic levelsnNormally only ~ 10% energy makes it to next level¨Biomass¤Number of organisms at each level, multipliedby their weight",
+  "original_text": "Dynamics of an Ecosystem¨Food Web¤Shows the interconnectedness of energy flow in the systemnGrazing food web starts with producersnDetrital food web starts with decomposers\n¨Food Chains¤Straight line feeding relationships in an ecosystem¨Trophic Levels¤Level of nutrients within a food chainnProducers –Primary consumers –secondary consumers, …¨Ecological Pyramid¤Diagram showing energy losses between trophic levelsnNormally only ~ 10% energy makes it to next level¨Biomass¤Number of organisms at each level, multipliedby their weight",
+  "explanation": "This slide describes energy flow pathways and trophic structures. A food web represents the interconnected networks of energy flow within an ecosystem, consisting of two main types: grazing food webs, which begin with primary producers, and detrital food webs, which begin with decomposers. Food chains depict single, straight-line feeding relationships. Trophic levels indicate the nutrient/energy level of organisms within a food chain, moving from producers to primary consumers, secondary consumers, and so on. An ecological pyramid illustrates the energy loss between these trophic levels, where typically only about 10% of the energy is successfully transferred to the next level. Biomass is calculated as the number of organisms at a trophic level multiplied by their individual weight.",
+  "questions": [
+    {
+      "q": "What is the difference between a grazing food web and a detrital food web?",
+      "opts": [
+        "Grazing food webs start with decomposers, while detrital food webs start with predators.",
+        "Grazing food webs start with producers, while detrital food webs start with decomposers.",
+        "Grazing food webs exist only in water, while detrital food webs are terrestrial.",
+        "There is no difference; they are synonymous terms."
+      ],
+      "a": 1,
+      "exp": "The notes state that the 'Grazing food web starts with producers' and the 'Detrital food web starts with decomposers.'"
+    },
+    {
+      "q": "What percentage of energy is typically transferred from one trophic level to the next in an ecological pyramid?",
+      "opts": [
+        "Approximately 10%",
+        "Approximately 50%",
+        "Approximately 90%",
+        "Nearly 100%"
+      ],
+      "a": 0,
+      "exp": "According to the notes, an ecological pyramid shows energy losses between trophic levels, and 'Normally only ~ 10% energy makes it to next level.'"
+    },
+    {
+      "q": "How is biomass defined in the context of this slide?",
+      "opts": [
+        "The volume of organic matter divided by the total area of the ecosystem",
+        "The number of organisms at each trophic level multiplied by their weight",
+        "The speed at which producers convert sunlight into chemical energy",
+        "The chemical energy stored in reservoirs unavailable to producers"
+      ],
+      "a": 1,
+      "exp": "The notes define biomass as: 'Number of organisms at each level, multiplied by their weight.'"
+    }
+  ]
+}

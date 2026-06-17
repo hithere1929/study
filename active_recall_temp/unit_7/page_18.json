@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 18,
+  "filename": "Unit_7_1.txt",
+  "section_title": "Plant Structure & Organization",
+  "page_num_in_file": 18,
+  "slide_title": "Organization and Diversity of Stems: Bark & Wood",
+  "original_text": "Organization and Diversity of Stems Bark Bark of a tree contains cork, cork cambium, and phloem Bark can be removed, but it is harmful to the plant due to lack of organic nutrient transport Cork cells are impregnated with suberin Gas exchange is impeded except at lenticels Wood Wood is secondary xylem that builds up year after year Vascular cambium is dormant during winter Annual ring is made up of spring wood and summer wood In older trees, inner annual rings, called heartwood, no longer function in water transport",
+  "explanation": "This slide details the structure of bark and wood in woody stems. Bark is the outermost protective region containing cork, cork cambium, and phloem. Removing bark (girdling) is highly damaging or fatal because it removes the phloem, interrupting the transport of organic nutrients. Cork cells are impregnated with a waxy, waterproof material called suberin, which blocks gas exchange except at specialized pores called lenticels. Wood consists of layers of secondary xylem that accumulate annually. The vascular cambium (the lateral meristem that produces secondary xylem) is dormant in winter. An annual ring consists of spring wood (rapidly grown, wider xylem cells) and summer wood (slower grown, thick-walled, narrower xylem cells). In older trees, the oldest inner rings of xylem clog and stop transporting water; this non-functional wood is known as heartwood.",
+  "questions": [
+    {
+      "q": "Why is removing the bark of a tree extremely harmful to the plant?",
+      "opts": [
+        "It removes the wood, stopping water transport.",
+        "It removes the phloem, stopping organic nutrient transport.",
+        "It exposes the heartwood to fungal infection.",
+        "It destroys the apical meristem at the stem tip."
+      ],
+      "a": 1,
+      "exp": "Bark contains the phloem. Removing bark destroys the phloem layer, preventing the transport of sucrose and other organic nutrients to the roots."
+    },
+    {
+      "q": "What is the function of lenticels in bark?",
+      "opts": [
+        "To transport sucrose downward",
+        "To allow gas exchange through the suberin-impregnated cork layer",
+        "To produce new secondary xylem",
+        "To absorb water from the air"
+      ],
+      "a": 1,
+      "exp": "Cork cells are impregnated with suberin, which is impermeable to gases. Lenticels are specialized pores that allow gas exchange through this barrier."
+    },
+    {
+      "q": "What is heartwood?",
+      "opts": [
+        "The soft ground tissue at the center of a woody stem (pith)",
+        "The active, outermost ring of secondary xylem",
+        "The non-functional, older inner annual rings of secondary xylem",
+        "The layers of bark that are shed each year"
+      ],
+      "a": 2,
+      "exp": "Heartwood consists of the older, inner annual rings of secondary xylem that no longer function in water transport."
+    }
+  ]
+}

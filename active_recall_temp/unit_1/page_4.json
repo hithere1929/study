@@ -1,0 +1,34 @@
+{
+  "unit": 1,
+  "page": 4,
+  "filename": "Unit_1_1.txt",
+  "section_title": "Lab Safety",
+  "page_num_in_file": 4,
+  "slide_title": "Basic Lab Safety",
+  "original_text": "Basic Lab Safety\n–Be prepared for an experiment or preparation by reading protocols before coming to the lab, when available\n–Food and beverages are notallowed in the lab and are not to be stored in the lab refrigerator.\n–Wear protective laboratory equipment, PPE (gloves, lab coat, goggles, etc.) when necessary.\n–In the event of any emergency such as injury, spill, accident, fire or equipment failure, notify a lab supervisor immediately.\n–Read all labels and safety instructions carefully before performing any lab tasks.\n–Any protocol requiring hazardous chemicals is to be performed under the chemical fume hood, by trained laboratory personnel.",
+  "explanation": "This slide outlines critical basic safety rules in the laboratory: prep work involves reading protocols before class, food and beverages are strictly forbidden from the lab and the lab refrigerator, PPE (Personal Protective Equipment) such as gloves, lab coats, and goggles must be worn as needed, and emergency situations (injuries, spills, accidents, fires, or equipment failures) must be reported to a supervisor immediately. Additionally, all labels and safety instructions must be read prior to starting work, and protocols involving hazardous chemicals must be executed within a chemical fume hood by trained personnel.",
+  "questions": [
+    {
+      "q": "Where and by whom should protocols requiring hazardous chemicals be performed?",
+      "opts": [
+        "At the student's assigned lab bench under direct supervision",
+        "Under the chemical fume hood, by trained laboratory personnel",
+        "In a well-ventilated hallway to avoid fume build-up",
+        "Only by the course instructor at the main demonstration desk"
+      ],
+      "a": 1,
+      "exp": "The text states: 'Any protocol requiring hazardous chemicals is to be performed under the chemical fume hood, by trained laboratory personnel.'"
+    },
+    {
+      "q": "What is the policy regarding food and beverages in the laboratory?",
+      "opts": [
+        "They are allowed only if sealed in containers",
+        "They can be stored in the lab refrigerator but not consumed inside the room",
+        "They are not allowed in the lab and must not be stored in the lab refrigerator",
+        "They are permitted only during long experiments at designated desks"
+      ],
+      "a": 2,
+      "exp": "The safety rules specify: 'Food and beverages are not allowed in the lab and are not to be stored in the lab refrigerator.'"
+    }
+  ]
+}

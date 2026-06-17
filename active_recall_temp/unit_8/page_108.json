@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 108,
+  "filename": "Unit_8_6.txt",
+  "section_title": "Major Ecosystems of the Biosphere",
+  "page_num_in_file": 17,
+  "slide_title": "Aquatic Ecosystems¨Oceans¤Euphotic Zone (shallow ocean waters)nContain a greater concentration of organisms than the rest of the sea¤Coral reefsnLocated just below the surface in shallow, warm, tropical watersnDensely populated with life",
+  "original_text": "Aquatic Ecosystems¨Oceans¤Euphotic Zone (shallow ocean waters)nContain a greater concentration of organisms than the rest of the sea¤Coral reefsnLocated just below the surface in shallow, warm, tropical watersnDensely populated with life",
+  "explanation": "In marine ecosystems, the euphotic zone represents the shallow surface waters that receive sunlight. It contains a higher concentration of marine organisms than the deeper parts of the ocean. Coral reefs are located just below the surface in shallow, warm, tropical waters, and are densely populated with life.",
+  "questions": [
+    {
+      "q": "Which ocean zone contains the highest concentration of marine organisms due to sunlight availability?",
+      "opts": [
+        "Profundal zone",
+        "Euphotic zone",
+        "Bathypelagic zone",
+        "Abyssal plain"
+      ],
+      "a": 1,
+      "exp": "The notes state that the 'Euphotic Zone (shallow ocean waters)' contains a 'greater concentration of organisms than the rest of the sea.'"
+    },
+    {
+      "q": "Where are coral reefs typically located?",
+      "opts": [
+        "In the deep abyssal plain near hydrothermal vents",
+        "Just below the surface in shallow, warm, tropical waters",
+        "In high-latitude estuaries with low salinity",
+        "In the cold, dark bathypelagic zone"
+      ],
+      "a": 1,
+      "exp": "The notes place coral reefs 'just below the surface in shallow, warm, tropical waters' and state they are 'Densely populated with life.'"
+    }
+  ]
+}

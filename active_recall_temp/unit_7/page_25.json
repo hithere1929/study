@@ -1,0 +1,23 @@
+{
+  "unit": 7,
+  "page": 25,
+  "filename": "Unit_7_2.txt",
+  "section_title": "Plant Nutrition and Transport",
+  "page_num_in_file": 4,
+  "slide_title": "Soil & Nutrients: Hydroponics",
+  "original_text": "Soil & Nutrients Hydroponics main method of determining essential nutrients Grow in presence and absence of each mineral Most effective for Macronutrients These nutrients are taken in by plants at the roots, through the soil",
+  "explanation": "Hydroponics is the primary experimental method used to determine whether a mineral is an essential nutrient. By growing plants in water solutions in the presence or absence of specific minerals, scientists can observe deficiency symptoms. This technique is most effective for identifying macronutrients, which are required in larger quantities. In natural settings, plants absorb these essential nutrients from the soil through their root systems.",
+  "questions": [
+    {
+      "q": "What is the primary method used to determine if a specific mineral is an essential nutrient for plant growth?",
+      "opts": [
+        "Soil aeration testing",
+        "Hydroponics",
+        "Girdling",
+        "Radioactive tracer studies"
+      ],
+      "a": 1,
+      "exp": "Hydroponics (growing plants in water solutions with or without specific minerals) is the main method used to test for essential nutrients, especially macronutrients."
+    }
+  ]
+}

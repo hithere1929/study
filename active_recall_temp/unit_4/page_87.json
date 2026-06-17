@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 87,
+  "filename": "Unit_4_5.txt",
+  "section_title": "Biotech & Genomics",
+  "page_num_in_file": 7,
+  "slide_title": "DNA Cloning¨The Polymerase Chain Reaction (PCR)¤Amplifies (copies) a targeted sequence of DNAnCreates millions of copies of a single gene or a specific piece of DNA in a test tube¤Requires:nDNA polymerasenWithstands the temperature necessary to separate double-stranded DNA.nA supply of nucleotides for the new, complementary strand¤The amount of DNA doubles with each replication cycle",
+  "original_text": "DNA Cloning¨The Polymerase Chain Reaction (PCR)¤Amplifies (copies) a targeted sequence of DNAnCreates millions of copies of a single gene or a specific piece of DNA in a test tube¤Requires:nDNA polymerasenWithstands the temperature necessary to separate double-stranded DNA.nA supply of nucleotides for the new, complementary strand¤The amount of DNA doubles with each replication cycle",
+  "explanation": "The Polymerase Chain Reaction (PCR) is a powerful method used in molecular biology to amplify (make multiple copies of) a specific target sequence of DNA. This technique allows scientists to generate millions of copies of a single gene or DNA fragment inside a test tube. PCR requires a specialized DNA polymerase that is heat-stable and can withstand the high temperatures required to denature (separate) double-stranded DNA. The reaction also requires a supply of free nucleotides to build the new complementary strands. With each round of replication (cycle) in PCR, the total amount of target DNA doubles.",
+  "questions": [
+    {
+      "q": "What is the purpose of the Polymerase Chain Reaction (PCR)?",
+      "opts": [
+        "To degrade double-stranded DNA into single nucleotides.",
+        "To amplify a targeted sequence of DNA, creating millions of copies in a test tube.",
+        "To translate mature mRNA into active enzymes.",
+        "To splice exons together in alternative combinations."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: PCR 'Amplifies (copies) a targeted sequence of DNA' and 'Creates millions of copies of a single gene or a specific piece of DNA in a test tube.' The other options are incorrect."
+    },
+    {
+      "q": "Why is a heat-resistant DNA polymerase necessary for PCR?",
+      "opts": [
+        "It prevents the DNA from winding around histone proteins.",
+        "It can withstand the high temperatures required to separate double-stranded DNA.",
+        "It converts RNA primers into DNA bases.",
+        "It degrades DNA templates that contain replication errors."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide explains that PCR requires: 'DNA polymerase - Withstands the temperature necessary to separate double-stranded DNA.' The other options are incorrect."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 72,
+  "filename": "Unit_3_3.txt",
+  "section_title": "Chromosomes",
+  "page_num_in_file": 13,
+  "slide_title": "Haploid vs. Diploid Cells",
+  "original_text": "Haploid vs. Diploid Cells\nReproductive cells are haploid \ncontain only one set of chromosomes \nHalf number of chromosomes in diploid cells \nOne autosome from each homologous pair and one sex chromosome\n22 autosomes + 1 sex chromosome = 23 total \nHaploid abbreviated as 1n\nSperm cell (1n) combines with egg cell (1n) to create new cells of new organism (2n)",
+  "explanation": "Reproductive cells (gametes, which are sperm and egg cells) are haploid, meaning they contain only one set of chromosomes—exactly half the number found in diploid cells. In humans, a haploid cell has one autosome from each homologous pair and one sex chromosome, totaling 23 chromosomes (22 autosomes + 1 sex chromosome). Haploid is abbreviated as 1n. During fertilization, a haploid sperm cell (1n) fuses with a haploid egg cell (1n) to form a diploid zygote (2n), establishing the chromosome number of the new organism.",
+  "questions": [
+    {
+      "q": "How many total chromosomes are in a human haploid cell (gamete)?",
+      "opts": [
+        "46",
+        "23",
+        "22",
+        "2"
+      ],
+      "a": 1,
+      "exp": "A human haploid reproductive cell has 23 total chromosomes (22 autosomes + 1 sex chromosome)."
+    },
+    {
+      "q": "How is a diploid (2n) zygote formed during sexual reproduction?",
+      "opts": [
+        "By the division of a haploid cell",
+        "By the combination of a haploid sperm cell (1n) and a haploid egg cell (1n)",
+        "By the duplication of a somatic cell",
+        "By the fusion of two diploid autosomes"
+      ],
+      "a": 1,
+      "exp": "A sperm cell (1n) combines with an egg cell (1n) to create the new cells of the new diploid (2n) organism."
+    }
+  ]
+}

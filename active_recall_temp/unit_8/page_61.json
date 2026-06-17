@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 61,
+  "filename": "Unit_8_4.txt",
+  "section_title": "Photosynthesis",
+  "page_num_in_file": 8,
+  "slide_title": "Plants as Solar Energy Converters¨Noncyclic pathway¤Takes place in the thylakoid membrane¤Uses two photosystems, or pigment complexes, PS I and PS II¤PS II captures light energy¤Causes an electron to be ejected from the reaction center (chlorophyll a)nElectron travels down electron transport chain to PS InETC is just a series of carriers that pass down the electronnReplaced with an electron from water, which is split to form O2 and H+nThis causes H+to accumulate in thylakoid chambersnThe H+gradient is used to produce ATP¤PS I captures light energy and ejects an electronnThe electron is transferred permanently to a molecule of NADP+nCauses NADPH production",
+  "original_text": "Plants as Solar Energy Converters¨Noncyclic pathway¤Takes place in the thylakoid membrane¤Uses two photosystems, or pigment complexes, PS I and PS II¤PS II captures light energy¤Causes an electron to be ejected from the reaction center (chlorophyll a)nElectron travels down electron transport chain to PS InETC is just a series of carriers that pass down the electronnReplaced with an electron from water, which is split to form O2 and H+nThis causes H+to accumulate in thylakoid chambersnThe H+gradient is used to produce ATP¤PS I captures light energy and ejects an electronnThe electron is transferred permanently to a molecule of NADP+nCauses NADPH production",
+  "explanation": "The noncyclic pathway operates in the thylakoid membrane and utilizes two photosystems, designated as Photosystem I (PS I) and Photosystem II (PS II). When PS II captures solar energy, an electron is ejected from its reaction center (chlorophyll a). This electron travels down an electron transport chain (ETC)—a sequence of carrier proteins—toward PS I. The lost electron in PS II is replaced by electrons obtained from splitting water molecules (photolysis), which yields oxygen gas (O2) and hydrogen ions (H+). This splitting and subsequent ETC pumping cause H+ to accumulate within the thylakoid space, establishing a proton gradient used to synthesize ATP. Meanwhile, PS I captures light energy and ejects an electron that is permanently transferred to NADP+, converting it into NADPH.",
+  "questions": [
+    {
+      "q": "Where do the electrons ejected from Photosystem II (PS II) reaction centers go, and how are they replaced?",
+      "opts": [
+        "They go directly to oxygen gas; they are replaced by splitting glucose.",
+        "They travel down an electron transport chain to Photosystem I; they are replaced by splitting water molecules.",
+        "They go to ATP synthase; they are replaced by absorbing carbon dioxide.",
+        "They are transferred permanently to NADP+; they are replaced by nitrogen fixation."
+      ],
+      "a": 1,
+      "exp": "The notes state that the ejected electron from PS II 'travels down electron transport chain to PS I' and is 'Replaced with an electron from water, which is split to form O2 and H+.'"
+    },
+    {
+      "q": "What happens to the H+ ions that accumulate in the thylakoid space during the noncyclic pathway?",
+      "opts": [
+        "They are immediately converted into oxygen gas.",
+        "They are used to establish a gradient that drives ATP production.",
+        "They are bound permanently to chlorophyll a molecules.",
+        "They exit the leaf through the stomata as a gas."
+      ],
+      "a": 1,
+      "exp": "The notes explain that water splitting 'causes H+ to accumulate in thylakoid chambers' and 'The H+ gradient is used to produce ATP.'"
+    }
+  ]
+}

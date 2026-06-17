@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 167,
+  "filename": "Unit_4_8.txt",
+  "section_title": "Mendelian Inheritance P1 - Mendelian Genetics",
+  "page_num_in_file": 22,
+  "slide_title": "Mendel’s Laws¨A dihybrid cross uses true-breeding plants differing in two traits¨Mendel tracked each trait through two generations.¤Started with true-breeding plants differing in two traits¤The F1 plants showed both dominant characteristics¤F1 plants self-pollinated¤Observed phenotypes among F2 plants",
+  "original_text": "Mendel’s Laws¨A dihybrid cross uses true-breeding plants differing in two traits¨Mendel tracked each trait through two generations.¤Started with true-breeding plants differing in two traits¤The F1 plants showed both dominant characteristics¤F1 plants self-pollinated¤Observed phenotypes among F2 plants",
+  "explanation": "A dihybrid cross involves breeding experiments with true-breeding plants that differ in two distinct traits. Mendel tracked both traits through two generations. He began by crossing parent plants differing in two traits, resulting in F1 plants that exhibited both dominant characteristics. When the F1 plants self-pollinated, Mendel observed the resulting combination of phenotypes in the F2 generation.",
+  "questions": [
+    {
+      "q": "What distinguishes a dihybrid cross from a monohybrid cross?",
+      "opts": [
+        "A dihybrid cross uses plants differing in only one trait.",
+        "A dihybrid cross tracks two traits instead of one.",
+        "A dihybrid cross uses non-homologous sex chromosomes.",
+        "A dihybrid cross does not require true-breeding parent plants."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because a dihybrid cross is defined as tracking two traits: 'A dihybrid cross uses true-breeding plants differing in two traits'."
+    },
+    {
+      "q": "What phenotypes are expressed in the F1 generation of a dihybrid cross between two true-breeding parents with opposite dominant/recessive traits?",
+      "opts": [
+        "An intermediate blend of both traits.",
+        "Both dominant characteristics.",
+        "Both recessive characteristics.",
+        "Only one dominant and one recessive characteristic."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'The F1 plants showed both dominant characteristics'."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 59,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 23,
+  "slide_title": "2: Protein Structure",
+  "original_text": "2: Protein Structure",
+  "explanation": "This slide acts as a placeholder for a diagram detailing the hierarchical structure of proteins.",
+  "questions": [
+    {
+      "q": "What is the subject of this slide?",
+      "opts": [
+        "Carbohydrate synthesis",
+        "Lipid bilayer structure",
+        "Protein structure",
+        "DNA replication"
+      ],
+      "a": 2,
+      "exp": "The slide is titled '2: Protein Structure'."
+    }
+  ]
+}

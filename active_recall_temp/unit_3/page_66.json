@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 66,
+  "filename": "Unit_3_3.txt",
+  "section_title": "Chromosomes",
+  "page_num_in_file": 7,
+  "slide_title": "Chromosome Structure",
+  "original_text": "Chromosome Structure",
+  "explanation": "This page serves as a transition or title slide for Chromosome Structure.",
+  "questions": [
+    {
+      "q": "What is the title of the slide shown on this page?",
+      "opts": [
+        "Chromosome Number",
+        "Chromosome Structure",
+        "Chromatid Separation",
+        "Nucleosome Structure"
+      ],
+      "a": 1,
+      "exp": "The slide is titled 'Chromosome Structure'."
+    }
+  ]
+}

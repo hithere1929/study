@@ -1,0 +1,45 @@
+{
+  "unit": 4,
+  "page": 17,
+  "filename": "Unit_4_2.txt",
+  "section_title": "DNA Structure",
+  "page_num_in_file": 3,
+  "slide_title": "DNA Nucleotides¨DNA: nucleic acid composed of 2 long chains (strands) of repeating subunits: nucleotides¤One molecule of DNA is composed of 2 strands¨Nucleotide: composed of 3 parts¤5-carbon sugar (deoxyribose)¤Phosphate group (PO4)¤Nitrogenous base (contain C, N and acts as a base –accepts H ions)nAdenine, thymine, guanine, cytosine¨Sugar and phosphate molecules alternate to form “handrails of staircase”; also known as sugar phosphate backbone¨Nucleotides of each strand connected by covalent bonds between phosphate group of one nucleotide and sugar of next¤Phosphodiester bonds¨Each ‘turn’ of the helix contains ~10 nucleotides\nA DNAdouble helix",
+  "original_text": "DNA Nucleotides¨DNA: nucleic acid composed of 2 long chains (strands) of repeating subunits: nucleotides¤One molecule of DNA is composed of 2 strands¨Nucleotide: composed of 3 parts¤5-carbon sugar (deoxyribose)¤Phosphate group (PO4)¤Nitrogenous base (contain C, N and acts as a base –accepts H ions)nAdenine, thymine, guanine, cytosine¨Sugar and phosphate molecules alternate to form “handrails of staircase”; also known as sugar phosphate backbone¨Nucleotides of each strand connected by covalent bonds between phosphate group of one nucleotide and sugar of next¤Phosphodiester bonds¨Each ‘turn’ of the helix contains ~10 nucleotides\nA DNAdouble helix",
+  "explanation": "DNA is a nucleic acid composed of two long complementary chains (strands) of repeating subunits called nucleotides. Each nucleotide itself consists of three essential parts: a 5-carbon sugar called deoxyribose, a phosphate group (PO4), and a nitrogenous base (which contains carbon and nitrogen and acts as a base by accepting hydrogen ions). There are four nitrogenous bases in DNA: adenine, thymine, guanine, and cytosine. The alternating sugar and phosphate molecules form the outer 'handrails' or the sugar-phosphate backbone of the DNA molecule. The nucleotides along a single strand are linked together by covalent bonds known as phosphodiester bonds, which connect the phosphate group of one nucleotide to the deoxyribose sugar of the next. Each complete turn of the DNA double helix contains approximately 10 nucleotides.",
+  "questions": [
+    {
+      "q": "What type of bond connects the phosphate group of one nucleotide to the sugar of the next nucleotide along a single strand of DNA?",
+      "opts": [
+        "Hydrogen bond",
+        "Ionic bond",
+        "Covalent (phosphodiester) bond",
+        "Peptide bond"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide states that 'Nucleotides of each strand connected by covalent bonds between phosphate group of one nucleotide and sugar of next' and names them 'Phosphodiester bonds.' Hydrogen bonds (Option A) connect nitrogenous bases between strands, not within a single strand. Options B and D are incorrect."
+    },
+    {
+      "q": "Approximately how many nucleotides are contained in each complete 'turn' of the DNA double helix?",
+      "opts": [
+        "5 nucleotides",
+        "10 nucleotides",
+        "20 nucleotides",
+        "46 nucleotides"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states 'Each ‘turn’ of the helix contains ~10 nucleotides.' The other options are incorrect."
+    },
+    {
+      "q": "Which of the following is NOT one of the three components of a DNA nucleotide?",
+      "opts": [
+        "A 5-carbon sugar (deoxyribose)",
+        "A phosphate group",
+        "A nitrogenous base",
+        "An amino acid"
+      ],
+      "a": 3,
+      "exp": "Option D is correct because nucleotides do not contain amino acids (which are the subunits of proteins). Options A, B, and C are the three components explicitly listed on the slide."
+    }
+  ]
+}

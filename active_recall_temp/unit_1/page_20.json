@@ -1,0 +1,34 @@
+{
+  "unit": 1,
+  "page": 20,
+  "filename": "Unit_1_2.txt",
+  "section_title": "Intro to Biology",
+  "page_num_in_file": 7,
+  "slide_title": "Characteristics of Life",
+  "original_text": "Characteristics of Life\n2.Living things acquire materials and energy\u2013Living things require outside sources of energy and/or nutrients to carry on life\u2013What is the main source of energy  for most life on Earth?\u2013The Sun\u2013Organisms are able to perform chemical reactions to metabolize energy\u2013Ex include Photosynthesis or cellular respiration\u2013Will discuss in more detail in future units",
+  "explanation": "This slide discusses the second characteristic of life: living things acquire materials and energy. To carry on life, organisms require outside sources of energy and nutrients. The Sun is the primary source of energy for most life on Earth. Organisms are capable of performing chemical reactions to metabolize this energy, with key examples including photosynthesis (converting light to chemical energy) and cellular respiration (releasing stored energy).",
+  "questions": [
+    {
+      "q": "What is the primary source of energy for most life on Earth according to the slide?",
+      "opts": [
+        "Geothermal heat",
+        "The Earth's core",
+        "The Sun",
+        "Organic fertilizer"
+      ],
+      "a": 2,
+      "exp": "The slide poses the question 'What is the main source of energy for most life on Earth?' and answers: 'The Sun'."
+    },
+    {
+      "q": "What processes are mentioned as examples of chemical reactions organisms use to metabolize energy?",
+      "opts": [
+        "Digestion and excretion",
+        "Photosynthesis and cellular respiration",
+        "Mitosis and meiosis",
+        "Osmosis and diffusion"
+      ],
+      "a": 1,
+      "exp": "The text mentions 'Photosynthesis or cellular respiration' as examples of chemical reactions to metabolize energy."
+    }
+  ]
+}

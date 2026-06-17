@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 89,
+  "filename": "Unit_6_7.txt",
+  "section_title": "Vertebrates",
+  "page_num_in_file": 10,
+  "slide_title": "Evolution of Reptiles\u00a8Lineages grouped on presence and number of openings behind eye-socket\u00a4Anapsid \u2013no openingnTurtles\u00a4Diapsid \u20132 openingsnMost reptiles and birds\u00a4Synapsid \u20131 openingnMaimmals\u00a8Most reptiles do not have 1 known common ancestor \u2013paraphyletic rather than monophyletic\u00a8Crocodiles and birds more closely related to dinosaurs than lizards",
+  "original_text": "Evolution of Reptiles\u00a8Lineages grouped on presence and number of openings behind eye-socket\u00a4Anapsid \u2013no openingnTurtles\u00a4Diapsid \u20132 openingsnMost reptiles and birds\u00a4Synapsid \u20131 openingnMaimmals\u00a8Most reptiles do not have 1 known common ancestor \u2013paraphyletic rather than monophyletic\u00a8Crocodiles and birds more closely related to dinosaurs than lizards",
+  "explanation": "Reptile lineages are classified based on the presence and number of openings (temporal fenestrae) behind the eye socket: 1) Anapsid (no opening) - turtles; 2) Diapsid (2 openings) - most reptiles and birds; and 3) Synapsid (1 opening) - mammals. Because most reptiles do not share a single unique common ancestor, Reptilia is considered a paraphyletic group rather than a monophyletic one. Crocodiles and birds are more closely related to dinosaurs than they are to lizards.",
+  "questions": [
+    {
+      "q": "Which skull lineage features one opening behind the eye socket and leads to mammals?",
+      "opts": [
+        "Anapsid",
+        "Diapsid",
+        "Synapsid",
+        "Deuterostome"
+      ],
+      "a": 2,
+      "exp": "The notes state: 'Synapsid \u2013 1 opening Mammals'."
+    },
+    {
+      "q": "Why is the traditional class Reptilia considered paraphyletic rather than monophyletic?",
+      "opts": [
+        "Reptiles do not have a single known common ancestor.",
+        "Reptiles reproduce using external spores.",
+        "Reptiles are invertebrates.",
+        "Reptiles are all endothermic."
+      ],
+      "a": 0,
+      "exp": "The notes state: 'Most reptiles do not have 1 known common ancestor \u2013 paraphyletic rather than monophyletic'."
+    },
+    {
+      "q": "Which modern groups are more closely related to dinosaurs than lizards are?",
+      "opts": [
+        "Turtles and tuataras",
+        "Crocodiles and birds",
+        "Salamanders and frogs",
+        "Sharks and rays"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Crocodiles and birds more closely related to dinosaurs than lizards'."
+    }
+  ]
+}

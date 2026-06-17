@@ -1,0 +1,29 @@
+{
+  "id": "u8_t10",
+  "title": "Photosynthesis reactants",
+  "cheat_card": [
+    "The overall raw materials for photosynthesis are <b>carbon dioxide ($CO_2$)</b> and <b>water ($H_2O$)</b>.",
+    "Water is absorbed by roots and travels up <b>vascular tissue</b>; $CO_2$ enters the leaf through small openings called <b>stomata</b>.",
+    "During the light reactions, water is oxidized (split) to yield electrons, $H^+$ ions, and <b>oxygen gas ($O_2$)</b> as a byproduct.",
+    "In the stroma, $CO_2$ is combined with hydrogen atoms carried by the coenzyme <b>NADPH</b> to synthesize <b>glucose ($C_6H_{12}O_6$)</b>."
+  ],
+  "memory_anchor": "Photosynthesis Formula:\n6 CO2 (enters via stomata) + 6 H2O (via roots/vascular) + Light -> C6H12O6 (in stroma) + 6 O2 (released from split H2O)",
+  "flashcards": [
+    {
+      "q": "How do carbon dioxide and water enter a plant and reach the site of photosynthesis?",
+      "q_id": "u8_t10_f1",
+      "a": "Water is absorbed by roots and transported upward through vascular tissue to the leaves. Carbon dioxide enters the leaves from the atmosphere through small openings called stomata and diffuses into the chloroplasts."
+    },
+    {
+      "q": "What coenzyme acts as the hydrogen/electron carrier in photosynthesis, and what are its oxidized and reduced states?",
+      "q_id": "u8_t10_f2",
+      "a": "The coenzyme is NADP+. Its oxidized state is NADP+, and its reduced state is NADPH (formed when it accepts 2 electrons and 1 hydrogen ion)."
+    },
+    {
+      "q": "What is the fate of the oxygen atoms in water during the light reactions of photosynthesis?",
+      "q_id": "u8_t10_f3",
+      "a": "The water molecules are split (oxidized) at Photosystem II, and the oxygen atoms combine to form oxygen gas (O2), which is released into the atmosphere through the stomata."
+    }
+  ],
+  "outline_blanks": "Photosynthesis utilizes light energy to transform carbon dioxide and water into carbohydrates. Water enters via roots and moves up vascular tissue, whereas carbon dioxide enters the leaf through openings called [[stomata]]. During the light reactions, water is split to release [[oxygen]] gas, and its electrons reduce the coenzyme [[NADP+]] to NADPH."
+}

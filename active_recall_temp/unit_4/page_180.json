@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 180,
+  "filename": "Unit_4_9.txt",
+  "section_title": "Mendelian Inheritance P2 - Genetic Disorders",
+  "page_num_in_file": 6,
+  "slide_title": "Autosomal Recessive Disorders¨Methemoglobinemia¤Relatively harmless disorder¤Accumulation of methemoglobin in the blood causes skin to appear bluish-purple¨Cystic Fibrosis¤Mucus in bronchial tubes and pancreatic ducts is particularly thick and viscous",
+  "original_text": "Autosomal Recessive Disorders¨Methemoglobinemia¤Relatively harmless disorder¤Accumulation of methemoglobin in the blood causes skin to appear bluish-purple¨Cystic Fibrosis¤Mucus in bronchial tubes and pancreatic ducts is particularly thick and viscous",
+  "explanation": "This slide presents two autosomal recessive disorders: Methemoglobinemia and Cystic Fibrosis. Methemoglobinemia is a relatively harmless disorder in which the accumulation of methemoglobin in the blood causes the skin to look bluish-purple. Cystic Fibrosis is a severe disorder characterized by thick and viscous mucus that builds up in the bronchial tubes and pancreatic ducts.",
+  "questions": [
+    {
+      "q": "What causes the skin of individuals with methemoglobinemia to appear bluish-purple?",
+      "opts": [
+        "Thick mucus in bronchial tubes.",
+        "Lack of collagen in tissues.",
+        "Accumulation of methemoglobin in the blood.",
+        "Low counts of red blood cells."
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide explains: 'Accumulation of methemoglobin in the blood causes skin to appear bluish-purple'."
+    },
+    {
+      "q": "What is the physiological hallmark of Cystic Fibrosis mentioned on the slide?",
+      "opts": [
+        "Accumulation of methemoglobin in the blood.",
+        "Spherical red blood cells that burst easily.",
+        "Extremely thick and viscous mucus in bronchial tubes and pancreatic ducts.",
+        "Synthesis of abnormal type I collagen."
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide explains Cystic Fibrosis as: 'Mucus in bronchial tubes and pancreatic ducts is particularly thick and viscous'."
+    }
+  ]
+}

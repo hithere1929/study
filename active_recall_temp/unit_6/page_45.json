@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 45,
+  "filename": "Unit_6_4.txt",
+  "section_title": "Fungi",
+  "page_num_in_file": 9,
+  "slide_title": "Diversity -Ascomycota\u00a8Sac Fungi \u201350,000 species\u00a8Most Saprotrophs, most septate hyphae\u00a8Examples\u00a4Morels and truffles -delicacies\u00a4Many plant diseases \u2013powdery mildew, ergot of rye\u2026\u00a4Aspergillus & Candida cause serious human infection\u00a4Talaromyces(formerly Penicilllium) is source of penicillin\u00a8Asexual reproduction is the norm\u00a4Yeast reproduce by buddingnSmall bulge appears on one side of cell, and pinches off\u00a4Others produce spores called conidia,which develop at tip of hyphaenThese spores can be used for fungal identification",
+  "original_text": "Diversity -Ascomycota\u00a8Sac Fungi \u201350,000 species\u00a8Most Saprotrophs, most septate hyphae\u00a8Examples\u00a4Morels and truffles -delicacies\u00a4Many plant diseases \u2013powdery mildew, ergot of rye\u2026\u00a4Aspergillus & Candida cause serious human infection\u00a4Talaromyces(formerly Penicilllium) is source of penicillin\u00a8Asexual reproduction is the norm\u00a4Yeast reproduce by buddingnSmall bulge appears on one side of cell, and pinches off\u00a4Others produce spores called conidia,which develop at tip of hyphaenThese spores can be used for fungal identification",
+  "explanation": "Phylum Ascomycota, also called Sac Fungi, contains around 50,000 species, most of which are saprotrophs with septate hyphae. Examples include edible morels and truffles, plant pathogens causing powdery mildew and ergot of rye, human pathogens like Aspergillus and Candida, and Talaromyces (formerly Penicillium), which is the source of penicillin. Asexual reproduction is the norm: yeasts reproduce by budding (a small bulge appears and pinches off), while other ascomycetes produce asexual spores called conidia at the tips of their hyphae, which are used for species identification.",
+  "questions": [
+    {
+      "q": "What are the asexual spores produced at the tips of Ascomycota hyphae called?",
+      "opts": [
+        "Zoospores",
+        "Conidia",
+        "Ascocarps",
+        "Stolons"
+      ],
+      "a": 1,
+      "exp": "The notes state that they 'produce spores called conidia, which develop at tip of hyphae'."
+    },
+    {
+      "q": "Which of the following is a source of the antibiotic penicillin?",
+      "opts": [
+        "Aspergillus",
+        "Candida",
+        "Talaromyces (formerly Penicillium)",
+        "Rhizopus stolonifer"
+      ],
+      "a": 2,
+      "exp": "The notes list 'Talaromyces (formerly Penicilliium) is source of penicillin'."
+    },
+    {
+      "q": "What phylum of fungi is commonly called Sac Fungi?",
+      "opts": [
+        "Zygomycota",
+        "Ascomycota",
+        "Chytridiomycota",
+        "Glomeromycota"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Diversity - Ascomycota Sac Fungi \u2013 50,000 species'."
+    }
+  ]
+}

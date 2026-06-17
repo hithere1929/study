@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 181,
+  "filename": "Unit_4_9.txt",
+  "section_title": "Mendelian Inheritance P2 - Genetic Disorders",
+  "page_num_in_file": 7,
+  "slide_title": "Autosomal Dominant Pedigree",
+  "original_text": "Autosomal Dominant Pedigree",
+  "explanation": "An autosomal dominant pedigree shows the inheritance of a dominant genetic disorder. In autosomal dominant inheritance, affected individuals typically have at least one affected parent, and the trait does not skip generations. Unaffected individuals (genotype aa) cannot pass the disorder to their children.",
+  "questions": [
+    {
+      "q": "In an autosomal dominant pedigree, what genotype must unaffected individuals have?",
+      "opts": [
+        "Homozygous dominant (AA)",
+        "Heterozygous (Aa)",
+        "Homozygous recessive (aa)",
+        "Hemizygous"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because in an autosomal dominant trait, any individual with a dominant allele (AA or Aa) exhibits the trait, meaning unaffected individuals must be homozygous recessive (aa)."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 5,
+  "page": 83,
+  "filename": "Unit_5_4.txt",
+  "section_title": "Principles of Taxonomy & Systematics",
+  "page_num_in_file": 14,
+  "slide_title": "Phylogeny",
+  "original_text": "Phylogeny\n\u00a8Tracing Phylogeny\n\u00a4Behavioral Traits\n  nParental care, mating calls, etc.\n\u00a4Molecular Traits\n  nSystematics assumes:\n  nTwo species with similar base-pair sequences are assumed to be closely related\n  nTwo species with differing base-pair sequences are assumed to be only distantly related",
+  "explanation": "To trace phylogeny, systematists analyze behavioral and molecular traits. Behavioral traits include actions like parental care behaviors and species-specific mating calls. Molecular traits are particularly powerful: systematics operates on the assumption that species sharing highly similar DNA base-pair sequences are closely related (sharing a recent common ancestor), whereas species with highly divergent base-pair sequences are only distantly related (sharing a more ancient common ancestor).",
+  "questions": [
+    {
+      "q": "What assumption does systematics make when comparing the DNA base-pair sequences of two species?",
+      "opts": [
+        "Species with similar base-pair sequences are assumed to be closely related.",
+        "Species with similar base-pair sequences are assumed to be distantly related.",
+        "DNA sequence similarity is completely unrelated to evolutionary history.",
+        "Prokaryotes do not have base-pair sequences."
+      ],
+      "a": 0,
+      "exp": "Systematics assumes that a higher similarity in DNA base-pair sequences reflects a closer evolutionary relationship and recent common ancestry."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 133,
+  "filename": "Unit_2_5.txt",
+  "section_title": "Enzymes",
+  "page_num_in_file": 11,
+  "slide_title": "Enzymes",
+  "original_text": "Enzymes¨For every enzyme, there are optimal conditions under which it is most effective.¨Temperature affects molecular motion.¥An enzyme’s optimal temperature produces the highest rate of contact between the reactants and the enzyme’s active site.¥Most human enzymes work best at 35–40°C.¨The optimal pH for most enzymes is near neutrality.",
+  "explanation": "Each enzyme has evolved to function best under specific optimal environmental conditions. Temperature influences molecular motion; as temperature increases, molecules move faster, increasing collisions. An enzyme's optimal temperature is the point at which the rate of contact between substrate molecules and the active site is maximized without causing the enzyme protein to denature. For most human enzymes, this optimal temperature ranges between 35°C and 40°C (close to normal body temperature). Additionally, the optimal pH for most biological enzymes is near neutrality (pH 7).",
+  "questions": [
+    {
+      "q": "What is the optimal temperature range for most human enzymes?",
+      "opts": [
+        "0–10°C",
+        "20–25°C",
+        "35–40°C",
+        "70–80°C"
+      ],
+      "a": 2,
+      "exp": "Most human enzymes function optimally between 35°C and 40°C, close to human body temperature (37°C)."
+    },
+    {
+      "q": "What is the optimal pH environment for the majority of cellular enzymes?",
+      "opts": [
+        "Highly acidic (pH 1–2)",
+        "Near neutrality (pH 7)",
+        "Highly alkaline (pH 12–14)",
+        "Fluctuating between pH 2 and 12"
+      ],
+      "a": 1,
+      "exp": "Most enzymes function best in a neutral pH environment near neutrality, though there are specific exceptions like digestive stomach enzymes."
+    }
+  ]
+}

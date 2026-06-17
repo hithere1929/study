@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 89,
+  "filename": "Unit_4_5.txt",
+  "section_title": "Biotech & Genomics",
+  "page_num_in_file": 9,
+  "slide_title": "DNA Cloning¨Applications of PCR –analyzing DNA segments¤Short tandem repeat (STR) profiling is a technique used to analyze DNA fragment lengthsnTreat DNA segment with restriction enzymesnA unique collection of different fragments is producednGel electrophoresis separates the fragments according to their charge/size –“torturous path”nProduces a distinctive banding pattern called a DNA fingerprint¤Usually used to measure the number of repeats of short sequences¤Used in paternity suits, rape cases, corpse ID, etc.",
+  "original_text": "DNA Cloning¨Applications of PCR –analyzing DNA segments¤Short tandem repeat (STR) profiling is a technique used to analyze DNA fragment lengthsnTreat DNA segment with restriction enzymesnA unique collection of different fragments is producednGel electrophoresis separates the fragments according to their charge/size –“torturous path”nProduces a distinctive banding pattern called a DNA fingerprint¤Usually used to measure the number of repeats of short sequences¤Used in paternity suits, rape cases, corpse ID, etc.",
+  "explanation": "PCR has critical applications in analyzing DNA segments. One major technique is Short Tandem Repeat (STR) profiling, which determines the length of specific DNA fragments. In this process, DNA is treated with restriction enzymes to produce a unique mixture of fragments of varying sizes. These fragments are then separated using gel electrophoresis, which moves them through a gel matrix based on their size and charge (often called a 'torturous path' because of the gel matrix). This separation produces a unique, characteristic banding pattern known as a DNA fingerprint. STR profiling is typically used to measure the number of repeat units in short, repetitive DNA sequences, and it is widely applied in forensic science (such as paternity suits, rape cases, and identifying corpses).",
+  "questions": [
+    {
+      "q": "What is Short Tandem Repeat (STR) profiling, and what does it produce?",
+      "opts": [
+        "A method to sequence an entire genome; it produces a karyotype.",
+        "A technique to analyze DNA fragment lengths; it produces a distinctive banding pattern called a DNA fingerprint.",
+        "A method to measure transcription rates; it produces an mRNA profile.",
+        "A technique to synthesize artificial vectors; it produces recombinant plasmids."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states STR profiling is 'a technique used to analyze DNA fragment lengths' and 'Produces a distinctive banding pattern called a DNA fingerprint.' The other choices are incorrect."
+    },
+    {
+      "q": "How does gel electrophoresis separate DNA fragments during STR profiling?",
+      "opts": [
+        "By their density in water.",
+        "By their charge and size.",
+        "By their GC-content ratio.",
+        "By their degree of histone acetylation."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'Gel electrophoresis separates the fragments according to their charge/size.' The other options are incorrect."
+    }
+  ]
+}

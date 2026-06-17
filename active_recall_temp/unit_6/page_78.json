@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 78,
+  "filename": "Unit_6_6.txt",
+  "section_title": "Invertebrates",
+  "page_num_in_file": 11,
+  "slide_title": "Diversity -Deuterostomes\u00a8Include Echinoderms and Chordates. All echinoderm are invertebrates. Most chordates are vertebrates\u00a8Echinoderms\u00a4Primarily bottom dwelling marine animals. \u00a4Range in size from 1cm to 2m\u00a45-pointed radial symmetry as adults (bilateral as larva)\u00a4Endoskeleton of spiny, calcium-rich plates called ossicles\u00a4Water vasuclarsystem for locomotion, feeding, gas exchange, and sensory receptionnInclude sea stars, sea cucumbers, sea urchins and sand dollars\u00a8The chordate invertebrates will be discussed in the next lesson",
+  "original_text": "Diversity -Deuterostomes\u00a8Include Echinoderms and Chordates. All echinoderm are invertebrates. Most chordates are vertebrates\u00a8Echinoderms\u00a4Primarily bottom dwelling marine animals. \u00a4Range in size from 1cm to 2m\u00a45-pointed radial symmetry as adults (bilateral as larva)\u00a4Endoskeleton of spiny, calcium-rich plates called ossicles\u00a4Water vasuclarsystem for locomotion, feeding, gas exchange, and sensory receptionnInclude sea stars, sea cucumbers, sea urchins and sand dollars\u00a8The chordate invertebrates will be discussed in the next lesson",
+  "explanation": "Deuterostomes include Echinoderms and Chordates. All echinoderms are invertebrates, whereas most chordates are vertebrates. Echinoderms are primarily bottom-dwelling marine animals, ranging from 1cm to 2m. They exhibit 5-pointed radial symmetry as adults but are bilaterally symmetrical as larvae. They possess an endoskeleton made of spiny, calcium-rich plates called ossicles, and use a specialized water vascular system for locomotion, feeding, gas exchange, and sensory reception. This group includes sea stars, sea cucumbers, sea urchins, and sand dollars. Invertebrate chordates are deferred to the next lesson.",
+  "questions": [
+    {
+      "q": "What type of symmetry is shown by echinoderms at different life stages?",
+      "opts": [
+        "Radial as larvae, bilateral as adults",
+        "Bilateral as larvae, 5-pointed radial as adults",
+        "Asymmetrical as larvae, bilateral as adults",
+        "Radial as both larvae and adults"
+      ],
+      "a": 1,
+      "exp": "The notes state: '5-pointed radial symmetry as adults (bilateral as larva)'."
+    },
+    {
+      "q": "What is the endoskeleton of echinoderms composed of?",
+      "opts": [
+        "Chitinous cuticle",
+        "Spiny, calcium-rich plates called ossicles",
+        "Glassy silicon tests",
+        "Cellulose fibers"
+      ],
+      "a": 1,
+      "exp": "The notes describe the echinoderm skeleton as an 'Endoskeleton of spiny, calcium-rich plates called ossicles'."
+    },
+    {
+      "q": "What is the function of the water vascular system in echinoderms?",
+      "opts": [
+        "To transport blood and glucose to organs",
+        "For locomotion, feeding, gas exchange, and sensory reception",
+        "To secrete an acidic mucus that dissolves prey cell walls",
+        "To pump air into the coelom"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Water vasuclar system for locomotion, feeding, gas exchange, and sensory reception'."
+    }
+  ]
+}

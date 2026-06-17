@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 38,
+  "filename": "Unit_1_3.txt",
+  "section_title": "The Process of Science",
+  "page_num_in_file": 4,
+  "slide_title": "The Scientific Method",
+  "original_text": "\u2013Steps1.Make an Observation2.Ask a Question3.Make a Hypothesis4.Perform an Experiment(s)5.Collect and Analyze Data6.Make Conclusions",
+  "explanation": "This slide outlines the six standard steps of the Scientific Method in sequential order: 1) Make an Observation, 2) Ask a Question, 3) Make a Hypothesis, 4) Perform an Experiment (or series of experiments), 5) Collect and Analyze Data, and 6) Make Conclusions.",
+  "questions": [
+    {
+      "q": "What is the correct order of the first three steps of the Scientific Method?",
+      "opts": [
+        "Ask a Question -> Make an Observation -> Make a Hypothesis",
+        "Make a Hypothesis -> Perform an Experiment -> Collect Data",
+        "Make an Observation -> Ask a Question -> Make a Hypothesis",
+        "Perform an Experiment -> Collect Data -> Make Conclusions"
+      ],
+      "a": 2,
+      "exp": "According to the slide, the steps are: 1. Make an Observation, 2. Ask a Question, 3. Make a Hypothesis."
+    }
+  ]
+}

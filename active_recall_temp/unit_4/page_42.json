@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 42,
+  "filename": "Unit_4_3.txt",
+  "section_title": "DNA Replication, Transcription, Translation",
+  "page_num_in_file": 15,
+  "slide_title": "RNA Structure and Function¨RNA: nucleic acid composed of nucleotides¨4 basic differences between structure of DNA and RNA:1.RNA contains sugar ribose; DNA contains sugar deoxyribose2.RNA contains base uracil; DNA contains base thymine (U pairs with A just as T does)3.RNA is single stranded; DNA is double stranded1.RNA can base pair to itself in segments and form short pieces that are double-stranded4.RNA is short, usually length of one gene; DNA is very long, contains thousands of genes¨Cells contain 3 main types of RNA, each with a different function:¤Messenger RNA (mRNA) carries instructions from gene in nucleus to synthesize protein in cytosol¤Ribosomal RNA (rRNA) structural component of ribosomesnOrganelle in cell where protein synthesis occurs¤Transfer RNA (tRNA) transfers amino acids to ribosome to make proteinnContains 3 specialized nucleotides called ‘anticodon’ that bind to mRNA during translation",
+  "original_text": "RNA Structure and Function¨RNA: nucleic acid composed of nucleotides¨4 basic differences between structure of DNA and RNA:1.RNA contains sugar ribose; DNA contains sugar deoxyribose2.RNA contains base uracil; DNA contains base thymine (U pairs with A just as T does)3.RNA is single stranded; DNA is double stranded1.RNA can base pair to itself in segments and form short pieces that are double-stranded4.RNA is short, usually length of one gene; DNA is very long, contains thousands of genes¨Cells contain 3 main types of RNA, each with a different function:¤Messenger RNA (mRNA) carries instructions from gene in nucleus to synthesize protein in cytosol¤Ribosomal RNA (rRNA) structural component of ribosomesnOrganelle in cell where protein synthesis occurs¤Transfer RNA (tRNA) transfers amino acids to ribosome to make proteinnContains 3 specialized nucleotides called ‘anticodon’ that bind to mRNA during translation",
+  "explanation": "RNA is a nucleic acid composed of nucleotides, but it differs from DNA in four fundamental ways: 1) RNA contains the 5-carbon sugar ribose, whereas DNA contains deoxyribose; 2) RNA contains the nitrogenous base uracil instead of thymine (uracil pairs with adenine, just as thymine does in DNA); 3) RNA is single-stranded, although it can fold and base-pair with itself in short segments to form double-stranded regions; and 4) RNA is short, typically only the length of one gene, whereas DNA molecules are extremely long and contain thousands of genes. There are three main types of RNA in cells, each serving a unique function: Messenger RNA (mRNA) carries genetic instructions from the nuclear DNA to the cytosol for protein synthesis; Ribosomal RNA (rRNA) is a structural component of ribosomes, which are the organelles where proteins are synthesized; and Transfer RNA (tRNA) transfers specific amino acids to the ribosome during translation, containing a specialized three-nucleotide sequence called an anticodon that binds to complementary mRNA codons.",
+  "questions": [
+    {
+      "q": "Which of the following is a structural difference between DNA and RNA?",
+      "opts": [
+        "DNA is single-stranded, whereas RNA is double-stranded.",
+        "DNA contains ribose, whereas RNA contains deoxyribose.",
+        "DNA contains thymine, whereas RNA contains uracil.",
+        "DNA is short (one gene long), whereas RNA is very long."
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide states that RNA contains uracil and DNA contains thymine. Options A, B, and D are the exact reverse of the facts stated on the slide."
+    },
+    {
+      "q": "What is the primary function of Messenger RNA (mRNA)?",
+      "opts": [
+        "It acts as a structural component of the ribosome organelle.",
+        "It carries genetic instructions from the nucleus to the cytosol for protein synthesis.",
+        "It physically transfers amino acids to the ribosome.",
+        "It binds directly to DNA promoter regions to inhibit transcription."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states mRNA 'carries instructions from gene in nucleus to synthesize protein in cytosol.' Option A describes rRNA, and Option C describes tRNA."
+    }
+  ]
+}

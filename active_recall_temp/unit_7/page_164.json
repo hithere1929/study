@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 164,
+  "filename": "Unit_7_9.txt",
+  "section_title": "Sense Organs",
+  "page_num_in_file": 4,
+  "slide_title": "Chemical Senses: Taste in Humans",
+  "original_text": "Chemical Senses Chemoreception is found almost universally in all animals Thought to be the most primitive sense Allow organisms to locate food, find a mate, detect dangerous environmental chemicals, etc. Sense of Taste in Humans In humans, taste buds are located primarily on the tongue Taste buds open at a taste pore Taste buds have supporting cells and elongated taste cells that end in microvilli Five primary tastes Sweet, sour, salty, bitter, and umami (savory) Taste buds for each are located throughout the tongue, although certain regions may be more sensitive to particular tastes",
+  "explanation": "Chemoreception is found in nearly all animals and is considered the most primitive sense, allowing organisms to find food, mates, and avoid toxins. In humans, the sense of taste (gustation) relies on taste buds located primarily on the tongue. Taste buds open at a taste pore and contain supporting cells and elongated taste cells that end in microvilli. There are five primary taste sensations: sweet, sour, salty, bitter, and umami (savory). Taste buds for all five tastes are distributed across the tongue, though specific regions may have higher sensitivity to certain tastes.",
+  "questions": [
+    {
+      "q": "What are the five primary taste sensations in humans?",
+      "opts": [
+        "Sweet, sour, salty, spicy, and bitter",
+        "Sweet, sour, salty, bitter, and umami",
+        "Sweet, sour, minty, metallic, and savory",
+        "Salty, bitter, acidic, basic, and neutral"
+      ],
+      "a": 1,
+      "exp": "The five recognized primary taste sensations in humans are sweet, sour, salty, bitter, and umami (savory)."
+    },
+    {
+      "q": "Describe the structure of taste cells within a taste bud.",
+      "opts": [
+        "They are flat squamous epithelial cells that slough off into the taste pore.",
+        "They are elongated cells ending in microvilli that project into the taste pore.",
+        "They are myelinated axons that contain synaptic vesicles filled with norepinephrine.",
+        "They are compound structures composed of thousands of ommatidia."
+      ],
+      "a": 1,
+      "exp": "Taste cells are elongated sensory cells that terminate in microvilli, which project through the taste pore to bind food molecules."
+    }
+  ]
+}

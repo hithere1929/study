@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 21,
+  "filename": "Unit_4_2.txt",
+  "section_title": "DNA Structure",
+  "page_num_in_file": 7,
+  "slide_title": "Nitrogenous Bases¨Sugar/phosphate component is same among all nucleotides¨Nitrogenous bases differ:¤Adenine (A)¤Guanine (G)¤Cytosine (C)¤Thymine (T)¨Each base has a different chemical structure; all composed of C rings with N groups¨Bases with double-ring structure àpurines¤Adenine; Guanine¨Bases with single ring structure àpyrimidines¤Thymine; Cytosine",
+  "original_text": "Nitrogenous Bases¨Sugar/phosphate component is same among all nucleotides¨Nitrogenous bases differ:¤Adenine (A)¤Guanine (G)¤Cytosine (C)¤Thymine (T)¨Each base has a different chemical structure; all composed of C rings with N groups¨Bases with double-ring structure àpurines¤Adenine; Guanine¨Bases with single ring structure àpyrimidines¤Thymine; Cytosine",
+  "explanation": "While the sugar and phosphate group components are identical across all DNA nucleotides, the nitrogenous bases differ. There are four types of nitrogenous bases in DNA: adenine (A), guanine (G), cytosine (C), and thymine (T). Each base has a unique chemical structure, but they are all composed of carbon rings containing nitrogen groups. Based on their ring structure, they are classified into two groups: purines and pyrimidines. Purines are bases with a double-ring structure, which include adenine and guanine. Pyrimidines are bases with a single-ring structure, which include thymine and cytosine.",
+  "questions": [
+    {
+      "q": "Which of the following nitrogenous bases are classified as purines?",
+      "opts": [
+        "Thymine and Cytosine",
+        "Adenine and Thymine",
+        "Adenine and Guanine",
+        "Guanine and Cytosine"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide defines purines as bases with a double-ring structure, specifically Adenine and Guanine. Pyrimidines are single-ring structures, specifically Thymine and Cytosine (Option A). The other options mix purines and pyrimidines."
+    },
+    {
+      "q": "What is the main structural difference between purines and pyrimidines?",
+      "opts": [
+        "Purines have a single ring; pyrimidines have a double ring.",
+        "Purines have a double ring; pyrimidines have a single ring.",
+        "Purines contain sulfur; pyrimidines contain phosphorus.",
+        "Purines lack carbon; pyrimidines lack nitrogen."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide defines purines as having a 'double-ring structure' and pyrimidines as having a 'single ring structure.' Option A is the reverse. Options C and D are incorrect chemical descriptions."
+    }
+  ]
+}

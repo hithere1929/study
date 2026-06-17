@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 7,
+  "filename": "Unit_3_1.txt",
+  "section_title": "Cell Biology",
+  "page_num_in_file": 7,
+  "slide_title": "Section 2: Introduction to Cells",
+  "original_text": "Section 2: Introduction to Cells",
+  "explanation": "This is a transition slide marking the beginning of Section 2: Introduction to Cells.",
+  "questions": [
+    {
+      "q": "What is the title of Section 2 introduced on this page?",
+      "opts": [
+        "The History of Cell Biology",
+        "Introduction to Cells",
+        "Organelles and Structures",
+        "Cell Transport Mechanisms"
+      ],
+      "a": 1,
+      "exp": "The slide title explicitly states 'Section 2: Introduction to Cells'."
+    }
+  ]
+}

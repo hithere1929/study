@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 27,
+  "filename": "Unit_7_2.txt",
+  "section_title": "Plant Nutrition and Transport",
+  "page_num_in_file": 6,
+  "slide_title": "Water & Mineral Uptake",
+  "original_text": "Water & Mineral Uptake Water and minerals all taken up from soil using same pathway Water enters root hairs when the osmotic pressure in the root is lower than found in the soil (osmosis) Minerals can be taken in at much higher concentration than found in soil by use of pumps to move ions \n Water and minerals move up xylem, from root to leaves, by upward movement of water Minerals can exit xylem and enter cells requiring the nutrients along the way",
+  "explanation": "Water and mineral ions enter roots via the same pathway. Water enters root hairs passively by osmosis when the osmotic pressure inside the root cells is lower than in the surrounding soil. In contrast, mineral ions can be accumulated in the root cells at concentrations much higher than those in the soil. This active accumulation is accomplished via transport pumps that move ions across membranes. Once absorbed, water and minerals enter the xylem and are transported upward from roots to leaves. Along this pathway, minerals can exit the xylem vessels and enter cells that require these nutrients.",
+  "questions": [
+    {
+      "q": "Under what condition does water enter root hairs from the soil via osmosis?",
+      "opts": [
+        "When the osmotic pressure in the root is lower than in the soil",
+        "When the osmotic pressure in the root is higher than in the soil",
+        "When active transport pumps force water against its gradient",
+        "When the soil is completely dry"
+      ],
+      "a": 0,
+      "exp": "Water enters root hairs passively when the osmotic pressure in the root is lower than that in the soil, allowing osmosis to occur."
+    },
+    {
+      "q": "How do plants transport minerals into roots at concentrations higher than those found in the soil?",
+      "opts": [
+        "Through passive diffusion across the cuticle",
+        "By using specialized transport pumps to actively move ions",
+        "By converting minerals into organic gases",
+        "Through simple osmosis"
+      ],
+      "a": 1,
+      "exp": "Plants use energy-dependent active transport pumps to move mineral ions into root cells, accumulating them against their concentration gradient."
+    }
+  ]
+}

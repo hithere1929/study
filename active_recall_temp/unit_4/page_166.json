@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 166,
+  "filename": "Unit_4_8.txt",
+  "section_title": "Mendelian Inheritance P1 - Mendelian Genetics",
+  "page_num_in_file": 21,
+  "slide_title": "Mendel’s Laws¨Genotype¤Refers to the two alleles an individual has for a specific trait¤If identical, genotype is homozygous¤If different, genotype is heterozygous¨Phenotype¤Refers to the physical appearance of the individual",
+  "original_text": "Mendel’s Laws¨Genotype¤Refers to the two alleles an individual has for a specific trait¤If identical, genotype is homozygous¤If different, genotype is heterozygous¨Phenotype¤Refers to the physical appearance of the individual",
+  "explanation": "Genotype refers to the specific combination of two alleles an individual possesses for a particular trait. If these alleles are identical, the genotype is homozygous; if they are different, the genotype is heterozygous. In contrast, phenotype refers to the physical appearance or observable characteristics of the individual resulting from their genotype.",
+  "questions": [
+    {
+      "q": "Which term describes the two alleles an individual has for a specific trait?",
+      "opts": [
+        "Phenotype",
+        "Genotype",
+        "Locus",
+        "Karyotype"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide defines genotype: 'Refers to the two alleles an individual has for a specific trait'."
+    },
+    {
+      "q": "What is the definition of a phenotype?",
+      "opts": [
+        "The set of alleles located on sex chromosomes.",
+        "The physical appearance of an individual.",
+        "The specific mutation rate of a gene.",
+        "The chromosome count in a gamete."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide defines phenotype: 'Refers to the physical appearance of the individual'."
+    }
+  ]
+}

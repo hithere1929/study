@@ -1,0 +1,34 @@
+{
+  "unit": 1,
+  "page": 44,
+  "filename": "Unit_1_3.txt",
+  "section_title": "The Process of Science",
+  "page_num_in_file": 10,
+  "slide_title": "The Scientific Method",
+  "original_text": "\u2013Results\u2013Scientists will either directly observe or will model using technology to collect data.\u2013Data is any result of an experiment, and can be observational or numerical\u2013Statistical Analysis is needed to determine if data results are statistically significant\n\u2013Conclusions \u2013After analyzing results, determine if hypothesis is supported or not\u2013Science is never ending; can lead to new questions\u2013Findings reported to scientific community through reports, journals, presentations, etc. \u2013Results must be replicable by scientific community",
+  "explanation": "This slide details how scientific results and conclusions are handled. To gather data\u2014defined as any result of an experiment, whether observational or numerical\u2014scientists make direct observations or use technological models. Statistical analysis is required to establish whether the collected data are statistically significant. After analysis, conclusions are drawn regarding whether the hypothesis is supported. Science is a continuous process that often generates new questions. Finally, results are shared with the scientific community via reports, journals, and presentations, and the findings must be replicable by other researchers.",
+  "questions": [
+    {
+      "q": "What is the purpose of statistical analysis in scientific experiments?",
+      "opts": [
+        "To design the experimental variables",
+        "To determine if data results are statistically significant",
+        "To prove that hypotheses are absolute facts",
+        "To write research publications automatically"
+      ],
+      "a": 1,
+      "exp": "The slide states: 'Statistical Analysis is needed to determine if data results are statistically significant'."
+    },
+    {
+      "q": "Which of the following is a requirement for experimental findings reported to the scientific community?",
+      "opts": [
+        "They must be kept confidential.",
+        "They must prove the hypothesis without any doubt.",
+        "They must be replicable by the scientific community.",
+        "They must only contain numerical data."
+      ],
+      "a": 2,
+      "exp": "The text states: 'Results must be replicable by scientific community'."
+    }
+  ]
+}

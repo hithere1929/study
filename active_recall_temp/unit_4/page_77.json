@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 77,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 28,
+  "slide_title": "Gene Mutations¨Point Mutations¤Involve a change in a single DNA nucleotide¤Change one codon to a different codon¤Effects on the protein vary:nNonfunctionalnReduced functionalitynUnaffected¨Frameshift Mutations¤One or two nucleotides are either inserted or deleted from DNA¤The protein is always rendered nonfunctionalnNormal:                   THE CAT ATE THE RATnAfter deletion:          THE ATA TET HER ATnAfter insertion:          THE CCA TAT ETH ERA T",
+  "original_text": "Gene Mutations¨Point Mutations¤Involve a change in a single DNA nucleotide¤Change one codon to a different codon¤Effects on the protein vary:nNonfunctionalnReduced functionalitynUnaffected¨Frameshift Mutations¤One or two nucleotides are either inserted or deleted from DNA¤The protein is always rendered nonfunctionalnNormal:                   THE CAT ATE THE RATnAfter deletion:          THE ATA TET HER ATnAfter insertion:          THE CCA TAT ETH ERA T",
+  "explanation": "Gene mutations can be classified into point mutations and frameshift mutations. Point mutations involve a change in a single DNA nucleotide, which changes a single codon to a different codon in the transcript. The resulting effects on the protein vary; it may be rendered completely nonfunctional, have reduced functionality, or remain unaffected. In contrast, frameshift mutations involve the insertion or deletion of one or two nucleotides from DNA. Because codons are read in groups of three, inserting or deleting one or two bases shifts the entire reading frame downstream of the mutation, which always renders the protein nonfunctional. The slide demonstrates this with a sentence analogy: the normal sequence 'THE CAT ATE THE RAT' becomes 'THE ATA TET HER AT' upon deletion of a letter, and 'THE CCA TAT ETH ERA T' upon insertion of a letter.",
+  "questions": [
+    {
+      "q": "How do point mutations and frameshift mutations differ in their structural effects and impact on protein function?",
+      "opts": [
+        "Point mutations change a single nucleotide and vary in effect, while frameshift mutations involve the insertion or deletion of 1-2 nucleotides and always render the protein nonfunctional.",
+        "Point mutations always render the protein nonfunctional, while frameshift mutations never affect protein activity.",
+        "Both point mutations and frameshift mutations involve the deletion of exactly three nucleotides.",
+        "Point mutations affect the 5' cap, while frameshift mutations delete the poly-A tail."
+      ],
+      "a": 0,
+      "exp": "Option A is correct because the slide explains that point mutations 'Involve a change in a single DNA nucleotide' and their 'Effects on the protein vary' (nonfunctional, reduced, or unaffected), while frameshift mutations insert or delete one or two nucleotides and the protein is 'always rendered nonfunctional.' The other options are incorrect."
+    },
+    {
+      "q": "Using the slide's word analogy, if the normal sequence is 'THE CAT ATE THE RAT', what does 'THE ATA TET HER AT' represent?",
+      "opts": [
+        "A point mutation changing one letter.",
+        "A frameshift mutation caused by a deletion.",
+        "A frameshift mutation caused by an insertion.",
+        "A silent mutation with no shift in reading frame."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide shows 'After deletion: THE ATA TET HER AT' as an illustration of a frameshift mutation. Option C is incorrect because insertion yields 'THE CCA TAT ETH ERA T'. The other options are incorrect."
+    }
+  ]
+}

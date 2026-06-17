@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 10,
+  "filename": "Unit_4_1.txt",
+  "section_title": "DNA Advances through 20th Century",
+  "page_num_in_file": 10,
+  "slide_title": "Historical Basis –Hershey-Chase",
+  "original_text": "Historical Basis –Hershey-Chase\nPhage\nBacterium\nRadioactive protein\nDNA\nEmpty protein shell\nPhage DNA\nCentrifuge\nPellet\nBatch 1: Radioactive protein labeled in yellow\nRadioactive DNA\nCentrifuge\nPellet\nThe radioactivity is in the pellet.\nThe radioactivity is in the liquid.\nBatch 2: Radioactive DNA labeled in green",
+  "explanation": "This slide displays a visual representation of the Hershey-Chase experiment, divided into two batches. In Batch 1, the phage's protein coats are radioactively labeled (yellow). Following infection, blending, and centrifugation, the radioactivity is found in the supernatant liquid containing the empty protein shells, meaning the protein did not enter the bacteria. In Batch 2, the phage's DNA is radioactively labeled (green). After the same procedure, the radioactivity is detected in the bacterial cell pellet at the bottom, showing that the DNA was successfully transferred inside the bacteria.",
+  "questions": [
+    {
+      "q": "In the visualized Hershey-Chase experiment, in which batch did the radioactivity end up in the bacterial pellet?",
+      "opts": [
+        "Batch 1 (Radioactive protein labeled in yellow)",
+        "Batch 2 (Radioactive DNA labeled in green)",
+        "Both Batch 1 and Batch 2",
+        "Neither Batch 1 nor Batch 2"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide shows that in Batch 2 (with radioactive DNA), the radioactivity is in the pellet. In Batch 1 (radioactive protein), the radioactivity is in the liquid supernatant. Options C and D are incorrect."
+    }
+  ]
+}

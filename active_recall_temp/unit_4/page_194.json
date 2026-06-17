@@ -1,0 +1,45 @@
+{
+  "unit": 4,
+  "page": 194,
+  "filename": "Unit_4_9.txt",
+  "section_title": "Mendelian Inheritance P2 - Genetic Disorders",
+  "page_num_in_file": 20,
+  "slide_title": "Extending the Range of Mendelian Genetics¨Several X-linked recessive disorders occur in humans:¤Color blindnessnThe allele for the blue-sensitive protein is autosomalnThe alleles for the red-and green-sensitive pigments are on the X chromosome.¤Menkes syndromenCaused by a defective allele on the X chromosomenDisrupts movement of the metal copper in and out of cells.nPhenotypes include kinky hair, poor muscle tone, seizures, and low body temperature¤Muscular dystrophynWasting away of the musclenCaused by the absence of the muscle protein dystrophin¤AdrenoleukodystrophynX-linked recessive disordernFailure of a carrier protein to move either an enzyme or very long chain fatty acid into peroxisomes.¤HemophilianAbsence or minimal presence of clotting factor VIII or clotting factor IXnAffected person’s blood either does not clot or clots very slowly.",
+  "original_text": "Extending the Range of Mendelian Genetics¨Several X-linked recessive disorders occur in humans:¤Color blindnessnThe allele for the blue-sensitive protein is autosomalnThe alleles for the red-and green-sensitive pigments are on the X chromosome.¤Menkes syndromenCaused by a defective allele on the X chromosomenDisrupts movement of the metal copper in and out of cells.nPhenotypes include kinky hair, poor muscle tone, seizures, and low body temperature¤Muscular dystrophynWasting away of the musclenCaused by the absence of the muscle protein dystrophin¤AdrenoleukodystrophynX-linked recessive disordernFailure of a carrier protein to move either an enzyme or very long chain fatty acid into peroxisomes.¤HemophilianAbsence or minimal presence of clotting factor VIII or clotting factor IXnAffected person’s blood either does not clot or clots very slowly.",
+  "explanation": "There are several notable X-linked recessive disorders in humans. In color blindness, the gene for the blue-sensitive pigment is autosomal, but the genes for red- and green-sensitive pigments are on the X chromosome. Menkes syndrome is caused by an X-linked defective allele that disrupts copper transport in and out of cells, leading to symptoms like kinky hair, poor muscle tone, seizures, and low body temperature. Muscular dystrophy involves muscle wasting caused by the absence of the structural protein dystrophin. Adrenoleukodystrophy is an X-linked recessive disorder where a carrier protein fails to transport an enzyme or very long-chain fatty acids into peroxisomes. Hemophilia is characterized by the absence or deficiency of clotting factor VIII or factor IX, which causes blood to clot very slowly or not at all.",
+  "questions": [
+    {
+      "q": "Which protein is missing in muscular dystrophy, causing the muscles to waste away?",
+      "opts": [
+        "Fibrillin",
+        "Elastin",
+        "Dystrophin",
+        "Collagen type I"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide explains muscular dystrophy is 'Caused by the absence of the muscle protein dystrophin'."
+    },
+    {
+      "q": "What is the molecular basis of Menkes syndrome, and what are its symptoms?",
+      "opts": [
+        "Absence of clotting factor VIII; causes slow blood clotting.",
+        "Defective X-linked allele disrupting copper transport; causes kinky hair, poor muscle tone, seizures, and low body temperature.",
+        "Failure of fatty acid transport into peroxisomes; causes skin aging.",
+        "Lack of red-sensitive pigments; causes color blindness."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states Menkes syndrome is 'Caused by a defective allele on the X chromosome' which 'Disrupts movement of the metal copper' and phenotypes include 'kinky hair, poor muscle tone, seizures, and low body temperature'."
+    },
+    {
+      "q": "Which proteins are deficient or absent in hemophilia, and what is the consequence?",
+      "opts": [
+        "Fibrillin-1; causes aortic weakness.",
+        "Dystrophin; causes muscle wasting.",
+        "Clotting factor VIII or IX; causes slow or absent blood clotting.",
+        "Elastin; causes cardiovascular disease."
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide states hemophilia is characterized by the 'Absence or minimal presence of clotting factor VIII or clotting factor IX' which causes blood to 'either not clot or clot very slowly'."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "u3_t8",
+  "title": "Cell Cycle",
+  "cheat_card": [
+    "<b>Interphase</b> is the time between cell divisions and has three parts: <b>G1</b> (growth to mature size), <b>S</b> (DNA replication, making cells 4n with sister chromatids), and <b>G2</b> (preparation for division). Cells can exit G1 to enter a non-dividing <b>G0 phase</b>.",
+    "<b>Mitosis</b> is nuclear division comprising four phases: <b>Prophase</b> (chromatin condenses, spindle forms), <b>Metaphase</b> (chromosomes align at the center), <b>Anaphase</b> (chromatids separate at the centromere), and <b>Telophase</b> (nuclei reform, chromosomes uncoil).",
+    "<b>Cytokinesis</b> divides the cytoplasm: animal cells use microfilaments to pinch the membrane at a <b>cleavage furrow</b>, while plant cells fuse Golgi-derived vesicles at the midline to form a <b>cell plate</b>.",
+    "The cell cycle is regulated by internal proteins called <b>cyclins</b>, extracellular <b>growth factors</b>, and checkpoints (G1, G2, Mitosis). The <b>p53 protein</b> stops the cycle at G1 to repair DNA or trigger programmed cell death (<b>apoptosis</b>) via <b>caspase</b> activation."
+  ],
+  "memory_anchor": "### Mitosis Phases Mnemonic: PMAT\n* **P**rophase: **P**ack (chromatin condenses into chromosomes; nuclear envelope dissolves).\n* **M**etaphase: **M**iddle (chromosomes align at the equator, held by kinetochore fibers).\n* **A**naphase: **A**part (chromatids pull apart towards opposite poles).\n* **T**elophase: **T**wo (two new nuclear envelopes form; cleavage furrow/cell plate begins).",
+  "flashcards": [
+    {
+      "q": "Explain what happens during the G1, S, G2, and G0 stages of Interphase.",
+      "a": "During G1, offspring cells grow to mature size. In S phase, DNA is replicated (synthesized), resulting in sister chromatids (cell becomes 4n). In G2, the cell prepares for cell division. Cells can also exit the cycle at G1 to enter G0, where they remain fully functional but do not copy DNA or divide (such as central nervous system cells)."
+    },
+    {
+      "q": "How does cytokinesis differ between animal cells and plant cells, and which structures are involved in each?",
+      "a": "In animal cells, cytokinesis occurs when microfilaments contract, pinching the cell membrane inward at the cleavage furrow until the cell divides. In plant cells, vesicles from the Golgi apparatus align at the midline and fuse to form a cell plate, which eventually develops into a new cell wall."
+    },
+    {
+      "q": "Describe the roles of p53, cyclins, and caspases in regulating cell division and cell death.",
+      "a": "Cyclins are internal signaling proteins that fluctuate to control transitions between cell cycle phases. p53 is a 53kDa protein at the G1 checkpoint that detects DNA damage, halting the cycle for repair or initiating apoptosis if repair is impossible. Caspases are a class of enzymes that, once signaled, carry out the execution phase of apoptosis (programmed cell death)."
+    }
+  ],
+  "outline_blanks": "Eukaryotic cells divide via the cell cycle, spending most time in [[Interphase]], which consists of G1, S (where [[DNA]] is replicated), and G2 phases. Nuclear division occurs in four steps: prophase, metaphase, anaphase, and [[telophase]], followed by [[cytokinesis]] which uses a cleavage furrow in animal cells and a [[cell plate]] in plant cells."
+}

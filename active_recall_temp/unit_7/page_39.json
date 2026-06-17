@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 39,
+  "filename": "Unit_7_3.txt",
+  "section_title": "Plant Control of Growth Responses",
+  "page_num_in_file": 4,
+  "slide_title": "Plant Hormones: Signal Transduction Components",
+  "original_text": "Plant Hormones Signal transduction involves the following: Receptors-proteins activated by a specific signal; usually found on cell exterior Transduction pathway  a series of relay proteins or enzymes that amplify and transform the signal to one understood by the machinery of the cell Cellular response  the result of the transduction pathway",
+  "explanation": "Signal transduction in plants is the cellular process that links an environmental stimulus or chemical messenger to a physiological response. This process consists of three main components: 1) Receptors: proteins, typically located on the outer surface of the cell membrane, that are activated when they bind to a specific molecular signal. 2) Transduction pathway: a series of intracellular relay proteins or enzymes that amplify and convert the signal into a molecular message that the cell's internal machinery can interpret. 3) Cellular response: the physical, physiological, or biochemical result of the transduction pathway, such as alterations in gene expression or enzyme activity.",
+  "questions": [
+    {
+      "q": "Which part of the signal transduction pathway is responsible for amplifying and transforming a signal inside the cell?",
+      "opts": [
+        "Receptor proteins",
+        "Waxy cuticle",
+        "Transduction pathway",
+        "Cellular response"
+      ],
+      "a": 2,
+      "exp": "The transduction pathway consists of a series of relay proteins or enzymes that amplify and transform the signal so the cell's machinery can act on it."
+    },
+    {
+      "q": "Where are the receptor proteins in plant signal transduction typically located?",
+      "opts": [
+        "Inside the chloroplasts",
+        "On the exterior of the cell",
+        "Within the secondary cell wall",
+        "In the center of the pith"
+      ],
+      "a": 1,
+      "exp": "Receptor proteins are typically located on the cell exterior (cell membrane) to detect incoming chemical signals."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 20,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 4,
+  "slide_title": "“Plant” and “Animal” Cells",
+  "original_text": "“Plant” and “Animal” Cells\nPlant Cells\nGeneralized structure of basic plant cells\nNot all cells contain all features; some specialized cells will lack certain organelles\nPoints of difference with animal cells will be pointed out",
+  "explanation": "This page details the generalized structure of basic plant cells. Like animal cells, specialized plant cells may lack certain organelles. Key points of difference between plant and animal cells will be highlighted throughout this unit.",
+  "questions": [
+    {
+      "q": "What does the slide state about the relationship between plant and animal cell organelles?",
+      "opts": [
+        "They are identical with no differences.",
+        "Points of difference with animal cells will be pointed out.",
+        "Plant cells contain all organelles while animal cells contain none.",
+        "Plant cells do not have generalized structures."
+      ],
+      "a": 1,
+      "exp": "The slide states that 'points of difference with animal cells will be pointed out' during the study of plant cells."
+    }
+  ]
+}

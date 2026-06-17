@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 171,
+  "filename": "Unit_4_8.txt",
+  "section_title": "Mendelian Inheritance P1 - Mendelian Genetics",
+  "page_num_in_file": 29,
+  "slide_title": "Mendel’s Laws¨PunnetSquares¤Table listing all possible genotypes resulting from a crossnAll possible sperm genotypes are lined up on one sidenAll possible egg genotypes are lined up on the other sidenEvery possible zygote genotypes are placed within the squares¤Allows us to easily calculate probability, of genotypes and phenotypes among the offspring¤Punnett square in next slide shows a 50% (or ½) chance of a parent having the following alleles:nThe chance of E = ½nThe chance of e = ½¤An offspring will inherit:nThe chance of EE =½ x ½=¼nThe chance of Ee=½ x ½=¼nThe chance of eE=½ x ½=¼nThe chance of ee=½ x ½=¼",
+  "original_text": "Mendel’s Laws¨PunnetSquares¤Table listing all possible genotypes resulting from a crossnAll possible sperm genotypes are lined up on one sidenAll possible egg genotypes are lined up on the other sidenEvery possible zygote genotypes are placed within the squares¤Allows us to easily calculate probability, of genotypes and phenotypes among the offspring¤Punnett square in next slide shows a 50% (or ½) chance of a parent having the following alleles:nThe chance of E = ½nThe chance of e = ½¤An offspring will inherit:nThe chance of EE =½ x ½=¼nThe chance of Ee=½ x ½=¼nThe chance of eE=½ x ½=¼nThe chance of ee=½ x ½=¼",
+  "explanation": "Punnett squares are tables that list all possible genotypes resulting from a genetic cross. To set up a Punnett square, all possible sperm genotypes from one parent are lined up on one side, and all possible egg genotypes from the other parent are lined up on the other side. The possible zygote genotypes are filled in the grid. This tool allows the calculation of the probability of genotypes and phenotypes in the offspring. For example, if there is a 50% (or 1/2) chance of inheriting allele E and a 50% chance of inheriting e, the probability of offspring genotypes are: EE = 1/2 * 1/2 = 1/4, Ee = 1/4, eE = 1/4, and ee = 1/4.",
+  "questions": [
+    {
+      "q": "How is a Punnett square set up to calculate offspring genotypes?",
+      "opts": [
+        "Sperm genotypes are placed inside the squares and egg genotypes are ignored.",
+        "Sperm genotypes are lined up on one side, egg genotypes on the other, and zygote genotypes are filled in the squares.",
+        "Somatic cell genotypes are averaged.",
+        "Homologous pairs are flipped 180 degrees."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide explains: 'All possible sperm genotypes are lined up on one side; All possible egg genotypes are lined up on the other side; Every possible zygote genotypes are placed within the squares.'"
+    },
+    {
+      "q": "If heterozygous parents (Ee x Ee) cross, what is the probability of obtaining an offspring with the genotype 'ee' based on allele probabilities?",
+      "opts": [
+        "1/2",
+        "1/4",
+        "3/4",
+        "1/8"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the chance of inheriting 'e' from one parent is 1/2, and from the other parent is 1/2. The joint probability is 1/2 * 1/2 = 1/4 (or 25%)."
+    }
+  ]
+}

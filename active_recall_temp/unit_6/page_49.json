@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 49,
+  "filename": "Unit_6_4.txt",
+  "section_title": "Fungi",
+  "page_num_in_file": 13,
+  "slide_title": "Symbiotic Relationships of Fungi\u00a8Lichen\u00a4Fungus & Cyanobacterium or green algaenFungal hyphae penetrates photosynthetic symbiontnNutrients transferred to fungusnPossibly mutualistic but fungus more parasiticnPhotosynthetic symbiont independentnFungal symbiont cannot grow alone\u00a43 morphological typesnCompact crustose \u2013found on bare rocks or tree barknFruticose \u2013shrublikenFoliose \u2013leaflike\u00a4Can live in extreme conditions\u00a4Sensitive indicators of air pollution\u00a8Mycorrhizae\u00a4Discussed earlier",
+  "original_text": "Symbiotic Relationships of Fungi\u00a8Lichen\u00a4Fungus & Cyanobacterium or green algaenFungal hyphae penetrates photosynthetic symbiontnNutrients transferred to fungusnPossibly mutualistic but fungus more parasiticnPhotosynthetic symbiont independentnFungal symbiont cannot grow alone\u00a43 morphological typesnCompact crustose \u2013found on bare rocks or tree barknFruticose \u2013shrublikenFoliose \u2013leaflike\u00a4Can live in extreme conditions\u00a4Sensitive indicators of air pollution\u00a8Mycorrhizae\u00a4Discussed earlier",
+  "explanation": "Lichens represent a symbiotic relationship between a fungus and a photosynthetic partner, which can be either a cyanobacterium or green algae. Fungal hyphae penetrate the photosynthetic host cell to transfer nutrients back to the fungus. Although historically considered mutualistic, the relationship may be more parasitic because the photosynthetic partner can live independently, whereas the fungal partner cannot grow alone. Lichens exhibit three morphological growth forms: 1) compact crustose (often found on bare rocks or tree bark), 2) fruticose (shrublike), and 3) foliose (leaflike). Lichens are highly resilient, allowing them to live in extreme environments, but they are also highly sensitive indicators of air pollution. Mycorrhizae are another major symbiotic relationship of fungi, as discussed previously.",
+  "questions": [
+    {
+      "q": "Which of the following is NOT one of the three morphological types of lichens?",
+      "opts": [
+        "Compact crustose",
+        "Fruticose",
+        "Foliose",
+        "Septate"
+      ],
+      "a": 3,
+      "exp": "The three morphological types of lichens listed are crustose, fruticose, and foliose. Septate refers to walled-off hyphae in fungi."
+    },
+    {
+      "q": "Why is the lichen symbiosis considered to lean towards parasitism by the fungus?",
+      "opts": [
+        "The fungus digests the photosynthetic symbiont's nucleus.",
+        "The photosynthetic symbiont cannot grow alone, but the fungus can.",
+        "The photosynthetic symbiont can grow independently, but the fungal partner cannot grow alone and extracts nutrients from the host.",
+        "The fungus introduces viral pathogens into the green algae."
+      ],
+      "a": 2,
+      "exp": "The notes state: 'Possibly mutualistic but fungus more parasitic' because the photosynthetic partner is independent but the 'Fungal symbiont cannot grow alone' and nutrients are transferred to the fungus."
+    },
+    {
+      "q": "Why are lichens ecologically significant indicators?",
+      "opts": [
+        "They indicate changes in water salinity.",
+        "They are sensitive indicators of air pollution.",
+        "They reflect changes in atmospheric nitrogen gas.",
+        "They track the abundance of soil saprotrophs."
+      ],
+      "a": 1,
+      "exp": "The notes state that lichens are 'Sensitive indicators of air pollution'."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 45,
+  "filename": "Unit_7_3.txt",
+  "section_title": "Plant Control of Growth Responses",
+  "page_num_in_file": 10,
+  "slide_title": "Plant Hormones: Abscisic Acid (ABA)",
+  "original_text": "Plant Hormones Abscisic acid (ABA) Produced by any green tissue (i.e., tissue containing chloroplasts) Sometimes called the stress hormone nInitiates formation and maintenance of bud dormancy nGermination occurs when ABA levels drop and gibberellins increase nBrings about the closure of stomata",
+  "explanation": "Abscisic acid (ABA) is synthesized by green plant tissues that contain chloroplasts. Often referred to as the stress hormone, ABA is crucial for survival under unfavorable conditions. It initiates and maintains bud and seed dormancy, preventing premature germination. Germination proceeds when ABA levels decrease and gibberellin levels rise. ABA also protects the plant against water loss during drought by inducing stomatal closure.",
+  "questions": [
+    {
+      "q": "Which tissue type is responsible for producing Abscisic acid (ABA)?",
+      "opts": [
+        "Dead wood cells (secondary xylem)",
+        "Any green tissue containing chloroplasts",
+        "Only root cap epidermal cells",
+        "The waxy cuticle layer"
+      ],
+      "a": 1,
+      "exp": "ABA is produced by green tissues containing chloroplasts."
+    },
+    {
+      "q": "Under what hormonal conditions will a dormant seed begin to germinate?",
+      "opts": [
+        "When ABA levels increase and gibberellins drop",
+        "When ABA levels drop and gibberellins increase",
+        "When ethylene gas levels rise and cytokinins drop",
+        "When auxin and cytokinins are present in equal ratios"
+      ],
+      "a": 1,
+      "exp": "Seed germination occurs when the inhibitory ABA levels drop and growth-promoting gibberellins increase."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "u7_t4",
+  "title": "Plant Hormones",
+  "cheat_card": [
+    "<b>Auxins</b>: Produced in the shoot apical meristem; promotes apical dominance, root/fruit growth, and phototropism. Moves to the <b>shady side</b> of stems, activates <b>proton pumps (H+)</b> to loosen cell walls, allowing turgor-driven cell elongation.",
+    "<b>Gibberellins</b>: Growth-promoting hormones causing <b>stem elongation</b> (e.g., gibberellic acid) and breaking seed and bud dormancy.",
+    "<b>Cytokinins</b>: Promote <b>cell division</b> (mitosis); found in dividing root tissues, seeds, and fruits. Interaction with auxin coordinates tissue differentiation and prevents senescence.",
+    "<b>Abscisic Acid (ABA)</b>: Stress hormone that initiates and maintains <b>bud/seed dormancy</b> and brings about <b>stomatal closure</b> during drought conditions.",
+    "<b>Ethylene</b>: Gaseous hormone synthesized from methionine; stimulates <b>cellulase</b> to promote <b>abscission</b> (leaf, flower, or fruit drop) and fruit ripening."
+  ],
+  "memory_anchor": "<h3>Summary of 5 Major Plant Hormones</h3><table border='1' style='border-collapse: collapse; width: 100%; text-align: left;'><thead><tr style='background: var(--surface2);'><th>Hormone</th><th>Primary Synthesis Location</th><th>Key Biological Effects</th></tr></thead><tbody><tr><td><b>Auxin</b></td><td>Shoot apical meristem</td><td>Apical dominance, phototropism, proton pump activation</td></tr><tr><td><b>Gibberellin</b></td><td>Apical buds, roots, seeds</td><td>Stem elongation, breaks seed/bud dormancy</td></tr><tr><td><b>Cytokinin</b></td><td>Root tips, dividing tissues</td><td>Promotes cell division (mitosis), prevents senescence</td></tr><tr><td><b>Abscisic Acid (ABA)</b></td><td>Green tissues (chloroplasts)</td><td>Stress hormone, stomatal closure, maintains dormancy</td></tr><tr><td><b>Ethylene</b></td><td>Ripening tissues, aging parts</td><td>Gas, fruit ripening, leaf abscission (cellulase)</td></tr></tbody></table>",
+  "flashcards": [
+    {
+      "q": "Describe the cellular mechanism of auxin-induced stem elongation during phototropism.",
+      "a": "Unidirectional light causes auxin to migrate to the shaded side of the stem. Auxin binds to membrane receptors, activating proton pumps that pump H+ out of the cell into the cell wall. The acidic environment loosens the cell wall fibers, water enters by osmosis, increasing turgor pressure, and the cells elongate, causing the stem to bend toward the light."
+    },
+    {
+      "q": "Identify the gaseous plant hormone and outline its major physiological roles.",
+      "a": "Ethylene is the gaseous plant hormone. It stimulates cellulase to promote abscission (leaf, fruit, or flower drop), accelerates fruit ripening (softening and flavor/odor production), inhibits axillary buds, and suppresses stem/root elongation."
+    },
+    {
+      "q": "Contrast the roles of gibberellins and abscisic acid (ABA) in seed dormancy.",
+      "a": "Abscisic acid (ABA) acts as a stress hormone that initiates and maintains seed and bud dormancy to prevent germination in unfavorable conditions. In contrast, gibberellins break dormancy, promoting germination and stem elongation."
+    }
+  ],
+  "outline_blanks": "Plants coordinate growth using chemical signals. Stems bend toward light because [[auxin]] accumulates on the shady side, activating [[proton pumps]] to loosen cell walls. During water stress, [[abscisic acid]] triggers stomatal closure, while the gaseous hormone [[ethylene]] stimulates cellulase to promote fruit ripening and leaf abscission."
+}

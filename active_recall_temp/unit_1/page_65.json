@@ -1,0 +1,34 @@
+{
+  "unit": 1,
+  "page": 65,
+  "filename": "Unit_1_4.txt",
+  "section_title": "Microscopy",
+  "page_num_in_file": 15,
+  "slide_title": "SEM",
+  "original_text": "\u2013Scanning Electron Microscope\u2013Useselectronsratherthanvisiblelightasilluminationsource\u2013Wavelength of electrons based on energy sent through the filament\u2013Much smaller wavelength than visible light\u2013Allowsgreater resolution than light microscopy\u2013SEM scans only the surface of the object of interest\u2013Electronsdo not pass through the sample \u2013cannot see inside\u2013TEMusedforthispurpose\u2013Images only appear in black and white\u2013Why?\u2013Color is based upon visible spectrum. Electron wavelength outside of that spectrum",
+  "explanation": "This slide introduces the Scanning Electron Microscope (SEM). The SEM uses electrons rather than visible light as its illumination source. The wavelength of these electrons is determined by the energy sent through the filament, and is much smaller than the wavelength of visible light, allowing the SEM to achieve a much greater resolution than light microscopy. The SEM only scans the surface of the object; because electrons do not pass through the sample, it cannot be used to see inside (a Transmission Electron Microscope, or TEM, is used for that purpose). SEM images only appear in black and white because color is a property of the visible light spectrum, whereas the electron wavelengths used in SEM are outside that spectrum.",
+  "questions": [
+    {
+      "q": "Why does a Scanning Electron Microscope (SEM) provide much higher resolution than a light microscope?",
+      "opts": [
+        "It uses wider glass lenses.",
+        "Electrons have a much smaller wavelength than visible light.",
+        "It produces color images that enhance contrast.",
+        "It uses light from a tungsten bulb."
+      ],
+      "a": 1,
+      "exp": "The text explains that the electron wavelength is 'Much smaller wavelength than visible light' which 'Allows greater resolution than light microscopy.'"
+    },
+    {
+      "q": "What is the difference between SEM and TEM as described on this slide?",
+      "opts": [
+        "SEM sees inside the sample, while TEM only scans the surface.",
+        "SEM scans only the surface of the object, whereas TEM is used to see inside the sample.",
+        "SEM produces color images, whereas TEM produces black and white.",
+        "SEM uses visible light, while TEM uses laser beams."
+      ],
+      "a": 1,
+      "exp": "The text states: 'SEM scans only the surface... Electrons do not pass through the sample \u2013 cannot see inside \u2013 TEM used for this purpose'."
+    }
+  ]
+}

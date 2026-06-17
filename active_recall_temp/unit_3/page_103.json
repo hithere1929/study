@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 103,
+  "filename": "Unit_3_5.txt",
+  "section_title": "Stem Cells & Cancer",
+  "page_num_in_file": 9,
+  "slide_title": "G1Checkpoint",
+  "original_text": "G1Checkpoint\nPrimary checkpoint of the cell cycle\np53\nProtein 53kDa weight\nRecognizes DNA damage and stops cell cycle at G1\nTries to initiate DNA repair\nIf unsuccessful, or if p53 concentration builds, apoptosisis initiated\nApoptosis= Programmed cell death",
+  "explanation": "The G1 checkpoint is the primary regulatory checkpoint of the cell cycle. A key protein active here is p53 (which has a molecular weight of 53 kilodaltons). The p53 protein recognizes DNA damage and stops the cell cycle at G1 to initiate DNA repair. If this repair is unsuccessful, or if p53 levels build up due to persistent damage, p53 initiates apoptosis, which is programmed cell death.",
+  "questions": [
+    {
+      "q": "What protein detects DNA damage at the G1 checkpoint and can trigger either DNA repair or programmed cell death?",
+      "opts": [
+        "BRCA1",
+        "p53",
+        "ras",
+        "Caspase"
+      ],
+      "a": 1,
+      "exp": "p53 is a 53kDa protein that recognizes DNA damage and halts the cell cycle at G1, initiating DNA repair or apoptosis if repair is unsuccessful."
+    },
+    {
+      "q": "What is apoptosis?",
+      "opts": [
+        "Uncontrolled cell division",
+        "Programmed cell death",
+        "Synthesis of sister chromatids",
+        "The process of cellular differentiation"
+      ],
+      "a": 1,
+      "exp": "The slide defines apoptosis as 'Programmed cell death'."
+    }
+  ]
+}

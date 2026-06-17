@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 40,
+  "filename": "Unit_4_3.txt",
+  "section_title": "DNA Replication, Transcription, Translation",
+  "page_num_in_file": 13,
+  "slide_title": "Flow off Genetic Information¨Genes direct protein synthesis through ribonucleic acid (RNA) intermediate¤Proteins responsible for phenotypic traits¨Central Dogma of Molecular Biology:¤Flow of genetic information is: DNA --------------àRNA ------------àProtein¤DNA acts as template for RNA synthesis during process of transcription¤RNA directs assembly of proteins (protein synthesis) during translationnLanguage of genetic code TRANSLATED to language of proteinnAKA gene expression\ntranscriptiontranslation",
+  "original_text": "Flow off Genetic Information¨Genes direct protein synthesis through ribonucleic acid (RNA) intermediate¤Proteins responsible for phenotypic traits¨Central Dogma of Molecular Biology:¤Flow of genetic information is: DNA --------------àRNA ------------àProtein¤DNA acts as template for RNA synthesis during process of transcription¤RNA directs assembly of proteins (protein synthesis) during translationnLanguage of genetic code TRANSLATED to language of proteinnAKA gene expression\ntranscriptiontranslation",
+  "explanation": "Genes direct the synthesis of proteins through an intermediate molecule called ribonucleic acid (RNA). The synthesized proteins are ultimately responsible for an organism's physical traits (phenotype). The Central Dogma of Molecular Biology states that the flow of genetic information is: DNA -> RNA -> Protein. This process, also known as gene expression, occurs in two main steps: First, during transcription, DNA acts as a template for synthesizing RNA. Second, during translation, RNA directs the assembly of amino acids to build proteins, effectively translating the language of the genetic code into the language of proteins.",
+  "questions": [
+    {
+      "q": "According to the Central Dogma of Molecular Biology, what is the flow of genetic information?",
+      "opts": [
+        "Protein -> RNA -> DNA",
+        "RNA -> DNA -> Protein",
+        "DNA -> RNA -> Protein",
+        "DNA -> Protein -> RNA"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide defines the Central Dogma of Molecular Biology as: 'DNA -> RNA -> Protein.' Option A is the reverse, and Options B and D are incorrect paths."
+    },
+    {
+      "q": "What process describes DNA acting as a template for RNA synthesis?",
+      "opts": [
+        "Replication",
+        "Transcription",
+        "Translation",
+        "Transformation"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'DNA acts as template for RNA synthesis during process of transcription.' Translation (Option C) is RNA directing protein synthesis. Replication (Option A) is copying DNA. Transformation (Option D) is the intake of foreign DNA."
+    }
+  ]
+}

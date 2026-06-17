@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 19,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 19,
+  "slide_title": "2: Chemical Reactions",
+  "original_text": "2: Chemical Reactions¨Chemical reaction: one or more substances change to produce one or more different substances¤Energy is absorbed or released when chemical bonds are broken and new ones are formed¤Generally written with starting material (reactants) on the left and the new material (products) on the right\nWhen the arrow is uni-directional (à) reaction only occurs in one direction (irreversible)\nWhen arrow is bi-directional (⇄) reaction can occur in either direction (reversible)¨Occur constantly in the body: energy supplying substances are broken down to CO2, H2O, other products; releasing energy for cells to do work¤Sum = metabolism",
+  "explanation": "A chemical reaction occurs when one or more substances change to produce one or more different substances. During a chemical reaction, energy is either absorbed or released as chemical bonds are broken and new bonds are formed. In chemical equations, the starting materials, called reactants, are written on the left, while the resulting substances, called products, are on the right. A uni-directional arrow (-->) denotes an irreversible reaction that only occurs in one direction, whereas a bi-directional arrow indicates a reversible reaction that can proceed in either direction. Chemical reactions occur continuously in living bodies, such as when energy-supplying molecules are broken down into CO2, H2O, and other products to release energy for cellular work. The sum of all these chemical reactions in an organism is known as metabolism.",
+  "questions": [
+    {
+      "q": "What term refers to the sum of all chemical reactions that occur within a living organism?",
+      "opts": [
+        "Catabolism",
+        "Metabolism",
+        "Anabolism",
+        "Respiration"
+      ],
+      "a": 1,
+      "exp": "The sum of all chemical reactions occurring in the body (such as breaking down energy-supplying substances) is defined as metabolism."
+    },
+    {
+      "q": "What does a bi-directional arrow in a chemical equation represent?",
+      "opts": [
+        "The reaction is irreversible.",
+        "The reaction can occur in either direction (reversible).",
+        "The reaction is endothermic only.",
+        "The reaction requires a metal catalyst."
+      ],
+      "a": 1,
+      "exp": "A bi-directional arrow indicates that the reaction is reversible, meaning it can proceed in both the forward and reverse directions."
+    }
+  ]
+}

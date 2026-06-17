@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 13,
+  "filename": "Unit_3_1.txt",
+  "section_title": "Cell Biology",
+  "page_num_in_file": 13,
+  "slide_title": "Basic Types of Cells",
+  "original_text": "Basic Types of Cells\n2basic typesof cells:\nProkaryotes: organisms that lackmembrane-bound nucleus and membrane-bound organelles\nDNA concentrated in an area called nucleoid\nDivided into 2 Domains: Bacteria& Archaea\nBacteria: organisms that are similar to first cellular life forms\nArchaea: organisms more closely related to eukaryotic cells\nEukaryotes: organisms composed of one or more cells that havea nucleus & membrane-bound organelles\nOrganelle: sub-cellular structure; well-defined, intracellular bodies that perform specific functions for the cell\nPerform functions for the cell as organs perform functions for the body\nCells generally largerthan those of prokaryotes",
+  "explanation": "Cells are classified into two basic types: prokaryotes and eukaryotes. Prokaryotes lack a membrane-bound nucleus and membrane-bound organelles; their DNA is concentrated in a region called the nucleoid. Prokaryotes are divided into two domains: Bacteria (which are similar to the first cellular life forms) and Archaea (which are more closely related to eukaryotes). Eukaryotes are organisms composed of one or more cells that contain a true nucleus and membrane-bound organelles. Organelles are sub-cellular intracellular bodies that perform specific functions, analogous to organs in a body. Eukaryotic cells are generally larger than prokaryotic cells.",
+  "questions": [
+    {
+      "q": "Where is the DNA concentrated in prokaryotic cells?",
+      "opts": [
+        "Nucleus",
+        "Nucleolus",
+        "Nucleoid",
+        "Nuclear matrix"
+      ],
+      "a": 2,
+      "exp": "In prokaryotes, the DNA is concentrated in a region called the nucleoid."
+    },
+    {
+      "q": "Which two Domains contain prokaryotic organisms?",
+      "opts": [
+        "Bacteria and Eukaryota",
+        "Bacteria and Archaea",
+        "Archaea and Eukaryota",
+        "Protista and Fungi"
+      ],
+      "a": 1,
+      "exp": "Prokaryotes are divided into two Domains: Bacteria and Archaea."
+    }
+  ]
+}

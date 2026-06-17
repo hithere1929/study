@@ -1,0 +1,23 @@
+{
+  "unit": 5,
+  "page": 49,
+  "filename": "Unit_5_2.txt",
+  "section_title": "How Populations Evolve",
+  "page_num_in_file": 28,
+  "slide_title": "Maintenance of Diversity",
+  "original_text": "Maintenance of Diversity",
+  "explanation": "This is a separator slide indicating the end of the sub-topic concerning the maintenance of genetic diversity in populations.",
+  "questions": [
+    {
+      "q": "What is the text on the separator slide on page 49?",
+      "opts": [
+        "Maintenance of Diversity",
+        "How Populations Evolve",
+        "Natural Selection Processes",
+        "Speciation and Macroevolution"
+      ],
+      "a": 0,
+      "exp": "The slide text reads 'Maintenance of Diversity'."
+    }
+  ]
+}

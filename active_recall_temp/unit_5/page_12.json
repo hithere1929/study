@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 12,
+  "filename": "Unit_5_1.txt",
+  "section_title": "Darwin & Evidence for Evolution",
+  "page_num_in_file": 12,
+  "slide_title": "Darwin\u2019s Theory of Evolution",
+  "original_text": "Darwin\u2019s Theory of Evolution\n\u00a8Organisms have Heritable Variation\n\u00a4Darwin emphasized that individuals from a population vary in their:\n   nFunctional characteristics\n   nPhysical characteristics\n   nBehavioral characteristics\n\u00a4He proposed that these variations:\n   nOccur randomly\n   nAre essential to the natural selection process\n   nAllow adaptation to the environment over time\n\u00a8Organisms Compete for Resources\n\u00a4Environment cannot support survival of all offspring",
+  "explanation": "Darwin emphasized that individuals within any population vary across several domains, including functional, physical, and behavioral characteristics. He argued that these variations occur randomly, are indispensable for the natural selection process to operate, and enable the population to adapt to its environment over generations. Alongside variation, resource competition is a driver of evolutionary change, because the carrying capacity of the environment is insufficient to support the survival of all offspring produced, leading to a struggle for survival.",
+  "questions": [
+    {
+      "q": "In which characteristics did Darwin emphasize that individuals within a population vary?",
+      "opts": [
+        "Only physical traits",
+        "Only behavioral traits",
+        "Functional, physical, and behavioral traits",
+        "Only chemical and molecular structures"
+      ],
+      "a": 2,
+      "exp": "The notes list three areas of individual variation within a population: functional, physical, and behavioral characteristics."
+    },
+    {
+      "q": "Why do organisms compete for resources in nature according to Darwin's observations?",
+      "opts": [
+        "Because variations are not inherited.",
+        "Because the environment cannot support the survival of all offspring produced.",
+        "Because organisms strive to become more complex.",
+        "Because competition prevents random variations from occurring."
+      ],
+      "a": 1,
+      "exp": "The notes state that organisms compete for resources because the environment cannot support the survival of all offspring."
+    }
+  ]
+}

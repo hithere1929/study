@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 163,
+  "filename": "Unit_7_9.txt",
+  "section_title": "Sense Organs",
+  "page_num_in_file": 3,
+  "slide_title": "Sensory Receptors: Classification & Transduction",
+  "original_text": "Sensory Receptors Sensory receptors Specialized cells capable of detecting changes in internal or external conditions, and of communicating that information to the central nervous system Capable of facilitating sensory transduction Conversion of an event (stimulus) occurring in the environment into a nerve impulse There is no difference between the nerve impulses carried by different types of sensory nerves Perceptions Any sensory stimuli of which humans, and perhaps other animals, become conscious Chemoreceptors Sensory receptors responsible for taste and smell Photoreceptors Sensory receptors responsible for responding to light Mechanoreceptors Sensory receptors stimulated by mechanical forces, such as pressure Thermoreceptors Sensory receptors stimulated by changes in temperature",
+  "explanation": "Sensory receptors are specialized cells that detect environmental changes and transmit this information to the CNS. They perform sensory transduction, converting an environmental stimulus into a nerve impulse. All nerve impulses are identical; sensory differences are determined by the brain pathway. Perceptions are stimuli of which an organism becomes consciously aware. Receptors are classified by stimulus: 1) Chemoreceptors: respond to chemicals (taste/smell). 2) Photoreceptors: respond to light. 3) Mechanoreceptors: respond to mechanical forces (pressure/stretch). 4) Thermoreceptors: respond to temperature changes.",
+  "questions": [
+    {
+      "q": "What is sensory transduction?",
+      "opts": [
+        "The propagation of an action potential along myelinated axons",
+        "The conversion of an environmental stimulus into a nerve impulse by a sensory receptor",
+        "The integration of excitatory and inhibitory signals in the dendrites",
+        "The fusion of synaptic vesicles with the presynaptic membrane"
+      ],
+      "a": 1,
+      "exp": "Sensory transduction is the physiological process where sensory receptors convert physical or chemical environmental stimuli into electrical nerve impulses."
+    },
+    {
+      "q": "If all nerve impulses are identical, how does the brain perceive different sensations like light and sound?",
+      "opts": [
+        "The impulses carry different voltages depending on the stimulus.",
+        "The brain interprets sensations based on the specific nerve pathway and cortical region that receives the impulses.",
+        "Receptors use different types of neurotransmitters to encode signals.",
+        "Different types of action potentials are generated for each sense."
+      ],
+      "a": 1,
+      "exp": "Because all nerve impulses are identical, the brain distinguishes sensory modalities based on the specific nerve pathway and target area of the cerebral cortex where the signals arrive."
+    },
+    {
+      "q": "Match the receptor type with its stimulus: pressure, temperature, chemicals, light.",
+      "opts": [
+        "Chemoreceptors-light; Photoreceptors-pressure; Mechanoreceptors-chemicals; Thermoreceptors-temperature",
+        "Chemoreceptors-chemicals; Photoreceptors-light; Mechanoreceptors-pressure; Thermoreceptors-temperature",
+        "Chemoreceptors-temperature; Photoreceptors-chemicals; Mechanoreceptors-light; Thermoreceptors-pressure",
+        "Chemoreceptors-pressure; Photoreceptors-temperature; Mechanoreceptors-chemicals; Thermoreceptors-light"
+      ],
+      "a": 1,
+      "exp": "Chemoreceptors respond to chemicals, photoreceptors to light, mechanoreceptors to mechanical force (pressure), and thermoreceptors to temperature."
+    }
+  ]
+}

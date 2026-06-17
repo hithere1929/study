@@ -1,0 +1,27 @@
+{
+  "id": "u1_t3",
+  "title": "Scientific Method",
+  "cheat_card": [
+    "The <b>Scientific Method</b> is a standardized series of steps: <b>Make an Observation, Ask a Question, Make a Hypothesis, Perform Experiments, Collect/Analyze Data</b>, and <b>Make Conclusions</b>.",
+    "A <b>hypothesis</b> is a testable, possible explanation for a natural event formulated using <b>inductive reasoning</b> (combining specific facts into generalizations), while experimental predictions are made using <b>deductive reasoning</b> ('if-then' logic).",
+    "A controlled <b>experimental design</b> isolates a single <b>experimental variable</b> (changed factor) applied to the <b>test group</b>, and compares it to a <b>control group</b> where all other factors remain constant.",
+    "Data collected during an experiment can be <b>qualitative</b> (descriptive) or <b>quantitative</b> (numerical) and must undergo <b>statistical analysis</b> to determine if the differences are significant and <b>replicable</b> by others.",
+    "A <b>scientific theory</b> (like Cell Theory or Evolution) is much broader in scope than a hypothesis and is supported by a large, growing body of evidence. When supported over long periods, it is called a <b>principle</b> or <b>law</b>."
+  ],
+  "memory_anchor": "### Hypothesis vs. Scientific Theory:\n| Aspect | Hypothesis | Scientific Theory |\n|---|---|---|\n| **Scope** | Narrow; focuses on a specific observation or question. | Broad; explains a wide range of natural phenomena. |\n| **Evidence Base** | Proposed before extensive testing; based on initial observations. | Supported by a large, growing body of diverse experimental evidence. |\n| **Reasoning** | Formulated using **inductive reasoning** to generalize facts. | Synthesizes multiple supported hypotheses over time. |\n| **Examples** | \"Flashlight bulb is burned out\" or \"Camouflage protects mice.\" | **Cell Theory** (all life has cells) or the **Theory of Evolution**. |",
+  "flashcards": [
+    {
+      "q": "Distinguish between the roles of inductive and deductive reasoning as they are applied in the scientific method.",
+      "a": "Inductive reasoning is creative thinking used to combine isolated, specific observations into a cohesive, general hypothesis. Deductive reasoning flows from a general premise to specific predicted outcomes (often in an \"if-then\" format) used to design tests for the hypothesis."
+    },
+    {
+      "q": "In a controlled experiment comparing beach and inland mice models to test camouflage advantages, what was the experimental variable, and what served as the control group?",
+      "a": "The experimental variable was the coloration of the mouse models (noncamouflaged vs. camouflaged). The control group consisted of the camouflaged models that matched the mice native to each area, while the test group consisted of the noncamouflaged models that did not match the environment."
+    },
+    {
+      "q": "How does a scientific theory differ from a hypothesis, and what status does a theory achieve if it remains supported by all experimentation over a very long period of time?",
+      "a": "A hypothesis is a specific, testable explanation for a single event. A scientific theory is much broader in scope, explaining a wide range of phenomena, and is supported by a large, growing body of evidence. If a theory remains supported by all experimentation over a long period, it may be referred to as a principle or law."
+    }
+  ],
+  "outline_blanks": "To explain a natural event, a scientist uses [[inductive reasoning]] to synthesize observations into a testable [[hypothesis]]. The researcher then uses [[deductive reasoning]] to predict outcomes and designs an experiment containing a single [[experimental variable]] to compare the test group to the control group. Over time, a hypothesis supported by a large and growing body of evidence can be elevated to a [[scientific theory]], which may eventually be recognized as a principle or law."
+}

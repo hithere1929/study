@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 76,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 27,
+  "slide_title": "Gene Mutations¨Spontaneous Mutations¤Chemical changes in DNA that lead to mispairing during replication¤Movement of transposons from one chromosomal location to another¤Replication ErrorsnDNA polymerasenProofreads new strandsnGenerally corrects errorsnOverall mutation rate is 1 in 1,000,000,000 nucleotide pairs replicated¨Induced mutations¤Caused by mutagenssuch as radiation and organic chemicals¤Many mutagens are also carcinogens (cancer-causing)¤Environmental MutagensnUltraviolet RadiationnTobacco Smoke",
+  "original_text": "Gene Mutations¨Spontaneous Mutations¤Chemical changes in DNA that lead to mispairing during replication¤Movement of transposons from one chromosomal location to another¤Replication ErrorsnDNA polymerasenProofreads new strandsnGenerally corrects errorsnOverall mutation rate is 1 in 1,000,000,000 nucleotide pairs replicated¨Induced mutations¤Caused by mutagenssuch as radiation and organic chemicals¤Many mutagens are also carcinogens (cancer-causing)¤Environmental MutagensnUltraviolet RadiationnTobacco Smoke",
+  "explanation": "Gene mutations are classified as either spontaneous or induced. Spontaneous mutations happen without external influence, arising from chemical changes in DNA that cause mispairing during replication, the movement of mobile genetic elements called transposons from one chromosomal location to another, or general replication errors. During replication, DNA polymerase proofreads new strands and typically corrects errors; because of this, the overall spontaneous mutation rate is low, at 1 in 1,000,000,000 (1 billion) nucleotide pairs replicated. In contrast, induced mutations are caused by environmental mutagens, such as radiation (e.g., Ultraviolet Radiation) and organic chemicals (e.g., Tobacco Smoke). Many mutagens are carcinogens, meaning they are cancer-causing substances.",
+  "questions": [
+    {
+      "q": "What is the overall spontaneous mutation rate in DNA replication, and which enzyme is responsible for keeping it low by proofreading?",
+      "opts": [
+        "1 in 100,000; RNA polymerase",
+        "1 in 1,000,000; Helicase",
+        "1 in 1,000,000,000; DNA polymerase",
+        "1 in 10,000,000,000; Ligase"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide states that 'DNA polymerase' 'Proofreads new strands' and 'Generally corrects errors', resulting in an 'Overall mutation rate is 1 in 1,000,000,000 nucleotide pairs replicated.' The other options list incorrect rates or enzymes."
+    },
+    {
+      "q": "Which of the following are listed as environmental mutagens that can cause induced mutations?",
+      "opts": [
+        "DNA polymerase and transposons",
+        "Ultraviolet Radiation and Tobacco Smoke",
+        "Histone proteins and chromatin remodeling complexes",
+        "Proteasomes and alternative splicing factors"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide lists 'Ultraviolet Radiation' and 'Tobacco Smoke' under 'Environmental Mutagens' which cause 'Induced mutations.' The other choices are endogenous cellular elements or processes."
+    }
+  ]
+}

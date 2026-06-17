@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 195,
+  "filename": "Unit_4_9.txt",
+  "section_title": "Mendelian Inheritance P2 - Genetic Disorders",
+  "page_num_in_file": 21,
+  "slide_title": "X-linked Recessive Pedigree",
+  "original_text": "X-linked Recessive Pedigree",
+  "explanation": "An X-linked recessive pedigree traces traits caused by recessive alleles on the X chromosome. In these pedigrees, the trait is far more common in males than in females, affected males cannot pass the trait to their sons, and the trait typically passes from an affected grandfather through carrier daughters to grandsons.",
+  "questions": [
+    {
+      "q": "Why are X-linked recessive disorders far more common in males than in females?",
+      "opts": [
+        "Females cannot inherit the recessive allele.",
+        "Males are hemizygous (XY) and only need one copy of the recessive allele on their single X chromosome to express the trait, while females (XX) need two.",
+        "The Y chromosome actively suppresses the dominant allele.",
+        "Sperm cells undergo more mutations than egg cells."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because males have only one X chromosome and express recessive X-linked alleles directly (hemizygous), whereas females must inherit two copies of the recessive allele (one on each X chromosome) to display the phenotype."
+    }
+  ]
+}

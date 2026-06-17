@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 99,
+  "filename": "Unit_7_6.txt",
+  "section_title": "Circulation & Cardiovascular System",
+  "page_num_in_file": 5,
+  "slide_title": "Transport in Vertebrates: Cardiovascular Systems",
+  "original_text": "Transport in Vertebrates All vertebrates have a closed circulatory system called a cardiovascular system Vertebrate heart: Atria of heart receive blood from general circulation Ventricles of heart pump blood out through blood vessels Vertebrate vessels: Arteries-Carry blood away from heart Thicker walls, to accommodate sudden influxes of blood from pump (high pressure) Arterioles Lead to capillaries Capillaries-Exchange materials with tissue fluid All cells within 60-80um of capillary bed Only 5% of organisms capillary beds open at one time Venules-Lead to veins Veins-Return blood to heart Thinner walls than arteries (lower blood pressure). Have valves",
+  "explanation": "All vertebrates possess a closed circulatory system known as a cardiovascular system. The vertebrate heart consists of atria (which receive blood returning from circulation) and ventricles (which pump blood out). Vertebrate vessels include: 1) Arteries: carry blood away from the heart, possessing thick walls to handle the high pressure of pumped blood. 2) Arterioles: branches that lead to capillaries. 3) Capillaries: microscopic vessels where nutrient and gas exchange occurs; cells are within 60-80 $\\mu m$ of a capillary bed, and only 5% of beds are open at one time. 4) Venules: collect blood from capillaries and lead to veins. 5) Veins: return blood to the heart, possessing thinner walls (due to lower pressure) and internal valves to prevent backflow.",
+  "questions": [
+    {
+      "q": "Why do arteries have thicker walls than veins?",
+      "opts": [
+        "To allow for the passive diffusion of oxygen across their walls",
+        "To accommodate the high pressure and sudden influxes of pumped blood",
+        "To prevent the backflow of low-pressure blood",
+        "To store excess glucose as glycogen"
+      ],
+      "a": 1,
+      "exp": "Arteries must withstand the high pressure and surges of blood ejected directly from the heart, requiring thicker, more elastic walls than veins."
+    },
+    {
+      "q": "What type of blood vessel is thin-walled and facilitates the exchange of materials, and how close are cells to them?",
+      "opts": [
+        "Arterioles; cells within 10-20 um",
+        "Capillaries; cells within 60-80 um",
+        "Veins; cells within 100-200 um",
+        "Venules; cells within 5-10 um"
+      ],
+      "a": 1,
+      "exp": "Capillaries are the sites of material exchange. All cells in the vertebrate body are located within 60-80 micrometers of a capillary bed."
+    },
+    {
+      "q": "What structural feature in veins helps return low-pressure blood to the heart against gravity?",
+      "opts": [
+        "Thicker muscular walls",
+        "Internal valves",
+        "Intercalated disks",
+        "Statoliths"
+      ],
+      "a": 1,
+      "exp": "Veins contain one-way internal valves that prevent the backflow of blood, assisting its return to the heart under low pressure."
+    }
+  ]
+}

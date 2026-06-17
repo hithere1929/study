@@ -1,0 +1,34 @@
+{
+  "unit": 1,
+  "page": 73,
+  "filename": "Unit_1_5.txt",
+  "section_title": "Biotechnology and Bioethics",
+  "page_num_in_file": 8,
+  "slide_title": "Connections",
+  "original_text": "\u2013Biology, technology, and society are connected in important ways\u2013Many issues facing society \u2013are related to biology and often involve our expanding technology.\u2013The basic goals of science and technology differ.\u2013The goal of science is to understand natural phenomena.\u2013The goal of technologyis to apply scientific knowledge for some specific purpose.\u2013Although their goals differ, science and technology are interdependent.\u2013Research benefits from new technologies.\u2013Technological advances stem from scientific research.\u2013Ex. Technologies of DNA manipulation are the results of scientific discovery of the structure of DNA.\u2013What are other examples?",
+  "explanation": "This slide discusses the relationships and differences between biology, technology, and society. Many societal issues are related to biology and involve expanding technology. The basic goals of science and technology differ: the goal of science is to understand natural phenomena, whereas the goal of technology is to apply scientific knowledge for a specific purpose. Despite these differences, science and technology are interdependent. Scientific research benefits from new technologies, and technological advances stem from scientific research. For example, DNA manipulation technologies resulted directly from the scientific discovery of DNA's structure.",
+  "questions": [
+    {
+      "q": "What is the difference between the basic goals of science and technology?",
+      "opts": [
+        "The goal of science is to sell products, while technology aims to study nature.",
+        "The goal of science is to understand natural phenomena, while the goal of technology is to apply scientific knowledge for some specific purpose.",
+        "Science is concerned only with chemistry, while technology is concerned with biology.",
+        "The goal of science is qualitative, while technology is quantitative."
+      ],
+      "a": 1,
+      "exp": "The slide states: 'The goal of science is to understand natural phenomena. The goal of technology is to apply scientific knowledge for some specific purpose.'"
+    },
+    {
+      "q": "Which example is provided to illustrate the interdependence of science and technology?",
+      "opts": [
+        "Using a flashlight to test dead batteries",
+        "DNA manipulation technologies resulting from the scientific discovery of the DNA structure",
+        "Tying back long hair to prevent accidents with hot plates",
+        "The classification of Eukarya into four kingdoms"
+      ],
+      "a": 1,
+      "exp": "The text states: 'Ex. Technologies of DNA manipulation are the results of scientific discovery of the structure of DNA.'"
+    }
+  ]
+}

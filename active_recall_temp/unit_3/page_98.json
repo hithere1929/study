@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 98,
+  "filename": "Unit_3_5.txt",
+  "section_title": "Stem Cells & Cancer",
+  "page_num_in_file": 4,
+  "slide_title": "Stem Cells",
+  "original_text": "Stem Cells",
+  "explanation": "This page serves as a transition or title slide for Stem Cells.",
+  "questions": [
+    {
+      "q": "What is the title of the slide shown on this page?",
+      "opts": [
+        "Stem Cells",
+        "Stem Cell Differentiation",
+        "Cell Specialization",
+        "Tissue Repair"
+      ],
+      "a": 0,
+      "exp": "The slide is titled 'Stem Cells'."
+    }
+  ]
+}

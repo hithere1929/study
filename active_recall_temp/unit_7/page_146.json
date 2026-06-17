@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 146,
+  "filename": "Unit_7_8.txt",
+  "section_title": "Nervous System",
+  "page_num_in_file": 8,
+  "slide_title": "Nervous Tissue: Transmission of Nerve Impulses",
+  "original_text": "Nervous Tissue Transmission of Nerve Impulses Resting Potential The membrane potential (voltage) when the axon is not conducting an impulse The inside of a neuron is more negative than the outside, around -70 mV Due in part to the activity of the sodium-potassium pump An action potential is a rapid change in polarity across a portion of an axonal membrane An action potential is generated only after a stimulus larger than the threshold Gated channel proteins One channel protein suddenly allows sodium to enter the cell Another channel protein allows potassium to leave the cell",
+  "explanation": "Nerve impulses are electrical signals. 1) Resting Potential: the voltage across the axonal membrane when it is not conducting an impulse, typically around -70 millivolts ($mV$) with the inside being more negative. This polarization is maintained in part by the active transport of the sodium-potassium pump. 2) Action Potential: a rapid, temporary polarity reversal across the axonal membrane. It is generated only if a stimulus exceeds a specific threshold. During an action potential, gated channels open sequentially: sodium ($Na^+$) channels open, allowing sodium to enter the cell (depolarization), followed by potassium ($K^+$) channels opening, allowing potassium to exit (repolarization).",
+  "questions": [
+    {
+      "q": "What is the resting membrane potential of a neuron, and how is it characterized?",
+      "opts": [
+        "Around +35 mV; inside is more positive",
+        "Around -70 mV; inside is more negative",
+        "Around 0 mV; inside and outside are equal",
+        "Around -120 mV; inside has no charge"
+      ],
+      "a": 1,
+      "exp": "The resting membrane potential of a neuron is about -70 mV, with the interior of the axon being electrically negative relative to the extracellular fluid."
+    },
+    {
+      "q": "What ion movement is responsible for the initial depolarization phase of an action potential?",
+      "opts": [
+        "Potassium ions leaving the cell",
+        "Sodium ions entering the cell",
+        "Calcium ions entering the synaptic cleft",
+        "Bicarbonate ions leaving the cell"
+      ],
+      "a": 1,
+      "exp": "Depolarization occurs when gated channel proteins open and allow sodium (Na+) to enter the cell, reversing the membrane's electrical charge."
+    }
+  ]
+}

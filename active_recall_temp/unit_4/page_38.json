@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 38,
+  "filename": "Unit_4_3.txt",
+  "section_title": "DNA Replication, Transcription, Translation",
+  "page_num_in_file": 11,
+  "slide_title": "Replication, Mutations & Cancer¨Most mutations in DNA occur during replication; sometimes other causes¨Some mutations lead to advantage for cell àadaption àevolution¨Some mutations cause no change in phenotype àsilent mutation¨Some mutations deleterious:¤Mis-functioning protein (disease)¤Non-functional protein (disease)¤Mutation in cell cycle regulatory genes (tumor suppressor/oncogene) lead to cancer",
+  "original_text": "Replication, Mutations & Cancer¨Most mutations in DNA occur during replication; sometimes other causes¨Some mutations lead to advantage for cell àadaption àevolution¨Some mutations cause no change in phenotype àsilent mutation¨Some mutations deleterious:¤Mis-functioning protein (disease)¤Non-functional protein (disease)¤Mutation in cell cycle regulatory genes (tumor suppressor/oncogene) lead to cancer",
+  "explanation": "Most DNA mutations occur during the process of replication, though they can also be caused by other external factors. The consequences of mutations vary widely. Some mutations provide an advantage to the cell or organism, leading to adaptation and driving evolution. Other mutations cause no change in the organism's physical characteristics (phenotype) and are called silent mutations. However, many mutations are deleterious. They can result in a mis-functioning or completely non-functional protein, causing genetic diseases. When mutations occur in genes that regulate the cell cycle—such as tumor suppressor genes or oncogenes—they can disrupt cell division controls and lead to cancer.",
+  "questions": [
+    {
+      "q": "What is a 'silent mutation'?",
+      "opts": [
+        "A mutation that causes a protein to stop being made completely.",
+        "A mutation that causes no change in the organism's phenotype.",
+        "A mutation that only occurs in bacterial cells.",
+        "A mutation that results in immediate cell death."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states 'Some mutations cause no change in phenotype -> silent mutation.' Options A, C, and D describe other types of mutations or biological events."
+    },
+    {
+      "q": "A mutation in which type of genes is specifically mentioned as a cause of cancer?",
+      "opts": [
+        "Ribosomal RNA genes",
+        "Cell cycle regulatory genes (tumor suppressors/oncogenes)",
+        "Histone protein genes",
+        "DNA polymerase proofreading genes"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'Mutation in cell cycle regulatory genes (tumor suppressor/oncogene) lead to cancer.' The other options are not mentioned in this context."
+    }
+  ]
+}

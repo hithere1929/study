@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 82,
+  "filename": "Unit_6_7.txt",
+  "section_title": "Vertebrates",
+  "page_num_in_file": 3,
+  "slide_title": "Characteristics of Chordates\u00a8Deuterostomes, with internal bone and cartilage skeleton instead of exoskeleton\u00a8All chordates have 4 basic characteristics:\u00a4Notochord \u2013dorsal supporting rod, turns into vertebral column in many\u00a4Dorsal tubular nerve cord \u2013Anterior portion becomes the brain. Known as spinal cord in many\u00a4Pharyngeal pouches \u2013Observable in embryos for most. Become gills in fish, varying function in others\u00a4Postanaltail \u2013Tail structure present at some point",
+  "original_text": "Characteristics of Chordates\u00a8Deuterostomes, with internal bone and cartilage skeleton instead of exoskeleton\u00a8All chordates have 4 basic characteristics:\u00a4Notochord \u2013dorsal supporting rod, turns into vertebral column in many\u00a4Dorsal tubular nerve cord \u2013Anterior portion becomes the brain. Known as spinal cord in many\u00a4Pharyngeal pouches \u2013Observable in embryos for most. Become gills in fish, varying function in others\u00a4Postanaltail \u2013Tail structure present at some point",
+  "explanation": "Chordates are deuterostomes characterized by an internal bone and cartilage skeleton instead of an exoskeleton. All chordates possess four basic characteristics at some point in their life: 1) a Notochord, which is a dorsal supporting rod that turns into the vertebral column in many chordates; 2) a Dorsal tubular nerve cord, whose anterior portion becomes the brain, and which is known as the spinal cord in many species; 3) Pharyngeal pouches, which are observable in the embryos of most chordates, developing into functional gills in fish and having varying functions in others; and 4) a Postanal tail, which is a tail structure present at some developmental point.",
+  "questions": [
+    {
+      "q": "Which of the following is NOT one of the four defining characteristics of chordates?",
+      "opts": [
+        "Notochord",
+        "Dorsal tubular nerve cord",
+        "Chitinous exoskeleton",
+        "Postanal tail"
+      ],
+      "a": 2,
+      "exp": "Chordates possess an internal bone and cartilage skeleton, not an exoskeleton. The four characteristics are: notochord, dorsal tubular nerve cord, pharyngeal pouches, and postanal tail."
+    },
+    {
+      "q": "What does the notochord become in many adult chordates?",
+      "opts": [
+        "The brain",
+        "The vertebral column",
+        "Gills",
+        "The postanal tail"
+      ],
+      "a": 1,
+      "exp": "The notes state that the notochord is a 'dorsal supporting rod, turns into vertebral column in many'."
+    },
+    {
+      "q": "What structures develop from pharyngeal pouches in fish?",
+      "opts": [
+        "Lungs",
+        "Gills",
+        "Swim bladders",
+        "Vertebrae"
+      ],
+      "a": 1,
+      "exp": "The notes state that pharyngeal pouches 'Become gills in fish, varying function in others'."
+    }
+  ]
+}

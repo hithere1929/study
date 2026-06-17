@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 101,
+  "filename": "Unit_2_4.txt",
+  "section_title": "Metabolism",
+  "page_num_in_file": 4,
+  "slide_title": "Energy",
+  "original_text": "Energy¨What is energy?¤Energyis the capacity to cause change or to perform work.\nnAllow living things to carry on processes of life, such as growth, development, metabolism, and reproduction¤There are two basic forms of energy.1.Kinetic energyis the energy of motion.2.Potential energyis energy that matter possesses as a result of its location or structure.",
+  "explanation": "Energy is defined as the capacity to cause change or to perform work. It is essential for living organisms as it allows them to carry out vital life processes such as growth, development, metabolism, and reproduction. Energy exists in two fundamental forms: kinetic energy, which is the energy associated with motion, and potential energy, which is stored energy that matter possesses as a result of its structural configuration or physical location.",
+  "questions": [
+    {
+      "q": "What is the scientific definition of energy?",
+      "opts": [
+        "The mass of an object in motion.",
+        "The capacity to cause change or perform work.",
+        "The force produced by gravity on an object.",
+        "The speed at which chemical bonds are broken."
+      ],
+      "a": 1,
+      "exp": "Energy is defined as the capacity to cause change or to perform work, allowing organisms to carry out life processes."
+    },
+    {
+      "q": "What are the two basic forms of energy?",
+      "opts": [
+        "Thermal and Chemical energy",
+        "Kinetic and Potential energy",
+        "Electrical and Radiant energy",
+        "Metabolic and Structural energy"
+      ],
+      "a": 1,
+      "exp": "The two basic forms of energy are kinetic energy (energy of motion) and potential energy (stored energy based on location or structure)."
+    }
+  ]
+}

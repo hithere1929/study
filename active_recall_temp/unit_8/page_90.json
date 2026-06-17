@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 90,
+  "filename": "Unit_8_5.txt",
+  "section_title": "Cellular Respiration",
+  "page_num_in_file": 18,
+  "slide_title": "Metabolic Pool¨Foods:¤Sources of energy rich molecules¤Carbohydrates, fats, and proteins¨Degradative reactions (catabolism) break down molecules¤Tend to be exergonic (release energy)¨Synthetic reactions (anabolism) build molecules¤Tend to be endergonic (consume energy)¨Glucose is broken down in cellular respiration.¨Fat breaks down into glycerol and three fatty acids.¨Amino acids break down into carbon chains and amino groups¤Deamination (NH2 removed) occurs in the livernResults in poisonous ammonia (NH3)nQuickly converted to urea¤Different R-groups from amino acids are processed differently¤Fragments enter respiratory pathways at many different points",
+  "original_text": "Metabolic Pool¨Foods:¤Sources of energy rich molecules¤Carbohydrates, fats, and proteins¨Degradative reactions (catabolism) break down molecules¤Tend to be exergonic (release energy)¨Synthetic reactions (anabolism) build molecules¤Tend to be endergonic (consume energy)¨Glucose is broken down in cellular respiration.¨Fat breaks down into glycerol and three fatty acids.¨Amino acids break down into carbon chains and amino groups¤Deamination (NH2 removed) occurs in the livernResults in poisonous ammonia (NH3)nQuickly converted to urea¤Different R-groups from amino acids are processed differently¤Fragments enter respiratory pathways at many different points",
+  "explanation": "Foods consist of energy-rich molecules, primarily carbohydrates, fats, and proteins. Metabolic reactions are divided into catabolism (degradative, exergonic reactions that release energy) and anabolism (synthetic, endergonic reactions that consume energy). During catabolism, glucose is broken down in glycolysis and respiration; fats are cleaved into glycerol and three fatty acids; and proteins are broken down into amino acids. Amino acids undergo deamination (removal of the amino group, -NH2) in the liver. Deamination yields toxic ammonia (NH3), which the liver quickly converts into less harmful urea. The remaining carbon chains, whose processing varies by R-group, enter the respiratory pathways at various stages.",
+  "questions": [
+    {
+      "q": "What is catabolism, and what are its thermodynamic characteristics?",
+      "opts": [
+        "Synthetic reactions that are endergonic (consume energy)",
+        "Degradative reactions that are exergonic (release energy)",
+        "An alternative pathway for nitrogen fixation",
+        "The active transport of ions against their gradient"
+      ],
+      "a": 1,
+      "exp": "The notes define 'Degradative reactions (catabolism) break down molecules' and state they 'Tend to be exergonic (release energy).'"
+    },
+    {
+      "q": "What toxic product is formed when amino acids undergo deamination in the liver, and what is it converted to?",
+      "opts": [
+        "Urea, converted to ammonia",
+        "Ammonia (NH3), converted to urea",
+        "Lactate, converted to pyruvate",
+        "Nitrous oxide, converted to nitrogen gas"
+      ],
+      "a": 1,
+      "exp": "The notes state that deamination in the liver 'Results in poisonous ammonia (NH3)' which is 'Quickly converted to urea.'"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 105,
+  "filename": "Unit_3_5.txt",
+  "section_title": "Stem Cells & Cancer",
+  "page_num_in_file": 11,
+  "slide_title": "Apoptosis and Cell Division",
+  "original_text": "Apoptosis and Cell Division\nCell division increases cell number and apoptosis decreases cell number (opposing processes)\nBoth normal parts of growth and development\nTadpole most lose tail to mature\nWebbing between human digits\nBoth constantly occurring throughout life\nDeath through apoptosis prevents cells from continually growing, which can result in a tumor",
+  "explanation": "Cell division and apoptosis are opposing processes: cell division increases the total cell number, whereas apoptosis decreases it. Both processes are normal, essential parts of growth and development. For example, a tadpole must lose its tail through apoptosis to mature into a frog, and human embryos lose the webbing between their digits via apoptosis. These opposing processes occur constantly throughout life. Apoptotic cell death is crucial for homeostasis because it prevents cells from growing continually, which could otherwise result in tumor formation.",
+  "questions": [
+    {
+      "q": "Which of the following is a normal developmental process that relies on apoptosis?",
+      "opts": [
+        "The growth of a tumor",
+        "The removal of webbing between human digits during development",
+        "The replication of DNA in S phase",
+        "The synthesis of secondary cell walls in wood"
+      ],
+      "a": 1,
+      "exp": "Normal developmental examples of apoptosis include a tadpole losing its tail and the removal of webbing between human digits."
+    },
+    {
+      "q": "Why is apoptosis essential for preventing cancer?",
+      "opts": [
+        "It speeds up cell division in damaged tissues.",
+        "It prevents cells from continually growing, which could otherwise result in a tumor.",
+        "It replicates tumor suppressor genes.",
+        "It increases the differentiation capability of stem cells."
+      ],
+      "a": 1,
+      "exp": "Death through apoptosis prevents cells from continually growing, which can result in a tumor."
+    }
+  ]
+}

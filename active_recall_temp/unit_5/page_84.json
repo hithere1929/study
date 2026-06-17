@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 84,
+  "filename": "Unit_5_4.txt",
+  "section_title": "Principles of Taxonomy & Systematics",
+  "page_num_in_file": 15,
+  "slide_title": "Phylogeny",
+  "original_text": "Phylogeny\n\u00a8Tracing Phylogeny\n\u00a4Protein Comparisons\n  nImmunological techniques\n    nDegree of cross reaction used to judge relationship\n  nAmino acid sequencing\n    nSimilar sequence in the same protein indicates a close relationship\n\u00a4Molecular Clock\n  nUse neutral (non-adaptive) nucleotide sequences\n  nAssumes a constant rate of mutation over time",
+  "explanation": "Protein comparisons and molecular clocks are advanced methods for tracing phylogeny. Protein comparisons include immunological techniques, where the degree of antibody-antigen cross-reaction is measured to estimate species relationships, and direct amino acid sequencing, where highly similar sequences in the same protein indicate a close evolutionary relationship. The Molecular Clock is a method that uses neutral, non-adaptive nucleotide sequences. By assuming that these neutral mutations accumulate at a relatively constant rate over time, scientists can estimate the absolute time that has elapsed since two species diverged from a common ancestor.",
+  "questions": [
+    {
+      "q": "What is a molecular clock used for in systematics?",
+      "opts": [
+        "To determine the rate of soil erosion in an ecosystem",
+        "To estimate the absolute time of evolutionary divergence based on a constant rate of neutral mutations",
+        "To measure the physical size of organisms over time",
+        "To cause hybrid sterility in plants"
+      ],
+      "a": 1,
+      "exp": "A molecular clock uses neutral nucleotide sequences and assumes a constant mutation rate over time to estimate when species diverged from their common ancestor."
+    },
+    {
+      "q": "How can protein comparisons indicate evolutionary relationships?",
+      "opts": [
+        "By measuring the size of cells",
+        "Through immunological cross-reaction degrees and similarities in amino acid sequencing",
+        "By calculating the number of Hox genes",
+        "By assessing whether a protein can become a fossil"
+      ],
+      "a": 1,
+      "exp": "Protein comparisons evaluate relationships by measuring the degree of cross-reaction in immunological tests or by comparing the alignment of amino acid sequences in shared proteins."
+    }
+  ]
+}

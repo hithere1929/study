@@ -1,0 +1,23 @@
+{
+  "unit": 8,
+  "page": 39,
+  "filename": "Unit_8_3.txt",
+  "section_title": "Community & Ecosystem Ecology",
+  "page_num_in_file": 5,
+  "slide_title": "Ecology of Communities ¨Predator-Prey Interactions¤PredationnOne living organism, the predator, feeds on another, the preynPredator is largernPredator has lower reproductive ratenPrey usually entirely consumednPresence of predators can decrease prey densities, and vice-versanPopulation density of the predator can be affected by the prevalence of the prey, and vice versa",
+  "original_text": "Ecology of Communities ¨Predator-Prey Interactions¤PredationnOne living organism, the predator, feeds on another, the preynPredator is largernPredator has lower reproductive ratenPrey usually entirely consumednPresence of predators can decrease prey densities, and vice-versanPopulation density of the predator can be affected by the prevalence of the prey, and vice versa",
+  "explanation": "Predation is an interaction where one living organism, the predator, feeds on another organism, the prey. Typically, the predator is larger than the prey and has a lower reproductive rate. In true predation, the prey is usually entirely consumed. Predator and prey populations are highly interdependent: the presence of predators can decrease prey density, and the availability/prevalence of prey directly affects the predator's population density.",
+  "questions": [
+    {
+      "q": "Which of the following is typical of a predator in a classic predator-prey relationship?",
+      "opts": [
+        "It is smaller than the prey and has a higher reproductive rate.",
+        "It is larger than the prey and has a lower reproductive rate.",
+        "It rarely consumes the prey entirely.",
+        "Its population density is completely unaffected by prey availability."
+      ],
+      "a": 1,
+      "exp": "The notes state that in predation, the 'Predator is larger', 'Predator has lower reproductive rate', and 'Prey usually entirely consumed.'"
+    }
+  ]
+}

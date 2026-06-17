@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 113,
+  "filename": "Unit_8_7.txt",
+  "section_title": "Conservation of Biodiversity",
+  "page_num_in_file": 3,
+  "slide_title": "Conservation Biology and Biodiversity¨Conservation Biologyconsiders all aspects of biodiversity¤General goal is conserving natural resources for this and future generations¤Primary goal is the management of biodiversitynT he variety of life on Earth¨For conservation biology to be effective, scientists must evaluate larger connections within the biosphere¤High level of biodiversity is desirable¤Causes of present-day extinction, how to prevent future extinctions from occurring, and consequences of reduced biodiversity¤Bioinformaticsis utilized to protect biodiversitynCollecting of, analyzing, and making readily available biological information, using modern computer technology",
+  "original_text": "Conservation Biology and Biodiversity¨Conservation Biologyconsiders all aspects of biodiversity¤General goal is conserving natural resources for this and future generations¤Primary goal is the management of biodiversitynThe variety of life on Earth¨For conservation biology to be effective, scientists must evaluate larger connections within the biosphere¤High level of biodiversity is desirable¤Causes of present-day extinction, how to prevent future extinctions from occurring, and consequences of reduced biodiversity¤Bioinformaticsis utilized to protect biodiversitynCollecting of, analyzing, and making readily available biological information, using modern computer technology",
+  "explanation": "Conservation biology is a discipline that considers all aspects of biodiversity. Its general goal is to conserve natural resources for present and future generations, while its primary goal is the management of biodiversity (the variety of life on Earth). For conservation biology to be effective, scientists must evaluate larger ecological connections within the biosphere, based on the principle that a high level of biodiversity is desirable. The field studies the causes of present-day extinctions, how to prevent future extinctions, and the consequences of reduced biodiversity. It also utilizes bioinformatics, which is the collection, analysis, and computer-aided dissemination of biological information to protect biodiversity.",
+  "questions": [
+    {
+      "q": "What is the primary goal of conservation biology?",
+      "opts": [
+        "The complete elimination of decomposers in terrestrial biomes",
+        "The management of biodiversity (the variety of life on Earth)",
+        "The maximization of agriculture using chemical nitrogen fertilizers",
+        "The construction of roads across fragmented landscapes"
+      ],
+      "a": 1,
+      "exp": "The notes state that the 'Primary goal is the management of biodiversity' which is 'The variety of life on Earth.'"
+    },
+    {
+      "q": "What is bioinformatics in the context of conservation biology?",
+      "opts": [
+        "The study of biological molecules like G3P and RuBP",
+        "The collection, analysis, and digital availability of biological information to protect biodiversity",
+        "The mapping of high-pressure desert winds using topography",
+        "A method of producing ATP via chemiosmosis"
+      ],
+      "a": 1,
+      "exp": "The notes define bioinformatics as: 'Collecting of, analyzing, and making readily available biological information, using modern computer technology' to protect biodiversity."
+    }
+  ]
+}

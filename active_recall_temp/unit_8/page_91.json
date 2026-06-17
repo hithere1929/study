@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 91,
+  "filename": "Unit_8_5.txt",
+  "section_title": "Cellular Respiration",
+  "page_num_in_file": 19,
+  "slide_title": "Metabolic Pool¨All metabolic compounds are part of the metabolic pool¨Intermediates from respiratory pathways can be used for anabolism¨Anabolism (synthetic reactions of metabolism):¤CarbohydratesnStart with acetyl-CoAnBasically reverses glycolysis (but different pathway)¤FatsnG3P converted to glycerolnAcetyl groups are connected in pairs to form fatty acids¤Proteins:nMade up of combinations of 20 different amino acidsnSome amino acids (11) can be synthesized by adult humansnHowever, other amino acids (9) cannot be synthesized by humansnEssential amino acidsnMust be present in the diet",
+  "original_text": "Metabolic Pool¨All metabolic compounds are part of the metabolic pool¨Intermediates from respiratory pathways can be used for anabolism¨Anabolism (synthetic reactions of metabolism):¤CarbohydratesnStart with acetyl-CoAnBasically reverses glycolysis (but different pathway)¤FatsnG3P converted to glycerolnAcetyl groups are connected in pairs to form fatty acids¤Proteins:nMade up of combinations of 20 different amino acidsnSome amino acids (11) can be synthesized by adult humansnHowever, other amino acids (9) cannot be synthesized by humansnEssential amino acidsnMust be present in the diet",
+  "explanation": "The metabolic pool contains compounds that can be dynamically routed to catabolic or anabolic pathways. Anabolism utilizes respiratory intermediates to build macromolecules: 1) Carbohydrates: synthesized starting with acetyl-CoA, effectively reversing glycolysis via alternative pathways. 2) Fats: synthesized by converting G3P into glycerol, and connecting acetyl groups in pairs to form fatty acid chains. 3) Proteins: assembled from combinations of 20 amino acids. While adult humans can synthesize 11 of these amino acids internally, the remaining 9 cannot be synthesized and are classified as essential amino acids, meaning they must be obtained through the diet.",
+  "questions": [
+    {
+      "q": "How are fats synthesized in anabolic pathways using respiratory intermediates?",
+      "opts": [
+        "Glycerol is converted to glucose, and pyruvate forms lipids.",
+        "G3P is converted to glycerol, and acetyl groups are connected in pairs to form fatty acids.",
+        "Ammonia is converted to fatty acids in the liver.",
+        "By reversing the light reactions of photosynthesis."
+      ],
+      "a": 1,
+      "exp": "The notes state under fat anabolism: 'G3P converted to glycerol' and 'Acetyl groups are connected in pairs to form fatty acids.'"
+    },
+    {
+      "q": "What are essential amino acids?",
+      "opts": [
+        "The 11 amino acids that adult humans can synthesize.",
+        "The 9 amino acids that humans cannot synthesize and must obtain from the diet.",
+        "Amino acids that contain only iron atoms in their R-groups.",
+        "Amino acids used exclusively in the Calvin cycle."
+      ],
+      "a": 1,
+      "exp": "The notes state that 'other amino acids (9) cannot be synthesized by humans' which are called 'Essential amino acids' and 'Must be present in the diet.'"
+    }
+  ]
+}

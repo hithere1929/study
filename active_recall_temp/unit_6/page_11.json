@@ -1,0 +1,44 @@
+{
+  "unit": 6,
+  "page": 11,
+  "filename": "Unit_6_1.txt",
+  "section_title": "Viruses",
+  "page_num_in_file": 11,
+  "slide_title": "Virioidsand Prions\u00a8Viriods\u00a4Naked strands of RNA \u2013no capsid\u00a4Associated with many crop disease\u00a4Direct cell to create more virioids\u00a8Prions\u00a4Proteinaceous Infectious Particles\u00a4Similar to proteins that normally exist, but with a different, contagious tertiary conformationnCauses conformation of normal proteins in the organism into prions at exponential ratenAssociated with neurodegenerative diseases, or Transmissible Spongiform Encephalopathies, or TSE\u2019 snMad Cow disease, a BSE, ND in cows that can pass to humans",
+  "explanation": "Viroids and prions are sub-viral infectious particles. Viroids consist of naked strands of RNA with no surrounding capsid. They are associated with several crop diseases, instructing host plant cells to replicate more viroids. Prions, or proteinaceous infectious particles, are abnormal proteins. They share a similar primary sequence with normal cellular proteins but possess a different, contagious tertiary conformation. When prions interact with normal proteins, they force them to adopt the abnormal conformation at an exponential rate. Prions cause neurodegenerative diseases known as Transmissible Spongiform Encephalopathies (TSEs). A notable example is Bovine Spongiform Encephalopathy (BSE, or Mad Cow disease), which occurs in cattle and can be transmitted to humans.",
+  "questions": [
+    {
+      "q": "What is the structure of a viroid?",
+      "opts": [
+        "An infectious protein with a modified tertiary shape",
+        "A naked strand of RNA with no capsid",
+        "A double-stranded DNA molecule inside a capsid",
+        "An enveloped RNA virus that infects animals"
+      ],
+      "a": 1,
+      "exp": "The notes define viroids as 'Naked strands of RNA \u2013 no capsid'."
+    },
+    {
+      "q": "How do prions propagate inside a host organism?",
+      "opts": [
+        "They transcribe their RNA genome into DNA using reverse transcriptase",
+        "They cause normal proteins in the host to change into the abnormal prion conformation at an exponential rate",
+        "They hijack host ribosomes to translate their genetic material",
+        "They multiply via binary fission within host tissues"
+      ],
+      "a": 1,
+      "exp": "Prions propagate by causing the conformation of normal proteins in the organism to convert into prions at an exponential rate."
+    },
+    {
+      "q": "What class of diseases are prions associated with?",
+      "opts": [
+        "Transmissible Spongiform Encephalopathies (TSEs)",
+        "Plant crop blight and mosaic diseases",
+        "Respiratory tract pandemics",
+        "Autoimmune skin conditions"
+      ],
+      "a": 0,
+      "exp": "Prions are associated with neurodegenerative diseases, or Transmissible Spongiform Encephalopathies (TSEs), such as Mad Cow disease."
+    }
+  ]
+}

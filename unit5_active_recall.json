@@ -1,0 +1,2612 @@
+[
+  {
+    "unit": 5,
+    "page": 1,
+    "filename": "Unit_5_1.txt",
+    "section_title": "Darwin & Evidence for Evolution",
+    "page_num_in_file": 1,
+    "slide_title": "Darwin & Evidence for Evolution - Visual Page 1",
+    "original_text": "UNIT 5: MECHANISMS & PATTERNS OF EVOLUTION5.1 –DARWIN & EVIDENCE FOR EVOLUTIONBiology 9 Mr. QueenanCh. 17.1-17.4 (pg. 543-567)",
+    "explanation": "This is the title page for Unit 5: Mechanisms & Patterns of Evolution, specifically Section 5.1: Darwin & Evidence for Evolution. The material is based on Biology 9 notes by Mr. Queenan, covering Chapter 17.1 to 17.4 (pages 543 to 567) of the course textbook.",
+    "questions": [
+      {
+        "q": "What is the focus of Section 5.1 in Unit 5 of the Biology notes?",
+        "opts": [
+          "Cell Cycle and Mitosis",
+          "Darwin & Evidence for Evolution",
+          "Photosynthesis and Energy",
+          "Mendelian Genetics"
+        ],
+        "a": 1,
+        "exp": "The title slide explicitly names Section 5.1 as 'Darwin & Evidence for Evolution'."
+      }
+    ],
+    "legacy_index": 0
+  },
+  {
+    "unit": 5,
+    "page": 2,
+    "filename": "Unit_5_1.txt",
+    "section_title": "Darwin & Evidence for Evolution",
+    "page_num_in_file": 2,
+    "slide_title": "What evidence supports the idea that Darwin’s Theory of Evolution by Natural Selection is the...",
+    "original_text": "What evidence supports the idea that Darwin’s Theory of Evolution by Natural Selection is the “unifying theory of biology”?What makes Natural Selection “natural”?How does Natural Selection encourage intra-and inter-specific diversity over time?\nUnit Essential Questions",
+    "explanation": "This slide outlines the Unit Essential Questions for Unit 5, which guide the study of evolution. The three central questions ask: what evidence supports Charles Darwin's Theory of Evolution by Natural Selection as the unifying theory of biology; what factors make natural selection 'natural'; and how natural selection drives both intra-specific (within-species) and inter-specific (between-species) diversity over evolutionary time.",
+    "questions": [
+      {
+        "q": "Which of the following is NOT one of the Unit Essential Questions listed for Unit 5?",
+        "opts": [
+          "What evidence supports the idea that Darwin’s Theory of Evolution by Natural Selection is the “unifying theory of biology”?",
+          "What makes Natural Selection “natural”?",
+          "How does Natural Selection encourage intra-and inter-specific diversity over time?",
+          "How do mutations in DNA cause cancer in somatic cells?"
+        ],
+        "a": 3,
+        "exp": "The first three options are the exact essential questions listed on the slide, whereas the fourth option regarding DNA mutations and somatic cell cancer is not mentioned."
+      }
+    ],
+    "legacy_index": 1
+  },
+  {
+    "unit": 5,
+    "page": 3,
+    "filename": "Unit_5_1.txt",
+    "section_title": "Darwin & Evidence for Evolution",
+    "page_num_in_file": 3,
+    "slide_title": "5.1 –Opening Question",
+    "original_text": "5.1 –Opening Question\n¨Examine the tortoises found in the image to the left. ¨With a partner, discuss the appearance of the tortoises, and identify and which might belong to the same or different species.",
+    "explanation": "This page introduces Section 5.1 with an opening group discussion question. It instructs students to examine an image of tortoises, discuss their physical appearance with a partner, and attempt to determine which tortoises belong to the same species and which belong to different species, introducing the concepts of morphological differences and species diversity.",
+    "questions": [
+      {
+        "q": "What organism is used in the opening question to introduce morphological comparison and species identification?",
+        "opts": [
+          "Galapagos Finches",
+          "Argentinian Fossils",
+          "Tortoises",
+          "Peppered Moths"
+        ],
+        "a": 2,
+        "exp": "The opening question asks students to examine and discuss the appearance of tortoises to identify species differences."
+      }
+    ],
+    "legacy_index": 2
+  },
+  {
+    "unit": 5,
+    "page": 4,
+    "filename": "Unit_5_1.txt",
+    "section_title": "Darwin & Evidence for Evolution",
+    "page_num_in_file": 4,
+    "slide_title": "History of Evolutionary Thought",
+    "original_text": "History of Evolutionary Thought¨Prior to Darwin¤The view of nature was determined by deep-seated beliefs held to be intractable truths rather than experimentation and observation¤Biologists had slowly begun to accept various new ideas of evolution –species change over time¨Evolution is the Unifying Principle of Biology¤Explains the unity and diversity of lifenSimilarities between living things reflect recent common ancestorsnDissimilarities between living things reflect ancient common ancestor",
+    "explanation": "Before Charles Darwin, the prevailing view of the natural world was dictated by deep-seated traditional beliefs accepted as absolute truths, rather than scientific observation and active experimentation. However, biologists gradually began to entertain the idea that species change over time, laying the groundwork for evolutionary theory. Today, evolution is considered the unifying principle of biology because it explains both the unity and diversity of life. The similarities observed among living things point to recent common ancestry, while the dissimilarities point to more ancient common ancestry.",
+    "questions": [
+      {
+        "q": "Prior to Darwin's theories, how was the view of nature primarily established?",
+        "opts": [
+          "Through empirical research and experimentation",
+          "By deep-seated beliefs held to be intractable truths",
+          "Through genetic analysis and sequence alignment",
+          "By comparing the fossil layers in different geological strata"
+        ],
+        "a": 1,
+        "exp": "The notes state that before Darwin, the view of nature was determined by deep-seated beliefs held to be intractable truths, rather than experimentation and observation."
+      },
+      {
+        "q": "Under the evolutionary framework, what do similarities and dissimilarities between organisms signify?",
+        "opts": [
+          "Similarities reflect ancient common ancestors, whereas dissimilarities reflect recent common ancestors.",
+          "Similarities reflect recent common ancestors, whereas dissimilarities reflect ancient common ancestors.",
+          "Similarities are purely accidental, while dissimilarities are caused by environmental changes.",
+          "Similarities and dissimilarities both reflect the same rate of mutation in all lineages."
+        ],
+        "a": 1,
+        "exp": "According to the slide, similarities between living things reflect recent common ancestors, whereas dissimilarities reflect ancient common ancestors."
+      }
+    ],
+    "legacy_index": 3
+  },
+  {
+    "unit": 5,
+    "page": 5,
+    "filename": "Unit_5_1.txt",
+    "section_title": "Darwin & Evidence for Evolution",
+    "page_num_in_file": 5,
+    "slide_title": "History of Evolutionary Thought",
+    "original_text": "History of Evolutionary Thought¨Mid-Eighteenth Century¤Classifying and organizing different organisms became a focus of biologists¤Carolus Linnaeus –Fixity of speciesnEach species has:nAn ideal structure and functionnA place in the scalanaturae(sequential ladder of life)nDeveloped a system of binomial nomenclature¤Count BuffonnFrench naturalist, cataloged 44 volumes of known plants and animalsnProvided evidence of descent with modificationnSuggested mechanisms including environmental influences, migration, geographic isolation, and struggle for existence",
+    "explanation": "In the mid-eighteenth century, biology began focusing on the systematic classification and organization of organisms. Carolus Linnaeus championed the concept of the 'fixity of species,' which posited that each species is unchanging and possesses an ideal structure and function, occupying a specific, fixed rung on the 'scala naturae' (the sequential ladder of life). Linnaeus also developed the modern system of binomial nomenclature. Conversely, Count Buffon, a French naturalist who compiled a 44-volume catalog of plants and animals, offered evidence for 'descent with modification.' He suggested that species could change and proposed several contributing mechanisms, including environmental influences, migration, geographic isolation, and the struggle for existence.",
+    "questions": [
+      {
+        "q": "What major concept did Carolus Linnaeus support regarding the nature of species?",
+        "opts": [
+          "Descent with modification",
+          "The inheritance of acquired characteristics",
+          "The fixity of species",
+          "Uniformitarianism"
+        ],
+        "a": 2,
+        "exp": "Carolus Linnaeus was a proponent of the 'fixity of species', believing that species were unchanging and had an ideal structure/function and place in the scala naturae."
+      },
+      {
+        "q": "Which eighteenth-century naturalist compiled 44 volumes of plants and animals and proposed that environmental influences, migration, and geographic isolation could drive descent with modification?",
+        "opts": [
+          "Carolus Linnaeus",
+          "Count Buffon",
+          "Georges Cuvier",
+          "Jean-Baptiste de Lamarck"
+        ],
+        "a": 1,
+        "exp": "Count Buffon was the French naturalist who cataloged 44 volumes of known plants and animals, provided evidence of descent with modification, and suggested mechanisms like environmental influences, migration, geographic isolation, and the struggle for existence."
+      }
+    ],
+    "legacy_index": 4
+  },
+  {
+    "unit": 5,
+    "page": 6,
+    "filename": "Unit_5_1.txt",
+    "section_title": "Darwin & Evidence for Evolution",
+    "page_num_in_file": 6,
+    "slide_title": "History of Evolutionary Thought",
+    "original_text": "History of Evolutionary Thought¨Cuvier¤Staunch believer in fixity of species and special creation¤Used comparative anatomy to develop a system of classification¤Founded the science of paleontology¤Proposed catastrophismnLocal catastrophes in the past had caused the Earth’s strata to have a mix of new fossilsnAfter each catastrophe, the region was repopulated by species from a surrounding areanThe result of catastrophes was change appearing over time",
+    "explanation": "Georges Cuvier was a firm believer in the fixity of species and special creation. He used comparative anatomy to develop an animal classification system and is credited with founding the science of paleontology (the study of fossils). To explain why different fossil layers contained different species without accepting evolution, Cuvier proposed 'catastrophism.' This hypothesis suggested that localized natural catastrophes occurred in the past, causing the mix of fossils found in the Earth's rock strata. After a catastrophe wiped out local life, the devastated region was repopulated by species migrating from surrounding, unaffected areas. Thus, Cuvier argued that the change in fossils over time was due to catastrophism and repopulation rather than species changing or evolving.",
+    "questions": [
+      {
+        "q": "Which scientific field was founded by Georges Cuvier?",
+        "opts": [
+          "Biogeography",
+          "Paleontology",
+          "Genetics",
+          "Uniformitarianism"
+        ],
+        "a": 1,
+        "exp": "The notes state that Cuvier founded the science of paleontology and used comparative anatomy to develop a system of classification."
+      },
+      {
+        "q": "According to Georges Cuvier's hypothesis of catastrophism, how did different fossil layers form?",
+        "opts": [
+          "Organisms gradually evolved new characteristics over millions of years.",
+          "Constant rates of erosion and uplift gradually buried organisms.",
+          "Local catastrophes wiped out organisms, and the area was repopulated by species from surrounding regions.",
+          "Organisms strove toward perfection, modifying their own anatomy over their lifetimes."
+        ],
+        "a": 2,
+        "exp": "Catastrophism proposed that local catastrophes caused the mix of fossils in the Earth's strata, and after each event, the region was repopulated by species from surrounding areas, creating the appearance of change over time."
+      }
+    ],
+    "legacy_index": 5
+  },
+  {
+    "unit": 5,
+    "page": 7,
+    "filename": "Unit_5_1.txt",
+    "section_title": "Darwin & Evidence for Evolution",
+    "page_num_in_file": 7,
+    "slide_title": "History of Evolutionary Thought",
+    "original_text": "History of Evolutionary Thought¨Jean-Baptiste de Lamarck¤First biologist to propose a testable hypothesis that explained how evolution occurs via adaptation to environment¤Proposed more complex organisms descended from less complex¤Proposed idea of inheritance of acquired characteristics–LamarckianismnIncorrectly thought these changes were a strive towards perfection¨Charles Lyell¤Earth is subject to slow but continuous cycles of erosion and uplift¤Proposed uniformitarianism, which states that rates and processes of change are constant",
+    "explanation": "Jean-Baptiste de Lamarck was the first biologist to present a testable hypothesis explaining evolution as adaptation to the environment. Lamarck proposed that complex organisms descend from simpler ancestors through the inheritance of acquired characteristics (Lamarckianism). He incorrectly believed organisms adapt dynamically during their lifetime and pass these modifications to offspring in an internal strive toward biological perfection. Charles Lyell, a key geological influence, observed that the Earth undergoes slow but continuous cycles of erosion and uplift. He proposed 'uniformitarianism,' which asserts that geological processes and their rates of change are constant throughout history, implying the Earth is very old.",
+    "questions": [
+      {
+        "q": "What mechanism did Jean-Baptiste de Lamarck propose to explain evolutionary adaptation?",
+        "opts": [
+          "Natural selection of genetic mutations",
+          "Inheritance of acquired characteristics",
+          "Catastrophic local events and repopulation",
+          "Uniform rates of geological erosion and uplift"
+        ],
+        "a": 1,
+        "exp": "Lamarck proposed the inheritance of acquired characteristics (Lamarckianism), incorrectly believing that traits acquired during an organism's lifetime could be inherited by its offspring."
+      },
+      {
+        "q": "What geological concept proposed by Charles Lyell states that rates and processes of geological change are constant?",
+        "opts": [
+          "Catastrophism",
+          "Lamarckianism",
+          "Uniformitarianism",
+          "Descent with modification"
+        ],
+        "a": 2,
+        "exp": "Charles Lyell proposed uniformitarianism, which states that the rates and processes of geological change (like erosion and uplift) remain constant over time."
+      }
+    ],
+    "legacy_index": 6
+  },
+  {
+    "unit": 5,
+    "page": 8,
+    "filename": "Unit_5_1.txt",
+    "section_title": "Darwin & Evidence for Evolution",
+    "page_num_in_file": 8,
+    "slide_title": "Darwin’s Theory of Evolution",
+    "original_text": "Darwin’s Theory of Evolution¨Charles Darwin¤Naturalist, 22 years old when he set off on his 5 year voyage around South America on the SMS Beagle¤On his voyage, saw geological observations consistent with LyellnObserved layers of fossils in raised beaches of Argentina nBiogeography –The study of geographic distribution of life forms on Earth¤Darwin saw similar species in similar habitatsnReasoned that related species could be modified by the environmentnLiving forms could be descended from extinct forms known only from fossil records",
+    "explanation": "Charles Darwin, a 22-year-old naturalist, embarked on a five-year voyage around South America on the HMS Beagle (referred to in slide as SMS Beagle). During the trip, he made geological observations that supported Charles Lyell's uniformitarianism, such as finding fossil layers in raised beaches in Argentina. These observations stimulated his interest in biogeography, the study of the geographic distribution of life forms on Earth. Observing that similar species lived in similar habitats, Darwin reasoned that related species could be modified by their environment over time, and that living forms could be descendants of extinct species known only from the fossil record.",
+    "questions": [
+      {
+        "q": "What is the term for the study of the geographic distribution of life forms on Earth?",
+        "opts": [
+          "Paleontology",
+          "Biogeography",
+          "Geological uplift",
+          "Catastrophism"
+        ],
+        "a": 1,
+        "exp": "Biogeography is defined in the notes as the study of the geographic distribution of life forms on Earth."
+      },
+      {
+        "q": "What reasoning did Charles Darwin develop from observing similar species in similar habitats and fossil layers in Argentina?",
+        "opts": [
+          "Species are fixed and never change over time.",
+          "Related species could be modified by the environment and living species are descended from extinct fossil forms.",
+          "Earth's geological layers are the result of sudden, global catastrophes.",
+          "Organisms modify their physical traits through a strive for perfection and pass them to offspring."
+        ],
+        "a": 1,
+        "exp": "Darwin reasoned that related species could be modified by their environment, and that living forms could be descended from extinct forms documented in fossil records."
+      }
+    ],
+    "legacy_index": 7
+  },
+  {
+    "unit": 5,
+    "page": 9,
+    "filename": "Unit_5_1.txt",
+    "section_title": "Darwin & Evidence for Evolution",
+    "page_num_in_file": 9,
+    "slide_title": "Darwin’s Theory of Evolution",
+    "original_text": "Darwin’s Theory of Evolution¨Biogeography is the study of the range and geographic distribution of life-forms on Earth.¨Darwin compared South American animals to those with which he was familiar.¤Instead of rabbits, he found the Patagonian cavy in the grasslands of South America. The Patagonian cavy has long legs and ears but the face of a guinea pig.nDid the Patagonian cavy resemble a rabbit because the two types of animals were adapted to the same type of environment? nBoth animals ate grass, hid in bushes, and moved rapidly using long hind legs. nDid the Patagonian cavy have the face of a guinea pig because of common descent with guinea pigs?",
+    "explanation": "Biogeography refers to the study of the geographic range and distribution of living organisms across the globe. During his voyage, Charles Darwin compared animals unique to South America with those he was familiar with from Europe. For instance, instead of rabbits, he observed the Patagonian cavy in South American grasslands. The cavy possesses long legs and ears, similar to a rabbit, but has the facial structure of a guinea pig. Darwin hypothesized that the morphological similarities between the cavy and the rabbit (eating grass, hiding in bushes, and moving quickly using long hind legs) were adaptations to a similar grassland environment. Concurrently, he questioned whether its guinea pig-like face was a result of common descent from shared ancestral guinea pigs.",
+    "questions": [
+      {
+        "q": "Why did the Patagonian cavy resemble a rabbit, despite having the facial structure of a guinea pig, according to Darwin's reasoning?",
+        "opts": [
+          "They are members of the exact same species.",
+          "Both animals adapted to similar grassland environments through similar behaviors and physical traits.",
+          "The rabbit is a direct descendant of the Patagonian cavy.",
+          "The cavy's rabbit-like traits were artificial adaptations selected by human breeders."
+        ],
+        "a": 1,
+        "exp": "Darwin reasoned that the resemblance (long hind legs, eating grass, hiding in bushes) arose because both animals adapted to similar ecological niches in grassland environments, while the facial shape reflects common descent with guinea pigs."
+      },
+      {
+        "q": "What is the study of the range and geographic distribution of life-forms on Earth called?",
+        "opts": [
+          "Paleontology",
+          "Comparative Anatomy",
+          "Biogeography",
+          "Embryology"
+        ],
+        "a": 2,
+        "exp": "Biogeography is defined as the scientific study of the geographic distribution and ranges of plants and animals on Earth."
+      }
+    ],
+    "legacy_index": 8
+  },
+  {
+    "unit": 5,
+    "page": 10,
+    "filename": "Unit_5_1.txt",
+    "section_title": "Darwin & Evidence for Evolution",
+    "page_num_in_file": 10,
+    "slide_title": "Darwin’s Theory of Evolution",
+    "original_text": "Darwin’s Theory of Evolution¨Galapagos Islands¤Site of major advancement in Darwin’s observations¤Site too far from mainland for animals to travel to it, but islands populated. ¤Not only were species different than the mainland, they also varied between the different islandsnTortoisesnDarwin observed tortoise neck length, shell pattern, color differed between islandsnProposed speciation on islands correlated with a difference in vegetationnFinchesnFound many different species of finch on the different islandsnBeak size and shape varied between speciesnCould have descended from mainland finches",
+    "explanation": "The Galápagos Islands represented a critical location for Darwin's evolutionary insights. Although the islands were located too far from the South American mainland for easy migration, they were nevertheless populated by diverse species. Darwin noted that the island species differed not only from their mainland ancestors but also among the individual islands. He observed that tortoises on different islands exhibited distinct neck lengths, shell patterns, and shell colors, and he hypothesized that tortoise speciation was correlated with differences in local vegetation. Additionally, he identified multiple distinct species of finches across the islands, showing variation in beak size and shape, which he proposed had descended and diversified from a single ancestral mainland finch species.",
+    "questions": [
+      {
+        "q": "What correlation did Darwin propose to explain the variations in tortoise neck lengths and shell patterns across the Galápagos Islands?",
+        "opts": [
+          "A correlation with different rates of volcanic activity",
+          "A correlation with differences in local island vegetation",
+          "A correlation with the presence of mammalian predators",
+          "A correlation with the age of the individual tortoises"
+        ],
+        "a": 1,
+        "exp": "Darwin proposed that tortoise speciation and variation (such as neck length and shell patterns) on different islands correlated with differences in the vegetation available for food."
+      },
+      {
+        "q": "How did Darwin explain the source of the multiple finch species found on the different Galápagos Islands?",
+        "opts": [
+          "They were created independently on each island and could not change.",
+          "They migrated from Europe and adapted to the tropical climate.",
+          "They descended from a common ancestral finch species from the mainland.",
+          "They were selectively bred by early human inhabitants of the islands."
+        ],
+        "a": 2,
+        "exp": "Darwin suggested that the various finch species on the Galápagos Islands descended from mainland finches that migrated to the islands and subsequently diversified."
+      }
+    ],
+    "legacy_index": 9
+  },
+  {
+    "unit": 5,
+    "page": 11,
+    "filename": "Unit_5_1.txt",
+    "section_title": "Darwin & Evidence for Evolution",
+    "page_num_in_file": 11,
+    "slide_title": "Darwin’s Theory of Evolution",
+    "original_text": "Darwin’s Theory of Evolution¨Natural Selection& Adaptation¤Members of a population have inheritable variations¤More individuals are produced in each generation than environment can support¤Some individuals have adaptive characteristicsnFavorable traits that result in increased survival and reproduction¤Natural selection can result in a population adapted to the local environmentnAn increasing proportion of succeeding generations will have favorable characteristics¨Darwin’s Natural Selection hypothesis was based on his observation of the tortoises and finches on the Galapagos Islands",
+    "explanation": "Darwin's hypothesis of evolutionary change is driven by natural selection and adaptation, a concept he formulated based on his observations of Galápagos tortoises and finches. The mechanism relies on four fundamental tenets: first, members of a biological population exhibit inheritable variations; second, in each generation, more offspring are produced than the environment has resources to support; third, some individuals possess adaptive characteristics, meaning favorable traits that boost their survival and reproductive chances; and fourth, natural selection acts to favor these individuals, resulting in a population increasingly adapted to its local environment as a higher percentage of offspring inherit these favorable traits over generations.",
+    "questions": [
+      {
+        "q": "Which of the following is a key requirement for natural selection to occur within a population?",
+        "opts": [
+          "All members of the population must be genetically identical.",
+          "The environment must support the survival of all offspring produced.",
+          "Members of the population must possess inheritable variations.",
+          "Individuals must be able to change their genes during their lifetime."
+        ],
+        "a": 2,
+        "exp": "For natural selection to work, there must be inheritable variations within a population so that some traits can be favored over others."
+      },
+      {
+        "q": "What is the ultimate result of natural selection on succeeding generations in a local environment?",
+        "opts": [
+          "An increasing proportion of individuals will possess favorable adaptive characteristics.",
+          "The population will eventually stop reproducing.",
+          "Organisms will lose all their variations and become identical clones.",
+          "The species will revert back to its ancestral form."
+        ],
+        "a": 0,
+        "exp": "Natural selection results in populations adapted to their local environments, meaning an increasing proportion of succeeding generations will carry favorable characteristics."
+      }
+    ],
+    "legacy_index": 10
+  },
+  {
+    "unit": 5,
+    "page": 12,
+    "filename": "Unit_5_1.txt",
+    "section_title": "Darwin & Evidence for Evolution",
+    "page_num_in_file": 12,
+    "slide_title": "Darwin’s Theory of Evolution",
+    "original_text": "Darwin’s Theory of Evolution¨Organisms have Heritable Variation¤Darwin emphasized that individuals from a population vary in their:nFunctional characteristicsnPhysical characteristicsnBehavioral characteristics¤He proposed that these variations:nOccur randomlynAre essential to the natural selection processnAllow adaptation to the environment over time¨Organisms Compete for Resources¤Environment cannot support survival of all offspring",
+    "explanation": "Darwin emphasized that individuals within any population vary across several domains, including functional, physical, and behavioral characteristics. He argued that these variations occur randomly, are indispensable for the natural selection process to operate, and enable the population to adapt to its environment over generations. Alongside variation, resource competition is a driver of evolutionary change, because the carrying capacity of the environment is insufficient to support the survival of all offspring produced, leading to a struggle for survival.",
+    "questions": [
+      {
+        "q": "In which characteristics did Darwin emphasize that individuals within a population vary?",
+        "opts": [
+          "Only physical traits",
+          "Only behavioral traits",
+          "Functional, physical, and behavioral traits",
+          "Only chemical and molecular structures"
+        ],
+        "a": 2,
+        "exp": "The notes list three areas of individual variation within a population: functional, physical, and behavioral characteristics."
+      },
+      {
+        "q": "Why do organisms compete for resources in nature according to Darwin's observations?",
+        "opts": [
+          "Because variations are not inherited.",
+          "Because the environment cannot support the survival of all offspring produced.",
+          "Because organisms strive to become more complex.",
+          "Because competition prevents random variations from occurring."
+        ],
+        "a": 1,
+        "exp": "The notes state that organisms compete for resources because the environment cannot support the survival of all offspring."
+      }
+    ],
+    "legacy_index": 11
+  },
+  {
+    "unit": 5,
+    "page": 13,
+    "filename": "Unit_5_1.txt",
+    "section_title": "Darwin & Evidence for Evolution",
+    "page_num_in_file": 13,
+    "slide_title": "Darwin’s Theory of Evolution",
+    "original_text": "Darwin’s Theory of Evolution¨Organisms differ in Reproductive Success¤Fitnessis the relative reproductive success of an individualnThe most-fit individuals in a population capture a disproportionate share of resourcesnInteractions with the environment determine which individuals reproduce the most¨Organisms become Adapted¤Adaptation-Change that helps a species become more suited to its environment¤Product of natural selection",
+    "explanation": "Evolutionary fitness refers to the relative reproductive success of an individual within a population. Individuals with higher fitness are better at securing a disproportionate share of resources, and their interactions with the environment ultimately determine which individuals leave behind the most offspring. Through natural selection, populations undergo adaptation, defined as physical or functional changes that help a species become better suited to its environment over time. Adaptation is the direct product of natural selection acting on inheritable variations.",
+    "questions": [
+      {
+        "q": "How is 'fitness' defined in evolutionary biology based on the provided notes?",
+        "opts": [
+          "The physical strength and speed of an organism",
+          "The relative reproductive success of an individual",
+          "The size of the environment a species occupies",
+          "The number of resources an individual destroys"
+        ],
+        "a": 1,
+        "exp": "Fitness is explicitly defined as the 'relative reproductive success of an individual' in the text."
+      },
+      {
+        "q": "Which of the following is defined as a change that helps a species become more suited to its environment and is the product of natural selection?",
+        "opts": [
+          "Catastrophism",
+          "Acquired trait",
+          "Adaptation",
+          "Fixity of species"
+        ],
+        "a": 2,
+        "exp": "Adaptation is defined as a change that helps a species become more suited to its environment, serving as the product of natural selection."
+      }
+    ],
+    "legacy_index": 12
+  },
+  {
+    "unit": 5,
+    "page": 14,
+    "filename": "Unit_5_1.txt",
+    "section_title": "Darwin & Evidence for Evolution",
+    "page_num_in_file": 14,
+    "slide_title": "Darwin’s Theory of Evolution",
+    "original_text": "Darwin’s Theory of Evolution¨Darwin explained that his ideas on natural selection could be observed in human artificial selection¤A breeder chooses which traits to perpetuate and selects the plants and animals that will reproduce¤All dogs are descended from the gray wolfnBegan to be domesticated about 14,000 years ago.nThe process of diversification led to extreme phenotypic differencesnThe wolves under domestication were separated from other wolves.nEach human tribe selected for whatever traits appealed to them.¤Artificial selection in plants:nThe following vegetables are derived from a single species, Brassica oleracea:nChinese cabbage, Brussel sprouts, and Kohlrabi.",
+    "explanation": "Darwin noted that the dynamics of natural selection could be illustrated by human artificial selection. In artificial selection, a breeder determines which traits to perpetuate by selecting specific plants and animals to reproduce. An example of this is the domestic dog; all modern dogs descended from the gray wolf, which was domesticated approximately 14,000 years ago. Domestication isolated these wolves from wild populations, and human tribes selectively bred them for traits they preferred, leading to extreme phenotypic differences. Artificial selection is also evident in agriculture; plants like Chinese cabbage, Brussels sprouts, and Kohlrabi were all cultivated from a single wild mustard species, Brassica oleracea.",
+    "questions": [
+      {
+        "q": "Approximately how long ago did the domestication of dogs from their gray wolf ancestors begin?",
+        "opts": [
+          "1,400 years ago",
+          "14,000 years ago",
+          "140,000 years ago",
+          "4,000 years ago"
+        ],
+        "a": 1,
+        "exp": "The notes state that dogs began to be domesticated from the gray wolf about 14,000 years ago."
+      },
+      {
+        "q": "Which of the following vegetables are derived from the single plant species Brassica oleracea through artificial selection?",
+        "opts": [
+          "Carrots, potatoes, and onions",
+          "Chinese cabbage, Brussels sprouts, and Kohlrabi",
+          "Corn, wheat, and barley",
+          "Tomatoes, peppers, and eggplants"
+        ],
+        "a": 1,
+        "exp": "The slide specifies that Chinese cabbage, Brussels sprouts, and Kohlrabi are derived from the single species Brassica oleracea."
+      }
+    ],
+    "legacy_index": 13
+  },
+  {
+    "unit": 5,
+    "page": 15,
+    "filename": "Unit_5_1.txt",
+    "section_title": "Darwin & Evidence for Evolution",
+    "page_num_in_file": 15,
+    "slide_title": "Darwin’s Theory of Evolution",
+    "original_text": "Darwin’s Theory of Evolution¨Each of the 13 species of Galápagos finches has a beak adapted to a particular way of life.¤A heavy beak is suited to a diet of large seeds¤The beak of the warbler-finch is suited to feeding on insects¤A longer, somewhat decurved beak and the split tongue of the cactus-finch are suited to probing a cactus for seeds",
+    "explanation": "The Galápagos Islands are home to 13 distinct species of finches, each displaying a beak shape adapted to a specific ecological niche and diet. Darwin noted these adaptations: a heavy, robust beak is suited for cracking open large seeds; the warbler-finch possesses a thin beak suited for catching and feeding on insects; and the cactus-finch has a longer, slightly downward-curved (decurved) beak and a split tongue, features adapted for probing cactus flowers and fruits to obtain seeds.",
+    "questions": [
+      {
+        "q": "How many species of Galápagos finches did Darwin note, and how do their beaks differ?",
+        "opts": [
+          "5 species; all have heavy beaks for seeds.",
+          "13 species; each has a beak adapted to a particular way of life and diet.",
+          "13 species; all have long, decurved beaks for nectar.",
+          "22 species; they do not show any variation in beak shape."
+        ],
+        "a": 1,
+        "exp": "The notes mention that there are 13 species of Galápagos finches, each with a beak adapted to a particular way of life (such as heavy beaks for large seeds, thin warbler-finch beaks for insects, and long decurved beaks for cactus probing)."
+      },
+      {
+        "q": "What diet is the long, decurved beak and split tongue of the cactus-finch adapted for?",
+        "opts": [
+          "Catching flying insects",
+          "Cracking large, hard seeds",
+          "Probing cactus plants for seeds",
+          "Filtering aquatic organisms"
+        ],
+        "a": 2,
+        "exp": "The cactus-finch's longer, decurved beak and split tongue are adapted for probing a cactus for seeds."
+      }
+    ],
+    "legacy_index": 14
+  },
+  {
+    "unit": 5,
+    "page": 16,
+    "filename": "Unit_5_1.txt",
+    "section_title": "Darwin & Evidence for Evolution",
+    "page_num_in_file": 16,
+    "slide_title": "Evidence for Evolution",
+    "original_text": "Evidence for Evolution¨Fossil evidence¤Fossilsare the remains and traces of past life or any other direct evidence of past life such as trails, footprints, or preserved droppings¤Fossils record the history of life from the past¤Document a succession of life forms from the simple to the more complex¤Sometimes the fossil record is complete enough to show descent from an ancestor¨Transitional fossils are a common ancestor for two different groups of organisms¤They allow us to trace the descent of organisms",
+    "explanation": "Fossils represent the remains, traces, or direct evidence of past life, including skeletal remains, footprints, trails, or fossilized feces (preserved droppings). The fossil record documents the history of life, revealing a succession of life forms transitioning from simpler structures to more complex forms over geological eras. In some cases, the record is complete enough to trace the evolutionary descent of a species from its ancestors. Transitional fossils are crucial because they represent common ancestors linking two different groups of organisms, enabling scientists to map out and trace biological descent.",
+    "questions": [
+      {
+        "q": "Which of the following is considered direct evidence of past life in the study of fossils?",
+        "opts": [
+          "Trails, footprints, or preserved droppings",
+          "Only bone skeletons",
+          "Present-day environmental changes",
+          "Organisms' current behavioral characteristics"
+        ],
+        "a": 0,
+        "exp": "The notes define fossils as remains, traces, or direct evidence of past life, including trails, footprints, or preserved droppings."
+      },
+      {
+        "q": "What are transitional fossils, and why are they significant to the study of evolution?",
+        "opts": [
+          "They are fossils that have changed into modern rock through erosion.",
+          "They are common ancestors for two different groups that allow us to trace the descent of organisms.",
+          "They are fossils of organisms that went extinct without leaving any descendants.",
+          "They are fossils that only exist on isolated oceanic islands."
+        ],
+        "a": 1,
+        "exp": "Transitional fossils represent common ancestors for two different groups, which helps scientists trace the descent and evolutionary pathway of organisms."
+      }
+    ],
+    "legacy_index": 15
+  },
+  {
+    "unit": 5,
+    "page": 17,
+    "filename": "Unit_5_1.txt",
+    "section_title": "Darwin & Evidence for Evolution",
+    "page_num_in_file": 17,
+    "slide_title": "Evidence for Evolution",
+    "original_text": "Evidence for Evolution¨Biogeographical Evidence¤Biogeography is the study of the range and distribution of plants and animals throughout the world¤Biogeographical distributions are consistent with the hypothesis that related forms of life evolved in one locale and then spread to accessible regions¤A different mix of plants and animals would be expected whenever geography separates continents, islands, seas, etc.",
+    "explanation": "Biogeographical evidence supports evolution through the study of the geographic ranges and distribution of plants and animals globally. Biogeographical patterns show that related life forms evolved in a single location (locale) and subsequently spread to adjacent, accessible areas. Consequently, when geographical barriers like oceans, seas, islands, or continental shifts isolate regions, a unique mix of plants and animals develops, which explains why isolated regions have distinct endemic species.",
+    "questions": [
+      {
+        "q": "How does biogeography explain the distribution of related species?",
+        "opts": [
+          "Related species arose spontaneously in many different places at the same time.",
+          "Related species evolved in one locale and then dispersed to accessible regions.",
+          "Species distributions are completely random and show no correlation with geography.",
+          "All related species are restricted to the South American mainland."
+        ],
+        "a": 1,
+        "exp": "Biogeographical distributions are consistent with the hypothesis that related life forms evolved in one locale and then spread to accessible regions."
+      },
+      {
+        "q": "What is expected to happen when geographic features like oceans or seas separate landmasses over time?",
+        "opts": [
+          "The same identical species will remain on both sides of the barrier.",
+          "A different mix of plants and animals will develop due to isolation.",
+          "Organisms will lose the ability to reproduce.",
+          "Erosion will cease entirely on those landmasses."
+        ],
+        "a": 1,
+        "exp": "Geography separating landmasses (continents, islands, seas) results in a different mix of plants and animals in those isolated regions."
+      }
+    ],
+    "legacy_index": 16
+  },
+  {
+    "unit": 5,
+    "page": 18,
+    "filename": "Unit_5_1.txt",
+    "section_title": "Darwin & Evidence for Evolution",
+    "page_num_in_file": 18,
+    "slide_title": "Evidence of Evolution",
+    "original_text": "Evidence of Evolution¨Anatomical Evidence¤Vertebrate forelimbs:nHomologous structures -All contain the same sets of organized bones in similar waysnYet they are modified extensively to meet various adaptive needsnDarwin interpreted this as support for a hypothesis of common descent¤Embryological developmentnAll vertebrate embryos have:nA postanaltail and Paired pharyngeal (gill) pouches",
+    "explanation": "Anatomical evidence for evolution includes homologous structures and embryological similarities. Vertebrate forelimbs are homologous structures because they all contain the same basic arrangements of organized bones put together in similar ways, despite being modified to serve different adaptive needs (such as swimming, flying, or running). Darwin interpreted these similarities as strong evidence of common descent. Additionally, embryological development displays shared ancestry; all vertebrate embryos, at some point during their early development, possess a postanal tail and paired pharyngeal (gill) pouches, regardless of their final adult form.",
+    "questions": [
+      {
+        "q": "What did Darwin interpret homologous structures in vertebrate forelimbs as evidence of?",
+        "opts": [
+          "Organisms modifying their anatomy through use and disuse during their lifetime",
+          "Independent creation of species in similar habitats",
+          "A hypothesis of common descent",
+          "A rapid process of catastrophism"
+        ],
+        "a": 2,
+        "exp": "Darwin interpreted the shared bone layouts in vertebrate forelimbs (homologous structures) as support for the hypothesis of common descent."
+      },
+      {
+        "q": "Which two anatomical features are shared by all vertebrate embryos during early development?",
+        "opts": [
+          "Lungs and feathers",
+          "A postanal tail and paired pharyngeal pouches",
+          "Binomial nomenclature and scales",
+          "Hox genes and specialized forelimbs"
+        ],
+        "a": 1,
+        "exp": "The notes state that all vertebrate embryos have a postanal tail and paired pharyngeal (gill) pouches during embryological development."
+      }
+    ],
+    "legacy_index": 17
+  },
+  {
+    "unit": 5,
+    "page": 19,
+    "filename": "Unit_5_1.txt",
+    "section_title": "Darwin & Evidence for Evolution",
+    "page_num_in_file": 19,
+    "slide_title": "Evidence for Evolution",
+    "original_text": "Evidence for Evolution¨Biochemical Evidence¤All living organisms:nUse the same basic biochemical moleculesnUtilize same DNA triplet codenUtilize same 20 amino acids in their proteins¤DNA base-sequence differences:nWhen very similar, suggest recent common descentnWhen more different, suggest more ancient common descent",
+    "explanation": "Biochemical evidence demonstrates the unity of life through shared molecular machinery. All living organisms utilize the same basic biochemical molecules, the same DNA triplet genetic code, and the same 20 amino acids to synthesize proteins. By comparing DNA base sequences, scientists can infer evolutionary relationships: highly similar DNA sequences suggest a recent common ancestor (recent common descent), whereas greater sequence differences suggest a more distant common ancestor (ancient common descent).",
+    "questions": [
+      {
+        "q": "Which biochemical characteristic is shared by all living organisms on Earth?",
+        "opts": [
+          "They all possess a postanal tail as adults.",
+          "They utilize the same DNA triplet code and 20 amino acids in their proteins.",
+          "They contain identical DNA base sequences.",
+          "They undergo the same geographical migrations."
+        ],
+        "a": 1,
+        "exp": "According to the notes, all living organisms share basic biochemical molecules, use the same DNA triplet code, and use the same 20 amino acids for protein synthesis."
+      },
+      {
+        "q": "What do minor differences in DNA base sequences between two species indicate?",
+        "opts": [
+          "A recent common descent",
+          "A more ancient common descent",
+          "No evolutionary relationship",
+          "Catastrophic local repopulation"
+        ],
+        "a": 0,
+        "exp": "The notes explain that DNA base-sequence differences suggest recent common descent when they are very similar, and more ancient common descent when they are more different."
+      }
+    ],
+    "legacy_index": 18
+  },
+  {
+    "unit": 5,
+    "page": 20,
+    "filename": "Unit_5_1.txt",
+    "section_title": "Darwin & Evidence for Evolution",
+    "page_num_in_file": 20,
+    "slide_title": "Evidence for Evolution",
+    "original_text": "Evidence for Evolution¨Evidence from Developmental Biology¤Many developmental genes are shared in common between species¤Much diversity comes from when these regulatory genes that control the activity of other genes are activatednHoxGenesnOrchestrate the developmental body plan in all animalsnCommon Ancestor gene -Number and variety of Hoxgenes varies among animal groupsnVariation could lead to the different variety of body plans between species",
+    "explanation": "Developmental biology provides evidence for evolution by showing that many developmental genes are shared across species. Evolutionary diversity often stems not from different genes, but from differences in the timing and activation of regulatory genes that control other genes. A primary example is Hox genes, which orchestrate the developmental body plan in all animals. Derived from a common ancestral gene, the number and variety of Hox genes vary among different animal groups. Variations in these regulatory genes can lead to the wide diversity of body plans observed across animal species.",
+    "questions": [
+      {
+        "q": "What is the primary function of Hox genes in animal development?",
+        "opts": [
+          "They code for metabolic enzymes in the mitochondria.",
+          "They orchestrate the developmental body plan in all animals.",
+          "They determine the geographical range of the species.",
+          "They repair damaged DNA sequences in somatic cells."
+        ],
+        "a": 1,
+        "exp": "Hox genes are developmental regulatory genes that orchestrate the body plan in all animals."
+      },
+      {
+        "q": "How does developmental biology explain the diverse body plans among different animal groups?",
+        "opts": [
+          "By the acquisition of traits during an individual's lifetime",
+          "By variations in the number and activation of regulatory Hox genes",
+          "By the complete lack of shared genes between animal groups",
+          "By the constant rates of geological erosion and uplift"
+        ],
+        "a": 1,
+        "exp": "Diversity is driven by variation in the activation and number of shared regulatory genes (like Hox genes), which control other genes and direct body plan development."
+      }
+    ],
+    "legacy_index": 19
+  },
+  {
+    "unit": 5,
+    "page": 21,
+    "filename": "Unit_5_1.txt",
+    "section_title": "Darwin & Evidence for Evolution",
+    "page_num_in_file": 21,
+    "slide_title": "Criticisms of Evolution",
+    "original_text": "Criticisms of Evolution¨Darwin’s hypothesis is now considered a Theory¤Many misconceptions about EvolutionnEvolution is a theory of how life originatednNo, Evolution deals with how diversity of life emerged following the origin of lifenThere are no transition fossilsnIt is not expected that all transition fossils would be found.nOrganism may not have perished in areas favorable to preservationnScientists need to find and uncover remains (needle in a haystack)nEvolution proposes life changed as a result of random events –traits are too complex to have originated “by chance”nChance plays a role, but mutation is critical. Natural selection can then act on variations. nEvolution is not observable or testablenIt is both! ¨Discussion –Is it possible to observe evolution in our everyday lives? Where? How?",
+    "explanation": "This slide addresses common criticisms and misconceptions about the theory of evolution. First, it notes that Darwin's ideas are now scientifically established as a Theory. It dismantles four misconceptions: (1) that evolution explains the origin of life, clarifying that it instead explains how the diversity of life emerged *after* life originated; (2) that the absence of some transitional fossils invalidates it, explaining that fossilization is rare because organisms rarely die in conditions favorable for preservation, making finding them like finding a needle in a haystack; (3) that traits are too complex to evolve by chance, explaining that while mutations occur randomly, natural selection is non-random and preserves advantageous traits; and (4) that evolution cannot be observed or tested, stating that it is indeed both observable and testable. It concludes with a discussion prompt about observing evolution in daily life.",
+    "questions": [
+      {
+        "q": "What does the theory of evolution actually explain, contrary to the misconception that it is about the origin of life?",
+        "opts": [
+          "How organic molecules first formed in the primordial soup",
+          "How the diversity of life emerged following the origin of life",
+          "The process of planetary formation and early Earth geology",
+          "The mechanisms of star and solar system development"
+        ],
+        "a": 1,
+        "exp": "The notes clarify that evolution does not deal with how life originated, but rather how the diversity of life emerged after the origin of life."
+      },
+      {
+        "q": "Why is it unrealistic to expect to find fossils for every transitional organism that ever lived?",
+        "opts": [
+          "Organisms do not change over time, so there are no transitional stages.",
+          "Fossilization is common, but most fossils are destroyed by modern scientists.",
+          "Organisms may not have died in environments favorable to preservation, and locating them is extremely difficult.",
+          "Transitional organisms never leave physical remains due to their cellular structure."
+        ],
+        "a": 2,
+        "exp": "Fossilization requires specific preservation conditions, which do not occur everywhere. Finding these rare remains among vast geological strata is highly challenging, like finding a needle in a haystack."
+      }
+    ],
+    "legacy_index": 20
+  },
+  {
+    "unit": 5,
+    "page": 22,
+    "filename": "Unit_5_2.txt",
+    "section_title": "How Populations Evolve",
+    "page_num_in_file": 1,
+    "slide_title": "How Populations Evolve - Visual Page 1",
+    "original_text": "UNIT 5: MECHANISMS & PATTERNS OF EVOLUTION5.2 –HOW POPULATIONS EVOLVEBiology 9 Mr. QueenanCh. 18.2 (pg. 585-591)",
+    "explanation": "This is the title page for Section 5.2, titled 'How Populations Evolve,' in Unit 5 of the Biology 9 course. The section corresponding to this topic is Chapter 18.2, found on pages 585 through 591 of the course textbook.",
+    "questions": [
+      {
+        "q": "What is the title of Section 5.2 in Unit 5 of the Biology notes?",
+        "opts": [
+          "Darwin & Evidence for Evolution",
+          "How Populations Evolve",
+          "Speciation and Macroevolution",
+          "The Origin of Life"
+        ],
+        "a": 1,
+        "exp": "The title page explicitly shows the section title is 'How Populations Evolve'."
+      }
+    ],
+    "legacy_index": 21
+  },
+  {
+    "unit": 5,
+    "page": 23,
+    "filename": "Unit_5_2.txt",
+    "section_title": "How Populations Evolve",
+    "page_num_in_file": 2,
+    "slide_title": "5.2 –Opening Question",
+    "original_text": "5.2 –Opening Question¨Identify differences that can be observed in the hares below.¨Which of these differences could be an evolutionary advantage, and which could be a disadvantage?",
+    "explanation": "This slide introduces Section 5.2 with an opening question that prompts students to observe and identify differences in the appearance of hares shown in an accompanying image. The exercise asks students to evaluate which of these phenotypic differences might confer an evolutionary advantage or disadvantage in a given environment.",
+    "questions": [
+      {
+        "q": "What group of animals is analyzed in the opening question of Section 5.2 to discuss traits and evolutionary advantage?",
+        "opts": [
+          "Finches",
+          "Hares",
+          "Moths",
+          "Tortoises"
+        ],
+        "a": 1,
+        "exp": "The opening question asks students to identify differences in the 'hares below' and evaluate their evolutionary advantages or disadvantages."
+      }
+    ],
+    "legacy_index": 22
+  },
+  {
+    "unit": 5,
+    "page": 24,
+    "filename": "Unit_5_2.txt",
+    "section_title": "How Populations Evolve",
+    "page_num_in_file": 3,
+    "slide_title": "5.2 –Opening Question",
+    "original_text": "5.2 –Opening Question¨Fur color is biggest observable difference. ¨Selection pressures will ultimately determine whether a trait is an evolutionary advantage or disadvantage…",
+    "explanation": "This slide answers the opening question from the previous page. It points out that the primary observable difference among the hares is their fur color. It explains the central evolutionary concept that selection pressures in the environment determine whether a particular trait, such as a specific fur color, acts as an evolutionary advantage or disadvantage for survival and reproduction.",
+    "questions": [
+      {
+        "q": "What determines whether a trait like fur color is an evolutionary advantage or disadvantage?",
+        "opts": [
+          "The choice of the animal itself",
+          "Selection pressures in the environment",
+          "The size of the population's gene pool",
+          "The rate of genetic mutations"
+        ],
+        "a": 1,
+        "exp": "The slide explicitly states that 'selection pressures will ultimately determine whether a trait is an evolutionary advantage or disadvantage...'"
+      }
+    ],
+    "legacy_index": 23
+  },
+  {
+    "unit": 5,
+    "page": 25,
+    "filename": "Unit_5_2.txt",
+    "section_title": "How Populations Evolve",
+    "page_num_in_file": 4,
+    "slide_title": "How Populations Evolve",
+    "original_text": "How Populations Evolve",
+    "explanation": "This slide is a section divider or placeholder marking the core content transition for the topic 'How Populations Evolve.'",
+    "questions": [
+      {
+        "q": "What is the topic of the slide on page 25?",
+        "opts": [
+          "How Populations Evolve",
+          "The History of Evolutionary Thought",
+          "Developmental Biology",
+          "Evidence for Evolution"
+        ],
+        "a": 0,
+        "exp": "The text on this slide simply states 'How Populations Evolve'."
+      }
+    ],
+    "legacy_index": 24
+  },
+  {
+    "unit": 5,
+    "page": 26,
+    "filename": "Unit_5_2.txt",
+    "section_title": "How Populations Evolve",
+    "page_num_in_file": 5,
+    "slide_title": "Genes, Populations, & Evolution",
+    "original_text": "Genes, Populations, & Evolution¨A populationis all the members of a single species occupying a particular area at the same time.¨Diversity exists among members of a population.¨Population genetics is the study of this diversity in terms of allele differences.¤Evaluates the diversity of a population by studying genotype and phenotype frequencies over time¨In the 1930s, population geneticists began to describe variations in a population in terms of alleles¨Microevolution pertains to evolutionary changes within a population.¤Various alleles at all the gene loci in all individuals make up the gene pool of the population.¤The gene pool of a population can be described in terms of:nGenotype frequenciesnAllele frequencies",
+    "explanation": "This page introduces the foundation of population genetics. A population is defined as all the members of a single species occupying a particular area at the same time. Genetic diversity is inherent in populations, and population genetics is the scientific study of this diversity in terms of allele differences, evaluating changes in genotype and phenotype frequencies over time. In the 1930s, geneticists began describing these population variations specifically using alleles. Microevolution refers to evolutionary changes that occur within a population. The gene pool is the collection of all the alleles at all gene loci across all individuals in that population, and it can be quantitatively described using genotype frequencies and allele frequencies.",
+    "questions": [
+      {
+        "q": "What is the definition of a population in the context of genetics and evolution?",
+        "opts": [
+          "All the different species living in a particular area at different times",
+          "All members of a single species occupying a particular area at the same time",
+          "A group of organisms that are genetically identical",
+          "The total number of genes in a particular habitat"
+        ],
+        "a": 1,
+        "exp": "The notes define a population as 'all the members of a single species occupying a particular area at the same time.'"
+      },
+      {
+        "q": "What makes up the gene pool of a population?",
+        "opts": [
+          "The geographic boundaries that isolate a species",
+          "The somatic cells that undergo mitosis",
+          "Various alleles at all the gene loci in all individuals of the population",
+          "The external physical traits determined by environmental selection pressures"
+        ],
+        "a": 2,
+        "exp": "The gene pool consists of the collection of all the various alleles at all the gene loci across all the individuals in a population."
+      }
+    ],
+    "legacy_index": 25
+  },
+  {
+    "unit": 5,
+    "page": 27,
+    "filename": "Unit_5_2.txt",
+    "section_title": "How Populations Evolve",
+    "page_num_in_file": 6,
+    "slide_title": "Genes, Populations, & Evolution",
+    "original_text": "Genes, Populations, & Evolution¨Allele Frequencies¤The proportion of each allele within a population’s gene pool.¤Frequencies of the dominant and recessive allele must add up to 1.nThis relationship is described by the expression p + q = 1nGenotype frequencies follow the equation p2+ 2pq + q2np is the frequency of one allele and q is the frequency of the other¤Microevolution involves a change in these allele frequencies within populations over time.¤If the gene frequencies do not change over time, microevolution has not occurred.",
+    "explanation": "Allele frequencies represent the proportion of each allele within a population's gene pool. In a simple two-allele system (dominant and recessive), the frequencies of the two alleles must sum to 1, represented mathematically by the equation p + q = 1 (where p is the frequency of one allele and q is the other). The resulting genotype frequencies in the population follow the Hardy-Weinberg expansion: p^2 + 2pq + q^2 = 1. Microevolution is defined as a change in these allele frequencies within a population over time. If these frequencies remain completely unchanged over generations, microevolution has not occurred.",
+    "questions": [
+      {
+        "q": "What mathematical equation describes the relationship between the allele frequencies of a two-allele system in a gene pool?",
+        "opts": [
+          "p2 + 2pq + q2 = 0",
+          "p + q = 1",
+          "p - q = 1",
+          "p * q = 2"
+        ],
+        "a": 1,
+        "exp": "The relationship between allele frequencies is described by the equation p + q = 1, where p and q represent the frequencies of the two alleles."
+      },
+      {
+        "q": "How is microevolution defined in terms of allele frequencies?",
+        "opts": [
+          "The formation of a new species due to geological separation",
+          "The total extinction of recessive alleles in a population",
+          "A change in allele frequencies within a population over time",
+          "The accumulation of physical traits that cannot be inherited"
+        ],
+        "a": 2,
+        "exp": "Microevolution involves a change in the allele frequencies within a population over time. If they do not change, microevolution has not occurred."
+      }
+    ],
+    "legacy_index": 26
+  },
+  {
+    "unit": 5,
+    "page": 28,
+    "filename": "Unit_5_2.txt",
+    "section_title": "How Populations Evolve",
+    "page_num_in_file": 7,
+    "slide_title": "Genes, Populations, & Evolution",
+    "original_text": "Genes, Populations, & Evolution\nPopulation of moths outside London –25 moths collected for 3 seasons and allele frequency remained the same (p=0.2, q=0.8). Since alleles same -no evolution",
+    "explanation": "This slide provides a concrete example of genetic stability in a natural population. Geneticists collected 25 moths outside London over three seasons and observed that the allele frequencies remained constant at p = 0.2 and q = 0.8. Because the allele frequencies did not change over this time period, no microevolution had occurred in the moth population.",
+    "questions": [
+      {
+        "q": "In the moth study outside London, why was it concluded that no evolution occurred?",
+        "opts": [
+          "The moths did not reproduce.",
+          "The allele frequencies remained constant (p=0.2, q=0.8) over the three seasons.",
+          "All moths possessed identical physical phenotypes.",
+          "The population size dropped to zero."
+        ],
+        "a": 1,
+        "exp": "Evolution did not occur because the allele frequencies remained the same (p=0.2, q=0.8) over the three seasons, showing that microevolutionary changes were absent."
+      }
+    ],
+    "legacy_index": 27
+  },
+  {
+    "unit": 5,
+    "page": 29,
+    "filename": "Unit_5_2.txt",
+    "section_title": "How Populations Evolve",
+    "page_num_in_file": 8,
+    "slide_title": "Genes, Populations, & Evolution",
+    "original_text": "Genes, Populations, & Evolution¨A population where alleles do not change over time is said to be in genetic equilibrium, or Hardy-Weinberg Equilibrium¨Hardy-Weinberg Equilibrium states that allele frequencies in a population will remain constant assuming all the following occur:nNo Mutations nNo Migration (Gene Flow)nRandom Mating nNo Genetic DriftnNo Selection¨Although possible in theory, HWE can NEVER be achieved in wild populations because all 5 conditions can never be met",
+    "explanation": "When the allele frequencies of a population remain constant over generations, the population is in genetic equilibrium, also known as Hardy-Weinberg Equilibrium (HWE). HWE states that allele frequencies will remain unchanged if five conditions are met: (1) no mutations occur, (2) no migration (no gene flow) takes place, (3) mating is completely random, (4) there is no genetic drift (which requires an infinitely large population to prevent chance changes), and (5) there is no natural selection favoring any phenotype. While useful as a theoretical model, HWE can never be achieved in wild populations because it is biologically impossible for all five of these conditions to be met simultaneously in nature.",
+    "questions": [
+      {
+        "q": "Which of the following is NOT one of the five conditions required to maintain Hardy-Weinberg Equilibrium?",
+        "opts": [
+          "No Mutation",
+          "No Migration (Gene Flow)",
+          "Non-random Mating",
+          "No Selection"
+        ],
+        "a": 2,
+        "exp": "Random mating is required for HWE. Non-random mating would cause genotype frequencies to shift, disrupting equilibrium."
+      },
+      {
+        "q": "Why can Hardy-Weinberg Equilibrium never be achieved in wild populations?",
+        "opts": [
+          "Wild populations do not have gene pools.",
+          "It is impossible for all five required conditions to be met in nature.",
+          "Natural selection is the only condition that can ever change.",
+          "Mutations never occur in wild populations."
+        ],
+        "a": 1,
+        "exp": "HWE is theoretical because all five conditions (no mutation, no migration, random mating, no genetic drift, no selection) can never be met simultaneously in any wild population."
+      }
+    ],
+    "legacy_index": 28
+  },
+  {
+    "unit": 5,
+    "page": 30,
+    "filename": "Unit_5_2.txt",
+    "section_title": "How Populations Evolve",
+    "page_num_in_file": 9,
+    "slide_title": "Genes, Populations, & Evolution",
+    "original_text": "Genes, Populations, & Evolution¨Hardy-Weinberg Equilibrium:¤Required conditions are rarely (if ever) met¤Deviations from a Hardy-Weinberg equilibrium indicate that evolution has taken place¤Analysis of allele changes in populations over time determines the extent to which evolution has occurred.",
+    "explanation": "Because the conditions necessary for Hardy-Weinberg Equilibrium are rarely, if ever, met in nature, real populations typically deviate from equilibrium. Any observed deviation from HWE indicates that evolution has taken place. By analyzing these shifts and changes in allele frequencies over time, population geneticists can determine the direction and extent of evolutionary change within a population.",
+    "questions": [
+      {
+        "q": "What does a deviation from Hardy-Weinberg Equilibrium indicate about a population?",
+        "opts": [
+          "The population has gone extinct.",
+          "Evolution has taken place.",
+          "No genetic mutations are occurring.",
+          "Mating has become completely random."
+        ],
+        "a": 1,
+        "exp": "A deviation from Hardy-Weinberg Equilibrium indicates that allele frequencies have shifted, which means that evolution has occurred."
+      }
+    ],
+    "legacy_index": 29
+  },
+  {
+    "unit": 5,
+    "page": 31,
+    "filename": "Unit_5_2.txt",
+    "section_title": "How Populations Evolve",
+    "page_num_in_file": 10,
+    "slide_title": "Genes, Populations, & Evolution",
+    "original_text": "Genes, Populations, & Evolution",
+    "explanation": "This slide serves as a thematic separator card for the 'Genes, Populations, & Evolution' subsection under the larger topic of How Populations Evolve.",
+    "questions": [
+      {
+        "q": "What is the heading of the separator slide on page 31?",
+        "opts": [
+          "Evidence for Evolution",
+          "Darwin's Galapagos Voyage",
+          "Genes, Populations, & Evolution",
+          "Macroevolution and Speciation"
+        ],
+        "a": 2,
+        "exp": "The slide content is the text 'Genes, Populations, & Evolution'."
+      }
+    ],
+    "legacy_index": 30
+  },
+  {
+    "unit": 5,
+    "page": 32,
+    "filename": "Unit_5_2.txt",
+    "section_title": "How Populations Evolve",
+    "page_num_in_file": 11,
+    "slide_title": "Genes, Populations, & Evolution",
+    "original_text": "Genes, Populations, & Evolution¨Causes of Microevolution¨Genetic mutations¤The raw material for evolutionary change¤Provide new alleles¤Some mutations might be more adaptive than othersnEx: Genetic mutations affecting pigment color in peppered moths have provided the variation needed for natural selection to occur¤Although inherited mutations are rare, they are the driver of evolution",
+    "explanation": "This slide identifies genetic mutations as the primary cause of microevolution. Genetic mutations serve as the fundamental 'raw material' for evolutionary change because they are the sole source of brand-new alleles. Some mutations can prove to be adaptive, offering a survival or reproductive benefit under certain environmental conditions. For example, random genetic mutations that altered the pigment color in peppered moths provided the phenotypic variation that natural selection acted upon during the Industrial Revolution. Although inherited mutations are rare events in individual organisms, they are the essential drivers that make long-term evolution possible.",
+    "questions": [
+      {
+        "q": "What is considered the ultimate 'raw material' for evolutionary change because it provides new alleles?",
+        "opts": [
+          "Gene flow",
+          "Genetic drift",
+          "Natural selection",
+          "Genetic mutations"
+        ],
+        "a": 3,
+        "exp": "Mutations are the raw material for evolutionary change because they are the only mechanism that generates new alleles in a gene pool."
+      },
+      {
+        "q": "Using the peppered moth example, how do mutations facilitate natural selection?",
+        "opts": [
+          "Mutations allow the moths to migrate to new geographic locations.",
+          "Mutations provide the variation (e.g. pigment color) that selection pressures can act upon.",
+          "Mutations guarantee that all moths will survive regardless of environmental changes.",
+          "Mutations eliminate the need for reproduction."
+        ],
+        "a": 1,
+        "exp": "Mutations create phenotypic variations (such as dark vs light pigment in moths) that allow environmental selection pressures to favor one variation over another."
+      }
+    ],
+    "legacy_index": 31
+  },
+  {
+    "unit": 5,
+    "page": 33,
+    "filename": "Unit_5_2.txt",
+    "section_title": "How Populations Evolve",
+    "page_num_in_file": 12,
+    "slide_title": "Genes, Populations, & Evolution",
+    "original_text": "Genes, Populations, & Evolution¨Causes of Microevolution¨Gene Flow (gene migration)¤Movement of alleles between populations when:nGametes or seeds (in plants) are carried into another populationnBreeding individuals migrate into or out of population¤Continual gene flow reduces genetic divergence between populationsnPopulations become more similar over time¤When no migration, populations become more divergent over time",
+    "explanation": "Gene flow, or gene migration, is another major cause of microevolution. It refers to the movement of alleles between separate populations. This can happen when plant gametes or seeds are wind-blown or carried into a different population, or when breeding individuals physically migrate into or out of a population. Continual gene flow functions to mix the gene pools, reducing genetic divergence and making the populations more genetically similar over time. Conversely, if there is no migration (no gene flow), reproductive isolation allows the populations to become increasingly genetically divergent over time.",
+    "questions": [
+      {
+        "q": "What is the biological effect of continuous gene flow between two populations?",
+        "opts": [
+          "It causes the two populations to become more genetically divergent.",
+          "It reduces genetic divergence, making the populations more similar over time.",
+          "It increases the rate of random mutations in both populations.",
+          "It forces both populations into immediate Hardy-Weinberg equilibrium."
+        ],
+        "a": 1,
+        "exp": "Continual gene flow introduces and mixes alleles between populations, reducing genetic divergence and making them more similar."
+      },
+      {
+        "q": "Under what conditions do two populations become more genetically divergent over time?",
+        "opts": [
+          "When there is high, continuous gene flow between them",
+          "When mating between them is completely random",
+          "When there is no migration (no gene flow) between them",
+          "When they share the same geographic area and breeding seasons"
+        ],
+        "a": 2,
+        "exp": "When migration/gene flow is absent, the populations are isolated and accumulate genetic differences independently, making them more divergent."
+      }
+    ],
+    "legacy_index": 32
+  },
+  {
+    "unit": 5,
+    "page": 34,
+    "filename": "Unit_5_2.txt",
+    "section_title": "How Populations Evolve",
+    "page_num_in_file": 13,
+    "slide_title": "Genes, Populations, & Evolution",
+    "original_text": "Genes, Populations, & Evolution¨Causes of Microevolution¨Genetic Drift¤Changes in the allele frequencies of a population due to chance rather than selection by the environment¤Does not necessarily lead to adaptation to the environment¤Occurs by disproportionate random sampling from populationnCan cause the gene pools of two isolated populations to become dissimilarnSome alleles are lost and others become fixed (unopposed)¤Likely to occur:nAfter a bottlenecknWhen severe inbreeding occurs, ornWhen founders start a new population¤Stronger effect in small populations",
+    "explanation": "Genetic drift is a cause of microevolution defined as changes in the allele frequencies of a population due to random chance, rather than natural selection by the environment. Because it is random, genetic drift does not necessarily result in adaptation. It occurs when alleles are disproportionately sampled from a generation, which can lead to some alleles being completely lost while others become fixed (frequency of 100%, or unopposed). Genetic drift can cause isolated populations to become genetically distinct and has a much stronger effect in small populations. It is highly likely to occur after a population bottleneck, during severe inbreeding, or when a small group of founders establishes a new population.",
+    "questions": [
+      {
+        "q": "Unlike natural selection, how does genetic drift change allele frequencies?",
+        "opts": [
+          "By favoring traits that provide a survival advantage",
+          "By random chance events rather than environmental selection",
+          "By increasing the rate of gene flow between populations",
+          "By forcing random mating in large populations"
+        ],
+        "a": 1,
+        "exp": "Genetic drift changes allele frequencies due to random chance sampling rather than environmental selection, meaning it does not necessarily lead to adaptation."
+      },
+      {
+        "q": "In which type of population does genetic drift have the most significant (strongest) impact?",
+        "opts": [
+          "Large populations in Hardy-Weinberg equilibrium",
+          "Small populations",
+          "Populations with high rates of gene flow",
+          "Populations that do not experience mutations"
+        ],
+        "a": 1,
+        "exp": "Genetic drift has a stronger, more pronounced effect in small populations because random events have a larger relative impact on smaller gene pools."
+      }
+    ],
+    "legacy_index": 33
+  },
+  {
+    "unit": 5,
+    "page": 35,
+    "filename": "Unit_5_2.txt",
+    "section_title": "How Populations Evolve",
+    "page_num_in_file": 14,
+    "slide_title": "Genes, Populations, & Evolution",
+    "original_text": "Genes, Populations, & Evolution¨Bottleneck Effect¤A random event prevents a majority of individuals from entering the next generation¤The next generation is composed of alleles that just happened to make it¨Founder Effect¤When a new population is started from just a few individuals¤The alleles carried by population founders are dictated by chance¤Formerly rare alleles will either:nOccur at a higher frequency in the new population, ornBe absent in new population",
+    "explanation": "This slide details two specific scenarios of genetic drift: the Bottleneck Effect and the Founder Effect. The bottleneck effect occurs when a random event (such as a natural disaster) drastically reduces population size, preventing the majority of individuals from contributing to the next generation. The surviving population has a restricted gene pool composed of alleles that simply happened to survive. The founder effect occurs when a new, isolated population is established by a very small group of individuals. The genetic makeup of this new population is dictated entirely by chance alleles carried by the founders. Consequently, alleles that were rare in the source population may either become highly common in the new population or be completely lost.",
+    "questions": [
+      {
+        "q": "What is the Bottleneck Effect?",
+        "opts": [
+          "When alleles move between populations due to the migration of breeding individuals",
+          "When a random event drastically reduces population size, leaving a surviving generation with alleles that just happened to make it",
+          "The gradual adaptation of a species to a new environment over millions of years",
+          "The process where a breeder selects desirable traits in domestic dogs"
+        ],
+        "a": 1,
+        "exp": "The bottleneck effect is a chance event that prevents the majority of a population from reproducing, leaving a next generation with a gene pool composed only of the random survivors' alleles."
+      },
+      {
+        "q": "In the Founder Effect, what happens to alleles that were rare in the original population?",
+        "opts": [
+          "They will always mutate into new dominant alleles.",
+          "They will either occur at a higher frequency in the new population or be completely absent, determined by chance.",
+          "They will gradually be eliminated by natural selection.",
+          "They will stay at the exact same frequency due to genetic equilibrium."
+        ],
+        "a": 1,
+        "exp": "Because the founders represent a tiny, chance sample of the original population, rare alleles will either be overrepresented (higher frequency) in the new group or not present at all."
+      }
+    ],
+    "legacy_index": 34
+  },
+  {
+    "unit": 5,
+    "page": 36,
+    "filename": "Unit_5_2.txt",
+    "section_title": "How Populations Evolve",
+    "page_num_in_file": 15,
+    "slide_title": "Genes, Populations, & Evolution",
+    "original_text": "Genes, Populations, & Evolution",
+    "explanation": "This slide serves as a thematic separator slide for the 'Genes, Populations, & Evolution' topic within Section 5.2.",
+    "questions": [
+      {
+        "q": "What is the heading of the separator slide on page 36?",
+        "opts": [
+          "How Populations Evolve",
+          "Genes, Populations, & Evolution",
+          "Natural Selection Processes",
+          "Speciation and Macroevolution"
+        ],
+        "a": 1,
+        "exp": "The slide simply reads 'Genes, Populations, & Evolution'."
+      }
+    ],
+    "legacy_index": 35
+  },
+  {
+    "unit": 5,
+    "page": 37,
+    "filename": "Unit_5_2.txt",
+    "section_title": "How Populations Evolve",
+    "page_num_in_file": 16,
+    "slide_title": "Genes, Populations, & Evolution",
+    "original_text": "Genes, Populations, & Evolution¨Causes of Microevolution¨Nonrandom Mating¤When individuals do not choose mates randomly¤Assortative mating:nIndividuals select mates with the same phenotype with respect to a certain characteristicnIndividuals reject mates with differing phenotypenEx. Mating for desired features such as body size, feather length, coat color¨Natural selection is the last criteria, and how it works within populations will be discussed in detail",
+    "explanation": "Nonrandom mating is a major driver of microevolution. It occurs when individuals do not select mates randomly from the population. A key form of nonrandom mating is assortative mating, in which individuals selectively choose mates that share the same phenotype for a particular characteristic while rejecting mates with differing phenotypes. Examples include animals selecting partners based on specific physical features such as body size, feather length, or coat color. This selects against phenotypic diversity for those specific traits. The slide introduces natural selection as the final mechanism of microevolution, to be discussed in detail next.",
+    "questions": [
+      {
+        "q": "What is assortative mating?",
+        "opts": [
+          "When individuals select mates with the same phenotype for a certain characteristic",
+          "When mating is determined entirely by geographic proximity",
+          "When individuals select mates with completely different phenotypes",
+          "When individuals mutate their genes to match their mate's phenotype"
+        ],
+        "a": 0,
+        "exp": "Assortative mating is a form of nonrandom mating where individuals choose mates that share similar phenotypes for a specific trait, rejecting those that differ."
+      },
+      {
+        "q": "Which of the following is an example of assortative mating?",
+        "opts": [
+          "Random dispersion of seeds by wind",
+          "An animal selecting a mate based on a matching coat color or body size",
+          "A population undergoing sudden genetic drift due to a bottleneck",
+          "Bacteria developing resistance to antibiotics"
+        ],
+        "a": 1,
+        "exp": "Mating based on preferred matching traits like body size, coat color, or feather length is a classic example of assortative mating."
+      }
+    ],
+    "legacy_index": 36
+  },
+  {
+    "unit": 5,
+    "page": 38,
+    "filename": "Unit_5_2.txt",
+    "section_title": "How Populations Evolve",
+    "page_num_in_file": 17,
+    "slide_title": "Natural SelectionProcesses of Evolution",
+    "original_text": "Natural SelectionProcesses of Evolution¤Most traits are polygenic -variations in the trait result in a bell-shaped curve (From Unit 4)¤Three types of selection occur:¤Directional SelectionnThe curve shifts in one direction¤Stabilizing SelectionnThe peak of the curve increases and tails decrease¤Disruptive SelectionnThe curve has twopeaks",
+    "explanation": "Many biological traits are polygenic, meaning they are controlled by multiple genes, which typically produces a bell-shaped curve of phenotypic distribution in a population. Natural selection can act on these polygenic traits in three distinct ways: (1) Directional Selection, which favors phenotypes at one extreme of the distribution, shifting the entire curve in that direction; (2) Stabilizing Selection, which favors intermediate phenotypes, causing the peak of the curve to increase while the tails (extremes) decrease; and (3) Disruptive Selection, which favors both extreme phenotypes over the intermediate, splitting the distribution and forming two distinct peaks.",
+    "questions": [
+      {
+        "q": "Which type of natural selection shifts the entire phenotypic distribution curve in one direction?",
+        "opts": [
+          "Stabilizing Selection",
+          "Directional Selection",
+          "Disruptive Selection",
+          "Artificial Selection"
+        ],
+        "a": 1,
+        "exp": "Directional selection favors one extreme phenotype, causing the bell curve to shift in that direction."
+      },
+      {
+        "q": "What happens to the distribution curve of a polygenic trait during stabilizing selection?",
+        "opts": [
+          "The curve splits into two distinct peaks.",
+          "The curve shifts entirely to the left or right.",
+          "The peak of the curve increases (favoring intermediates) and the tails decrease (selecting against extremes).",
+          "The curve becomes completely flat, representing equal frequency of all phenotypes."
+        ],
+        "a": 2,
+        "exp": "Stabilizing selection favors average phenotypes, which increases the height of the curve's peak and reduces the tails representing extreme phenotypes."
+      }
+    ],
+    "legacy_index": 37
+  },
+  {
+    "unit": 5,
+    "page": 39,
+    "filename": "Unit_5_2.txt",
+    "section_title": "How Populations Evolve",
+    "page_num_in_file": 18,
+    "slide_title": "Natural Selection",
+    "original_text": "Natural Selection¤Directional SelectionnThe curve shifts in one directionnBacteria become resistant to antibioticsnIncreasing body size in horse evolution",
+    "explanation": "Directional selection occurs when natural selection favors one extreme phenotype over others, shifting the phenotypic distribution curve in that direction. The slide provides two classic examples: (1) the evolution of antibiotic resistance in bacteria, where exposure to antibiotics selects for resistant individuals, shifting the population toward resistance; and (2) the evolutionary history of horses, which shows a directional trend toward larger body sizes over millions of years.",
+    "questions": [
+      {
+        "q": "Which of the following is a real-world example of directional selection described in the notes?",
+        "opts": [
+          "Average human birth weight survival rates",
+          "Bacteria developing resistance to antibiotics",
+          "British land snails developing two distinct shell patterns",
+          "Moths outside London maintaining constant allele frequencies"
+        ],
+        "a": 1,
+        "exp": "Antibiotic resistance in bacteria is a classic example of directional selection, where the selective pressure of antibiotics shifts the population toward the resistant phenotype."
+      }
+    ],
+    "legacy_index": 38
+  },
+  {
+    "unit": 5,
+    "page": 40,
+    "filename": "Unit_5_2.txt",
+    "section_title": "How Populations Evolve",
+    "page_num_in_file": 19,
+    "slide_title": "Natural Selection",
+    "original_text": "Natural Selection¤Stabilizing SelectionnThe peak of the curve increases and tails decreasenHuman babies with low or high birth weight are less likely to survive",
+    "explanation": "Stabilizing selection acts to eliminate extreme phenotypes and favor intermediate variants. This narrows the phenotypic range, causing the peak of the bell curve to rise and the tails to shrink. The slide illustrates this with human birth weight: infants born with exceptionally low or exceptionally high birth weights have lower survival rates, meaning selective pressures favor intermediate, average birth weights.",
+    "questions": [
+      {
+        "q": "Why is human birth weight considered an example of stabilizing selection?",
+        "opts": [
+          "Babies with low or high birth weights have lower survival rates, favoring the average birth weight.",
+          "Human birth weights have directionally increased to be larger over time.",
+          "Only babies with extreme birth weights survive to reproduce.",
+          "Birth weight is controlled by a single gene rather than being polygenic."
+        ],
+        "a": 0,
+        "exp": "Stabilizing selection favors intermediate phenotypes. Since babies of average weight survive better than those with extremely high or low weights, the population is stabilized around the mean birth weight."
+      }
+    ],
+    "legacy_index": 39
+  },
+  {
+    "unit": 5,
+    "page": 41,
+    "filename": "Unit_5_2.txt",
+    "section_title": "How Populations Evolve",
+    "page_num_in_file": 20,
+    "slide_title": "Natural Selection",
+    "original_text": "Natural Selection¤Disruptive SelectionnThe curve has two peaksnBritish land snails vary because a wide geographic range causes selection to vary",
+    "explanation": "Disruptive selection occurs when environmental conditions favor individuals at both extremes of a phenotypic range over individuals with intermediate phenotypes. This splits the distribution curve, creating two distinct peaks. The slide provides the example of British land snails, where phenotypic variation is maintained because a wide geographic range results in varying local selection pressures, favoring different shell patterns in different habitats.",
+    "questions": [
+      {
+        "q": "Which selection type is characterized by a distribution curve with two distinct peaks?",
+        "opts": [
+          "Directional Selection",
+          "Stabilizing Selection",
+          "Disruptive Selection",
+          "Artificial Selection"
+        ],
+        "a": 2,
+        "exp": "Disruptive selection favors multiple extreme phenotypes, resulting in a distribution curve with two peaks."
+      },
+      {
+        "q": "Why do British land snails exhibit disruptive selection?",
+        "opts": [
+          "They do not experience natural selection.",
+          "A wide geographic range causes environmental selection pressures to vary, favoring different phenotypes.",
+          "They mate assortatively based on body size only.",
+          "They are in genetic equilibrium."
+        ],
+        "a": 1,
+        "exp": "The notes state that British land snails vary because their wide geographic range causes selection pressures to vary, which promotes multiple favored phenotypes (peaks) in the population."
+      }
+    ],
+    "legacy_index": 40
+  },
+  {
+    "unit": 5,
+    "page": 42,
+    "filename": "Unit_5_2.txt",
+    "section_title": "How Populations Evolve",
+    "page_num_in_file": 21,
+    "slide_title": "Natural Selection",
+    "original_text": "Natural Selection¤Sexual selection-adaptive changes in males and females lead to an increased ability to secure a mate.nMale Competition -increased ability to compete with other males for a matenMales can father many offspring because they continuously produce sperm in great quantity.nCompete to inseminate as many females as possible.nDominance Hierarchies in some groups limit access to femalesnFemale Choice -choose to select a male with the best fitness (ability to produce surviving offspring).nChoice of a mate is a serious consideration because females produce few eggsnGood genes hypothesis: Females choose mates on the basis of traits that improve the chance of survival.nRunaway hypothesis: Females choose mates on the basis of traits that improve male appearance.",
+    "explanation": "Sexual selection refers to adaptive changes in males and females that enhance their ability to secure mates. It operates through two mechanisms: (1) Male Competition: Because males continuously produce massive amounts of sperm, they can father many offspring and compete to inseminate as many females as possible. In some species, this is regulated by dominance hierarchies that restrict mating access to dominant males. (2) Female Choice: Because females produce relatively few eggs, choosing a mate is a significant investment. Females select males with the highest fitness (ability to produce surviving offspring). This choice is explained by two hypotheses: the 'good genes hypothesis,' which suggests females select mates with traits that signal high survival capability, and the 'runaway hypothesis,' which suggests females choose mates based on traits that enhance male physical appearance.",
+    "questions": [
+      {
+        "q": "Why is mate selection typically a more critical biological choice for females than for males?",
+        "opts": [
+          "Females are in genetic equilibrium.",
+          "Females produce relatively few eggs compared to the continuous production of sperm by males.",
+          "Females do not pass their genes to their offspring.",
+          "Females are always larger due to sexual dimorphism."
+        ],
+        "a": 1,
+        "exp": "Females produce a limited number of eggs and invest more in offspring, making mate choice a critical decision, while males continuously produce abundant sperm and compete for access."
+      },
+      {
+        "q": "What does the 'good genes hypothesis' propose about female mate choice?",
+        "opts": [
+          "Females choose mates solely to increase the size of the territory.",
+          "Females choose mates based on traits that improve the offspring's chances of survival.",
+          "Females choose mates based on traits that only improve the male's physical appearance.",
+          "Females choose mates randomly to maintain genetic equilibrium."
+        ],
+        "a": 1,
+        "exp": "The good genes hypothesis states that females choose mates based on physical traits that signal genetic quality and improved survival prospects for their offspring."
+      }
+    ],
+    "legacy_index": 41
+  },
+  {
+    "unit": 5,
+    "page": 43,
+    "filename": "Unit_5_2.txt",
+    "section_title": "How Populations Evolve",
+    "page_num_in_file": 22,
+    "slide_title": "Natural Selection",
+    "original_text": "Natural Selection¤Male Competition -DimorphismnThere is a phenotypic difference between males and females of a populationsnMale baboons larger than femalenMale birds with flamboyant coloration (peacock vs peahen)",
+    "explanation": "Sexual dimorphism refers to the phenotypic differences between males and females of the same species. This condition arises due to sexual selection pressures. The slide provides two examples of dimorphism: (1) male baboons are significantly larger than females, a trait that aids in physical competition; and (2) male birds exhibit flamboyant coloration (such as a peacock's vibrant feathers) to attract females, while females (peahens) have duller, cryptic coloration.",
+    "questions": [
+      {
+        "q": "What is the term for phenotypic differences between males and females of the same population?",
+        "opts": [
+          "Homology",
+          "Uniformitarianism",
+          "Sexual Dimorphism",
+          "Heterozygote Advantage"
+        ],
+        "a": 2,
+        "exp": "Sexual dimorphism is defined as the phenotypic differences between males and females within a population."
+      },
+      {
+        "q": "Which of the following is an example of sexual dimorphism described in the notes?",
+        "opts": [
+          "Human babies with low birth weights",
+          "Antibiotic resistance in bacteria",
+          "Peacocks having flamboyant coloration compared to peahens",
+          "Peppered moths changing color due to soot"
+        ],
+        "a": 2,
+        "exp": "Peacocks having flamboyant feathers while peahens are dull is a classic example of sexual dimorphism driven by sexual selection."
+      }
+    ],
+    "legacy_index": 42
+  },
+  {
+    "unit": 5,
+    "page": 44,
+    "filename": "Unit_5_2.txt",
+    "section_title": "How Populations Evolve",
+    "page_num_in_file": 23,
+    "slide_title": "Natural Selection",
+    "original_text": "Natural Selection¤Male Competition -TerritorialitynDominant males use different methods to communicate to others that the territory, and its females belong to that dominant membernVocalizationnDisplays of dominance",
+    "explanation": "Territoriality is a key behavior in male competition. Dominant males defend a specific geographic area containing resources and females. They communicate ownership and warn rivals that the territory and the females within it belong to them through methods such as vocalizations (calls or sounds) and visual displays of dominance.",
+    "questions": [
+      {
+        "q": "How do dominant males communicate to rivals that a territory and its females belong to them?",
+        "opts": [
+          "Through genetic drift and gene flow",
+          "Through vocalizations and displays of dominance",
+          "By changing their physical body size dynamically",
+          "By entering Hardy-Weinberg equilibrium"
+        ],
+        "a": 1,
+        "exp": "Dominant males use methods like vocalization and visual displays of dominance to signal territorial ownership and assert access to breeding females."
+      }
+    ],
+    "legacy_index": 43
+  },
+  {
+    "unit": 5,
+    "page": 45,
+    "filename": "Unit_5_2.txt",
+    "section_title": "How Populations Evolve",
+    "page_num_in_file": 24,
+    "slide_title": "Natural Selection",
+    "original_text": "Natural Selection¤Competition -HumansnA study of sexual selection among humans shows that female choice and male competition apply to humans toonWomen must invest more in having a child than men.nMen need only contribute spermnGenerally more available for mating than are women.nMore available men results in competitionnMen also have a choicenPrefer women who are most likely to present them with children.",
+    "explanation": "Studies of human behavior indicate that the evolutionary principles of sexual selection—namely female choice and male competition—apply to humans. Biologically, women invest significantly more energy and resources into childbearing (gestation, lactation) than men, who contribute only sperm. Because men are generally more available for mating, this creates competitive pressures among males. However, men also exhibit mate selection, preferring females who show traits indicating they are most likely to successfully bear and present them with children.",
+    "questions": [
+      {
+        "q": "Based on sexual selection theory in humans, why is there competition among men?",
+        "opts": [
+          "Men invest more resources in childbearing than women.",
+          "Men are generally more available for mating than women, leading to competition.",
+          "Men do not contribute genetic material.",
+          "Human populations are in genetic equilibrium."
+        ],
+        "a": 1,
+        "exp": "Because women invest more in child-bearing and men are more available for mating, competition arises among the more available sex (men)."
+      }
+    ],
+    "legacy_index": 44
+  },
+  {
+    "unit": 5,
+    "page": 46,
+    "filename": "Unit_5_2.txt",
+    "section_title": "How Populations Evolve",
+    "page_num_in_file": 25,
+    "slide_title": "Maintenance of Diversity",
+    "original_text": "Maintenance of Diversity¨Adaptation of a population to the biotic and abiotic environment requires:nVariation -The members of a population differ from one anothernInheritance -Many differences are heritable genetic differencesnDifferential Adaptiveness -Some differences affect survivabilitynDifferential Reproduction –Some differences affect the likelihood of successful reproduction¤Results in:nA change in allele frequencies of the gene poolnImproved fitness of the populationnMajor cause of microevolution",
+    "explanation": "Adaptation of a population to its biotic (living) and abiotic (non-living) environment requires four essential conditions: (1) Variation, meaning individuals within the population must differ in their traits; (2) Inheritance, meaning these differences must be heritable genetic variations; (3) Differential Adaptiveness, meaning some variations must affect the individual's ability to survive; and (4) Differential Reproduction, meaning some variations must affect the probability of successful reproduction. The presence of these conditions leads to a change in the allele frequencies of the gene pool and improves the overall fitness of the population, serving as a primary cause of microevolution.",
+    "questions": [
+      {
+        "q": "Which of the following is NOT one of the four requirements for natural selection to adapt a population to its environment?",
+        "opts": [
+          "Variation among members",
+          "Heritable genetic differences (Inheritance)",
+          "Differential adaptiveness and reproduction",
+          "Complete absence of genetic mutations"
+        ],
+        "a": 3,
+        "exp": "Adaptation requires variation, inheritance, differential adaptiveness, and differential reproduction. Mutations are the raw material for variation, so their complete absence is not a requirement; rather, variation is required."
+      },
+      {
+        "q": "What is the biological outcome when variation, inheritance, differential adaptiveness, and differential reproduction occur in a population?",
+        "opts": [
+          "Allele frequencies in the gene pool change, leading to improved population fitness.",
+          "The population enters Hardy-Weinberg equilibrium.",
+          "All genetic diversity is permanently lost.",
+          "The population stops reproducing."
+        ],
+        "a": 0,
+        "exp": "These four factors constitute natural selection, which alters allele frequencies in the gene pool and increases the population's evolutionary fitness."
+      }
+    ],
+    "legacy_index": 45
+  },
+  {
+    "unit": 5,
+    "page": 47,
+    "filename": "Unit_5_2.txt",
+    "section_title": "How Populations Evolve",
+    "page_num_in_file": 26,
+    "slide_title": "Maintenance of Diversity",
+    "original_text": "Maintenance of Diversity¤Genetic VariabilitynPopulations with limited variation may not be able to adapt to new conditionsnMaintenance of variability is advantageous to the populationnOnly exposed alleles are subject to natural selection¤Natural selection causes imperfect adaptationsnDepends on evolutionary historynImperfections are common because of necessary compromisesnThe environment plays a role in maintaining diversitynDisruptive selection due to environmental differences promotes polymorphisms in a populationnIf a population occupies a wide range, it may have several subpopulations designated as subspeciesnThe environment includes selecting agents that help maintain diversity",
+    "explanation": "Genetic variability is crucial; populations with limited variation may fail to adapt to environmental changes. Thus, maintaining variability is highly advantageous. Natural selection only acts on exposed (expressed) alleles. Furthermore, natural selection does not produce perfect organisms; adaptations are often imperfect because they depend on evolutionary history and involve structural or functional compromises. The environment plays a key role in maintaining genetic diversity: variable environments can promote polymorphisms through disruptive selection, and populations spanning wide geographic ranges may split into distinct subspecies, with various environmental agents acting as selecting forces to maintain diversity.",
+    "questions": [
+      {
+        "q": "Why does natural selection lead to imperfect adaptations rather than perfect organisms?",
+        "opts": [
+          "Because mutations never occur in the wild.",
+          "Adaptations are constrained by evolutionary history and require compromises among competing needs.",
+          "Because populations are always in Hardy-Weinberg equilibrium.",
+          "Because alleles are lost only through genetic drift."
+        ],
+        "a": 1,
+        "exp": "Adaptations are rarely perfect because they depend on historical genetic structures and represent structural/functional compromises (trade-offs) within the organism."
+      },
+      {
+        "q": "How does the environment help maintain genetic diversity in a population?",
+        "opts": [
+          "By eliminating all selection pressures.",
+          "Through environmental variation that promotes disruptive selection and subspecies formation.",
+          "By forcing all organisms to mate randomly.",
+          "By preventing any alleles from being sheltered."
+        ],
+        "a": 1,
+        "exp": "Environmental differences can cause disruptive selection, promoting polymorphisms, and geographic variations can split populations into distinct subspecies, keeping genetic diversity high."
+      }
+    ],
+    "legacy_index": 46
+  },
+  {
+    "unit": 5,
+    "page": 48,
+    "filename": "Unit_5_2.txt",
+    "section_title": "How Populations Evolve",
+    "page_num_in_file": 27,
+    "slide_title": "Maintenance of Diversity",
+    "original_text": "Maintenance of Diversity¤Recessive alleles:nHeterozygotes shelter recessive alleles from selectionnHeterozygotes allow even lethal alleles to remain in the population at low frequencies virtually forevernSometimes recessive alleles confer an advantage to heterozygotesnThe sickle-cell anemia allele is detrimental in homozygotenHowever, heterozygotes are more likely to survive malarianThe sickle-cell allele occurs at a higher frequency in malaria prone areasnHeterozygote AdvantagenAssists the maintenance of genetic, and therefore phenotypic, variations in future generations.nIn sickle cell disease heterozygous individuals don’t die from sickle-cell disease, and they don’t die from malaria.",
+    "explanation": "This slide explains how genetic diversity is maintained through recessive alleles and heterozygote advantage. Diploidy allows heterozygous individuals to carry and 'shelter' recessive alleles from natural selection, since the recessive phenotype is not expressed. This mechanism permits even lethal recessive alleles to persist in populations at low frequencies indefinitely. Sometimes, a recessive allele confers an evolutionary benefit to heterozygotes, a phenomenon known as 'Heterozygote Advantage.' For example, the sickle-cell allele is lethal or highly detrimental in homozygous recessive individuals who develop sickle-cell anemia. However, heterozygous individuals are resistant to malaria and do not develop severe sickle-cell disease. As a result, the sickle-cell allele occurs at a higher frequency in malaria-prone regions because natural selection favors the heterozygotes, maintaining both alleles in the gene pool.",
+    "questions": [
+      {
+        "q": "How do heterozygotes help maintain harmful recessive alleles in a population?",
+        "opts": [
+          "They cause the recessive allele to mutate into a dominant one.",
+          "They shelter the recessive allele from natural selection because the recessive phenotype is not expressed.",
+          "They force the population to undergo genetic drift.",
+          "They prevent the recessive allele from undergoing transcription."
+        ],
+        "a": 1,
+        "exp": "Because heterozygotes express the dominant phenotype, the recessive allele is hidden or 'sheltered' from natural selection, allowing it to persist in the population."
+      },
+      {
+        "q": "What is the biological benefit of being heterozygous for the sickle-cell allele in malaria-prone regions?",
+        "opts": [
+          "Heterozygotes develop mild malaria but are cured of sickle-cell anemia.",
+          "Heterozygotes do not die from sickle-cell disease and are more resistant to malaria.",
+          "Heterozygotes develop wings to fly away from mosquitoes.",
+          "Heterozygotes have double the normal amount of hemoglobin."
+        ],
+        "a": 1,
+        "exp": "Heterozygous individuals (carriers) have a selective advantage in malaria-prone areas: they do not suffer from lethal sickle-cell disease and are also protected against malaria."
+      }
+    ],
+    "legacy_index": 47
+  },
+  {
+    "unit": 5,
+    "page": 49,
+    "filename": "Unit_5_2.txt",
+    "section_title": "How Populations Evolve",
+    "page_num_in_file": 28,
+    "slide_title": "Maintenance of Diversity",
+    "original_text": "Maintenance of Diversity",
+    "explanation": "This is a separator slide indicating the end of the sub-topic concerning the maintenance of genetic diversity in populations.",
+    "questions": [
+      {
+        "q": "What is the text on the separator slide on page 49?",
+        "opts": [
+          "Maintenance of Diversity",
+          "How Populations Evolve",
+          "Natural Selection Processes",
+          "Speciation and Macroevolution"
+        ],
+        "a": 0,
+        "exp": "The slide text reads 'Maintenance of Diversity'."
+      }
+    ],
+    "legacy_index": 48
+  },
+  {
+    "unit": 5,
+    "page": 50,
+    "filename": "Unit_5_3.txt",
+    "section_title": "Speciation & Macroevolution",
+    "page_num_in_file": 1,
+    "slide_title": "Speciation & Macroevolution - Visual Page 1",
+    "original_text": "UNIT 5: MECHANISMS & PATTERNS OF EVOLUTION5.3 –SPECIATION & MACROEVOLUTIONBiology 9 Mr. QueenanCh. 18.3 (pg. 592-595) & Ch. 20.2 (pg. 652-658)",
+    "explanation": "This is the title and introductory slide for Section 5.3: Speciation & Macroevolution of Unit 5. It aligns with Chapters 18.3 (pages 592-595) and 20.2 (pages 652-658) in Mr. Queenan's Biology 9 course curriculum.",
+    "questions": [
+      {
+        "q": "Which chapters of the textbook correspond to Section 5.3: Speciation & Macroevolution?",
+        "opts": [
+          "Chapters 17.1-17.4",
+          "Chapter 18.2",
+          "Chapters 18.3 and 20.2",
+          "Chapters 19.1 and 19.2"
+        ],
+        "a": 2,
+        "exp": "The title slide lists Chapters 18.3 (pg. 592-595) and 20.2 (pg. 652-658) as the readings for this section."
+      }
+    ],
+    "legacy_index": 49
+  },
+  {
+    "unit": 5,
+    "page": 51,
+    "filename": "Unit_5_3.txt",
+    "section_title": "Speciation & Macroevolution",
+    "page_num_in_file": 2,
+    "slide_title": "5.3 –Opening Question",
+    "original_text": "5.3 –Opening Question¨Examine the tortoises from Lesson 1 to the left.¨With a partner, determine what evidence could be used to make the case for each of the tortoises below to be grouped into their own unique species. How could a scientist verify each species as unique?",
+    "explanation": "This slide opens Section 5.3 by asking students to revisit the tortoises from Lesson 1. It prompts a partner discussion on what biological evidence could be used to justify classifying each tortoise variety into its own unique species, and how scientists can empirically verify that a species is indeed distinct.",
+    "questions": [
+      {
+        "q": "What is the focus of the opening question on Page 51?",
+        "opts": [
+          "To calculate the allele frequencies of tortoises using Hardy-Weinberg equations",
+          "To discuss what evidence can show tortoises are distinct species and how to verify it",
+          "To examine the fossil record of early tortoises in Argentina",
+          "To map out the Hox genes in tortoise embryos"
+        ],
+        "a": 1,
+        "exp": "The opening question asks students to discuss what evidence distinguishes tortoise species and how scientists verify species uniqueness."
+      }
+    ],
+    "legacy_index": 50
+  },
+  {
+    "unit": 5,
+    "page": 52,
+    "filename": "Unit_5_3.txt",
+    "section_title": "Speciation & Macroevolution",
+    "page_num_in_file": 3,
+    "slide_title": "How New Species Evolve",
+    "original_text": "•How New Species Evolve•Modes of Speciation•Principles of Macroevolution\nWhat exactly is a species?",
+    "explanation": "This slide introduces the three sub-topics of Section 5.3: How New Species Evolve, Modes of Speciation, and Principles of Macroevolution. It poses the fundamental question: 'What exactly is a species?', which leads into the definition of species concepts.",
+    "questions": [
+      {
+        "q": "What central question is posed on page 52 to introduce the sub-topics of speciation?",
+        "opts": [
+          "How old is the Earth?",
+          "What exactly is a species?",
+          "Why do mutations occur randomly?",
+          "What causes geographic isolation?"
+        ],
+        "a": 1,
+        "exp": "The slide explicitly asks the question: 'What exactly is a species?'"
+      }
+    ],
+    "legacy_index": 51
+  },
+  {
+    "unit": 5,
+    "page": 53,
+    "filename": "Unit_5_3.txt",
+    "section_title": "Speciation & Macroevolution",
+    "page_num_in_file": 4,
+    "slide_title": "How New Species Evolve",
+    "original_text": "How New Species Evolve¨Macroevolutionis best observed within the fossil record.¤Shows evolution on a large scale¨Involves speciation.¤Splitting of one species into 2 or more new species¤Macroevolution is the result of accumulation of microevolutions that result in formation of new species¨Every species has its own evolutionary history¤Species concept –Refers to the different ways in which a species is defined¤Taxonomistsanalyze and define species",
+    "explanation": "Macroevolution refers to evolution on a large scale, which is best observed within the fossil record. It involves speciation, defined as the splitting of one species into two or more new species. Macroevolution occurs as a result of the gradual accumulation of many microevolutionary changes over time. Every species has its own distinct evolutionary history. Because defining species can be complex, scientists use different 'species concepts' (the various ways species are defined), and taxonomists are the specialists who analyze and define these species groups.",
+    "questions": [
+      {
+        "q": "What is macroevolution, and where is it best observed?",
+        "opts": [
+          "Small-scale allele changes observed in lab bacteria",
+          "Large-scale evolutionary changes best observed in the fossil record",
+          "The random mating patterns of island finches",
+          "Artificial selection performed by human breeders"
+        ],
+        "a": 1,
+        "exp": "The notes define macroevolution as evolution on a large scale, which is best observed in the fossil record."
+      },
+      {
+        "q": "How is speciation defined on this page?",
+        "opts": [
+          "The movement of alleles between separate populations",
+          "The splitting of one species into two or more new species",
+          "The maintenance of stable allele frequencies",
+          "The classification of fossils based on age"
+        ],
+        "a": 1,
+        "exp": "Speciation is defined on the slide as the 'splitting of one species into 2 or more new species.'"
+      }
+    ],
+    "legacy_index": 52
+  },
+  {
+    "unit": 5,
+    "page": 54,
+    "filename": "Unit_5_3.txt",
+    "section_title": "Speciation & Macroevolution",
+    "page_num_in_file": 5,
+    "slide_title": "How New Species Evolve",
+    "original_text": "How New Species Evolve¨Morphological Species Concept¤Based on analysis of diagnostic traitsdistinguishing one species from another.¤Can be distinguished anatomically¤Method used by Linnaeus¤Most species are described this way¨Drawbacks¤Some species, like different bacteria, have no observable, morphological traits to analyze¤Cryptic species –some species look so similar, it is difficult to identify them as distinct species.",
+    "explanation": "The Morphological Species Concept defines species based on the analysis of diagnostic physical traits that distinguish them from one another. Organisms are separated into species if they can be distinguished anatomically. This was the method originally used by Carolus Linnaeus, and it remains the way most species are described today. However, it has key drawbacks: first, some organisms, such as various bacteria, lack distinct, observable morphological traits to analyze; second, 'cryptic species' look so anatomically similar to one another that it is extremely difficult to recognize them as distinct species based on appearance alone.",
+    "questions": [
+      {
+        "q": "Who originally used the morphological species concept, and how are species defined under it?",
+        "opts": [
+          "Charles Darwin; based on common DNA sequences",
+          "Carolus Linnaeus; based on diagnostic anatomical traits",
+          "Georges Cuvier; based on the fossil layers they occupy",
+          "Jean-Baptiste Lamarck; based on acquired characteristics"
+        ],
+        "a": 1,
+        "exp": "Carolus Linnaeus used the morphological species concept, which distinguishes species based on diagnostic anatomical (morphological) traits."
+      },
+      {
+        "q": "What is a drawback of the morphological species concept?",
+        "opts": [
+          "It relies too heavily on DNA sequencing.",
+          "It cannot be used for multicellular animals.",
+          "Cryptic species look so similar that they are hard to identify as distinct, and some organisms like bacteria lack clear morphological traits.",
+          "It requires observing breeding patterns in the wild."
+        ],
+        "a": 2,
+        "exp": "Drawbacks include cryptic species (which look identical but are distinct) and organisms like bacteria that lack distinct morphological traits to compare."
+      }
+    ],
+    "legacy_index": 53
+  },
+  {
+    "unit": 5,
+    "page": 55,
+    "filename": "Unit_5_3.txt",
+    "section_title": "Speciation & Macroevolution",
+    "page_num_in_file": 6,
+    "slide_title": "How New Species Evolve",
+    "original_text": "How New Species Evolve¨Evolutionary Species Concept¤The evolutionary species concept distinguishes species from one another based on morphological (structural) traits¤Critical traits for distinguishing species are called diagnostic traits¤Members of a species must share the same, distinct, evolutionary pathway",
+    "explanation": "The Evolutionary Species Concept also distinguishes species from one another based on structural, morphological traits (critical traits used for this are termed 'diagnostic traits'). However, this concept adds an evolutionary dimension: it requires that all members of a single species share the same, distinct, and continuous evolutionary pathway over time, separating their history from that of other species.",
+    "questions": [
+      {
+        "q": "What is a key requirement for organisms to be considered the same species under the Evolutionary Species Concept?",
+        "opts": [
+          "They must live in the exact same geographic territory.",
+          "They must share the same, distinct, evolutionary pathway.",
+          "They must undergo autoploidy in each generation.",
+          "They must not share any diagnostic morphological traits."
+        ],
+        "a": 1,
+        "exp": "The evolutionary species concept requires that members of a species share the same, distinct evolutionary pathway."
+      }
+    ],
+    "legacy_index": 54
+  },
+  {
+    "unit": 5,
+    "page": 56,
+    "filename": "Unit_5_3.txt",
+    "section_title": "Speciation & Macroevolution",
+    "page_num_in_file": 7,
+    "slide_title": "How New Species Evolve",
+    "original_text": "How New Species Evolve¨Phylogenetic Species Concept¤Relies on the identification of species based on common ancestry¤Evolutionary “family tree”, or phylogenetic tree used¤A branch that contains all descendants of a common ancestor is known as monophyletic–criterion used for defining a species¤Advantage is it relies on DNA sequence, and not morphological traits",
+    "explanation": "The Phylogenetic Species Concept defines species based on common ancestry. It utilizes phylogenetic trees, which act as evolutionary family trees. Under this concept, a species is identified using the monophyletic criterion: a monophyletic group is a branch on the tree that contains a common ancestor and all of its descendants. The major advantage of the phylogenetic species concept is its reliance on objective DNA sequence comparison rather than morphological traits, bypassing the issues of cryptic species and organisms lacking physical characteristics.",
+    "questions": [
+      {
+        "q": "What does it mean for a group to be 'monophyletic' in the context of the Phylogenetic Species Concept?",
+        "opts": [
+          "The group contains organisms that look morphologically identical.",
+          "The group consists of a branch containing a common ancestor and all of its descendants.",
+          "The group can only reproduce through self-fertilization.",
+          "The group has been isolated by a geographic barrier."
+        ],
+        "a": 1,
+        "exp": "Monophyletic is defined as a branch on a phylogenetic tree that contains all the descendants of a common ancestor."
+      },
+      {
+        "q": "What is a primary advantage of the Phylogenetic Species Concept?",
+        "opts": [
+          "It is based purely on fossil footprints.",
+          "It relies on objective DNA sequences rather than morphological traits.",
+          "It can easily be tested by breeding any animals in a lab.",
+          "It ignores common ancestry."
+        ],
+        "a": 1,
+        "exp": "By using DNA sequences instead of morphological characteristics, the phylogenetic concept provides an objective genetic basis for identifying species."
+      }
+    ],
+    "legacy_index": 55
+  },
+  {
+    "unit": 5,
+    "page": 57,
+    "filename": "Unit_5_3.txt",
+    "section_title": "Speciation & Macroevolution",
+    "page_num_in_file": 8,
+    "slide_title": "How New Species Evolve",
+    "original_text": "How New Species Evolve¨Biological Species Concept¤Populations of the same species breed only among themselves¤Experience reproductive isolation from other such populations¤Often cannot be tested, because very few species in nature overlap in their distribution to even observe reproductive isolation",
+    "explanation": "The Biological Species Concept defines a species as a group of populations whose members breed only among themselves in nature, meaning they are reproductively isolated from other such populations. A significant drawback of this concept is that it is often difficult or impossible to test; very few species in nature have overlapping geographic distributions, making it rare for scientists to actually observe whether they would remain reproductively isolated if they came into contact.",
+    "questions": [
+      {
+        "q": "How does the Biological Species Concept define a species?",
+        "opts": [
+          "By their shared evolutionary family tree and DNA sequences",
+          "As populations that breed only among themselves and are reproductively isolated from other populations",
+          "By the presence of shared diagnostic anatomical structures",
+          "As organisms that occupy different layers of the fossil record"
+        ],
+        "a": 1,
+        "exp": "The biological species concept defines species based on reproductive behavior: they breed only among themselves and are reproductively isolated from other populations."
+      },
+      {
+        "q": "What is a major limitation of the Biological Species Concept?",
+        "opts": [
+          "It cannot be applied to organisms that reproduce sexually.",
+          "It relies too heavily on subjective anatomical traits.",
+          "It often cannot be tested because species' distributions rarely overlap in nature to allow observation of reproductive isolation.",
+          "It is restricted only to bacterial classifications."
+        ],
+        "a": 2,
+        "exp": "Since many species are geographically separated, scientists cannot easily test or observe if they would remain reproductively isolated if they met."
+      }
+    ],
+    "legacy_index": 56
+  },
+  {
+    "unit": 5,
+    "page": 58,
+    "filename": "Unit_5_3.txt",
+    "section_title": "Speciation & Macroevolution",
+    "page_num_in_file": 9,
+    "slide_title": "How New Species Evolve",
+    "original_text": "How New Species Evolve¨Reproductive isolating mechanisms inhibit gene flow between species -Two general types:¨Prezygotic Isolating Mechanisms –prevent mating attempts or make it unlikely that fertilization will be successful¤Habitat Isolation -species occupy different habitats¤Temporal Isolation -each reproduces at a different time¤Behavioral Isolation -courtship patterns for recognizing mates¤Mechanical Isolation -incompatible animal genitalia or plant floral structures¤Gamete Isolation -gametes that meet do not fuse to become a zygote",
+    "explanation": "Reproductive isolating mechanisms are biological barriers that prevent interbreeding and inhibit gene flow between different species. These are categorized into two general types, starting with Prezygotic Isolating Mechanisms, which prevent mating attempts or ensure that fertilization is unsuccessful if mating occurs. The slide lists five prezygotic mechanisms: (1) Habitat Isolation (species live in different habitats); (2) Temporal Isolation (species reproduce at different times of the day, season, or year); (3) Behavioral Isolation (species have unique courtship rituals or signals for mate recognition); (4) Mechanical Isolation (incompatible genitalia in animals or anatomical differences in plant flowers); and (5) Gamete Isolation (sperm and egg meet but are biochemically incompatible and cannot fuse to form a zygote).",
+    "questions": [
+      {
+        "q": "What is the primary function of prezygotic isolating mechanisms?",
+        "opts": [
+          "To cause hybrid offspring to be sterile",
+          "To prevent mating attempts or make fertilization unlikely to succeed",
+          "To double the chromosome number in plant hybrids",
+          "To force gene flow between different populations"
+        ],
+        "a": 1,
+        "exp": "Prezygotic isolating mechanisms act before zygote formation, preventing mating attempts or ensuring that fertilization does not succeed."
+      },
+      {
+        "q": "Which type of prezygotic isolation is caused by species reproducing at different times of the year or season?",
+        "opts": [
+          "Habitat Isolation",
+          "Temporal Isolation",
+          "Behavioral Isolation",
+          "Mechanical Isolation"
+        ],
+        "a": 1,
+        "exp": "Temporal isolation refers to reproductive isolation arising because species breed at different times."
+      }
+    ],
+    "legacy_index": 57
+  },
+  {
+    "unit": 5,
+    "page": 59,
+    "filename": "Unit_5_3.txt",
+    "section_title": "Speciation & Macroevolution",
+    "page_num_in_file": 10,
+    "slide_title": "How New Species Evolve",
+    "original_text": "How New Species Evolve\nExample of temporal isolation –Frogs from Ithica, New York above, have breeding period peaks that differ between species.",
+    "explanation": "This slide provides a concrete example of temporal isolation using frog populations located in Ithaca, New York (spelled Ithica in the slide text). Even though these different frog species share the same geographic area, they do not interbreed because their breeding periods peak at different times, maintaining reproductive isolation.",
+    "questions": [
+      {
+        "q": "The frogs from Ithaca, New York, provide an example of which reproductive isolating mechanism?",
+        "opts": [
+          "Mechanical isolation",
+          "Gamete isolation",
+          "Temporal isolation",
+          "Postzygotic isolation"
+        ],
+        "a": 2,
+        "exp": "The slide explicitly states that the frogs from Ithaca are an example of temporal isolation because their breeding period peaks differ."
+      }
+    ],
+    "legacy_index": 58
+  },
+  {
+    "unit": 5,
+    "page": 60,
+    "filename": "Unit_5_3.txt",
+    "section_title": "Speciation & Macroevolution",
+    "page_num_in_file": 11,
+    "slide_title": "How New Species Evolve",
+    "original_text": "How New Species Evolve¨Reproductive Isolating Mechanisms (cont.)¨Postzygotic Isolating Mechanisms-Prevent hybrid offspring from developing or breeding¤Hybrid Inviability-hybrid zygote is not viable and dies¤Hybrid Sterility -hybrid zygote develops into a sterile adult",
+    "explanation": "Postzygotic Isolating Mechanisms are reproductive barriers that act after fertilization has occurred, preventing hybrid offspring from successfully developing or reproducing. The slide details two main types: (1) Hybrid Inviability, where the hybrid zygote is genetically incompatible, fails to develop properly, and dies; and (2) Hybrid Sterility, where the hybrid zygote successfully develops into an adult, but the adult is sterile (unable to produce gametes/offspring), thereby halting further gene flow between the parent species.",
+    "questions": [
+      {
+        "q": "What is the difference between hybrid inviability and hybrid sterility?",
+        "opts": [
+          "Hybrid inviability occurs before fertilization; hybrid sterility occurs after fertilization.",
+          "Hybrid inviability means the hybrid zygote dies; hybrid sterility means the hybrid develops into a sterile adult.",
+          "Hybrid inviability occurs in plants; hybrid sterility occurs in animals.",
+          "Hybrid inviability leads to polyploidy; hybrid sterility leads to genetic drift."
+        ],
+        "a": 1,
+        "exp": "Hybrid inviability refers to the death of the hybrid zygote, while hybrid sterility refers to the hybrid successfully growing into an adult but being unable to reproduce."
+      }
+    ],
+    "legacy_index": 59
+  },
+  {
+    "unit": 5,
+    "page": 61,
+    "filename": "Unit_5_3.txt",
+    "section_title": "Speciation & Macroevolution",
+    "page_num_in_file": 12,
+    "slide_title": "Modes of Speciation",
+    "original_text": "Modes of Speciation¨Researchers recognize 2 modes of speciation¤One requires populations to be physically isolated from one another, and the other does not. ¨Allopatric Speciation¤Two geographically isolated populations of one species become different species over time¤Can be due to differing selection pressures in differing environments¤Reinforcement occurs when two populations come back together and not longer reproduce because they no longer recognize each other as mates due to changes",
+    "explanation": "Evolutionary biologists recognize two primary modes of speciation: one that requires physical geographic isolation, and one that occurs without it. Allopatric Speciation is the mode requiring physical isolation: when a geographic barrier separates a single species into two isolated populations, they independently adapt to their environments and accumulate genetic differences over time due to differing selection pressures, eventually becoming distinct species. If these two populations later come back into contact (secondary contact) and can no longer successfully interbreed because they do not recognize each other as mates, this process of preventing hybridization is called reinforcement.",
+    "questions": [
+      {
+        "q": "What is Allopatric Speciation?",
+        "opts": [
+          "Speciation occurring within a single population without geographic isolation",
+          "Speciation that occurs when two geographically isolated populations of one species diverge into different species over time",
+          "The rapid diversification of a species colonizing new environments",
+          "The selective breeding of organisms by human breeders"
+        ],
+        "a": 1,
+        "exp": "Allopatric speciation is the formation of new species when populations are geographically isolated from each other."
+      },
+      {
+        "q": "What is 'reinforcement' in the context of speciation?",
+        "opts": [
+          "The process where a geographic barrier becomes stronger over time",
+          "When two reunited populations cannot breed because they no longer recognize each other as mates",
+          "The doubling of chromosomes in a sterile hybrid plant",
+          "The process of selecting for traits that increase physical strength"
+        ],
+        "a": 1,
+        "exp": "Reinforcement occurs when two previously isolated populations meet again but do not interbreed because evolutionary changes prevent them from recognizing each other as mates."
+      }
+    ],
+    "legacy_index": 60
+  },
+  {
+    "unit": 5,
+    "page": 62,
+    "filename": "Unit_5_3.txt",
+    "section_title": "Speciation & Macroevolution",
+    "page_num_in_file": 13,
+    "slide_title": "Modes of Speciation",
+    "original_text": "Modes of Speciation¨Sympatric Speciation¤One population develops into two or more reproductively isolated groups -No prior geographic isolation¤In plants, sympatric speciation often involves polyploidy(more than the diploid [2n] number)¤A polyploid plant can reproduce with itself, but cannot reproduce with the 2n population because not all the chromosomes would be able to pair during meiosis.nTwo types of polyploidy are known:nAutoploidy -diploid plant produces diploid gametes due to nondisjunction during meiosis.nIf diploid gamete fuses with a haploid gamete, a triploid plant results.nA triploid (3n) plant is sterile and cannot produce offspringnAlloploidy -more complicated process than autoploidynRequires two different but related species of plantsnHybridization is followed by doubling of the chromosomes.",
+    "explanation": "Sympatric Speciation is the mode of speciation where a new species arises within a single population without any geographic isolation. In plants, this is frequently driven by polyploidy (having more than the diploid 2n number of chromosomes). A polyploid plant can self-reproduce or mate with other polyploids but cannot breed with the parent 2n population because their chromosomes cannot pair properly during meiosis. There are two types of polyploidy: (1) Autoploidy, which occurs when a diploid plant produces diploid gametes due to chromosome nondisjunction during meiosis. If a diploid (2n) gamete fuses with a normal haploid (n) gamete, a triploid (3n) plant results, which is sterile. (2) Alloploidy, a more complex process involving hybridization between two different but related plant species, followed by chromosome doubling to restore fertility.",
+    "questions": [
+      {
+        "q": "How does Sympatric Speciation differ from Allopatric Speciation?",
+        "opts": [
+          "Sympatric speciation requires physical geographic isolation.",
+          "Sympatric speciation occurs within a population without prior geographic isolation.",
+          "Sympatric speciation only occurs in animals, never in plants.",
+          "Sympatric speciation is driven entirely by natural selection."
+        ],
+        "a": 1,
+        "exp": "Sympatric speciation occurs when populations become reproductively isolated and diverge into new species without any physical geographic separation."
+      },
+      {
+        "q": "Why is a triploid (3n) plant resulting from autoploidy typically sterile?",
+        "opts": [
+          "It lacks Hox genes completely.",
+          "Its chromosomes cannot pair properly during meiosis.",
+          "It cannot perform photosynthesis.",
+          "It is killed by the environment."
+        ],
+        "a": 1,
+        "exp": "Triploid (3n) plants are sterile because they have an odd number of chromosome sets, making proper pairing of homologous chromosomes during meiosis impossible."
+      }
+    ],
+    "legacy_index": 61
+  },
+  {
+    "unit": 5,
+    "page": 63,
+    "filename": "Unit_5_3.txt",
+    "section_title": "Speciation & Macroevolution",
+    "page_num_in_file": 14,
+    "slide_title": "Modes of Speciation",
+    "original_text": "Modes of Speciation¨Adaptive Radiation¤Occurs when members of a species invade several new geographically separate environments¤The populations become adapted to the different environments¤Many new species evolve from the single ancestral speciesnDarwin’s finches are an example",
+    "explanation": "Adaptive Radiation is an evolutionary process where a single ancestral species rapidly diversifies into many new species. This occurs when members of a species colonize several newly available, geographically separate environments (such as different islands). The isolated populations adapt to the different selection pressures of their respective environments, resulting in speciation. Darwin's Galápagos finches represent a classic example of adaptive radiation, where different species evolved from a single common ancestor to exploit different food sources.",
+    "questions": [
+      {
+        "q": "What occurs during adaptive radiation?",
+        "opts": [
+          "A population becomes extinct due to a catastrophic event.",
+          "Members of a species colonize several new environments and adapt, leading to many new species evolving from a single ancestor.",
+          "Unrelated species evolve identical traits due to similar environmental pressures.",
+          "A population undergoes severe genetic drift due to inbreeding."
+        ],
+        "a": 1,
+        "exp": "Adaptive radiation is the rapid evolution of many diverse species from a single common ancestor when populations invade and adapt to new, different environments."
+      }
+    ],
+    "legacy_index": 62
+  },
+  {
+    "unit": 5,
+    "page": 64,
+    "filename": "Unit_5_3.txt",
+    "section_title": "Speciation & Macroevolution",
+    "page_num_in_file": 15,
+    "slide_title": "Modes of Speciation",
+    "original_text": "Modes of Speciation¨Convergent Evolution¤Occurs when a similar biological trait evolves in two unrelated species as a result of exposure to similar environments.¤Traits evolving in this manner are termed analogous traits.¤Similar function, but different originnbird wing vs. bat wingnChichlidsin 2 African lakesnMore closely related to species in own lake than morphological similar from other lake",
+    "explanation": "Convergent Evolution occurs when similar biological traits evolve independently in two unrelated species due to exposure to similar environmental selection pressures. These traits are called analogous traits: they have a similar function but different evolutionary origins (for example, the wings of a bird and a bat, which are structurally different but both adapted for flight). Another example is cichlid fish in two separate African lakes; species in the different lakes look morphologically similar due to similar niches, but genetic analysis shows they are more closely related to species in their own lake than to their look-alikes in the other lake.",
+    "questions": [
+      {
+        "q": "What are analogous traits?",
+        "opts": [
+          "Traits that share a similar evolutionary origin and structure but have different functions",
+          "Traits that have a similar function but different evolutionary origins, arising from convergent evolution",
+          "Traits that are inherited directly from a recent common ancestor",
+          "Traits that only occur in polyploid plants"
+        ],
+        "a": 1,
+        "exp": "Analogous traits (like bird wings vs. bat wings) share a similar function because they evolved to solve similar environmental challenges, but they do not share a common structural origin."
+      },
+      {
+        "q": "Why do cichlid fish in two different African lakes provide an example of convergent evolution?",
+        "opts": [
+          "They can interbreed freely across the lakes.",
+          "They look morphologically similar due to similar environments, but genetically they are more closely related to fish in their own lake.",
+          "They are identical species that migrated from a single source population.",
+          "They evolved from a common ancestor via allopatric speciation."
+        ],
+        "a": 1,
+        "exp": "Even though cichlids in the two lakes resemble each other morphologically due to adapting to similar niches, they are genetically distinct and more closely related to different species in their respective lakes."
+      }
+    ],
+    "legacy_index": 63
+  },
+  {
+    "unit": 5,
+    "page": 65,
+    "filename": "Unit_5_3.txt",
+    "section_title": "Speciation & Macroevolution",
+    "page_num_in_file": 16,
+    "slide_title": "Principles of Macroevolution",
+    "original_text": "Principles of Macroevolution¨Macroevolution¤Evolution at the species or higher level of classification¤Some evolutionists support a gradualisticmodelnEvolution at the species level occurs graduallynSpeciation occurs after populations become isolatednEach group continues its own evolutionary pathwaynThe gradualisticmodel suggests that it is difficult to indicate when speciation occurred¤Some paleontologists support the punctuated equilibrium modelnSpecies can appear quite suddenlynSpecies then remain essentially unchanged phenotypically during a period of stasis (sameness) until they undergo extinction.nThis model states that periods of equilibrium are punctuated by speciation",
+    "explanation": "Macroevolution is evolution occurring at the species level or higher levels of classification. The slide contrasts two scientific models of macroevolutionary change: (1) The Gradualistic Model, which proposes that species evolve slowly and incrementally over time after populations become isolated, meaning that speciation is a gradual process and it is difficult to pinpoint the exact moment a new species emerged; and (2) The Punctuated Equilibrium Model, supported by many paleontologists, which suggests that species appear suddenly in the geological record and then experience long periods of stasis (phenotypic stability or sameness) until extinction, meaning that long periods of equilibrium are punctuated by rapid bursts of speciation.",
+    "questions": [
+      {
+        "q": "What is the difference between the gradualistic model and the punctuated equilibrium model of macroevolution?",
+        "opts": [
+          "The gradualistic model only applies to plants, while punctuated equilibrium applies to animals.",
+          "The gradualistic model proposes slow, continuous change, whereas punctuated equilibrium proposes sudden appearance followed by long periods of stasis.",
+          "The gradualistic model requires mutations, while punctuated equilibrium does not.",
+          "The gradualistic model is driven by genetic drift, while punctuated equilibrium is driven by natural selection."
+        ],
+        "a": 1,
+        "exp": "The gradualistic model proposes that evolution occurs slowly and continuously, whereas the punctuated equilibrium model proposes that species appear suddenly and remain unchanged (stasis) for long periods before extinction."
+      },
+      {
+        "q": "What is 'stasis' in the context of the punctuated equilibrium model?",
+        "opts": [
+          "A period of rapid phenotypic change",
+          "A period of phenotypic stability or sameness where species remain unchanged",
+          "The sudden extinction of a species",
+          "The movement of alleles between populations"
+        ],
+        "a": 1,
+        "exp": "Stasis refers to a state of equilibrium where a species remains phenotypically unchanged over long geological periods."
+      }
+    ],
+    "legacy_index": 64
+  },
+  {
+    "unit": 5,
+    "page": 66,
+    "filename": "Unit_5_3.txt",
+    "section_title": "Speciation & Macroevolution",
+    "page_num_in_file": 17,
+    "slide_title": "Principles of Macroevolution",
+    "original_text": "Principles of Macroevolution",
+    "explanation": "This slide serves as a separator page introducing the 'Principles of Macroevolution' subsection.",
+    "questions": [
+      {
+        "q": "What is the heading of the separator slide on page 66?",
+        "opts": [
+          "Modes of Speciation",
+          "Principles of Macroevolution",
+          "How New Species Evolve",
+          "Principles of Taxonomy & Systematics"
+        ],
+        "a": 1,
+        "exp": "The slide text reads 'Principles of Macroevolution'."
+      }
+    ],
+    "legacy_index": 65
+  },
+  {
+    "unit": 5,
+    "page": 67,
+    "filename": "Unit_5_3.txt",
+    "section_title": "Speciation & Macroevolution",
+    "page_num_in_file": 18,
+    "slide_title": "Principles of Macroevolution",
+    "original_text": "Principles of Macroevolution¨Developmental Genes and Macroevolution¤Genes can bring about radical changes in body shapes and organs.¤Gene expression can influence developmentnA change in gene expression could stop a developmental process or continue it beyond its normal time.nUsing modern technology, researchers discovered genes whose differential expression can bring about changes in body shapes and organs.nPax6in eye developmentnTbx5in limb developmentnHoxgenes in development of overall shape",
+    "explanation": "Developmental genes play a key role in macroevolution because they control the timing and pattern of animal development. Changes in gene expression can cause radical alterations in body shape and organ structures by halting a developmental pathway early or extending it past its normal duration. Modern research has identified key regulatory genes whose differential expression drives these structural changes, including Pax6 (essential for eye development), Tbx5 (critical for limb development), and Hox genes (which orchestrate the overall developmental body shape in all animals).",
+    "questions": [
+      {
+        "q": "Which developmental gene is specifically associated with eye development based on the notes?",
+        "opts": [
+          "Hox",
+          "Tbx5",
+          "Pax6",
+          "Equus"
+        ],
+        "a": 2,
+        "exp": "The notes state that Pax6 is involved in eye development, while Tbx5 is involved in limb development and Hox genes direct overall shape."
+      },
+      {
+        "q": "How can changes in developmental gene expression lead to radical changes in body shapes?",
+        "opts": [
+          "By increasing the rate of physical erosion in the environment",
+          "By stopping a developmental process early or continuing it beyond its normal time",
+          "By forcing organisms to enter genetic equilibrium",
+          "By preventing any genetic mutations from occurring"
+        ],
+        "a": 1,
+        "exp": "The notes explain that gene expression can influence development: changes can stop a process or continue it beyond its normal timeframe, modifying organs and body shapes."
+      }
+    ],
+    "legacy_index": 66
+  },
+  {
+    "unit": 5,
+    "page": 68,
+    "filename": "Unit_5_3.txt",
+    "section_title": "Speciation & Macroevolution",
+    "page_num_in_file": 19,
+    "slide_title": "Principles of Macroevolution",
+    "original_text": "Principles of Macroevolution¨Macroevolution is not goal-oriented¤The evolution of the horse (Equus)nStudied since the 1870snModel for gradual, straight-line evolution with the modern-horse as its goalnThree trends were particularly evident during the evolution of the horse:nIncrease in overall sizenToe reductionnChange in tooth size and shape¤Discovery of more fossils has led to recognition that:nThe lineage of a horse is complicated by the presence of many ancestors with varied traitsnThe direct ancestor of Equus is not knownnEach ancestral species was adapted to its environmentnSpeciation, diversification, and extinction are common occurrences in the fossil record",
+    "explanation": "The evolution of the horse (Equus) has been studied since the 1870s and was originally used as a classic example of gradual, straight-line evolution leading directly to the modern horse. This linear model emphasized three clear trends: an increase in overall body size, a reduction in the number of toes, and changes in tooth size and shape. However, the discovery of a richer fossil record revealed that horse evolution is actually a complex, branching lineage with many ancestral branches displaying varied traits. The direct ancestor of Equus remains unknown. Rather than moving toward a pre-determined goal, each ancestral species was adapted to its own local environment, showing that speciation, diversification, and extinction are common, branching events in macroevolution.",
+    "questions": [
+      {
+        "q": "What were the three trends originally identified in the straight-line model of horse evolution?",
+        "opts": [
+          "Decreasing size, increasing toes, and softening teeth",
+          "Increasing size, toe reduction, and changes in tooth size/shape",
+          "Rapid speciation, polyploidy, and gamete isolation",
+          "Erosion, deposition, and uplift"
+        ],
+        "a": 1,
+        "exp": "The three trends evident in horse evolution are an increase in overall size, toe reduction, and a change in tooth size and shape."
+      },
+      {
+        "q": "What did the discovery of additional horse fossils demonstrate about macroevolution?",
+        "opts": [
+          "Evolution is a straight-line process with a pre-determined goal.",
+          "The modern horse is the only species that ever existed in the lineage.",
+          "Macroevolution is not goal-oriented, and the lineage is a complex, branching tree of adaptation, speciation, and extinction.",
+          "Fossils are too incomplete to draw any conclusions."
+        ],
+        "a": 2,
+        "exp": "More fossils revealed that the horse lineage is complex and branching, that ancestral species adapted to their own environments, and that macroevolution is not goal-oriented."
+      }
+    ],
+    "legacy_index": 67
+  },
+  {
+    "unit": 5,
+    "page": 69,
+    "filename": "Unit_5_3.txt",
+    "section_title": "Speciation & Macroevolution",
+    "page_num_in_file": 20,
+    "slide_title": "Principles of Macroevolution",
+    "original_text": "Principles of Macroevolution¨Macroevolution is not goal-oriented¤The evolution of the horse (Equus)",
+    "explanation": "This slide emphasizes that macroevolution is not a goal-oriented process, using the evolution of the horse (Equus) as a model of adaptation to changing environments rather than a directed march toward a modern form.",
+    "questions": [
+      {
+        "q": "Which organism's evolutionary history is used to illustrate that macroevolution is not goal-oriented?",
+        "opts": [
+          "The Galápagos tortoise",
+          "The peppered moth",
+          "The horse (Equus)",
+          "British land snails"
+        ],
+        "a": 2,
+        "exp": "The notes use the evolution of the horse (Equus) to show that macroevolution is not goal-oriented."
+      }
+    ],
+    "legacy_index": 68
+  },
+  {
+    "unit": 5,
+    "page": 70,
+    "filename": "Unit_5_4.txt",
+    "section_title": "Principles of Taxonomy & Systematics",
+    "page_num_in_file": 1,
+    "slide_title": "Principles of Taxonomy & Systematics - Visual Page 1",
+    "original_text": "UNIT 5: MECHANISMS & PATTERNS OF EVOLUTION5.4 –PRINCIPLES OF TAXONOMY & SYSTEMATICSBiology 9 Mr. QueenanCh. 18.4 (pg. 596-599) & Ch. 19.1-19.2 (pg. 612-618)",
+    "explanation": "This is the title slide for Section 5.4, 'Principles of Taxonomy & Systematics,' in Unit 5 of Mr. Queenan's Biology 9 course. The assigned readings are Chapter 18.4 (pages 596-599) and Chapters 19.1-19.2 (pages 612-618).",
+    "questions": [
+      {
+        "q": "What is the title of Section 5.4?",
+        "opts": [
+          "Darwin & Evidence for Evolution",
+          "How Populations Evolve",
+          "Speciation & Macroevolution",
+          "Principles of Taxonomy & Systematics"
+        ],
+        "a": 3,
+        "exp": "The title slide explicitly lists the section as 'Principles of Taxonomy & Systematics'."
+      }
+    ],
+    "legacy_index": 69
+  },
+  {
+    "unit": 5,
+    "page": 71,
+    "filename": "Unit_5_4.txt",
+    "section_title": "Principles of Taxonomy & Systematics",
+    "page_num_in_file": 2,
+    "slide_title": "Systemics Biology",
+    "original_text": "Systemics Biology¨Taxonomyis the branch of biology concerned with identifying, naming, and classifying organisms.¤A natural system of classification reflects the evolutionary history of organisms. ¤Naming and identifying organisms began with the Greeks and Romans. nAristotle classified organisms into groups such as horses, birds, and oaks ¤In the Middle Ages, organisms were described using Latin names",
+    "explanation": "Taxonomy is the branch of biology dedicated to identifying, naming, and classifying living organisms. Modern taxonomy aims to build a natural system of classification that accurately reflects the evolutionary history (phylogeny) of organisms. The practice of identifying and naming species began with the ancient Greeks and Romans: Aristotle classified organisms into simple groups such as horses, birds, and oaks. In the Middle Ages, scientists continued this work by describing organisms using descriptive Latin names.",
+    "questions": [
+      {
+        "q": "What is taxonomy?",
+        "opts": [
+          "The study of the geographic range of plants and animals",
+          "The branch of biology concerned with identifying, naming, and classifying organisms",
+          "The process where double chromosomes are created in plants",
+          "The reconstruction of ancient fossil layers in Argentina"
+        ],
+        "a": 1,
+        "exp": "Taxonomy is defined as the branch of biology concerned with identifying, naming, and classifying organisms."
+      },
+      {
+        "q": "Who was one of the first historical figures to classify organisms into groups like horses, birds, and oaks?",
+        "opts": [
+          "Carolus Linnaeus",
+          "Charles Darwin",
+          "Aristotle",
+          "Charles Lyell"
+        ],
+        "a": 2,
+        "exp": "The notes mention that naming and identifying organisms began with the Greeks and Romans, and Aristotle classified organisms into groups like horses, birds, and oaks."
+      }
+    ],
+    "legacy_index": 70
+  },
+  {
+    "unit": 5,
+    "page": 72,
+    "filename": "Unit_5_4.txt",
+    "section_title": "Principles of Taxonomy & Systematics",
+    "page_num_in_file": 3,
+    "slide_title": "Systemics Biology",
+    "original_text": "Systemics Biology¨In the mid-eighteenth century, Carolus Linnaeus developed the system of binomial nomenclature ¤First word is the genus name ¤Second word is the specific epithet nRefers to one species (of potentially many) within its genus ¤A species is referred to by the full binomial name (Genus species) ¤Genus name can be used alone to refer to a group of related species",
+    "explanation": "In the mid-eighteenth century, Carolus Linnaeus developed the system of binomial nomenclature, a standardized way to name species. Under this system, each organism is given a two-part scientific name: the first word is the Genus name (which is capitalized and can be used alone to refer to a group of closely related species), and the second word is the specific epithet (which is lowercase and refers to one specific species within that genus). A species must always be referred to by its full binomial name (Genus species).",
+    "questions": [
+      {
+        "q": "In binomial nomenclature, what do the first and second words of a scientific name represent?",
+        "opts": [
+          "Kingdom and Phylum",
+          "Genus and specific epithet",
+          "Family and Order",
+          "Domain and Species"
+        ],
+        "a": 1,
+        "exp": "In the binomial system, the first word is the genus name and the second word is the specific epithet."
+      },
+      {
+        "q": "How must a single species be formally referred to under Linnaeus's binomial system?",
+        "opts": [
+          "By the Genus name alone",
+          "By the specific epithet alone",
+          "By the full binomial name (Genus species)",
+          "By its English common name"
+        ],
+        "a": 2,
+        "exp": "A species must be referred to by its full binomial name, which includes both the capitalized Genus and the lowercase specific epithet."
+      }
+    ],
+    "legacy_index": 71
+  },
+  {
+    "unit": 5,
+    "page": 73,
+    "filename": "Unit_5_4.txt",
+    "section_title": "Principles of Taxonomy & Systematics",
+    "page_num_in_file": 4,
+    "slide_title": "Systemics Biology",
+    "original_text": "Systemics Biology¨Who determines the scientific name? How are they derived?¤Really up to the person who discovers a species that has not been previously named –Latin used because it was considered universal nAlligator mississippiensisnAmerican Alligator, named for locationnStrigophilusgarylarsoniinOwl mite, named after cartoonist Gary Larson¨Modern taxonomists use the following classification: ¤Species ¤Genus–one or more species ¤Family–one or more genera ¤Order–one or more families ¤Class–one or more orders ¤Phylum–one or more classes ¤Kingdom–one or more phyla ¤Domain–one or more kingdoms",
+    "explanation": "Scientific names are determined by the individual who first discovers and describes a previously unnamed species. Latin is used for these names because it was historically considered a universal language. Examples include Alligator mississippiensis (the American alligator, named for its location) and Strigophilus garylarsoni (an owl mite named in honor of cartoonist Gary Larson). Modern taxonomy organizes life into a nested hierarchy of categories. From the most specific to the most inclusive, these categories are: Species, Genus (containing one or more species), Family (containing one or more genera), Order (one or more families), Class (one or more orders), Phylum (one or more classes), Kingdom (one or more phyla), and Domain (one or more kingdoms).",
+    "questions": [
+      {
+        "q": "Why is Latin used for scientific names?",
+        "opts": [
+          "It is the only language with words for animals.",
+          "It was historically considered a universal language.",
+          "It was invented by Carolus Linnaeus.",
+          "It changes rapidly to match genetic mutations."
+        ],
+        "a": 1,
+        "exp": "Latin was chosen and maintained because it was considered a universal language for scholars across different countries."
+      },
+      {
+        "q": "Which of the following shows the correct order of taxonomic categories from most specific to most inclusive?",
+        "opts": [
+          "Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species",
+          "Species, Genus, Family, Order, Class, Phylum, Kingdom, Domain",
+          "Species, Family, Genus, Class, Order, Phylum, Domain, Kingdom",
+          "Genus, Species, Family, Order, Phylum, Class, Kingdom, Domain"
+        ],
+        "a": 1,
+        "exp": "The hierarchical order from most specific to most inclusive is Species, Genus, Family, Order, Class, Phylum, Kingdom, and Domain."
+      }
+    ],
+    "legacy_index": 72
+  },
+  {
+    "unit": 5,
+    "page": 74,
+    "filename": "Unit_5_4.txt",
+    "section_title": "Principles of Taxonomy & Systematics",
+    "page_num_in_file": 5,
+    "slide_title": "Systemics Biology",
+    "original_text": "Systemics Biology",
+    "explanation": "Study this complete page carefully. Focus on every named term, relationship, process, example, qualification, and exception shown in the notes, then answer the recall prompt below.",
+    "questions": [
+      {
+        "q": "What is the heading of the separator slide on page 74?",
+        "opts": [
+          "The Three Domain System",
+          "Phylogeny",
+          "Systemics Biology",
+          "Principles of Macroevolution"
+        ],
+        "a": 2,
+        "exp": "The slide text reads 'Systemics Biology'."
+      }
+    ],
+    "legacy_index": 73
+  },
+  {
+    "unit": 5,
+    "page": 75,
+    "filename": "Unit_5_4.txt",
+    "section_title": "Principles of Taxonomy & Systematics",
+    "page_num_in_file": 6,
+    "slide_title": "Systemics Biology",
+    "original_text": "Systemics Biology¨The higher the category, the more inclusive ¨Organisms in the same domain have general characteristics in common ¨Members of a species share very specific characteristics. ¨The task of creating standardized rules of nomenclature is difficult and has, most recently, been aided by the process of DNA barcoding ¤Compares short fragments of DNA sequences from an unknown organism to a large database of sequences from known organisms.¨Traditionally, taxonomists relied on anatomical data ¤Consortium for the Barcode of Life (CBOL), proposes that all scientists will be able to identify a species with the flick of a handheld scanner.nLike the 11-digit Universal Product Code (UPC) used in a supermarket, DNA is the UPC of organisms on Earth nA DNA–bar-coding device would provide a fast and inexpensive way to catalog organisms.",
+    "explanation": "Within the taxonomic hierarchy, higher categories are more inclusive; organisms grouped in the same domain share only general traits, whereas members of a species share highly specific characteristics. While taxonomists traditionally relied on anatomical data to classify organisms, modern classification is aided by DNA barcoding. This technology compares short fragments of DNA from an unknown organism against a database of known sequences. The Consortium for the Barcode of Life (CBOL) proposes that scientists will be able to instantly identify species using handheld scanners, treating DNA as the universal product code (UPC) of life. This barcoding system offers a rapid, inexpensive method for cataloging biodiversity.",
+    "questions": [
+      {
+        "q": "What is DNA barcoding?",
+        "opts": [
+          "A method of labeling fossils with physical barcode stickers",
+          "Comparing short DNA fragments of an unknown organism to a database of known sequences for identification",
+          "Mapping the entire genome of an organism in a database",
+          "The selective breeding of plants to create polyploid hybrids"
+        ],
+        "a": 1,
+        "exp": "DNA barcoding is the identification of species by comparing short fragments of their DNA sequences to a reference database of known organisms."
+      },
+      {
+        "q": "What analogy is used to describe the role of DNA in identifying organisms on Earth?",
+        "opts": [
+          "An evolutionary family tree",
+          "A 11-digit Universal Product Code (UPC) used in supermarkets",
+          "A geological clock",
+          "A digital hand scanner"
+        ],
+        "a": 1,
+        "exp": "The notes compare DNA to the 11-digit Universal Product Code (UPC) used in supermarkets, acting as the 'UPC of organisms on Earth'."
+      }
+    ],
+    "legacy_index": 74
+  },
+  {
+    "unit": 5,
+    "page": 76,
+    "filename": "Unit_5_4.txt",
+    "section_title": "Principles of Taxonomy & Systematics",
+    "page_num_in_file": 7,
+    "slide_title": "The Three Domain System",
+    "original_text": "The Three Domain System¨Up until 20thcentury, only 2 kingdoms –Plantae or Animalia¤By 1969, 5 kingdoms considered to encompass all life¤Sequencing of rRNA suggests that all organisms evolved along three distinct lineages, nSo different they needed to be categorized in a level broader than kingdom¨Domain Bacteria ¤Prokaryotic unicellular organisms that reproduce asexually. ¤Cyanobacteria are large photosynthetic prokaryotes. ¤Most bacteria are heterotrophic (break down organic remains) ¤Important in ecosystems -keeping chemical cycling going. ¤Some bacteria are parasitic and cause disease.",
+    "explanation": "Historically, classification systems evolved from recognizing only two kingdoms (Plantae and Animalia) up to the 20th century, to accepting a five-kingdom system by 1969. Later, sequencing of ribosomal RNA (rRNA) revealed that all life evolved along three distinct lineages that were so different they required a level of classification broader than kingdom: the Domain. Domain Bacteria contains prokaryotic, unicellular organisms that reproduce asexually. It includes cyanobacteria, which are large photosynthetic prokaryotes, and heterotrophic bacteria, which break down organic remains and are vital for sustaining chemical cycling in ecosystems. Some bacterial species are parasitic and cause disease.",
+    "questions": [
+      {
+        "q": "What molecular evidence led scientists to establish the three-domain system over the five-kingdom system?",
+        "opts": [
+          "Fossilized DNA footprints in Argentina",
+          "Sequencing of ribosomal RNA (rRNA)",
+          "Comparative anatomy of vertebrate limbs",
+          "Analysis of Hox gene activation timing"
+        ],
+        "a": 1,
+        "exp": "Sequencing of rRNA suggested that all organisms evolved along three distinct lineages that were genetically different enough to warrant a level broader than kingdom (domains)."
+      },
+      {
+        "q": "Which of the following is a key characteristic of organisms in Domain Bacteria?",
+        "opts": [
+          "They are multicellular eukaryotes.",
+          "They are prokaryotic unicellular organisms that reproduce asexually.",
+          "They all possess a membrane-bounded nucleus.",
+          "They reproduce exclusively through sexual reproduction."
+        ],
+        "a": 1,
+        "exp": "Domain Bacteria consists of prokaryotic, unicellular organisms that reproduce asexually."
+      }
+    ],
+    "legacy_index": 75
+  },
+  {
+    "unit": 5,
+    "page": 77,
+    "filename": "Unit_5_4.txt",
+    "section_title": "Principles of Taxonomy & Systematics",
+    "page_num_in_file": 8,
+    "slide_title": "The Three Domain System",
+    "original_text": "The Three Domain System¨Domain Archaea ¤Prokaryotic unicellular organisms that reproduce asexually. ¤Live in extreme environments. ¤Cell wall is diverse but not the same as the bacterial cell wall.¨Domain Eukarya ¤Unicellular and multicellular organisms ¤Cells with a membrane-bounded nucleus ¤Sexual reproduction is common ¤Contains four kingdoms nKingdom Protista nKingdom Fungi nKingdom Plantae nKingdom Animalia",
+    "explanation": "This slide contrasts Domain Archaea and Domain Eukarya. Domain Archaea consists of prokaryotic, unicellular organisms that reproduce asexually and typically live in extreme environments. Their cell walls are chemically diverse but distinct from those of bacteria. Domain Eukarya encompasses both unicellular and multicellular organisms whose cells contain a membrane-bounded nucleus. In this domain, sexual reproduction is common. Domain Eukarya is divided into four kingdoms: Kingdom Protista, Kingdom Fungi, Kingdom Plantae, and Kingdom Animalia.",
+    "questions": [
+      {
+        "q": "Which domain contains prokaryotic organisms that are known for living in extreme environments and have cell walls different from bacteria?",
+        "opts": [
+          "Domain Bacteria",
+          "Domain Archaea",
+          "Domain Eukarya",
+          "Domain Protista"
+        ],
+        "a": 1,
+        "exp": "Domain Archaea consists of prokaryotes that live in extreme environments and have cell walls chemically distinct from Domain Bacteria."
+      },
+      {
+        "q": "What are the four kingdoms contained within Domain Eukarya?",
+        "opts": [
+          "Bacteria, Archaea, Protista, and Fungi",
+          "Protista, Fungi, Plantae, and Animalia",
+          "Monera, Protista, Plantae, and Animalia",
+          "Unicellular, Multicellular, Autotrophic, and Heterotrophic"
+        ],
+        "a": 1,
+        "exp": "Domain Eukarya contains four kingdoms: Kingdom Protista, Kingdom Fungi, Kingdom Plantae, and Kingdom Animalia."
+      }
+    ],
+    "legacy_index": 76
+  },
+  {
+    "unit": 5,
+    "page": 78,
+    "filename": "Unit_5_4.txt",
+    "section_title": "Principles of Taxonomy & Systematics",
+    "page_num_in_file": 9,
+    "slide_title": "Phylogeny",
+    "original_text": "Phylogeny¨Systematicsis the study of diversity of organisms using information from cellular to population levels ¨One goal of systematics is to determine phylogeny(evolutionary history) of a group ¨Phylogeny is often represented as a phylogenetic tree ¤A diagram indicating lines of descent ¤Each branching point: nIs a divergence from a common ancestor nRepresents an organism that gives rise to two or more new groups¨Classification lists the unique characters of each taxon and is intended to reflect phylogeny ¤Ancestral traits: nPresent in all members of a group, and nPresent in the common ancestor ¤Derived traits: nPresent in some members of a group, but absent in the common ancestor",
+    "explanation": "Systematics is the study of the diversity of organisms using data ranging from the cellular to the population level. A primary goal of systematics is to determine the phylogeny, or evolutionary history, of a group. This history is typically depicted using a phylogenetic tree, which is a diagram showing lines of descent. Each branching point on the tree represents a divergence from a common ancestor and indicates an ancestral organism that gave rise to two or more new groups. Modern biological classification is designed to reflect this phylogeny by analyzing characters: ancestral traits are present in all members of a group and in their common ancestor, while derived traits are unique to only some members of a group and were absent in their common ancestor.",
+    "questions": [
+      {
+        "q": "What represents the divergence from a common ancestor on a phylogenetic tree?",
+        "opts": [
+          "The terminal tips of the branches",
+          "Each branching point (node)",
+          "The horizontal lines of the tree only",
+          "The title of the cladogram"
+        ],
+        "a": 1,
+        "exp": "Each branching point (node) on a phylogenetic tree represents a divergence from a common ancestor, showing where one lineage split into two or more new groups."
+      },
+      {
+        "q": "What is the difference between ancestral and derived traits?",
+        "opts": [
+          "Ancestral traits are present in all group members and the common ancestor; derived traits are only in some members and absent in the common ancestor.",
+          "Ancestral traits are acquired during life; derived traits are coded in DNA.",
+          "Ancestral traits only occur in bacteria; derived traits only occur in eukaryotes.",
+          "Ancestral traits are homologous; derived traits are analogous."
+        ],
+        "a": 0,
+        "exp": "Ancestral traits are shared by all members because they were inherited from the common ancestor, whereas derived traits evolved later and are present in only a subset of the group."
+      }
+    ],
+    "legacy_index": 77
+  },
+  {
+    "unit": 5,
+    "page": 79,
+    "filename": "Unit_5_4.txt",
+    "section_title": "Principles of Taxonomy & Systematics",
+    "page_num_in_file": 10,
+    "slide_title": "Phylogeny",
+    "original_text": "Phylogeny",
+    "explanation": "Study this complete page carefully. Focus on every named term, relationship, process, example, qualification, and exception shown in the notes, then answer the recall prompt below.",
+    "questions": [
+      {
+        "q": "What is the heading of the separator slide on page 79?",
+        "opts": [
+          "Phylogeny",
+          "Systemics Biology",
+          "The Three Domain System",
+          "Cladistics"
+        ],
+        "a": 0,
+        "exp": "The slide text reads 'Phylogeny'."
+      }
+    ],
+    "legacy_index": 78
+  },
+  {
+    "unit": 5,
+    "page": 80,
+    "filename": "Unit_5_4.txt",
+    "section_title": "Principles of Taxonomy & Systematics",
+    "page_num_in_file": 11,
+    "slide_title": "Phylogeny",
+    "original_text": "Phylogeny¨Cladisticsis a way to analyze primitive and derived characters and by the construction of phylogenetic trees called a cladogramon the basis of shared derived characters. ¤Arrange taxa into a cladogram ¨A cladogram is a special type of phylogenetic tree ¤Aclade is an evolutionary branch that includes: nA common ancestor, together with all its descendent species ¤It traces the evolutionary history of the group being studied.¨Cladistsare guided by the principle of parsimony—the minimum number of assumptions is most logical.¤The best cladogram is one in which the fewest number of shared derived characters are left unexplained or that minimizes the number of assumed evolutionary changes. ¨Reliability of cladograms is dependent on the knowledge and skill of an investigator",
+    "explanation": "Cladistics is a systematic method used to analyze primitive (ancestral) and derived characters to construct phylogenetic trees called cladograms, based on shared derived characters. A cladogram is a specialized type of phylogenetic tree. Within a cladogram, a clade is an evolutionary branch that includes a single common ancestor along with all of its descendant species, tracing their evolutionary history. Cladists construct these diagrams using the principle of parsimony, which dictates that the simplest explanation (requiring the minimum number of assumptions or evolutionary changes) is the most logical. Thus, the best cladogram is the one that minimizes unexplained character changes. The reliability of these cladograms depends heavily on the knowledge and skill of the investigator.",
+    "questions": [
+      {
+        "q": "What is a clade in a cladogram?",
+        "opts": [
+          "An ancestral trait that has been lost over time",
+          "An evolutionary branch that includes a common ancestor and all its descendant species",
+          "A tool used to measure mutation rates in a molecular clock",
+          "A group of organisms that look similar due to convergent evolution"
+        ],
+        "a": 1,
+        "exp": "A clade is defined as an evolutionary branch on a cladogram that contains a common ancestor and all of its descendants."
+      },
+      {
+        "q": "What is the principle of parsimony in cladistics?",
+        "opts": [
+          "The assumption that all mutations are adaptive",
+          "The rule that cladograms must rely only on fossil footprint data",
+          "The guideline that the cladogram requiring the fewest assumed evolutionary changes (simplest path) is the most logical",
+          "The belief that species are fixed and unchanging"
+        ],
+        "a": 2,
+        "exp": "Parsimony is the scientific principle that the simplest explanation (minimizing assumed evolutionary changes or assumptions) is the most likely and logical tree."
+      }
+    ],
+    "legacy_index": 79
+  },
+  {
+    "unit": 5,
+    "page": 81,
+    "filename": "Unit_5_4.txt",
+    "section_title": "Principles of Taxonomy & Systematics",
+    "page_num_in_file": 12,
+    "slide_title": "Phylogeny",
+    "original_text": "Phylogeny",
+    "explanation": "Study this complete page carefully. Focus on every named term, relationship, process, example, qualification, and exception shown in the notes, then answer the recall prompt below.",
+    "questions": [
+      {
+        "q": "What is the text on the separator slide on page 81?",
+        "opts": [
+          "Phylogeny",
+          "Tracing Phylogeny",
+          "Domain Archaea",
+          "Cladistics"
+        ],
+        "a": 0,
+        "exp": "The slide text simply reads 'Phylogeny'."
+      }
+    ],
+    "legacy_index": 80
+  },
+  {
+    "unit": 5,
+    "page": 82,
+    "filename": "Unit_5_4.txt",
+    "section_title": "Principles of Taxonomy & Systematics",
+    "page_num_in_file": 13,
+    "slide_title": "Phylogeny",
+    "original_text": "Phylogeny¨Tracing Phylogeny ¤Fossil TraitsnFossil record is incomplete nIt is often difficult to determine the phylogeny of a fossil ¤Homology nRefers to features that stem from a common ancestor nHomologous structures are related to each other through common descent ¤Analogy nSimilarity due to convergent evolution nAnalogous structureshave the same function in different groups but do not have a common ancestry nStructures look similar due to adaptation to similar environments",
+    "explanation": "Tracing phylogeny involves analyzing different traits. While fossil traits are useful, the fossil record is incomplete, making it difficult to determine the precise evolutionary pathway of a fossil. Systematists distinguish between homology and analogy. Homology refers to biological features that stem from a common ancestor, meaning homologous structures are related through common descent. Analogy refers to structural similarities that arise due to convergent evolution. Analogous structures perform the same function in different groups but do not share a common ancestry; they look similar simply because the unrelated organisms adapted to similar environmental pressures.",
+    "questions": [
+      {
+        "q": "What is homology?",
+        "opts": [
+          "Structural similarity due to convergent evolution without common ancestry",
+          "Biological features that stem from a common ancestor, related through common descent",
+          "The rate of neutral mutations in a molecular clock",
+          "The process of nondisjunction during meiosis"
+        ],
+        "a": 1,
+        "exp": "Homology refers to traits or structures that are shared among species because they were inherited from a common ancestor."
+      },
+      {
+        "q": "How do analogous structures differ from homologous structures?",
+        "opts": [
+          "Analogous structures have different functions but share a common ancestor.",
+          "Analogous structures have the same function in different groups but do not share a common ancestry, arising via convergent evolution.",
+          "Analogous structures are only found in prokaryotes.",
+          "Analogous structures are determined by Hox genes, while homologous are not."
+        ],
+        "a": 1,
+        "exp": "Analogous structures share similar functions because of adaptation to similar environments (convergent evolution) but lack a common ancestral origin, unlike homologous structures."
+      }
+    ],
+    "legacy_index": 81
+  },
+  {
+    "unit": 5,
+    "page": 83,
+    "filename": "Unit_5_4.txt",
+    "section_title": "Principles of Taxonomy & Systematics",
+    "page_num_in_file": 14,
+    "slide_title": "Phylogeny",
+    "original_text": "Phylogeny¨Tracing Phylogeny ¤Behavioral Traits nParental care, mating calls, etc. ¤Molecular Traits nSystematics assumes: nTwo species with similar base-pair sequences are assumed to be closely related nTwo species with differing base-pair sequences are assumed to be only distantly related",
+    "explanation": "To trace phylogeny, systematists analyze behavioral and molecular traits. Behavioral traits include actions like parental care behaviors and species-specific mating calls. Molecular traits are particularly powerful: systematics operates on the assumption that species sharing highly similar DNA base-pair sequences are closely related (sharing a recent common ancestor), whereas species with highly divergent base-pair sequences are only distantly related (sharing a more ancient common ancestor).",
+    "questions": [
+      {
+        "q": "What assumption does systematics make when comparing the DNA base-pair sequences of two species?",
+        "opts": [
+          "Species with similar base-pair sequences are assumed to be closely related.",
+          "Species with similar base-pair sequences are assumed to be distantly related.",
+          "DNA sequence similarity is completely unrelated to evolutionary history.",
+          "Prokaryotes do not have base-pair sequences."
+        ],
+        "a": 0,
+        "exp": "Systematics assumes that a higher similarity in DNA base-pair sequences reflects a closer evolutionary relationship and recent common ancestry."
+      }
+    ],
+    "legacy_index": 82
+  },
+  {
+    "unit": 5,
+    "page": 84,
+    "filename": "Unit_5_4.txt",
+    "section_title": "Principles of Taxonomy & Systematics",
+    "page_num_in_file": 15,
+    "slide_title": "Phylogeny",
+    "original_text": "Phylogeny¨Tracing Phylogeny ¤Protein Comparisons nImmunological techniquesnDegree of cross reaction used to judge relationship nAmino acid sequencing nSimilar sequence in the same protein indicates a close relationship ¤Molecular Clock nUse neutral (non-adaptive) nucleotide sequences nAssumes a constant rate of mutation over time",
+    "explanation": "Protein comparisons and molecular clocks are advanced methods for tracing phylogeny. Protein comparisons include immunological techniques, where the degree of antibody-antigen cross-reaction is measured to estimate species relationships, and direct amino acid sequencing, where highly similar sequences in the same protein indicate a close evolutionary relationship. The Molecular Clock is a method that uses neutral, non-adaptive nucleotide sequences. By assuming that these neutral mutations accumulate at a relatively constant rate over time, scientists can estimate the absolute time that has elapsed since two species diverged from a common ancestor.",
+    "questions": [
+      {
+        "q": "What is a molecular clock used for in systematics?",
+        "opts": [
+          "To determine the rate of soil erosion in an ecosystem",
+          "To estimate the absolute time of evolutionary divergence based on a constant rate of neutral mutations",
+          "To measure the physical size of organisms over time",
+          "To cause hybrid sterility in plants"
+        ],
+        "a": 1,
+        "exp": "A molecular clock uses neutral nucleotide sequences and assumes a constant mutation rate over time to estimate when species diverged from their common ancestor."
+      },
+      {
+        "q": "How can protein comparisons indicate evolutionary relationships?",
+        "opts": [
+          "By measuring the size of cells",
+          "Through immunological cross-reaction degrees and similarities in amino acid sequencing",
+          "By calculating the number of Hox genes",
+          "By assessing whether a protein can become a fossil"
+        ],
+        "a": 1,
+        "exp": "Protein comparisons evaluate relationships by measuring the degree of cross-reaction in immunological tests or by comparing the alignment of amino acid sequences in shared proteins."
+      }
+    ],
+    "legacy_index": 83
+  }
+]

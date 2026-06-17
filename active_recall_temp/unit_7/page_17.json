@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 17,
+  "filename": "Unit_7_1.txt",
+  "section_title": "Plant Structure & Organization",
+  "page_num_in_file": 17,
+  "slide_title": "Organization of Diversity of Stems: Woody Stems",
+  "original_text": "Organization of Diversity of Stems Woody Stems Woody plants have both primary and secondary tissues Primary tissues formed each year from primary meristems Secondary tissues develop during first and subsequent years from lateral meristems Woody stems have both primary and secondary growth Primary growth increases the length of the plant Secondary growth increases the girth Woody stems have no vascular tissue, and instead have three distinct regions Bark Wood Pith",
+  "explanation": "Woody stems undergo both primary growth (which increases plant length) and secondary growth (which increases girth/thickness). They possess both primary tissues (formed annually from apical and primary meristems) and secondary tissues (developed starting in their first year and in subsequent years from lateral meristems: vascular cambium and cork cambium). In mature woody stems, individual vascular bundles are no longer present. Instead, the stem is organized into three distinct concentric regions: bark (outer layers), wood (secondary xylem), and a central pith.",
+  "questions": [
+    {
+      "q": "In a woody stem, which type of growth is responsible for increasing the girth (thickness)?",
+      "opts": [
+        "Primary growth",
+        "Secondary growth",
+        "Apical growth",
+        "Protoderm growth"
+      ],
+      "a": 1,
+      "exp": "Secondary growth increases the girth (width/thickness) of the stem, whereas primary growth increases length."
+    },
+    {
+      "q": "Which of the following is NOT one of the three distinct anatomical regions of a mature woody stem?",
+      "opts": [
+        "Bark",
+        "Wood",
+        "Pith",
+        "Vascular bundles"
+      ],
+      "a": 3,
+      "exp": "Woody stems do not contain discrete vascular bundles; instead, the tissues are organized into bark, wood, and pith."
+    }
+  ]
+}

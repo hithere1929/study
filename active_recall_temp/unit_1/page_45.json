@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 45,
+  "filename": "Unit_1_3.txt",
+  "section_title": "The Process of Science",
+  "page_num_in_file": 11,
+  "slide_title": "The Scientific Method",
+  "original_text": "GeneralCaseStudyContinued\nObservation:Flashlight doesn\u2019t work.\nQuestion:Why doesn\u2019t theflashlight work?\nHypothesis #1:Batteries are dead.Hypothesis #2:Bulb is burned out.\nPrediction:Replacing batterieswill fix problem.Prediction:Replacing bulbwill fix problem.\nTest of prediction:Replace batteries.Test of prediction:Replace bulb.\nResults:Flashlight doesn\u2019t work.Hypothesis is contradicted.Results:Flashlight works.Hypothesis is supported.",
+  "explanation": "This slide presents the full workflow of the flashlight case study. Two hypotheses are proposed to answer why the flashlight fails to work: Hypothesis 1 (dead batteries) and Hypothesis 2 (burned-out bulb). Predictions are made: replacing the batteries will fix it, and replacing the bulb will fix it. Both predictions are tested. Replacing the batteries results in the flashlight still not working, which contradicts Hypothesis 1. Replacing the bulb results in the flashlight working, which supports Hypothesis 2.",
+  "questions": [
+    {
+      "q": "In the case study, what was the result and conclusion of replacing the flashlight's batteries?",
+      "opts": [
+        "The flashlight worked, supporting the hypothesis.",
+        "The flashlight did not work, contradicting the hypothesis.",
+        "The bulb burned out, requiring a new hypothesis.",
+        "The flashlight worked, contradicting the hypothesis."
+      ],
+      "a": 1,
+      "exp": "The slide shows under the 'Replace batteries' test: 'Results: Flashlight doesn\u2019t work. Hypothesis is contradicted.'"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 6,
+  "page": 86,
+  "filename": "Unit_6_7.txt",
+  "section_title": "Vertebrates",
+  "page_num_in_file": 7,
+  "slide_title": "Diversity \u2013Fish\u00a8Largest group of vertebrates. mm in length to 12m in length\u00a4Bony FishnMost are ray finned (fan shaped)nHave swim bladder for buoyancynWell developed nervous system and brain \u00a4Lobe-finned fishnContain fleshy fins supported by bonenGave rise to first amphibiansnContain lungfish and coelacanth",
+  "original_text": "Diversity \u2013Fish\u00a8Largest group of vertebrates. mm in length to 12m in length\u00a4Bony FishnMost are ray finned (fan shaped)nHave swim bladder for buoyancynWell developed nervous system and brain \u00a4Lobe-finned fishnContain fleshy fins supported by bonenGave rise to first amphibiansnContain lungfish and coelacanth",
+  "explanation": "Bony Fish are the largest group of vertebrates. Most bony fish are ray-finned, meaning they possess fan-shaped fins, a swim bladder to regulate buoyancy, and a well-developed nervous system and brain. Lobe-finned fish contain fleshy fins supported by internal bones. Lobe-finned fish gave rise to the first terrestrial amphibians, and living representatives include the lungfish and coelacanth.",
+  "questions": [
+    {
+      "q": "What structure do ray-finned bony fish use to maintain and regulate buoyancy?",
+      "opts": [
+        "Notochord",
+        "Swim bladder",
+        "Lobular lungs",
+        "Cartilaginous spicules"
+      ],
+      "a": 1,
+      "exp": "The notes state that ray-finned bony fish 'Have swim bladder for buoyancy'."
+    },
+    {
+      "q": "What evolutionary significance is held by lobe-finned fish, and which are modern examples?",
+      "opts": [
+        "They developed the first feathers; eagles and geese",
+        "They gave rise to the first amphibians; lungfish and coelacanth",
+        "They developed jawless cylindrical bodies; lampreys",
+        "They were the first to lay amniotic eggs; turtles and snakes"
+      ],
+      "a": 1,
+      "exp": "The notes state that lobe-finned fish 'Gave rise to first amphibians' and 'Contain lungfish and coelacanth'."
+    }
+  ]
+}

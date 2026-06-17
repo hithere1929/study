@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 125,
+  "filename": "Unit_4_6.txt",
+  "section_title": "Meiosis",
+  "page_num_in_file": 19,
+  "slide_title": "Female Reproductive System",
+  "original_text": "Female Reproductive System",
+  "explanation": "This slide is a transition slide introducing the anatomy and hormonal cycles of the Female Reproductive System.",
+  "questions": [
+    {
+      "q": "What organ system is introduced on this slide?",
+      "opts": [
+        "Male Reproductive System",
+        "Female Reproductive System",
+        "Digestive System",
+        "Endocrine System"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide is titled 'Female Reproductive System'."
+    }
+  ]
+}

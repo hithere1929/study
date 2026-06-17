@@ -1,0 +1,23 @@
+{
+  "unit": 5,
+  "page": 31,
+  "filename": "Unit_5_2.txt",
+  "section_title": "How Populations Evolve",
+  "page_num_in_file": 10,
+  "slide_title": "Genes, Populations, & Evolution",
+  "original_text": "Genes, Populations, & Evolution",
+  "explanation": "This slide serves as a thematic separator card for the 'Genes, Populations, & Evolution' subsection under the larger topic of How Populations Evolve.",
+  "questions": [
+    {
+      "q": "What is the heading of the separator slide on page 31?",
+      "opts": [
+        "Evidence for Evolution",
+        "Darwin's Galapagos Voyage",
+        "Genes, Populations, & Evolution",
+        "Macroevolution and Speciation"
+      ],
+      "a": 2,
+      "exp": "The slide content is the text 'Genes, Populations, & Evolution'."
+    }
+  ]
+}

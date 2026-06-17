@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 17,
+  "filename": "Unit_5_1.txt",
+  "section_title": "Darwin & Evidence for Evolution",
+  "page_num_in_file": 17,
+  "slide_title": "Evidence for Evolution",
+  "original_text": "Evidence for Evolution\n\u00a8Biogeographical Evidence\n\u00a4Biogeography is the study of the range and distribution of plants and animals throughout the world\n\u00a4Biogeographical distributions are consistent with the hypothesis that related forms of life evolved in one locale and then spread to accessible regions\n\u00a4A different mix of plants and animals would be expected whenever geography separates continents, islands, seas, etc.",
+  "explanation": "Biogeographical evidence supports evolution through the study of the geographic ranges and distribution of plants and animals globally. Biogeographical patterns show that related life forms evolved in a single location (locale) and subsequently spread to adjacent, accessible areas. Consequently, when geographical barriers like oceans, seas, islands, or continental shifts isolate regions, a unique mix of plants and animals develops, which explains why isolated regions have distinct endemic species.",
+  "questions": [
+    {
+      "q": "How does biogeography explain the distribution of related species?",
+      "opts": [
+        "Related species arose spontaneously in many different places at the same time.",
+        "Related species evolved in one locale and then dispersed to accessible regions.",
+        "Species distributions are completely random and show no correlation with geography.",
+        "All related species are restricted to the South American mainland."
+      ],
+      "a": 1,
+      "exp": "Biogeographical distributions are consistent with the hypothesis that related life forms evolved in one locale and then spread to accessible regions."
+    },
+    {
+      "q": "What is expected to happen when geographic features like oceans or seas separate landmasses over time?",
+      "opts": [
+        "The same identical species will remain on both sides of the barrier.",
+        "A different mix of plants and animals will develop due to isolation.",
+        "Organisms will lose the ability to reproduce.",
+        "Erosion will cease entirely on those landmasses."
+      ],
+      "a": 1,
+      "exp": "Geography separating landmasses (continents, islands, seas) results in a different mix of plants and animals in those isolated regions."
+    }
+  ]
+}

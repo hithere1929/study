@@ -1,0 +1,27 @@
+{
+  "id": "u4_h_t1",
+  "title": "Meiosis",
+  "cheat_card": [
+    "<b>Meiosis</b> is the process of nuclear division that reduces chromosome number to half, producing <b>haploid gametes (1n = 23)</b> from a diploid cell (2n = 46). Fusion of sperm and egg yields a <b>diploid zygote (2n = 46)</b>.",
+    "During <b>Prophase I</b>, homologous chromosomes pair lengthwise (<b>synapsis</b>) to form a <b>tetrad</b>. Chromatids twist and portion breaks off and attach (<b>crossing-over</b>), resulting in <b>genetic recombination</b>.",
+    "During <b>Anaphase I</b>, homologous chromosomes separate randomly (<b>independent assortment</b>) to opposite poles (tetrads separate, not sister chromatids), promoting genetic variation.",
+    "<b>Spermatogenesis</b> in testes forms 4 haploid spermatids from a diploid cell, while <b>oogenesis</b> in ovaries produces 1 mature ovum and 3 non-functional polar bodies that degenerate due to unequal cytokinesis.",
+    "<b>FSH</b> promotes spermatogenesis in males and follicle development in females; <b>LH</b> controls testosterone production in males and promotes corpus luteum development and progesterone secretion in females."
+  ],
+  "memory_anchor": "### Meiotic Divisions vs. Gametogenesis\n\n| Feature | Meiosis I | Meiosis II | Spermatogenesis | Oogenesis |\n| :--- | :--- | :--- | :--- | :--- |\n| **Homologues** | Synapsis & separate | No synapsis | 4 sperm cells | 1 ovum, 3 polar bodies |\n| **Chromatids** | Remain attached | Chromatids separate | Equal cytokinesis | Unequal cytokinesis |\n| **Result** | 2 cells (diploid-like 2n) | 4 haploid (1n) cells | Continual in testes | Cyclic in ovaries |",
+  "flashcards": [
+    {
+      "q": "What are two specific mechanisms during Meiosis I that generate genetic variation, and in which phases do they occur?",
+      "a": "The two mechanisms are: (1) Crossing-over during Prophase I, where homologous chromatids twist, break, and exchange segments (genetic recombination); and (2) Independent assortment during Anaphase I, where maternal and paternal homologous chromosomes separate randomly to opposite poles."
+    },
+    {
+      "q": "How does cytoplasmic division differ between spermatogenesis and oogenesis in humans, and what is the functional consequence of this difference?",
+      "a": "Spermatogenesis features equal cytokinesis, yielding 4 functional haploid spermatids. Oogenesis features unequal cytokinesis, where the cytoplasm is divided unequally to produce 1 large, nutrient-rich mature ovum (retaining the majority of the cytoplasm) and 3 non-functional polar bodies that degenerate."
+    },
+    {
+      "q": "Explain the specific roles of FSH and LH in both male and female human reproduction.",
+      "a": "In males, FSH promotes spermatogenesis in the seminiferous tubules, and LH controls testosterone production by the interstitial cells of the testes. In females, FSH promotes follicle development (follicular phase), and LH promotes development of the corpus luteum (luteal phase) and triggers ovulation."
+    }
+  ],
+  "outline_blanks": "Meiosis reduces the chromosome count from diploid to [[haploid]], dividing twice to produce four gametes. In Prophase I, homologous chromosomes align in a process called [[synapsis]] to form a [[tetrad]], where chromatids swap segments via [[crossing-over]]. In the male reproductive system, [[FSH]] promotes spermatogenesis in the [[seminiferous tubules]], while [[LH]] controls testosterone production."
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 1,
+  "page": 36,
+  "filename": "Unit_1_3.txt",
+  "section_title": "The Process of Science",
+  "page_num_in_file": 2,
+  "slide_title": "Questions?\u2013Essential Question: Can we have knowledge without order?\u2013What are examples of ways we seek to make order of our world?\u2013Religion, Government, Ethics, Science",
+  "original_text": "Questions?\u2013Essential Question: Can we have knowledge without order?\u2013What are examples of ways we seek to make order of our world?\u2013Religion, Government, Ethics, Science\n\u2013What makes science different?",
+  "explanation": "This slide introduces introductory questions for the Scientific Method unit. The essential question is: 'Can we have knowledge without order?' It lists religion, government, ethics, and science as examples of human institutions used to bring order to the world. It then asks the student to consider: 'What makes science different?'",
+  "questions": [
+    {
+      "q": "What is the essential question that guides this section?",
+      "opts": [
+        "How did life evolve on Earth?",
+        "Can we have knowledge without order?",
+        "What is the difference between prokaryotes and eukaryotes?",
+        "Why is the microscope important to biology?"
+      ],
+      "a": 1,
+      "exp": "The slide explicitly lists: 'Essential Question: Can we have knowledge without order?'"
+    },
+    {
+      "q": "Which of the following is listed as a way humans seek to make order of our world?",
+      "opts": [
+        "Photosynthesis, respiration, and metabolism",
+        "Religion, Government, Ethics, and Science",
+        "Observations, predictions, and controls",
+        "Taxonomy, systematics, and cladistics"
+      ],
+      "a": 1,
+      "exp": "The slide lists: 'Religion, Government, Ethics, Science' as examples of ways we seek to make order of our world."
+    }
+  ]
+}

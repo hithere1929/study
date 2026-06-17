@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 56,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 41,
+  "slide_title": "Chloroplasts",
+  "original_text": "Chloroplasts\nUse light energy to make carbohydrates from carbon dioxide and water\nContains thylakoids\nsystem of flattened, membranous sacs that contain green pigment chlorophyll\nPrimary molecule that absorbs and captures light energy for the cell\nFound in plants and eukaryotic algae\nChloroplast DNA similar to that of photosynthetic bacteria; chloroplasts can only arise from the division of pre-existing chloroplasts\nSuggests that chloroplasts are descended from ancient prokaryotic cells that were incorporated into plant cells by endosymbiosis",
+  "explanation": "Chloroplasts are specialized plastids found in plants and eukaryotic algae. They use light energy to manufacture carbohydrates from carbon dioxide and water. Inside the chloroplast is the thylakoid system—a network of flattened, membranous sacs containing the green pigment chlorophyll, which is the primary molecule responsible for capturing light energy. Chloroplasts contain their own DNA, which is highly similar to that of photosynthetic bacteria. Because chloroplasts can only replicate by dividing from pre-existing chloroplasts, they are believed to have descended from ancient prokaryotic cells that entered plant ancestors via endosymbiosis.",
+  "questions": [
+    {
+      "q": "What are the flattened, membranous sacs within chloroplasts that contain the pigment chlorophyll?",
+      "opts": [
+        "Cisternae",
+        "Thylakoids",
+        "Cristae",
+        "Stroma"
+      ],
+      "a": 1,
+      "exp": "Chloroplasts contain thylakoids, which are systems of flattened, membranous sacs containing the green pigment chlorophyll."
+    },
+    {
+      "q": "What evidence suggests that chloroplasts descended from ancient prokaryotic cells via endosymbiosis?",
+      "opts": [
+        "They lack a cell membrane and contain no proteins.",
+        "Their DNA is similar to photosynthetic bacteria, and they only arise from division of pre-existing chloroplasts.",
+        "They are only found in animal cells.",
+        "They form wood when their cells die and disintegrate."
+      ],
+      "a": 1,
+      "exp": "Chloroplast DNA is similar to photosynthetic bacterial DNA, and they arise only from the division of pre-existing chloroplasts, which strongly supports the Endosymbiotic Theory."
+    }
+  ]
+}

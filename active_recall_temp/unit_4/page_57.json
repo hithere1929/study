@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 57,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 6,
+  "slide_title": "Operons¨The operon contains the following:¤Regulator gene-Located outside the operon. Codes for DNA binding proteins that act as repressors. nControls if the operon is active or not¤Promoter–Short sequence of DNA found before the structural genes. RNA polymerase binds to the promoter. Binding signals start of transcription¤Operator–Portion of DNA following promoter where a repressor will bind. When bound, polymerase cannot bind to promoter¤Structural genes–Genes that code for enzymes and proteins",
+  "original_text": "Operons¨The operon contains the following:¤Regulator gene-Located outside the operon. Codes for DNA binding proteins that act as repressors. nControls if the operon is active or not¤Promoter–Short sequence of DNA found before the structural genes. RNA polymerase binds to the promoter. Binding signals start of transcription¤Operator–Portion of DNA following promoter where a repressor will bind. When bound, polymerase cannot bind to promoter¤Structural genes–Genes that code for enzymes and proteins",
+  "explanation": "An operon consists of several specific DNA elements that work together to control gene expression: 1) Regulator gene: Located outside the operon itself, it codes for DNA-binding proteins that act as repressors, controlling whether the operon is active or inactive. 2) Promoter: A short DNA sequence situated before the structural genes where RNA polymerase binds to initiate transcription. 3) Operator: A segment of DNA located next to or following the promoter. A repressor protein can bind to the operator; when the operator is bound by a repressor, RNA polymerase is physically blocked from binding to the promoter, preventing transcription. 4) Structural genes: The actual genes within the operon that code for the functional enzymes and proteins of the pathway.",
+  "questions": [
+    {
+      "q": "What happens when a repressor protein is bound to the operator of an operon?",
+      "opts": [
+        "RNA polymerase binds to the promoter and transcription increases.",
+        "RNA polymerase is blocked from binding to the promoter, preventing transcription.",
+        "The structural genes are deleted from the chromosome.",
+        "Ribosomes translate the operator sequence directly."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states that the operator is the portion of DNA 'where a repressor will bind. When bound, polymerase cannot bind to promoter,' thus preventing transcription. Option A is the opposite, and Options C and D are incorrect."
+    },
+    {
+      "q": "Where is the regulator gene located, and what is its function?",
+      "opts": [
+        "Inside the operator; it binds to RNA polymerase.",
+        "Outside the operon; it codes for DNA-binding repressor proteins.",
+        "Immediately after the structural genes; it stops translation.",
+        "Within the promoter; it synthesizes structural enzymes."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'Regulator gene - Located outside the operon. Codes for DNA binding proteins that act as repressors.' The other options are incorrect."
+    }
+  ]
+}

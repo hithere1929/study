@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 85,
+  "filename": "Unit_3_4.txt",
+  "section_title": "The Cell Cycle",
+  "page_num_in_file": 12,
+  "slide_title": "Mitosis -Prophase",
+  "original_text": "Mitosis -Prophase",
+  "explanation": "This page is a placeholder or title slide for Mitosis - Prophase.",
+  "questions": [
+    {
+      "q": "What phase of mitosis is introduced by this slide?",
+      "opts": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "a": 0,
+      "exp": "The slide is titled 'Mitosis - Prophase'."
+    }
+  ]
+}

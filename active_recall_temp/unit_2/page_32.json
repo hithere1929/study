@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 32,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 32,
+  "slide_title": "3: Acids & Bases",
+  "original_text": "3: Acids & Bases¨Acidity& alkalinityneed to be balanced in living systems¨Acids & bases start with the ionization of water¤Water molecules can collide with one another; sometimes the interaction is strong enough to cause a chemical changenWater molecule dissociates: H2O ⇄ H+ + OH-\nH+ = proton; OH-= hydroxide ion¨Acidity: measure of relative amount of protons¨Alkalinity: measure of relative amount of hydroxide ion",
+  "explanation": "Acidity and alkalinity must be carefully balanced in living systems. The chemistry of acids and bases begins with the ionization of water, which occurs when colliding water molecules interact strongly enough to cause a chemical dissociation. In this process, water dissociates into a proton (H+) and a hydroxide ion (OH-) according to the reversible reaction: H2O <-> H+ + OH-. Acidity is a measure of the relative concentration of protons (H+) in the solution, whereas alkalinity is a measure of the relative concentration of hydroxide ions (OH-).",
+  "questions": [
+    {
+      "q": "What chemical reaction represents the ionization (dissociation) of water?",
+      "opts": [
+        "2H2 + O2 -> 2H2O",
+        "H2O <-> H+ + OH-",
+        "HCl + NaOH -> NaCl + H2O",
+        "CO2 + H2O <-> H2CO3"
+      ],
+      "a": 1,
+      "exp": "The ionization of water is represented by H2O dissociating into H+ (proton) and OH- (hydroxide ion)."
+    },
+    {
+      "q": "What does alkalinity measure in a solution?",
+      "opts": [
+        "The relative amount of protons (H+).",
+        "The total concentration of dissolved salts.",
+        "The relative amount of hydroxide ions (OH-).",
+        "The volume of the solvent."
+      ],
+      "a": 2,
+      "exp": "Alkalinity measures the relative concentration of hydroxide ions (OH-), while acidity measures protons (H+)."
+    }
+  ]
+}

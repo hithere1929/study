@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 33,
+  "filename": "Unit_1_2.txt",
+  "section_title": "Intro to Biology",
+  "page_num_in_file": 20,
+  "slide_title": "Organizing Diversity",
+  "original_text": "\u2013Diversity is observed across all levels of biological organization\u2013From cell structure, to organisms, to populations, to ecosystems and biodiversity.\u2013We will study the interplay of each of these over the course of the next few months, moving from the smallest (Biochemistry and cytology) to the largest (biomes and ecology)",
+  "explanation": "This slide points out that biological diversity can be seen at all levels of organization, from microscopic cell structures to complete organisms, populations, ecosystems, and global biodiversity. The biology course will cover these levels sequentially over the school year, moving from the smallest scale (Biochemistry and cytology/cell biology) to the largest scale (biomes and ecology).",
+  "questions": [
+    {
+      "q": "In what order will the course investigate biological systems?",
+      "opts": [
+        "From the largest scale (biomes and ecology) to the smallest scale (biochemistry)",
+        "From the smallest scale (biochemistry and cytology) to the largest scale (biomes and ecology)",
+        "By analyzing human body systems first and cell biology last",
+        "By focusing exclusively on ecosystem diversity and ignoring cellular details"
+      ],
+      "a": 1,
+      "exp": "The text states the study will move 'from the smallest (Biochemistry and cytology) to the largest (biomes and ecology)'."
+    }
+  ]
+}

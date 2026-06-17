@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 88,
+  "filename": "Unit_2_3.txt",
+  "section_title": "Movement of Molecules",
+  "page_num_in_file": 14,
+  "slide_title": "Tonicity",
+  "original_text": "Tonicity\nAnimalcell\nPlantcell\nHypotonic solution(lower solute levels)Isotonic solution(equal solute levels)Hypertonic solution(higher solute levels)\nAnimal cell: Lysed, Normal, Shriveled\nPlant cell: Turgid (normal), Flaccid, Shriveled (plasmolyzed)",
+  "explanation": "This slide illustrates the structural effects of different tonicities on animal and plant cells. In animal cells, which lack cell walls, a hypotonic solution causes them to become lysed (burst), an isotonic solution keeps them normal, and a hypertonic solution makes them shriveled. In plant cells, which possess rigid cell walls, a hypotonic solution is the normal state, keeping the cell turgid (firm) due to internal water pressure. An isotonic solution makes the plant cell flaccid (limp), and a hypertonic solution causes it to become shriveled or plasmolyzed (where the plasma membrane pulls away from the cell wall).",
+  "questions": [
+    {
+      "q": "What is the normal, healthy state for a plant cell, and in which type of solution does it occur?",
+      "opts": [
+        "Flaccid, occurring in an isotonic solution",
+        "Shriveled, occurring in a hypertonic solution",
+        "Turgid, occurring in a hypotonic solution",
+        "Lysed, occurring in a hypotonic solution"
+      ],
+      "a": 2,
+      "exp": "A plant cell is normally turgid (firm) when placed in a hypotonic solution, because the rigid cell wall prevents the cell from bursting while internal turgor pressure supports the plant structure."
+    },
+    {
+      "q": "What term describes a plant cell whose plasma membrane has shriveled and pulled away from its cell wall in a hypertonic environment?",
+      "opts": [
+        "Lysed",
+        "Flaccid",
+        "Turgid",
+        "Plasmolyzed"
+      ],
+      "a": 3,
+      "exp": "When a plant cell is in a hypertonic solution, it loses water, shrivels, and undergoes plasmolysis (becomes plasmolyzed)."
+    }
+  ]
+}

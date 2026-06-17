@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 53,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 38,
+  "slide_title": "Plant Cell Wall Structure",
+  "original_text": "Plant Cell Wall Structure",
+  "explanation": "This page serves as a transition or title slide for the Plant Cell Wall Structure.",
+  "questions": [
+    {
+      "q": "What is the title of the slide shown on this page?",
+      "opts": [
+        "Plant Cell Wall Structure",
+        "Cellulose Synthesis",
+        "Secondary Cell Wall",
+        "Membrane Transport"
+      ],
+      "a": 0,
+      "exp": "The slide is titled 'Plant Cell Wall Structure'."
+    }
+  ]
+}

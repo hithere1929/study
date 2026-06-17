@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 88,
+  "filename": "Unit_3_4.txt",
+  "section_title": "The Cell Cycle",
+  "page_num_in_file": 15,
+  "slide_title": "Mitosis -Telophase",
+  "original_text": "Mitosis -Telophase\nChromosomes reach opposite ends of cell\nSpindle fibers disassemble\nChromosomes return to less tightly coiled chromatin\nNuclear envelope forms around each set of chromosomes; nucleolus forms within each new nucleus \nCleavage furrow becomes visible",
+  "explanation": "Telophase begins when chromosomes reach the opposite ends of the cell. During this phase, the spindle fibers disassemble and the chromosomes return to their less tightly coiled chromatin state. A nuclear envelope forms around each of the two sets of chromosomes, and a nucleolus reforms inside each new nucleus. A cleavage furrow also becomes visible as the cell prepares for cytokinesis.",
+  "questions": [
+    {
+      "q": "Which of the following events occurs during telophase of mitosis?",
+      "opts": [
+        "Chromosomes coil tightly and nucleolus disappears.",
+        "Sister chromatids are pulled apart at the centromeres.",
+        "Chromosomes return to less tightly coiled chromatin, and the nuclear envelope and nucleolus reform.",
+        "Spindle fibers attach to disc-shaped kinetochores."
+      ],
+      "a": 2,
+      "exp": "During telophase, chromosomes return to less tightly coiled chromatin, spindle fibers disassemble, and a nuclear envelope and nucleolus reform around each chromosome set."
+    }
+  ]
+}

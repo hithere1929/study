@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 23,
+  "filename": "Unit_1_2.txt",
+  "section_title": "Intro to Biology",
+  "page_num_in_file": 10,
+  "slide_title": "Characteristics of Life",
+  "original_text": "Characteristics of Life\n5.Living things can reproduce\u2013Life onlydevelops from life\u2013Therefore, living things must be able to create new organisms, and pass on genetic material, or genes\u2013Unicellular splitting or division\u2013Asexual\u2013Identical to parent\u2013Union of sperm and egg\u2013Sexual\u2013Combination of parents",
+  "explanation": "This slide details the fifth characteristic of life: living things can reproduce. Under the principle that life only develops from life, organisms must create new organisms and pass on genetic material (genes). Reproduction can be asexual, such as unicellular splitting or division, which results in offspring identical to the parent. Alternatively, it can be sexual, involving the union of sperm and egg, which results in a combination of traits from both parents.",
+  "questions": [
+    {
+      "q": "Which type of reproduction results in offspring that are genetically identical to the parent?",
+      "opts": [
+        "Sexual reproduction",
+        "Asexual reproduction",
+        "Natural selection",
+        "Homeostatic adjustment"
+      ],
+      "a": 1,
+      "exp": "The text defines 'Asexual' reproduction (e.g. unicellular splitting or division) as resulting in offspring that are 'Identical to parent'."
+    }
+  ]
+}

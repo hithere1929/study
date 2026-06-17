@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 61,
+  "filename": "Unit_6_5.txt",
+  "section_title": "Plant Evolution & Diversity",
+  "page_num_in_file": 11,
+  "slide_title": "Evolution of Seed Plants\u00a8Seed plants are the most plentiful plants in the biosphere \u00a8Seed coat and stored food allow an embryo to survive harsh conditions during long period of dormancy \u00a4Heterosporous nDrought-resistant pollen grains nOvule develops into seed\u00a8Seed plants broken into two groups\u00a4Gymnosperms \u2013non-flowering plants\u00a4Angiosperms \u2013flowering plants",
+  "original_text": "Evolution of Seed Plants\u00a8Seed plants are the most plentiful plants in the biosphere \u00a8Seed coat and stored food allow an embryo to survive harsh conditions during long period of dormancy \u00a4Heterosporous nDrought-resistant pollen grains nOvule develops into seed\u00a8Seed plants broken into two groups\u00a4Gymnosperms \u2013non-flowering plants\u00a4Angiosperms \u2013flowering plants",
+  "explanation": "Seed plants are the most plentiful plants in the biosphere. A protective seed coat and stored food within the seed allow the plant embryo to survive harsh environmental conditions during extended dormancy. Seed plants are heterosporous, featuring drought-resistant pollen grains and ovules that develop into seeds. Seed plants are categorized into two groups: Gymnosperms (non-flowering plants) and Angiosperms (flowering plants).",
+  "questions": [
+    {
+      "q": "What features of a seed allow plant embryos to survive harsh conditions and dormancy?",
+      "opts": [
+        "A waxy cuticle and stomata",
+        "A protective seed coat and stored food",
+        "Xylem and phloem tubes",
+        "Antheridia and archegonia"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Seed coat and stored food allow an embryo to survive harsh conditions during long period of dormancy'."
+    },
+    {
+      "q": "Into what structure does the plant ovule develop after fertilization?",
+      "opts": [
+        "A spore",
+        "A seed",
+        "A microphyll",
+        "A pollen grain"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Ovule develops into seed'."
+    },
+    {
+      "q": "What are the two major groups of seed plants?",
+      "opts": [
+        "Bryophytes and Lycophytes",
+        "Pteridophytes and Gymnosperms",
+        "Gymnosperms and Angiosperms",
+        "Monocots and Eudicots only"
+      ],
+      "a": 2,
+      "exp": "The notes state: 'Seed plants broken into two groups: Gymnosperms \u2013 non-flowering plants; Angiosperms \u2013 flowering plants'."
+    }
+  ]
+}

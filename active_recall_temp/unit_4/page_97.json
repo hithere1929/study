@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 97,
+  "filename": "Unit_4_5.txt",
+  "section_title": "Biotech & Genomics",
+  "page_num_in_file": 19,
+  "slide_title": "Genomics¨Genomicsis the study of the genomes of humans and other organisms.¨Sequencing the Bases¤The Human Genome Project (HGP) produced a working draft of all the base pairs in all chromosomes.¤Took 13 years to sequence three billion base pairs along the length of chromosomes.¨Genome-All the genetic information of an individual (or species)¨Goals of the Human Genome Project¤Determine the base pair sequence¤Construct a map showing the sequences of genes on specific chromosomes",
+  "original_text": "Genomics¨Genomicsis the study of the genomes of humans and other organisms.¨Sequencing the Bases¤The Human Genome Project (HGP) produced a working draft of all the base pairs in all chromosomes.¤Took 13 years to sequence three billion base pairs along the length of chromosomes.¨Genome-All the genetic information of an individual (or species)¨Goals of the Human Genome Project¤Determine the base pair sequence¤Construct a map showing the sequences of genes on specific chromosomes",
+  "explanation": "Genomics is the branch of molecular biology concerned with the structure, function, evolution, and mapping of genomes, which represent all the genetic information of an individual or species. The Human Genome Project (HGP) was a major effort that successfully mapped and sequenced the human genome. It took 13 years to sequence the three billion base pairs found along our chromosomes. The primary goals of the HGP were to determine the complete sequence of these base pairs and to construct a map showing the exact physical locations of genes on specific chromosomes.",
+  "questions": [
+    {
+      "q": "What is a genome?",
+      "opts": [
+        "A specific locus where a point mutation has occurred.",
+        "All the genetic information of an individual or species.",
+        "A collection of proteins harvested from a bioreactor.",
+        "The sequence of amino acids in a functional enzyme."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide defines a genome as 'All the genetic information of an individual (or species).' The other options are incorrect."
+    },
+    {
+      "q": "What were the primary goals of the Human Genome Project (HGP)?",
+      "opts": [
+        "To clone human embryos and eliminate all germ-line mutations.",
+        "To determine the base pair sequence and construct a map showing gene locations on chromosomes.",
+        "To synthesize artificial restriction enzymes and DNA ligases.",
+        "To eliminate all introns from the human genome."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide lists these two goals: 'Determine the base pair sequence' and 'Construct a map showing the sequences of genes on specific chromosomes.' The other options are incorrect."
+    }
+  ]
+}

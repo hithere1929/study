@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 72,
+  "filename": "Unit_7_4.txt",
+  "section_title": "Plant Reproduction",
+  "page_num_in_file": 18,
+  "slide_title": "Artificial Reproduction Strategies: Biotechnology",
+  "original_text": "Artificial Reproduction Strategies In addition to more natural, horticulture methods of vegetative propagation, there are also some other lab-based methods Tissue culture is the growth of a tissue in an artificial liquid or solid culture medium Many plant cells are totipotent Each has the genetic capability of becoming an entire plant Plants can be genetically modified and then grown in these conditions Somatic embryogenesis Hormones stimulate development of plantlets from leaf or other tissue Tomato, rice, celery, asparagus, lilies, and others developed using this method Somaclonalvariations Mutations leading to new plants with desirable traits can be selected for and then shipped",
+  "explanation": "Advanced laboratories utilize biotechnology for plant propagation. 1) Tissue culture is the sterile growth of plant tissue in an artificial liquid or solid culture medium. This relies on the fact that many plant cells are totipotent, meaning each cell possesses the genetic capacity to differentiate and grow into a complete plant. This property allows researchers to grow genetically modified plants from single cells. 2) Somatic embryogenesis: uses plant hormones to stimulate the formation of plantlets directly from somatic tissues, like leaf fragments (used for tomato, rice, celery, asparagus, and lilies). 3) Somaclonal variations: are mutations that spontaneously arise during tissue culture, allowing scientists to select for and propagate plants with new, desirable traits.",
+  "questions": [
+    {
+      "q": "What does the term 'totipotent' mean in the context of plant cell biology?",
+      "opts": [
+        "The cell can only undergo meiosis to produce spores.",
+        "The cell contains chloroplasts and can perform photosynthesis.",
+        "The cell has the genetic potential to develop into an entire plant.",
+        "The cell is impermeable to water and gases."
+      ],
+      "a": 2,
+      "exp": "Totipotent cells contain the complete genetic program required to regenerate all tissues and develop into a whole, mature plant."
+    },
+    {
+      "q": "What is somatic embryogenesis?",
+      "opts": [
+        "The fusion of male and female gametes in an ovule",
+        "Hormonal stimulation of plantlet development from leaf or other non-reproductive tissue",
+        "The natural splitting of dry fruits at maturity",
+        "Spontaneous mutation occurring in cell suspension cultures"
+      ],
+      "a": 1,
+      "exp": "Somatic embryogenesis involves using plant hormones to induce the development of plantlets directly from somatic (vegetative) tissues like leaves."
+    },
+    {
+      "q": "What are somaclonal variations?",
+      "opts": [
+        "Spontaneously occurring mutations in tissue culture that can lead to desirable traits",
+        "Modified roots that tap into host plant xylem",
+        "Concentric rings of secondary growth in woody stems",
+        "Seasonal changes in the opening of stomata"
+      ],
+      "a": 0,
+      "exp": "Somaclonal variations are mutations that occur during tissue culture. These variations can be selected by breeders to develop new plants with desirable traits."
+    }
+  ]
+}

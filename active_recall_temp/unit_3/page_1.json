@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 1,
+  "filename": "Unit_3_1.txt",
+  "section_title": "Cell Biology",
+  "page_num_in_file": 1,
+  "slide_title": "UNIT 3: CELLS 3.1 –CELL BIOLOGYBiology 9        Mr. QueenanChapter 8.1 (p.238-247) & Ch 11.1 (p.339)",
+  "original_text": "UNIT 3: CELLS 3.1 –CELL BIOLOGYBiology 9        Mr. QueenanChapter 8.1 (p.238-247) & Ch 11.1 (p.339)",
+  "explanation": "This is the introductory title page for Unit 3: Cell Biology. The content is aligned with Biology 9, instructed by Mr. Queenan, covering Chapter 8.1 (pages 238-247) and Chapter 11.1 (page 339) of the textbook.",
+  "questions": [
+    {
+      "q": "Which chapters of the textbook are referenced on the title page of Unit 3: Cell Biology?",
+      "opts": [
+        "Chapters 7.1 and 10.1",
+        "Chapters 8.1 and 11.1",
+        "Chapters 9.1 and 12.1",
+        "Chapters 6.1 and 13.1"
+      ],
+      "a": 1,
+      "exp": "The title page explicitly references Chapter 8.1 (p. 238-247) and Ch 11.1 (p. 339) of the Biology 9 textbook. Other chapters are incorrect according to the slide text."
+    }
+  ]
+}

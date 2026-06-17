@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 35,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 35,
+  "slide_title": "3: pH",
+  "original_text": "3: pH",
+  "explanation": "This slide is a title page placeholder for pH concepts.",
+  "questions": [
+    {
+      "q": "What scale is introduced on this section slide?",
+      "opts": [
+        "Temperature scale",
+        "pH scale",
+        "Mass scale",
+        "Density scale"
+      ],
+      "a": 1,
+      "exp": "The slide is titled '3: pH', referring to the pH scale."
+    }
+  ]
+}

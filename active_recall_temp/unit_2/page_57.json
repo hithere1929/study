@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 57,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 21,
+  "slide_title": "2: Importance of R-Groups",
+  "original_text": "2: Importance of R-Groups¨Differences in R groups gives proteins different shapes/structures¨Different shapes/structures allow proteins to carry out variety of activities in living things¤Enzymes¤Bind to and activate/deactivate DNA¤Inter-and intracellular signaling¤Cell structures",
+  "explanation": "The differences in the chemical composition of R groups are crucial because they dictate the unique three-dimensional shapes and structures of proteins. This structural diversity, in turn, allows proteins to perform a wide variety of functions in living systems, including acting as enzymes to catalyze reactions, binding to DNA to activate or deactivate genes, mediating inter- and intracellular signaling, and serving as building blocks for cellular structures.",
+  "questions": [
+    {
+      "q": "Why are the differences in amino acid R groups biologically important?",
+      "opts": [
+        "They allow proteins to convert into carbohydrates.",
+        "They give proteins different shapes/structures, which allows them to carry out diverse cellular activities.",
+        "They determine the number of peptide bonds formed.",
+        "They make all proteins completely hydrophobic."
+      ],
+      "a": 1,
+      "exp": "The specific chemical nature of R groups determines protein folding and structure, which enables proteins to perform specialized functions like enzymatic activity, structural support, and signaling."
+    },
+    {
+      "q": "Which of the following is a key function of proteins mentioned on this slide?",
+      "opts": [
+        "Primary storage of genetic information",
+        "Binding to and activating/deactivating DNA",
+        "Serving as the cell's main solvent",
+        "Storing energy in plant seeds"
+      ],
+      "a": 1,
+      "exp": "One of the major protein functions listed is binding to DNA to activate or deactivate it."
+    }
+  ]
+}

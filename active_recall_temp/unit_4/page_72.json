@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 72,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 23,
+  "slide_title": "4) Translational Control¨Occurs in the cytoplasm after mRNA leaves nucleus¨Determines degree to which mRNA is translated into a protein product¤Features of the mRNA affect whether translation occurs and how long the mRNA remain activenPresence of 5’ capnLength of poly-A tail on 3’ end ¤miRNA may regulate these products by causing their destruction before translation",
+  "original_text": "4) Translational Control¨Occurs in the cytoplasm after mRNA leaves nucleus¨Determines degree to which mRNA is translated into a protein product¤Features of the mRNA affect whether translation occurs and how long the mRNA remain activenPresence of 5’ capnLength of poly-A tail on 3’ end ¤miRNA may regulate these products by causing their destruction before translation",
+  "explanation": "Translational control takes place in the cytoplasm after the mRNA transcript has been exported from the nucleus. This level of control determines the extent or degree to which the mRNA molecule is translated into its final protein product. Specific structural features of the mRNA determine whether translation can initiate and how long the mRNA molecule remains stable and active in the cytoplasm. These key regulatory features are the presence of the 5' cap and the length of the poly-A tail on the 3' end. Additionally, microRNAs (miRNAs) can regulate these mRNA transcripts by targeting and causing their destruction prior to translation.",
+  "questions": [
+    {
+      "q": "Where does translational control occur and what is its primary role?",
+      "opts": [
+        "It occurs in the nucleus and controls alternative splicing.",
+        "It occurs in the cytoplasm and determines the degree to which mRNA is translated into a protein.",
+        "It occurs on the cell membrane and activates transmembrane receptors.",
+        "It occurs in the proteasome and degrades nonfunctional proteins."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states translational control 'Occurs in the cytoplasm after mRNA leaves nucleus' and 'Determines degree to which mRNA is translated into a protein product.' The other options place it in the incorrect location or assign the wrong function."
+    },
+    {
+      "q": "Which features of the mRNA transcript affect whether translation occurs and how long the mRNA remains active?",
+      "opts": [
+        "The presence of promoter consensus sequences and histone tails.",
+        "The presence of a 5' cap and the length of the poly-A tail on the 3' end.",
+        "The presence of methyl groups and the number of active introns.",
+        "The presence of transcription factors and enhancer binding regions."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide lists 'Presence of 5’ cap' and 'Length of poly-A tail on 3’ end' as mRNA features that affect translation and mRNA activity lifespan. The other options refer to transcriptional or epigenetic features."
+    }
+  ]
+}

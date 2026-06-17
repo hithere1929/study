@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 58,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 43,
+  "slide_title": "Comparing Cells",
+  "original_text": "Comparing Cells\nCommon features: plasma membrane, cytoplasm, ribosomes, genetic material\nProkaryotes vs. Eukaryotes:\nProkaryotes lack nucleus, membrane-bound organelles and internal membrane system; have a nucleoid where DNA is concentrated\nPlant vs. Animal cells:\nPlant cells have cell wall, central vacuole and plastids, not found in animal cells",
+  "explanation": "This slide reviews cell comparisons. All cells share common features: a plasma membrane, cytoplasm, ribosomes, and genetic material. Eukaryotes differ from prokaryotes because prokaryotes lack a nucleus, membrane-bound organelles, and an internal membrane system, instead concentrating their DNA in a region called the nucleoid. Within eukaryotes, plant cells contain three structures not found in animal cells: a cell wall, a central vacuole, and plastids.",
+  "questions": [
+    {
+      "q": "Which of the following is a feature shared by ALL cells (prokaryotes and eukaryotes)?",
+      "opts": [
+        "Nucleus",
+        "Cell Wall",
+        "Ribosomes",
+        "Mitochondria"
+      ],
+      "a": 2,
+      "exp": "The slide lists common features of all cells: plasma membrane, cytoplasm, ribosomes, and genetic material."
+    },
+    {
+      "q": "What structures are unique to plant cells and not found in animal cells?",
+      "opts": [
+        "Nucleus, cytoplasm, and ribosomes",
+        "Cell wall, central vacuole, and plastids",
+        "Mitochondria, Golgi apparatus, and lysosomes",
+        "Centrioles, cilia, and flagella"
+      ],
+      "a": 1,
+      "exp": "Plant cells have a cell wall, central vacuole, and plastids, which are not found in animal cells."
+    }
+  ]
+}

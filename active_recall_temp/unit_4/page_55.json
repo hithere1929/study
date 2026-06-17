@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 55,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 4,
+  "slide_title": "Prokaryotic Regulation",
+  "original_text": "Prokaryotic Regulation",
+  "explanation": "This slide serves as an introduction to the specific mechanisms of gene regulation in prokaryotic organisms, which typically use operons.",
+  "questions": [
+    {
+      "q": "What is the focus of this intro slide?",
+      "opts": [
+        "Eukaryotic RNA splicing",
+        "Prokaryotic Regulation",
+        "Viral replication",
+        "Mendelian genetics"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide title is 'Prokaryotic Regulation.' The other options are incorrect."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 40,
+  "filename": "Unit_8_3.txt",
+  "section_title": "Community & Ecosystem Ecology",
+  "page_num_in_file": 6,
+  "slide_title": "Ecology of Communities¨Prey defenses¤Mechanisms that thwart the possibility of being eaten by a predatornHeightened sensesnSpeednProtective armornProtective spines or thornsnTails or appendages that break offnPoisonous chemicalsnCamouflagenWarning colorationnFlocking behavior¤MimicrynOne species resembles another species that possesses an overt antipredator defensenBatesian Mimicry -Mimic lacks defense of the organism it resemblesnMüllerian Mimicry -Mimic shares a protective defense with other species",
+  "original_text": "Ecology of Communities¨Prey defenses¤Mechanisms that thwart the possibility of being eaten by a predatornHeightened sensesnSpeednProtective armornProtective spines or thornsnTails or appendages that break offnPoisonous chemicalsnCamouflagenWarning colorationnFlocking behavior¤MimicrynOne species resembles another species that possesses an overt antipredator defensenBatesian Mimicry -Mimic lacks defense of the organism it resemblesnMüllerian Mimicry -Mimic shares a protective defense with other species\nBatesian\nMüllerian",
+  "explanation": "Prey species have evolved defenses to thwart predators. These include heightened senses, speed, protective armor, spines or thorns, detachable appendages (e.g., tails that break off), poisonous chemicals, camouflage, warning coloration, and flocking behavior. Mimicry is a defense where one species resembles another that has an overt defense. In Batesian mimicry, the mimic is harmless and lacks the defense of the organism it resembles. In Müllerian mimicry, different species that share a protective defense mimic each other, reinforcing the warning to predators.",
+  "questions": [
+    {
+      "q": "What is the difference between Batesian mimicry and Müllerian mimicry?",
+      "opts": [
+        "Batesian mimicry occurs in plants, while Müllerian mimicry occurs in animals.",
+        "In Batesian mimicry, the mimic lacks the actual defense of the model; in Müllerian mimicry, the mimic shares a protective defense with other resembling species.",
+        "Batesian mimicry involves auditory signals, while Müllerian mimicry is purely visual.",
+        "In Batesian mimicry, the predator mimics the prey; in Müllerian mimicry, the prey mimics the predator."
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Batesian Mimicry - Mimic lacks defense of the organism it resembles' and 'Müllerian Mimicry - Mimic shares a protective defense with other species.'"
+    },
+    {
+      "q": "Which of the following is NOT listed as a prey defense in the notes?",
+      "opts": [
+        "Warning coloration",
+        "Flocking behavior",
+        "Active parasitism",
+        "Tails or appendages that break off"
+      ],
+      "a": 2,
+      "exp": "Prey defenses listed include heightened senses, speed, protective armor, protective spines/thorns, tails/appendages that break off, poisonous chemicals, camouflage, warning coloration, and flocking behavior. Parasitism is a symbiotic relationship, not a prey defense."
+    }
+  ]
+}

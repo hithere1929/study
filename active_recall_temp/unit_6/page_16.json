@@ -1,0 +1,34 @@
+{
+  "unit": 6,
+  "page": 16,
+  "filename": "Unit_6_2.txt",
+  "section_title": "Prokaryotes",
+  "page_num_in_file": 5,
+  "slide_title": "Reproduction\u00a8Asexual \u00a4Prokaryotes reproduce asexually by means of binary fission\u00a8Methods of genetic recombination \u00a4Conjugation nSex pilus forms between two cells nDonor cell passes DNA to recipient cell through pilus\u00a4Transformation\u00a4Transduction",
+  "original_text": "Reproduction\u00a8Asexual \u00a4Prokaryotes reproduce asexually by means of binary fission\u00a8Methods of genetic recombination \u00a4Conjugation nSex pilus forms between two cells nDonor cell passes DNA to recipient cell through pilus\u00a4Transformation\u00a4Transduction",
+  "explanation": "Prokaryotes reproduce asexually via a process called binary fission. To introduce genetic variety, prokaryotes employ methods of genetic recombination. The three main methods are conjugation, transformation, and transduction. In conjugation, a physical connection called a sex pilus forms between two prokaryotic cells. The donor cell then passes a copy of its DNA to the recipient cell through this pilus.",
+  "questions": [
+    {
+      "q": "How do prokaryotes reproduce asexually?",
+      "opts": [
+        "Mitosis",
+        "Binary fission",
+        "Meiosis",
+        "Budding"
+      ],
+      "a": 1,
+      "exp": "The notes explicitly state that prokaryotes 'reproduce asexually by means of binary fission'."
+    },
+    {
+      "q": "Which method of genetic recombination involves a sex pilus?",
+      "opts": [
+        "Transformation",
+        "Transduction",
+        "Conjugation",
+        "Binary fission"
+      ],
+      "a": 2,
+      "exp": "During conjugation, a 'Sex pilus forms between two cells' and the donor passes DNA to the recipient through it."
+    }
+  ]
+}

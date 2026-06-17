@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 26,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 11,
+  "slide_title": "Nuclear Structure",
+  "original_text": "Nuclear Structure",
+  "explanation": "This page serves as a transition or title slide for Nuclear Structure.",
+  "questions": [
+    {
+      "q": "What is the title of this slide?",
+      "opts": [
+        "Nucleolus Functions",
+        "Nuclear Structure",
+        "Ribosome Assembly",
+        "Endoplasmic Reticulum"
+      ],
+      "a": 1,
+      "exp": "The slide is titled 'Nuclear Structure'."
+    }
+  ]
+}

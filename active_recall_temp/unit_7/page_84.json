@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 84,
+  "filename": "Unit_7_5.txt",
+  "section_title": "Animal Organization",
+  "page_num_in_file": 11,
+  "slide_title": "Types of Tissues: Muscular Tissue",
+  "original_text": "Types of Tissues Muscular (Contractile) tissue Contractile cells containing actin and myosin filaments Cells are called muscle fibers Three types of muscle tissue: Skeletal Muscle Voluntary -Long, striated fibers, multinucleated Smooth (visceral) Muscle Involuntary -No striations Cardiac Muscle Striated, but mostly involuntary Cells are bound to each other by intercalated disks Relies on pacemaker cells for regular contraction",
+  "explanation": "Muscular tissue is specialized for contraction and movement. It is composed of cells called muscle fibers, which contain contractile protein filaments made of actin and myosin. There are three types of muscle tissue: 1) Skeletal muscle: voluntary, featuring long, cylindrical, striated (banded) fibers containing multiple nuclei per cell. 2) Smooth (visceral) muscle: involuntary, lacking striations, composed of spindle-shaped cells with a single nucleus; found in the walls of internal organs. 3) Cardiac muscle: found only in the heart. It is striated but involuntary. The cardiac cells are branched, single-nucleated, and joined end-to-end by intercalated disks that facilitate rapid electrical coupling. Cardiac contraction is regulated by specialized pacemaker cells.",
+  "questions": [
+    {
+      "q": "What contractile filaments are found inside muscle fibers?",
+      "opts": [
+        "Collagen and elastin",
+        "Actin and myosin",
+        "Suberin and lignin",
+        "Microglia and astrocytes"
+      ],
+      "a": 1,
+      "exp": "Muscle fibers contract using specialized protein filaments called actin and myosin."
+    },
+    {
+      "q": "Which type of muscle tissue is striated, involuntary, and has cells connected by intercalated disks?",
+      "opts": [
+        "Skeletal muscle",
+        "Smooth muscle",
+        "Cardiac muscle",
+        "Visceral muscle"
+      ],
+      "a": 2,
+      "exp": "Cardiac muscle is striated and involuntary, and its cells are bound together by intercalated disks."
+    },
+    {
+      "q": "What is smooth muscle, and where is it located?",
+      "opts": [
+        "Voluntary striated muscle attached to bones",
+        "Involuntary, non-striated muscle found in the walls of internal organs",
+        "Striated involuntary muscle found in the heart",
+        "A fluid connective tissue located in lymphatic vessels"
+      ],
+      "a": 1,
+      "exp": "Smooth (visceral) muscle is involuntary and lacks striations. It is located in the walls of internal organs like the digestive tract."
+    }
+  ]
+}

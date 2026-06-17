@@ -1,0 +1,23 @@
+{
+  "unit": 7,
+  "page": 61,
+  "filename": "Unit_7_4.txt",
+  "section_title": "Plant Reproduction",
+  "page_num_in_file": 7,
+  "slide_title": "Reproductive Strategies: Cycle Overview",
+  "original_text": "Reproductive Strategies We will work our way through this reproductive cycle over the next few slides, starting with a flowering plant creating the gametes.",
+  "explanation": "This slide serves as an introduction to the step-by-step examination of the angiosperm reproductive cycle, starting with gamete formation in the flowers.",
+  "questions": [
+    {
+      "q": "What is the first step of the angiosperm reproductive cycle to be covered in this section?",
+      "opts": [
+        "Fruit development",
+        "Seed dispersal",
+        "Gamete creation",
+        "Germination"
+      ],
+      "a": 2,
+      "exp": "The section begins by detailing the process of gamete creation in the flowering plant."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 160,
+  "filename": "Unit_4_8.txt",
+  "section_title": "Mendelian Inheritance P1 - Mendelian Genetics",
+  "page_num_in_file": 15,
+  "slide_title": "Mendel’s Monohybrid Cross",
+  "original_text": "Mendel’s Monohybrid Cross",
+  "explanation": "Analysis of Mendel's monohybrid cross experiments demonstrates that the 3:1 phenotypic ratio in the F2 generation corresponds to a 1:2:1 genotypic ratio (homozygous dominant, heterozygous, homozygous recessive).",
+  "questions": [
+    {
+      "q": "What is the expected genotypic ratio in the F2 generation of a standard monohybrid cross?",
+      "opts": [
+        "3:1",
+        "9:3:3:1",
+        "1:2:1",
+        "1:1"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because crossing Aa x Aa yields 1/4 AA, 1/2 Aa, and 1/4 aa, representing a 1:2:1 ratio."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 5,
+  "page": 30,
+  "filename": "Unit_5_2.txt",
+  "section_title": "How Populations Evolve",
+  "page_num_in_file": 9,
+  "slide_title": "Genes, Populations, & Evolution",
+  "original_text": "Genes, Populations, & Evolution\n\u00a8Hardy-Weinberg Equilibrium:\n\u00a4Required conditions are rarely (if ever) met\n\u00a4Deviations from a Hardy-Weinberg equilibrium indicate that evolution has taken place\n\u00a4Analysis of allele changes in populations over time determines the extent to which evolution has occurred.",
+  "explanation": "Because the conditions necessary for Hardy-Weinberg Equilibrium are rarely, if ever, met in nature, real populations typically deviate from equilibrium. Any observed deviation from HWE indicates that evolution has taken place. By analyzing these shifts and changes in allele frequencies over time, population geneticists can determine the direction and extent of evolutionary change within a population.",
+  "questions": [
+    {
+      "q": "What does a deviation from Hardy-Weinberg Equilibrium indicate about a population?",
+      "opts": [
+        "The population has gone extinct.",
+        "Evolution has taken place.",
+        "No genetic mutations are occurring.",
+        "Mating has become completely random."
+      ],
+      "a": 1,
+      "exp": "A deviation from Hardy-Weinberg Equilibrium indicates that allele frequencies have shifted, which means that evolution has occurred."
+    }
+  ]
+}

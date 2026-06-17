@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 81,
+  "filename": "Unit_7_5.txt",
+  "section_title": "Animal Organization",
+  "page_num_in_file": 8,
+  "slide_title": "Types of Tissues: Fibrous Connective Tissue",
+  "original_text": "Types of Tissues Fibrous Connective Tissue Consist of: Fibroblastcells A matrix containing collagen and elastic fibers Loose fibrous connective tissue Allows organs to expand Adipose tissue Stores energy Insulates the body and provides padding Dense fibrous connective tissue Strong connective tissue Tendons  connect muscle to bone Ligaments  connect bones to other bones at joints",
+  "explanation": "Fibrous connective tissues consist of fibroblasts (cells that synthesize the extracellular matrix) and a matrix containing collagen and elastic fibers. 1) Loose fibrous connective tissue: supports epithelia and surrounds organs, allowing organs to expand. 2) Adipose tissue: stores energy, insulates the body against heat loss, and cushions organs. 3) Dense fibrous connective tissue: is a strong tissue containing tightly packed collagen fibers. It forms tendons (which connect muscle to bone) and ligaments (which connect bone to bone at joints).",
+  "questions": [
+    {
+      "q": "What is the function of fibroblasts in fibrous connective tissue?",
+      "opts": [
+        "They contract to produce voluntary movement.",
+        "They synthesize the extracellular matrix containing collagen and elastic fibers.",
+        "They carry oxygen in the bloodstream.",
+        "They receive and integrate sensory input."
+      ],
+      "a": 1,
+      "exp": "Fibroblasts are the characteristic cells of fibrous connective tissue that produce the fibers and ground substance of the extracellular matrix."
+    },
+    {
+      "q": "What is the difference between a tendon and a ligament?",
+      "opts": [
+        "Tendons connect bone to bone; ligaments connect muscle to bone.",
+        "Tendons connect muscle to bone; ligaments connect bone to bone at joints.",
+        "Tendons store fat; ligaments contain elastic cartilage.",
+        "Tendons line body cavities; ligaments form glands."
+      ],
+      "a": 1,
+      "exp": "Tendons connect skeletal muscles to bones, whereas ligaments connect bones to other bones at joints."
+    },
+    {
+      "q": "Which tissue type is specialized for energy storage, insulation, and protective padding?",
+      "opts": [
+        "Dense fibrous connective tissue",
+        "Loose fibrous connective tissue",
+        "Adipose tissue",
+        "Hyaline cartilage"
+      ],
+      "a": 2,
+      "exp": "Adipose tissue is a specialized connective tissue that stores energy in the form of fat, insulates the body, and provides padding."
+    }
+  ]
+}

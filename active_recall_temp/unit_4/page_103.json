@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 103,
+  "filename": "Unit_4_5.txt",
+  "section_title": "Biotech & Genomics",
+  "page_num_in_file": 25,
+  "slide_title": "Genomics¨Comparative genomics compares the human genome to the genomes of other organisms¨Model organisms have genetic mechanisms and cellular pathways in common with humans¤C. elegans¤Drosophila¤Yeast¤Etc.¨Comparative genomics offers a way to study changes in the genome over time",
+  "original_text": "Genomics¨Comparative genomics compares the human genome to the genomes of other organisms¨Model organisms have genetic mechanisms and cellular pathways in common with humans¤C. elegans¤Drosophila¤Yeast¤Etc.¨Comparative genomics offers a way to study changes in the genome over time",
+  "explanation": "Comparative genomics is the analysis and comparison of the human genome with the genomes of other species. This field utilizes model organisms, including the roundworm C. elegans, the fruit fly Drosophila, and yeast, because they share highly conserved genetic mechanisms and cellular pathways with humans. Comparing these genomes allows scientists to trace and study evolutionary changes in genomes over time.",
+  "questions": [
+    {
+      "q": "What is comparative genomics, and why is it useful?",
+      "opts": [
+        "Comparing individual human proteins; it predicts tertiary structure.",
+        "Comparing the human genome to the genomes of other organisms; it offers a way to study changes in the genome over time.",
+        "Comparing replication rates; it measures DNA polymerase speed.",
+        "Comparing somatic mutations in different body cells; it tracks cancer growth."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states comparative genomics 'compares the human genome to the genomes of other organisms' and 'offers a way to study changes in the genome over time.' The other options are incorrect."
+    },
+    {
+      "q": "Which of the following are listed as model organisms on this slide?",
+      "opts": [
+        "E. coli and tobacco plants",
+        "C. elegans, Drosophila, and Yeast",
+        "Protoplasts and bioreactors",
+        "Knockout mice and transgenic sheep"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide explicitly lists 'C. elegans', 'Drosophila', and 'Yeast' as model organisms. The other choices are not mentioned on this slide."
+    }
+  ]
+}

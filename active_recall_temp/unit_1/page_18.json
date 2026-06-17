@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 18,
+  "filename": "Unit_1_2.txt",
+  "section_title": "Intro to Biology",
+  "page_num_in_file": 3,
+  "slide_title": "Characteristics of Life",
+  "original_text": "Characteristics of Life\n\u2013Life is extremely diverse\n\u2013How do we begin to categorize things as living or non-living?\n\u2013Basic Characteristics (7) shared by all living things",
+  "explanation": "This slide introduces the characteristics of life. It points out that while life on Earth is extremely diverse, we can categorize entities as living or non-living based on seven basic characteristics shared by all living things.",
+  "questions": [
+    {
+      "q": "How many basic characteristics are shared by all living things to help categorize them as living or non-living?",
+      "opts": [
+        "5",
+        "7",
+        "10",
+        "3"
+      ],
+      "a": 1,
+      "exp": "The slide states there are 'Basic Characteristics (7) shared by all living things.'"
+    }
+  ]
+}

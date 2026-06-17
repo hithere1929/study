@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 119,
+  "filename": "Unit_4_6.txt",
+  "section_title": "Meiosis",
+  "page_num_in_file": 13,
+  "slide_title": "Mitosis vs Meiosis",
+  "original_text": "Mitosis vs Meiosis",
+  "explanation": "This slide introduces a comparison of the mechanisms, chromosome numbers, and genetic outcomes between mitosis and meiosis.",
+  "questions": [
+    {
+      "q": "What two processes are compared on this slide?",
+      "opts": [
+        "Transcription vs Translation",
+        "Cloning vs Mutation",
+        "Mitosis vs Meiosis",
+        "Ex vivo vs In vivo gene therapy"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide title is 'Mitosis vs Meiosis'."
+    }
+  ]
+}

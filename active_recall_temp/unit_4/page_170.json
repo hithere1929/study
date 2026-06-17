@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 170,
+  "filename": "Unit_4_8.txt",
+  "section_title": "Mendelian Inheritance P1 - Mendelian Genetics",
+  "page_num_in_file": 25,
+  "slide_title": "Independent Assortment and Segregation During Meiosis",
+  "original_text": "Independent Assortment and Segregation During Meiosis",
+  "explanation": "Independent assortment and segregation of chromosomes during meiosis I explain the physical basis of Mendel's laws. The alignment of homologous chromosomes at the metaphase plate is random, leading to diverse combinations of maternal and paternal chromosomes in gametes.",
+  "questions": [
+    {
+      "q": "During which phase of cell division do independent assortment and segregation of homologous chromosomes physically occur?",
+      "opts": [
+        "Mitotic prophase",
+        "Meiosis I (Metaphase I/Anaphase I)",
+        "Meiosis II (Anaphase II)",
+        "Binary fission"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the random alignment of homologous chromosomes occurs during Metaphase I and their separation occurs during Anaphase I of Meiosis I."
+    }
+  ]
+}

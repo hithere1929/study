@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 40,
+  "filename": "Unit_6_4.txt",
+  "section_title": "Fungi",
+  "page_num_in_file": 4,
+  "slide_title": "Structure\u00a8Most multicellular\u00a4Multicellular usually have a thallus or body structure called myceliumnMade up of a network of filaments known as hyphaenProvide high surface area : volume \u2013good for absorptionnHyphae can wall off as they grow, becoming septatenIf no cell walls form, nonseptate\u00a4Lack chloroplasts\u00a4Have a cell wall made of chitin instead of cellulose\u00a4Most are non-motilenOnly movement is toward a food source by extension of hyphae",
+  "original_text": "Structure\u00a8Most multicellular\u00a4Multicellular usually have a thallus or body structure called myceliumnMade up of a network of filaments known as hyphaenProvide high surface area : volume \u2013good for absorptionnHyphae can wall off as they grow, becoming septatenIf no cell walls form, nonseptate\u00a4Lack chloroplasts\u00a4Have a cell wall made of chitin instead of cellulose\u00a4Most are non-motilenOnly movement is toward a food source by extension of hyphae",
+  "explanation": "Most fungi are multicellular. Multicellular fungi possess a thallus or body structure called a mycelium, which is made of a network of filaments known as hyphae. This network provides a high surface-area-to-volume ratio, facilitating absorption. Hyphae can wall off as they grow (septate) or remain unpartitioned (nonseptate). Fungi lack chloroplasts and have cell walls composed of chitin rather than cellulose. They are non-motile, meaning their only movement is the growth extension of their hyphae toward a food source.",
+  "questions": [
+    {
+      "q": "What is the thallus or body structure of a multicellular fungus called?",
+      "opts": [
+        "Capsid",
+        "Mycelium",
+        "Test",
+        "Stolon"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Multicellular usually have a thallus or body structure called mycelium'."
+    },
+    {
+      "q": "What substance makes up fungal cell walls?",
+      "opts": [
+        "Cellulose",
+        "Chitin",
+        "Peptidoglycan",
+        "Calcium carbonate"
+      ],
+      "a": 1,
+      "exp": "The notes state that fungi 'Have a cell wall made of chitin instead of cellulose'."
+    },
+    {
+      "q": "How do non-motile fungi move toward a food source?",
+      "opts": [
+        "By beating flagella",
+        "By extending their pseudopods",
+        "By extending their hyphae",
+        "By utilizing cilia"
+      ],
+      "a": 2,
+      "exp": "The notes state: 'Only movement is toward a food source by extension of hyphae'."
+    }
+  ]
+}

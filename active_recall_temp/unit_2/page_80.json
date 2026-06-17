@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 80,
+  "filename": "Unit_2_3.txt",
+  "section_title": "Movement of Molecules",
+  "page_num_in_file": 6,
+  "slide_title": "Membrane Bound Proteins",
+  "original_text": "Membrane Bound Proteins¨The proteins found in a membrane can differ depending on type of cell, or tissue system. ¨6 main types of proteins, each with its own function¤Channel Protein –allows passage of molecules or ions¤Carrier Protein –selectively interacts w/ specific molecule¤Cell Recognition Protein (MHC) –immunity/organ transplant¤Receptor Protein –shaped so a molecule can bind to it¤Enzymatic Protein –catalyzes a specific reaction¤Junction Protein –joins cells to allow a tissue to function",
+  "explanation": "The specific proteins found within a cell membrane differ depending on the cell type or tissue system. There are six major types of membrane-bound proteins, each performing a distinct function: channel proteins, which allow molecules or ions to pass through; carrier proteins, which selectively interact with specific molecules to transport them; cell recognition proteins (such as MHC), which identify cells and are crucial for immunity and organ transplant compatibility; receptor proteins, which possess a specific shape that allows signaling molecules to bind to them; enzymatic proteins, which catalyze specific metabolic reactions; and junction proteins, which join adjacent cells together to allow tissues to function cooperatively.",
+  "questions": [
+    {
+      "q": "Which type of membrane protein is shaped specifically to bind to a signaling molecule?",
+      "opts": [
+        "Channel Protein",
+        "Carrier Protein",
+        "Receptor Protein",
+        "Junction Protein"
+      ],
+      "a": 2,
+      "exp": "Receptor proteins are structurally shaped so that a specific signaling molecule can bind to them."
+    },
+    {
+      "q": "What is the primary function of a Junction Protein?",
+      "opts": [
+        "To selectively transport large glucose molecules.",
+        "To catalyze chemical reactions on the membrane surface.",
+        "To join cells together, allowing a tissue to function.",
+        "To serve as a cellular recognition marker for immunity."
+      ],
+      "a": 2,
+      "exp": "Junction proteins connect adjacent cells to coordinate tissue-level function."
+    }
+  ]
+}

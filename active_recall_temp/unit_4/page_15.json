@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 15,
+  "filename": "Unit_4_2.txt",
+  "section_title": "DNA Structure",
+  "page_num_in_file": 1,
+  "slide_title": "UNIT 4: MOLECULAR GENETICS4.2 –DNA STRUCTUREBiology 9        Mr. QueenanCh. 13.2 (p. 418-423)",
+  "original_text": "UNIT 4: MOLECULAR GENETICS4.2 –DNA STRUCTUREBiology 9        Mr. QueenanCh. 13.2 (p. 418-423)",
+  "explanation": "This is the title page for Section 4.2 of Unit 4: Molecular Genetics, focusing on DNA Structure. It corresponds to Chapter 13.2 (pages 418-423) of the Biology 9 curriculum with Mr. Queenan.",
+  "questions": [
+    {
+      "q": "Which textbook chapter and page range correspond to Section 4.2 on DNA Structure?",
+      "opts": [
+        "Chapter 13.1 (p.412-417)",
+        "Chapter 13.2 (p. 418-423)",
+        "Chapter 14.1 (p. 430-435)",
+        "Chapter 13.3 (p. 424-429)"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide indicates 'Ch. 13.2 (p. 418-423)' for Section 4.2. Chapter 13.1 corresponds to section 4.1. The other options are incorrect."
+    }
+  ]
+}

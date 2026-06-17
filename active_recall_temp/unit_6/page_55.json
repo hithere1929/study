@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 55,
+  "filename": "Unit_6_5.txt",
+  "section_title": "Plant Evolution & Diversity",
+  "page_num_in_file": 5,
+  "slide_title": "Common Traits\u00a8Common reproductive traits\u00a4Observed in alternating generations on last slidenEmbryophyta\u00e0Sporophyte (Sporangia produce spores) \u00e0Gametophyte (gametangia produce gametes)nMale gametangia = antheridium, female = archegonium\u00a4Common traits associated with land adaptationnExposed parts of plants covered with waxy coatingnCuticle -prevents loss of waternLand plants have little openings for gas exchangenStomata (plural) / Stoma (singular)nPresence of apical tissue \u2013allows ability to produce complex tissue and organs",
+  "original_text": "Common Traits\u00a8Common reproductive traits\u00a4Observed in alternating generations on last slidenEmbryophyta\u00e0Sporophyte (Sporangia produce spores) \u00e0Gametophyte (gametangia produce gametes)nMale gametangia = antheridium, female = archegonium\u00a4Common traits associated with land adaptationnExposed parts of plants covered with waxy coatingnCuticle -prevents loss of waternLand plants have little openings for gas exchangenStomata (plural) / Stoma (singular)nPresence of apical tissue \u2013allows ability to produce complex tissue and organs",
+  "explanation": "Land plants (Embryophytes) share common reproductive and structural traits. Reproductive organs include sporangia on the sporophyte (which produce spores) and gametangia on the gametophyte (which produce gametes). The male gametangium is called the antheridium, and the female is the archegonium. Key adaptations to land life include: 1) a waxy coating called a cuticle covering exposed parts to prevent water loss; 2) microscopic openings called stomata (singular: stoma) that facilitate gas exchange; and 3) the presence of apical tissue, which allows plants to grow and differentiate complex tissues and organs.",
+  "questions": [
+    {
+      "q": "What are the male and female gamete-producing organs in land plants?",
+      "opts": [
+        "Antheridium (male) and Archegonium (female)",
+        "Archegonium (male) and Antheridium (female)",
+        "Sporangium (male) and Stoma (female)",
+        "Cuticle (male) and Apical Tissue (female)"
+      ],
+      "a": 0,
+      "exp": "The notes state: 'Male gametangia = antheridium, female = archegonium'."
+    },
+    {
+      "q": "What is the primary function of the waxy plant cuticle?",
+      "opts": [
+        "To allow gas exchange",
+        "To prevent water loss",
+        "To produce gametes",
+        "To anchor the plant into soil"
+      ],
+      "a": 1,
+      "exp": "The notes state that the 'Cuticle - prevens loss of water'."
+    },
+    {
+      "q": "What structures allow land plants to perform gas exchange through their waxy cuticle?",
+      "opts": [
+        "Archegonia",
+        "Apical tissues",
+        "Stomata (singular: stoma)",
+        "Antheridia"
+      ],
+      "a": 2,
+      "exp": "The notes describe 'Stomata (plural) / Stoma (singular)' as 'little openings for gas exchange'."
+    }
+  ]
+}

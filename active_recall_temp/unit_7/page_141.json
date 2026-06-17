@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 141,
+  "filename": "Unit_7_8.txt",
+  "section_title": "Nervous System",
+  "page_num_in_file": 3,
+  "slide_title": "Evolution of the Nervous System: Invertebrates",
+  "original_text": "Evolution of the Nervous System Invertebrate Nervous System Organization Hydras Nerve net composed of neurons in contact with one another Also in contact with contractile cells in the body wall Planarians Ladderlike nervous system Cephalization-a concentration of ganglia and sensory receptors in the head Annelids, Arthropods and Molluscs Complex animals True nervous systems",
+  "explanation": "Invertebrate nervous system organization varies by complexity: 1) Hydras (cnidarians) have a simple nerve net of interconnected neurons in contact with contractile cells in the body wall, lacking a brain. 2) Planarians (flatworms) have a ladderlike nervous system with longitudinal cords and exhibit cephalization (the concentration of ganglia and sensory receptors in the head). 3) Annelids, arthropods, and molluscs are more complex invertebrates that possess true nervous systems.",
+  "questions": [
+    {
+      "q": "What type of nervous organization is characteristic of hydras?",
+      "opts": [
+        "A ladderlike nervous system",
+        "A centralized brain with ventral cords",
+        "A nerve net of interconnected neurons",
+        "An embryonic dorsal neural tube"
+      ],
+      "a": 2,
+      "exp": "Hydras have a decentralized nerve net composed of neurons in contact with one another and with contractile body wall cells."
+    },
+    {
+      "q": "What is cephalization, and which organism represents a simple example of it?",
+      "opts": [
+        "The development of a dorsal neural tube; hydra",
+        "The concentration of ganglia and sensory receptors in the head; planarians",
+        "The presence of a myelin sheath; earthworms",
+        "The transport of impulses across a synaptic cleft; insects"
+      ],
+      "a": 1,
+      "exp": "Cephalization is the evolutionary trend toward concentrating nervous tissue and sensory receptors at the anterior (head) end, seen in planarians."
+    }
+  ]
+}

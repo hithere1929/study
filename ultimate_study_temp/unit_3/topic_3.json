@@ -1,0 +1,27 @@
+{
+  "id": "u3_t3",
+  "title": "Prokaryote vs Eukaryote",
+  "cheat_card": [
+    "All cells share four basic components: a <b>plasma membrane</b>, <b>cytoplasm (with cytosol)</b>, <b>ribosomes</b>, and <b>genetic material (DNA)</b>.",
+    "<b>Prokaryotes</b> lack a membrane-bound nucleus and membrane-bound organelles, concentrate their DNA in a <b>nucleoid</b> region, and are divided into Domains <b>Bacteria</b> and <b>Archaea</b>.",
+    "Prokaryotes possess a <b>single, circular chromosome</b> that is attached to the inner surface of the plasma membrane and does not associate with proteins or coil into complex chromosomes.",
+    "<b>Eukaryotes</b> contain a membrane-bound <b>nucleus</b> and <b>membrane-bound organelles</b> (e.g., mitochondria, ER, Golgi) that act as cellular organs, and are generally much larger.",
+    "The <b>D.R.A.G.</b> checklist highlights their major differences: <b>D</b>NA structure (circular/naked vs. linear/histone-bound), <b>R</b>ibosome size (smaller 70S vs. larger 80S), <b>A</b>verage size (smaller 1-5 µm vs. larger 10-50 µm), and <b>G</b>rowth/reproduction method (binary fission vs. mitosis/meiosis)."
+  ],
+  "memory_anchor": "### The D.R.A.G. Comparison Checklist\nUse the **D.R.A.G.** mnemonic to compare Prokaryotes and Eukaryotes:\n\n| Feature | Prokaryotes | Eukaryotes |\n|---|---|---|\n| **D**NA | **D**ouble-stranded, circular, naked (nucleoid) | **D**ouble-stranded, linear, histone-bound (nucleus) |\n| **R**ibosomes | **R**elatively small (70S size class) | **R**elatively large (80S size class) |\n| **A**verage Size | **A**pproximately 1-5 µm (highly microscopic) | **A**pproximately 10-50 µm (larger eukaryotic cells) |\n| **G**rowth | **G**enerate via binary fission (asexual) | **G**row via mitosis and meiosis (sexual/asexual) |",
+  "flashcards": [
+    {
+      "q": "What are the four universal structural features shared by both prokaryotic and eukaryotic cells?",
+      "a": "All cells contain: 1) a plasma membrane (outer boundary), 2) cytoplasm (the semi-fluid region containing cytosol), 3) ribosomes (sites of protein synthesis), and 4) genetic material in the form of DNA."
+    },
+    {
+      "q": "How does the organization and location of genetic material differ between a bacterium and a human cell?",
+      "a": "A bacterium (prokaryote) has a single, circular DNA molecule that is naked (not bound to histone proteins) and concentrated in an un-enclosed nucleoid region. A human cell (eukaryote) has multiple linear DNA molecules wrapped around histone proteins, housed inside a double-membrane nucleus."
+    },
+    {
+      "q": "Explain the Domain division of prokaryotes and how they relate evolutionarily to eukaryotes.",
+      "a": "Prokaryotes are divided into Domain Bacteria and Domain Archaea. According to slide notes, Bacteria are similar to the first cellular life forms on Earth, whereas Archaea are more closely related evolutionarily to eukaryotic cells."
+    }
+  ],
+  "outline_blanks": "All cells share a plasma membrane, cytoplasm, ribosomes, and DNA, but [[prokaryotes]] lack a membrane-bound nucleus and organelles, housing their DNA in a [[nucleoid]]. In contrast, [[eukaryotes]] have a nucleus and membrane-bound organelles. The differences can be remembered using the [[D.R.A.G.]] checklist: DNA, Ribosomes, Average size, and Growth."
+}

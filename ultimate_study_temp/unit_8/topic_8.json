@@ -1,0 +1,30 @@
+{
+  "id": "u8_t8",
+  "title": "Light systems",
+  "cheat_card": [
+    "Photosynthetic pigments absorb visible light; <b>chlorophyll</b> absorbs <b>red and blue</b> wavelengths and reflects green.",
+    "Light-dependent reactions occur in the <b>thylakoid membrane</b>, using pigment-collecting complexes called <b>photosystems (PS II and PS I)</b>.",
+    "The <b>noncyclic pathway</b> flows from <b>PS II to PS I</b>, generating both <b>ATP</b> (via chemiosmosis) and <b>NADPH</b>.",
+    "In <b>PS II</b>, light energy ejects electrons from the reaction center (chlorophyll a), which are replaced by splitting <b>water</b> ($H_2O$), releasing oxygen gas.",
+    "The <b>cyclic pathway</b> recirculates electrons through <b>PS I</b> to produce only <b>ATP</b> (no NADPH)."
+  ],
+  "memory_anchor": "Noncyclic Pathway Flow:\nLight -> PS II (Water splits to release O2) -> ETC pumps H+ -> PS I (e- ejected to NADP+ Reductase) -> NADPH.",
+  "flashcards": [
+    {
+      "q": "Why does chlorophyll appear green to our eyes, and what wavelengths of light does it primarily absorb?",
+      "q_id": "u8_t8_f1",
+      "a": "Chlorophyll appears green because it reflects and transmits green light wavelengths. It primarily absorbs the blue and red regions of the visible light spectrum to drive photosynthesis."
+    },
+    {
+      "q": "What are the product differences between the noncyclic and cyclic electron pathways in the light-dependent reactions?",
+      "q_id": "u8_t8_f2",
+      "a": "The noncyclic pathway utilizes both PS II and PS I to produce both ATP and NADPH, whereas the cyclic pathway recirculates electrons through PS I and produces only ATP."
+    },
+    {
+      "q": "How are the electrons lost from the reaction center of Photosystem II replaced during the noncyclic pathway?",
+      "q_id": "u8_t8_f3",
+      "a": "The lost electrons are replaced by splitting a water molecule (H2O), which yields electrons, releases oxygen gas (O2), and contributes hydrogen ions (H+) to the thylakoid space."
+    }
+  ],
+  "outline_blanks": "Photosynthesis begins as pigments in the thylakoid membrane absorb solar energy. In the noncyclic pathway, [[PS II]] absorbs light and ejects electrons, which are replaced by splitting [[water]]. These electrons flow down an electron transport chain to [[PS I]], which ultimately reduces NADP+ to [[NADPH]]."
+}

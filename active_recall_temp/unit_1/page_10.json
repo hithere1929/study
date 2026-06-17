@@ -1,0 +1,34 @@
+{
+  "unit": 1,
+  "page": 10,
+  "filename": "Unit_1_1.txt",
+  "section_title": "Lab Safety",
+  "page_num_in_file": 10,
+  "slide_title": "Chemical & Sample Safety",
+  "original_text": "\u2013Never pipette any liquids by mouth; use a pipette pump.\n\u2013Any mixtures, solutions, or samples that are prepared by students or staff MUSTbe clearly labeled with:\u2013All contents and concentrations.\u2013Any warnings or precautions for use or storage.\u2013Initials of the preparer.\u2013Date prepared.\u2013Expiration date (if known).\n\u2013Read all labels and warnings carefully before using any chemical.  For further information, refer to the MSDS \u2013Be sure to ask a lab supervisor if you have any questions about how to handle or dispose of a chemical.",
+  "explanation": "This slide details critical safety practices for handling chemicals and samples in the laboratory. Students must never mouth-pipette liquids; instead, a pipette pump must always be used. Any mixture, solution, or sample prepared by students or staff must be clearly labeled with five key pieces of information: all contents and their concentrations, safety warnings or precautions for use and storage, the initials of the preparer, the date it was prepared, and the expiration date (if known). In addition, all labels and warnings must be read carefully before using a chemical, and further information should be obtained by referring to the Material Safety Data Sheet (MSDS). For any questions regarding handling or disposal of chemicals, a lab supervisor must be consulted.",
+  "questions": [
+    {
+      "q": "What is required when labeling a student- or staff-prepared mixture or solution in the lab?",
+      "opts": [
+        "Just the name of the mixture and the date",
+        "All contents and concentrations, warnings, initials of preparer, date prepared, and expiration date (if known)",
+        "Only the initials of the preparer and the class period",
+        "The price of the chemical and the company that manufactured it"
+      ],
+      "a": 1,
+      "exp": "The slide explicitly states that preparations MUST be labeled with: contents and concentrations, warnings/precautions, preparer's initials, preparation date, and expiration date (if known)."
+    },
+    {
+      "q": "What document should be referenced for detailed safety, hazards, and handling information about a chemical?",
+      "opts": [
+        "The biology textbook index",
+        "The lab manual protocol pages",
+        "The Material Safety Data Sheet (MSDS)",
+        "The school directory"
+      ],
+      "a": 2,
+      "exp": "The text advises: 'For further information, refer to the MSDS'."
+    }
+  ]
+}

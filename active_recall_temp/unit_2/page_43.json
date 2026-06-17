@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 43,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 7,
+  "slide_title": "Large C -Molecules",
+  "original_text": "Large C -Molecules¨Many organic compounds built from smaller, simpler molecules called monomers¤Can bond to each other to form polymers –a molecule that consists of repeated, linked units¨Macromolecule –a large polymer consisting of identical or structurally similar monomers¤Carbohydrates¤Proteins¤Lipids¤Nucleic Acids",
+  "explanation": "Many large organic compounds are constructed from smaller, simpler molecular building blocks called monomers. Monomers can chemically bond to one another to form polymers, which are molecules consisting of repeated, linked monomer units. A macromolecule is defined as a large polymer made of identical or structurally similar monomers. The four primary classes of biological macromolecules are carbohydrates, proteins, lipids, and nucleic acids.",
+  "questions": [
+    {
+      "q": "What is a polymer?",
+      "opts": [
+        "A single, unbonded sub-atomic particle.",
+        "A molecule that consists of repeated, linked monomer units.",
+        "An inorganic compound that does not contain carbon.",
+        "An electron orbital furthest from the nucleus."
+      ],
+      "a": 1,
+      "exp": "A polymer is a larger molecule composed of multiple repeated, linked units called monomers."
+    },
+    {
+      "q": "Which of the following is NOT one of the four classes of macromolecules mentioned on the slide?",
+      "opts": [
+        "Carbohydrates",
+        "Proteins",
+        "Lipids",
+        "Amino acids"
+      ],
+      "a": 3,
+      "exp": "The four classes of macromolecules listed are Carbohydrates, Proteins, Lipids, and Nucleic Acids. Amino acids are the monomers of proteins, not a class of macromolecules itself."
+    }
+  ]
+}

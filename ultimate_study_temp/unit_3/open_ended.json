@@ -1,0 +1,27 @@
+{
+  "option_a": {
+    "prompt": "Explain the Endosymbiotic Theory regarding the origins of mitochondria and chloroplasts. Discuss the evolutionary process and describe three specific pieces of structural, genetic, or functional evidence from class notes that support this theory.",
+    "keywords": [
+      "engulfed",
+      "independent prokaryotes",
+      "double membrane",
+      "own DNA",
+      "ribosomes",
+      "binary fission"
+    ],
+    "model_answer": "The endosymbiotic theory proposes that mitochondria and chloroplasts evolved when a large ancestral eukaryotic cell engulfed independent prokaryotes in a symbiotic relationship. Over time, these prokaryotes became specialized organelles. Strong evidence supports this theory: first, both organelles are bound by double-layer membranes, reflecting the host vesicle and the engulfed cell's outer membrane. Second, they contain their own DNA, which exists as a single circular chromosome similar to prokaryotic genomes. Third, they contain their own ribosomes for protein building. Finally, both reproduce independently through a process resembling binary fission and can only arise from pre-existing mitochondria and chloroplasts."
+  },
+  "option_b": {
+    "prompt": "Describe the step-by-step process of the endomembrane system's secretion pathway in eukaryotic cells. Detail the organelles involved and explain how they interact to synthesize, modify, label, and export proteins from the cell.",
+    "keywords": [
+      "ribosomes",
+      "rough ER",
+      "vesicles",
+      "Golgi apparatus",
+      "cis facing",
+      "plasma membrane",
+      "secretion"
+    ],
+    "model_answer": "The secretion pathway of the endomembrane system begins when ribosomes synthesize proteins on the rough ER, where the polypeptide chains fold into their functional three-dimensional shapes. These proteins are then packaged into transport vesicles that pinch off from the rough ER and travel to the Golgi apparatus. The vesicles fuse with the cis facing sacs of the Golgi, and the proteins are transported through its flattened membranous cisternae. As they pass through, the Golgi modifies the proteins (such as by adding carbohydrate labels) and sorts them. Finally, the finished proteins are packaged into new secretory vesicles that bud from the Golgi, migrate to, and merge with the plasma membrane to release their contents outside the cell via exocytosis/secretion."
+  }
+}

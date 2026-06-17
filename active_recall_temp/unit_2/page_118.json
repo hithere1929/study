@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 118,
+  "filename": "Unit_2_4.txt",
+  "section_title": "Metabolism",
+  "page_num_in_file": 21,
+  "slide_title": "ATP",
+  "original_text": "ATP\nATP synthesis is endergonic\nATP hydrolysis is exergonic\nEnergy from cellular respiration (exergonic) drives ATP synthesis\nATP hydrolysis releases energy for cellular work (endergonic)\nATP <-> ADP + P",
+  "explanation": "This slide details the thermodynamics of the ATP cycle. ATP synthesis (joining ADP and a phosphate group) is endergonic, meaning it requires energy, which is provided by exergonic pathways like cellular respiration. Conversely, ATP hydrolysis (splitting ATP into ADP and a phosphate) is exergonic, meaning it releases energy, which is used to power endergonic cellular work.",
+  "questions": [
+    {
+      "q": "Which of the following correctly pairs the ATP cycle process with its thermodynamic classification?",
+      "opts": [
+        "ATP synthesis is exergonic; ATP hydrolysis is endergonic",
+        "ATP synthesis is endergonic; ATP hydrolysis is exergonic",
+        "Both ATP synthesis and hydrolysis are exergonic",
+        "Both ATP synthesis and hydrolysis are endergonic"
+      ],
+      "a": 1,
+      "exp": "Synthesizing ATP from ADP and phosphate requires energy input (endergonic), while breaking ATP down to release energy is exergonic."
+    }
+  ]
+}

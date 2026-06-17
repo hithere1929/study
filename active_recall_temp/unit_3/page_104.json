@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 104,
+  "filename": "Unit_3_5.txt",
+  "section_title": "Stem Cells & Cancer",
+  "page_num_in_file": 10,
+  "slide_title": "Apoptosis",
+  "original_text": "Apoptosis\nCell progresses through a series of events that lead to its destruction\nAfter going through steps above, white blood cells engulf cell fragments\nAn enzyme class, Caspases, when not held in check by inhibitors, are signaled and lead to destruction",
+  "explanation": "During apoptosis, a cell progresses through a systematic series of self-destructive events. Once the cell fragments, white blood cells engulf the remains. This programmed destruction is carried out by a class of enzymes called Caspases. When Caspases are released from control by their inhibitors, they are signaled to execute the cell's destruction.",
+  "questions": [
+    {
+      "q": "Which class of enzymes is responsible for executing the destruction of the cell during apoptosis?",
+      "opts": [
+        "Cyclins",
+        "Caspases",
+        "Polymerases",
+        "Kinases"
+      ],
+      "a": 1,
+      "exp": "An enzyme class called Caspases is signaled to lead to cell destruction during apoptosis when not held in check by inhibitors."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "u3_t1",
+  "title": "Cell Theory",
+  "cheat_card": [
+    "<b>Robert Hooke</b> (17th century) observed thin slices of <b>cork</b> under an early microscope and coined the term <b>\"cells\"</b> because they reminded him of the little boxes or cubicles where monks lived.",
+    "<b>Anton van Leeuwenhoek</b> was the first to observe <b>living cells</b>, including microorganisms like Spirogyra and Vorticella, which he originally called <b>\"animalcules\"</b> (now known as protists).",
+    "The <b>Cell Theory</b> summarizes the work of Hooke, Leeuwenhoek, Schleiden, Schwann, and Virchow into three tenets: <b>1)</b> all living organisms are composed of one or more cells; <b>2)</b> cells are the basic units of structure and function; and <b>3)</b> cells come only from the reproduction of pre-existing cells.",
+    "Microscopy clarified that all cells share <b>basic characteristics of life</b>: they consist of <i>organized parts</i>, <i>obtain energy</i>, <i>perform chemical reactions</i>, <i>change with time</i>, <i>respond to the environment</i>, <i>reproduce</i>, and <i>maintain a constant internal environment</i> separate from the external environment."
+  ],
+  "memory_anchor": "| Scientist | Contribution to Cell Biology |\n|---|---|\n| **Robert Hooke** | Observed dead cork cells; coined the term \"cell\" (monk rooms) |\n| **Anton van Leeuwenhoek** | First to view living cells (algae/microorganisms); called them \"animalcules\" |\n| **Schleiden, Schwann, Virchow** | Formulated the 3 core tenets of the unified Cell Theory |",
+  "flashcards": [
+    {
+      "q": "What historical observation led Robert Hooke to coin the term 'cell', and how did this structure differ from what Leeuwenhoek observed?",
+      "a": "Hooke observed thin, dead slices of cork under an early compound microscope, noticing rigid 'little boxes' that resembled monastery cells. In contrast, Leeuwenhoek was the first to observe active, living cells (which he called 'animalcules'), such as Spirogyra and Vorticella, in pond water."
+    },
+    {
+      "q": "State the three core tenets of the Cell Theory developed during the 16th to 19th centuries.",
+      "a": "1) All living organisms are composed of one or more cells. 2) Cells are the basic units of structure and function in an organism. 3) Cells come only from the reproduction of pre-existing cells."
+    },
+    {
+      "q": "According to slide notes, what are the common characteristics that microscopy helped clarify as shared by all living things?",
+      "a": "All living things consist of organized parts, obtain energy from their surroundings, perform chemical reactions (metabolism), change with time (develop), respond to their environment, reproduce, share a common evolutionary history, and separate their constant internal environment from the changing external environment."
+    }
+  ],
+  "outline_blanks": "Cell biology began when [[Robert Hooke]] coined the term 'cells' from cork slices, followed by [[Anton van Leeuwenhoek]] who first observed living cells he called [[animalcules]]. The unified [[Cell Theory]] states that all organisms consist of cells, cells are the basic units of structure and function, and cells arise only from [[pre-existing cells]]."
+}

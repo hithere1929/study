@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 21,
+  "filename": "Unit_8_2.txt",
+  "section_title": "Population Ecology",
+  "page_num_in_file": 6,
+  "slide_title": "Demographics of Populations¨Mortality Patterns¤A cohortnComposed of all the members of a population born at the same timenLife tables demonstrate how many members of a cohort are still alive after certain intervals of time¤SurvivorshipnThe probability that newborn individuals of a cohort will survive to a particular agenSurvivorship CurvesnA plot of the number of organisms surviving at each age",
+  "original_text": "Demographics of Populations¨Mortality Patterns¤A cohortnComposed of all the members of a population born at the same timenLife tables demonstrate how many members of a cohort are still alive after certain intervals of time¤SurvivorshipnThe probability that newborn individuals of a cohort will survive to a particular agenSurvivorship CurvesnA plot of the number of organisms surviving at each age",
+  "explanation": "This slide covers mortality patterns and survivorship. A cohort is defined as all the members of a population born at the exact same time. Life tables are statistical tables showing how many members of a given cohort remain alive after specific time intervals. Survivorship is defined as the probability that newborn individuals of a cohort will survive to reach a particular age. Survivorship curves are graphical plots representing the number of surviving organisms at each age over their lifespan.",
+  "questions": [
+    {
+      "q": "In demography, what is a cohort?",
+      "opts": [
+        "A group of organisms that share the same niche",
+        "All the members of a population born at the same time",
+        "A population distribution that is highly clumped",
+        "The total number of reproductive females in a community"
+      ],
+      "a": 1,
+      "exp": "A cohort is defined in the notes as being 'Composed of all the members of a population born at the same time.'"
+    },
+    {
+      "q": "What do life tables demonstrate?",
+      "opts": [
+        "The resource requirements of different species in an ecosystem",
+        "How many members of a cohort are still alive after certain intervals of time",
+        "The maximum rate of natural increase of a population",
+        "The changes in environmental limiting factors over a decade"
+      ],
+      "a": 1,
+      "exp": "The notes state that 'Life tables demonstrate how many members of a cohort are still alive after certain intervals of time.'"
+    }
+  ]
+}

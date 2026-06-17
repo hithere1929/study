@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 4,
+  "filename": "Unit_6_1.txt",
+  "section_title": "Viruses",
+  "page_num_in_file": 4,
+  "slide_title": "Virus Discovery & Classification\u00a8Louis Pasteur \u2013one of the first to determine objects smaller than bacteria with infectious properties\u00a8Confirmed in mid 20thcentury with electron microscopy\u00a8Classification in 2 parts\u00a4First sorts virus into Groups I \u2013IVnBased on structure of genome (DNA vs RNA, Single vs Double Stranded)\u00a4Second similar to Linnaean  classificationnOrder, Family, Genus, Species \u2013No higher levelsnEx \u2013Chickenpox = VaricellovirusZosternSeasonal flu is example of a new strain developing within a single species annually",
+  "original_text": "Virus Discovery & Classification\u00a8Louis Pasteur \u2013one of the first to determine objects smaller than bacteria with infectious properties\u00a8Confirmed in mid 20thcentury with electron microscopy\u00a8Classification in 2 parts\u00a4First sorts virus into Groups I \u2013IVnBased on structure of genome (DNA vs RNA, Single vs Double Stranded)\u00a4Second similar to Linnaean  classificationnOrder, Family, Genus, Species \u2013No higher levelsnEx \u2013Chickenpox = VaricellovirusZosternSeasonal flu is example of a new strain developing within a single species annually",
+  "explanation": "Louis Pasteur was among the first to hypothesize the existence of infectious agents smaller than bacteria, which was later confirmed in the mid-20th century via electron microscopy. Classification of viruses consists of two parts. The first part categorizes viruses into Groups I through IV based on genome structure (DNA vs RNA, single vs double stranded). The second part uses a hierarchy similar to Linnaean classification (Order, Family, Genus, and Species) but does not include any taxonomic ranks higher than Order. For example, chickenpox is classified as Varicellovirus Zoster, and the seasonal flu is an example of a new strain that develops within a single viral species annually.",
+  "questions": [
+    {
+      "q": "What features determine the grouping of viruses into Groups I through IV?",
+      "opts": [
+        "The shape of the capsid and the size of the envelope",
+        "The structure of the genome (DNA vs RNA, single vs double stranded)",
+        "The species of the host cell they infect",
+        "The method of transmission (airborne, waterborne, etc.)"
+      ],
+      "a": 1,
+      "exp": "The first part of virus classification sorts them into Groups I–IV based on the genome structure, specifically DNA vs RNA and single-stranded vs double-stranded status."
+    },
+    {
+      "q": "Which taxonomic levels are used in the second part of virus classification?",
+      "opts": [
+        "Kingdom, Phylum, Class, Order, Family, Genus, Species",
+        "Domain, Kingdom, Phylum, Class",
+        "Order, Family, Genus, Species only (no higher levels)",
+        "Genus and Species only"
+      ],
+      "a": 2,
+      "exp": "The second part of virus classification uses Order, Family, Genus, and Species, and explicitly states that there are no taxonomic levels higher than Order."
+    },
+    {
+      "q": "What is Varicellovirus Zoster an example of according to the notes?",
+      "opts": [
+        "A bacterial disease resembling a virus",
+        "The virus that causes chickenpox",
+        "A virus that lacks a genome",
+        "A viral strain that develops annually within the seasonal flu"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Ex – Chickenpox = Varicellovirus Zoster'."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 43,
+  "filename": "Unit_7_3.txt",
+  "section_title": "Plant Control of Growth Responses",
+  "page_num_in_file": 8,
+  "slide_title": "Plant Hormones: Gibberellins",
+  "original_text": "Plant Hormones Gibberellinsare growth-promoting hormones Gibberellins cause stem elongation; ~70 types nEach differ slightly chemically nMost common -gibberellic acid Can be used commercially to grow larger crops, and can be used to break dormancy in plants",
+  "explanation": "Gibberellins are growth-promoting hormones that primarily stimulate stem elongation. There are approximately 70 chemically distinct types of gibberellins, with gibberellic acid being the most common. In agriculture, gibberellins are used commercially to increase the size of crops and fruits. They are also applied to seeds to break dormancy and initiate germination.",
+  "questions": [
+    {
+      "q": "What is the primary growth effect of gibberellins?",
+      "opts": [
+        "Stimulating cell division in roots",
+        "Inducing fruit drop and leaf abscission",
+        "Causing stem elongation",
+        "Closing stomata during drought"
+      ],
+      "a": 2,
+      "exp": "The primary physiological effect of gibberellins is to stimulate stem elongation."
+    },
+    {
+      "q": "Which of the following is a commercial application of gibberellins?",
+      "opts": [
+        "Girdling trees to collect sap",
+        "Breaking seed dormancy and growing larger crops",
+        "Inhibiting the growth of weeds with toxic compounds",
+        "Promoting leaf abscission before winter"
+      ],
+      "a": 1,
+      "exp": "Gibberellins are used commercially to break seed dormancy (promoting germination) and to increase crop size."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 34,
+  "filename": "Unit_5_2.txt",
+  "section_title": "How Populations Evolve",
+  "page_num_in_file": 13,
+  "slide_title": "Genes, Populations, & Evolution",
+  "original_text": "Genes, Populations, & Evolution\n\u00a8Causes of Microevolution\n\u00a8Genetic Drift\n\u00a4Changes in the allele frequencies of a population due to chance rather than selection by the environment\n\u00a4Does not necessarily lead to adaptation to the environment\n\u00a4Occurs by disproportionate random sampling from population\n  nCan cause the gene pools of two isolated populations to become dissimilar\n  nSome alleles are lost and others become fixed (unopposed)\n\u00a4Likely to occur:\n  nAfter a bottleneck\n  nWhen severe inbreeding occurs, or\n  nWhen founders start a new population\n\u00a4Stronger effect in small populations",
+  "explanation": "Genetic drift is a cause of microevolution defined as changes in the allele frequencies of a population due to random chance, rather than natural selection by the environment. Because it is random, genetic drift does not necessarily result in adaptation. It occurs when alleles are disproportionately sampled from a generation, which can lead to some alleles being completely lost while others become fixed (frequency of 100%, or unopposed). Genetic drift can cause isolated populations to become genetically distinct and has a much stronger effect in small populations. It is highly likely to occur after a population bottleneck, during severe inbreeding, or when a small group of founders establishes a new population.",
+  "questions": [
+    {
+      "q": "Unlike natural selection, how does genetic drift change allele frequencies?",
+      "opts": [
+        "By favoring traits that provide a survival advantage",
+        "By random chance events rather than environmental selection",
+        "By increasing the rate of gene flow between populations",
+        "By forcing random mating in large populations"
+      ],
+      "a": 1,
+      "exp": "Genetic drift changes allele frequencies due to random chance sampling rather than environmental selection, meaning it does not necessarily lead to adaptation."
+    },
+    {
+      "q": "In which type of population does genetic drift have the most significant (strongest) impact?",
+      "opts": [
+        "Large populations in Hardy-Weinberg equilibrium",
+        "Small populations",
+        "Populations with high rates of gene flow",
+        "Populations that do not experience mutations"
+      ],
+      "a": 1,
+      "exp": "Genetic drift has a stronger, more pronounced effect in small populations because random events have a larger relative impact on smaller gene pools."
+    }
+  ]
+}

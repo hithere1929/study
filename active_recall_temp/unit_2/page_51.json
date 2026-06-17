@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 51,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 15,
+  "slide_title": "1: Isomers",
+  "original_text": "1: Isomers¨All have same chemical formula (C6H12O6) but different structures¤Isomer: compounds that have the same chemical formula, but different structures¨Differences in structure determine the differences in properties of the compounds\nGlucoseFructoseGalactose",
+  "explanation": "Although glucose, fructose, and galactose share the exact same chemical formula (C6H12O6), they possess different arrangements of their atoms. Compounds that share the same chemical formula but have different chemical structures are known as isomers. These structural differences are significant because they determine the distinct physical and chemical properties of each compound.",
+  "questions": [
+    {
+      "q": "What is an isomer?",
+      "opts": [
+        "Molecules with the same structure but different chemical formulas.",
+        "Compounds that have the same chemical formula but different structural arrangements.",
+        "Atoms of the same element with different numbers of neutrons.",
+        "Molecules that only dissolve in non-polar solvents."
+      ],
+      "a": 1,
+      "exp": "An isomer is defined as a compound with the same chemical formula but a different structural arrangement."
+    },
+    {
+      "q": "Which of the following sets of sugars are isomers of each other?",
+      "opts": [
+        "Glucose, sucrose, starch",
+        "Glucose, fructose, galactose",
+        "Ribose, deoxyribose, glucose",
+        "Glycogen, cellulose, chitin"
+      ],
+      "a": 1,
+      "exp": "Glucose, fructose, and galactose all have the chemical formula C6H12O6 but different structures, making them isomers."
+    }
+  ]
+}

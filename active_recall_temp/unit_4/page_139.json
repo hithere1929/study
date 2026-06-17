@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 139,
+  "filename": "Unit_4_7.txt",
+  "section_title": "Chromosome-based Syndromes",
+  "page_num_in_file": 11,
+  "slide_title": "Klinefelter Syndrome¨XXY¨Males only -Extra copy of X chromosome, 1 becomes Barr Body¤1:500-1:1000 males¤Features: underdeveloped testis and prostate gland; facial hair lacking; some breast development; large hands and feet; very long arms and legs; usually slow to learn¤Increased risk of breast cancer, osteoporosis, lupus¤Testosterone treatment can help alleviate some of the testicular underdevelopment",
+  "original_text": "Klinefelter Syndrome¨XXY¨Males only -Extra copy of X chromosome, 1 becomes Barr Body¤1:500-1:1000 males¤Features: underdeveloped testis and prostate gland; facial hair lacking; some breast development; large hands and feet; very long arms and legs; usually slow to learn¤Increased risk of breast cancer, osteoporosis, lupus¤Testosterone treatment can help alleviate some of the testicular underdevelopment",
+  "explanation": "Klinefelter Syndrome affects males and is characterized by an XXY karyotype, where there is an extra X chromosome. Because of the extra X, one X chromosome is inactivated as a Barr Body. The syndrome has a frequency of 1:500 to 1:1,000 males. Physical features include underdeveloped testes and prostate glands, lack of facial hair, some breast development, large hands and feet, and very long arms and legs. Affected individuals are usually slow to learn and have an increased risk of breast cancer, osteoporosis, and lupus. Testosterone treatment can help treat testicular underdevelopment.",
+  "questions": [
+    {
+      "q": "What is the karyotype of a male with Klinefelter Syndrome, and does it produce a Barr Body?",
+      "opts": [
+        "XO; no Barr Body is formed.",
+        "XXY; one of the X chromosomes becomes a Barr Body.",
+        "XYY; no Barr Body is formed.",
+        "XXX; two Barr Bodies are formed."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide defines Klinefelter Syndrome as 'XXY' and 'Males only - Extra copy of X chromosome, 1 becomes Barr Body.'"
+    },
+    {
+      "q": "Which of the following is a physical feature or associated health risk of Klinefelter Syndrome?",
+      "opts": [
+        "Broad chest and webbed neck; risk of cataracts.",
+        "Underdeveloped testes/prostate, long arms and legs, and lack of facial hair; increased risk of breast cancer, osteoporosis, and lupus.",
+        "Round head and stubby fingers; risk of leukemia.",
+        "Very tall stature and persistent acne; no increased health risks."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide lists these exact features and risks: 'underdeveloped testis and prostate gland', 'very long arms and legs', and 'Increased risk of breast cancer, osteoporosis, lupus.'"
+    }
+  ]
+}

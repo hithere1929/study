@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 24,
+  "filename": "Unit_4_2.txt",
+  "section_title": "DNA Structure",
+  "page_num_in_file": 10,
+  "slide_title": "Ribbon Model",
+  "original_text": "Ribbon Model\nStraight Ladder Model\nTACTTCAAAATCATGAAGTTTTAG\nSpace-filling Model\n5ʹ 5ʹ1ʹ2ʹ 2ʹ4ʹ3ʹ4ʹ3ʹPPPPP\nATHO\nCGGCPPPTAOH\n1ʹ\nStick ModelSpace-filling Model\nCGATTAGCTAGCCCGATGCTAATCGATCGGGCTASequence Model",
+  "explanation": "This slide showcases different models used to visualize DNA. It lists the Ribbon Model (representing the twisting sugar-phosphate backbone), the Straight Ladder Model (unwound ladder visualization), the Space-filling Model (showing three-dimensional electron cloud spacing of atoms), the Stick Model, and the Sequence Model (which represents DNA as a simple text string of bases, such as TACTTCAAAATCATGAAGTTTTAG). The slide also highlights the 5' and 3' orientation and carbon numbering (1', 2', 3', 4', 5') on the sugar ring.",
+  "questions": [
+    {
+      "q": "Which DNA model type represents the DNA structure simply as a text string of letters (e.g., TACTTCA...)?",
+      "opts": [
+        "Ribbon Model",
+        "Space-filling Model",
+        "Sequence Model",
+        "Stick Model"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide displays a text sequence (TACTTCAAAATCATGAAGTTTTAG) and labels it as the 'Sequence Model'. The other models show physical or graphical structures."
+    }
+  ]
+}

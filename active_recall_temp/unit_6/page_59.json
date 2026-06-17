@@ -1,0 +1,34 @@
+{
+  "unit": 6,
+  "page": 59,
+  "filename": "Unit_6_5.txt",
+  "section_title": "Plant Evolution & Diversity",
+  "page_num_in_file": 9,
+  "slide_title": "Diversity \u2013Lycophytes & Pteridophytes\u00a8Seedless vascular plants\u00a4LycophytesnHave leaves called microphyllsbecause they have only one strand of vascular tissuenInclude club mosses (ground pines, spike mosses, and quillworts)\u00a4PteridophytesnHave leaves called megaphyllsbecause they have several strands of vascular tissuenInclude horsetails, Whisk ferns, and ferns",
+  "original_text": "Diversity \u2013Lycophytes & Pteridophytes\u00a8Seedless vascular plants\u00a4LycophytesnHave leaves called microphyllsbecause they have only one strand of vascular tissuenInclude club mosses (ground pines, spike mosses, and quillworts)\u00a4PteridophytesnHave leaves called megaphyllsbecause they have several strands of vascular tissuenInclude horsetails, Whisk ferns, and ferns",
+  "explanation": "Lycophytes and Pteridophytes are two groups of seedless vascular plants. Lycophytes possess leaves called microphylls, which contain only a single strand of vascular tissue; this group includes club mosses, ground pines, spike mosses, and quillworts. Pteridophytes possess leaves called megaphylls, which contain several strands of vascular tissue; this group includes horsetails, whisk ferns, and true ferns.",
+  "questions": [
+    {
+      "q": "What distinguishes microphylls from megaphylls?",
+      "opts": [
+        "Microphylls are found on seed plants, while megaphylls are found on seedless plants.",
+        "Microphylls have only one strand of vascular tissue, whereas megaphylls have several strands.",
+        "Microphylls lack chlorophyll, whereas megaphylls contain it.",
+        "Microphylls are colonial structures, whereas megaphylls are multicellular."
+      ],
+      "a": 1,
+      "exp": "The notes state: 'microphylls because they have only one strand of vascular tissue' and 'megaphylls because they have several strands of vascular tissue'."
+    },
+    {
+      "q": "Which of the following plants is classified as a Pteridophyte?",
+      "opts": [
+        "Ground pine",
+        "Spike moss",
+        "Fern",
+        "Quillwort"
+      ],
+      "a": 2,
+      "exp": "According to the notes, Pteridophytes 'Include horsetails, Whisk ferns, and ferns'."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 16,
+  "filename": "Unit_1_2.txt",
+  "section_title": "Intro to Biology",
+  "page_num_in_file": 1,
+  "slide_title": "Intro to BiologyMr. Queenan\u2013Biology 9Unit 1.2For more information, see text Ch 1.1 (p 1-10) & Ch.1.3 (p 22-30)",
+  "original_text": "Intro to BiologyMr. Queenan\u2013Biology 9Unit 1.2For more information, see text Ch 1.1 (p 1-10) & Ch.1.3 (p 22-30)",
+  "explanation": "This page serves as the title slide for Unit 1.2, 'Intro to Biology', taught by Mr. Queenan for Biology 9. It provides recommended textbook readings, specifically Chapter 1.1 (pages 1-10) and Chapter 1.3 (pages 22-30).",
+  "questions": [
+    {
+      "q": "According to this introductory slide, which chapters and pages in the textbook provide additional information for Unit 1.2?",
+      "opts": [
+        "Chapter 1.1 (pages 1-10) and Chapter 1.3 (pages 22-30)",
+        "Chapter 2.1 (pages 10-20) and Chapter 2.3 (pages 30-40)",
+        "Chapter 1.2 (pages 11-21) and Chapter 1.4 (pages 31-41)",
+        "Chapter 3.1 (pages 1-5) and Chapter 3.2 (pages 6-12)"
+      ],
+      "a": 0,
+      "exp": "The slide explicitly refers to 'text Ch 1.1 (p 1-10) & Ch.1.3 (p 22-30)'."
+    }
+  ]
+}

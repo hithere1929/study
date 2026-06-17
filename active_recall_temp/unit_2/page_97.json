@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 97,
+  "filename": "Unit_2_3.txt",
+  "section_title": "Movement of Molecules",
+  "page_num_in_file": 23,
+  "slide_title": "To Review",
+  "original_text": "To Review\nPassive transport(requires no energy) vs Active transport(requires energy)\nPassive: Diffusion, Facilitated diffusion (moves solute from high to low), Osmosis (moves water from high to low free water concentration)\nActive: Moves solute from low to high solute concentration using ATP",
+  "explanation": "This review slide summarizes membrane transport: passive transport requires no energy and includes simple diffusion, facilitated diffusion (both moving solutes down their concentration gradients), and osmosis (moving water down its concentration gradient, from high to low free water concentration). In contrast, active transport requires energy in the form of ATP to pump solutes against their concentration gradient, from an area of lower concentration to an area of higher concentration.",
+  "questions": [
+    {
+      "q": "Which of the following statements correctly summarizes active transport?",
+      "opts": [
+        "It moves water from low to high concentration without energy.",
+        "It moves solutes from high to low concentration using ATP.",
+        "It moves solutes from lower to higher concentration (against their gradient) and requires energy (ATP).",
+        "It is a random process that only occurs in dead cells."
+      ],
+      "a": 2,
+      "exp": "Active transport is characterized by using ATP energy to move solutes from a lower concentration to a higher concentration."
+    }
+  ]
+}

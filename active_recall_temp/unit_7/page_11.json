@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 11,
+  "filename": "Unit_7_1.txt",
+  "section_title": "Plant Structure & Organization",
+  "page_num_in_file": 11,
+  "slide_title": "Organization and Diversity of Roots: Growth Zones & Eudicot Root Tissues",
+  "original_text": "Organization and Diversity of Roots Root cap contains root apical meristem Zone of cell division contains primary meristems Zone of elongation contains cells that are lengthening and becoming specialized Zone of maturation contains fully differentiated cells Tissues of a Eudicot Root: Epidermis-outer layer of root Cortex composed of parenchyma cells allowing water and minerals movement Endodermis forms a boundary between cortex and inner vascular cylinder Casparianstrip Vascular Tissue -contains xylem and phloem Pericycle mitotically active and can begin development of branch or lateral roots",
+  "explanation": "At the tip of a root, the root cap covers and protects the root apical meristem. Roots grow through three sequential zones: the zone of cell division (housing the actively dividing primary meristems), the zone of elongation (where cells lengthen and begin to specialize), and the zone of maturation (where cells fully differentiate and root hairs are formed). The primary tissues of a eudicot root include: the epidermis (outer protective layer), the cortex (composed of parenchyma cells that allow passage of water and minerals), the endodermis (a boundary layer between the cortex and the vascular cylinder featuring a waxy Casparian strip that regulates water entry), and the inner vascular cylinder. Inside the vascular cylinder is the vascular tissue (xylem and phloem) and the pericycle, a mitotically active layer of cells capable of initiating the growth of lateral or branch roots.",
+  "questions": [
+    {
+      "q": "Which tissue layer in eudicot roots contains the Casparian strip and regulates the movement of water and minerals into the vascular cylinder?",
+      "opts": [
+        "Pericycle",
+        "Cortex",
+        "Endodermis",
+        "Epidermis"
+      ],
+      "a": 2,
+      "exp": "The endodermis forms the boundary between the cortex and vascular cylinder and contains the Casparian strip, which controls the entrance of substances into the vascular cylinder."
+    },
+    {
+      "q": "What is the function of the pericycle in eudicot roots?",
+      "opts": [
+        "It secretes the waxy Casparian strip.",
+        "It absorbs water and minerals using root hairs.",
+        "It is mitotically active and initiates lateral root development.",
+        "It transports sucrose from the shoot to the root cap."
+      ],
+      "a": 2,
+      "exp": "The pericycle is a mitotically active layer of cells located just inside the endodermis that can divide to form branch (lateral) roots."
+    }
+  ]
+}

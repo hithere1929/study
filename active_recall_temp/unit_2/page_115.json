@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 115,
+  "filename": "Unit_2_4.txt",
+  "section_title": "Metabolism",
+  "page_num_in_file": 18,
+  "slide_title": "ATP",
+  "original_text": "ATP¨ATP, adenosine triphosphate, powers nearly all forms of life and consists of¥adenosine and¥a triphosphate tail of three phosphate groups.",
+  "explanation": "Adenosine triphosphate (ATP) is the molecular currency of energy that powers nearly all biological work in living organisms. Structurally, ATP consists of an adenosine molecule attached to a triphosphate tail composed of three covalently linked phosphate groups.",
+  "questions": [
+    {
+      "q": "What does ATP consist of structurally?",
+      "opts": [
+        "Adenosine and a single phosphate group",
+        "Adenosine and a tail of three phosphate groups",
+        "Ribose sugar and a double rings of phosphates",
+        "Amino acids linked in a peptide chain"
+      ],
+      "a": 1,
+      "exp": "As stated on the slide, ATP consists of adenosine and a triphosphate tail composed of three phosphate groups."
+    }
+  ]
+}

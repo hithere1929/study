@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 14,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 14,
+  "slide_title": "1: Chemical Bonds -Ionic",
+  "original_text": "1: Chemical Bonds -Ionic¨Ionic bond: one atom transfersan outer electron to another atom, resulting in 2 ions¤Ion: an atom or molecule with an electrical charge       (+ or –)¨Positive and negative charges attract –this attractive force known as ionic bond¨Most ionic bonds are between metals and non-metalsand result in “salts”",
+  "explanation": "An ionic bond forms when one atom completely transfers one or more outer electrons to another atom. This electron transfer results in the formation of two ions, which are atoms or molecules carrying a net electrical charge (either positive or negative). The electrostatic attraction between these opposing positive and negative charges is what constitutes the ionic bond. Most ionic bonds occur between metal and non-metal elements, typically resulting in the formation of compounds known as salts.",
+  "questions": [
+    {
+      "q": "How does an ionic bond form?",
+      "opts": [
+        "Through the sharing of electrons between two non-metals.",
+        "Through the attraction of a hydrogen atom to an oxygen atom.",
+        "Through the transfer of an outer electron from one atom to another, followed by the attraction of the resulting oppositely charged ions.",
+        "By the fusion of two nuclei."
+      ],
+      "a": 2,
+      "exp": "An ionic bond involves the transfer of an outer electron from one atom to another, producing positive and negative ions that attract one another."
+    },
+    {
+      "q": "What is an ion?",
+      "opts": [
+        "A neutral particle with no charge.",
+        "An atom or molecule with an electrical charge (positive or negative).",
+        "A sub-atomic particle in the nucleus.",
+        "A covalent compound."
+      ],
+      "a": 1,
+      "exp": "An ion is defined as an atom or molecule that has gained or lost electrons, resulting in an electrical charge."
+    }
+  ]
+}

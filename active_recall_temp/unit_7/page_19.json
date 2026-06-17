@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 19,
+  "filename": "Unit_7_1.txt",
+  "section_title": "Plant Structure & Organization",
+  "page_num_in_file": 19,
+  "slide_title": "Organization and Diversity of Stems: Stem Modifications",
+  "original_text": "Organization and Diversity of Stems Above ground vertical stems Stolons Above ground horizontal stems Produce new plants when nodes touch the ground Rhizomes Underground horizontal stems Contribute to asexual reproduction Variations: Tubers -Enlarged portions functioning in food storage Corms -Underground stems that produce new plants during the next season",
+  "explanation": "Stems are modified for asexual reproduction and nutrient storage. 1) Stolons (or runners) are horizontal stems that grow above the ground and produce new clone plants at their nodes when they make contact with the soil. 2) Rhizomes are horizontal stems that grow underground, contributing to asexual reproduction. 3) Tubers are swollen, enlarged sections of underground stems (either rhizomes or stolons) specialized for food storage (e.g., potatoes). 4) Corms are bulb-like, thickened underground stems that store nutrients to produce new shoots during the following growing season.",
+  "questions": [
+    {
+      "q": "Which stem modification is defined as an above-ground horizontal stem that forms new plants where its nodes touch the ground?",
+      "opts": [
+        "Rhizome",
+        "Stolon",
+        "Tuber",
+        "Corm"
+      ],
+      "a": 1,
+      "exp": "Stolons are above-ground horizontal stems that produce new clone plants when their nodes contact the soil. Rhizomes are underground horizontal stems."
+    },
+    {
+      "q": "What is a tuber (such as a white potato)?",
+      "opts": [
+        "A swollen root specialized for water absorption",
+        "An enlarged portion of an underground stem specialized for food storage",
+        "A vertical, above-ground stem used for climbing",
+        "A leaf modification that wraps around objects"
+      ],
+      "a": 1,
+      "exp": "Tubers are enlarged portions of underground stems (rhizomes or stolons) that store food."
+    }
+  ]
+}

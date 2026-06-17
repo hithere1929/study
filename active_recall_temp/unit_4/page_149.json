@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 149,
+  "filename": "Unit_4_8.txt",
+  "section_title": "Mendelian Inheritance P1 - Mendelian Genetics",
+  "page_num_in_file": 4,
+  "slide_title": "Gregor Mendel¨Concept of Blending Inheritance:¤Parents of contrasting appearance produce offspring of intermediate appearance¤Popular concept during Mendel’s time¨Mendel’s findings were in contrast with this¤He formulated the Particulate Theory of InheritancenInheritance involves reshuffling of genes from generation to generation",
+  "original_text": "Gregor Mendel¨Concept of Blending Inheritance:¤Parents of contrasting appearance produce offspring of intermediate appearance¤Popular concept during Mendel’s time¨Mendel’s findings were in contrast with this¤He formulated the Particulate Theory of InheritancenInheritance involves reshuffling of genes from generation to generation",
+  "explanation": "In Mendel's era, the popular concept of inheritance was blending inheritance, which proposed that parents of contrasting appearance would produce offspring with intermediate, blended characteristics. Mendel's results contradicted this idea. In response, he formulated the Particulate Theory of Inheritance, which posits that inheritance is driven by the reshuffling of discrete genes from one generation to the next, rather than the blending of parental traits.",
+  "questions": [
+    {
+      "q": "What was the concept of 'Blending Inheritance' popular during Mendel's time?",
+      "opts": [
+        "That offspring inherit chromosomes exclusively from one parent.",
+        "That parents of contrasting appearance produce offspring of intermediate appearance.",
+        "That genes mutate spontaneously during fertilization.",
+        "That histone methylation silences maternal alleles."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide defines the Concept of Blending Inheritance: 'Parents of contrasting appearance produce offspring of intermediate appearance.'"
+    },
+    {
+      "q": "What theory of inheritance did Mendel propose based on his findings?",
+      "opts": [
+        "The Blending Theory of Inheritance",
+        "The Particulate Theory of Inheritance",
+        "The Epigenetic Theory of Inheritance",
+        "The Chromosomal Imprinting Theory"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'He formulated the Particulate Theory of Inheritance - Inheritance involves reshuffling of genes from generation to generation.'"
+    }
+  ]
+}

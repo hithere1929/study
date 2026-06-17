@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 94,
+  "filename": "Unit_3_4.txt",
+  "section_title": "The Cell Cycle",
+  "page_num_in_file": 21,
+  "slide_title": "Cell Cycle -Summarized",
+  "original_text": "Cell Cycle -Summarized\nThe Amoeba Sisters -Mitosis",
+  "explanation": "This is a summary slide for the Cell Cycle, referencing 'The Amoeba Sisters - Mitosis' video resources.",
+  "questions": [
+    {
+      "q": "What video resource is referenced on the Cell Cycle summary slide?",
+      "opts": [
+        "Bozeman Science - Cellular Respiration",
+        "Crash Course - Ecology",
+        "The Amoeba Sisters - Mitosis",
+        "Khan Academy - Chromosomes"
+      ],
+      "a": 2,
+      "exp": "The slide references 'The Amoeba Sisters - Mitosis' as a resource."
+    }
+  ]
+}

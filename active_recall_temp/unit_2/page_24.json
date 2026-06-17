@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 24,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 24,
+  "slide_title": "3: Hydrogen Bonding",
+  "original_text": "3: Hydrogen Bonding¨Polarity of water causes its molecules to be attracted to one another¤σ-O attracted to σ+H of another molecule¤This attractive force known a hydrogen bond¨H bonding causes water to “cling” to itself and some other substances¤These bonds constantly form, break, re-form¤H2O (s) –all molecules are H bonded and do not break¤H2O (l) –addition of energy breaks some H bonds until number of bonded and unbondedmolecules are equal¤H2O (g) –addition of energy breaks remainder of H bonds until few to none remain¨H bonding responsible for special properties of water:¤Cohesion, adhesion, heat capacity, evaporative cooling, density of ice, solubility",
+  "explanation": "The polarity of water causes individual water molecules to be attracted to one another. Specifically, the partially negative oxygen atom (σ- O) of one water molecule is attracted to the partially positive hydrogen atom (σ+ H) of a neighboring water molecule. This intermolecular attractive force is known as a hydrogen bond. Hydrogen bonding causes water molecules to 'cling' to each other and to other substances. These bonds are dynamic, constantly forming, breaking, and re-forming. In solid water (ice, H2O (s)), all molecules are held together by stable hydrogen bonds that do not break. In liquid water (H2O (l)), the addition of energy breaks some of these bonds, maintaining a dynamic equilibrium where the number of bonded and unbonded molecules is roughly equal. In gaseous water (steam/vapor, H2O (g)), additional energy breaks the remaining hydrogen bonds until very few or none remain. Hydrogen bonding is directly responsible for water's unique physical properties, including cohesion, adhesion, high heat capacity, evaporative cooling, the low density of ice, and high solubility.",
+  "questions": [
+    {
+      "q": "What is a hydrogen bond in water?",
+      "opts": [
+        "A covalent bond between hydrogen and oxygen in a single water molecule.",
+        "An attractive force between the partially negative oxygen of one water molecule and the partially positive hydrogen of another water molecule.",
+        "An ionic bond formed when hydrogen transfers an electron to oxygen.",
+        "A bond that only exists when water is in its gaseous state."
+      ],
+      "a": 1,
+      "exp": "A hydrogen bond is an intermolecular attractive force between the partially negative oxygen (σ-) of one water molecule and the partially positive hydrogen (σ+) of another water molecule."
+    },
+    {
+      "q": "In which state of water are all molecules hydrogen-bonded to one another without the bonds breaking?",
+      "opts": [
+        "Liquid water",
+        "Gaseous water (steam)",
+        "Solid water (ice)",
+        "Supercritical fluid"
+      ],
+      "a": 2,
+      "exp": "In solid water (ice), all molecules are locked in place by hydrogen bonds that do not break. In liquid, they break and reform; in gas, few to none remain."
+    }
+  ]
+}

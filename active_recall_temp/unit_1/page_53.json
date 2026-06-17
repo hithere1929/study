@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 53,
+  "filename": "Unit_1_4.txt",
+  "section_title": "Microscopy",
+  "page_num_in_file": 3,
+  "slide_title": "The Microscope",
+  "original_text": "\u2013Compound Light Microscope\u2013Most common microscopy tool used in science labs\u2013What are other types of microscopes?\nDetector",
+  "explanation": "This slide introduces the microscope, noting that the Compound Light Microscope is the most common microscopy tool used in science labs. It prompts students to consider other types of microscopes and labels a 'Detector' component.",
+  "questions": [
+    {
+      "q": "According to the slide, what is the most common microscopy tool used in science laboratories?",
+      "opts": [
+        "Scanning Electron Microscope",
+        "Transmission Electron Microscope",
+        "Compound Light Microscope",
+        "Fluorescent Microscope"
+      ],
+      "a": 2,
+      "exp": "The slide states: 'Compound Light Microscope \u2013 Most common microscopy tool used in science labs'."
+    }
+  ]
+}

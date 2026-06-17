@@ -1,0 +1,34 @@
+{
+  "unit": 1,
+  "page": 56,
+  "filename": "Unit_1_4.txt",
+  "section_title": "Microscopy",
+  "page_num_in_file": 6,
+  "slide_title": "The Microscope",
+  "original_text": "\u2013Lens\u2013Focal length is fixed (unchangeable)\u2013To focus the image, the distance from the lens to the object is changed\u2013To magnify the image, the lens is                                  replaced with one having a different                                 focal length\u2013Different lenses have different purposes\u2013Condenser \u2013Gathers ER from source onto specimen\u2013Objective(s)\u2013Gathers ER from sample to and focuses to detector; can be multiple\u2013Intermediate and Projector \u2013Not always found. Used to increase magnification\u2013Called compound microscope because multiple lenses compound, or multiply the magnifying power of the unit.",
+  "explanation": "This slide explains that a lens has a fixed, unchangeable focal length. To bring an image into focus, the distance between the lens and the object must be adjusted. To magnify the image, the lens is replaced with one that has a different focal length. Lenses are classified by function: 1) the Condenser gathers electromagnetic radiation (ER) from the source and focuses it onto the specimen, 2) the Objective lens (or lenses) gathers ER from the sample and focuses it toward the detector, and 3) Intermediate and Projector lenses (which are not always present) are used to further increase magnification. The instrument is called a compound microscope because multiple lenses compound, or multiply, the total magnifying power.",
+  "questions": [
+    {
+      "q": "Since the focal length of a lens is fixed, how is a microscope image focused?",
+      "opts": [
+        "By replacing the illumination bulb",
+        "By changing the distance from the lens to the object",
+        "By adding more dyes to the specimen",
+        "By replacing the eyepiece with a camera"
+      ],
+      "a": 1,
+      "exp": "The text states: 'Focal length is fixed (unchangeable) \u2013 To focus the image, the distance from the lens to the object is changed'."
+    },
+    {
+      "q": "What is the function of the condenser lens?",
+      "opts": [
+        "It gathers electromagnetic radiation from the source and concentrates it onto the specimen.",
+        "It increases the resolution of the detector.",
+        "It multiplies the magnification by 100x.",
+        "It holds the slide in place on the stage."
+      ],
+      "a": 0,
+      "exp": "Under different lenses, the Condenser is defined as: 'Gathers ER from source onto specimen'."
+    }
+  ]
+}

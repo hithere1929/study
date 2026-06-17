@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 48,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 33,
+  "slide_title": "Unique Features of Plant Cells",
+  "original_text": "Unique Features of Plant Cells",
+  "explanation": "This page is a transition or title slide introducing the Unique Features of Plant Cells.",
+  "questions": [
+    {
+      "q": "What topic is introduced by the slide on this page?",
+      "opts": [
+        "Animal Cell Evolution",
+        "Unique Features of Plant Cells",
+        "Mitochondrial Replication",
+        "Cellular Respiration"
+      ],
+      "a": 1,
+      "exp": "The slide is titled 'Unique Features of Plant Cells'."
+    }
+  ]
+}

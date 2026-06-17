@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 5,
+  "filename": "Unit_6_1.txt",
+  "section_title": "Viruses",
+  "page_num_in_file": 5,
+  "slide_title": "Virus Structure\u00a8Range from 10-400nm in size\u00a8Categorized by 1) shape, 2) genetic material, & 3) presence /absence of outer envelope",
+  "original_text": "Virus Structure\u00a8Range from 10-400nm in size\u00a8Categorized by 1) shape, 2) genetic material, & 3) presence /absence of outer envelope\n\u00a8All Viruses contain same basic anatomy otherwise:\u00a4Outer capsid made of protein complexes\u00a4Inner core of nucleic acid \u20133 to 100\u2019s of genes.\u00a8Viruses with no envelope said to be \u201cNaked\u201d\u00a8Enveloped viruses covered in outer coating made of cell plasma membrane.",
+  "explanation": "Viruses range in size from 10 to 400 nm. They are categorized based on three criteria: shape, genetic material, and the presence or absence of an outer envelope. All viruses possess a common basic anatomy consisting of an outer protein capsid (made of protein complexes) and an inner core of nucleic acid, which contains between 3 to hundreds of genes. Viruses that lack an outer envelope are termed 'naked' viruses. Enveloped viruses feature an outer coating made of cell plasma membrane acquired from the host cell.",
+  "questions": [
+    {
+      "q": "Which of the following is NOT one of the three criteria used to categorize viruses?",
+      "opts": [
+        "Shape",
+        "Genetic material",
+        "Presence or absence of an outer envelope",
+        "Type of host cell metabolism"
+      ],
+      "a": 3,
+      "exp": "Viruses are categorized by shape, genetic material, and the presence/absence of an outer envelope. Host cell metabolism is not one of the criteria."
+    },
+    {
+      "q": "What is the outer coating of an enveloped virus composed of?",
+      "opts": [
+        "A thick peptidoglycan cell wall",
+        "Host cell plasma membrane",
+        "Viral proteins only",
+        "Pure lipid droplets synthesized by the capsid"
+      ],
+      "a": 1,
+      "exp": "The notes state that enveloped viruses are covered in an outer coating made of cell plasma membrane."
+    },
+    {
+      "q": "What is the genetic capacity of a virus's inner core of nucleic acid?",
+      "opts": [
+        "3 to hundreds of genes",
+        "Thousands of genes",
+        "Only 1 to 2 genes",
+        "No genes, only proteins"
+      ],
+      "a": 0,
+      "exp": "The notes specify that the inner core of nucleic acid has '3 to 100’s of genes'."
+    }
+  ]
+}

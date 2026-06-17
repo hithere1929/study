@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 109,
+  "filename": "Unit_4_6.txt",
+  "section_title": "Meiosis",
+  "page_num_in_file": 3,
+  "slide_title": "Mitosis Refresher",
+  "original_text": "Mitosis Refresher",
+  "explanation": "This slide is a placeholder for a refresher on the phases, structures, and outcomes of mitotic cell division.",
+  "questions": [
+    {
+      "q": "What is the title of this review slide?",
+      "opts": [
+        "Mitosis Refresher",
+        "Meiosis Overview",
+        "Chromatin Structure",
+        "Genomics Summary"
+      ],
+      "a": 0,
+      "exp": "Option A is correct because the slide title is 'Mitosis Refresher'. The other choices are incorrect."
+    }
+  ]
+}

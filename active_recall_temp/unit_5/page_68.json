@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 68,
+  "filename": "Unit_5_3.txt",
+  "section_title": "Speciation & Macroevolution",
+  "page_num_in_file": 19,
+  "slide_title": "Principles of Macroevolution",
+  "original_text": "Principles of Macroevolution\n\u00a8Macroevolution is not goal-oriented\n\u00a4The evolution of the horse (Equus)\n  nStudied since the 1870s\n  nModel for gradual, straight-line evolution with the modern-horse as its goal\n  nThree trends were particularly evident during the evolution of the horse:\n    nIncrease in overall size\n    nToe reduction\n    nChange in tooth size and shape\n\u00a4Discovery of more fossils has led to recognition that:\n  nThe lineage of a horse is complicated by the presence of many ancestors with varied traits\n  nThe direct ancestor of Equus is not known\n  nEach ancestral species was adapted to its environment\n  nSpeciation, diversification, and extinction are common occurrences in the fossil record",
+  "explanation": "The evolution of the horse (Equus) has been studied since the 1870s and was originally used as a classic example of gradual, straight-line evolution leading directly to the modern horse. This linear model emphasized three clear trends: an increase in overall body size, a reduction in the number of toes, and changes in tooth size and shape. However, the discovery of a richer fossil record revealed that horse evolution is actually a complex, branching lineage with many ancestral branches displaying varied traits. The direct ancestor of Equus remains unknown. Rather than moving toward a pre-determined goal, each ancestral species was adapted to its own local environment, showing that speciation, diversification, and extinction are common, branching events in macroevolution.",
+  "questions": [
+    {
+      "q": "What were the three trends originally identified in the straight-line model of horse evolution?",
+      "opts": [
+        "Decreasing size, increasing toes, and softening teeth",
+        "Increasing size, toe reduction, and changes in tooth size/shape",
+        "Rapid speciation, polyploidy, and gamete isolation",
+        "Erosion, deposition, and uplift"
+      ],
+      "a": 1,
+      "exp": "The three trends evident in horse evolution are an increase in overall size, toe reduction, and a change in tooth size and shape."
+    },
+    {
+      "q": "What did the discovery of additional horse fossils demonstrate about macroevolution?",
+      "opts": [
+        "Evolution is a straight-line process with a pre-determined goal.",
+        "The modern horse is the only species that ever existed in the lineage.",
+        "Macroevolution is not goal-oriented, and the lineage is a complex, branching tree of adaptation, speciation, and extinction.",
+        "Fossils are too incomplete to draw any conclusions."
+      ],
+      "a": 2,
+      "exp": "More fossils revealed that the horse lineage is complex and branching, that ancestral species adapted to their own environments, and that macroevolution is not goal-oriented."
+    }
+  ]
+}

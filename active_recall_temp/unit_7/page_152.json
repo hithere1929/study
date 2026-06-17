@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 152,
+  "filename": "Unit_7_8.txt",
+  "section_title": "Nervous System",
+  "page_num_in_file": 14,
+  "slide_title": "The Central Nervous System: Cerebrum & Cerebral Cortex",
+  "original_text": "The Central Nervous System The Brain The cerebrumis the largest portion of the brain in humansnCommunicates with, and coordinates the activities of, the other parts of the brainnLongitudinal fissure divides the cerebrum into left and right cerebral hemispheres Cerebral CortexnA thin but highly convoluted outer layer of gray matternCovers the cerebral hemispheresnContains motor areas and sensory areas as well as association areasnPrimary motor area is in the frontal lobe, just ventral to the central sulcusnPrimary somatosensory area is in the parietal lobe, just dorsal to the central sulcusnBasal nucleinIntegrate motor commandsnEnsures that the proper muscle groups are either activated or inhibited",
+  "explanation": "The cerebrum is the largest portion of the human brain, divided by the longitudinal fissure into left and right hemispheres. The cerebral cortex is the thin, highly folded (convoluted) outer layer of gray matter covering these hemispheres. It contains motor, sensory, and association areas: 1) The primary motor area is in the frontal lobe, ventral (anterior) to the central sulcus. 2) The primary somatosensory area is in the parietal lobe, dorsal (posterior) to the central sulcus. 3) Basal nuclei are deep gray matter masses that integrate motor commands, activating or inhibiting muscle groups to coordinate movement.",
+  "questions": [
+    {
+      "q": "What deep groove divides the cerebrum into left and right hemispheres?",
+      "opts": [
+        "Central sulcus",
+        "Longitudinal fissure",
+        "Synaptic cleft",
+        "Embryonic neural tube"
+      ],
+      "a": 1,
+      "exp": "The longitudinal fissure is the deep cleft that divides the cerebrum into left and right hemispheres."
+    },
+    {
+      "q": "Where are the primary motor and primary somatosensory areas located in the cerebral cortex?",
+      "opts": [
+        "Primary motor is in the parietal lobe; primary somatosensory is in the frontal lobe.",
+        "Primary motor is in the frontal lobe; primary somatosensory is in the parietal lobe.",
+        "Both are located in the occipital lobe.",
+        "Primary motor is in the pons; primary somatosensory is in the medulla."
+      ],
+      "a": 1,
+      "exp": "The primary motor area is situated in the frontal lobe (ventral to the central sulcus), and the primary somatosensory area is in the parietal lobe (dorsal to the central sulcus)."
+    },
+    {
+      "q": "What is the function of the basal nuclei?",
+      "opts": [
+        "They secrete melatonin to regulate sleep cycles.",
+        "They integrate motor commands to ensure proper muscle activation or inhibition.",
+        "They act as the primary relay station for olfactory signals.",
+        "They generate the reflex centers for sneezing and coughing."
+      ],
+      "a": 1,
+      "exp": "Basal nuclei integrate motor commands from the cortex to ensure smooth, coordinated movement by activating or inhibiting specific muscle groups."
+    }
+  ]
+}

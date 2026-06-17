@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 56,
+  "filename": "Unit_6_5.txt",
+  "section_title": "Plant Evolution & Diversity",
+  "page_num_in_file": 6,
+  "slide_title": "Diversity -Bryophytes\u00a8Nonvascular plants -Liverworts, Hornworts, & Mosses\u00a4Lack specialized means of transporting water and organic nutrients nDo not have true roots, stems, and leaves nMost use Rhyzoidstructure for anchoring\u00a4Only land plant where gametophyte is dominant generationnProduces eggs in archegonia nProduces flagellated sperm in antheridia nSperm swim to egg in film of water to make zygote",
+  "original_text": "Diversity -Bryophytes\u00a8Nonvascular plants -Liverworts, Hornworts, & Mosses\u00a4Lack specialized means of transporting water and organic nutrients nDo not have true roots, stems, and leaves nMost use Rhyzoidstructure for anchoring\u00a4Only land plant where gametophyte is dominant generationnProduces eggs in archegonia nProduces flagellated sperm in antheridia nSperm swim to egg in film of water to make zygote",
+  "explanation": "Bryophytes are nonvascular land plants, comprising liverworts, hornworts, and mosses. Because they lack vascular tissue to transport water and organic nutrients, they do not possess true roots, stems, or leaves, instead relying on rhizoid (rhyzoid) structures for anchoring. Bryophytes are the only land plants in which the gametophyte is the dominant generation. The gametophyte produces eggs in archegonia and flagellated sperm in antheridia. The sperm must swim to the egg through a film of environmental water to fertilize it and form the zygote.",
+  "questions": [
+    {
+      "q": "Which of the following is a bryophyte (nonvascular plant)?",
+      "opts": [
+        "Charophyte",
+        "Moss",
+        "Fern",
+        "Conifer"
+      ],
+      "a": 1,
+      "exp": "The notes state that Bryophytes (nonvascular plants) include 'Liverworts, Hornworts, & Mosses'."
+    },
+    {
+      "q": "What is unique about the alternation of generations in bryophytes compared to other land plants?",
+      "opts": [
+        "The sporophyte stage is dominant.",
+        "The gametophyte stage is dominant.",
+        "They reproduce only asexually via binary fission.",
+        "They lack archegonia and antheridia."
+      ],
+      "a": 1,
+      "exp": "The notes state that Bryophytes are the 'Only land plant where gametophyte is dominant generation'."
+    },
+    {
+      "q": "Why do bryophytes require water for fertilization?",
+      "opts": [
+        "Their egg cells are released into the water.",
+        "Their flagellated sperm must swim to the egg in archegonia.",
+        "Water is needed to dissolve their cell walls.",
+        "Their spores cannot survive in dry air."
+      ],
+      "a": 1,
+      "exp": "The notes state that bryophytes produce 'flagellated sperm in antheridia' and 'Sperm swim to egg in film of water to make zygote'."
+    }
+  ]
+}

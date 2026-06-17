@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 116,
+  "filename": "Unit_4_6.txt",
+  "section_title": "Meiosis",
+  "page_num_in_file": 10,
+  "slide_title": "Meiosis I¨Telophase I & Cytokinesis I:¤Telophase I –chromosomes reach opposite poles¤Cytokinesis begins –cells separate from each other ¨Each cell contains 1 chromosome from homologous pair¤New cells are 2n –2 copies of each chromatid (DNA copied before meiosis began)",
+  "original_text": "Meiosis I¨Telophase I & Cytokinesis I:¤Telophase I –chromosomes reach opposite poles¤Cytokinesis begins –cells separate from each other ¨Each cell contains 1 chromosome from homologous pair¤New cells are 2n –2 copies of each chromatid (DNA copied before meiosis began)",
+  "explanation": "During Telophase I, the separated chromosomes arrive at opposite poles of the dividing cell, and cytokinesis begins, separating the cytoplasm to form two new cells. The slide notes that each new cell receives one chromosome from each homologous pair. It describes these new cells as '2n', containing two copies of each chromatid, because the DNA was replicated during interphase before meiosis commenced.",
+  "questions": [
+    {
+      "q": "According to the slide, what is the chromosome/chromatid status of the cells after Telophase I and Cytokinesis I?",
+      "opts": [
+        "They are haploid cells containing single chromatids.",
+        "They contain one chromosome from the homologous pair, and are described as 2n with two copies of each chromatid.",
+        "They have completely lost their nuclear DNA.",
+        "They contain two full pairs of homologous chromosomes."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'Each cell contains 1 chromosome from homologous pair' and 'New cells are 2n – 2 copies of each chromatid (DNA copied before meiosis began).'"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 96,
+  "filename": "Unit_4_5.txt",
+  "section_title": "Biotech & Genomics",
+  "page_num_in_file": 17,
+  "slide_title": "Gene Therapy¨Gene therapy involves procedures to give patients healthy genes to make up for a faulty gene.¨It also includes the use of genes to treat genetic disorders and various human illnesses.¨There are ex vivo (outside body) and in vivo (inside body) methods of gene therapy.¤Ex VivonChildren with Severe Combined Immunodeficiency (SCID) lack the enzyme adenosine deaminase (ADA)nAffects immune system –prone to chronic infectionnBone marrow stem cells are infected with a virus carrying a normal gene for the ADA enzyme¤In VivonCystic FibrosisnNasal / Respiratory Spray",
+  "original_text": "Gene Therapy¨Gene therapy involves procedures to give patients healthy genes to make up for a faulty gene.¨It also includes the use of genes to treat genetic disorders and various human illnesses.¨There are ex vivo (outside body) and in vivo (inside body) methods of gene therapy.¤Ex VivonChildren with Severe Combined Immunodeficiency (SCID) lack the enzyme adenosine deaminase (ADA)nAffects immune system –prone to chronic infectionnBone marrow stem cells are infected with a virus carrying a normal gene for the ADA enzyme¤In VivonCystic FibrosisnNasal / Respiratory Spray",
+  "explanation": "Gene therapy includes medical techniques designed to deliver functional, healthy genes into a patient's cells to replace or compensate for a faulty gene, thereby treating genetic disorders or other human diseases. Gene therapy can be delivered ex vivo (outside the body) or in vivo (inside the body). An ex vivo example is treating children with Severe Combined Immunodeficiency (SCID), who lack the enzyme adenosine deaminase (ADA) and suffer from severe immune dysfunction. In this therapy, bone marrow stem cells are extracted, infected in the lab with a virus carrying the functional ADA gene, and re-implanted. An in vivo example is cystic fibrosis treatment, where the therapeutic gene is delivered directly to the patient's respiratory tract using a nasal or respiratory spray.",
+  "questions": [
+    {
+      "q": "What is the difference between ex vivo and in vivo gene therapy methods?",
+      "opts": [
+        "Ex vivo involves modifying cells outside the patient's body; in vivo involves delivering genes directly into the patient's body.",
+        "Ex vivo is used only for plants; in vivo is used only for animals.",
+        "Ex vivo utilizes physical injection; in vivo utilizes chemical transgenics.",
+        "Ex vivo occurs in the cytoplasm; in vivo occurs in the cell nucleus."
+      ],
+      "a": 0,
+      "exp": "Option A is correct because the slide defines ex vivo as 'outside body' and in vivo as 'inside body' and provides corresponding examples. The other choices are incorrect."
+    },
+    {
+      "q": "Which disease is treated using an ex vivo method where bone marrow stem cells are infected with a virus carrying a normal gene for adenosine deaminase (ADA)?",
+      "opts": [
+        "Cystic Fibrosis",
+        "Severe Combined Immunodeficiency (SCID)",
+        "Sickle cell anemia",
+        "Hepatitis B"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide describes SCID under 'Ex Vivo' therapy, noting that children with SCID lack ADA and their 'Bone marrow stem cells are infected with a virus carrying a normal gene for the ADA enzyme.' Cystic fibrosis (Option A) is listed as an in vivo example."
+    }
+  ]
+}

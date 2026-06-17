@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 19,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 3,
+  "slide_title": "“Plant” and “Animal” Cells",
+  "original_text": "“Plant” and “Animal” Cells\nAnimal Cells\nGeneralized structure of basic animal cells\nNot all cells contain all features; some specialized cells will lack certain organelles\nWill be cell type we speak about for most analysis",
+  "explanation": "This page presents the generalized structure of basic animal cells. It notes that not all cells contain all features, as specialized cells may lack certain organelles. Animal cells are the primary cell type that will be analyzed in this section.",
+  "questions": [
+    {
+      "q": "Which of the following is true regarding the generalized structure of animal cells according to the slide?",
+      "opts": [
+        "All animal cells contain every single organelle.",
+        "Not all animal cells contain all features; specialized cells may lack certain organelles.",
+        "Animal cells are identical in structure to plant cells.",
+        "Animal cells do not have specialized functions."
+      ],
+      "a": 1,
+      "exp": "The slide notes that not all cells contain all features; some specialized cells will lack certain organelles."
+    }
+  ]
+}

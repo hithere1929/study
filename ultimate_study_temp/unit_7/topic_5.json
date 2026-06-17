@@ -1,0 +1,27 @@
+{
+  "id": "u7_t5",
+  "title": "Plant Tropisms",
+  "cheat_card": [
+    "<b>Phototropism</b>: Growth toward unidirectional light. Cells on the shady side elongate due to auxin. Sensed by membrane pigment <b>phototropin</b> absorbing blue light.",
+    "<b>Gravitropism</b>: Growth in response to gravity. Sensed by <b>statoliths</b> (starch grains in amyloplasts) settling to the gravity-facing side of cells. Stems show negative gravitropism (grow up); roots show positive (grow down).",
+    "<b>Thigmotropism</b>: Growth in response to touch (e.g., coiling of tendrils). <b>Thigmomorphogenesis</b> is the entire plant's response to environmental stimuli like wind/rain.",
+    "<b>Nastic movements</b>: Reversible, growth-independent movements driven by <b>turgor pressure</b> (e.g., Venus flytrap closing or Mimosa folding) in response to non-directional stimuli.",
+    "<b>Photoperiodism</b>: Seasonal physiological responses regulated by day/night length changes using the photoreceptor <b>phytochrome</b>, which exists in inactive <b>Pr</b> (red) and active <b>Pfr</b> (far-red) forms."
+  ],
+  "memory_anchor": "<h3>Phytochrome Photoreceptor Interconversion</h3><ul><li><b>Pr (Inactive Red-Absorbing Form)</b> &rarr; [Absorbs Red Light (660nm) during day] &rarr; <b>Pfr (Active Far-Red-Absorbing Form)</b></li><li><b>Pfr (Active Far-Red-Absorbing Form)</b> &rarr; [Absorbs Far-Red Light (730nm) or reverts in darkness] &rarr; <b>Pr (Inactive)</b></li><li><i>Role:</i> Triggers physiological responses such as seed germination and flowering relative to night length.</li></ul>",
+  "flashcards": [
+    {
+      "q": "Explain the mechanism and sensory structures responsible for plant gravitropism.",
+      "a": "Gravitropism depends on statoliths, which are dense starch grains located in amyloplasts. Under gravity, statoliths settle to the lower side of the cell. This physical settling tells the cell which way is down, redistributing auxin to regulate differential growth (downward in roots, upward in shoots)."
+    },
+    {
+      "q": "What are nastic movements and how do they differ from tropisms?",
+      "a": "Nastic movements are rapid, reversible movements driven by turgor pressure changes (water entering/leaving cells) in response to non-directional stimuli (like touch or temperature, e.g., Mimosa folding). Unlike tropisms, they do not involve growth and are independent of the direction of the stimulus."
+    },
+    {
+      "q": "Explain how the active and inactive forms of phytochrome regulate photoperiodism.",
+      "a": "Phytochrome is a photoreceptor that exists in two interconvertible forms: inactive red (Pr) and active far-red (Pfr). Pr absorbs red light during the day and is converted to Pfr, which triggers physiological responses like germination and flowering. In darkness, Pfr slowly reverts back to Pr, allowing the plant to measure the length of the night."
+    }
+  ],
+  "outline_blanks": "Plants respond to gravity using gravity-sensing starch grains called [[statoliths]]. Light responses are mediated by [[phototropin]] absorbing blue light, while seasonal responses like flowering are regulated by [[phytochrome]], which alternates between the inactive [[Pr]] and active [[Pfr]] forms."
+}

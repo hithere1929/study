@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 90,
+  "filename": "Unit_4_5.txt",
+  "section_title": "Biotech & Genomics",
+  "page_num_in_file": 10,
+  "slide_title": "Gel Electrophoresis\nThe Amoeba Sisters –Gel Electrophoresis",
+  "original_text": "Gel Electrophoresis\nThe Amoeba Sisters –Gel Electrophoresis",
+  "explanation": "This slide focuses on Gel Electrophoresis, referencing an educational video from 'The Amoeba Sisters - Gel Electrophoresis'.",
+  "questions": [
+    {
+      "q": "What method is the subject of the video referenced on this slide?",
+      "opts": [
+        "PCR",
+        "Gel Electrophoresis",
+        "Gene Cloning",
+        "DNA Sequencing"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide title is 'Gel Electrophoresis' and references a video of the same name. The other choices are incorrect."
+    }
+  ]
+}

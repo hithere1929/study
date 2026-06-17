@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 133,
+  "filename": "Unit_7_7.txt",
+  "section_title": "Respiratory System",
+  "page_num_in_file": 16,
+  "slide_title": "Breathing & Transport of Gases: Oxygen & CO2 Transport",
+  "original_text": "Breathing and Transport of Gases Transport of Oxygen and Carbon Dioxide External Respiration nOxygen (O2)from alveoli combine with hemoglobin (Hb) in RBC to form oxyhemoglobin (HbO2) Internal Respiration nOxyhemoglobin (HbO2)gives up oxygen, which diffuses out of the blood into the tissues where it is taken up by cells nSome carbon dioxide (CO2) enters blood from tissues and binds with hemoglobin to form carbaminohemoglobin (HbCO2) nMost carbon dioxide is transported in the form of bicarbonate ion (HCO3-)",
+  "explanation": "Oxygen and carbon dioxide are transported chemically in the blood. 1) External respiration: In the lungs, oxygen diffuses into RBCs and binds to hemoglobin (Hb) to form oxyhemoglobin ($HbO_2$). 2) Internal respiration: In systemic tissues, oxyhemoglobin ($HbO_2$) dissociates to release oxygen, which diffuses into cells. Carbon dioxide ($CO_2$) diffuses from tissues into the blood. Some $CO_2$ binds to hemoglobin, forming carbaminohemoglobin ($HbCO_2$), but most carbon dioxide is converted and transported as bicarbonate ions ($HCO_3^-$) in the plasma.",
+  "questions": [
+    {
+      "q": "What is formed when oxygen binds to hemoglobin in the lungs?",
+      "opts": [
+        "Carbaminohemoglobin",
+        "Oxyhemoglobin",
+        "Bicarbonate ion",
+        "Carbonic anhydrase"
+      ],
+      "a": 1,
+      "exp": "In the lungs, oxygen combines with hemoglobin (Hb) to form oxyhemoglobin (HbO2)."
+    },
+    {
+      "q": "In what chemical form is the majority of carbon dioxide transported in the blood?",
+      "opts": [
+        "Dissolved carbon dioxide gas",
+        "Carbaminohemoglobin (HbCO2)",
+        "Bicarbonate ions (HCO3-)",
+        "Oxyhemoglobin (HbO2)"
+      ],
+      "a": 2,
+      "exp": "While some CO2 binds to hemoglobin as carbaminohemoglobin, the vast majority is converted into bicarbonate ions (HCO3-) for transport in plasma."
+    }
+  ]
+}

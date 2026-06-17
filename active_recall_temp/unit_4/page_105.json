@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 105,
+  "filename": "Unit_4_5.txt",
+  "section_title": "Biotech & Genomics",
+  "page_num_in_file": 27,
+  "slide_title": "Genomics¨Proteomics-The study of the structure, function, and interaction of cellular proteins¨The entire collection of a species’ proteins is its proteome¨The proteome is larger than the genome¤Mechanisms such as alternative -re-mRNA splicing increase the number of possible proteins¨Understanding protein function is essential to the development of better drugs¤Correlate drug treatment to the particular genome¤Increase efficiency and decrease side effects¨Once the primary structure of a protein is known¤It should be possible to predict its tertiary structure¤Computer modeling of the tertiary structures of proteins is an important part of proteomics",
+  "original_text": "Genomics¨Proteomics-The study of the structure, function, and interaction of cellular proteins¨The entire collection of a species’ proteins is its proteome¨The proteome is larger than the genome¤Mechanisms such as alternative -re-mRNA splicing increase the number of possible proteins¨Understanding protein function is essential to the development of better drugs¤Correlate drug treatment to the particular genome¤Increase efficiency and decrease side effects¨Once the primary structure of a protein is known¤It should be possible to predict its tertiary structure¤Computer modeling of the tertiary structures of proteins is an important part of proteomics",
+  "explanation": "Proteomics is the scientific study of the structure, function, and interaction of cellular proteins. The total set of proteins expressed by a species is called its proteome. The proteome is larger than the genome because mechanisms like alternative pre-mRNA splicing (spelled 'alternative -re-mRNA splicing' on the slide) enable a single gene to code for multiple protein isoforms. Understanding protein function is critical for drug development, allowing drugs to be tailored to an individual's genome to maximize efficiency and minimize side effects. If a protein's primary structure is known, researchers can use computer modeling to predict its tertiary structure, which is a major area of study in proteomics.",
+  "questions": [
+    {
+      "q": "Why is the proteome larger than the genome in eukaryotic organisms?",
+      "opts": [
+        "Because proteins contain introns, whereas genes do not.",
+        "Because mechanisms such as alternative pre-mRNA splicing increase the number of possible proteins produced from the same genome.",
+        "Because proteins replicate independently of DNA.",
+        "Because DNA is degraded inside the proteasome."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states 'The proteome is larger than the genome' and attributes this to 'Mechanisms such as alternative -re-mRNA splicing increase the number of possible proteins.' The other choices are false."
+    },
+    {
+      "q": "What type of modeling is described as an important part of proteomics once the primary structure of a protein is known?",
+      "opts": [
+        "Computer modeling of the tertiary structures of proteins",
+        "Mathematical modeling of genetic drift",
+        "Simulations of ribosome assembly speeds",
+        "Graphic rendering of circular bacterial plasmids"
+      ],
+      "a": 0,
+      "exp": "Option A is correct because the slide states: 'Once the primary structure of a protein is known It should be possible to predict its tertiary structure' and 'Computer modeling of the tertiary structures of proteins is an important part of proteomics.' The other choices are incorrect."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 135,
+  "filename": "Unit_4_7.txt",
+  "section_title": "Chromosome-based Syndromes",
+  "page_num_in_file": 7,
+  "slide_title": "Trisomy 21¨Most common autosomal trisomy in humans¨Easily recognizable features¤Short stature; eyelid fold; flat face; stubby fingers; wide gap between first and second toes; large, fissured tongue; round head; distinctive palm crease; heart problems; some degree of mental retardation¤Higher risk for development of leukemia¤Tend to age rapidly¨Some genes present in extra copies on chromosome 21 have now been linked to leukemia, cataracts, aging, mental retardation¨Trisomy 21 higher risk with female age¤1:1400 aged 20-30¤1:750 aged 30-35¤Even higher in older females",
+  "original_text": "Trisomy 21¨Most common autosomal trisomy in humans¨Easily recognizable features¤Short stature; eyelid fold; flat face; stubby fingers; wide gap between first and second toes; large, fissured tongue; round head; distinctive palm crease; heart problems; some degree of mental retardation¤Higher risk for development of leukemia¤Tend to age rapidly¨Some genes present in extra copies on chromosome 21 have now been linked to leukemia, cataracts, aging, mental retardation¨Trisomy 21 higher risk with female age¤1:1400 aged 20-30¤1:750 aged 30-35¤Even higher in older females",
+  "explanation": "Trisomy 21 (Down Syndrome) is the most common autosomal trisomy in humans. Its physical and clinical features include short stature, eyelid folds, a flat face, stubby fingers, a wide gap between the first and second toes, a large fissured tongue, a round head, a distinct palm crease, heart problems, and some degree of mental retardation. Individuals also face a higher risk of leukemia and tend to age rapidly. Extra copies of specific genes on chromosome 21 have been linked to leukemia, cataracts, aging, and mental retardation. The risk of Trisomy 21 increases with maternal age, from 1:1,400 for mothers aged 20-30, to 1:750 for mothers aged 30-35, and is even higher in older females.",
+  "questions": [
+    {
+      "q": "Which of the following clinical and physical features is associated with Trisomy 21?",
+      "opts": [
+        "Underdeveloped testes and lack of facial hair.",
+        "Broad chest and neck webbing.",
+        "Short stature, flat face, heart problems, and a higher risk of leukemia.",
+        "Extreme height and persistent acne."
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide lists features of Trisomy 21, including 'Short stature', 'flat face', 'heart problems', and a 'Higher risk for development of leukemia.'"
+    },
+    {
+      "q": "How does the risk of Trisomy 21 relate to female age?",
+      "opts": [
+        "The risk remains constant at 1:1400 for all ages.",
+        "The risk decreases as the female ages.",
+        "The risk increases with maternal age, from 1:1400 at age 20-30 to 1:750 at age 30-35, and higher in older females.",
+        "The risk is unrelated to maternal age, depending only on the father's age."
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide lists the risk statistics: '1:1400 aged 20-30', '1:750 aged 30-35', and 'Even higher in older females.'"
+    }
+  ]
+}

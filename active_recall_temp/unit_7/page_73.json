@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 73,
+  "filename": "Unit_7_4.txt",
+  "section_title": "Plant Reproduction",
+  "page_num_in_file": 19,
+  "slide_title": "Artificial Reproduction Strategies: Meristem, Anther & Suspension Culture",
+  "original_text": "Artificial Reproduction Strategies Meristem tissue Results in clonal plants with identical traits Anther tissue culture Haploid cells in pollen grains are cultured to produce haploid plantlets A diploid plantlet can be produced by adding a chemical agent that encourages chromosome doubling Cell Suspension Culture Rapidly growing calluses are cut into small pieces and shaken into a liquid nutrient medium Single cells or small clumps break off and form a suspension Used to extract chemicals and metabolites, many times which have been genetically modified, from plant cells.",
+  "explanation": "This slide describes three specialized tissue culture techniques: 1) Meristem culture: uses virus-free apical meristem tissue to produce clonal plants with identical genetic traits. 2) Anther tissue culture: involves culturing the haploid cells inside pollen grains to produce haploid plantlets. To make these plants fertile and diploid, scientists add a chemical agent that encourages chromosome doubling. 3) Cell suspension culture: involves taking rapidly growing cell masses (calluses), cutting them into small pieces, and shaking them in a liquid nutrient medium. Single cells or small clumps break off to form a suspension, which is used to extract valuable chemicals and metabolic products, often from genetically modified plant cells.",
+  "questions": [
+    {
+      "q": "During anther culture, how can a fertile diploid plantlet be generated from haploid pollen cells?",
+      "opts": [
+        "By performing double fertilization in a test tube",
+        "By adding a chemical agent that encourages chromosome doubling in haploid plantlets",
+        "By grafting the haploid stem onto a diploid rootstock",
+        "By growing the plantlets in a medium rich in Rhizobium bacteria"
+      ],
+      "a": 1,
+      "exp": "Anther culture initially produces haploid plantlets. A chemical agent is then applied to encourage chromosome doubling, producing fertile diploid plants."
+    },
+    {
+      "q": "What is the procedure for establishing a cell suspension culture?",
+      "opts": [
+        "Grafting a shoot apical meristem onto a root system in liquid soil",
+        "Culturing whole flowers in an anaerobic gas chamber",
+        "Shaking pieces of rapidly growing callus tissue in a liquid nutrient medium to break off single cells",
+        "Extracting seeds and placing them in cold weather to break dormancy"
+      ],
+      "a": 2,
+      "exp": "Cell suspension culture is created by cutting calluses into pieces and shaking them in a liquid nutrient medium, causing single cells or small clumps to break off into suspension."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 27,
+  "filename": "Unit_1_2.txt",
+  "section_title": "Intro to Biology",
+  "page_num_in_file": 14,
+  "slide_title": "Activity",
+  "original_text": "\u2013What factors could you use to justify the following objects are alive?\u2013What factors would you use to show they are not?",
+  "explanation": "This slide sets up a class activity where students must apply their knowledge of the characteristics of life. They are asked to provide biological justification for why specific objects can be classified as alive, and what factors prove that they are non-living.",
+  "questions": [
+    {
+      "q": "What is the focus of the activity described on the slide?",
+      "opts": [
+        "Memorizing the classification of plants and animals",
+        "Justifying whether objects are alive or not based on biological characteristics",
+        "Observing single-celled organisms under a microscope",
+        "Comparing chemical compounds to organic molecules"
+      ],
+      "a": 1,
+      "exp": "The questions on the slide ask what factors could be used to justify whether objects are alive or show that they are not."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 38,
+  "filename": "Unit_5_2.txt",
+  "section_title": "How Populations Evolve",
+  "page_num_in_file": 17,
+  "slide_title": "Natural Selection",
+  "original_text": "Processes of Evolution\n\u00a4Most traits are polygenic -variations in the trait result in a bell-shaped curve (From Unit 4)\n\u00a4Three types of selection occur:\n\u00a4Directional Selection\n  nThe curve shifts in one direction\n\u00a4Stabilizing Selection\n  nThe peak of the curve increases and tails decrease\n\u00a4Disruptive Selection\n  nThe curve has twopeaks",
+  "explanation": "Many biological traits are polygenic, meaning they are controlled by multiple genes, which typically produces a bell-shaped curve of phenotypic distribution in a population. Natural selection can act on these polygenic traits in three distinct ways: (1) Directional Selection, which favors phenotypes at one extreme of the distribution, shifting the entire curve in that direction; (2) Stabilizing Selection, which favors intermediate phenotypes, causing the peak of the curve to increase while the tails (extremes) decrease; and (3) Disruptive Selection, which favors both extreme phenotypes over the intermediate, splitting the distribution and forming two distinct peaks.",
+  "questions": [
+    {
+      "q": "Which type of natural selection shifts the entire phenotypic distribution curve in one direction?",
+      "opts": [
+        "Stabilizing Selection",
+        "Directional Selection",
+        "Disruptive Selection",
+        "Artificial Selection"
+      ],
+      "a": 1,
+      "exp": "Directional selection favors one extreme phenotype, causing the bell curve to shift in that direction."
+    },
+    {
+      "q": "What happens to the distribution curve of a polygenic trait during stabilizing selection?",
+      "opts": [
+        "The curve splits into two distinct peaks.",
+        "The curve shifts entirely to the left or right.",
+        "The peak of the curve increases (favoring intermediates) and the tails decrease (selecting against extremes).",
+        "The curve becomes completely flat, representing equal frequency of all phenotypes."
+      ],
+      "a": 2,
+      "exp": "Stabilizing selection favors average phenotypes, which increases the height of the curve's peak and reduces the tails representing extreme phenotypes."
+    }
+  ]
+}

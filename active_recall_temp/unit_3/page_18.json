@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 18,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 2,
+  "slide_title": "Endosymbiotic Theory",
+  "original_text": "Endosymbiotic Theory\nScientific evidence supports that mitochondria and chloroplasts arose when large eukaryotic cells engulfed independent prokaryotes\nExplains why they are bound by own double layer membranes and contain own genetic info.",
+  "explanation": "The Endosymbiotic Theory states that mitochondria and chloroplasts originated when large eukaryotic cells engulfed independent prokaryotes. This theory explains why both organelles are bound by their own double layer membranes and contain their own genetic information (DNA), which supports their ancestral prokaryotic origin.",
+  "questions": [
+    {
+      "q": "According to the Endosymbiotic Theory, how did mitochondria and chloroplasts originate?",
+      "opts": [
+        "They were synthesized from proteins in the cytosol.",
+        "They arose when large eukaryotic cells engulfed independent prokaryotes.",
+        "They evolved from folds in the nuclear membrane.",
+        "They were transferred from viral infections."
+      ],
+      "a": 1,
+      "exp": "The slide states that scientific evidence supports that mitochondria and chloroplasts arose when large eukaryotic cells engulfed independent prokaryotes."
+    },
+    {
+      "q": "What evidence supports the Endosymbiotic Theory for mitochondria and chloroplasts?",
+      "opts": [
+        "They lack double membranes and have no genetic info.",
+        "They are bound by their own double layer membranes and contain their own genetic info.",
+        "They are the largest organelles in animal cells.",
+        "They perform the exact same functions as the cell nucleus."
+      ],
+      "a": 1,
+      "exp": "The Endosymbiotic Theory explains why they are bound by their own double layer membranes and contain their own genetic information."
+    }
+  ]
+}

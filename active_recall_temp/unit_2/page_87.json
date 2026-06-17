@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 87,
+  "filename": "Unit_2_3.txt",
+  "section_title": "Movement of Molecules",
+  "page_num_in_file": 13,
+  "slide_title": "Tonicity",
+  "original_text": "Tonicity¨Tonicityis a term that describes the ability of a surrounding solution to cause a cell to gain or lose water.¨The tonicity of a solution mainly depends on its concentration of solutes relative to the concentration of solutes inside the cell.¤In anisotonicsolution, the concentration of solute is the same on both sides of a membrane, and the cell volume will not change.¤In ahypotonicsolution, the solute concentration is lower outside the cell, water molecules move into the cell, and the cell will expand and may burst.¤In ahypertonicsolution, the solute concentration is higher outside the cell, water molecules move out of the cell, and the cell will shrink.",
+  "explanation": "Tonicity is a term describing the capacity of an extracellular solution to cause a cell to gain or lose water. A solution's tonicity depends primarily on its solute concentration relative to the solute concentration inside the cell. In an isotonic solution, solute concentrations are equal on both sides of the membrane, resulting in no net water movement and no change in cell volume. In a hypotonic solution, the solute concentration is lower outside the cell, causing water to flow into the cell, which expands and may burst. In a hypertonic solution, the solute concentration is higher outside the cell, driving water to flow out of the cell, which causes it to shrink.",
+  "questions": [
+    {
+      "q": "What will happen to an animal cell placed in a hypotonic solution?",
+      "opts": [
+        "It will shrivel due to water loss.",
+        "It will remain completely unchanged in volume.",
+        "Water will enter the cell, causing it to expand and potentially burst.",
+        "It will actively pump out all of its solutes."
+      ],
+      "a": 2,
+      "exp": "A hypotonic solution has a lower solute concentration than the cell's interior, meaning water moves into the cell down its concentration gradient, causing the cell to expand and potentially lyse (burst)."
+    },
+    {
+      "q": "Which type of solution has a solute concentration equal to that inside the cell, resulting in no net water movement?",
+      "opts": [
+        "Hypotonic solution",
+        "Hypertonic solution",
+        "Isotonic solution",
+        "Hydrophobic solution"
+      ],
+      "a": 2,
+      "exp": "An isotonic solution has the same solute concentration on both sides of the membrane, so cell volume does not change."
+    }
+  ]
+}

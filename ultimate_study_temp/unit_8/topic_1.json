@@ -1,0 +1,30 @@
+{
+  "id": "u8_t1",
+  "title": "Nature/Nurture",
+  "cheat_card": [
+    "Most animal behaviors have a <b>genetic basis</b> (nature) but are modulated by environmental influences (nurture), linked to the nervous and endocrine systems.",
+    "<b>Nest-building in lovebirds</b> demonstrates genetic control: Fischer's lovebirds carry material in their beaks, peach-faced lovebirds tuck strips in feathers, and their <b>hybrids show intermediate, confused behaviors</b>.",
+    "<b>Garter snake food choice</b> is genetically wired: inland populations eat fish/frogs and refuse <b>slugs</b>, coastal populations eat <b>slugs</b>, and their <b>hybrids accept slugs</b>.",
+    "Human twin studies (e.g., Scott & Mark Kelly) show twins separated at birth share similar <b>food preferences, activity levels, and mate selection</b>.",
+    "Maternal nurturing behavior in mice post-birth depends on the expression of a single gene called <b><i>fosB</i></b>; mutating it leads to pup neglect."
+  ],
+  "memory_anchor": "Genetics of Behavior: Lovebirds (beak vs feather nesting hybrids), Garter Snakes (inland refuse vs coastal accept slug hybrids), Mice (fosB gene deletion causes maternal neglect).",
+  "flashcards": [
+    {
+      "q": "What experimental evidence from lovebird hybrid breeding supports the idea that behavior has a genetic basis?",
+      "q_id": "u8_t1_f1",
+      "a": "Fischer lovebirds carry nesting material in their beaks, while peach-faced lovebirds tuck it into their feathers. Hybrid offspring attempt both methods and exhibit extreme difficulty carrying materials, proving nest-building behavior is genetically inherited."
+    },
+    {
+      "q": "How does the diet of coastal and inland garter snakes, along with their hybrids, demonstrate the genetic basis of behavior?",
+      "q_id": "u8_t1_f2",
+      "a": "Inland snakes feed on frogs and fish and refuse slugs, while coastal snakes feed on slugs. Hybrid offspring accept slugs as a food source, indicating that slug preference is a genetically controlled trait."
+    },
+    {
+      "q": "What genetic factor determines post-birth maternal nurturing behavior in mice, and what happens when it is mutated?",
+      "q_id": "u8_t1_f3",
+      "a": "Maternal nurturing behavior is dependent on the presence of a single gene termed fosB. When both copies of the fosB gene are inactive, the mother mouse neglects her pups, failing to retrieve or warm them."
+    }
+  ],
+  "outline_blanks": "Experiments with lovebirds, garter snakes, and mice show that behavior has a genetic basis. For example, nest-building hybrids of Fischer and peach-faced lovebirds show confusion, and maternal care in mice depends on a single gene named [[fosB]]. Similarly, coastal garter snakes accept [[slugs]] as food, whereas inland snakes refuse them, with hybrids showing intermediate acceptance."
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 102,
+  "filename": "Unit_8_6.txt",
+  "section_title": "Major Ecosystems of the Biosphere",
+  "page_num_in_file": 11,
+  "slide_title": "Terrestrial Ecosystems¨Shrublands¤Tend to occur along coasts that have dry summers and wet wintersnShrubs are adapted to withstand arid conditionsnDense shrubland in California is known as chaparralnLacks an understory and ground litternHighly flammable¤GrasslandsnOccur where annual rainfall is greater than 25 cm, but generally insufficient to support treesnGrasses are well adapted to changing environmentnTemperate grasslands have cold winters and hot, dry summers¤Savannashave a cool dry season and a hot rainy season",
+  "original_text": "Terrestrial Ecosystems¨Shrublands¤Tend to occur along coasts that have dry summers and wet wintersnShrubs are adapted to withstand arid conditionsnDense shrubland in California is known as chaparralnLacks an understory and ground litternHighly flammable¤GrasslandsnOccur where annual rainfall is greater than 25 cm, but generally insufficient to support treesnGrasses are well adapted to changing environmentnTemperate grasslands have cold winters and hot, dry summers¤Savannashave a cool dry season and a hot rainy season",
+  "explanation": "Shrublands typically occur along coastlines characterized by dry summers and wet winters. Shrubs in this biome are highly adapted to survive arid conditions. California's dense shrubland is called chaparral, which lacks a defined understory or ground litter and is highly flammable. Grasslands occur in areas where annual rainfall exceeds 25 cm but remains insufficient to sustain trees. Grasses are highly resilient and adapted to changing environments. Grasslands are divided into temperate grasslands, which experience cold winters and hot, dry summers, and savannas, which are tropical grasslands featuring a cool dry season followed by a hot rainy season.",
+  "questions": [
+    {
+      "q": "What is chaparral, and what is one of its notable physical characteristics?",
+      "opts": [
+        "A type of peat bog; highly acidic",
+        "California's dense shrubland; lacks an understory and ground litter, and is highly flammable",
+        "A tropical grassland; has a cool dry season and a hot rainy season",
+        "A coniferous forest; has needle-like leaves to shed snow"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Dense shrubland in California is known as chaparral' and it 'Lacks an understory and ground litter' and is 'Highly flammable.'"
+    },
+    {
+      "q": "What differentiates temperate grasslands from savannas according to the notes?",
+      "opts": [
+        "Temperate grasslands receive no rainfall, while savannas are flooded swamps.",
+        "Temperate grasslands have cold winters and hot, dry summers, whereas savannas have a cool dry season and a hot rainy season.",
+        "Temperate grasslands support evergreen trees, while savannas have permafrost.",
+        "There is no difference; both occur along California coasts."
+      ],
+      "a": 1,
+      "exp": "According to the notes, 'Temperate grasslands have cold winters and hot, dry summers' while 'Savannas have a cool dry season and a hot rainy season.'"
+    }
+  ]
+}

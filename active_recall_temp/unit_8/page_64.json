@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 64,
+  "filename": "Unit_8_4.txt",
+  "section_title": "Photosynthesis",
+  "page_num_in_file": 11,
+  "slide_title": "Plants as Solar Energy Converters¨The thylakoid space acts as a reservoir for hydrogen ions (H+)¨Each time water is oxidized, two H+remain in the thylakoid space¨Transfer of electrons in the electron transport chain yields energy¤Used to pump H+across the thylakoid membrane¤Protons move from stroma into the thylakoid space¨Flow of H+back across the thylakoid membrane¤Energizes ATP synthase, which¤Enzymatically produces ATP from ADP + Pi¨This method of producing ATP is called chemiosmosis",
+  "original_text": "Plants as Solar Energy Converters¨The thylakoid space acts as a reservoir for hydrogen ions (H+)¨Each time water is oxidized, two H+remain in the thylakoid space¨Transfer of electrons in the electron transport chain yields energy¤Used to pump H+across the thylakoid membrane¤Protons move from stroma into the thylakoid space¨Flow of H+back across the thylakoid membrane¤Energizes ATP synthase, which¤Enzymatically produces ATP from ADP + Pi¨This method of producing ATP is called chemiosmosis",
+  "explanation": "Chemiosmosis is the mechanism of ATP production during the light reactions. The thylakoid space functions as a reservoir for hydrogen ions (H+). When water is oxidized (split), two H+ are left behind in the thylakoid space. Additionally, energy released by electron transfer along the ETC is used to pump H+ from the stroma into the thylakoid space. This creates a high concentration of protons inside the thylakoids. The movement of these H+ ions back across the thylakoid membrane down their concentration gradient through the ATP synthase complex energizes the enzyme, allowing it to synthesize ATP from ADP and inorganic phosphate (Pi).",
+  "questions": [
+    {
+      "q": "What is chemiosmosis?",
+      "opts": [
+        "The diffusion of water molecules through stomata during transpiration",
+        "The method of producing ATP driven by the flow of H+ ions across a membrane through ATP synthase",
+        "The active transport of carbon dioxide into mesophyll cells",
+        "The chemical reduction of NADP+ using solar energy at PS I"
+      ],
+      "a": 1,
+      "exp": "The notes describe the flow of H+ back across the membrane energizing ATP synthase to produce ATP, and conclude: 'This method of producing ATP is called chemiosmosis.'"
+    },
+    {
+      "q": "During chemiosmosis, protons (H+) are pumped from where to where to establish the gradient?",
+      "opts": [
+        "From the thylakoid space into the stroma",
+        "From the stroma into the thylakoid space",
+        "From the roots to the leaf vascular tissue",
+        "From the stomata into the mesophyll cells"
+      ],
+      "a": 1,
+      "exp": "The notes state that energy from electron transfer is used to pump H+ across the membrane, and 'Protons move from stroma into the thylakoid space.'"
+    }
+  ]
+}

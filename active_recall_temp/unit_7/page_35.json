@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 35,
+  "filename": "Unit_7_2.txt",
+  "section_title": "Plant Nutrition and Transport",
+  "page_num_in_file": 14,
+  "slide_title": "Transport Mechanisms: Pressure-Flow Model",
+  "original_text": "Transport Mechanisms  Pressure-Flow Model of Phloem Transport Sieve tubes form a continuous pathway for organic nutrient transport. Sieve-tube members are aligned end to end. Strands of plasmodesmata extend through sieve plates between sieve-tube members. Positive pressure drives the movement of sap in sieve tubes. Sucrose is actively transported into phloem at the leaves. Water follows by osmosis, creating positive pressure. The increase in pressure causes flow that moves water and sucrose from the source to the sink (From leaves down to roots for storage)",
+  "explanation": "The pressure-flow model explains the bulk flow of organic nutrients in phloem. Sieve tubes form a continuous pathway, consisting of sieve-tube members aligned end-to-end and connected by sieve plates containing pores through which strands of plasmodesmata extend. Sap movement is driven by positive hydrostatic pressure. At the source (e.g., leaves), sucrose is actively loaded into the sieve-tube members, which lowers their water potential. Water then enters the phloem from the xylem by osmosis, creating high positive pressure at the source. This high pressure forces the sap (water and sucrose) to flow toward the sink (e.g., roots), where sucrose is unloaded and water exits, maintaining the pressure gradient.",
+  "questions": [
+    {
+      "q": "According to the pressure-flow model, what causes the build-up of positive pressure at the source?",
+      "opts": [
+        "Active pumping of water by roots",
+        "Transpiration pull from the stomata",
+        "Active loading of sucrose, followed by the entry of water via osmosis",
+        "The contraction of companion cells"
+      ],
+      "a": 2,
+      "exp": "Sucrose is actively loaded into sieve-tube members at the source. This lowers water potential, causing water to follow by osmosis and generate high positive hydrostatic pressure."
+    },
+    {
+      "q": "Where does the water that enters the phloem at the source come from?",
+      "opts": [
+        "It is absorbed directly from the atmosphere.",
+        "It comes from the xylem by osmosis.",
+        "It is produced during photosynthesis.",
+        "It is released by companion cells."
+      ],
+      "a": 1,
+      "exp": "When sucrose is loaded into the phloem, water moves from the nearby xylem into the phloem by osmosis due to the concentration gradient."
+    }
+  ]
+}

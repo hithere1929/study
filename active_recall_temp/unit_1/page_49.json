@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 49,
+  "filename": "Unit_1_3.txt",
+  "section_title": "The Process of Science",
+  "page_num_in_file": 15,
+  "slide_title": "The Scientific MethodCase Study 2\u2013The noncamouflaged models had a much higher percentage of attacks in the beach and inland habitats and\u2013These data fit the key prediction of the camouflage hypothesis.",
+  "original_text": "\u2013The noncamouflaged models had a much higher percentage of attacks in the beach and inland habitats and\u2013These data fit the key prediction of the camouflage hypothesis.",
+  "explanation": "This slide outlines the results of the mouse camouflage experiment (Case Study 2). The noncamouflaged mouse models suffered a much higher percentage of predatory attacks in both beach and inland habitats. These findings supported the key prediction of the camouflage hypothesis, showing that matching coloration acts as an adaptive defense against predation.",
+  "questions": [
+    {
+      "q": "What were the results of the mouse camouflage experiment in Case Study 2?",
+      "opts": [
+        "Camouflaged models had a higher percentage of attacks.",
+        "Noncamouflaged models had a much higher percentage of attacks in both beach and inland habitats.",
+        "There was no difference in attack rates between the groups.",
+        "Predators did not attack any of the models."
+      ],
+      "a": 1,
+      "exp": "The text states: 'The noncamouflaged models had a much higher percentage of attacks in the beach and inland habitats...'"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 62,
+  "filename": "Unit_3_3.txt",
+  "section_title": "Chromosomes",
+  "page_num_in_file": 3,
+  "slide_title": "Chromosome Structure",
+  "original_text": "Chromosome Structure\nDNA in a human cell contains ~ 3 billion nucleotides\nApprox. size of a basketball \nDNA must be coiled and packaged in such a way that:\nIt fits within the nucleus\nIt can be further compacted during cell division\nIt can be unpackaged for transcription \nDuring cell division DNA is coiled into compact structures: chromosomes\nRod-shaped structures of DNA and proteins\nContain multiple layers of coiling/compaction",
+  "explanation": "Human cellular DNA contains approximately 3 billion nucleotides, which would be about the size of a basketball if fully extended. To be functional, this DNA must be coiled and packaged to: (1) fit within the microscopic nucleus, (2) compact further during cell division, and (3) remain capable of unpackaging for gene transcription. During cell division, DNA is coiled into highly compact, rod-shaped structures composed of DNA and proteins called chromosomes, which feature multiple layers of compaction.",
+  "questions": [
+    {
+      "q": "Approximately how many nucleotides does the DNA in a single human cell contain?",
+      "opts": [
+        "3 million",
+        "30 million",
+        "300 million",
+        "3 billion"
+      ],
+      "a": 3,
+      "exp": "The slide states that DNA in a human cell contains approximately 3 billion nucleotides."
+    },
+    {
+      "q": "Why must DNA be carefully coiled and packaged within the cell?",
+      "opts": [
+        "To prevent it from leaving the cell through the plasma membrane",
+        "To fit within the nucleus, compact during cell division, and allow unpackaging for transcription",
+        "To convert DNA into protein molecules directly",
+        "To isolate it from the nuclear matrix"
+      ],
+      "a": 1,
+      "exp": "DNA must be packaged to fit inside the nucleus, compact for cell division, and be accessible (unpackageable) for transcription."
+    }
+  ]
+}

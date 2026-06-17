@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 30,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 15,
+  "slide_title": "ER Structure",
+  "original_text": "ER Structure",
+  "explanation": "This page serves as a transition or title slide for ER (Endoplasmic Reticulum) Structure.",
+  "questions": [
+    {
+      "q": "What is the title of this slide?",
+      "opts": [
+        "ER Structure",
+        "Rough ER Function",
+        "Smooth ER Function",
+        "Golgi Apparatus"
+      ],
+      "a": 0,
+      "exp": "The slide is titled 'ER Structure'."
+    }
+  ]
+}

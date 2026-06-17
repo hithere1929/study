@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 122,
+  "filename": "Unit_7_7.txt",
+  "section_title": "Respiratory System",
+  "page_num_in_file": 5,
+  "slide_title": "Gas Exchange Surfaces: Gills & Countercurrent Exchange",
+  "original_text": "Gas Exchange Surfaces Aquatic Invertebrates & Vertebrates Gillsused to extract oxygen from water Gills highly vascularized Use countercurrent exchange Water flows in the opposite direction of of oxygen-depleted blood Results in maximized exchange with air from water environment nIf concurrent system was used, air would reach an equilibrium point, instead of gills being able to extract up to 90% of air content from water",
+  "explanation": "Gills are highly vascularized respiratory organs used by aquatic animals to extract dissolved oxygen from water. Gills maximize efficiency using countercurrent exchange, where water flows in the opposite direction to the flow of oxygen-depleted blood in the capillaries. This maintains a concentration gradient along the entire contact length, allowing gills to extract up to 90% of the oxygen from the water. If a concurrent system (same direction) were used, oxygen concentration would rapidly reach equilibrium, halting diffusion.",
+  "questions": [
+    {
+      "q": "What is the key mechanism of countercurrent exchange in fish gills?",
+      "opts": [
+        "Water and blood flow in the same direction to reach rapid equilibrium.",
+        "Water and blood flow in opposite directions to maintain a concentration gradient and maximize oxygen extraction.",
+        "Oxygen is actively pumped into the capillaries using ATP.",
+        "Air is stored in internal sacs to prevent mixing with used water."
+      ],
+      "a": 1,
+      "exp": "Countercurrent exchange means water and blood flow in opposite directions. This prevents the two fluids from reaching equilibrium, allowing continuous oxygen diffusion across the gill surface."
+    },
+    {
+      "q": "What percentage of dissolved oxygen can gills extract from water using countercurrent exchange?",
+      "opts": [
+        "1-2%",
+        "25%",
+        "50%",
+        "Up to 90%"
+      ],
+      "a": 3,
+      "exp": "The highly efficient countercurrent exchange system allows gills to extract up to 90% of the dissolved oxygen from water."
+    }
+  ]
+}

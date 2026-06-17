@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 58,
+  "filename": "Unit_4_4.txt",
+  "section_title": "Gene Expression",
+  "page_num_in_file": 7,
+  "slide_title": "trpOperon¨Always ”on” operon unless regulated¤Known as a repressible operon¤Repressible operons usually associated with anabolic processes¨Structural genes in this operon code for 5 enzymes used in synthesis of tryptophan for use by the cell¨When no tryptophan present, genes are transcribed and enzymes to make tryptophan created.¨If tryptophan present, enzymes are not needed¤Tryptophan binds to the repressor protein¤Repressor changes shape due to binding, and can now bind to the operator, blocking the promoter¤Structural genes not expressednTryptophan is a co-repressor",
+  "original_text": "trpOperon¨Always ”on” operon unless regulated¤Known as a repressible operon¤Repressible operons usually associated with anabolic processes¨Structural genes in this operon code for 5 enzymes used in synthesis of tryptophan for use by the cell¨When no tryptophan present, genes are transcribed and enzymes to make tryptophan created.¨If tryptophan present, enzymes are not needed¤Tryptophan binds to the repressor protein¤Repressor changes shape due to binding, and can now bind to the operator, blocking the promoter¤Structural genes not expressednTryptophan is a co-repressor",
+  "explanation": "The trp operon is a repressible operon, which is normally in an 'on' state (active) unless regulated. Repressible operons are typically associated with anabolic (biosynthetic) pathways. The structural genes of the trp operon code for 5 enzymes required to synthesize the amino acid tryptophan. When tryptophan is absent from the environment, the operon's genes are transcribed, allowing the cell to produce tryptophan. However, if tryptophan is present, the cell does not need to make its own. Tryptophan acts as a co-repressor: it binds to the inactive repressor protein, causing the repressor to change shape and bind to the operator. This blocks RNA polymerase from binding to the promoter, stopping transcription of the structural genes.",
+  "questions": [
+    {
+      "q": "What role does tryptophan play in the regulation of the trp operon?",
+      "opts": [
+        "It acts as an inducer that turns the operon on.",
+        "It acts as a co-repressor that binds to the repressor, allowing it to block transcription.",
+        "It binds to RNA polymerase to speed up transcription.",
+        "It degrades the operator DNA sequence directly."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states 'Tryptophan binds to the repressor protein... and can now bind to the operator, blocking the promoter... Tryptophan is a co-repressor.' Option A is incorrect because tryptophan turns the operon off, not on. Options C and D are incorrect."
+    },
+    {
+      "q": "Repressible operons, like the trp operon, are typically associated with which type of metabolic process?",
+      "opts": [
+        "Catabolic processes (breaking down molecules)",
+        "Anabolic processes (synthesizing molecules)",
+        "Photosynthetic processes",
+        "Anaerobic respiration"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'Repressible operons usually associated with anabolic processes.' Catabolic processes (Option A) are typically associated with inducible operons. Options C and D are incorrect."
+    }
+  ]
+}

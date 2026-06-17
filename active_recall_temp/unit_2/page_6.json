@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 6,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 6,
+  "slide_title": "1: Atoms",
+  "original_text": "1: Atoms¨Atomic number: number of protons in the atom¨Atomic mass (Mass Number): number of protons + number of neutrons in the atom¤Together, these can be used to determine the number of neutrons in the nucleus¨Amount of charge in the atom is balanced¤Number of protons (+) = number of electrons (-)¤Atoms are neutral: 0 net charge",
+  "explanation": "The atomic number represents the number of protons in an atom, whereas the atomic mass (or Mass Number) is the sum of the protons and neutrons. By subtracting the atomic number (protons) from the atomic mass (protons + neutrons), the number of neutrons in the nucleus can be determined. In a neutral atom, the electrical charge is balanced: the number of positively charged protons is equal to the number of negatively charged electrons, resulting in a net charge of zero.",
+  "questions": [
+    {
+      "q": "How can the number of neutrons in an atom's nucleus be calculated?",
+      "opts": [
+        "By adding the atomic number to the atomic mass.",
+        "By subtracting the number of electrons from the number of protons.",
+        "By subtracting the atomic number (number of protons) from the atomic mass (Mass Number).",
+        "By dividing the atomic mass by the atomic number."
+      ],
+      "a": 2,
+      "exp": "Subtracting the atomic number (number of protons) from the atomic mass (protons + neutrons) yields the number of neutrons."
+    },
+    {
+      "q": "Why do neutral atoms have a net charge of zero?",
+      "opts": [
+        "They contain only neutrons, which have no charge.",
+        "The number of positively charged protons equals the number of negatively charged electrons.",
+        "The electrons reside in the nucleus, cancelling the protons' charge.",
+        "They have no electrons."
+      ],
+      "a": 1,
+      "exp": "Atoms are neutral because the amount of charge is balanced: the number of positive protons equals the number of negative electrons, giving a net charge of zero."
+    }
+  ]
+}

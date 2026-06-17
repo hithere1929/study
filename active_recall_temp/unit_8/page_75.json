@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 75,
+  "filename": "Unit_8_5.txt",
+  "section_title": "Cellular Respiration",
+  "page_num_in_file": 3,
+  "slide_title": "Cellular Respiration ¨Cellular respiration is a cellular process that breaks down nutrient molecules and the associated production of ATP¨Consumes oxygen and produces carbon dioxide (CO2)¤Cellular respiration is an aerobic process.¨Usually involves the breakdown of glucose to CO2and H2O¤Energy is extracted from the glucose molecule:nReleased step-wisenAllows ATP to be produced efficiently¤Oxidation-reduction enzymes include NAD+and FAD as coenzymes\n¤Electrons are removed from substrates and received by oxygen, which combines with H+to become water.¤Glucose is oxidized and O2is reduced",
+  "original_text": "Cellular Respiration ¨Cellular respiration is a cellular process that breaks down nutrient molecules and the associated production of ATP¨Consumes oxygen and produces carbon dioxide (CO2)¤Cellular respiration is an aerobic process.¨Usually involves the breakdown of glucose to CO2and H2O¤Energy is extracted from the glucose molecule:nReleased step-wisenAllows ATP to be produced efficiently¤Oxidation-reduction enzymes include NAD+and FAD as coenzymes\n¤Electrons are removed from substrates and received by oxygen, which combines with H+to become water.¤Glucose is oxidized and O2is reduced",
+  "explanation": "Cellular respiration is a cellular process that breaks down nutrient molecules to produce ATP. Because it consumes oxygen and produces carbon dioxide (CO2), it is classified as an aerobic process. Respiration typically involves the complete breakdown of glucose into CO2 and H2O. Energy is extracted from the glucose molecule through a step-wise series of reactions, allowing ATP to be synthesized with high efficiency. Oxidation-reduction enzymes in the pathway employ NAD+ and FAD as coenzymes. During these redox reactions, electrons are removed from substrates and accepted by oxygen, which subsequently combines with H+ to become water. Ultimately, glucose is oxidized and oxygen (O2) is reduced.",
+  "questions": [
+    {
+      "q": "Why is cellular respiration described as an aerobic process?",
+      "opts": [
+        "It produces glucose and water.",
+        "It consumes oxygen and produces carbon dioxide.",
+        "It takes place entirely outside the mitochondria.",
+        "It does not require any coenzymes like NAD+ or FAD."
+      ],
+      "a": 1,
+      "exp": "The notes state that cellular respiration 'Consumes oxygen and produces carbon dioxide (CO2)' and is therefore an 'aerobic process.'"
+    },
+    {
+      "q": "What happens to glucose and oxygen during cellular respiration in terms of redox chemistry?",
+      "opts": [
+        "Glucose is reduced and oxygen is oxidized.",
+        "Glucose is oxidized and oxygen is reduced.",
+        "Both glucose and oxygen are oxidized.",
+        "Both glucose and oxygen are reduced."
+      ],
+      "a": 1,
+      "exp": "The notes explicitly state: 'Glucose is oxidized and O2 is reduced.'"
+    }
+  ]
+}

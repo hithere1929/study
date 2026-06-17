@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 71,
+  "filename": "Unit_6_6.txt",
+  "section_title": "Invertebrates",
+  "page_num_in_file": 4,
+  "slide_title": "Animal Phylogenetic Tree\u00a8Major branchingsin the tree occur based on the following criteria:\u00a4SymmetrynCan be radial(like a wheel) or bilateral(left and right along a single longitudinal line)\u00a4Embryonic DevelopmentnOrganisms can have tissue layersnDiploblastic-2 layersnTissues developed buno specialized organsnTriploblastic\u20133 layersnEcto, meso, & endodermnOrganisms either protostomes(mouth develops before anus) or deuterostomes (anus develops before mouth)nOther branchingsbetween protostomes and deuterostomes based on cleavage of cells, blastula formation, and coelom development",
+  "original_text": "Animal Phylogenetic Tree\u00a8Major branchingsin the tree occur based on the following criteria:\u00a4SymmetrynCan be radial(like a wheel) or bilateral(left and right along a single longitudinal line)\u00a4Embryonic DevelopmentnOrganisms can have tissue layersnDiploblastic-2 layersnTissues developed buno specialized organsnTriploblastic\u20133 layersnEcto, meso, & endodermnOrganisms either protostomes(mouth develops before anus) or deuterostomes (anus develops before mouth)nOther branchingsbetween protostomes and deuterostomes based on cleavage of cells, blastula formation, and coelom development",
+  "explanation": "Major branches in the animal phylogenetic tree are established based on: 1) Symmetry: radial (organized around a central axis like a wheel) or bilateral (divided into left and right halves along a single longitudinal line); 2) Embryonic Development, specifically tissue layer number: diploblastic organisms have 2 tissue layers (tissues are developed but specialized organs are absent), whereas triploblastic organisms have 3 germ layers (ectoderm, mesoderm, and endoderm); and 3) Gastrulation patterns: organisms are either protostomes (mouth develops before the anus) or deuterostomes (anus develops before the mouth). Cleavage of cells, blastula formation, and coelom development also differentiate protostomes and deuterostomes.",
+  "questions": [
+    {
+      "q": "What is the defining tissue layer difference between diploblastic and triploblastic animals?",
+      "opts": [
+        "Diploblastic has 1 layer, triploblastic has 2.",
+        "Diploblastic has 2 layers (tissues developed, no specialized organs), while triploblastic has 3 layers (ectoderm, mesoderm, and endoderm).",
+        "Diploblastic has radial symmetry, while triploblastic has bilateral symmetry.",
+        "Diploblastic develops the mouth first, while triploblastic develops the anus first."
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Diploblastic-2 layers Tissues developed but no specialized organs' and 'Triploblastic\u20133 layers Ecto, meso, & endoderm'."
+    },
+    {
+      "q": "How are protostomes distinguished from deuterostomes during embryonic development?",
+      "opts": [
+        "In protostomes, the anus develops before the mouth; in deuterostomes, the mouth develops first.",
+        "In protostomes, the mouth develops before the anus; in deuterostomes, the anus develops before the mouth.",
+        "Protostomes lack tissue layers, whereas deuterostomes are triploblastic.",
+        "Protostomes have radial symmetry, while deuterostomes are bilateral."
+      ],
+      "a": 1,
+      "exp": "The notes state: 'protostomes(mouth develops before anus) or deuterostomes (anus develops before mouth)'."
+    },
+    {
+      "q": "What are the three embryonic germ layers in triploblastic animals?",
+      "opts": [
+        "Calyx, corolla, and receptacle",
+        "Ectoderm, mesoderm, and endoderm",
+        "Mycelium, hyphae, and septa",
+        "Stolon, rhizoid, and sporangiophore"
+      ],
+      "a": 1,
+      "exp": "The notes list the three layers as 'Ecto, meso, & endoderm'."
+    }
+  ]
+}

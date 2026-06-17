@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 51,
+  "filename": "Unit_4_3.txt",
+  "section_title": "DNA Replication, Transcription, Translation",
+  "page_num_in_file": 32,
+  "slide_title": "The Human Genome¨Entire sequence of human genome is known¤All 3.2 billion bases and 23 chromosomes¨How do we compute that much data and pull information out of it?¨Bioinformatics: field that applies computer science to biological systems¤Can quickly compare many different DNA sequences¤Can interpret DNA sequence and find the location of a gene on a chromosome¨Still working on determining where/when cells use proteins coded in the ~20-30,000 genes in the genome¨Why?¨Knowing the gene sequence that controls a biological function can help diagnose, treat, prevent genetic disorders, cancer, infectious diseases",
+  "original_text": "The Human Genome¨Entire sequence of human genome is known¤All 3.2 billion bases and 23 chromosomes¨How do we compute that much data and pull information out of it?¨Bioinformatics: field that applies computer science to biological systems¤Can quickly compare many different DNA sequences¤Can interpret DNA sequence and find the location of a gene on a chromosome¨Still working on determining where/when cells use proteins coded in the ~20-30,000 genes in the genome¨Why?¨Knowing the gene sequence that controls a biological function can help diagnose, treat, prevent genetic disorders, cancer, infectious diseases",
+  "explanation": "The entire sequence of the human genome is known, encompassing approximately 3.2 billion base pairs organized across 23 chromosomes. To analyze and extract information from this massive amount of data, scientists rely on bioinformatics, a field that applies computer science, statistics, and mathematics to biological systems. Bioinformatics allows researchers to rapidly compare diverse DNA sequences and interpret genomic data to map the locations of specific genes on chromosomes. Although we know the sequences, scientists are still working to determine when and where cells express the proteins coded by the estimated 20,000 to 30,000 genes in our genome. Understanding these gene sequences and their regulatory pathways is vital for diagnosing, treating, and preventing genetic disorders, cancer, and infectious diseases.",
+  "questions": [
+    {
+      "q": "What is 'bioinformatics'?",
+      "opts": [
+        "The study of marine biological ecosystems",
+        "A field that applies computer science to biological systems to manage and analyze genomic data",
+        "The chemical synthesis of artificial nucleotide bases",
+        "A medical procedure used to insert genes into cells"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide defines bioinformatics as a 'field that applies computer science to biological systems' that 'can quickly compare many different DNA sequences' and 'interpret DNA sequence.' The other options are incorrect."
+    },
+    {
+      "q": "Approximately how many base pairs and protein-coding genes are estimated to be in the human genome, according to the slide?",
+      "opts": [
+        "3.2 million base pairs; 5,000 genes",
+        "3.2 billion base pairs; 20-30,000 genes",
+        "300 million base pairs; 100,000 genes",
+        "3.2 billion base pairs; 1 million genes"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide lists '3.2 billion bases' and '~20-30,000 genes.' The other options are incorrect."
+    }
+  ]
+}

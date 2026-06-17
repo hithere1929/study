@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 69,
+  "filename": "Unit_1_5.txt",
+  "section_title": "Biotechnology and Bioethics",
+  "page_num_in_file": 4,
+  "slide_title": "Careers in Biology",
+  "original_text": "\u2013What can you do with a biology degree?\u2013Research Scientist\u2013Physician\u2013Pharmacologist\u2013Ecologist\u2013Nature Conservation Officer\u2013Biotechnologist\u2013Forensic Scientist\u2013Government Agency and Policy Roles\u2013Science Writer\u2013Bioengineer\u2013Patent Attorney\u2013Teacher\u2013More, and more, and more",
+  "explanation": "This slide lists several career paths that can be pursued with a degree in biology. These roles include Research Scientist, Physician, Pharmacologist, Ecologist, Nature Conservation Officer, Biotechnologist, Forensic Scientist, Government Agency and Policy Roles, Science Writer, Bioengineer, Patent Attorney, and Teacher, among many others.",
+  "questions": [
+    {
+      "q": "Which of the following is listed on the slide as a potential career for someone with a biology degree?",
+      "opts": [
+        "Computer Programmer",
+        "Patent Attorney or Nature Conservation Officer",
+        "Aerospace Engineer",
+        "Financial Analyst"
+      ],
+      "a": 1,
+      "exp": "The slide lists 'Nature Conservation Officer' and 'Patent Attorney' in its list of careers in biology."
+    }
+  ]
+}

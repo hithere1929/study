@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 89,
+  "filename": "Unit_8_5.txt",
+  "section_title": "Cellular Respiration",
+  "page_num_in_file": 17,
+  "slide_title": "Inside the Mitochondria¨Energy yield from glucose metabolism:¨Net yield per glucose:¤From glycolysis –2 ATP¤From citric acid cycle –2 ATP¤From electron transport chain –32 or 34 ATPn# will differ based on how NADH & FADH2arrive at ETC¨Energy content:¤Reactant (glucose)= 686 kcal¤Energy yield (36 ATP)= 263 kcal (7.3kcal/ATP P-bond)¤Efficiency is 39%nThe rest of the energy from glucose is lost as heat",
+  "original_text": "Inside the Mitochondria¨Energy yield from glucose metabolism:¨Net yield per glucose:¤From glycolysis –2 ATP¤From citric acid cycle –2 ATP¤From electron transport chain –32 or 34 ATPn# will differ based on how NADH & FADH2arrive at ETC¨Energy content:¤Reactant (glucose)= 686 kcal¤Energy yield (36 ATP)= 263 kcal (7.3kcal/ATP P-bond)¤Efficiency is 39%nThe rest of the energy from glucose is lost as heat",
+  "explanation": "The overall energy yield of glucose metabolism produces a net yield of 2 ATP from glycolysis, 2 ATP from the citric acid cycle, and 32 or 34 ATP from the electron transport chain (yielding a total of 36 or 38 ATP per glucose). This number varies depending on how cytoplasmic NADH and FADH2 enter the mitochondria. One mole of reactant glucose contains 686 kcal of energy. Capturing this energy in 36 ATP molecules yields 263 kcal (valuing each ATP phosphate bond at 7.3 kcal). Thus, the energy efficiency of aerobic respiration is 39%, with the remaining 61% of energy lost to the environment as heat.",
+  "questions": [
+    {
+      "q": "What is the calculated energy efficiency of aerobic cellular respiration from a glucose molecule?",
+      "opts": [
+        "10%",
+        "39%",
+        "61%",
+        "100%"
+      ],
+      "a": 1,
+      "exp": "The notes show that glucose input is 686 kcal and 36 ATP yields 263 kcal, resulting in an efficiency of '39%'."
+    },
+    {
+      "q": "What happens to the remaining energy in glucose that is not captured in ATP during cellular respiration?",
+      "opts": [
+        "It is used to synthesize more glucose.",
+        "It is stored in the thylakoid membrane.",
+        "It is lost as heat energy.",
+        "It is used to fix nitrogen gas."
+      ],
+      "a": 2,
+      "exp": "The notes state: 'The rest of the energy from glucose is lost as heat.'"
+    }
+  ]
+}

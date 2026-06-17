@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 18,
+  "filename": "Unit_5_1.txt",
+  "section_title": "Darwin & Evidence for Evolution",
+  "page_num_in_file": 18,
+  "slide_title": "Evidence of Evolution",
+  "original_text": "Evidence of Evolution\n\u00a8Anatomical Evidence\n\u00a4Vertebrate forelimbs:\n   nHomologous structures -All contain the same sets of organized bones in similar ways\n   nYet they are modified extensively to meet various adaptive needs\n   nDarwin interpreted this as support for a hypothesis of common descent\n\u00a4Embryological development\n   nAll vertebrate embryos have:\n   nA postanaltail and Paired pharyngeal (gill) pouches",
+  "explanation": "Anatomical evidence for evolution includes homologous structures and embryological similarities. Vertebrate forelimbs are homologous structures because they all contain the same basic arrangements of organized bones put together in similar ways, despite being modified to serve different adaptive needs (such as swimming, flying, or running). Darwin interpreted these similarities as strong evidence of common descent. Additionally, embryological development displays shared ancestry; all vertebrate embryos, at some point during their early development, possess a postanal tail and paired pharyngeal (gill) pouches, regardless of their final adult form.",
+  "questions": [
+    {
+      "q": "What did Darwin interpret homologous structures in vertebrate forelimbs as evidence of?",
+      "opts": [
+        "Organisms modifying their anatomy through use and disuse during their lifetime",
+        "Independent creation of species in similar habitats",
+        "A hypothesis of common descent",
+        "A rapid process of catastrophism"
+      ],
+      "a": 2,
+      "exp": "Darwin interpreted the shared bone layouts in vertebrate forelimbs (homologous structures) as support for the hypothesis of common descent."
+    },
+    {
+      "q": "Which two anatomical features are shared by all vertebrate embryos during early development?",
+      "opts": [
+        "Lungs and feathers",
+        "A postanal tail and paired pharyngeal pouches",
+        "Binomial nomenclature and scales",
+        "Hox genes and specialized forelimbs"
+      ],
+      "a": 1,
+      "exp": "The notes state that all vertebrate embryos have a postanal tail and paired pharyngeal (gill) pouches during embryological development."
+    }
+  ]
+}

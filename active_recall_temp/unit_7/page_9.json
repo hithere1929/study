@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 9,
+  "filename": "Unit_7_1.txt",
+  "section_title": "Plant Structure & Organization",
+  "page_num_in_file": 9,
+  "slide_title": "Tissues of Flowering Plants: Vascular Tissue - Xylem",
+  "original_text": "Tissues of Flowering Plants Vascular Tissue Xylemtransports water and minerals from the roots to the leaves Tracheids Long, with tapered ends Water moves across pits in end walls and side walls Vascular rays between rows of tracheidsconduct water across the width of the plant Vessel Elements Larger, with perforated plates in their end walls Form a continuous vessel for water and mineral transport",
+  "explanation": "Vascular tissue in plants is specialized for transport. Xylem is the vascular tissue responsible for conducting water and dissolved minerals from the root system upward to the leaves. It contains two main types of water-conducting cells: tracheids and vessel elements. Tracheids are elongated cells with tapered, overlapping ends. Water moves from cell to cell through pits in their end and side walls. Running between rows of tracheids are vascular rays, which function to conduct water laterally across the width of the stem or root. Vessel elements are wider cells that feature perforated plates in their end walls, aligning end-to-end to form continuous, tube-like vessel systems for efficient longitudinal water transport.",
+  "questions": [
+    {
+      "q": "Which conducting cells in xylem have perforated plates in their end walls and align end-to-end to form a continuous transport tube?",
+      "opts": [
+        "Tracheids",
+        "Vessel elements",
+        "Sieve-tube members",
+        "Vascular rays"
+      ],
+      "a": 1,
+      "exp": "Vessel elements are larger cells with perforated plates in their end walls that form continuous tubes for water transport. Tracheids are tapered and transport water through pits."
+    },
+    {
+      "q": "What is the role of vascular rays within the xylem tissue?",
+      "opts": [
+        "To carry sucrose from leaves to roots",
+        "To conduct water horizontally across the width of the plant",
+        "To produce new epidermal cover in woody stems",
+        "To divide and form new tracheids"
+      ],
+      "a": 1,
+      "exp": "Vascular rays conduct water laterally (across the width of the plant) between rows of tracheids."
+    }
+  ]
+}

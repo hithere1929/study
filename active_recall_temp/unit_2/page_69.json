@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 69,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 33,
+  "slide_title": "3: Steroids",
+  "original_text": "3: Steroids¨Steroid: molecules composed of 4 fused carbon rings with various functional groupsattached¨Many animal hormonesare steroids¤Testosterone, growth hormones¨Cholesterolis a steroid¤Necessary for nerve and other cells to function properly¤Component of the cell                                       membrane\nnMaintains fluidity of the                                          membrane",
+  "explanation": "Steroids are lipid molecules composed of four fused carbon rings with various functional groups attached. Unlike other lipids, they do not contain fatty acid chains. Many animal hormones are steroids, including testosterone and growth hormones. Cholesterol is also a steroid and is essential for the proper functioning of nerve and other cells. It is also an important component of animal cell membranes, where it helps maintain membrane fluidity.",
+  "questions": [
+    {
+      "q": "What is the unique structural characteristic of a steroid?",
+      "opts": [
+        "A glycerol backbone with three fatty acid tails.",
+        "A long fatty acid chain linked to a long alcohol chain.",
+        "Four fused carbon rings with attached functional groups.",
+        "A double helix of nucleotides."
+      ],
+      "a": 2,
+      "exp": "Steroids are defined structurally by having four fused carbon rings rather than fatty acid chains."
+    },
+    {
+      "q": "What is the function of cholesterol in the cell membrane?",
+      "opts": [
+        "It acts as an enzyme to speed up reactions.",
+        "It forms a channel to transport water.",
+        "It helps maintain membrane fluidity.",
+        "It binds to DNA to turn off genes."
+      ],
+      "a": 2,
+      "exp": "Cholesterol resides within the cell membrane and functions to maintain membrane fluidity."
+    }
+  ]
+}

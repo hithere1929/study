@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 136,
+  "filename": "Unit_7_7.txt",
+  "section_title": "Respiratory System",
+  "page_num_in_file": 19,
+  "slide_title": "Respiration and Human Health: Lower Respiratory Disorders",
+  "original_text": "Respiration and Human Health Disorders of the Lower Respiratory Tract Trachea and Bronchi Choking Acute bronchitis Infection of primary and secondary bronchi Chronic bronchitis Airways become inflamed and filled with mucus Asthma Airways are unusually sensitive to specific irritants When exposed to these irritants, smooth muscles in the bronchioles undergo spasms",
+  "explanation": "Lower respiratory tract disorders affecting the trachea and bronchi include: 1) Choking: mechanical blockage of the windpipe. 2) Acute bronchitis: a temporary infection of the primary and secondary bronchi. 3) Chronic bronchitis: a long-term condition where the bronchial airways become inflamed and filled with excess mucus. 4) Asthma: a disease where the airways are hypersensitive to specific irritants (like pollen or dust). Exposure to these triggers spasms in the smooth muscles of the bronchioles, causing constriction and breathing difficulty.",
+  "questions": [
+    {
+      "q": "What happens in the bronchioles during an asthma attack?",
+      "opts": [
+        "The cartilage rings collapse completely.",
+        "The smooth muscles in the bronchioles undergo spasms and constrict the airways.",
+        "Alveoli fill with fluid and burst.",
+        "Fibrous connective tissue builds up around the trachea."
+      ],
+      "a": 1,
+      "exp": "Asthma triggers cause the smooth muscles wrapping the bronchioles to spasm, narrowing the air passage and hindering breathing."
+    },
+    {
+      "q": "How does chronic bronchitis differ from acute bronchitis?",
+      "opts": [
+        "Chronic bronchitis involves viral pharyngitis, while acute bronchitis is bacterial.",
+        "Chronic bronchitis involves long-term airway inflammation and mucus buildup, whereas acute bronchitis is a temporary infection of the bronchi.",
+        "Chronic bronchitis causes the epiglottis to fail, while acute bronchitis affects the lungs.",
+        "Chronic bronchitis is treated with bronchiole spasms, while acute bronchitis is treated with a bellows system."
+      ],
+      "a": 1,
+      "exp": "Acute bronchitis is a short-term infection of the main bronchi, whereas chronic bronchitis is a chronic inflammatory state with heavy mucus production."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 29,
+  "filename": "Unit_7_2.txt",
+  "section_title": "Plant Nutrition and Transport",
+  "page_num_in_file": 8,
+  "slide_title": "Transport Mechanisms: Vascular Tissues",
+  "original_text": "Transport Mechanisms Vascular tissues transport water and nutrients. Xylemtransports water and minerals. Two types of conducting cells Tracheids Vessel elements Water flows passively from an area of higher water potential to an area of lower water potential. Phloemtransports organic materials. Conducting cells are sieve-tube members. They have companion cells to provide proteins. End walls are sieve plates. Plasmodesmata extend through sieve plates.",
+  "explanation": "Plant vascular tissues are specialized for the transport of fluids and nutrients. Xylem transports water and dissolved mineral ions upward from roots to shoots. It contains two types of dead conducting cells: tracheids and vessel elements. Water transport in the xylem is passive, flowing from regions of higher water potential to regions of lower water potential. Phloem transports organic compounds (such as sucrose) throughout the plant. Its conducting cells are sieve-tube members, which lack nuclei at maturity and are supported by companion cells that supply them with proteins. The end walls of sieve-tube members are called sieve plates, which feature pores through which cytoplasmic strands (plasmodesmata) connect adjacent cells.",
+  "questions": [
+    {
+      "q": "Water flows passively through the xylem from areas of:",
+      "opts": [
+        "Lower water potential to higher water potential",
+        "Higher water potential to lower water potential",
+        "Higher solute concentration to lower solute concentration",
+        "Negative pressure to positive pressure"
+      ],
+      "a": 1,
+      "exp": "Water moves passively from regions of higher water potential to regions of lower water potential."
+    },
+    {
+      "q": "What structures extend through the pores in sieve plates to connect adjacent sieve-tube members?",
+      "opts": [
+        "Tracheids",
+        "Plasmodesmata",
+        "Companion cells",
+        "Vessel elements"
+      ],
+      "a": 1,
+      "exp": "Plasmodesmata are cytoplasmic strands that extend through the pores of sieve plates, connecting adjacent sieve-tube members."
+    }
+  ]
+}

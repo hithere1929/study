@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 57,
+  "filename": "Unit_5_3.txt",
+  "section_title": "Speciation & Macroevolution",
+  "page_num_in_file": 8,
+  "slide_title": "How New Species Evolve",
+  "original_text": "How New Species Evolve\n\u00a8Biological Species Concept\n\u00a4Populations of the same species breed only among themselves\n\u00a4Experience reproductive isolation from other such populations\n\u00a4Often cannot be tested, because very few species in nature overlap in their distribution to even observe reproductive isolation",
+  "explanation": "The Biological Species Concept defines a species as a group of populations whose members breed only among themselves in nature, meaning they are reproductively isolated from other such populations. A significant drawback of this concept is that it is often difficult or impossible to test; very few species in nature have overlapping geographic distributions, making it rare for scientists to actually observe whether they would remain reproductively isolated if they came into contact.",
+  "questions": [
+    {
+      "q": "How does the Biological Species Concept define a species?",
+      "opts": [
+        "By their shared evolutionary family tree and DNA sequences",
+        "As populations that breed only among themselves and are reproductively isolated from other populations",
+        "By the presence of shared diagnostic anatomical structures",
+        "As organisms that occupy different layers of the fossil record"
+      ],
+      "a": 1,
+      "exp": "The biological species concept defines species based on reproductive behavior: they breed only among themselves and are reproductively isolated from other populations."
+    },
+    {
+      "q": "What is a major limitation of the Biological Species Concept?",
+      "opts": [
+        "It cannot be applied to organisms that reproduce sexually.",
+        "It relies too heavily on subjective anatomical traits.",
+        "It often cannot be tested because species' distributions rarely overlap in nature to allow observation of reproductive isolation.",
+        "It is restricted only to bacterial classifications."
+      ],
+      "a": 2,
+      "exp": "Since many species are geographically separated, scientists cannot easily test or observe if they would remain reproductively isolated if they met."
+    }
+  ]
+}

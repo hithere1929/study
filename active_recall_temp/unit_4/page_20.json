@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 20,
+  "filename": "Unit_4_2.txt",
+  "section_title": "DNA Structure",
+  "page_num_in_file": 6,
+  "slide_title": "Sugar-phosphatebackbone",
+  "original_text": "Sugar-phosphatebackbone\nCovalentbondjoiningnucleotides\nPhosphategroupNitrogenousbaseSugar\nDNAnucleotide\nA\nT\nG\nG\nC\nPartial chemical structure\nHydrogen bond\nC\nA\nT\nGC\nT\nA\nG",
+  "explanation": "This slide provides a diagram showing the partial chemical structure of a DNA double helix. It highlights the sugar-phosphate backbone on each side, the covalent phosphodiester bonds that link the sugar of one nucleotide to the phosphate group of the next, and the hydrogen bonds connecting complementary nitrogenous bases (A with T, G with C) in the center of the double-stranded molecule.",
+  "questions": [
+    {
+      "q": "Based on the structural diagram, which type of bond holds the complementary base pairs together in the middle of the DNA double helix?",
+      "opts": [
+        "Covalent bond",
+        "Ionic bond",
+        "Hydrogen bond",
+        "Peptide bond"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the diagram labels 'Hydrogen bond' pointing to the bonds between the base pairs in the center of the DNA molecule. The covalent bond (Option A) connects the nucleotides along a single backbone."
+    }
+  ]
+}

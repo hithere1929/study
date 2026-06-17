@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 65,
+  "filename": "Unit_7_4.txt",
+  "section_title": "Plant Reproduction",
+  "page_num_in_file": 11,
+  "slide_title": "Seed Development: Embryonic Stages",
+  "original_text": "Seed Development During the globular stage, the proembryo is a ball of cells The outermost cells will become dermal tissue Heart and Torpedo Stages The embryo is heart shaped when cotyledonsappear The embryo enlarges, elongates, and takes on a torpedo shape Mature Embryo The epicotylis the portion between cotyledons contributing to shoot development The hypocotylis the portion below that contributes to stem development The radicleis the embryonic root",
+  "explanation": "The developing eudicot embryo transitions through several stages: 1) Globular stage: the proembryo is a ball of cells, and its outer layer is destined to differentiate into dermal tissue. 2) Heart stage: the embryo becomes heart-shaped as two cotyledons emerge. 3) Torpedo stage: the embryo enlarges and elongates. 4) Mature embryo: exhibits defined structures: the epicotyl (the region above cotyledon attachment that develops into the shoot), the hypocotyl (the region below cotyledon attachment that contributes to stem development), and the radicle (the embryonic root).",
+  "questions": [
+    {
+      "q": "Which embryonic region is responsible for developing into the root of the plant?",
+      "opts": [
+        "Epicotyl",
+        "Hypocotyl",
+        "Radicle",
+        "Suspensor"
+      ],
+      "a": 2,
+      "exp": "The radicle is the embryonic root of the plant."
+    },
+    {
+      "q": "What is the developmental sequence of stages for a eudicot embryo?",
+      "opts": [
+        "Globular -> Torpedo -> Heart -> Mature",
+        "Globular -> Heart -> Torpedo -> Mature",
+        "Heart -> Globular -> Torpedo -> Mature",
+        "Torpedo -> Globular -> Heart -> Mature"
+      ],
+      "a": 1,
+      "exp": "The embryo develops from a globular stage (ball of cells) to a heart stage (cotyledons appear), then elongates into a torpedo shape, and finally becomes a mature embryo."
+    },
+    {
+      "q": "What will the outermost cells of the globular stage proembryo become?",
+      "opts": [
+        "Vascular tissue",
+        "Ground tissue",
+        "Dermal tissue",
+        "Endosperm"
+      ],
+      "a": 2,
+      "exp": "During the globular stage, the outermost cells of the proembryo are determined to develop into dermal tissue."
+    }
+  ]
+}

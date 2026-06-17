@@ -1,0 +1,34 @@
+{
+  "unit": 1,
+  "page": 37,
+  "filename": "Unit_1_3.txt",
+  "section_title": "The Process of Science",
+  "page_num_in_file": 3,
+  "slide_title": "The Process of Science",
+  "original_text": "\u2013The Process of Science\n\u2013Biology, and even more broadly science, is a broad subject, with many different disciplines\u2013How is it possible for all scientists across all disciplines to speak a common language for gaining new knowledge?\u2013The Scientific Method\u2013Science is based upon inquiry, the search for information and explanations of natural phenomena.\u2013Scientific Method is a standard series of steps used in gathering and gaining new knowledge",
+  "explanation": "This slide explains how the Scientific Method serves as a common language for gaining knowledge across diverse scientific fields. Science is defined as being based on inquiry, which is the search for information and explanations of natural phenomena. The Scientific Method is described as a standard series of steps used to gather and build scientific knowledge.",
+  "questions": [
+    {
+      "q": "According to the slide, what is the 'common language' that allows all scientists across various disciplines to gather new knowledge?",
+      "opts": [
+        "Universal scientific terminology in English",
+        "The Scientific Method",
+        "Mathematical modeling",
+        "Peer-reviewed publication databases"
+      ],
+      "a": 1,
+      "exp": "The slide answers the question about how scientists speak a common language with: 'The Scientific Method'."
+    },
+    {
+      "q": "How is science defined on this slide in relation to inquiry?",
+      "opts": [
+        "Science is the memorization of natural laws.",
+        "Science is based upon inquiry, the search for information and explanations of natural phenomena.",
+        "Science is the use of mathematical proofs to describe physical space.",
+        "Science is the collection of technology for laboratory research."
+      ],
+      "a": 1,
+      "exp": "The text states: 'Science is based upon inquiry, the search for information and explanations of natural phenomena.'"
+    }
+  ]
+}

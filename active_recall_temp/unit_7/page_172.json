@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 172,
+  "filename": "Unit_7_9.txt",
+  "section_title": "Sense Organs",
+  "page_num_in_file": 12,
+  "slide_title": "Senses of Hearing and Balance: Human Ear Anatomy",
+  "original_text": "Senses of Hearing and Balance The Human Ear Outer ear -Pinna and auditory canal Middle ear begins at tympanic membrane and ends at ovaland round windows The ossicles(three small bones) are found between the tympanic membrane and the windows Malleus(hammer), incus(anvil), and stapes(stirrup) Auditory tube (eustachian tube) extends from the middle ear to the nasopharynx Inner ear has three areas Semicircular canals -associated with equilibrium Vestibule-associated with equilibrium Cochlea associated with hearing",
+  "explanation": "The human ear is divided into three structural regions: 1) Outer ear: consisting of the pinna and the auditory canal. 2) Middle ear: begins at the tympanic membrane (eardrum) and ends at the oval and round windows. It houses the three small ossicles: malleus (hammer), incus (anvil), and stapes (stirrup). The auditory (Eustachian) tube connects the middle ear to the nasopharynx to equalize pressure. 3) Inner ear: contains the fluid-filled semicircular canals (rotational equilibrium), vestibule (gravitational equilibrium), and the cochlea (hearing).",
+  "questions": [
+    {
+      "q": "What are the three middle ear bones (ossicles), listed in order of sound transmission?",
+      "opts": [
+        "Stapes, incus, malleus",
+        "Malleus, incus, stapes",
+        "Pinna, tympanum, cochlea",
+        "Semicircular, vestibule, cochlea"
+      ],
+      "a": 1,
+      "exp": "Vibrations travel from the tympanic membrane to the malleus, then the incus, and finally the stapes."
+    },
+    {
+      "q": "Which structure of the inner ear is specialized for hearing?",
+      "opts": [
+        "Semicircular canals",
+        "Vestibule",
+        "Cochlea",
+        "Auditory (Eustachian) tube"
+      ],
+      "a": 2,
+      "exp": "The cochlea is the snail-shaped structure of the inner ear that contains receptors for hearing, while the vestibule and semicircular canals handle equilibrium."
+    }
+  ]
+}

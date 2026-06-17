@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 38,
+  "filename": "Unit_8_3.txt",
+  "section_title": "Community & Ecosystem Ecology",
+  "page_num_in_file": 4,
+  "slide_title": "Ecology of Communities¨Competition Between Populations¤Competition occurs when members of different species try to utilize a limited resource¤When two species compete, the abundance of both species is negatively impacted¨Competitive Exclusion Principle¤No two species can indefinitely occupy the same niche at the same time¤Resource partitioning decreases competition between species¤Resource partitioning leads to niche specialization and less niche overlap between species¨Character Displacement¤Characteristics tend to become more divergent when populations belong to the same community than when they are isolated¤Competition and resource partitioning may lead to character displacement",
+  "original_text": "Ecology of Communities¨Competition Between Populations¤Competition occurs when members of different species try to utilize a limited resource¤When two species compete, the abundance of both species is negatively impacted¨Competitive Exclusion Principle¤No two species can indefinitely occupy the same niche at the same time¤Resource partitioning decreases competition between species¤Resource partitioning leads to niche specialization and less niche overlap between species¨Character Displacement¤Characteristics tend to become more divergent when populations belong to the same community than when they are isolated¤Competition and resource partitioning may lead to character displacement",
+  "explanation": "Competition occurs when different species attempt to utilize the same limited resource, negatively impacting the population abundance of both competing species. The Competitive Exclusion Principle states that no two species can indefinitely occupy the same ecological niche at the same time. To avoid exclusion, species often undergo resource partitioning, which decreases competition by leading to niche specialization and reducing niche overlap. Over evolutionary time, this can cause character displacement, where traits become more divergent in populations living together in the same community (sympatric) compared to when they are isolated (allopatric).",
+  "questions": [
+    {
+      "q": "What does the Competitive Exclusion Principle state?",
+      "opts": [
+        "Species with high biotic potential will always exclude K-strategists.",
+        "No two species can indefinitely occupy the same niche at the same time.",
+        "Competitors will always partition resources equally.",
+        "Predators and prey cannot occupy the same community."
+      ],
+      "a": 1,
+      "exp": "The notes state that the Competitive Exclusion Principle means 'No two species can indefinitely occupy the same niche at the same time.'"
+    },
+    {
+      "q": "What is character displacement and what drives it?",
+      "opts": [
+        "It is the loss of traits due to genetic drift in small populations.",
+        "It is the tendency of characteristics to become more divergent in co-occurring populations than in isolated ones, driven by competition and resource partitioning.",
+        "It is the physical migration of individuals away from their parent community due to natural disasters.",
+        "It is a change in the physical environment that forces organisms to change their diet."
+      ],
+      "a": 1,
+      "exp": "The notes explain that character displacement is when 'Characteristics tend to become more divergent when populations belong to the same community than when they are isolated' and that 'Competition and resource partitioning may lead to character displacement.'"
+    }
+  ]
+}

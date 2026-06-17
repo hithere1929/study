@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 65,
+  "filename": "Unit_3_3.txt",
+  "section_title": "Chromosomes",
+  "page_num_in_file": 6,
+  "slide_title": "Chromosome Structure",
+  "original_text": "Chromosome Structure\nReplicated chromosomes consist of 2 identical halves\nEach half: chromatid\nChromatids form as DNA copies itself prior to cell division\nAs cell divides, each new cell gets 1 chromatid (1 copy of each chromosome) \nChromatids attach at the centromere\nHolds the chromatids together until they separate during division\nImportant for movement of chromosomes during division",
+  "explanation": "Replicated chromosomes consist of two identical halves, with each half called a chromatid. Chromatids form when DNA copies itself prior to cell division. When division occurs, each new daughter cell receives one chromatid, ensuring it gets a copy of each chromosome. The two sister chromatids are attached at a specialized region called the centromere, which holds them together until they separate during division and plays an important role in chromosome movement during mitosis/meiosis.",
+  "questions": [
+    {
+      "q": "What is each identical half of a replicated chromosome called?",
+      "opts": [
+        "Chromatin",
+        "Chromatid",
+        "Centromere",
+        "Histone"
+      ],
+      "a": 1,
+      "exp": "Replicated chromosomes consist of 2 identical halves, and each half is called a chromatid."
+    },
+    {
+      "q": "What structure holds two sister chromatids together until they separate during cell division?",
+      "opts": [
+        "Centrosome",
+        "Centromere",
+        "Centriole",
+        "Basal body"
+      ],
+      "a": 1,
+      "exp": "Chromatids attach at the centromere, which holds them together until they separate during division."
+    }
+  ]
+}

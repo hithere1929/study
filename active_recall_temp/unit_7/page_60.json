@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 60,
+  "filename": "Unit_7_4.txt",
+  "section_title": "Plant Reproduction",
+  "page_num_in_file": 6,
+  "slide_title": "Reproductive Strategies: Flower Classifications",
+  "original_text": "Reproductive Strategies Complete vs. incomplete flowers: Completeflowers have sepals, petals, stamens, and a carpel Incompleteflowers are missing one or more of above Perfect vs. perfect flowers: Perfect(bisexual) flowers have both stamens and carpels Imperfect(unisexual) flowers have one but not the other Monoecious vs. dioecious plants: Monoecious plants have staminate flowers and carpellate flowers on the same plant Dioeciousplants have staminate and carpellate flowers on separate plants Need 2 plants of different flowering types to get fruit",
+  "explanation": "Flowers are classified by the presence of their structures: 1) Complete flowers possess all four floral whorls: sepals, petals, stamens, and carpels. Incomplete flowers lack one or more of these structures. 2) Perfect (bisexual) flowers possess both male (stamens) and female (carpels) reproductive organs. Imperfect (unisexual) flowers lack one of the reproductive organs. 3) Monoecious plants bear separate staminate (male) and carpellate (female) flowers on the same individual plant. 4) Dioecious plants bear staminate and carpellate flowers on separate individual plants, meaning that two distinct plants of different sexes are required to achieve pollination and produce fruit.",
+  "questions": [
+    {
+      "q": "What is the difference between monoecious and dioecious plants?",
+      "opts": [
+        "Monoecious plants have complete flowers, while dioecious plants have incomplete flowers.",
+        "Monoecious plants have male and female flowers on the same plant, while dioecious plants have them on separate plants.",
+        "Monoecious plants require animal pollinators, while dioecious plants rely on wind.",
+        "Monoecious plants are triploid, while dioecious plants are diploid."
+      ],
+      "a": 1,
+      "exp": "Monoecious plants have separate staminate and carpellate flowers on the same individual. Dioecious plants have male and female flowers on separate individuals, requiring two plants for fruit production."
+    },
+    {
+      "q": "If a flower has sepals, petals, and stamens, but lacks a carpel, how is it classified?",
+      "opts": [
+        "Complete and perfect",
+        "Incomplete and perfect",
+        "Complete and imperfect",
+        "Incomplete and imperfect"
+      ],
+      "a": 3,
+      "exp": "It is incomplete because it is missing a carpel. It is imperfect because it lacks one of the reproductive organs (the carpel)."
+    }
+  ]
+}

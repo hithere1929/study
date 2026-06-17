@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 57,
+  "filename": "Unit_1_4.txt",
+  "section_title": "Microscopy",
+  "page_num_in_file": 7,
+  "slide_title": "The Microscope",
+  "original_text": "\u2013Lens Compounding Practice\u2013Ocular Lens = 10x mag\u2013Objective Lens \u201320x mag\u2013Total magnification power = \u2013200x magnification\u2013Ocular Lens = 10x mag\u2013Objective Lens \u201310x mag\u2013Total magnification power = \u2013100x magnification\u2013Ocular Lens = 10x mag\u2013Objective Lens \u201340x mag\u2013Total magnification power = \u2013400x magnification",
+  "explanation": "This slide demonstrates how to calculate total magnification in a compound microscope by multiplying the magnification of the ocular lens (eyepiece) by the magnification of the objective lens.\n- 10x ocular * 20x objective = 200x total magnification\n- 10x ocular * 10x objective = 100x total magnification\n- 10x ocular * 40x objective = 400x total magnification",
+  "questions": [
+    {
+      "q": "If a compound microscope has a 10x ocular lens and a 40x objective lens, what is the total magnification of the image?",
+      "opts": [
+        "50x",
+        "30x",
+        "400x",
+        "4000x"
+      ],
+      "a": 2,
+      "exp": "Total magnification is ocular magnification multiplied by objective magnification (10x * 40x = 400x)."
+    }
+  ]
+}

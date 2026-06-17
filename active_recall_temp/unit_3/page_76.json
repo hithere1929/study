@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 76,
+  "filename": "Unit_3_4.txt",
+  "section_title": "The Cell Cycle",
+  "page_num_in_file": 3,
+  "slide_title": "Prokaryotic Cell Division",
+  "original_text": "Prokaryotic Cell Division\nCell division: process by which cells produce offspring cells\nDiffers in prokaryotes & eukaryotes \nProkaryotes differ structurally from eukaryotes:\nHave cell wall; lack nucleus & membrane-bound organelles\nSingle DNA molecule; does not associate with proteins, or coil to form chromosomes\nCircular chromosome attached to inner surface of plasma membrane",
+  "explanation": "Cell division is the biological process by which cells produce offspring cells, and it differs significantly between prokaryotes and eukaryotes. Prokaryotes differ structurally from eukaryotes in that they possess a cell wall and lack both a nucleus and membrane-bound organelles. Their genetic material is a single circular DNA molecule that does not associate with proteins or coil to form complex chromosomes; instead, it remains attached to the inner surface of the plasma membrane.",
+  "questions": [
+    {
+      "q": "How does prokaryotic DNA differ from eukaryotic DNA during cell division?",
+      "opts": [
+        "Prokaryotic DNA is linear and wrapped around histone proteins.",
+        "Prokaryotic DNA is a single circular molecule that does not associate with proteins or coil into chromosomes.",
+        "Prokaryotic DNA is located in a membrane-bound nucleus.",
+        "Prokaryotic DNA is not copied before division."
+      ],
+      "a": 1,
+      "exp": "The slide notes that prokaryotic DNA is a single circular molecule, does not associate with proteins, and does not coil to form chromosomes."
+    }
+  ]
+}

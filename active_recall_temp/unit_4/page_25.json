@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 25,
+  "filename": "Unit_4_2.txt",
+  "section_title": "DNA Structure",
+  "page_num_in_file": 11,
+  "slide_title": "Eukaryotic Chromosomes",
+  "original_text": "Eukaryotic Chromosomes",
+  "explanation": "This slide serves as an introduction to eukaryotic chromosomes, which represent the highly organized packaging of DNA within eukaryotic cell nuclei.",
+  "questions": [
+    {
+      "q": "What is the main subject introduced on this slide?",
+      "opts": [
+        "Bacterial plasmids",
+        "Eukaryotic Chromosomes",
+        "Viral capsid proteins",
+        "Mitochondrial DNA"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide title is 'Eukaryotic Chromosomes.' Other genetic structures are not mentioned."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 115,
+  "filename": "Unit_8_7.txt",
+  "section_title": "Conservation of Biodiversity",
+  "page_num_in_file": 5,
+  "slide_title": "Conservation Biology and Biodiversity¨Biodiversity¤Genetic diversity refers to variations among the members of a populationnPopulations with high genetic diversity are more likely to have some individuals that can survive a change in the structure of their ecosystemnIf a species’ population is small and isolated, it is more likely to become extinct due to a limited genetic diversity.¤Ecosystem diversity is dependent on interactions of species in a particular areanA diverse community composition will increase the levels of biodiversity in the biospherenAn effective approach to conservation is to conserve species that play a key role within the ecosystemnSaving an entire community can save many species¤Landscape diversity involves a group of interacting ecosystems within one landscapenLandscape–Ex: mountains, rivers, grasslandsnFragmentation of the landscape reduces reproductive capacity and food availability (building a road across a patch of land)",
+  "original_text": "Conservation Biology and Biodiversity¨Biodiversity¤Genetic diversity refers to variations among the members of a populationnPopulations with high genetic diversity are more likely to have some individuals that can survive a change in the structure of their ecosystemnIf a species’ population is small and isolated, it is more likely to become extinct due to a limited genetic diversity.¤Ecosystem diversity is dependent on interactions of species in a particular areanA diverse community composition will increase the levels of biodiversity in the biospherenAn effective approach to conservation is to conserve species that play a key role within the ecosystemnSaving an entire community can save many species¤Landscape diversity involves a group of interacting ecosystems within one landscapenLandscape–Ex: mountains, rivers, grasslandsnFragmentation of the landscape reduces reproductive capacity and food availability (building a road across a patch of land)",
+  "explanation": "Ecologists examine biodiversity at three levels: 1) Genetic diversity: genetic variation within a population. High genetic diversity increases the likelihood that some individuals will survive environmental changes, whereas small, isolated populations with low genetic diversity face a higher risk of extinction. 2) Ecosystem (community) diversity: depends on interactions among species in an area. Because community composition shapes biodiversity, a powerful conservation strategy is to preserve keystone species that play vital ecosystem roles, thereby protecting the entire community. 3) Landscape diversity: refers to a network of interacting ecosystems (e.g., mountains, rivers, grasslands) within one region. Landscape fragmentation—such as building a road through a habitat—disrupts this diversity, reducing reproductive capacity and food availability.",
+  "questions": [
+    {
+      "q": "Why are small, isolated populations more prone to extinction?",
+      "opts": [
+        "They have high rates of landscape fragmentation.",
+        "They have limited genetic diversity, making them less able to survive environmental changes.",
+        "They are always targeted by ectoparasites.",
+        "They perform too much photosynthesis."
+      ],
+      "a": 1,
+      "exp": "The notes state: 'If a species’ population is small and isolated, it is more likely to become extinct due to a limited genetic diversity.'"
+    },
+    {
+      "q": "What is landscape fragmentation, and what are its consequences?",
+      "opts": [
+        "The natural splitting of mountains; it increases habitat diversity.",
+        "The breaking up of a landscape (e.g., by building a road); it reduces reproductive capacity and food availability.",
+        "The conversion of an oligotrophic lake into a eutrophic one.",
+        "The seasonal overturn of temperate zone lakes."
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Fragmentation of the landscape reduces reproductive capacity and food availability (building a road across a patch of land).'"
+    }
+  ]
+}

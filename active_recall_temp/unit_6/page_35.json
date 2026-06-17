@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 35,
+  "filename": "Unit_6_3.txt",
+  "section_title": "Protists",
+  "page_num_in_file": 11,
+  "slide_title": "Supergroup Rhizaria\u00a8Comprised of foramniferansand radiolarens\u00a4Contain calcium carbonate skeleton called test\u00a4Fine, threadlike pseudopods\u00a4In foramniferans, test is multi-chamberednPseudopod extends through opening\u00a4In radiolarens, glassy silicon test has radial arrangement of spines\u00a8Together form a layer of sedimentary material on ocean floor. \u00a4Different time periods marked by distinctively different foramniferans",
+  "original_text": "Supergroup Rhizaria\u00a8Comprised of foramniferansand radiolarens\u00a4Contain calcium carbonate skeleton called test\u00a4Fine, threadlike pseudopods\u00a4In foramniferans, test is multi-chamberednPseudopod extends through opening\u00a4In radiolarens, glassy silicon test has radial arrangement of spines\u00a8Together form a layer of sedimentary material on ocean floor. \u00a4Different time periods marked by distinctively different foramniferans",
+  "explanation": "Supergroup Rhizaria comprises foraminiferans (foramniferans) and radiolarians (radiolarens), which are characterized by fine, threadlike pseudopods and protective shells called tests. Foraminiferans possess multi-chambered tests composed of calcium carbonate, through which their pseudopods extend. Radiolarians possess glassy silicon tests featuring a radial arrangement of spines. Together, the accumulated tests of these organisms form layers of sedimentary material on the ocean floor. Fossilized foraminiferans serve as markers for different geological time periods.",
+  "questions": [
+    {
+      "q": "What composition is typical of the multi-chambered test of a foraminiferan?",
+      "opts": [
+        "Chitin",
+        "Glassy silicon",
+        "Calcium carbonate",
+        "Peptidoglycan"
+      ],
+      "a": 2,
+      "exp": "The notes state that foraminiferans 'Contain calcium carbonate skeleton called test' which is 'multi-chambered'."
+    },
+    {
+      "q": "What describes the test structure of radiolarians?",
+      "opts": [
+        "Multi-chambered calcium carbonate test",
+        "Glassy silicon test with a radial arrangement of spines",
+        "Peptidoglycan cell wall containing lipids",
+        "A protein capsid with spikes"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'In radiolarens, glassy silicon test has radial arrangement of spines'."
+    },
+    {
+      "q": "What is the ecological and geological significance of Rhizarians?",
+      "opts": [
+        "They cause red tides and toxic fish kills.",
+        "They form lichens in mutualistic relationships with fungi.",
+        "They accumulate to form layers of sedimentary material on the ocean floor.",
+        "They decompose large forest debris as aerobic saprotrophs."
+      ],
+      "a": 2,
+      "exp": "The notes state that they 'Together form a layer of sedimentary material on ocean floor.'"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 125,
+  "filename": "Unit_2_5.txt",
+  "section_title": "Enzymes",
+  "page_num_in_file": 3,
+  "slide_title": "Enzymes",
+  "original_text": "Enzymes¨Although biological molecules possess much potential energy, it is not released spontaneously.¥An energy barrier must be overcome before a chemical reaction can begin.¥This energy is called the activation energy(because it activates the reactants).",
+  "explanation": "Even though biological molecules contain a significant amount of stored potential energy in their chemical bonds, this energy is not released spontaneously. An initial energy barrier must be overcome to initiate any chemical reaction. The energy input required to cross this barrier and start the reaction is called the activation energy, as it works to activate the reactant molecules.",
+  "questions": [
+    {
+      "q": "What is activation energy?",
+      "opts": [
+        "The energy released during ATP hydrolysis.",
+        "The energy barrier that must be overcome before a chemical reaction can begin.",
+        "The thermal energy of water at boiling point.",
+        "The energy stored inside a steroid ring."
+      ],
+      "a": 1,
+      "exp": "Activation energy is the initial energy input required to overcome the energy barrier and start a chemical reaction."
+    }
+  ]
+}

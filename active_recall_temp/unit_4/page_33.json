@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 33,
+  "filename": "Unit_4_3.txt",
+  "section_title": "DNA Replication, Transcription, Translation",
+  "page_num_in_file": 6,
+  "slide_title": "DNA Replication¨Each new DNA double helix: 1 strand from original molecule; 1 strand newly synthesized¤Known as semi-conservative replication¨Synthesis occurs in different directions on each strand¨As replication fork moves along DNA template molecule, synthesis of one strand follows¤Synthesis occurs from 5’-3’; each strand of DNA has a different directionality. n5’-3’, compliment is 3’-5’ when lined up next to each other¨Synthesis on other strand moves in opposite direction; away from replication fork; leaves gaps in new strand¤Known as Okazaki fragments¤Joined together by DNA ligase",
+  "original_text": "DNA Replication¨Each new DNA double helix: 1 strand from original molecule; 1 strand newly synthesized¤Known as semi-conservative replication¨Synthesis occurs in different directions on each strand¨As replication fork moves along DNA template molecule, synthesis of one strand follows¤Synthesis occurs from 5’-3’; each strand of DNA has a different directionality. n5’-3’, compliment is 3’-5’ when lined up next to each other¨Synthesis on other strand moves in opposite direction; away from replication fork; leaves gaps in new strand¤Known as Okazaki fragments¤Joined together by DNA ligase",
+  "explanation": "When DNA replication is complete, each new DNA double helix consists of one strand conserved from the original parental molecule and one newly synthesized strand. This mode of replication is called semi-conservative replication. Because the two strands of the DNA double helix run anti-parallel (one is 5'-3', and the other is 3'-5'), replication occurs in different directions on each strand. DNA polymerase can only synthesize new DNA in the 5' to 3' direction. On one template strand, synthesis occurs continuously in the same direction as the moving replication fork. On the opposite strand, synthesis must move in the opposite direction (away from the replication fork), which is done in short, discontinuous segments. These segments are called Okazaki fragments. Once synthesized, these fragments are joined together into a continuous strand by the enzyme DNA ligase.",
+  "questions": [
+    {
+      "q": "Why does DNA replication result in Okazaki fragments on one of the daughter strands?",
+      "opts": [
+        "DNA polymerase can only synthesize DNA in the 5'-3' direction, and the two strands run in opposite directions.",
+        "Helicase stops and starts randomly along the DNA strand.",
+        "The cell runs out of free nucleotides, causing synthesis to halt.",
+        "Okazaki fragments are mutations that occur due to UV radiation damage."
+      ],
+      "a": 0,
+      "exp": "Option A is correct because the slide states 'Synthesis occurs from 5’-3’; each strand of DNA has a different directionality.' and describes synthesis on the opposite strand moving away from the replication fork, leaving gaps that form Okazaki fragments. The other options are incorrect."
+    },
+    {
+      "q": "Which enzyme is responsible for joining the Okazaki fragments on the discontinuously synthesized DNA strand?",
+      "opts": [
+        "DNA polymerase",
+        "Helicase",
+        "DNA ligase",
+        "RNA primase"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide states Okazaki fragments are 'Joined together by DNA ligase.' DNA polymerase (Option A) and Helicase (Option B) have other roles, and RNA primase is not mentioned."
+    }
+  ]
+}

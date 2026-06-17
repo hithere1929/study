@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 67,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 31,
+  "slide_title": "3: Phospholipids",
+  "original_text": "3: Phospholipids",
+  "explanation": "This slide serves as a visual placeholder for the diagram showing the structure of a phospholipid and the cell membrane bilayer.",
+  "questions": [
+    {
+      "q": "What structural component is illustrated on this page?",
+      "opts": [
+        "A triglyceride",
+        "A phospholipid bilayer",
+        "A polysaccharide",
+        "A polypeptide chain"
+      ],
+      "a": 1,
+      "exp": "The slide is titled '3: Phospholipids', which illustrates phospholipid and cell membrane structure."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 33,
+  "filename": "Unit_7_2.txt",
+  "section_title": "Plant Nutrition and Transport",
+  "page_num_in_file": 12,
+  "slide_title": "Transport Mechanisms: Opening & Closing of Stomata",
+  "original_text": "Transport Mechanisms Opening and Closing of Stomata: Each stoma in a leaf epidermis is bordered by guard cells. Increased turgor pressure in guard cells opens stoma. Active transport of K+ into guard cells causes water to enter by osmosis and stomata to open. H+ ions accumulate outside guard cells as K+ moves in. Opening and closing of stomata is regulated by light. ABA (abscisic acid) can also cause stomata to close.",
+  "explanation": "Stomata are bordered by pairs of guard cells that control their opening and closing. An increase in turgor pressure inside the guard cells causes them to swell and bow outward, opening the pore. This turgor pressure increase is driven by the active transport of potassium ions (K+) into the guard cells, which prompts water to follow passively by osmosis. As K+ ions enter the cells, hydrogen ions (H+) are transported out and accumulate in the surrounding tissue. Stomatal movement is regulated by environmental factors such as light. Additionally, the plant hormone abscisic acid (ABA) can trigger K+ efflux from guard cells, causing water loss, a decrease in turgor pressure, and stomatal closure to prevent water loss during stress.",
+  "questions": [
+    {
+      "q": "What cellular event triggers the opening of stomata?",
+      "opts": [
+        "Active transport of K+ out of guard cells",
+        "Active transport of K+ into guard cells, followed by osmotic water entry",
+        "Accumulation of ABA inside guard cells",
+        "Decreased turgor pressure in guard cells"
+      ],
+      "a": 1,
+      "exp": "Active transport of potassium ions (K+) into guard cells lowers their solute potential, causing water to enter via osmosis. This increases turgor pressure and opens the stoma."
+    },
+    {
+      "q": "Which plant hormone is responsible for closing stomata during water stress?",
+      "opts": [
+        "Auxin",
+        "Gibberellin",
+        "Abscisic acid (ABA)",
+        "Ethylene"
+      ],
+      "a": 2,
+      "exp": "Abscisic acid (ABA) is the hormone that signals stomata to close to conserve water during periods of stress."
+    }
+  ]
+}

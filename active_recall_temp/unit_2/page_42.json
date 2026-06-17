@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 42,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 6,
+  "slide_title": "Functional Groups",
+  "original_text": "Functional Groups¨Functional group: a cluster of atoms attached to an organic compound¤Influences the characteristics of the molecule¤Influences the chemical reactions the molecule undergoes¨Ex: -OH = hydroxylgroup¤Makes the molecule polar¤Makes the molecule hydrophilic(water-loving); soluble in water¤Organic compounds with hydroxyl groups attached known as alcohols¨Other functional groups:¤Carboxyl ¤Amino¤Phosphate",
+  "explanation": "A functional group is a specific cluster of atoms attached to an organic compound. These groups are critical because they influence the physical and chemical characteristics of the molecule as well as the types of chemical reactions it can undergo. An example is the hydroxyl group (-OH), which confers polarity onto the molecule, making it hydrophilic (water-loving) and soluble in water. Organic compounds containing one or more hydroxyl groups are known as alcohols. Other key functional groups in biological molecules include carboxyl, amino, and phosphate groups.",
+  "questions": [
+    {
+      "q": "What is a functional group?",
+      "opts": [
+        "A bond between metal and non-metal atoms.",
+        "A cluster of atoms attached to an organic compound that influences its characteristics and chemical reactions.",
+        "The central carbon chain of a carbohydrate.",
+        "An inactive part of a molecule that does not dissolve in water."
+      ],
+      "a": 1,
+      "exp": "A functional group is a cluster of atoms attached to an organic compound that determines its properties and chemical reactivity."
+    },
+    {
+      "q": "What properties does a hydroxyl group (-OH) impart to an organic molecule?",
+      "opts": [
+        "It makes the molecule non-polar and hydrophobic.",
+        "It makes the molecule polar, hydrophilic, and soluble in water.",
+        "It turns the molecule into an inorganic salt.",
+        "It causes the molecule to form double bonds with carbon."
+      ],
+      "a": 1,
+      "exp": "A hydroxyl group makes the molecule polar and hydrophilic (water-loving), which increases its solubility in water. Molecules with -OH groups are called alcohols."
+    }
+  ]
+}

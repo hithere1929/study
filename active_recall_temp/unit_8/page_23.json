@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 23,
+  "filename": "Unit_8_2.txt",
+  "section_title": "Population Ecology",
+  "page_num_in_file": 8,
+  "slide_title": "Demographics of Populations¨Age Distribution¤The proportion of the population that falls into various age categories¤There are three major age groupsnPrereproductivenReproductivenPostreprodutive¤At least three age structure diagramsare possiblenIncreasing populationnStable populationnDecreasing population",
+  "original_text": "Demographics of Populations¨Age Distribution¤The proportion of the population that falls into various age categories¤There are three major age groupsnPrereproductivenReproductivenPostreprodutive¤At least three age structure diagramsare possiblenIncreasing populationnStable populationnDecreasing population",
+  "explanation": "Age distribution describes the proportion of individuals in a population that fall into different age classes. There are three major age categories: prereproductive, reproductive, and postreproductive. Based on the ratios between these groups, at least three types of age structure diagrams are possible: 1) an increasing population, 2) a stable population, and 3) a decreasing population.",
+  "questions": [
+    {
+      "q": "What are the three major age groups used to analyze population age distribution?",
+      "opts": [
+        "Infant, juvenile, and adult",
+        "Prereproductive, reproductive, and postreproductive",
+        "Larval, pupal, and adult",
+        "Cohort I, Cohort II, and Cohort III"
+      ],
+      "a": 1,
+      "exp": "The notes state that 'There are three major age groups: Prereproductive, Reproductive, Postreproductive.'"
+    },
+    {
+      "q": "Which of the following is NOT one of the three age structure diagram trends mentioned?",
+      "opts": [
+        "Increasing population",
+        "Stable population",
+        "Fluctuating population",
+        "Decreasing population"
+      ],
+      "a": 2,
+      "exp": "The notes list 'Increasing population', 'Stable population', and 'Decreasing population' as three possible age structure diagrams. 'Fluctuating population' is not listed."
+    }
+  ]
+}

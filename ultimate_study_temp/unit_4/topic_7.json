@@ -1,0 +1,27 @@
+{
+  "id": "u4_t7",
+  "title": "Mutations",
+  "cheat_card": [
+    "Mutations are permanent changes in DNA sequences, classified as <b>germ-line</b> (occur in gametes, inheritable) or <b>somatic</b> (occur in body cells, non-inheritable).",
+    "<b>Spontaneous mutations</b> result from replication errors (overall error rate of <b>1 in 1,000,000,000 nucleotides</b>) or transposons; <b>induced mutations</b> are caused by environmental <b>mutagens</b> (e.g., UV radiation, tobacco smoke).",
+    "<b>Point mutations</b> alter a single nucleotide: <b>silent mutations</b> result in the same amino acid, <b>missense mutations</b> code for a different amino acid, and <b>nonsense mutations</b> code for a premature stop codon.",
+    "<b>Frameshift mutations</b> involve the insertion or deletion of <b>1 or 2 nucleotides</b>, shifting the reading frame and rendering the resulting protein completely nonfunctional.",
+    "Cancer development involves accumulation of mutations: <b>proto-oncogenes</b> (stimulate cell cycle) mutate to hyperactive <b>oncogenes</b>, while <b>tumor suppressor genes</b> (inhibit cell division) are inactivated."
+  ],
+  "memory_anchor": "**Reading Frame Shift Example**:\n- Normal message: `THE CAT ATE THE RAT` (triplets match)\n- Deleted base ('C'): `THE ATA TET HER AT` (completely changes subsequent codons)\n- Inserted base ('C'): `THE CCA TAT ETH ERA T` (completely shifts reading frame)",
+  "flashcards": [
+    {
+      "q": "Explain the difference between missense, nonsense, and silent point mutations in terms of their effect on the resulting protein's amino acid sequence.",
+      "a": "A silent mutation changes a single nucleotide but results in the same amino acid due to code degeneracy (no effect). A missense mutation changes a single nucleotide and codes for a different amino acid, potentially altering protein function. A nonsense mutation changes a codon into a premature stop codon, terminating translation early and producing a truncated, nonfunctional protein."
+    },
+    {
+      "q": "Why do insertions or deletions of 1 or 2 nucleotides cause much more severe damage to proteins than insertions or deletions of 3 nucleotides?",
+      "a": "Insertions or deletions of 1 or 2 nucleotides shift the triplet reading frame of the entire mRNA sequence downstream of the mutation (frameshift), changing every subsequent amino acid. An insertion or deletion of 3 nucleotides adds or removes exactly one amino acid without disrupting the reading frame of the rest of the protein."
+    },
+    {
+      "q": "How do mutations in proto-oncogenes and tumor suppressor genes cooperatively lead to the development of cancer?",
+      "a": "Proto-oncogenes normally stimulate cell division; when mutated into oncogenes, they become hyperactive, promoting uncontrolled cell division. Tumor suppressor genes normally inhibit cell division or repair DNA; when mutated, they lose function. Together, the cell cycle accelerator is stuck 'on' and the brakes are lost."
+    }
+  ],
+  "outline_blanks": "A change in a single nucleotide is a [[point mutation]]. If the change creates a premature stop codon, it is a [[nonsense mutation]]. An insertion or deletion of 1 or 2 nucleotides causing a shift in the triplet reading frame is a [[frameshift mutation]], whereas cancer results from mutations in [[proto-oncogenes]] and [[tumor suppressor genes]]."
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 6,
+  "page": 14,
+  "filename": "Unit_6_2.txt",
+  "section_title": "Prokaryotes",
+  "page_num_in_file": 3,
+  "slide_title": "Background\u00a8Include bacteria and archaea, which are fully functioning cells \u00a4A single spoonful of earth can contain >1000 prokaryotes \u00a4Range in size from 1-10 \u03bcmin length and 0.7-1.5 \u03bcmin width\u00a8Originally believed to be spontaneously generating organisms\u00a4Disproved in 1850\u2019s by Louis Pasteur",
+  "original_text": "Background\u00a8Include bacteria and archaea, which are fully functioning cells \u00a4A single spoonful of earth can contain >1000 prokaryotes \u00a4Range in size from 1-10 \u03bcmin length and 0.7-1.5 \u03bcmin width\u00a8Originally believed to be spontaneously generating organisms\u00a4Disproved in 1850\u2019s by Louis Pasteur",
+  "explanation": "Prokaryotes comprise two major groups: bacteria and archaea, both of which are fully functioning cells. They are incredibly abundant; for instance, a single spoonful of soil can contain more than 1,000 prokaryotic cells. Structurally, they are very small, typically ranging in size from 1 to 10 micrometers (\u03bcm) in length and 0.7 to 1.5 \u03bcm in width. Historically, it was believed that prokaryotic organisms could spontaneously generate from non-living matter, a concept that was successfully disproved in the 1850s by Louis Pasteur.",
+  "questions": [
+    {
+      "q": "What is the typical physical size of a prokaryote as described in the notes?",
+      "opts": [
+        "1-10 nm in length and 0.7-1.5 nm in width",
+        "1-10 \u03bcm in length and 0.7-1.5 \u03bcm in width",
+        "10-100 \u03bcm in length and 5-10 \u03bcm in width",
+        "0.1-0.5 \u03bcm in length and 0.1-0.2 \u03bcm in width"
+      ],
+      "a": 1,
+      "exp": "The notes state that prokaryotes 'Range in size from 1-10 \u03bcm in length and 0.7-1.5 \u03bcm in width'."
+    },
+    {
+      "q": "Who disproved the hypothesis of spontaneous generation, and when?",
+      "opts": [
+        "Robert Koch in the 1880s",
+        "Louis Pasteur in the 1850s",
+        "Antoni van Leeuwenhoek in the 1670s",
+        "Louis Pasteur in the 1950s"
+      ],
+      "a": 1,
+      "exp": "The notes state that spontaneous generation was 'Disproved in 1850\u2019s by Louis Pasteur'."
+    }
+  ]
+}

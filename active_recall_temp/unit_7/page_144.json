@@ -1,0 +1,23 @@
+{
+  "unit": 7,
+  "page": 144,
+  "filename": "Unit_7_8.txt",
+  "section_title": "Nervous System",
+  "page_num_in_file": 6,
+  "slide_title": "Evolution of the Nervous System",
+  "original_text": "Evolution of the Nervous System",
+  "explanation": "This slide is a section divider introducing the evolution of the nervous system.",
+  "questions": [
+    {
+      "q": "What is the topic of this slide?",
+      "opts": [
+        "Evolution of the Nervous System",
+        "Nervous Tissue",
+        "Central Nervous System",
+        "Peripheral Nervous System"
+      ],
+      "a": 0,
+      "exp": "The slide serves as a transition to the section on Nervous System evolution."
+    }
+  ]
+}

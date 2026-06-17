@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 55,
+  "filename": "Unit_3_2.txt",
+  "section_title": "Organelles",
+  "page_num_in_file": 40,
+  "slide_title": "Plastids",
+  "original_text": "Plastids\nOrganelles similar to mitochondria; surrounded by a double membrane and contain their own DNA\nLeucoplasts: colorless; perform essential biosynthetic functions, including the synthesis of fatty acids and many amino acids\nAmyloplasts: colorless; store starch granules (polymerized glucose)\nChromoplasts: contain colorful pigments that may or may not take part in photosynthesis\nOrange pigment in carrot root cells; red, purple, white, yellow pigments in flower petals\nChloroplasts\nAll arise from common precursor, proplastid",
+  "explanation": "Plastids are plant organelles that share similarities with mitochondria, being surrounded by a double membrane and containing their own DNA. They exist in several forms, all of which arise from a common precursor called the proplastid. Leucoplasts are colorless and perform essential biosynthetic functions, such as synthesizing fatty acids and many amino acids. Amyloplasts are also colorless but specialize in storing starch granules (polymerized glucose). Chromoplasts contain colorful pigments (like the orange pigment in carrot root cells, or the red, purple, white, and yellow pigments in flower petals) that may or may not participate in photosynthesis. Finally, chloroplasts are the site of photosynthesis.",
+  "questions": [
+    {
+      "q": "Which type of plastid is colorless and specialized for storing starch (polymerized glucose)?",
+      "opts": [
+        "Leucoplast",
+        "Amyloplast",
+        "Chromoplast",
+        "Chloroplast"
+      ],
+      "a": 1,
+      "exp": "Amyloplasts are colorless plastids that store starch granules (polymerized glucose)."
+    },
+    {
+      "q": "What common precursor do all types of plastids arise from?",
+      "opts": [
+        "Mitochondria",
+        "Proplastid",
+        "Centrosome",
+        "Endosome"
+      ],
+      "a": 1,
+      "exp": "The slide states that all plastids arise from a common precursor, the proplastid."
+    }
+  ]
+}

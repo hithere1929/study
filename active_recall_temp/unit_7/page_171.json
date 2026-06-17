@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 171,
+  "filename": "Unit_7_9.txt",
+  "section_title": "Sense Organs",
+  "page_num_in_file": 11,
+  "slide_title": "Senses of Hearing and Balance: Invertebrate & Fish Auditory Adaptations",
+  "original_text": "Senses of Hearing and Balance How Animals Detect Sound Waves Insects Tympanum  a membrane stimulated to vibrate by sound waves that directly activates nerve impulses in attached receptor cells Fish Lateral line system  detects water currents and pressure waves from nearby objects, helping the organism guide their movement and locate other fish",
+  "explanation": "Animals utilize different adaptations to detect vibrations and pressure changes: 1) Insects: use a tympanum, a thin membrane that vibrates in response to sound waves, directly triggering nerve impulses in attached receptor cells. 2) Fish: use a lateral line system running along the sides of the body to detect water currents and low-frequency pressure waves. This helps them navigate, school, and locate nearby fish.",
+  "questions": [
+    {
+      "q": "What is the tympanum in insects?",
+      "opts": [
+        "A compound eye unit for UV vision",
+        "A vibrating membrane that detects sound waves",
+        "A chemoreceptor pore on the antenna",
+        "A jointed appendage used for locomotion"
+      ],
+      "a": 1,
+      "exp": "The tympanum is a specialized acoustic membrane in insects that vibrates when struck by sound waves, activating auditory receptors."
+    },
+    {
+      "q": "What is the function of the lateral line system in fish?",
+      "opts": [
+        "It secretes protective mucus.",
+        "It detects water currents and pressure waves from nearby objects.",
+        "It performs countercurrent oxygen exchange.",
+        "It acts as a brain stem reflex center."
+      ],
+      "a": 1,
+      "exp": "The lateral line system contains mechanoreceptors that detect changes in water currents and pressure waves, aiding navigation and schooling."
+    }
+  ]
+}

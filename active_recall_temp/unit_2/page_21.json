@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 21,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 21,
+  "slide_title": "Section 3: Water & Solutions",
+  "original_text": "Section 3: Water & Solutions",
+  "explanation": "This slide serves as the transition slide to Section 3: Water & Solutions.",
+  "questions": [
+    {
+      "q": "What is the topic of Section 3?",
+      "opts": [
+        "Macromolecules",
+        "Energy",
+        "Water & Solutions",
+        "Basic Atoms"
+      ],
+      "a": 2,
+      "exp": "The section title page designates 'Section 3: Water & Solutions'."
+    }
+  ]
+}

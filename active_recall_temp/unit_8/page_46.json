@@ -1,0 +1,23 @@
+{
+  "unit": 8,
+  "page": 46,
+  "filename": "Unit_8_3.txt",
+  "section_title": "Community & Ecosystem Ecology",
+  "page_num_in_file": 12,
+  "slide_title": "Dynamics of an Ecosystem¨Energy flows through an ecosystem via photosynthesis¤As organic nutrients pass from one level of the ecosystem to the next, only a portion of the energy is transferred; The vast majority is lost as heat energynFollows the Laws of Thermodynamics",
+  "original_text": "Dynamics of an Ecosystem¨Energy flows through an ecosystem via photosynthesis¤As organic nutrients pass from one level of the ecosystem to the next, only a portion of the energy is transferred; The vast majority is lost as heat energynFollows the Laws of Thermodynamics",
+  "explanation": "Energy enters ecosystems through photosynthesis. As organic nutrients are passed up the food chain from one level to the next, only a fraction of the energy is transferred. The vast majority of the energy is lost to the environment as heat, a pattern that strictly follows the Laws of Thermodynamics.",
+  "questions": [
+    {
+      "q": "What happens to the majority of energy as it is transferred from one level of the ecosystem to the next?",
+      "opts": [
+        "It is completely destroyed and disappears from existence.",
+        "It is recycled back into the plants to increase photosynthesis rates.",
+        "It is lost to the environment as heat energy.",
+        "It is converted into chemical minerals within the soil."
+      ],
+      "a": 2,
+      "exp": "The notes state that 'only a portion of the energy is transferred; The vast majority is lost as heat energy,' in accordance with the Laws of Thermodynamics."
+    }
+  ]
+}

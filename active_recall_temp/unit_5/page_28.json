@@ -1,0 +1,23 @@
+{
+  "unit": 5,
+  "page": 28,
+  "filename": "Unit_5_2.txt",
+  "section_title": "How Populations Evolve",
+  "page_num_in_file": 7,
+  "slide_title": "Genes, Populations, & Evolution",
+  "original_text": "Genes, Populations, & Evolution\nPopulation of moths outside London \u201325 moths collected for 3 seasons and allele frequency remained the same (p=0.2, q=0.8).  Since alleles same -no evolution",
+  "explanation": "This slide provides a concrete example of genetic stability in a natural population. Geneticists collected 25 moths outside London over three seasons and observed that the allele frequencies remained constant at p = 0.2 and q = 0.8. Because the allele frequencies did not change over this time period, no microevolution had occurred in the moth population.",
+  "questions": [
+    {
+      "q": "In the moth study outside London, why was it concluded that no evolution occurred?",
+      "opts": [
+        "The moths did not reproduce.",
+        "The allele frequencies remained constant (p=0.2, q=0.8) over the three seasons.",
+        "All moths possessed identical physical phenotypes.",
+        "The population size dropped to zero."
+      ],
+      "a": 1,
+      "exp": "Evolution did not occur because the allele frequencies remained the same (p=0.2, q=0.8) over the three seasons, showing that microevolutionary changes were absent."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 97,
+  "filename": "Unit_8_6.txt",
+  "section_title": "Major Ecosystems of the Biosphere",
+  "page_num_in_file": 6,
+  "slide_title": "Terrestrial Ecosystems¨Biome¤Major terrestrial ecosystem characterized by climate and geography¤A particular mix of plants and animals adapted to living under certain environmental conditions¤Tend to repeat wherever temperature and precipitation are the same¤Supports characteristic types of animals, although many migrate from one biome to another¤Climate and biomes change with increasing latitude and altitude",
+  "original_text": "Terrestrial Ecosystems¨Biome¤Major terrestrial ecosystem characterized by climate and geography¤A particular mix of plants and animals adapted to living under certain environmental conditions¤Tend to repeat wherever temperature and precipitation are the same¤Supports characteristic types of animals, although many migrate from one biome to another¤Climate and biomes change with increasing latitude and altitude",
+  "explanation": "A biome is a major terrestrial ecosystem defined by its distinct climate and geographic features. Each biome is composed of a specific assemblage of plants and animals adapted to those environmental conditions. Biomes tend to repeat in different regions of the globe wherever temperature and precipitation patterns are similar. They support characteristic animal communities, although some animals migrate between biomes. Climatic conditions and the distribution of biomes change predictably as one increases either latitude (distance from the equator) or altitude (elevation).",
+  "questions": [
+    {
+      "q": "What primarily characterizes and defines a biome?",
+      "opts": [
+        "Only the density of human population",
+        "Climate and geography, resulting in a particular mix of adapted plants and animals",
+        "The rate of chemiosmosis in the soil",
+        "The presence of endoparasites"
+      ],
+      "a": 1,
+      "exp": "The notes define a biome as a 'Major terrestrial ecosystem characterized by climate and geography' with 'A particular mix of plants and animals adapted to living under certain environmental conditions.'"
+    },
+    {
+      "q": "How do biomes change globally?",
+      "opts": [
+        "They only exist in the Northern Hemisphere.",
+        "They change randomly with no relation to temperature or precipitation.",
+        "They change with increasing latitude and altitude, repeating where climate conditions are identical.",
+        "They are only affected by coastal mountain rain shadows."
+      ],
+      "a": 2,
+      "exp": "The notes state that biomes 'Tend to repeat wherever temperature and precipitation are the same' and 'Climate and biomes change with increasing latitude and altitude.'"
+    }
+  ]
+}

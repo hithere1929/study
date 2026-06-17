@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 80,
+  "filename": "Unit_7_5.txt",
+  "section_title": "Animal Organization",
+  "page_num_in_file": 7,
+  "slide_title": "Types of Tissues: Connective Tissue",
+  "original_text": "Types of Tissues Connective Tissue Specialized cells Ground substance -Noncellular material, fills space Protein fibers Collagen fibers -contain collagen providing strength and flexibility Reticular fibers  contain thinly branched collagen fibers Elastic fibers  contain elastin Categories include Fibrous, Supportive, & Fluid",
+  "explanation": "Connective tissue binds and supports body parts. It is composed of three elements: specialized cells, an extracellular ground substance (a noncellular material that fills the space between cells), and protein fibers. The three types of protein fibers found in connective tissue matrix are: 1) Collagen fibers: provide structural strength and flexibility. 2) Reticular fibers: contain thin, highly branched collagen fibers that form supportive networks. 3) Elastic fibers: contain the protein elastin, allowing the tissue to stretch and recoil. Connective tissue is divided into three major categories: fibrous, supportive, and fluid.",
+  "questions": [
+    {
+      "q": "What are the three essential components of connective tissue?",
+      "opts": [
+        "Sepals, petals, and stamens",
+        "Specialized cells, ground substance, and protein fibers",
+        "Dendrites, cell bodies, and axons",
+        "Exocarp, mesocarp, and endocarp"
+      ],
+      "a": 1,
+      "exp": "Connective tissue is characterized by having specialized cells, an extracellular ground substance, and protein fibers."
+    },
+    {
+      "q": "Which type of protein fiber provides stretch and recoil capabilities to connective tissues?",
+      "opts": [
+        "Collagen fibers",
+        "Reticular fibers",
+        "Elastic fibers",
+        "Sclerenchyma fibers"
+      ],
+      "a": 2,
+      "exp": "Elastic fibers contain the protein elastin, which allows them to stretch and recoil."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 70,
+  "filename": "Unit_6_6.txt",
+  "section_title": "Invertebrates",
+  "page_num_in_file": 3,
+  "slide_title": "Characteristics of Animals\u00a8All animals have a number of common features\u00a4Heterotrophs, that must ingest food, and digest internally\u00a4Cells lack cell walls\u00a4Generally mobile\u00a4Coordinated movement using nerves and muscles\u00a4Reproduce sexuallynInvertebratesnDo not have a backbonenVertebratesnHave a spinal cord or backbone at some stage of their life running down the center of their back\u00a4Most likely descended from an ancestral flagellate colony, where cells took specialized roles\u00a4Wide diversity in body plans, but most members have varying developmental plans controlled by Hoxgene family",
+  "original_text": "Characteristics of Animals\u00a8All animals have a number of common features\u00a4Heterotrophs, that must ingest food, and digest internally\u00a4Cells lack cell walls\u00a4Generally mobile\u00a4Coordinated movement using nerves and muscles\u00a4Reproduce sexuallynInvertebratesnDo not have a backbonenVertebratesnHave a spinal cord or backbone at some stage of their life running down the center of their back\u00a4Most likely descended from an ancestral flagellate colony, where cells took specialized roles\u00a4Wide diversity in body plans, but most members have varying developmental plans controlled by Hoxgene family",
+  "explanation": "All animals share a set of common features: they are heterotrophs that ingest food and digest it internally; their cells lack cell walls; they are generally mobile; they coordinate movement using nerves and muscles; and they reproduce sexually. Animals are divided into invertebrates (which do not have a backbone) and vertebrates (which have a spinal cord or backbone at some stage of their life running down the center of their back). Animals most likely descended from an ancestral flagellate colony in which cells took on specialized roles. Despite a wide diversity of body plans, most animal developmental pathways are controlled by the Hox gene family.",
+  "questions": [
+    {
+      "q": "Which of the following is a common characteristic of all animals?",
+      "opts": [
+        "Autotrophs with cellulose cell walls",
+        "Heterotrophs that ingest food and digest it internally",
+        "Unicellular organisms lacking nuclei",
+        "Saprotrophs with chitin cell walls"
+      ],
+      "a": 1,
+      "exp": "The notes state that all animals are 'Heterotrophs, that must ingest food, and digest internally' and 'Cells lack cell walls'."
+    },
+    {
+      "q": "What gene family controls the developmental plans and body patterns in most animals?",
+      "opts": [
+        "Monecious gene family",
+        "Plasmids",
+        "Hox gene family",
+        "Spicule genes"
+      ],
+      "a": 2,
+      "exp": "The notes state: 'most members have varying developmental plans controlled by Hoxgene family'."
+    },
+    {
+      "q": "How do vertebrates differ from invertebrates according to the animal characteristics slide?",
+      "opts": [
+        "Vertebrates reproduce sexually, whereas invertebrates reproduce only asexually.",
+        "Vertebrates have a spinal cord or backbone at some stage of their life running down the center of their back.",
+        "Vertebrates lack specialized muscle and nerve tissue.",
+        "Vertebrates are descended from green algae."
+      ],
+      "a": 1,
+      "exp": "The notes state that Vertebrates 'Have a spinal cord or backbone at some stage of their life running down the center of their back', whereas Invertebrates 'Do not have a backbone'."
+    }
+  ]
+}

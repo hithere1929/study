@@ -1,0 +1,23 @@
+{
+  "unit": 8,
+  "page": 41,
+  "filename": "Unit_8_3.txt",
+  "section_title": "Community & Ecosystem Ecology",
+  "page_num_in_file": 7,
+  "slide_title": "Ecology of Communities¨Symbiotic Relationships¤SymbiosisnAn association between species in which at least one of the species is dependent on the other¤ParasitismnParasite derives nourishment from a host, and may use host as habitat and mode of transmissionnSmall parasites tend to be endoparasitesnEx: heartwormsnLarger parasites tend to be ectoparasitesnEx: leechesnEffect of parasites on the health of the host can range from slightly weakening them to killing them over time",
+  "original_text": "Ecology of Communities¨Symbiotic Relationships¤SymbiosisnAn association between species in which at least one of the species is dependent on the other¤ParasitismnParasite derives nourishment from a host, and may use host as habitat and mode of transmissionnSmall parasites tend to be endoparasitesnEx: heartwormsnLarger parasites tend to be ectoparasitesnEx: leechesnEffect of parasites on the health of the host can range from slightly weakening them to killing them over time",
+  "explanation": "Symbiosis is a close association between different species in which at least one species depends on the other. Parasitism is a symbiotic relationship where a parasite derives nourishment from a host, often using the host as a physical habitat and a mode of transmission. Small parasites that live inside the host are endoparasites (e.g., heartworms), while larger parasites that live on the outer surface of the host are ectoparasites (e.g., leeches). The impact of parasites on host health can range from mild weakening to eventual death.",
+  "questions": [
+    {
+      "q": "What is the difference between an endoparasite and an ectoparasite as described in the notes?",
+      "opts": [
+        "Endoparasites are larger, whereas ectoparasites are microscopic.",
+        "Endoparasites live inside the host (e.g., heartworms), while ectoparasites are larger and live on the host's surface (e.g., leeches).",
+        "Endoparasites benefit the host, whereas ectoparasites harm the host.",
+        "Endoparasites are found in LDCs, while ectoparasites are found in MDCs."
+      ],
+      "a": 1,
+      "exp": "The notes state that 'Small parasites tend to be endoparasites' (giving 'heartworms' as an example) and 'Larger parasites tend to be ectoparasites' (giving 'leeches' as an example)."
+    }
+  ]
+}

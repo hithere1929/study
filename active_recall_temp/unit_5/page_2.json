@@ -1,0 +1,23 @@
+{
+  "unit": 5,
+  "page": 2,
+  "filename": "Unit_5_1.txt",
+  "section_title": "Darwin & Evidence for Evolution",
+  "page_num_in_file": 2,
+  "slide_title": "What evidence supports the idea that Darwin’s Theory of Evolution by Natural Selection is the “unifying theory of biology”?What makes Natural Selection “natural”?How does Natural Selection encourage intra-and inter-specific diversity over time?",
+  "original_text": "What evidence supports the idea that Darwin’s Theory of Evolution by Natural Selection is the “unifying theory of biology”?What makes Natural Selection “natural”?How does Natural Selection encourage intra-and inter-specific diversity over time?\nUnit Essential Questions",
+  "explanation": "This slide outlines the Unit Essential Questions for Unit 5, which guide the study of evolution. The three central questions ask: what evidence supports Charles Darwin's Theory of Evolution by Natural Selection as the unifying theory of biology; what factors make natural selection 'natural'; and how natural selection drives both intra-specific (within-species) and inter-specific (between-species) diversity over evolutionary time.",
+  "questions": [
+    {
+      "q": "Which of the following is NOT one of the Unit Essential Questions listed for Unit 5?",
+      "opts": [
+        "What evidence supports the idea that Darwin’s Theory of Evolution by Natural Selection is the “unifying theory of biology”?",
+        "What makes Natural Selection “natural”?",
+        "How does Natural Selection encourage intra-and inter-specific diversity over time?",
+        "How do mutations in DNA cause cancer in somatic cells?"
+      ],
+      "a": 3,
+      "exp": "The first three options are the exact essential questions listed on the slide, whereas the fourth option regarding DNA mutations and somatic cell cancer is not mentioned."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 129,
+  "filename": "Unit_7_7.txt",
+  "section_title": "Respiratory System",
+  "page_num_in_file": 12,
+  "slide_title": "Breathing & Transport of Gases: Tidal Ventilation",
+  "original_text": "Breathing and Transport of Gases Ventilation All terrestrial vertebrates, with the exception of birds, utilize a tidal ventilation mechanismfor breathing nAir moves in and out same route  lungs not completely emptied and refilled during each breathing cycle. nNew air mixes with air remaining in the lungs nConserves water, but decreases efficiency",
+  "explanation": "All terrestrial vertebrates, except birds, utilize tidal ventilation for breathing. In this mechanism, air moves in and out along the same route. Because of this, the lungs are not completely emptied and refilled during each cycle. Instead, fresh inhaled air mixes with stale, oxygen-depleted air remaining in the lungs. Tidal ventilation helps conserve water, but it reduces the overall efficiency of gas exchange.",
+  "questions": [
+    {
+      "q": "What is tidal ventilation?",
+      "opts": [
+        "A mechanism where water flows in the opposite direction of blood",
+        "A breathing mechanism where air enters and exits through the same pathway, mixing fresh and stale air",
+        "A system of air sacs acting as bellows in insects",
+        "One-way air flow through anterior and posterior sacs"
+      ],
+      "a": 1,
+      "exp": "Tidal ventilation is characterized by air moving in and out of the lungs through the same airway, meaning new air mixes with residual air."
+    },
+    {
+      "q": "What is the evolutionary trade-off of tidal ventilation?",
+      "opts": [
+        "It increases gas exchange efficiency but loses large amounts of water.",
+        "It conserves water but decreases gas exchange efficiency.",
+        "It allows countercurrent exchange but requires a three-chambered heart.",
+        "It requires cartilage rings but prevents swallowing complications."
+      ],
+      "a": 1,
+      "exp": "Tidal ventilation is water-conservative because it keeps the lungs enclosed and moist, but it is less efficient because fresh air mixes with stale, low-oxygen air."
+    }
+  ]
+}

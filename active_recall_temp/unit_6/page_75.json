@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 75,
+  "filename": "Unit_6_6.txt",
+  "section_title": "Invertebrates",
+  "page_num_in_file": 8,
+  "slide_title": "Diversity -Lophotrochozoans\u00a8Trochozoans-continuednMolluscs(Mollusca)n3 part body plan. More developed body plannBivalve (Bivalvia)n2 part shellnClams, scallops, musselsnGastropods (Stomach foot)nLong, flattened foot and coiled shellnSnails, slugs, conch, nudibranchnCephalopods (Head Foot)nWell developed brainsnSquid, octopusnAnnelids (Annelida)nSegmented wormsnRepeating body segment patternnClosed circulatory systemnEarthworms, marine worms, leeches",
+  "original_text": "Diversity -Lophotrochozoans\u00a8Trochozoans-continuednMolluscs(Mollusca)n3 part body plan. More developed body plannBivalve (Bivalvia)n2 part shellnClams, scallops, musselsnGastropods (Stomach foot)nLong, flattened foot and coiled shellnSnails, slugs, conch, nudibranchnCephalopods (Head Foot)nWell developed brainsnSquid, octopusnAnnelids (Annelida)nSegmented wormsnRepeating body segment patternnClosed circulatory systemnEarthworms, marine worms, leeches",
+  "explanation": "Trochozoans also include Molluscs and Annelids. Molluscs (Mollusca) have a developed three-part body plan. They include: Bivalves (Bivalvia), which have a two-part shell (clams, scallops, mussels); Gastropods (meaning 'stomach foot'), which have a long, flattened foot and often a coiled shell (snails, slugs, conch, nudibranchs); and Cephalopods (meaning 'head foot'), which have well-developed brains (squid, octopus). Annelids (Annelida) are segmented worms with a repeating body segment pattern and a closed circulatory system; examples include earthworms, marine worms, and leeches.",
+  "questions": [
+    {
+      "q": "Which class of molluscs contains clams, scallops, and mussels?",
+      "opts": [
+        "Gastropods",
+        "Cephalopods",
+        "Bivalves",
+        "Annelids"
+      ],
+      "a": 2,
+      "exp": "The notes state that Bivalves (Bivalvia) have a '2 part shell' and include 'Clams, scallops, mussels'."
+    },
+    {
+      "q": "What features define Annelids (Annelida)?",
+      "opts": [
+        "Non-segmented bodies and open circulation",
+        "Segmented bodies with a repeating segment pattern and a closed circulatory system",
+        "A stomach-foot and coiled shells",
+        "A two-part shell and well-developed brains"
+      ],
+      "a": 1,
+      "exp": "The notes state that Annelids are 'Segmented worms' with a 'Repeating body segment pattern' and a 'Closed circulatory system'."
+    },
+    {
+      "q": "Which mollusc group is characterized by a 'head foot' and well-developed brains?",
+      "opts": [
+        "Gastropods",
+        "Bivalves",
+        "Cephalopods",
+        "Annelids"
+      ],
+      "a": 2,
+      "exp": "The notes identify Cephalopods as 'Head Foot' with 'Well developed brains'."
+    }
+  ]
+}

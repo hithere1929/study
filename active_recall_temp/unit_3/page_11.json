@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 11,
+  "filename": "Unit_3_1.txt",
+  "section_title": "Cell Biology",
+  "page_num_in_file": 11,
+  "slide_title": "Size and Scale",
+  "original_text": "Size and Scale",
+  "explanation": "This page serves as a placeholder or title page for the topic of Size and Scale in cell biology.",
+  "questions": [
+    {
+      "q": "What is the main topic of the slide on this page?",
+      "opts": [
+        "Cell Division",
+        "Size and Scale",
+        "Organelle Functions",
+        "Prokaryotic Structure"
+      ],
+      "a": 1,
+      "exp": "The slide is titled 'Size and Scale'."
+    }
+  ]
+}

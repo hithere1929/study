@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 77,
+  "filename": "Unit_3_4.txt",
+  "section_title": "The Cell Cycle",
+  "page_num_in_file": 4,
+  "slide_title": "Prokaryotic Cell Division",
+  "original_text": "Prokaryotic Cell Division\nCell division via binary fission (Asexual Reproduction):\nDNA is copied\n2 identical chromosomes attached to inner cell membrane\nNew cell membrane begins to form between copies of DNA\nAs membrane grows, cell is constricted at the center (known as cleavage furrow)\nNew cell wall forms around new membrane\nDividing cell splits into 2 independent cells each containing 1 copy of identical chromosomes",
+  "explanation": "Prokaryotes divide via binary fission, which is a form of asexual reproduction. The process begins when the circular DNA is copied, resulting in two identical chromosomes attached to the inner cell membrane. Next, a new cell membrane begins to form between the two copies of DNA. As this membrane grows, the cell constricts at the center, creating a cleavage furrow. A new cell wall then forms around the new membrane, and the dividing cell splits into two independent, genetically identical offspring cells.",
+  "questions": [
+    {
+      "q": "What is the process of cell division in prokaryotes called?",
+      "opts": [
+        "Mitosis",
+        "Meiosis",
+        "Binary fission",
+        "Autolysis"
+      ],
+      "a": 2,
+      "exp": "Prokaryotic cell division occurs via binary fission, which is a form of asexual reproduction."
+    },
+    {
+      "q": "During binary fission, what constricts the center of the cell as the new membrane grows?",
+      "opts": [
+        "A centromere",
+        "A spindle fiber",
+        "A cleavage furrow",
+        "A cell wall"
+      ],
+      "a": 2,
+      "exp": "As the membrane grows, the cell is constricted at the center, which is known as the cleavage furrow."
+    }
+  ]
+}

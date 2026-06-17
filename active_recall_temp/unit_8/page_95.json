@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 95,
+  "filename": "Unit_8_6.txt",
+  "section_title": "Major Ecosystems of the Biosphere",
+  "page_num_in_file": 4,
+  "slide_title": "Climate and the Biosphere",
+  "original_text": "Climate and the Biosphere\n•Rotation of the earth affects precipitation and winds•In the Northern Hemisphere these winds move clockwise•In the Southern Hemisphere these winds move counterclockwise•Doldrums occur at the equator -Regions of calm winds•Winds from doldrums to the poles are trade winds",
+  "explanation": "The rotation of the Earth creates the Coriolis effect, which affects global precipitation and wind patterns. In the Northern Hemisphere, global winds circulate clockwise, whereas in the Southern Hemisphere, they circulate counterclockwise. At the equator, wind currents are very weak, creating calm regions known as the doldrums. The winds that blow from the doldrums toward the polar directions are called the trade winds.",
+  "questions": [
+    {
+      "q": "In which direction do global winds circulate in the Southern Hemisphere?",
+      "opts": [
+        "Clockwise",
+        "Counterclockwise",
+        "Directly North",
+        "Directly South"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'In the Southern Hemisphere these winds move counterclockwise.'"
+    },
+    {
+      "q": "What are doldrums?",
+      "opts": [
+        "Winds that move from the poles to the equator",
+        "Regions of calm winds occurring at the equator",
+        "High-pressure desert winds at 30 degrees latitude",
+        "Clockwise winds in the Northern Hemisphere"
+      ],
+      "a": 1,
+      "exp": "The notes state: 'Doldrums occur at the equator - Regions of calm winds.'"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 13,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 13,
+  "slide_title": "1: Chemical Bonds -Covalent",
+  "original_text": "1: Chemical Bonds -Covalent¨When elements react/interact, they form a chemical bond¤Attractive force that hold atoms together¨Major forms of chemical bonds: covalent& ionic¨Covalent bond: when two atoms shareone or more pairs of electrons ¤Ex: H20 –each H needs 1 electron to become stable; O needs 2 electrons to become stable; all become stable by sharing electrons¨Most covalent bonds between 2 non-metals¨Lead to formation of molecules: smallest amount of a substance that retains its properties and can exist in a free state",
+  "explanation": "When elements interact, they form a chemical bond, which is the attractive force holding the atoms together. The primary forms of chemical bonds are covalent and ionic bonds. A covalent bond is established when two atoms share one or more pairs of electrons. For example, in a water molecule (H2O), each hydrogen atom requires one electron to achieve stability, and the oxygen atom requires two; they achieve this stability by sharing electrons. Most covalent bonds form between non-metal elements, and they result in molecules, which represent the smallest amount of a substance that retains its chemical properties and can exist independently in a free state.",
+  "questions": [
+    {
+      "q": "What type of chemical bond is formed when two atoms share one or more pairs of electrons?",
+      "opts": [
+        "Ionic bond",
+        "Covalent bond",
+        "Hydrogen bond",
+        "Metallic bond"
+      ],
+      "a": 1,
+      "exp": "A covalent bond is defined as the sharing of one or more pairs of electrons between atoms."
+    },
+    {
+      "q": "Which of the following describes a molecule?",
+      "opts": [
+        "A positively charged atom.",
+        "An atom that has lost an electron.",
+        "The smallest amount of a substance that retains its properties and can exist in a free state.",
+        "A combination of a metal and a non-metal resulting in a salt."
+      ],
+      "a": 2,
+      "exp": "A molecule is the smallest unit of a substance that retains the properties of that substance and can exist in a free state, typically formed via covalent bonding."
+    }
+  ]
+}

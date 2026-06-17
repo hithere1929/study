@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 31,
+  "filename": "Unit_4_3.txt",
+  "section_title": "DNA Replication, Transcription, Translation",
+  "page_num_in_file": 3,
+  "slide_title": "Replication Video",
+  "original_text": "Replication Video\nReplication of DNA",
+  "explanation": "This page introduces an educational video about the replication of DNA. It is a visual/media slide meant to demonstrate the mechanical process of DNA replication.",
+  "questions": [
+    {
+      "q": "What cellular process is the video on this page designed to explain?",
+      "opts": [
+        "Cellular division",
+        "Replication of DNA",
+        "Transcription of RNA",
+        "Translation of proteins"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide title is 'Replication Video' and it lists 'Replication of DNA' as the topic. The other choices are incorrect."
+    }
+  ]
+}

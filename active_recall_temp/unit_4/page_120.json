@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 120,
+  "filename": "Unit_4_6.txt",
+  "section_title": "Meiosis",
+  "page_num_in_file": 14,
+  "slide_title": "Gametes¨Animals –only cells that divide by meiosis produce gametes in reproductive organs¤Timing/structure associated with gamete formation varies¨Human meiosis occurs in:¤Testes(males) to form spermatozoa(sperm cells)nSpermatogenesis: diploid reproductive cell divides meiotically to form 4 haploid spermatids –develops into mature spermatozoa¤Ovaries(females) to form ova(egg cells)nOogenesis: diploid reproductive cell divides meiotically to produce 1 mature ovumnDuring cytokinesis I & II cytoplasm of original cell divided unequallynOvum receives majority of cytoplasm; other 3 cells produced by meiosis: polar bodies that will degenerate",
+  "original_text": "Gametes¨Animals –only cells that divide by meiosis produce gametes in reproductive organs¤Timing/structure associated with gamete formation varies¨Human meiosis occurs in:¤Testes(males) to form spermatozoa(sperm cells)nSpermatogenesis: diploid reproductive cell divides meiotically to form 4 haploid spermatids –develops into mature spermatozoa¤Ovaries(females) to form ova(egg cells)nOogenesis: diploid reproductive cell divides meiotically to produce 1 mature ovumnDuring cytokinesis I & II cytoplasm of original cell divided unequallynOvum receives majority of cytoplasm; other 3 cells produced by meiosis: polar bodies that will degenerate",
+  "explanation": "In animals, meiosis is restricted to cells in the reproductive organs that generate gametes, with timing and structural details varying by species. In human males, meiosis occurs in the testes via spermatogenesis: a diploid reproductive cell divides to produce four haploid spermatids, which then mature into spermatozoa (sperm cells). In human females, meiosis occurs in the ovaries via oogenesis. Oogenesis produces only one functional mature ovum (egg cell) because cytokinesis I and II divide the cytoplasm unequally. The developing ovum retains the vast majority of the cytoplasm, while the other three haploid products receive very little and form polar bodies that eventually degenerate.",
+  "questions": [
+    {
+      "q": "What is the cellular outcome of human spermatogenesis?",
+      "opts": [
+        "One diploid reproductive cell divides to form 1 mature sperm cell.",
+        "One diploid reproductive cell divides to form 4 haploid spermatids that develop into spermatozoa.",
+        "One haploid cell replicates to produce 4 polar bodies.",
+        "Four diploid cells fuse to form a single zygote."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states under Spermatogenesis: 'diploid reproductive cell divides meiotically to form 4 haploid spermatids – develops into mature spermatozoa.'"
+    },
+    {
+      "q": "Why does oogenesis result in only one mature ovum instead of four?",
+      "opts": [
+        "Because three of the chromosomes are inactivated as Barr bodies.",
+        "Because during cytokinesis I & II, the cytoplasm is divided unequally so the ovum receives most of it, and the other three cells become polar bodies that degenerate.",
+        "Because female cells do not undergo meiosis II.",
+        "Because the SRY gene blocks the division of female gametes."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide explains: 'During cytokinesis I & II cytoplasm of original cell divided unequally. Ovum receives majority of cytoplasm; other 3 cells produced by meiosis: polar bodies that will degenerate.'"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 18,
+  "filename": "Unit_8_2.txt",
+  "section_title": "Population Ecology",
+  "page_num_in_file": 3,
+  "slide_title": "Scope of Ecology",
+  "original_text": "Scope of Ecology\n¨Ecology¤The study of the interactions of organisms with other organisms and the physical environmentnNot just descriptive, but predictive. Develop models that explain and predict distribution and abundance of organisms.¤Habitat-Place where an organism lives¤Population-All the individuals of a species within a particular space¤Community–Various populations of multiple species interacting with each other¤Ecosystem-Community interacting with the environment¤Biosphere-All the communities on Earth whose members exist in air and water and on land",
+  "explanation": "This page introduces the scope and key levels of ecology. Ecology is defined as the scientific study of interactions between organisms and their physical environment. It is not merely descriptive but predictive, developing models to explain and predict organisms' distribution and abundance. The hierarchical levels are: 1) Habitat: the specific location where an organism resides. 2) Population: a group of individuals belonging to the same species that live in a particular spatial area. 3) Community: different populations of multiple species interacting with one another. 4) Ecosystem: a biological community interacting with its physical environment. 5) Biosphere: the global sum of all communities on Earth where life exists in the air, water, and on land.",
+  "questions": [
+    {
+      "q": "Which ecological term describes all the individuals of a single species living within a particular space?",
+      "opts": [
+        "Habitat",
+        "Population",
+        "Community",
+        "Ecosystem"
+      ],
+      "a": 1,
+      "exp": "The notes define a population as 'All the individuals of a species within a particular space.'"
+    },
+    {
+      "q": "How is an ecosystem distinguished from a community in these notes?",
+      "opts": [
+        "A community includes abiotic factors, whereas an ecosystem only includes living organisms.",
+        "An ecosystem is a community interacting with the physical environment, whereas a community only includes the interacting populations of multiple species.",
+        "A community consists of only one species, whereas an ecosystem contains multiple species.",
+        "An ecosystem represents the entire biosphere, whereas a community is restricted to a small habitat."
+      ],
+      "a": 1,
+      "exp": "According to the notes, a community is the 'Various populations of multiple species interacting with each other,' while an ecosystem is the 'Community interacting with the environment.'"
+    }
+  ]
+}

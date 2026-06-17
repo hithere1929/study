@@ -1,0 +1,34 @@
+{
+  "unit": 1,
+  "page": 63,
+  "filename": "Unit_1_4.txt",
+  "section_title": "Microscopy",
+  "page_num_in_file": 13,
+  "slide_title": "Magnification",
+  "original_text": "\u2013Magnification is equal to the distance measured between 2 points on an image divided by the distance between the same 2 points on the original object.\u2013Mag = image distanceobject distance\n\u2013Ex: Calculate the magnification of an image where the diameter of the object is 5\u00b5mand the diameter on the image is 12.5 mm.\u2013Answer:\u2013Magnification = 12500\u00b5m/5\u00b5m = \u20132500X",
+  "explanation": "This slide provides the mathematical formula for magnification. Magnification is equal to the distance measured between two points on the image divided by the distance between the same two points on the original object (Mag = image distance / object distance). It includes a sample calculation: if the diameter of the original object is 5 \u00b5m and its diameter in the image is 12.5 mm (which converts to 12,500 \u00b5m), the magnification is 12,500 \u00b5m / 5 \u00b5m = 2500X.",
+  "questions": [
+    {
+      "q": "What is the mathematical formula for calculating magnification?",
+      "opts": [
+        "Mag = object distance * image distance",
+        "Mag = image distance / object distance",
+        "Mag = focal length / wavelength",
+        "Mag = resolution * ocular lens"
+      ],
+      "a": 1,
+      "exp": "The slide gives the formula: 'Mag = image distance / object distance'."
+    },
+    {
+      "q": "If an object with an actual diameter of 5 \u00b5m has a diameter of 12.5 mm on an image, what is the magnification?",
+      "opts": [
+        "2.5X",
+        "250X",
+        "2500X",
+        "25000X"
+      ],
+      "a": 2,
+      "exp": "First convert 12.5 mm to micrometers: 12.5 mm * 1000 \u00b5m/mm = 12500 \u00b5m. Then divide by the actual size: 12500 \u00b5m / 5 \u00b5m = 2500X."
+    }
+  ]
+}

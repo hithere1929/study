@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 123,
+  "filename": "Unit_4_6.txt",
+  "section_title": "Meiosis",
+  "page_num_in_file": 17,
+  "slide_title": "Hormones -Males¨Hypothalamus has ultimate control of testicular sexual function¤Gonadotropic-releasing hormone (GnRH) stimulates production of the gonadotropic hormones by the anterior pituitary¤Follicle Stimulating Hormone (FSH)nPromotes spermatogenesis in the seminiferous tubules¤Luteinizing Hormone (LH)nControls production of testosterone by the interstitial cells of testes¤TestosteronenMajor sex hormone in malesnEstablishes and maintains secondary sex characteristicsnResponsible for greater muscular development in males",
+  "original_text": "Hormones -Males¨Hypothalamus has ultimate control of testicular sexual function¤Gonadotropic-releasing hormone (GnRH) stimulates production of the gonadotropic hormones by the anterior pituitary¤Follicle Stimulating Hormone (FSH)nPromotes spermatogenesis in the seminiferous tubules¤Luteinizing Hormone (LH)nControls production of testosterone by the interstitial cells of testes¤TestosteronenMajor sex hormone in malesnEstablishes and maintains secondary sex characteristicsnResponsible for greater muscular development in males",
+  "explanation": "Hormonal control of male reproduction begins in the brain. The hypothalamus exerts ultimate control of testicular sexual function by secreting Gonadotropin-releasing hormone (GnRH), which stimulates the anterior pituitary to produce gonadotropic hormones. These gonadotropic hormones are Follicle Stimulating Hormone (FSH) and Luteinizing Hormone (LH). FSH promotes spermatogenesis within the seminiferous tubules of the testes. LH controls the synthesis and production of testosterone by the interstitial cells of the testes. Testosterone is the primary male sex hormone, responsible for establishing and maintaining secondary sexual characteristics and promoting greater muscular development in males.",
+  "questions": [
+    {
+      "q": "Which hormone is secreted by the hypothalamus to stimulate the anterior pituitary's release of gonadotropic hormones?",
+      "opts": [
+        "Luteinizing Hormone (LH)",
+        "Follicle Stimulating Hormone (FSH)",
+        "Gonadotropin-releasing hormone (GnRH)",
+        "Testosterone"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide states: 'Gonadotropic-releasing hormone (GnRH) stimulates production of the gonadotropic hormones by the anterior pituitary.'"
+    },
+    {
+      "q": "What are the respective target sites and functions of FSH and LH in the male reproductive system?",
+      "opts": [
+        "FSH stimulates interstitial cells to make GnRH; LH stimulates seminiferous tubules to make progesterone.",
+        "FSH promotes spermatogenesis in the seminiferous tubules; LH controls testosterone production by the interstitial cells of the testes.",
+        "FSH controls testosterone production in the pituitary; LH promotes spermatogenesis in the hypothalamus.",
+        "FSH and LH both act on the prostate to degrade excess sperm."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'Follicle Stimulating Hormone (FSH) Promotes spermatogenesis in the seminiferous tubules' and 'Luteinizing Hormone (LH) Controls production of testosterone by the interstitial cells of testes.'"
+    }
+  ]
+}

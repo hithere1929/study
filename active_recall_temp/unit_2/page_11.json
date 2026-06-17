@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 11,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 11,
+  "slide_title": "1: Compounds",
+  "original_text": "1: Compounds¨How elements combine to form compounds depends on number and arrangement of their electrons¨Atoms are most stable when highest energy orbital is full with electrons¤Known as valence orbital¨Elements, such as He & Ne, that already have the maximum number of electrons in their valence orbitals are known as noble/inert; don’t react with other elements¤Most elements not in stable form; react to add stability",
+  "explanation": "The manner in which elements combine to form compounds is determined by the number and arrangement of their electrons. Atoms reach their most stable state when their highest energy orbital, known as the valence orbital, is completely filled with electrons. Elements that naturally possess a maximum number of electrons in their valence orbitals, such as helium (He) and neon (Ne), are referred to as noble or inert gases, and they do not react with other elements. However, most elements do not exist in this stable configuration and will chemically react with other atoms to achieve stability by filling their valence orbitals.",
+  "questions": [
+    {
+      "q": "What is the outermost, highest-energy electron orbital called, which determines an atom's stability?",
+      "opts": [
+        "Core orbital",
+        "Valence orbital",
+        "Nuclear orbital",
+        "Ground orbital"
+      ],
+      "a": 1,
+      "exp": "The highest energy orbital, which must be full for an atom to be stable, is known as the valence orbital."
+    },
+    {
+      "q": "Why are elements like helium (He) and neon (Ne) considered chemically noble or inert?",
+      "opts": [
+        "They have too many protons to react.",
+        "They already have the maximum number of electrons in their valence orbitals, making them stable.",
+        "They are unable to form solid states of matter.",
+        "They do not have any orbitals."
+      ],
+      "a": 1,
+      "exp": "Helium and neon are noble/inert because they already contain the maximum number of electrons in their valence orbitals, meaning they are stable and do not need to react to achieve stability."
+    }
+  ]
+}

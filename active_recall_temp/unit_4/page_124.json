@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 124,
+  "filename": "Unit_4_6.txt",
+  "section_title": "Meiosis",
+  "page_num_in_file": 18,
+  "slide_title": "Hormones -Males",
+  "original_text": "Hormones -Males",
+  "explanation": "This slide serves as a transition or continuation slide within the Male Hormones subsection.",
+  "questions": [
+    {
+      "q": "What is the title of this continuation slide?",
+      "opts": [
+        "Hormones - Females",
+        "Hormones - Males",
+        "The Ovarian Cycle",
+        "Oogenesis"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide is titled 'Hormones - Males'."
+    }
+  ]
+}

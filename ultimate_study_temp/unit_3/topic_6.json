@@ -1,0 +1,27 @@
+{
+  "id": "u3_t6",
+  "title": "Plant vs Animal",
+  "cheat_card": [
+    "<b>Plant cells</b> have three unique structures not found in animal cells: a rigid <b>cell wall</b>, a massive <b>central vacuole</b>, and specialized double-membrane organelles called <b>plastids</b>.",
+    "The <b>cell wall</b> is composed of <b>cellulose</b> synthesized directly on the plasma membrane by enzymes guided by microtubules. It includes a primary wall and a rigid, non-expanding <b>secondary cell wall</b>.",
+    "The <b>central vacuole</b> makes up <b>90% of the cell volume</b>, storing water, enzymes, and wastes. High water levels create turgor pressure that keeps the plant upright, whereas low water causes the plant to wilt.",
+    "<b>Plastids</b> contain their own DNA and include: <b>chloroplasts</b> (photosynthesis), <b>amyloplasts</b> (starch storage), <b>chromoplasts</b> (pigments), and <b>leucoplasts</b> (fatty/amino acid synthesis).",
+    "<b>Animal cells</b> lack these structures but uniquely possess <b>centrioles</b> (two microtubule cylinders at right angles near the nucleus that organize the cytoskeleton during division) and abundant lysosomes."
+  ],
+  "memory_anchor": "### Plant vs. Animal Structural Compare\n\n| Feature | Plant Cells | Animal Cells |\n|---|---|---|\n| **Outer Boundary** | Cell Wall (Cellulose) + Plasma Membrane | Plasma Membrane only |\n| **Vacuole** | Large Central Vacuole (90% volume, turgor) | Small, temporary vacuoles |\n| **Plastids** | Present (Chloroplasts, Amyloplasts, etc.) | Absent |\n| **Cell Division** | Form **Cell Plate** (no centrioles) | Form **Cleavage Furrow** (uses centrioles) |\n| **Lysosomes** | Rare (vacuole performs digestion) | Abundant (digestive vesicles) |",
+  "flashcards": [
+    {
+      "q": "How does the synthesis and structure of the primary cell wall differ from the secondary cell wall in plant cells?",
+      "a": "The primary cell wall is synthesized on the plasma membrane by enzymes guided by microtubules, growing in a single direction. The secondary cell wall is synthesized between the primary wall and the plasma membrane after the cell stops growing; it is extremely strong, lacks expansion capability, and forms wood after the cell dies."
+    },
+    {
+      "q": "List the four main types of plastids found in plant cells and specify the metabolic or storage role of each.",
+      "a": "1) Chloroplasts: carry out photosynthesis using thylakoids and chlorophyll. 2) Amyloplasts: store starch granules. 3) Chromoplasts: store colorful pigments (like carrot orange). 4) Leucoplasts: synthesize fatty acids and amino acids."
+    },
+    {
+      "q": "What happens to a plant cell and the plant as a whole when water is scarce, and which organelle is responsible?",
+      "a": "When water is scarce, the central vacuole loses water and shrinks, causing the other organelles to move away from the cell periphery. This loss of turgor pressure causes the plant cells to contract and the plant to wilt."
+    }
+  ],
+  "outline_blanks": "Plant cells are distinguished by a cell wall made of [[cellulose]], a large [[central vacuole]] that maintains turgor pressure, and double-membrane [[plastids]] like chloroplasts or starch-storing [[amyloplasts]]. Animal cells lack these but possess [[centrioles]] that organize microtubules during cell division."
+}

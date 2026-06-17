@@ -1,0 +1,45 @@
+{
+  "unit": 8,
+  "page": 13,
+  "filename": "Unit_8_1.txt",
+  "section_title": "Behavioral Ecology",
+  "page_num_in_file": 13,
+  "slide_title": "Behaviors that Increase Fitness¨Reproductive Strategies and Fitness¤PolygamousnMales mate with multiple femalesnFemales invest more in the offspring¤PolyandrousnOne female mates with more than one malenThe environment cannot support several young¤MonogamousnOne male mates with one femalenOccurs when males have limited mating opportunities, territoriality exists, and the male is certain the offspring are his¨Sexual Selection¤Adaptive changes in females and males that lead to differential reproductive success¤Sexual selection often results innFemale choicenMale competition",
+  "original_text": "Behaviors that Increase Fitness¨Reproductive Strategies and Fitness¤PolygamousnMales mate with multiple femalesnFemales invest more in the offspring¤PolyandrousnOne female mates with more than one malenThe environment cannot support several young¤MonogamousnOne male mates with one femalenOccurs when males have limited mating opportunities, territoriality exists, and the male is certain the offspring are his¨Sexual Selection¤Adaptive changes in females and males that lead to differential reproductive success¤Sexual selection often results innFemale choicenMale competition",
+  "explanation": "Different reproductive strategies impact evolutionary fitness. 1) Polygamous strategies involve a male mating with multiple females, with females investing more heavily in offspring care. 2) Polyandrous strategies involve a single female mating with multiple males, which typically occurs when the environment is harsh and cannot support the young without assistance from multiple males. 3) Monogamous strategies feature one male mating with one female. This is common when males have limited mating opportunities, territoriality is present, and the male has high certainty of paternity (certainty that the offspring are his). Sexual selection refers to adaptive changes in males and females that result in differential reproductive success, which typically manifests as female choice (selecting mates) and male competition (competing for mates).",
+  "questions": [
+    {
+      "q": "Under what environmental condition is a polyandrous mating system typically observed?",
+      "opts": [
+        "When resources are extremely abundant and easy to acquire",
+        "When the environment is harsh and cannot support several young without multiple males helping",
+        "When females have no role in caring for the offspring",
+        "When males are much larger than females and defend large harems"
+      ],
+      "a": 1,
+      "exp": "The notes state that polyandrous mating (one female, multiple males) occurs when 'The environment cannot support several young,' meaning multiple males are needed to cooperate in raising them."
+    },
+    {
+      "q": "Which of the following conditions favors monogamy?",
+      "opts": [
+        "High male availability and lack of territoriality",
+        "Harsh environment requiring multiple male mates for a single female",
+        "Limited mating opportunities, presence of territoriality, and male certainty of paternity",
+        "Females investing significantly more energy than males in offspring care"
+      ],
+      "a": 2,
+      "exp": "The notes list three factors for monogamy: 'occurs when males have limited mating opportunities, territoriality exists, and the male is certain the offspring are his.'"
+    },
+    {
+      "q": "What are the two common outcomes of sexual selection?",
+      "opts": [
+        "Female choice and male competition",
+        "Asexual reproduction and self-fertilization",
+        "Extinction of the species and reduced fitness",
+        "Decreased parental investment and expanded territory size"
+      ],
+      "a": 0,
+      "exp": "The notes state that sexual selection often results in 'Female choice' and 'Male competition.'"
+    }
+  ]
+}

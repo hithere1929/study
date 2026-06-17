@@ -1,0 +1,34 @@
+{
+  "unit": 3,
+  "page": 16,
+  "filename": "Unit_3_1.txt",
+  "section_title": "Cell Biology",
+  "page_num_in_file": 16,
+  "slide_title": "Cellular Organization",
+  "original_text": "Cellular Organization\nSome cells can live alone; others depend on presence of other cells to survive\nColonial organism: collection of genetically identical cells that live together in a connected group. Ex from lab activity – algae, volvox\nNot truly multicellular because few cell activities are coordinated\nMulticellularity: an organism composed of multiple cells that are specializedin their function and unable to survive independently\nTissue: group of similar cells that perform a particular job in an organism\nOrgan: group of similar tissues that perform a particular job in an organism\nOrgan system: group of organsthat accomplish related tasks",
+  "explanation": "Organisms show different levels of cellular organization. Some cells live independently, while others depend on other cells. A colonial organism is a collection of genetically identical cells that live together in a connected group (e.g., Volvox or certain algae); however, they are not truly multicellular because they exhibit very little coordination of activities. Multicellularity involves organisms composed of multiple specialized cells that cannot survive independently. In multicellular organisms, cells are organized into hierarchies: similar cells form a tissue; similar tissues form an organ that performs a particular job; and groups of organs form an organ system to accomplish related tasks.",
+  "questions": [
+    {
+      "q": "Why is a colonial organism like Volvox not considered truly multicellular?",
+      "opts": [
+        "The cells are genetically different from each other.",
+        "Few of their cell activities are coordinated.",
+        "They cannot survive in a connected group.",
+        "They lack cell walls and plasma membranes."
+      ],
+      "a": 1,
+      "exp": "The slide states that a colonial organism is not truly multicellular because few cell activities are coordinated."
+    },
+    {
+      "q": "What is the correct hierarchical order of organization in multicellular organisms from simplest to most complex?",
+      "opts": [
+        "Tissue -> Organ -> Organ system -> Cell",
+        "Cell -> Tissue -> Organ -> Organ system",
+        "Organ -> Organ system -> Tissue -> Cell",
+        "Cell -> Organ -> Tissue -> Organ system"
+      ],
+      "a": 1,
+      "exp": "In multicellularity, cells make up tissues, which form organs, which work together in organ systems."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 5,
+  "page": 66,
+  "filename": "Unit_5_3.txt",
+  "section_title": "Speciation & Macroevolution",
+  "page_num_in_file": 17,
+  "slide_title": "Principles of Macroevolution",
+  "original_text": "Principles of Macroevolution",
+  "explanation": "This slide serves as a separator page introducing the 'Principles of Macroevolution' subsection.",
+  "questions": [
+    {
+      "q": "What is the heading of the separator slide on page 66?",
+      "opts": [
+        "Modes of Speciation",
+        "Principles of Macroevolution",
+        "How New Species Evolve",
+        "Principles of Taxonomy & Systematics"
+      ],
+      "a": 1,
+      "exp": "The slide text reads 'Principles of Macroevolution'."
+    }
+  ]
+}

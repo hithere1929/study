@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 61,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 25,
+  "slide_title": "3: Lipids",
+  "original_text": "3: Lipids¨Lipids: large, nonpolarorganic molecules¤Do not dissolve in water¨Includes:¤Triglycerides¤Phospholipids¤Steroids¤Waxes¤Pigments¨Have higher ratio of carbon & hydrogen to oxygen atoms than carbohydrates¤Higher number of C-H bonds per gram than other organic compounds ; store more energy",
+  "explanation": "Lipids are large, nonpolar organic molecules that are hydrophobic and do not dissolve in water. This class of macromolecules includes triglycerides, phospholipids, steroids, waxes, and pigments. Structurally, lipids possess a higher ratio of carbon and hydrogen atoms to oxygen atoms compared to carbohydrates. Because they have a higher number of energy-rich C-H bonds per gram than other organic compounds, lipids are highly efficient at storing energy.",
+  "questions": [
+    {
+      "q": "Why are lipids insoluble in water?",
+      "opts": [
+        "They are polar molecules.",
+        "They are large and nonpolar.",
+        "They contain too many oxygen atoms.",
+        "They are composed entirely of simple sugars."
+      ],
+      "a": 1,
+      "exp": "Water is a polar solvent, and because lipids are large, nonpolar organic molecules, they do not dissolve in water ('like dissolves like')."
+    },
+    {
+      "q": "Why do lipids store more energy per gram than carbohydrates?",
+      "opts": [
+        "They have more double covalent bonds between oxygens.",
+        "They contain a higher number of energy-rich C-H bonds per gram.",
+        "They dissolve easily in water.",
+        "They are composed of amino acid monomers."
+      ],
+      "a": 1,
+      "exp": "Lipids have a higher ratio of carbon and hydrogen to oxygen, giving them more C-H bonds per gram than other compounds, allowing them to store more energy."
+    }
+  ]
+}

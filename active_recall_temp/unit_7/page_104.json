@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 104,
+  "filename": "Unit_7_6.txt",
+  "section_title": "Circulation & Cardiovascular System",
+  "page_num_in_file": 10,
+  "slide_title": "The Human Cardiovascular System: Heart Valves",
+  "original_text": "The Human Cardiovascular System Structure of the Heart Valves open and close to control blood flow through heart prevents backflow Atrioventricular valves Tricuspid(3 flap) valve between right atrium and ventricle Bicuspid (2 flap) valve between left atrium and ventricle Semilunar valves Pulmonary semilunar valve between right ventricle and pulmonary trunk Aortic semilunar valve between left ventricle and aorta",
+  "explanation": "To ensure one-way blood flow and prevent backflow, the human heart contains four valves that open and close in response to pressure changes. 1) Atrioventricular (AV) valves: separate the atria from the ventricles. The tricuspid valve (three flaps) is located on the right side of the heart, and the bicuspid (mitral, two flaps) valve is on the left side. 2) Semilunar valves: guard the exits of the ventricles. The pulmonary semilunar valve controls blood flow between the right ventricle and the pulmonary trunk, and the aortic semilunar valve controls blood flow between the left ventricle and the aorta.",
+  "questions": [
+    {
+      "q": "Which valve is located between the right atrium and the right ventricle?",
+      "opts": [
+        "Bicuspid valve",
+        "Tricuspid valve",
+        "Pulmonary semilunar valve",
+        "Aortic semilunar valve"
+      ],
+      "a": 1,
+      "exp": "The tricuspid (3-flap) valve is the atrioventricular valve located between the right atrium and the right ventricle."
+    },
+    {
+      "q": "What is the location of the aortic semilunar valve?",
+      "opts": [
+        "Between the right atrium and right ventricle",
+        "Between the left atrium and left ventricle",
+        "Between the right ventricle and the pulmonary trunk",
+        "Between the left ventricle and the aorta"
+      ],
+      "a": 3,
+      "exp": "The aortic semilunar valve is located at the exit of the left ventricle, separating it from the aorta."
+    }
+  ]
+}

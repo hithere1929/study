@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 100,
+  "filename": "Unit_4_5.txt",
+  "section_title": "Biotech & Genomics",
+  "page_num_in_file": 22,
+  "slide_title": "Genomics¨Eukaryotic Gene Structure¤Intergenic sequences are DNA sequences that occur between genesnRepetitive DNA elementsoccur when the same sequence of two or more nucleotides is repeated many times along the length of one or more chromosomes.nCan be Tandem repeats, short tandem repeats, and interspersed repeats, such as AlurepeatsnTransposonsare specific DNA sequences that have the remarkable ability to move within and between chromosomes.nAluis an example –jumping genenUnique Non-coding DNAmakes up over 50% of remaining DNA in eukaryotes, much of which the function of is still unknown",
+  "original_text": "Genomics¨Eukaryotic Gene Structure¤Intergenic sequences are DNA sequences that occur between genesnRepetitive DNA elementsoccur when the same sequence of two or more nucleotides is repeated many times along the length of one or more chromosomes.nCan be Tandem repeats, short tandem repeats, and interspersed repeats, such as AlurepeatsnTransposonsare specific DNA sequences that have the remarkable ability to move within and between chromosomes.nAluis an example –jumping genenUnique Non-coding DNAmakes up over 50% of remaining DNA in eukaryotes, much of which the function of is still unknown",
+  "explanation": "In eukaryotic genomes, intergenic sequences are DNA sequences located between genes. Within these intergenic regions, repetitive DNA elements occur where a sequence of two or more nucleotides is repeated multiple times along one or more chromosomes. These elements include tandem repeats, short tandem repeats (STRs), and interspersed repeats (such as Alu repeats). Additionally, genomes contain transposons, which are specific DNA sequences that can move (or 'jump') within and between chromosomes; the Alu sequence is a prime example of such a jumping gene. Finally, unique non-coding DNA constitutes over 50% of the remaining eukaryotic DNA, and much of its biological function remains unknown.",
+  "questions": [
+    {
+      "q": "What are transposons?",
+      "opts": [
+        "Enzymes that translate mRNA into protein.",
+        "Specific DNA sequences that have the ability to move within and between chromosomes.",
+        "Proteins that degrade damaged mitochondria.",
+        "Repetitive single-stranded RNA sequences."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide defines transposons as 'specific DNA sequences that have the remarkable ability to move within and between chromosomes.' The other options are incorrect."
+    },
+    {
+      "q": "What is Alu in the human genome?",
+      "opts": [
+        "A transcription factor that binds to the promoter.",
+        "An example of a transposon or 'jumping gene'.",
+        "A restriction enzyme used in cloning.",
+        "A protein that cleaves the 5' cap of mRNA."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide lists 'Alu repeats' as interspersed repeats and notes 'Alu is an example - jumping gene.' The other options are incorrect."
+    }
+  ]
+}

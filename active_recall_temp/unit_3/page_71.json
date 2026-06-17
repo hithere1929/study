@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 71,
+  "filename": "Unit_3_3.txt",
+  "section_title": "Chromosomes",
+  "page_num_in_file": 12,
+  "slide_title": "Haploid vs Diploid Cells",
+  "original_text": "Haploid vs Diploid Cells\nCells that have 2 sets of chromosomes are diploid \n2 autosomes for each homologous pairs\n2 sex chromosomes \nAll human cells are diploid \nExcept reproductive cells (sperm/egg) \nDiploid abbreviated as 2n\nHuman diploid (2n) number = 46\n2 x 22 autosomes + 2 sex chromosomes",
+  "explanation": "Cells that contain two complete sets of chromosomes are described as diploid. In diploid cells, there are two autosomes for each homologous pair and two sex chromosomes. Diploid cells are abbreviated as 2n. Almost all cells in the human body are diploid, except for reproductive cells (gametes like sperm and egg cells). The human diploid (2n) number is 46, consisting of 44 autosomes (2 x 22 pairs) and 2 sex chromosomes.",
+  "questions": [
+    {
+      "q": "What does the abbreviation '2n' represent, and what is the 2n number for humans?",
+      "opts": [
+        "Haploid, 23",
+        "Diploid, 46",
+        "Triploid, 69",
+        "Tetraploid, 92"
+      ],
+      "a": 1,
+      "exp": "Diploid is abbreviated as 2n, and the human diploid (2n) number is 46."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit": 1,
+  "page": 50,
+  "filename": "Unit_1_3.txt",
+  "section_title": "The Process of Science",
+  "page_num_in_file": 16,
+  "slide_title": "Case StudyIn Class",
+  "original_text": "\u2013You notice that you left some skittles out on your desk when you went to bed last night. The skittles were next to your glass of water, which had created a puddle. You notice that the color and some of the inside of the skittle has dissolved into the puddle.\n\u2013Craft a line of scientific inquiry based on this observation, using the steps of the scientific method. 1.Make an Observation2.Ask a Question3.Make a Hypothesis4.Perform an Experiment(s)5.Collect and Analyze Data6.Make Conclusions",
+  "explanation": "This slide presents an in-class case study task based on a real-world scenario. The observation is that leaving Skittles on a desk next to a water puddle results in the color and internal contents of the Skittles dissolving into the puddle. Students are instructed to design a scientific inquiry by applying the six steps of the scientific method: observation, question, hypothesis, experiment, data collection/analysis, and conclusions.",
+  "questions": [
+    {
+      "q": "What is the prompt for the in-class case study on this page?",
+      "opts": [
+        "Design a system of taxonomy for candies.",
+        "Calculate the rate of dissolving using mathematical equations.",
+        "Craft a line of scientific inquiry using the steps of the scientific method based on the dissolving Skittles observation.",
+        "Dissect a Skittle to study its cellular structure."
+      ],
+      "a": 2,
+      "exp": "The prompt asks to 'Craft a line of scientific inquiry based on this observation, using the steps of the scientific method.'"
+    }
+  ]
+}

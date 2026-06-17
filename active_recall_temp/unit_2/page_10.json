@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 10,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 10,
+  "slide_title": "1: Compounds",
+  "original_text": "1: Compounds¨Elements not usually found alone¨Atoms readily combine with other atoms of the same or different elements to form compounds¤Made of atoms of 2 or more elements in fixed proportions¨Chemical formula shows type and proportion of atoms in a compound¤H2O, CO2, H2, CH4, CH3OH¨Physical and chemical properties of compounds and their component elements are different¤O2(g) + 2H2(g) à2H2O (l)",
+  "explanation": "Elements are not usually found alone in nature. Instead, atoms readily combine with other atoms of the same or different elements to form compounds. A compound is composed of atoms of two or more elements chemically combined in fixed proportions. A chemical formula, such as H2O, CO2, H2, CH4, or CH3OH, indicates the specific types and proportions of atoms within a compound. The physical and chemical properties of a compound are distinct and different from those of its component elements, as illustrated by the reaction where gaseous oxygen and hydrogen combine to form liquid water.",
+  "questions": [
+    {
+      "q": "Which of the following is true regarding the properties of a compound compared to the properties of its component elements?",
+      "opts": [
+        "The properties of the compound are identical to those of its component elements.",
+        "The properties of the compound are always gaseous.",
+        "The physical and chemical properties of a compound are different from those of the component elements.",
+        "Compounds have no physical properties, only chemical properties."
+      ],
+      "a": 2,
+      "exp": "The physical and chemical properties of a compound are different from those of its component elements (e.g., gaseous oxygen and hydrogen combine to form liquid water)."
+    },
+    {
+      "q": "What does a chemical formula represent?",
+      "opts": [
+        "The number of protons and neutrons in an atom.",
+        "The types and proportions of atoms in a compound.",
+        "The state of matter of a substance.",
+        "The rate of a chemical reaction."
+      ],
+      "a": 1,
+      "exp": "A chemical formula shows the type and proportion of atoms in a compound (e.g., H2O has two hydrogen atoms and one oxygen atom)."
+    }
+  ]
+}

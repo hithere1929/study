@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 85,
+  "filename": "Unit_7_5.txt",
+  "section_title": "Animal Organization",
+  "page_num_in_file": 12,
+  "slide_title": "Types of Tissues: Nervous Tissue",
+  "original_text": "Types of Tissues Nervous Tissue Conducts electrical impulses Conveys information from one area to another Nervous tissue includes: Neurons -Transmit information, consist of dendrites,a cell body, and an axon Outside the brain and spinal cord, fibers bound by connective tissue form nerves. Neuroglia-Support and nourish neurons Neuroglia in brain include Microglia, Astrocytes, Oligodentrocytes Nervous system (functions): Sensory input Sensory receptors detect changes Transmit information to the spinal cord and brain Data integration Spinal cord and brain integrate data Decision is made regarding appropriate response Motor output Response is transmitted to effector (gland or muscle) Effector initiates the actual response",
+  "explanation": "Nervous tissue conducts electrical impulses and conveys information throughout the body. It consists of two cell types: 1) Neurons: the cells that transmit information. A neuron consists of dendrites (which receive signals), a cell body (containing the nucleus), and an axon (which transmits signals away). Outside the brain and spinal cord, bundles of axon fibers bound by connective tissue are called nerves. 2) Neuroglia: supporting cells that protect and nourish neurons (in the brain, these include microglia, astrocytes, and oligodendrocytes). The nervous system functions in three steps: 1) Sensory input: sensory receptors detect internal or external changes and transmit signals to the brain/spinal cord. 2) Data integration: the brain and spinal cord process the data and decide on a response. 3) Motor output: the decision is transmitted to effectors (muscles or glands) to execute the response.",
+  "questions": [
+    {
+      "q": "What are the three structural parts of a neuron?",
+      "opts": [
+        "Exocarp, mesocarp, and endocarp",
+        "Dendrites, cell body, and axon",
+        "Osteon, lacuna, and central canal",
+        "Stigma, style, and ovary"
+      ],
+      "a": 1,
+      "exp": "A neuron consists of dendrites (receive signals), a cell body, and an axon (transmits signals)."
+    },
+    {
+      "q": "What is the role of neuroglia, and what are three examples found in the brain?",
+      "opts": [
+        "They contract to produce movement; skeletal, smooth, cardiac",
+        "They support and nourish neurons; microglia, astrocytes, oligodendrocytes",
+        "They synthesize collagen matrix; fibroblasts, chondrocytes, osteocytes",
+        "They secrete hormones; pituitary, thyroid, adrenal"
+      ],
+      "a": 1,
+      "exp": "Neuroglia support and nourish neurons. Brain neuroglia include microglia, astrocytes, and oligodendrocytes."
+    },
+    {
+      "q": "What is the correct sequence of nervous system functions in coordinating a response?",
+      "opts": [
+        "Sensory input -> Data integration -> Motor output",
+        "Motor output -> Data integration -> Sensory input",
+        "Data integration -> Sensory input -> Motor output",
+        "Sensory input -> Motor output -> Data integration"
+      ],
+      "a": 0,
+      "exp": "First, sensory input detects changes. Next, data integration processes the information. Finally, motor output transmits the response to an effector."
+    }
+  ]
+}

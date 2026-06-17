@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 32,
+  "filename": "Unit_6_3.txt",
+  "section_title": "Protists",
+  "page_num_in_file": 8,
+  "slide_title": "Supergroup Excavata\u00a8Include zooflagellates (animal-like) that have atypical or absent mitochondria and distinctive flagella and/or deep (excavated) oral grooves\u00a8Euglinids\u00a4Euglena \u2013Small; freshwater; unicellular\u00a4Long flagellum\u00a4Contains eyespot that can detect light\u00a8Parabasalids& Diplomonads\u00a4Unicellular, flagellated\u00a4Can survive anaerobic environments, lack mitochondria. Rely on fermentation. nParabasalids\u2013common STD \u2013TrichomoniasisnDiplomonads \u2013Transmitted in contaminated drinking water; cause severe diarrhea\u00a8Kinetoplastids\u00a4Named for  large DNA mass in mitchondria\u00a4Trypanosomestransmitted through insect bitesnAfrican Sleeping sickness; Chagas disease",
+  "original_text": "Supergroup Excavata\u00a8Include zooflagellates (animal-like) that have atypical or absent mitochondria and distinctive flagella and/or deep (excavated) oral grooves\u00a8Euglinids\u00a4Euglena \u2013Small; freshwater; unicellular\u00a4Long flagellum\u00a4Contains eyespot that can detect light\u00a8Parabasalids& Diplomonads\u00a4Unicellular, flagellated\u00a4Can survive anaerobic environments, lack mitochondria. Rely on fermentation. nParabasalids\u2013common STD \u2013TrichomoniasisnDiplomonads \u2013Transmitted in contaminated drinking water; cause severe diarrhea\u00a8Kinetoplastids\u00a4Named for  large DNA mass in mitchondria\u00a4Trypanosomestransmitted through insect bitesnAfrican Sleeping sickness; Chagas disease",
+  "explanation": "Supergroup Excavata includes animal-like zooflagellates characterized by atypical or absent mitochondria and distinctive flagella and/or deep, excavated oral grooves. Euglenids, such as Euglena, are small, unicellular, freshwater organisms with a long flagellum and a light-sensitive eyespot. Parabasalids and Diplomonads are unicellular, flagellated organisms that lack mitochondria, allowing them to survive in anaerobic environments by relying on fermentation. Parabasalids cause Trichomoniasis, a common sexually transmitted disease, while Diplomonads are transmitted through contaminated drinking water, causing severe diarrhea. Kinetoplastids are named for a large DNA mass in their mitochondria, which includes Trypanosomes. These are transmitted by insect bites and cause African Sleeping Sickness and Chagas disease.",
+  "questions": [
+    {
+      "q": "What characteristic defines Parabasalids and Diplomonads?",
+      "opts": [
+        "They possess a porous silica shell and perform photosynthesis.",
+        "They lack mitochondria and rely on fermentation to survive in anaerobic environments.",
+        "They are multicellular and form dormant spores.",
+        "They have large DNA masses in their cell walls containing peptidoglycan."
+      ],
+      "a": 1,
+      "exp": "The notes state that they 'Can survive anaerobic environments, lack mitochondria. Rely on fermentation.'"
+    },
+    {
+      "q": "What disease is caused by Trypanosomes, a type of Kinetoplastid?",
+      "opts": [
+        "Malaria",
+        "Trichomoniasis",
+        "African Sleeping sickness",
+        "Dysentery"
+      ],
+      "a": 2,
+      "exp": "The notes state: 'Trypanosomes transmitted through insect bites' cause 'African Sleeping sickness; Chagas disease'."
+    },
+    {
+      "q": "Which organism belongs to the Euglenids (Euglinids) and has an eyespot to detect light?",
+      "opts": [
+        "Euglena",
+        "Trichomonas",
+        "Paramecium",
+        "Stentor"
+      ],
+      "a": 0,
+      "exp": "The notes state: 'Euglena \u2013 Small; freshwater; unicellular... Contains eyespot that can detect light'."
+    }
+  ]
+}

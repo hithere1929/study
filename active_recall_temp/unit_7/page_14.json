@@ -1,0 +1,45 @@
+{
+  "unit": 7,
+  "page": 14,
+  "filename": "Unit_7_1.txt",
+  "section_title": "Plant Structure & Organization",
+  "page_num_in_file": 14,
+  "slide_title": "Organization and Diversity of Roots: Root Modifications",
+  "original_text": "Organization and Diversity of Roots Primary root (taproot) -Fleshy, long single root, that grows straight down Stores food Fibrous root system -Slender roots and lateral branches Anchors plant to soil Adventitious roots -Roots develop from organs of the shoot system instead of the root system Prop roots Haustoria-Found in parasitic plants Rootlike projections that grow into host plant Make contact with vascular tissue of the host plant and extract water and nutrients Mycorrhizae Mutualistic associations between roots and fungi Assist in water and mineral extraction Root nodules -Contain nitrogen-fixing bacteria",
+  "explanation": "Plants possess different types of root systems and specialized root modifications adapted to various functions. A taproot (primary root) is a long, fleshy single root that grows straight downward and specializes in food storage. A fibrous root system consists of many slender roots and lateral branches that spread out to anchor the plant. Adventitious roots develop from shoot organs (like stems or leaves) instead of the primary root system; prop roots are a key example. Parasitic plants have specialized roots called haustoria that grow into the host plant to make contact with its vascular tissue and extract water and nutrients. Many plants establish mutualisms, such as mycorrhizae (associations between roots and fungi that improve water and mineral absorption) and root nodules (structures containing symbiotic nitrogen-fixing bacteria that supply nitrogen to the plant).",
+  "questions": [
+    {
+      "q": "What are haustoria?",
+      "opts": [
+        "Symbiotic associations between roots and fungi that absorb minerals",
+        "Root-like projections of parasitic plants that tap into the host plant's vascular tissue",
+        "Underground horizontal stems used for food storage",
+        "Hormone-secreting cells located within the root cap"
+      ],
+      "a": 1,
+      "exp": "Haustoria are specialized roots of parasitic plants that penetrate the host plant to extract water and nutrients from its vascular system."
+    },
+    {
+      "q": "Roots that develop from shoot structures (like stems or leaves) rather than from the root system are called:",
+      "opts": [
+        "Taproots",
+        "Fibrous roots",
+        "Adventitious roots",
+        "Mycorrhizae"
+      ],
+      "a": 2,
+      "exp": "Adventitious roots are roots that develop from shoot organs (such as stems or leaves) instead of the root system. Prop roots are an example."
+    },
+    {
+      "q": "What is the function of root nodules?",
+      "opts": [
+        "They store starch and sugars for winter survival.",
+        "They secrete waxy cutin to protect against water loss.",
+        "They house nitrogen-fixing bacteria that assist the plant.",
+        "They anchor the plant in loose, sandy soils."
+      ],
+      "a": 2,
+      "exp": "Root nodules contain symbiotic, nitrogen-fixing bacteria that convert atmospheric nitrogen into a form the plant can utilize."
+    }
+  ]
+}

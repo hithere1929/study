@@ -1,0 +1,34 @@
+{
+  "unit": 5,
+  "page": 80,
+  "filename": "Unit_5_4.txt",
+  "section_title": "Principles of Taxonomy & Systematics",
+  "page_num_in_file": 11,
+  "slide_title": "Phylogeny",
+  "original_text": "Phylogeny\n\u00a8Cladisticsis a way to analyze primitive and derived characters and by the construction of phylogenetic trees called a cladogramon the basis of shared derived characters.\n\u00a4Arrange taxa into a cladogram\n\u00a8A cladogram is a special type of phylogenetic tree\n\u00a4Aclade is an evolutionary branch that includes:\n  nA common ancestor, together with all its descendent species\n\u00a4It traces the evolutionary history of the group being studied.\n\u00a8Cladistsare guided by the principle of parsimony\u2014the minimum number of assumptions is most logical.\n\u00a4The best cladogram is one in which the fewest number of shared derived characters are left unexplained or that minimizes the number of assumed evolutionary changes.\n\u00a8Reliability of cladograms is dependent on the knowledge and skill of an investigator",
+  "explanation": "Cladistics is a systematic method used to analyze primitive (ancestral) and derived characters to construct phylogenetic trees called cladograms, based on shared derived characters. A cladogram is a specialized type of phylogenetic tree. Within a cladogram, a clade is an evolutionary branch that includes a single common ancestor along with all of its descendant species, tracing their evolutionary history. Cladists construct these diagrams using the principle of parsimony, which dictates that the simplest explanation (requiring the minimum number of assumptions or evolutionary changes) is the most logical. Thus, the best cladogram is the one that minimizes unexplained character changes. The reliability of these cladograms depends heavily on the knowledge and skill of the investigator.",
+  "questions": [
+    {
+      "q": "What is a clade in a cladogram?",
+      "opts": [
+        "An ancestral trait that has been lost over time",
+        "An evolutionary branch that includes a common ancestor and all its descendant species",
+        "A tool used to measure mutation rates in a molecular clock",
+        "A group of organisms that look similar due to convergent evolution"
+      ],
+      "a": 1,
+      "exp": "A clade is defined as an evolutionary branch on a cladogram that contains a common ancestor and all of its descendants."
+    },
+    {
+      "q": "What is the principle of parsimony in cladistics?",
+      "opts": [
+        "The assumption that all mutations are adaptive",
+        "The rule that cladograms must rely only on fossil footprint data",
+        "The guideline that the cladogram requiring the fewest assumed evolutionary changes (simplest path) is the most logical",
+        "The belief that species are fixed and unchanging"
+      ],
+      "a": 2,
+      "exp": "Parsimony is the scientific principle that the simplest explanation (minimizing assumed evolutionary changes or assumptions) is the most likely and logical tree."
+    }
+  ]
+}

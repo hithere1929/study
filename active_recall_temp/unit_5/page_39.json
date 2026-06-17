@@ -1,0 +1,23 @@
+{
+  "unit": 5,
+  "page": 39,
+  "filename": "Unit_5_2.txt",
+  "section_title": "How Populations Evolve",
+  "page_num_in_file": 18,
+  "slide_title": "Natural Selection",
+  "original_text": "Natural Selection\n\u00a4Directional Selection\n  nThe curve shifts in one direction\n  nBacteria become resistant to antibiotics\n  nIncreasing body size in horse evolution",
+  "explanation": "Directional selection occurs when natural selection favors one extreme phenotype over others, shifting the phenotypic distribution curve in that direction. The slide provides two classic examples: (1) the evolution of antibiotic resistance in bacteria, where exposure to antibiotics selects for resistant individuals, shifting the population toward resistance; and (2) the evolutionary history of horses, which shows a directional trend toward larger body sizes over millions of years.",
+  "questions": [
+    {
+      "q": "Which of the following is a real-world example of directional selection described in the notes?",
+      "opts": [
+        "Average human birth weight survival rates",
+        "Bacteria developing resistance to antibiotics",
+        "British land snails developing two distinct shell patterns",
+        "Moths outside London maintaining constant allele frequencies"
+      ],
+      "a": 1,
+      "exp": "Antibiotic resistance in bacteria is a classic example of directional selection, where the selective pressure of antibiotics shifts the population toward the resistant phenotype."
+    }
+  ]
+}

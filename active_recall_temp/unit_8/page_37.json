@@ -1,0 +1,34 @@
+{
+  "unit": 8,
+  "page": 37,
+  "filename": "Unit_8_3.txt",
+  "section_title": "Community & Ecosystem Ecology",
+  "page_num_in_file": 3,
+  "slide_title": "Ecology of Communities¨Community Structure¤A communityis an assemblage of populations interacting with one another within the same environment.nThe species composition (also called species richness) of a community is a listing of various species in the community.nSpecies diversity includes both species richnessand the abundanceof different species.¤Habitat and Ecological NichenHabitatnThe area where an organism lives and reproducesnEcological nichenThe role a species plays in its communitynIncludes its habitat and its interactions with other organismsnFundamental niche -All conditions under which the organism can survivenThe abiotic factors (climate, habitat) needed for survival in absence of any biotic factors (competitors, parasites, predators, etc). nRealized niche -Set of conditions under which it a species does survive in nature, where biotic factors are present",
+  "original_text": "Ecology of Communities¨Community Structure¤A communityis an assemblage of populations interacting with one another within the same environment.nThe species composition (also called species richness) of a community is a listing of various species in the community.nSpecies diversity includes both species richnessand the abundanceof different species.¤Habitat and Ecological NichenHabitatnThe area where an organism lives and reproducesnEcological nichenThe role a species plays in its communitynIncludes its habitat and its interactions with other organismsnFundamental niche -All conditions under which the organism can survivenThe abiotic factors (climate, habitat) needed for survival in absence of any biotic factors (competitors, parasites, predators, etc). nRealized niche -Set of conditions under which it a species does survive in nature, where biotic factors are present",
+  "explanation": "This slide defines key concepts in community structure. A community is an assemblage of populations of different species interacting within the same environment. Species composition (or species richness) is the list of species present, whereas species diversity encompasses both species richness and the relative abundance of each species. Habitat is the physical space where an organism lives and reproduces. An ecological niche is the functional role a species plays, including its habitat and interactions with others. The fundamental niche represents the full range of abiotic conditions (climate, habitat) under which a species can survive in the absence of biotic interactions. The realized niche is the narrower, actual set of conditions under which a species survives in nature, where biotic pressures (predators, competitors, parasites) are present.",
+  "questions": [
+    {
+      "q": "What is the difference between species richness (composition) and species diversity?",
+      "opts": [
+        "Richness is only about animal species, while diversity includes plants and fungi.",
+        "Richness is a listing of the various species present, whereas diversity includes both richness and the abundance of each species.",
+        "Richness is measured by genetic mutations, while diversity is measured by habitat size.",
+        "They are identical terms and are used interchangeably in ecology."
+      ],
+      "a": 1,
+      "exp": "The notes state that species composition (species richness) is 'a listing of various species in the community' while species diversity 'includes both species richness and the abundance of different species.'"
+    },
+    {
+      "q": "How does a fundamental niche differ from a realized niche?",
+      "opts": [
+        "A fundamental niche is where an organism reproduces, while a realized niche is where it hibernates.",
+        "A fundamental niche is the set of conditions needed in the absence of biotic factors, while a realized niche is the actual set of conditions where the species survives in nature.",
+        "A fundamental niche is only shaped by predators, while a realized niche is shaped only by abiotic factors.",
+        "A fundamental niche exists in marine ecosystems, while a realized niche is terrestrial."
+      ],
+      "a": 1,
+      "exp": "The notes define fundamental niche as 'All conditions under which the organism can survive' including 'The abiotic factors... in absence of any biotic factors', whereas the realized niche is the 'Set of conditions under which it a species does survive in nature, where biotic factors are present.'"
+    }
+  ]
+}

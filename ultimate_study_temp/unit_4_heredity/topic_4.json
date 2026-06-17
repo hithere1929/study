@@ -1,0 +1,27 @@
+{
+  "id": "u4_h_t4",
+  "title": "Crosses",
+  "cheat_card": [
+    "A <b>monohybrid cross</b> tracks one trait (P, F1, and F2 generations), whereas a <b>dihybrid cross</b> tracks two separate traits through a breeding experiment.",
+    "A <b>reciprocal cross</b> swaps the phenotypes of the male and female parents (e.g., tall male x short female, and short male x tall female) to confirm that the trait is not sex-dependent.",
+    "A <b>testcross</b> crosses an individual displaying a dominant phenotype but of indeterminate genotype (A?) with a homozygous recessive individual (aa) to reveal the unknown genotype.",
+    "If the tested parent is heterozygous (Aa), the testcross yields a <b>1:1 phenotypic ratio</b> of dominant to recessive offspring. If homozygous dominant (AA), all offspring show the dominant phenotype.",
+    "A <b>two-trait testcross</b> crosses a double dominant phenotype (A?B?) with a double recessive (aabb); if the parent is a double heterozygote (AaBb), the expected phenotypic ratio is <b>1:1:1:1</b>."
+  ],
+  "memory_anchor": "### Summary of Genetic Testcrosses\n\n| Cross Name | Unknown Genotype | Tester Genotype | Expected Offspring Ratio (If Heterozygous) | Expected Offspring Ratio (If Homozygous Dominant) |\n| :--- | :--- | :--- | :--- | :--- |\n| **Single-Trait Testcross** | A? | aa | **1:1** (Aa : aa) | **All Dominant** (Aa) |\n| **Two-Trait Testcross** | A?B? | aabb | **1:1:1:1** (AaBb : Aabb : aaBb : aabb) | **All Dominant** (AaBb) |",
+  "flashcards": [
+    {
+      "q": "What is a testcross, and how is it used to determine whether a black-furred mouse (black is dominant to brown) is homozygous or heterozygous?",
+      "a": "A testcross involves crossing the individual showing the dominant phenotype (black mouse, B?) with a homozygous recessive individual (brown mouse, bb). If the unknown mouse is homozygous dominant (BB), all offspring will be black (Bb). If it is heterozygous (Bb), the offspring will have a 1:1 phenotypic ratio of black to brown."
+    },
+    {
+      "q": "Describe a reciprocal cross and explain its purpose in Mendel's experiments.",
+      "a": "A reciprocal cross is a pair of crosses where the phenotypes of the male and female parents are swapped (e.g., crossing a tall male with a short female, and a short male with a tall female). Mendel used them to verify that the pattern of inheritance for autosomal traits is independent of which parent contributes the dominant or recessive gamete."
+    },
+    {
+      "q": "In a two-trait testcross, a tall, green-pod pea plant (double dominant phenotype) is crossed with a short, yellow-pod plant (double recessive). What offspring ratio is expected if the dominant plant is heterozygous for both traits?",
+      "a": "The expected phenotypic ratio is 1:1:1:1 (1/4 tall-green, 1/4 tall-yellow, 1/4 short-green, 1/4 short-yellow). This occurs because the double heterozygous parent (TtGg) produces four types of gametes (TG, Tg, tG, tg) in equal frequencies, which fertilize the single gamete type (tg) of the tester."
+    }
+  ],
+  "outline_blanks": "To determine if an individual with a dominant phenotype is homozygous dominant or heterozygous, scientists perform a [[testcross]] by crossing it with a homozygous [[recessive]] individual. If the parent is heterozygous, the resulting monohybrid offspring ratio will be [[1:1]]. In a two-trait testcross of a double heterozygote (AaBb x aabb), the expected phenotypic ratio of the offspring is [[1:1:1:1]]."
+}

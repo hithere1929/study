@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 7,
+  "filename": "Unit_2_1.txt",
+  "section_title": "Chemistry of Living Things",
+  "page_num_in_file": 7,
+  "slide_title": "1: Atoms",
+  "original_text": "1: Atoms¨Electrons: high energy, negatively charged particles with negligible mass¤Revolve around the nucleus in defined paths known as orbitals\n3D region around the nucleus indicating the probable location of an electron¤Move so quickly –if possible to observe, would not look like objects, but an electron cloud (blur)¤Electrons further from the nucleus have more energy than those close to the nucleus",
+  "explanation": "Electrons are high-energy, negatively charged particles with negligible mass. They revolve around the nucleus in defined paths known as orbitals, which are three-dimensional regions around the nucleus indicating the probable location of an electron. Because electrons move extremely quickly, if it were possible to observe them, they would appear not as distinct objects, but as a blurry electron cloud. Electrons that are located further from the nucleus possess more energy than those located closer to the nucleus.",
+  "questions": [
+    {
+      "q": "What is an orbital?",
+      "opts": [
+        "The path along which protons revolve around the nucleus.",
+        "A 3D region around the nucleus indicating the probable location of an electron.",
+        "The core of the atom containing protons and neutrons.",
+        "A chemical bond between two elements."
+      ],
+      "a": 1,
+      "exp": "An orbital is a 3D region around the nucleus indicating the probable location of an electron."
+    },
+    {
+      "q": "How does the energy level of an electron change in relation to its distance from the nucleus?",
+      "opts": [
+        "Electrons closer to the nucleus have more energy.",
+        "Distance from the nucleus does not affect the energy of an electron.",
+        "Electrons further from the nucleus have more energy.",
+        "Electrons lose all energy when they move away from the nucleus."
+      ],
+      "a": 2,
+      "exp": "Electrons that are further from the nucleus have more energy than those close to the nucleus."
+    }
+  ]
+}

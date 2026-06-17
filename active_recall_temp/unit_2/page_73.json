@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 73,
+  "filename": "Unit_2_2.txt",
+  "section_title": "Chemistry of Organic Molecules",
+  "page_num_in_file": 37,
+  "slide_title": "4: ATP",
+  "original_text": "4: ATP\nAdenosine Triphosphate is a special type of nucleotide, and as discussed already, is a high energy molecule, that powers many cellular processes.",
+  "explanation": "Adenosine Triphosphate (ATP) is a specialized type of nucleotide. It serves as a high-energy molecule that fuels many cellular processes in living organisms.",
+  "questions": [
+    {
+      "q": "ATP is a specialized version of which monomer class?",
+      "opts": [
+        "Amino acid",
+        "Monosaccharide",
+        "Nucleotide",
+        "Fatty acid"
+      ],
+      "a": 2,
+      "exp": "As stated on the slide, Adenosine Triphosphate (ATP) is a special type of nucleotide."
+    }
+  ]
+}

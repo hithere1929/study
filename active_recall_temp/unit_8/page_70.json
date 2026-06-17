@@ -1,0 +1,45 @@
+{
+  "unit": 8,
+  "page": 70,
+  "filename": "Unit_8_4.txt",
+  "section_title": "Photosynthesis",
+  "page_num_in_file": 17,
+  "slide_title": "Other Types of Photosynthesis¨In hot, dry climates¤Stomata must close to avoid wilting¤CO2decreases and O2increases¤O2starts combining with RuBP , leading to the production of CO2¤This is called photorespirationnPhotorespiration is wasteful as it is not part of the Calvin Cycle, so if it can be avoided, it saves energy for the plant¨C4plants solve the problem of photorespiration¤Fix CO2to a C3molecule phosphoenolpyruvate (PEP) ¤The result is oxaloacetate, a C4molecule¤In hot & dry climatesnC4plants avoid photorespirationnNet productivity is about 2-3 times greater than C3plantsnPlants include sugarcane, corn, Bermuda grass, crab grass¤In cool, moist environments, C4plants can’t compete with C3plants",
+  "original_text": "Other Types of Photosynthesis¨In hot, dry climates¤Stomata must close to avoid wilting¤CO2decreases and O2increases¤O2starts combining with RuBP , leading to the production of CO2¤This is called photorespirationnPhotorespiration is wasteful as it is not part of the Calvin Cycle, so if it can be avoided, it saves energy for the plant¨C4plants solve the problem of photorespiration¤Fix CO2to a C3molecule phosphoenolpyruvate (PEP) ¤The result is oxaloacetate, a C4molecule¤In hot & dry climatesnC4plants avoid photorespirationnNet productivity is about 2-3 times greater than C3plantsnPlants include sugarcane, corn, Bermuda grass, crab grass¤In cool, moist environments, C4plants can’t compete with C3plants",
+  "explanation": "In hot, dry climates, plants close their stomata to prevent water loss and wilting. This causes the concentration of CO2 inside the leaf to drop while O2 levels rise. Under these conditions, the enzyme Rubisco binds O2 instead of CO2 to RuBP, releasing CO2 in a wasteful process called photorespiration. C4 plants bypass photorespiration by using the enzyme PEP carboxylase to fix CO2 to a 3-carbon molecule (PEP), forming oxaloacetate, a 4-carbon compound. In hot, dry climates, C4 plants avoid photorespiration and show net productivity 2 to 3 times greater than C3 plants. Examples of C4 plants include sugarcane, corn, Bermuda grass, and crabgrass. However, in cool, moist environments, C4 plants cannot compete effectively with C3 plants.",
+  "questions": [
+    {
+      "q": "What is photorespiration and why is it considered wasteful?",
+      "opts": [
+        "It is the production of ATP using light; it wastes solar energy.",
+        "It is the process where oxygen binds to RuBP instead of CO2, releasing CO2 without producing sugar.",
+        "It is the transport of water through stomata, causing cell wilting.",
+        "It is the fixation of nitrogen by cyanobacteria in hot climates."
+      ],
+      "a": 1,
+      "exp": "The notes state that in hot, dry climates when stomata close, 'O2 starts combining with RuBP, leading to the production of CO2' and this 'photorespiration is wasteful as it is not part of the Calvin Cycle.'"
+    },
+    {
+      "q": "How do C4 plants solve the problem of photorespiration in hot, dry climates?",
+      "opts": [
+        "They keep stomata wide open all day and night.",
+        "They fix CO2 to a C3 molecule (PEP) to form oxaloacetate (a C4 molecule).",
+        "They rely exclusively on cellular respiration for energy.",
+        "They stop the Calvin cycle entirely and undergo cyclic photophosphorylation."
+      ],
+      "a": 1,
+      "exp": "The notes state that C4 plants 'solve the problem of photorespiration' by fixing 'CO2 to a C3 molecule phosphoenolpyruvate (PEP)' which results in 'oxaloacetate, a C4 molecule.'"
+    },
+    {
+      "q": "Which of the following is an example of a C4 plant?",
+      "opts": [
+        "Bermuda grass",
+        "Oak tree",
+        "Wheat",
+        "Algae"
+      ],
+      "a": 0,
+      "exp": "The notes list 'sugarcane, corn, Bermuda grass, crab grass' as examples of C4 plants."
+    }
+  ]
+}

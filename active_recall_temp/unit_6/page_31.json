@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 31,
+  "filename": "Unit_6_3.txt",
+  "section_title": "Protists",
+  "page_num_in_file": 7,
+  "slide_title": "Supergroup Chromalveolata\u00a8Contain 2 Subgroups\u00a4Stramenopilesinclude:nBrown algae \u2013Laminaria (kelp)nDiatoms \u2013porous silica shell \u2013filtersnGolden Brown Algae \u20132 flagellanWater molds \u2013not fungi \u2013absorb nutrients from dead or dying organisms\u00a4Alveolatesinclude:nDinoflagellatesnResponsible for red tides & fish kills nCan be phospholuminescentnCiliates nParamecium\u2013move with cilianStentor \u2013use cilia to sweep food to oral cavitynApicomplexans nParasitic on animals. nApicoplastpenetrates host cellnPlasmodium -malaria",
+  "original_text": "Supergroup Chromalveolata\u00a8Contain 2 Subgroups\u00a4Stramenopilesinclude:nBrown algae \u2013Laminaria (kelp)nDiatoms \u2013porous silica shell \u2013filtersnGolden Brown Algae \u20132 flagellanWater molds \u2013not fungi \u2013absorb nutrients from dead or dying organisms\u00a4Alveolatesinclude:nDinoflagellatesnResponsible for red tides & fish kills nCan be phospholuminescentnCiliates nParamecium\u2013move with cilianStentor \u2013use cilia to sweep food to oral cavitynApicomplexans nParasitic on animals. nApicoplastpenetrates host cellnPlasmodium -malaria",
+  "explanation": "Supergroup Chromalveolata contains two subgroups: Stramenopiles and Alveolates. Stramenopiles include brown algae like Laminaria (kelp), diatoms (possessing porous silica shells used as filters), golden-brown algae (with two flagella), and water molds (heterotrophs that absorb nutrients from dead or dying organisms and are not true fungi). Alveolates include dinoflagellates (responsible for toxic red tides, fish kills, and can be phospholuminescent), ciliates like Paramecium (move with cilia) and Stentor (use cilia to sweep food into their oral cavity), and apicomplexans (animal parasites that use an apicoplast to penetrate host cells, such as Plasmodium, which causes malaria).",
+  "questions": [
+    {
+      "q": "Which organism is a Stramenopile with a porous silica shell used for filters?",
+      "opts": [
+        "Dinoflagellates",
+        "Diatoms",
+        "Ciliates",
+        "Water molds"
+      ],
+      "a": 1,
+      "exp": "The notes state that Stramenopiles include 'Diatoms \u2013 porous silica shell \u2013 filters'."
+    },
+    {
+      "q": "Which organism is an animal parasite that causes malaria?",
+      "opts": [
+        "Trypanosoma",
+        "Trichomonas",
+        "Plasmodium",
+        "Stentor"
+      ],
+      "a": 2,
+      "exp": "The notes identify Plasmodium as an apicomplexan parasite that causes malaria."
+    },
+    {
+      "q": "What is a characteristic of dinoflagellates?",
+      "opts": [
+        "They are responsible for red tides and fish kills, and can be phospholuminescent.",
+        "They lack mitochondria and rely on fermentation.",
+        "They are multicellular green algae used to produce agar.",
+        "They are a type of water mold that decomposes forest debris."
+      ],
+      "a": 0,
+      "exp": "The notes state that Dinoflagellates are 'Responsible for red tides & fish kills' and 'Can be phospholuminescent'."
+    }
+  ]
+}

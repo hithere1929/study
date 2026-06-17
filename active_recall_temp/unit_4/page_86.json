@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 86,
+  "filename": "Unit_4_5.txt",
+  "section_title": "Biotech & Genomics",
+  "page_num_in_file": 6,
+  "slide_title": "DNA Cloning¨DNA Ligase¤Seals the foreign gene into the vector DNA¨Treated cells (bacteria) take up plasmidsnBacteria and plasmids reproduce.nMany copies of the plasmid and many copies of the foreign gene.",
+  "original_text": "DNA Cloning¨DNA Ligase¤Seals the foreign gene into the vector DNA¨Treated cells (bacteria) take up plasmidsnBacteria and plasmids reproduce.nMany copies of the plasmid and many copies of the foreign gene.",
+  "explanation": "Following restriction enzyme cleavage, DNA ligase is added to seal the foreign gene covalently into the vector DNA. This produces a recombinant plasmid. Next, bacterial host cells are treated to make them take up these plasmids. Once inside, the bacteria reproduce by cell division, replicating the plasmids alongside their own chromosomes. This results in many copies of the plasmid vector and many copies of the inserted foreign gene.",
+  "questions": [
+    {
+      "q": "What is the function of DNA ligase in the gene cloning process?",
+      "opts": [
+        "It cuts the plasmid to create space for the gene.",
+        "It seals the foreign gene into the vector DNA.",
+        "It proofreads the plasmid for mutations.",
+        "It initiates transcription of the foreign gene."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide states: 'DNA Ligase - Seals the foreign gene into the vector DNA.' The other options describe other processes."
+    },
+    {
+      "q": "What is the outcome after bacteria take up the recombinant plasmids and reproduce?",
+      "opts": [
+        "The plasmids are immediately degraded by bacterial proteases.",
+        "The bacteria produce many copies of both the plasmid and the foreign gene.",
+        "The bacteria lose their ability to divide.",
+        "The foreign gene is spliced to remove bacterial introns."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide explains that after treated bacteria take up plasmids: 'Bacteria and plasmids reproduce. Many copies of the plasmid and many copies of the foreign gene.' The other options are incorrect."
+    }
+  ]
+}

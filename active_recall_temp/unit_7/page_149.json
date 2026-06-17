@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 149,
+  "filename": "Unit_7_8.txt",
+  "section_title": "Nervous System",
+  "page_num_in_file": 11,
+  "slide_title": "The Central Nervous System: Structure & Protections",
+  "original_text": "The Central Nervous System Consists of the brain and spinal cord Three specific functions: Receives sensory input Performs integration Generates motor output Spinal cord and brain are wrapped in three protective membranes called meninges Spaces between meninges are filled with cerebrospinal fluid Fluid is continuous with that of central canal of spinal cord and the ventriclesof the brain",
+  "explanation": "The Central Nervous System (CNS) consists of the brain and spinal cord, performing three primary functions: receiving sensory input, integrating information, and generating motor output. The brain and spinal cord are wrapped in three protective membranes called meninges. The spaces between the meninges are filled with cerebrospinal fluid (CSF), which cushions the CNS. This fluid is continuous with the fluid in the central canal of the spinal cord and the ventricles of the brain.",
+  "questions": [
+    {
+      "q": "What are the three protective membranes that surround the brain and spinal cord?",
+      "opts": [
+        "Pericardium",
+        "Meninges",
+        "Pleura",
+        "Epidermis"
+      ],
+      "a": 1,
+      "exp": "The meninges are the three layers of protective membranes wrapping the brain and spinal cord."
+    },
+    {
+      "q": "Where is cerebrospinal fluid located, and what is its path of continuity?",
+      "opts": [
+        "Only in the heart cavities, continuous with blood plasma",
+        "Between the meninges, continuous with the central canal of the spinal cord and the brain ventricles",
+        "In the pleural space, continuous with lymphatic capillaries",
+        "Within the synovial joints, continuous with the bursa"
+      ],
+      "a": 1,
+      "exp": "Cerebrospinal fluid fills the spaces between the meninges and is continuous with the fluid in the spinal cord's central canal and the brain's ventricles."
+    }
+  ]
+}

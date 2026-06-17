@@ -1,0 +1,23 @@
+{
+  "unit": 4,
+  "page": 169,
+  "filename": "Unit_4_8.txt",
+  "section_title": "Mendelian Inheritance P1 - Mendelian Genetics",
+  "page_num_in_file": 24,
+  "slide_title": "Mendel’s Dihybrid Cross",
+  "original_text": "Mendel’s Dihybrid Cross",
+  "explanation": "Mendel's dihybrid cross experiments tracked the inheritance of two traits simultaneously, demonstrating that alleles for separate traits assort independently during gamete formation and recombine in fertilization.",
+  "questions": [
+    {
+      "q": "In a dihybrid cross of two heterozygous individuals (AaBb x AaBb), what is the typical phenotypic ratio expected among the offspring?",
+      "opts": [
+        "3:1",
+        "1:2:1",
+        "9:3:3:1",
+        "1:1:1:1"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because a dihybrid cross of AaBb x AaBb yields a 9:3:3:1 phenotypic ratio in offspring under complete dominance."
+    }
+  ]
+}

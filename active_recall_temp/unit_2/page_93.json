@@ -1,0 +1,34 @@
+{
+  "unit": 2,
+  "page": 93,
+  "filename": "Unit_2_3.txt",
+  "section_title": "Movement of Molecules",
+  "page_num_in_file": 19,
+  "slide_title": "Exocytosis",
+  "original_text": "Exocytosis¨Intracellular vesicle fuses with plasma membrane and secretion of molecule occurs¤Used for export of items such as:\nnHormones\nnNeurotransmitters\nnDigestive enzymes¤Often produced by Golgi body in the cell¤Vesicle becomes part of plasma membrane upon fusing",
+  "explanation": "During exocytosis, an intracellular vesicle moves to and fuses with the plasma membrane, resulting in the secretion of its molecular contents into the extracellular space. This pathway is commonly used to export molecules like hormones, neurotransmitters, and digestive enzymes. These vesicles are often manufactured by the Golgi body within the cell. An important anatomical consequence of exocytosis is that the vesicle membrane becomes integrated into, and thus becomes part of, the cell's plasma membrane upon fusing.",
+  "questions": [
+    {
+      "q": "Which cellular organelle is often responsible for producing the vesicles used in exocytosis?",
+      "opts": [
+        "The nucleus",
+        "The Golgi body",
+        "The mitochondrion",
+        "The ribosome"
+      ],
+      "a": 1,
+      "exp": "Vesicles destined for exocytosis are commonly produced and packaged by the Golgi body."
+    },
+    {
+      "q": "What happens to the membrane of a vesicle after it undergoes exocytosis?",
+      "opts": [
+        "It is destroyed by digestive enzymes.",
+        "It is released into the extracellular fluid.",
+        "It becomes part of the plasma membrane.",
+        "It returns to the nucleus to be recycled."
+      ],
+      "a": 2,
+      "exp": "When a vesicle fuses with the plasma membrane during exocytosis, its lipid bilayer is incorporated directly into the plasma membrane."
+    }
+  ]
+}

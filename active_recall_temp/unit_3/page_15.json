@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "page": 15,
+  "filename": "Unit_3_1.txt",
+  "section_title": "Cell Biology",
+  "page_num_in_file": 15,
+  "slide_title": "Prokaryotic Differences",
+  "original_text": "Prokaryotic Differences",
+  "explanation": "This page serves as a section header or slide title for 'Prokaryotic Differences'.",
+  "questions": [
+    {
+      "q": "What topic is introduced by this slide?",
+      "opts": [
+        "Eukaryotic Evolution",
+        "Prokaryotic Differences",
+        "Multicellularity",
+        "Tissue Specialization"
+      ],
+      "a": 1,
+      "exp": "The slide is titled 'Prokaryotic Differences'."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 154,
+  "filename": "Unit_7_8.txt",
+  "section_title": "Nervous System",
+  "page_num_in_file": 16,
+  "slide_title": "The Central Nervous System: Brain Stem",
+  "original_text": "The Central Nervous System Other Parts of the Brain Brain StemnContains the midbrain, pons, and the medulla oblongatanMidbrainnActs as a relay station for tracts passing between the cerebrum and the spinal cord or cerebellumnPonsnContains axons that form a bridge between the cerebellum and the rest of the central nervous systemnMedulla OblongatanContains reflex centers for vomiting, coughing, sneezing, hiccupping, and swallowing",
+  "explanation": "The brain stem connects the higher brain regions with the spinal cord and consists of three structures: 1) Midbrain: acts as a relay station for nerve tracts passing between the cerebrum and the spinal cord or cerebellum. 2) Pons: contains bundles of axons that form a bridge between the cerebellum and the rest of the central nervous system. 3) Medulla oblongata: contains vital reflex centers for coughing, sneezing, vomiting, hiccupping, and swallowing, in addition to cardiovascular and respiratory centers.",
+  "questions": [
+    {
+      "q": "Which part of the brain stem contains reflex centers for swallowing, sneezing, and vomiting?",
+      "opts": [
+        "Midbrain",
+        "Pons",
+        "Medulla oblongata",
+        "Thalamus"
+      ],
+      "a": 2,
+      "exp": "The medulla oblongata contains reflex centers that regulate coughing, sneezing, vomiting, hiccupping, and swallowing."
+    },
+    {
+      "q": "What is the function of the pons?",
+      "opts": [
+        "It acts as the primary pacemaker of the heart.",
+        "It contains axons that form a bridge between the cerebellum and the rest of the CNS.",
+        "It processes and stores long-term memories.",
+        "It secretes melatonin to control sleep cycles."
+      ],
+      "a": 1,
+      "exp": "The pons (meaning 'bridge') contains axons that route signals between the cerebellum and the rest of the nervous system."
+    }
+  ]
+}

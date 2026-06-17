@@ -1,0 +1,34 @@
+{
+  "unit": 7,
+  "page": 67,
+  "filename": "Unit_7_4.txt",
+  "section_title": "Plant Reproduction",
+  "page_num_in_file": 13,
+  "slide_title": "Fruit Types & Seed Dispersal: Classifications",
+  "original_text": "Fruit Types & Seed Dispersal A fruitis a mature ovary Simple Fruits Simple fruits are derived from single ovary with one or several chambers Compound fruits develop from several groups of ovaries Aggregate Fruits Ovaries are from a single flower one receptacle Blackberry Multiple Fruits Ovaries are from separate flowers clustered together Pineapple",
+  "explanation": "A fruit is a mature ovary. Fruits are classified by their development: 1) Simple fruits: derive from a single ovary, which may contain one or several chambers. 2) Compound fruits: develop from multiple ovaries. These include aggregate fruits (multiple ovaries from a single flower on one receptacle, e.g., blackberry) and multiple fruits (ovaries from separate flowers clustered together in an inflorescence, e.g., pineapple).",
+  "questions": [
+    {
+      "q": "What type of fruit is a blackberry, and how does it develop?",
+      "opts": [
+        "Simple fruit; from a single ovary with one chamber",
+        "Aggregate fruit; from multiple ovaries of a single flower on one receptacle",
+        "Multiple fruit; from ovaries of separate flowers clustered together",
+        "Dehiscent dry fruit; from a dry ovary wall that splits open"
+      ],
+      "a": 1,
+      "exp": "A blackberry is an aggregate fruit, developing from multiple ovaries of a single flower sharing a single receptacle."
+    },
+    {
+      "q": "A pineapple develops from ovaries of separate flowers clustered together. It is classified as a:",
+      "opts": [
+        "Simple fruit",
+        "Aggregate fruit",
+        "Multiple fruit",
+        "Dehiscent fruit"
+      ],
+      "a": 2,
+      "exp": "Multiple fruits develop from the ovaries of several separate flowers clustered closely together."
+    }
+  ]
+}

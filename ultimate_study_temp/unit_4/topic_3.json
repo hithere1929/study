@@ -1,0 +1,27 @@
+{
+  "id": "u4_t3",
+  "title": "Replication",
+  "cheat_card": [
+    "DNA replication is <b>semi-conservative</b>, meaning each new double helix consists of one <b>parental template strand</b> and one newly synthesized <b>daughter strand</b>.",
+    "<b>Helicase</b> unwinds and separates DNA strands by breaking hydrogen bonds, creating a <b>replication fork</b>, while <b>DNA polymerase</b> adds complementary nucleotides in the <b>5' to 3' direction</b>.",
+    "Synthesis is continuous on the <b>leading strand</b> (towards the fork) and discontinuous on the <b>lagging strand</b> (away from the fork), generating <b>Okazaki fragments</b> that are sealed by <b>DNA ligase</b>.",
+    "Prokaryotes replicate their <b>single circular chromosome</b> from a single origin, while eukaryotes replicate linear chromosomes starting at <b>multiple origins of replication</b>.",
+    "<b>DNA polymerase</b> has a <b>proofreading function</b> to correct mispaired bases, keeping the average error rate to only <b>one error per billion nucleotides</b>."
+  ],
+  "memory_anchor": "**Enzyme Checklist Mnemonic**:\n- **H**elicase = **H**ydrogen-bond breaker (unwinds strands)\n- **P**olymerase = **P**utting down nucleotides (synthesizes 5' to 3')\n- **L**igase = **L**inking fragments (seals Okazaki gaps)",
+  "flashcards": [
+    {
+      "q": "Why must the lagging strand be synthesized in short fragments (Okazaki fragments) rather than continuously?",
+      "a": "DNA polymerase can only synthesize DNA in the 5' to 3' direction. Because the two strands of DNA are antiparallel, as the replication fork opens, one template strand (lagging) runs in a direction that forces DNA polymerase to move away from the replication fork, necessitating discontinuous synthesis in pieces."
+    },
+    {
+      "q": "Compare prokaryotic and eukaryotic DNA replication in terms of chromosome shape and origin sites.",
+      "a": "Prokaryotes have a single circular chromosome and start replication at a single origin site, producing two replication forks moving in opposite directions. Eukaryotes have long, linear chromosomes and initiate replication at multiple origins of replication to complete copying in a reasonable timeframe."
+    },
+    {
+      "q": "How does DNA polymerase minimize mutations during replication, and what is the resulting error rate?",
+      "a": "DNA polymerase has a proofreading function. It checks newly synthesized DNA for base-pairing errors, removes incorrect nucleotides, and inserts the correct ones, resulting in a low average error rate of only one error per billion nucleotides."
+    }
+  ],
+  "outline_blanks": "DNA replication is [[semi-conservative]] because each daughter molecule contains one template strand. During replication, [[helicase]] separates the DNA strands, and [[DNA polymerase]] adds nucleotides in the [[5' to 3']] direction. On the lagging strand, discontinuous synthesis produces [[Okazaki fragments]] that are joined by [[DNA ligase]]."
+}

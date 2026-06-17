@@ -1,0 +1,23 @@
+{
+  "unit": 8,
+  "page": 116,
+  "filename": "Unit_8_7.txt",
+  "section_title": "Conservation of Biodiversity",
+  "page_num_in_file": 6,
+  "slide_title": "Conservation Biology and Biodiversity¨Ecosystem Diversity¤Opossum shrimp introduced as a food source for salmon.nEnded up competing with salmon for zooplanktonnResulted in decline of salmon populations , as well as organisms that fed on salmon",
+  "original_text": "Conservation Biology and Biodiversity¨Ecosystem Diversity¤Opossum shrimp introduced as a food source for salmon.nEnded up competing with salmon for zooplanktonnResulted in decline of salmon populations , as well as organisms that fed on salmon",
+  "explanation": "Ecosystem diversity is maintained by intricate networks of species interactions. When nonnative species are introduced, they can severely disrupt these relationships. For example, when opossum shrimp were introduced into an aquatic ecosystem to serve as a food source for salmon, the shrimp ended up competing directly with the salmon for zooplankton. This intense resource competition caused a dramatic decline in the salmon population, which subsequently triggered declines in the populations of eagles and grizzly bears that relied on salmon for food.",
+  "questions": [
+    {
+      "q": "What was the ecological outcome of introducing opossum shrimp as a food source for salmon?",
+      "opts": [
+        "Salmon populations grew rapidly, boosting the populations of eagles and grizzly bears.",
+        "Opossum shrimp competed with salmon for zooplankton, leading to a decline in salmon and their predators.",
+        "Opossum shrimp fixed nitrogen in the water, preventing eutrophication.",
+        "Salmon switched to eating opossum shrimp exclusively, ignoring zooplankton."
+      ],
+      "a": 1,
+      "exp": "The notes state that the introduced shrimp 'Ended up competing with salmon for zooplankton' which 'Resulted in decline of salmon populations, as well as organisms that fed on salmon.'"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "u7_t8",
+  "title": "Respiratory System",
+  "cheat_card": [
+    "Respiration involves three exchange steps: ventilation (breathing), <b>external respiration</b> (gas exchange between air and blood in lungs), and <b>internal respiration</b> (gas exchange between blood and tissue fluids).",
+    "Fish utilize highly efficient <b>countercurrent exchange</b> in gills: water flows opposite to the direction of oxygen-depleted blood, maintaining a concentration gradient that extracts up to <b>90%</b> of dissolved oxygen.",
+    "Insects bypass blood-mediated transport entirely using a <b>tracheal system</b> (tracheae &rarr; tubules &rarr; tracheoles) that delivers air directly to cells. Air sacs act like bellows.",
+    "Mammalian breathing uses <b>negative pressure</b>: <b>inspiration</b> occurs when the diaphragm contracts and lowers (thoracic pressure drops below atmospheric), while <b>expiration</b> occurs when the diaphragm relaxes and rises (thoracic pressure rises, forcing air out)."
+  ],
+  "memory_anchor": "<h3>Respiration Exchange Efficiency Comparison</h3><ul><li><b>Fish Gills: Countercurrent Flow</b> (Water and blood flow in opposite directions, maintaining a diffusion gradient along the entire length of the capillary; extracts ~90% oxygen).</li><li><b>Mammalian Lungs: Tidal Ventilation</b> (In/out same path; fresh and residual air mix, decreasing efficiency).</li><li><b>Bird Lungs: One-Way Flow</b> (Air sacs act as reservoirs; fresh air flows continuously through parabronchi in one direction, preventing mixing; highest efficiency).</li></ul>",
+  "flashcards": [
+    {
+      "q": "Explain why countercurrent exchange in fish gills is more efficient than concurrent exchange.",
+      "a": "In countercurrent exchange, water and blood flow in opposite directions. This ensures that oxygen-poor blood constantly encounters water with a higher oxygen concentration, maintaining a diffusion gradient along the entire capillary bed. Concurrent flow would cause blood and water to reach an equilibrium, stopping diffusion halfway."
+    },
+    {
+      "q": "Describe the mechanical events that cause inspiration and expiration in mammals.",
+      "a": "Inspiration occurs when the rib cage is elevated and the diaphragm contracts and flattens. This increases thoracic cavity volume and decreases internal pressure below atmospheric pressure, sucking air in. Expiration occurs when the diaphragm relaxes and rises, and the rib cage lowers, decreasing volume and increasing thoracic pressure, forcing air out."
+    },
+    {
+      "q": "Compare tidal ventilation in mammals with the respiratory system of birds.",
+      "a": "Mammals use tidal ventilation, meaning air enters and exits the same way, mixing fresh air with stale residual air. Birds have a highly efficient one-way ventilation system using anterior and posterior air sacs. Fresh air flows continuously through the lungs in one direction, never mixing with used air."
+    }
+  ],
+  "outline_blanks": "Gas exchange occurs via diffusion across thin surfaces. Fish maximize extraction using [[countercurrent exchange]] across gills, whereas insects deliver air directly to cells using a [[tracheal system]]. Mammalian inspiration is driven by a [[negative pressure]] created when the diaphragm [[contracts and lowers]]."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "u4_h_t2",
+  "title": "Classical Genetics",
+  "cheat_card": [
+    "Gregor Mendel formulated the <b>Particulate Theory of Inheritance</b> using the garden pea <i>Pisum sativum</i>, showing that inheritance involves the reshuffling of discrete genes rather than blending.",
+    "The <b>Law of Segregation</b> states that each individual has a pair of alleles for each trait, which <b>segregate (separate) during gamete formation</b>, so each gamete contains only one allele.",
+    "The <b>Law of Independent Assortment</b> states that the pair of alleles for one trait segregate <b>independently of alleles for other traits</b>, allowing all possible allele combinations in gametes.",
+    "An <b>allele</b> is an alternate form of a gene occurring at a specific <b>gene locus</b> on homologous chromosomes. A <b>dominant allele</b> masks the expression of a <b>recessive allele</b>.",
+    "<b>Homozygous</b> individuals have identical alleles (homozygous dominant like AA or homozygous recessive like aa), whereas <b>heterozygous</b> individuals have different alleles (Aa) for a trait."
+  ],
+  "memory_anchor": "### Mendel's Two Laws of Heredity\n\n| Law | Core Concept | Physical Basis in Meiosis | Typical Cross |\n| :--- | :--- | :--- | :--- |\n| **Law of Segregation** | Alleles for a single trait separate into gametes | Homologous chromosomes separate in **Anaphase I** | Monohybrid (F2 phenotype ratio 3:1) |\n| **Law of Independent Assortment** | Allele pairs for different traits separate independently | Random alignment of tetrads in **Metaphase I** | Dihybrid (F2 phenotype ratio 9:3:3:1) |",
+  "flashcards": [
+    {
+      "q": "Contrast the blending theory of inheritance with Mendel's particulate theory of inheritance.",
+      "a": "The blending theory proposed that contrasting parental traits merge into intermediate offspring phenotypes (irreversibly blending like paint). Mendel's particulate theory established that inheritance involves discrete, reshufflable units (genes/alleles) that maintain their structural integrity across generations."
+    },
+    {
+      "q": "How does the behavior of homologous chromosomes during meiosis provide a physical basis for Mendel's Law of Segregation?",
+      "a": "During Anaphase I of meiosis, homologous chromosomes carrying maternal and paternal alleles separate and migrate to opposite poles. This separation ensures that each resulting haploid gamete receives only one allele from the original pair, which is the physical basis of segregation."
+    },
+    {
+      "q": "Under what physical condition would two genes fail to follow Mendel's Law of Independent Assortment?",
+      "a": "Two genes will fail to assort independently if they are located close together on the same chromosome (linked genes). In this case, they tend to be inherited together as a unit unless separated by a crossing-over event during Prophase I."
+    }
+  ],
+  "outline_blanks": "Mendel disproved blending inheritance by establishing the [[Particulate Theory of Inheritance]], which treats traits as discrete units. His Law of [[Segregation]] states that the two alleles for a trait separate during gamete formation, while his Law of [[Independent Assortment]] states that different gene pairs segregate independently. Alleles reside at a specific [[gene locus]] on homologous chromosomes and can be [[homozygous]] or heterozygous."
+}

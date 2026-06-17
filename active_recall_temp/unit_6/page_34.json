@@ -1,0 +1,45 @@
+{
+  "unit": 6,
+  "page": 34,
+  "filename": "Unit_6_3.txt",
+  "section_title": "Protists",
+  "page_num_in_file": 10,
+  "slide_title": "Supergroup Opisthokonta\u00a8Unicellular and multicellular protozoans\u00a4Contain Fungi and Animalia\u00a4ChoanoflagellatesnUnicellular and colonial, similar to spongesnColonies sometimes attach to surface with a stalk, or will be free floatingnFilter Feeders -Use flagellum to move food particles into colony, and absorb through phagocytosis\u00a4NucleariidsnRounded or slightly flattened; use threadlike pseudopodia (filopodia)nFeed on algae and cyanobacterianClose relative to fungi but lack characteristic cell wall",
+  "original_text": "Supergroup Opisthokonta\u00a8Unicellular and multicellular protozoans\u00a4Contain Fungi and Animalia\u00a4ChoanoflagellatesnUnicellular and colonial, similar to spongesnColonies sometimes attach to surface with a stalk, or will be free floatingnFilter Feeders -Use flagellum to move food particles into colony, and absorb through phagocytosis\u00a4NucleariidsnRounded or slightly flattened; use threadlike pseudopodia (filopodia)nFeed on algae and cyanobacterianClose relative to fungi but lack characteristic cell wall",
+  "explanation": "Supergroup Opisthokonta contains both unicellular and multicellular eukaryotic organisms, including the kingdoms Fungi and Animalia. Opisthokont protists include: 1) Choanoflagellates, which are unicellular and colonial filter-feeders that resemble sponge cells. Their colonies can be free-floating or attached to a surface via a stalk, and they use a flagellum to direct food particles into the colony where they are absorbed by phagocytosis; and 2) Nucleariids, which are rounded or slightly flattened protists that use threadlike pseudopodia (filopodia) to feed on algae and cyanobacteria. Nucleariids are close relatives to fungi but lack the chitinous cell wall typical of Fungi.",
+  "questions": [
+    {
+      "q": "Which protists in Supergroup Opisthokonta are filter-feeders that resemble sponge cells?",
+      "opts": [
+        "Nucleariids",
+        "Choanoflagellates",
+        "Euglenids",
+        "Dinoflagellates"
+      ],
+      "a": 1,
+      "exp": "The notes state that Choanoflagellates are 'Unicellular and colonial, similar to sponges' and act as 'Filter Feeders'."
+    },
+    {
+      "q": "What is a characteristic of nucleariids?",
+      "opts": [
+        "They are multicellular green algae that produce agar.",
+        "They are rounded or slightly flattened, use threadlike pseudopodia, and feed on algae and cyanobacteria.",
+        "They contain an outer cell wall made of peptidoglycan.",
+        "They are flagellated parasites that cause malaria."
+      ],
+      "a": 1,
+      "exp": "The notes describe nucleariids as 'Rounded or slightly flattened; use threadlike pseudopodia (filopodia)' and they 'Feed on algae and cyanobacteria'."
+    },
+    {
+      "q": "Which eukaryotic kingdoms are included within Supergroup Opisthokonta?",
+      "opts": [
+        "Fungi and Animalia",
+        "Plantae and Fungi",
+        "Animalia and Plantae",
+        "Protista and Bacteria"
+      ],
+      "a": 0,
+      "exp": "The notes state that the Supergroup Opisthokonta 'Contain Fungi and Animalia'."
+    }
+  ]
+}

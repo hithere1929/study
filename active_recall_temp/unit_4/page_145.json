@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 145,
+  "filename": "Unit_4_7.txt",
+  "section_title": "Chromosome-based Syndromes",
+  "page_num_in_file": 18,
+  "slide_title": "Translocation Syndromes¨AlagilleSyndrome¤Translocation between Chromosomes 2 & 20nDeletion in the translocation of a portion of 20nDistinctive faces; abnormalities of eyes and internal organsnConditions range form mild to severe¨Some translocations will break a gene, while others can lead to 3 copies of a gene in some cells and only one in another. Other Translocations:22à9 –results in cases of myelogenous leukemia –Philadelphia Chromosome8à14-Burkitt Lymphoma",
+  "original_text": "Translocation Syndromes¨AlagilleSyndrome¤Translocation between Chromosomes 2 & 20nDeletion in the translocation of a portion of 20nDistinctive faces; abnormalities of eyes and internal organsnConditions range form mild to severe¨Some translocations will break a gene, while others can lead to 3 copies of a gene in some cells and only one in another. Other Translocations:22à9 –results in cases of myelogenous leukemia –Philadelphia Chromosome8à14-Burkitt Lymphoma",
+  "explanation": "Alagille Syndrome is a translocation syndrome caused by a translocation between Chromosomes 2 and 20, combined with a deletion of a portion of chromosome 20. Affected individuals display distinctive facial features, along with eye and internal organ abnormalities, ranging in severity. Translocations can physically disrupt genes or result in abnormal copy numbers in different cells. Other notable translocations include: translocation 22 to 9, which creates the Philadelphia chromosome and causes myelogenous leukemia, and translocation 8 to 14, which causes Burkitt Lymphoma.",
+  "questions": [
+    {
+      "q": "What genetic event causes Alagille Syndrome, and what are its symptoms?",
+      "opts": [
+        "A deletion on chromosome 7; causes pixie-like features.",
+        "A translocation between Chromosomes 2 and 20 with a deletion on chromosome 20; causes distinctive faces, eye abnormalities, and internal organ abnormalities.",
+        "A translocation between chromosomes 22 and 9; causes Down Syndrome.",
+        "An extra copy of the X chromosome; causes underdeveloped testes."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide describes Alagille Syndrome as: 'Translocation between Chromosomes 2 & 20; Deletion in the translocation of a portion of 20' causing 'Distinctive faces; abnormalities of eyes and internal organs.'"
+    },
+    {
+      "q": "Which translocation results in the 'Philadelphia Chromosome' and causes myelogenous leukemia?",
+      "opts": [
+        "Translocation between Chromosomes 2 and 20",
+        "Translocation between Chromosomes 22 and 9 (22 to 9)",
+        "Translocation between Chromosomes 8 and 14 (8 to 14)",
+        "Deletion on Chromosome 7"
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide lists: '22à9 – results in cases of myelogenous leukemia – Philadelphia Chromosome.'"
+    }
+  ]
+}

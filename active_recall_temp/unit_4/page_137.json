@@ -1,0 +1,34 @@
+{
+  "unit": 4,
+  "page": 137,
+  "filename": "Unit_4_7.txt",
+  "section_title": "Chromosome-based Syndromes",
+  "page_num_in_file": 9,
+  "slide_title": "Change in Sex Chromosomes¨Too many or too few sex chromosomes can also be inherited¤Much more easily tolerated in humans than autosomal ¤In normal females, even with two X, one gets deactivated, and functions as a Barr Body (inactive copy of the X chromosome)nExtra X or missing X therefore does not have as great an effect. ¤Two main sex chromosome disorders (but not only two)nTurner SyndromenKlinefelter Syndrome",
+  "original_text": "Change in Sex Chromosomes¨Too many or too few sex chromosomes can also be inherited¤Much more easily tolerated in humans than autosomal ¤In normal females, even with two X, one gets deactivated, and functions as a Barr Body (inactive copy of the X chromosome)nExtra X or missing X therefore does not have as great an effect. ¤Two main sex chromosome disorders (but not only two)nTurner SyndromenKlinefelter Syndrome",
+  "explanation": "Anomalies in sex chromosome number (inheriting too many or too few) are much better tolerated in humans than autosomal abnormalities. This tolerance exists because normal females undergo X-inactivation, where one of the two X chromosomes is deactivated to become a Barr Body. Because of this, an extra or missing X chromosome does not result in a severe gene dosage imbalance. Two major examples of sex chromosome disorders are Turner Syndrome and Klinefelter Syndrome.",
+  "questions": [
+    {
+      "q": "Why are abnormal numbers of sex chromosomes better tolerated in humans than abnormal numbers of autosomes?",
+      "opts": [
+        "Sex chromosomes do not encode any functional proteins.",
+        "In females, one X chromosome is normally deactivated into a Barr Body, which minimizes the impact of an extra or missing X.",
+        "Sex chromosomes are degraded by the proteasome during replication.",
+        "The SRY gene prevents sex chromosomes from causing syndromic symptoms."
+      ],
+      "a": 1,
+      "exp": "Option B is correct because the slide notes: 'In normal females, even with two X, one gets deactivated, and functions as a Barr Body... Extra X or missing X therefore does not have as great an effect.'"
+    },
+    {
+      "q": "Which two sex chromosome disorders are introduced on this slide?",
+      "opts": [
+        "Trisomy 13 and Trisomy 18",
+        "Down Syndrome and SCID",
+        "Turner Syndrome and Klinefelter Syndrome",
+        "Jacobs Syndrome and Poly-X only"
+      ],
+      "a": 2,
+      "exp": "Option C is correct because the slide lists 'Turner Syndrome' and 'Klinefelter Syndrome' as the 'Two main sex chromosome disorders (but not only two).'"
+    }
+  ]
+}

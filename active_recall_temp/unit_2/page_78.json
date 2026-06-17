@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "page": 78,
+  "filename": "Unit_2_3.txt",
+  "section_title": "Movement of Molecules",
+  "page_num_in_file": 4,
+  "slide_title": "Membrane Bound Lipids",
+  "original_text": "Membrane Bound Lipids¨Cholesterol and phospholipids¤Help create membrane fluidity¤Stop membrane from becoming too fluid at high temps; too rigid at cold temps¨Individual molecules can flip from extracellular monolayer to intracellular monolayer.",
+  "explanation": "Membrane-bound lipids, specifically cholesterol and phospholipids, play a key role in maintaining membrane stability. They help create membrane fluidity and act as temperature buffers, preventing the membrane from becoming too fluid at high temperatures and preventing it from becoming too rigid at cold temperatures. Additionally, individual lipid molecules are capable of flipping from the extracellular monolayer to the intracellular monolayer of the bilayer.",
+  "questions": [
+    {
+      "q": "How do cholesterol and phospholipids stabilize cell membranes at extreme temperatures?",
+      "opts": [
+        "They cause the membrane to dissolve at high temperatures.",
+        "They prevent the membrane from becoming too fluid at high temperatures and too rigid at cold temperatures.",
+        "They form covalent bonds to lock the membrane in a solid state.",
+        "They pump heat out of the cell."
+      ],
+      "a": 1,
+      "exp": "These lipids regulate fluidity, buffering against temperature changes so the membrane doesn't get too fluid when hot or too rigid when cold."
+    }
+  ]
+}
