@@ -1610,6 +1610,28 @@ function ensureFinalExamChoiceOrders(session) {
   return changed;
 }
 
+function ensureActualOutlineChoiceOrders() {
+  let changed = false;
+  if (!appState.actualOutlineAnswers) appState.actualOutlineAnswers = {};
+  if (!appState.actualOutlineAnswers.choiceOrders) {
+    appState.actualOutlineAnswers.choiceOrders = {};
+    changed = true;
+  }
+  ['part1', 'part2', 'part3'].forEach(partKey => {
+    if (!Array.isArray(appState.actualOutlineAnswers.choiceOrders[partKey])) {
+      appState.actualOutlineAnswers.choiceOrders[partKey] = [];
+      changed = true;
+    }
+    EXAM_DATA[partKey].forEach((q, idx) => {
+      if (!isValidChoiceOrder(appState.actualOutlineAnswers.choiceOrders[partKey][idx], q)) {
+        appState.actualOutlineAnswers.choiceOrders[partKey][idx] = shuffledChoiceOrder(q);
+        changed = true;
+      }
+    });
+  });
+  return changed;
+}
+
 function getChoiceOrder(choiceOrders, partKey, idx, q) {
   const partOrders = choiceOrders && choiceOrders[partKey];
   const order = partOrders && partOrders[idx];
@@ -5800,6 +5822,7 @@ function renderActualOutlineView(container) {
     `;
     return;
   }
+  if (ensureActualOutlineChoiceOrders()) saveState();
   
   const checkMode = appState.actualOutlineAnswers.checkMode || 'instant';
   const isGraded = appState.actualOutlineAnswers.isTestGraded === true;
@@ -6180,6 +6203,7 @@ function renderActualOutlineQuestionHTML(partId, qIdx, topicKey) {
   // MC Question (Parts 1, 2, 3)
   const userAns = appState.actualOutlineAnswers[answerKey];
   const isChecked = checkMode === 'submit_end' ? isGraded : (appState.actualOutlineAnswers[answerKey + '_checked'] === true);
+  const choiceOrder = getChoiceOrder(appState.actualOutlineAnswers.choiceOrders, partId, qIdx, qData);
   
   let html = `
     <div style="font-size:14px; line-height:1.55;">
@@ -6187,9 +6211,10 @@ function renderActualOutlineQuestionHTML(partId, qIdx, topicKey) {
       <div class="opts-container" style="display:flex; flex-direction:column; gap:8px;">
   `;
   
-  qData.opts.forEach((optText, optIdx) => {
+  choiceOrder.forEach((optIdx, displayIdx) => {
+    const optText = qData.opts[optIdx];
     const isSelected = (userAns === optIdx);
-    const letter = String.fromCharCode(65 + optIdx);
+    const letter = String.fromCharCode(65 + displayIdx);
     
     let optClass = "opt-label";
     if (isSelected) optClass += " selected";
@@ -6239,8 +6264,8 @@ function renderActualOutlineQuestionHTML(partId, qIdx, topicKey) {
   
   if (isChecked) {
     const isCorrect = (userAns === qData.a);
-    const userLetter = (userAns !== undefined && userAns !== null) ? String.fromCharCode(65 + userAns) : "None (Unanswered)";
-    const correctLetter = String.fromCharCode(65 + qData.a);
+    const userLetter = (userAns !== undefined && userAns !== null) ? displayLetterForChoice(choiceOrder, userAns) : "None (Unanswered)";
+    const correctLetter = displayLetterForChoice(choiceOrder, qData.a);
     
     if (isCorrect) {
       html += `<strong>✓ Correct! You chose ${correctLetter}.</strong>`;
@@ -6252,8 +6277,9 @@ function renderActualOutlineQuestionHTML(partId, qIdx, topicKey) {
       html += `
         <div style="margin-top:8px; font-size:13px; line-height:1.55;">
       `;
-      qData.explanations.forEach((exp, eIdx) => {
-        const letter = String.fromCharCode(65 + eIdx);
+      choiceOrder.forEach((eIdx, displayIdx) => {
+        const exp = qData.explanations[eIdx];
+        const letter = String.fromCharCode(65 + displayIdx);
         let colorStyle = "";
         let boldPrefix = "";
         if (eIdx === qData.a) {
