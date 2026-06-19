@@ -1303,6 +1303,7 @@ function loadState() {
       appState.userAnswers = {};
     }
   }
+  resetBrokenHistoryProgressOnce();
   
   const savedTheme = localStorage.getItem('bio_quiz_theme');
   if (savedTheme) {
@@ -1446,6 +1447,42 @@ function getActiveQuizData() {
   return appState.currentSubject === 'biology' ? QUIZ_DATA : HISTORY_DATA;
 }
 
+function getQuestionKey(unitNum, sec, idx) {
+  return appState.currentSubject === 'biology' ? `q_${unitNum}_${sec}_${idx}` : `q_hist_${unitNum}_${sec}_${idx}`;
+}
+
+function resetBrokenHistoryProgressOnce() {
+  const resetVersion = '2026-06-19-history-progress-fix';
+  if (localStorage.getItem('history_progress_reset_version') === resetVersion) return;
+
+  let changed = false;
+  Object.keys(appState.userAnswers || {}).forEach(key => {
+    if (key.startsWith('q_hist_')) {
+      delete appState.userAnswers[key];
+      changed = true;
+    }
+  });
+
+  try {
+    const savedShuffle = localStorage.getItem('bio_quiz_shuffle_v1');
+    if (savedShuffle) {
+      const shuffleState = JSON.parse(savedShuffle);
+      Object.keys(shuffleState || {}).forEach(key => {
+        if (key.startsWith('hist_')) {
+          delete shuffleState[key];
+          changed = true;
+        }
+      });
+      localStorage.setItem('bio_quiz_shuffle_v1', JSON.stringify(shuffleState || {}));
+    }
+  } catch(e) {}
+
+  if (changed) {
+    localStorage.setItem('bio_quiz_state_v3', JSON.stringify(appState.userAnswers));
+  }
+  localStorage.setItem('history_progress_reset_version', resetVersion);
+}
+
 // Calculate scores for the study guide
 function calculateProgress() {
   let stats = {
@@ -1468,7 +1505,7 @@ function calculateProgress() {
     stats.units[u].total = data[u].length;
     
     data[u].forEach((q, idx) => {
-      const qKey = appState.currentSubject === 'biology' ? `q_${u}_${q.section}_${idx}` : `q_hist_${u}_${q.section}_${idx}`;
+      const qKey = getQuestionKey(u, q.section, idx);
       const ans = appState.userAnswers[qKey];
       
       if (ans && ans.locked) {
@@ -1864,7 +1901,7 @@ function renderUnitView(container, unitNum) {
     let totalSecQs = secQs.length;
     let answeredSec = 0;
     secQs.forEach(({ q, idx }) => {
-      const qKey = `q_${unitNum}_${sec}_${idx}`;
+      const qKey = getQuestionKey(unitNum, sec, idx);
       if (appState.userAnswers[qKey] && appState.userAnswers[qKey].locked) {
         answeredSec++;
       }
@@ -1917,7 +1954,7 @@ function renderUnitView(container, unitNum) {
     let secQs = sectionsMap[sec].questions;
     
     // Apply shuffle order if exists
-    const shuffleKey = `${unitNum}_${sec}`;
+    const shuffleKey = appState.currentSubject === 'biology' ? `${unitNum}_${sec}` : `hist_${unitNum}_${sec}`;
     if (sectionShuffleMap[shuffleKey]) {
       const order = sectionShuffleMap[shuffleKey];
       // Map shuffled original indices back to secQs entries
@@ -1949,7 +1986,7 @@ function renderSectionQuestions(containerEl, unitNum, sec, secQs) {
   containerEl.innerHTML = '';
   
   secQs.forEach(({ q, idx }) => {
-    const qKey = `q_${unitNum}_${sec}_${idx}`;
+    const qKey = getQuestionKey(unitNum, sec, idx);
     const savedState = appState.userAnswers[qKey] || { selected: [], locked: false, correct: false };
     
     const qBlock = document.createElement('div');
@@ -2036,7 +2073,7 @@ function renderSectionQuestions(containerEl, unitNum, sec, secQs) {
           }
           // Always save selection
           appState.userAnswers[qKey] = { selected: savedState.selected, locked: false, correct: false };
-          localStorage.setItem('bio_quiz_state_v3', JSON.stringify(appState.userAnswers));
+          saveState();
           
           // Show the check answer button if hidden
           const checkBtn = qBlock.querySelector('.check-answer-btn');
@@ -2053,7 +2090,7 @@ function renderSectionQuestions(containerEl, unitNum, sec, secQs) {
           
           // Always save selection
           appState.userAnswers[qKey] = { selected: savedState.selected, locked: false, correct: false };
-          localStorage.setItem('bio_quiz_state_v3', JSON.stringify(appState.userAnswers));
+          saveState();
           
           // Show the check answer button if hidden
           const checkBtnSA = qBlock.querySelector('.check-answer-btn');
@@ -2159,7 +2196,7 @@ function gradeQuestion(unitNum, sec, idx, qBlock, q, state) {
   state.correct = isCorrect;
   
   // Save answer
-  const qKey = `q_${unitNum}_${sec}_${idx}`;
+  const qKey = getQuestionKey(unitNum, sec, idx);
   appState.userAnswers[qKey] = {
     selected: state.selected,
     locked: true,
@@ -2243,7 +2280,7 @@ function updateSectionProgressText(unitNum, sec) {
   
   questions.forEach((q, idx) => {
     if (q.section !== sec) return;
-    const qKey = `q_${unitNum}_${sec}_${idx}`;
+    const qKey = getQuestionKey(unitNum, sec, idx);
     if (appState.userAnswers[qKey] && appState.userAnswers[qKey].locked) {
       answered++;
     }
@@ -2264,7 +2301,7 @@ function checkAllSectionQuestions(unitNum, sec) {
   
   questions.forEach((q, idx) => {
     if (q.section !== sec) return;
-    const qKey = `q_${unitNum}_${sec}_${idx}`;
+    const qKey = getQuestionKey(unitNum, sec, idx);
     const ans = appState.userAnswers[qKey] || { selected: [], locked: false };
     
     if (!ans.locked && ans.selected.length > 0) {
@@ -4259,7 +4296,7 @@ function reRenderSectionOnly(unitNum, sec) {
   // Update section progress text
   let answered = 0;
   secQs.forEach(({ q, idx }) => {
-    const qKey = appState.currentSubject === 'biology' ? `q_${unitNum}_${sec}_${idx}` : `q_hist_${unitNum}_${sec}_${idx}`;
+    const qKey = getQuestionKey(unitNum, sec, idx);
     if (appState.userAnswers[qKey] && appState.userAnswers[qKey].locked) answered++;
   });
   const progEl = document.getElementById(`sec-prog-${sec.replace('.', '_')}`);
@@ -4273,7 +4310,7 @@ function resetSection(unitNum, sec) {
   const questions = data[unitNum] || [];
   questions.forEach((q, idx) => {
     if (q.section === sec) {
-      const qKey = appState.currentSubject === 'biology' ? `q_${unitNum}_${sec}_${idx}` : `q_hist_${unitNum}_${sec}_${idx}`;
+      const qKey = getQuestionKey(unitNum, sec, idx);
       delete appState.userAnswers[qKey];
     }
   });
