@@ -20,10 +20,10 @@
     "q": "Which reform would a European liberal of the early 1800s be most likely to support?",
     "a": 2,
     "opts": [
-      "Restoring unlimited royal authority",
-      "Giving aristocrats permanent control of legislatures",
-      "A written constitution protecting civil liberties and limiting...",
-      "Suppressing newspapers that criticize the monarch"
+      "The restoration of unlimited royal authority to preserve domestic order",
+      "The reservation of permanent control over legislatures for aristocrats",
+      "The creation of a written constitution to protect individual liberties",
+      "The suppression of all independent newspapers criticizing the monarchy"
     ],
     "explanation": "Nineteenth-century liberals generally supported constitutional government, equality before the law, private property, religious toleration, and freedom of speech and press. Unlimited monarchy, aristocratic privilege, and censorship were conservative policies liberals opposed."
   },
@@ -33,16 +33,16 @@
     "t": "sa",
     "q": "Which positions were commonly associated with nineteenth-century liberalism? Select all that apply.",
     "correct": [
-      "Government based on a constitution",
-      "Civil liberties such as freedom of speech and press",
-      "Equality before the law"
+      "Establishment of government based on a written constitution",
+      "Protection of civil liberties such as free speech and press",
+      "Guarantee of legal equality for all citizens before the law"
     ],
     "opts": [
-      "Government based on a constitution",
-      "Civil liberties such as freedom of speech and press",
-      "Equality before the law",
-      "Restoration of feudal privileges",
-      "Permanent censorship of political criticism"
+      "Establishment of government based on a written constitution",
+      "Protection of civil liberties such as free speech and press",
+      "Guarantee of legal equality for all citizens before the law",
+      "Restoration of traditional feudal privileges for landowners",
+      "Permanent censorship of political criticism against the state"
     ],
     "explanation": "Liberals sought constitutional limits, civil liberties, and legal equality. Feudal privilege and permanent censorship protected the old order and therefore aligned more closely with conservatism."
   },
@@ -55,8 +55,8 @@
     "opts": [
       "Absolutism",
       "Nationalism",
-      "Mercantilism",
-      "Laissez-faire economics"
+      "Imperialism",
+      "Liberalism"
     ],
     "explanation": "Nationalism holds that people joined by a common identity should form or control their own political state. Absolutism concerns royal power, mercantilism concerns state-regulated trade, and laissez-faire concerns limited economic regulation."
   },
@@ -67,10 +67,10 @@
     "q": "Why could nationalism both unify and divide nineteenth-century Europe?",
     "a": 3,
     "opts": [
-      "It always strengthened multinational empires",
-      "It concerned only economic policy",
-      "It rejected common language and culture",
-      "It united culturally related peoples while encouraging..."
+      "It consistently strengthened multinational empires by creating a single, shared identity for all citizens.",
+      "It encouraged states to cooperate in global alliances while preventing any localized domestic conflicts.",
+      "It focused exclusively on expanding royal authority and restoring traditional, feudal economic structures.",
+      "It united culturally related groups in divided lands while driving ethnic minorities in empires to rebel."
     ],
     "explanation": "Nationalism helped unite Germany and Italy, but it also weakened the Austrian and Ottoman empires by inspiring subject peoples to demand autonomy or statehood. Its effect depended on whether a national group was politically divided or trapped inside a multinational empire."
   },
@@ -81,10 +81,10 @@
     "q": "What was the central goal of the Congress of Vienna after Napoleon's defeat?",
     "a": 0,
     "opts": [
-      "Restore stability through legitimacy and a balance of power",
-      "Create democratic republics throughout Europe",
-      "Unify Germany and Italy immediately",
-      "Abolish all European monarchies"
+      "To restore stability through legitimacy and a balance of power",
+      "To establish democratic republics across the European continent",
+      "To support immediate national unification for Germany and Italy",
+      "To enforce the immediate abolition of all European monarchies"
     ],
     "explanation": "The Congress sought stability by restoring legitimate dynasties, containing France, and balancing the great powers so no state could dominate Europe. It was conservative and did not aim to spread republics or national unification."
   },
@@ -95,10 +95,10 @@
     "q": "Klemens von Metternich would most likely view liberal and nationalist movements as dangerous because they:",
     "a": 2,
     "opts": [
-      "Guaranteed Austrian control of Europe",
-      "Protected every traditional dynasty",
-      "Threatened monarchies and the unity of multinational empires",
-      "Prevented citizens from demanding constitutions"
+      "Directly enhanced the political dominance of Austria over Europe",
+      "Actively protected the divine right of every traditional dynasty",
+      "Threatened monarchic rule and the unity of multinational empires",
+      "Prevented ordinary citizens from demanding written constitutions"
     ],
     "explanation": "As an Austrian conservative, Metternich feared that constitutional demands would weaken rulers and nationalism would tear apart the Habsburg Empire's many ethnic groups. The movements undermined rather than protected the old order."
   },
@@ -108,16 +108,16 @@
     "t": "sa",
     "q": "Which actions reflected the Congress of Vienna's conservative settlement? Select all that apply.",
     "correct": [
-      "Restoring displaced royal dynasties",
-      "Strengthening states around France",
-      "Creating a balance among the great powers"
+      "Restoring traditional, displaced royal dynasties",
+      "Strengthening neighboring states around France",
+      "Creating a stable balance among the great powers"
     ],
     "opts": [
-      "Restoring displaced royal dynasties",
-      "Strengthening states around France",
-      "Creating a balance among the great powers",
-      "Granting universal suffrage across Europe",
-      "Recognizing every ethnic group's independent state"
+      "Restoring traditional, displaced royal dynasties",
+      "Strengthening neighboring states around France",
+      "Creating a stable balance among the great powers",
+      "Granting universal voting rights to all citizens",
+      "Recognizing ethnic groups as independent states"
     ],
     "explanation": "Restoration, containment, and balance of power were core Vienna principles. Universal suffrage and national self-determination would have challenged the monarchies and borders the delegates were trying to preserve."
   },
@@ -128,10 +128,10 @@
     "q": "The Serbian and Greek revolts were similar because both movements:",
     "a": 1,
     "opts": [
-      "Sought independence from Austria",
-      "Challenged Ottoman rule through nationalism",
-      "Restored French control in the Balkans",
-      "Opposed the idea of cultural identity"
+      "Sought complete independence from the Austrian Empire",
+      "Challenged Ottoman rule by rallying national identity",
+      "Restored French imperial control throughout the region",
+      "Opposed the concept of shared ethnic and cultural ties"
     ],
     "explanation": "Both Serbs and Greeks used national identity to resist Ottoman authority. Serbia gained substantial autonomy after revolts beginning in 1804, and Greece won recognized independence in 1830."
   },
@@ -142,10 +142,10 @@
     "q": "Which combination best explains Belgium's successful revolt against Dutch rule in 1830?",
     "a": 2,
     "opts": [
-      "Identical religions and equal representation",
-      "A desire to join the Ottoman Empire",
-      "Religious differences, inadequate representation, and...",
-      "Prussian occupation and Russian military aid"
+      "Agreement on religious policies and equal parliamentary representation under the House of Orange.",
+      "The sudden collapse of the Dutch economy combined with widespread support from Austrian forces.",
+      "Religious differences, inadequate representation, and inspiration from the French July Revolution.",
+      "A Prussian military occupation that forced the Dutch to cede their southern provinces to France."
     ],
     "explanation": "Catholic Belgians resented rule by the largely Protestant Dutch and felt politically and economically neglected. The French July Revolution showed that a government could be overthrown, encouraging Belgian action."
   },
@@ -156,10 +156,10 @@
     "q": "Why did Louis XVIII face opposition after being restored to the French throne?",
     "a": 3,
     "opts": [
-      "He abolished monarchy immediately",
-      "He refused any charter or legislature",
-      "France had no ideological divisions after 1815",
-      "His constitutional compromise satisfied neither hard-line..."
+      "He immediately declared a republic and transferred all executive power to a radical assembly.",
+      "He refused to sign the Charter of Liberties or permit a representative national legislature.",
+      "He aligned exclusively with the middle class while completely ignoring the landed aristocracy.",
+      "His constitutional compromise satisfied neither hard-line royalists nor reform-minded liberals."
     ],
     "explanation": "Louis XVIII accepted the Charter of French Liberties, attempting to combine monarchy with limited constitutionalism. Ultra-royalists thought he conceded too much, while liberals believed the settlement did not protect enough rights or participation."
   },
@@ -170,10 +170,10 @@
     "q": "What most directly caused Charles X to lose the French throne in the July Revolution of 1830?",
     "a": 0,
     "opts": [
-      "His attempt to restore stronger absolute rule and restrict...",
-      "His support for universal male suffrage",
-      "His alliance with radical socialists",
-      "His decision to close the Catholic Church"
+      "His attempt to restore stronger absolute rule, suspend the legislature, and restrict press freedom.",
+      "His public support for universal male suffrage and the direct election of local government officials.",
+      "His formal alliance with radical socialists to dismantle private property rights across the nation.",
+      "His controversial decision to close the Catholic Church and ban all public religious celebrations."
     ],
     "explanation": "Charles X's reactionary policies and July Ordinances restricted the press and political participation, provoking revolt. He abdicated, and Louis-Philippe became the constitutional 'Citizen King.'"
   },
@@ -183,16 +183,16 @@
     "t": "sa",
     "q": "Which conditions contributed to revolution in France in February 1848? Select all that apply.",
     "correct": [
-      "Economic recession and factory closures",
-      "Food shortages",
-      "Government corruption and repression of protest"
+      "Widespread economic recession and factory closures",
+      "Severe food shortages and rapidly rising crop prices",
+      "Government corruption and the repression of protests"
     ],
     "opts": [
-      "Economic recession and factory closures",
-      "Food shortages",
-      "Government corruption and repression of protest",
-      "A period of universal prosperity",
-      "Louis-Philippe's successful expansion of voting rights to all adults"
+      "Widespread economic recession and factory closures",
+      "Severe food shortages and rapidly rising crop prices",
+      "Government corruption and the repression of protests",
+      "A prolonged period of universal economic prosperity",
+      "The expansion of voting rights to all adult citizens"
     ],
     "explanation": "Recession, unemployment, food scarcity, corruption, and the government's violent response to protest destroyed support for Louis-Philippe. Prosperity and universal voting rights did not characterize his government."
   },
@@ -203,10 +203,10 @@
     "q": "What was France's Second Republic?",
     "a": 1,
     "opts": [
-      "The absolute monarchy of Charles X",
-      "The republican govt. created after Louis-Philippe abdicated...",
-      "Napoleon III's empire after 1852",
-      "The government formed after the Franco-Prussian War"
+      "The centralized absolute monarchy established by Charles X before the July Revolution of 1830.",
+      "The republican government created after Louis-Philippe abdicated during the 1848 revolution.",
+      "The authoritarian imperial regime declared by Emperor Napoleon III following his coup in 1852.",
+      "The new constitutional system established immediately following the end of the Napoleonic Wars."
     ],
     "explanation": "The February Revolution of 1848 ended Louis-Philippe's monarchy and produced the Second Republic. It was later destroyed when Louis-Napoleon staged a coup and became Emperor Napoleon III."
   },
@@ -217,10 +217,10 @@
     "q": "The June Days uprising of 1848 revealed which major division inside the new French republic?",
     "a": 2,
     "opts": [
-      "A conflict between France and Britain",
-      "A religious war between Catholics and Protestants",
-      "Class conflict between workers and the middle- and upper-...",
-      "A dispute over restoring feudal serfdom"
+      "A geopolitical conflict between the French republic and the British Empire",
+      "A religious conflict between the Catholic majority and Protestant minorities",
+      "A class conflict between urban workers and middle- and upper-class liberals",
+      "A political dispute over whether to restore feudal serfdom in rural areas"
     ],
     "explanation": "Workers rebelled after the government closed the National Workshops that had provided employment. The violent suppression, which killed about 1,500 citizens, exposed the republic's sharp class divisions."
   },
@@ -231,10 +231,10 @@
     "q": "How did Louis-Napoleon transform the Second Republic?",
     "a": 3,
     "opts": [
-      "He surrendered power to the National Assembly",
-      "He restored Louis-Philippe",
-      "He made France a British colony",
-      "He used a coup to dissolve republican govt. and became..."
+      "He surrendered all executive authority to the National Assembly and retired from public life.",
+      "He restored the Orleans monarchy by returning the aging Louis-Philippe to the French throne.",
+      "He signed a treaty that voluntarily integrated the French state into the growing German Empire.",
+      "He used a coup to dissolve the republican government and declared himself Emperor Napoleon III."
     ],
     "explanation": "Elected president in 1848, Louis-Napoleon later dissolved the National Assembly in a coup and established authoritarian rule, becoming Emperor Napoleon III. His rise ended the Second Republic."
   },
@@ -245,10 +245,10 @@
     "q": "Why did many European revolutions of 1848 fail despite early successes?",
     "a": 0,
     "opts": [
-      "Revolutionaries were divided, and conservative armies recovered and...",
-      "All monarchs voluntarily accepted national self-determination",
-      "Workers and middle-class liberals agreed on every goal",
-      "Foreign powers refused to aid conservative governments"
+      "Revolutionaries were divided, and conservative armies recovered and suppressed the rebellions.",
+      "European monarchs voluntarily abdicated their thrones and accepted national self-determination.",
+      "Working-class radicals and middle-class liberals agreed on all economic and political goals.",
+      "Foreign military powers consistently refused to intervene to support conservative governments."
     ],
     "explanation": "Liberal, nationalist, and working-class revolutionaries often wanted different outcomes. Once frightened elites regrouped, loyal armies and foreign intervention restored conservative control in Austria, Italy, and much of Germany."
   },
@@ -259,10 +259,10 @@
     "q": "Why did Frederick William IV's rejection of a crown offered by the Frankfurt Assembly damage the cause of German unity in 1848?",
     "a": 1,
     "opts": [
-      "It gave Austria permanent control of France",
-      "It showed that liberal nationalists lacked the military power...",
-      "It immediately unified Germany under republican rule",
-      "It ended Prussia's existence"
+      "It allowed the Austrian Empire to annex all of northern Germany and establish direct imperial control over Prussia.",
+      "It showed that liberal nationalists lacked the military power to enforce unification without monarchical support.",
+      "It led to the immediate creation of a unified German republic under the joint leadership of France and Russia.",
+      "It dissolved the Prussian state entirely and divided its lands among the surrounding minor German principalities."
     ],
     "explanation": "The Frankfurt Assembly depended on voluntary cooperation from established rulers. Frederick William's refusal demonstrated that speeches and constitutions alone could not overcome monarchical and military power."
   },
@@ -273,10 +273,10 @@
     "q": "Which two broad conditions encouraged independence movements in Latin America?",
     "a": 2,
     "opts": [
-      "The decline of Enlightenment ideas and stronger Spanish control",
-      "Industrialization and Ottoman conquest",
-      "Enlightenment ideas and political chaos in Europe",
-      "The Congress of Vienna's support for colonial independence"
+      "The decline of Enlightenment philosophy and stronger Spanish imperial control",
+      "The expansion of British colonies and direct military support from North America",
+      "The spread of Enlightenment philosophy and political chaos in European empires",
+      "The Congress of Vienna's formal declaration supporting colonial independence"
     ],
     "explanation": "Ideas of natural rights and popular sovereignty crossed the Atlantic, while Napoleon's invasions disrupted Spain and Portugal. Colonial elites and other groups used the crisis to challenge imperial authority."
   },
@@ -287,10 +287,10 @@
     "q": "Why was the Haitian Revolution historically unique?",
     "a": 0,
     "opts": [
-      "It was the only large-scale slave revolt to create an independent nation",
-      "It preserved slavery under a French governor",
-      "It established the first European monarchy in the Americas",
-      "It succeeded without warfare"
+      "It was the only large-scale slave revolt to successfully create a new, independent nation.",
+      "It successfully preserved the institution of plantation slavery under a French royal governor.",
+      "It established a permanent European-style absolute monarchy that dominated the Caribbean.",
+      "It succeeded entirely through peaceful negotiations without any outbreak of military conflict."
     ],
     "explanation": "Enslaved people in Saint-Domingue defeated major imperial armies and created independent Haiti in 1804. The revolution directly challenged slavery, colonialism, and racial hierarchy in a way unmatched by other Atlantic revolutions."
   },
@@ -301,10 +301,10 @@
     "q": "What best explains Toussaint L'Ouverture's success as a revolutionary leader?",
     "a": 1,
     "opts": [
-      "He depended entirely on permanent French military support",
-      "He built a disciplined army and skillfully shifted alliances among...",
-      "He avoided governing the colony",
-      "He restored plantation slavery to gain popular support"
+      "He relied on permanent French military assistance and financial aid from the British government.",
+      "He built a disciplined army and skillfully shifted alliances among competing European empires.",
+      "He refused to govern Saint-Domingue, leaving administrative duties to Spanish colonial officials.",
+      "He restored the system of plantation slavery to win the support of wealthy European landowners."
     ],
     "explanation": "Toussaint combined military organization, political leadership, and flexible diplomacy while French, Spanish, and British forces competed in the Caribbean. Although Napoleon captured him, the movement he helped build survived and won independence."
   },
@@ -314,16 +314,16 @@
     "t": "sa",
     "q": "Which were consequences or historical meanings of the Haitian Revolution? Select all that apply.",
     "correct": [
-      "Haiti became independent from France",
-      "The revolution challenged Atlantic slavery",
-      "Slaveholding societies feared similar uprisings"
+      "Haiti established political independence from France",
+      "The revolution directly challenged Atlantic slavery",
+      "Slaveholding societies feared similar slave uprisings"
     ],
     "opts": [
-      "Haiti became independent from France",
-      "The revolution challenged Atlantic slavery",
-      "Slaveholding societies feared similar uprisings",
-      "France strengthened slavery permanently in Haiti",
-      "Spain peacefully inherited Saint-Domingue"
+      "Haiti established political independence from France",
+      "The revolution directly challenged Atlantic slavery",
+      "Slaveholding societies feared similar slave uprisings",
+      "France permanently restored slavery in the territory",
+      "Spain peacefully annexed the colony of Saint-Domingue"
     ],
     "explanation": "Haitian independence destroyed slavery in the colony and frightened slaveholding elites throughout the Atlantic world. France did not retain Haiti, and Spain did not inherit it."
   },
@@ -334,10 +334,10 @@
     "q": "Which sequence best describes Mexico's path to independence?",
     "a": 3,
     "opts": [
-      "Bolivar invaded Mexico and crowned Hidalgo",
-      "Spain granted independence before any revolt",
-      "Toussaint defeated the Spanish army in Mexico City",
-      "Hidalgo began a mass revolt in 1810, and Iturbide later..."
+      "Spanish authorities voluntarily granted autonomy in 1808, avoiding any armed rebellion or civil war.",
+      "The Creole elite led a peaceful transition of power, establishing a stable republic without a revolt.",
+      "Liberal reformers overthrew the viceroy in 1810, leading to immediate annexation by the United States.",
+      "Hidalgo began a mass revolt in 1810, and Iturbide later secured independence as a conservative leader."
     ],
     "explanation": "Father Miguel Hidalgo launched the 1810 rebellion but was captured and executed. After years of conflict, conservative Creole officer Agustin de Iturbide joined the independence cause and secured separation from Spain in 1821."
   },
@@ -348,10 +348,10 @@
     "q": "Why did many wealthy Creoles initially fear Miguel Hidalgo's independence movement?",
     "a": 2,
     "opts": [
-      "It promised to restore Spanish taxes",
-      "It was led exclusively by Spanish officials",
-      "Its mass support among Indigenous people and mestizos...",
-      "It demanded that Mexico join Haiti"
+      "It promised to restore heavy Spanish taxes and re-establish the absolute authority of the crown.",
+      "It was led exclusively by high-ranking Spanish officials who wanted to restrict colonial trade.",
+      "Its mass support among Indigenous people and mestizos threatened their own economic and social power.",
+      "It demanded that Mexico abolish all private landownership and merge with neighboring territories."
     ],
     "explanation": "Hidalgo mobilized poor and racially marginalized groups, making elites fear social revolution as well as political separation. This helps explain why Mexican independence eventually succeeded through an alliance that protected elite interests."
   },
@@ -362,10 +362,10 @@
     "q": "Which description best identifies Simon Bolivar?",
     "a": 0,
     "opts": [
-      "A Creole leader who helped liberate northern South America from...",
-      "A Spanish king who reconquered Haiti",
-      "An Austrian diplomat who designed the Congress of Vienna",
-      "A Mexican priest who issued the Grito de Dolores"
+      "A prominent Creole leader who helped liberate northern South America from Spanish rule.",
+      "A Spanish general who successfully restored imperial control over the territory of Haiti.",
+      "An Austrian diplomat who designed the European balance of power at the Congress of Vienna.",
+      "A revolutionary Mexican priest who launched the independence war with the Grito de Dolores."
     ],
     "explanation": "Bolivar, known as El Libertador, led campaigns that helped free Venezuela, Colombia, Ecuador, Peru, and Bolivia. Hidalgo issued the Grito de Dolores; Metternich was the Austrian diplomat."
   },
@@ -376,10 +376,10 @@
     "q": "Why did Bolivar's dream of a durable, united Gran Colombia fail?",
     "a": 1,
     "opts": [
-      "Spain immediately reconquered all of South America",
-      "Regional rivalries, geography, and competing local elites...",
-      "Bolivar opposed independence",
-      "The United States annexed the entire region"
+      "Spain launched a major military campaign that quickly reconquered the South American colonies.",
+      "Regional rivalries, geographic barriers, and competing local elites caused it to split apart.",
+      "Bolivar decided to dissolve the state and support the restoration of Spanish monarchical rule.",
+      "The United States military invaded the region and annexed all the newly independent territories."
     ],
     "explanation": "Mountains and distance complicated government, while regional caudillos and local elites resisted centralized authority. Gran Colombia broke into separate states even though Spain did not reconquer them."
   },
@@ -389,16 +389,16 @@
     "t": "sa",
     "q": "Which factors limited unity and stability after Latin American independence? Select all that apply.",
     "correct": [
-      "Regional rivalries among local leaders",
-      "Difficult geography and weak transportation",
-      "Persistent social and ethnic inequality"
+      "Intense regional rivalries among local caudillos",
+      "Difficult geography and weak transport networks",
+      "Persistent social and ethnic inequality systems"
     ],
     "opts": [
-      "Regional rivalries among local leaders",
-      "Difficult geography and weak transportation",
-      "Persistent social and ethnic inequality",
-      "Complete agreement over centralized government",
-      "The disappearance of elite landownership"
+      "Intense regional rivalries among local caudillos",
+      "Difficult geography and weak transport networks",
+      "Persistent social and ethnic inequality systems",
+      "Complete consensus over centralized governments",
+      "The total collapse of elite-owned landholdings"
     ],
     "explanation": "Caudillo rivalry, geographic barriers, and inherited inequality made unified government difficult. Independence did not erase elite landownership or create consensus about political structure."
   },
@@ -409,10 +409,10 @@
     "q": "What was the German Confederation created after the Napoleonic Wars?",
     "a": 2,
     "opts": [
-      "A democratic nation led by Prussia",
-      "A colony controlled by France",
+      "A democratic nation-state led by the Prussian monarchy",
+      "An overseas colony controlled by French administrators",
       "A weak association of German states dominated by Austria",
-      "A military union between Germany and Italy"
+      "A military union between Germany and the Italian states"
     ],
     "explanation": "The Congress of Vienna replaced Napoleon's arrangements with a loose confederation of 39 states. Metternich favored its weakness because Austrian influence and conservative rulers would be safer than in a strong united Germany."
   },
@@ -423,9 +423,9 @@
     "q": "Bismarck's identity as a Prussian Junker meant that he came from:",
     "a": 3,
     "opts": [
-      "The urban socialist working class",
-      "The Catholic clergy",
-      "A French republican family",
+      "The urban socialist industrial class",
+      "The Catholic clerical establishment",
+      "A radical French republican family",
       "The conservative landowning nobility"
     ],
     "explanation": "Junkers were Prussian landed nobles who traditionally supported the monarchy and army. Bismarck's background helps explain his conservatism and loyalty to Prussian power."
@@ -438,9 +438,9 @@
     "a": 0,
     "opts": [
       "Using practical power calculations rather than fixed ideals",
-      "Submitting every policy to popular referendum",
-      "Rejecting diplomacy and war under all circumstances",
-      "Making religious doctrine the sole basis of foreign policy"
+      "Submitting all major policies to popular national referendums",
+      "Rejecting both diplomacy and warfare under all circumstances",
+      "Making religious doctrine the sole basis of his foreign policy"
     ],
     "explanation": "Realpolitik emphasized achievable results, military strength, strategic alliances, and calculated compromise. Bismarck could cooperate with one state and later oppose it if Prussian interests changed."
   },
@@ -451,10 +451,10 @@
     "q": "Bismarck's 'blood and iron' speech most clearly expressed his belief that German unification would be achieved through:",
     "a": 1,
     "opts": [
-      "Literary nationalism alone",
-      "Military power and decisive state action",
-      "Austrian leadership",
-      "A workers' revolution"
+      "Literary nationalism and cultural education",
+      "Military strength and decisive state actions",
+      "Austrian diplomatic and political leadership",
+      "A radical socialist working-class revolution"
     ],
     "explanation": "Bismarck argued that the major questions of the age would not be settled by speeches and parliamentary votes alone. He strengthened the Prussian army and used limited wars to reshape Germany."
   },
@@ -464,16 +464,16 @@
     "t": "sa",
     "q": "Which conflicts did Bismarck use to expand Prussian power and unify Germany? Select all that apply.",
     "correct": [
-      "War against Denmark",
-      "Austro-Prussian War",
-      "Franco-Prussian War"
+      "The War against Denmark",
+      "The Austro-Prussian War",
+      "The Franco-Prussian War"
     ],
     "opts": [
-      "War against Denmark",
-      "Austro-Prussian War",
-      "Franco-Prussian War",
-      "Crimean War against Russia",
-      "Greek War of Independence"
+      "The War against Denmark",
+      "The Austro-Prussian War",
+      "The Franco-Prussian War",
+      "The Russian Crimean War",
+      "The Greek Revolution War"
     ],
     "explanation": "The Danish, Austro-Prussian, and Franco-Prussian wars isolated opponents and rallied German states behind Prussia. The Crimean and Greek wars were not stages of Bismarck's unification strategy."
   },
@@ -484,10 +484,10 @@
     "q": "What was the most important political result of Prussia's rapid victory over Austria in 1866?",
     "a": 2,
     "opts": [
-      "Austria annexed Prussia",
-      "France took control of the German states",
-      "Austria was excluded from German affairs, allowing Prussia to lead...",
-      "The German Confederation became stronger under Metternich"
+      "Austria annexed all Prussian territory and established direct control over northern German states.",
+      "France assumed absolute political control over all German principalities to block Prussian expansion.",
+      "Austria was excluded from German affairs, allowing Prussia to lead the North German Confederation.",
+      "The German Confederation was restructured to grant Metternich permanent executive power in Berlin."
     ],
     "explanation": "The Seven Weeks' War ended Austrian leadership in Germany and allowed Prussia to organize the North German Confederation. This established the foundation for a Prussian-led nation-state."
   },
@@ -498,10 +498,10 @@
     "q": "Why did Bismarck edit and publish the Ems Dispatch in 1870?",
     "a": 3,
     "opts": [
-      "To prevent any conflict with France",
-      "To invite Austria back into German leadership",
-      "To announce Prussia's surrender",
-      "To provoke French outrage and unite German states against a..."
+      "To prevent any future military conflict with France by offering permanent territorial concessions.",
+      "To formally invite the Austrian Empire back into a leadership role within the German Confederation.",
+      "To negotiate a peaceful resolution and announce a diplomatic compromise over the Spanish throne.",
+      "To provoke French outrage and unite the southern German states against a common external threat."
     ],
     "explanation": "Bismarck shortened the diplomatic report so both France and Prussia appeared insulted. France declared war, and the southern German states joined Prussia, completing national unification after victory."
   },
@@ -512,10 +512,10 @@
     "q": "How did the constitution of the new German Empire combine popular participation with elite control?",
     "a": 0,
     "opts": [
-      "The Reichstag was elected by universal male suffrage, but the...",
-      "Both houses were elected by women and men",
-      "The emperor served only as a powerless symbol",
-      "The Reichstag could remove the emperor by simple vote"
+      "The Reichstag was elected by universal male suffrage, but the appointed chancellor and Bundesrat held real power.",
+      "Both chambers of parliament were directly elected by all adult men and women under a system of equal votes.",
+      "The emperor served only as a powerless figurehead while all executive authority was held by elected officials.",
+      "The Reichstag was given the absolute constitutional power to remove the ruling emperor by a simple majority vote."
     ],
     "explanation": "Adult men elected the Reichstag, but the Bundesrat represented state rulers and could block it. The emperor appointed the chancellor, so executive and aristocratic power remained strong despite elections."
   },
@@ -525,17 +525,17 @@
     "t": "sa",
     "q": "Which factors helped unified Germany become an industrial giant? Select all that apply.",
     "correct": [
-      "Large supplies of coal and iron",
-      "A single currency and unified banking system",
+      "Abundant domestic reserves of both coal and iron",
+      "A single currency and unified national banking",
       "Industrial investment and a disciplined workforce",
-      "Rapid population growth"
+      "Rapid population growth expanding the labor pool"
     ],
     "opts": [
-      "Large supplies of coal and iron",
-      "A single currency and unified banking system",
+      "Abundant domestic reserves of both coal and iron",
+      "A single currency and unified national banking",
       "Industrial investment and a disciplined workforce",
-      "Rapid population growth",
-      "A ban on factories and railroads"
+      "Rapid population growth expanding the labor pool",
+      "Strict national bans on foreign technology use"
     ],
     "explanation": "Natural resources, financial unity, investment, labor, and population growth encouraged rapid industrialization. A ban on factories and railroads would have prevented rather than accelerated growth."
   },
@@ -546,10 +546,10 @@
     "q": "After unification, Bismarck's primary foreign-policy strategy was to:",
     "a": 1,
     "opts": [
-      "Prepare an immediate invasion of Britain",
-      "Keep France isolated while maintaining workable ties with...",
-      "Break Germany into independent states",
-      "Build an anti-German alliance with France"
+      "Prepare an immediate military invasion of Great Britain to seize control of its global trade routes.",
+      "Keep France isolated while maintaining workable ties with Austria and Russia to avoid a two-front war.",
+      "Expand German territories by launching rapid invasions of neighboring Denmark and the Swiss cantons.",
+      "Build a formal military alliance with France and Russia to dismantle the neighboring Austrian Empire."
     ],
     "explanation": "Bismarck regarded satisfied, secure Germany as needing peace. He tried to prevent France from finding allies and managed relations among Austria and Russia to avoid a two-front war."
   },
@@ -560,10 +560,10 @@
     "q": "Bismarck's Kulturkampf was an effort to:",
     "a": 2,
     "opts": [
-      "Unify Germany with France",
-      "Expand the authority of the pope in Germany",
-      "Reduce Catholic Church influence and strengthen state loyalty",
-      "End all public education"
+      "Promote cultural unity by integrating the German and French states",
+      "Expand the political influence of the Catholic pope within Germany",
+      "Reduce the Catholic Church's influence and strengthen state loyalty",
+      "Suppress the growing socialist movement and outlaw all trade unions"
     ],
     "explanation": "Bismarck feared that Catholics might place loyalty to the pope above loyalty to the empire. His campaign restricted Church influence, although resistance eventually forced him to retreat from several measures."
   },
@@ -574,10 +574,10 @@
     "q": "Why did Kaiser William II remove Bismarck from power?",
     "a": 3,
     "opts": [
-      "Bismarck supported French control of Germany",
-      "The Reichstag legally abolished the chancellorship",
-      "Bismarck refused to serve William I",
-      "The young emperor wanted to rule personally and disagreed..."
+      "Bismarck advocated for surrendering Alsace-Lorraine and returning Germany to direct French control.",
+      "The elected Reichstag voted to legally abolish the office of the chancellor to increase democracy.",
+      "Bismarck refused to serve the new monarch and publicly declared his support for a British alliance.",
+      "The young emperor wanted to rule personally and disagreed with Bismarck's cautious foreign policy."
     ],
     "explanation": "William II declared that there would be only one master in the Reich. Personal rivalry and policy disagreements led him to demand Bismarck's resignation in 1890."
   },
@@ -588,10 +588,10 @@
     "q": "Which policy most clearly distinguished William II from Bismarck?",
     "a": 0,
     "opts": [
-      "A major naval buildup intended to rival Britain",
-      "Permanent avoidance of overseas competition",
-      "Restoration of the German Confederation",
-      "Elimination of all social welfare programs"
+      "A major naval buildup designed to rival Great Britain",
+      "The total avoidance of overseas colonial competition",
+      "The restoration of the pre-unification confederation",
+      "The elimination of all basic social welfare programs"
     ],
     "explanation": "William II pursued a more aggressive world policy and greatly expanded the navy, alarming Britain. He also adopted some welfare measures, so eliminating all social programs is incorrect."
   },
@@ -602,10 +602,10 @@
     "q": "What was Giuseppe Mazzini's contribution to Italian unification?",
     "a": 1,
     "opts": [
-      "He defended Austrian rule",
-      "He founded Young Italy and promoted a united nation based on...",
-      "He served as pope and opposed nationalism",
-      "He commanded the Prussian army"
+      "He actively defended Austrian rule in northern Italy and opposed all local national rebellions.",
+      "He founded Young Italy and promoted a united nation based on shared language and cultural identity.",
+      "He served as Pope Pius IX and used the church's spiritual authority to oppose Italian nationalism.",
+      "He commanded the Prussian military forces that defeated the Austrian Empire during the war of 1866."
     ],
     "explanation": "Mazzini supplied ideological inspiration through Young Italy, arguing that Italians shared a historical and cultural identity. His revolts often failed, but his nationalism shaped later unification."
   },
@@ -616,10 +616,10 @@
     "q": "Why did Cavour bring Sardinia-Piedmont into the Crimean War?",
     "a": 2,
     "opts": [
-      "To conquer Russia permanently",
-      "To support Austrian control of Italy",
-      "To gain diplomatic influence with Britain and France for the...",
-      "To help Garibaldi become king of France"
+      "To launch a military campaign designed to conquer the Russian Empire and establish permanent colonies.",
+      "To support Austrian control over northern Italy by forming a defensive alliance with Vienna's rulers.",
+      "To gain diplomatic influence with Britain and France for the purpose of challenging Austrian power.",
+      "To provide military assistance that would help Giuseppe Garibaldi overthrow the French royal dynasty."
     ],
     "explanation": "Sardinia's military contribution was small, but participation earned Cavour a place at the peace talks. He used that visibility to win support, especially from Napoleon III, against Austria."
   },
@@ -630,10 +630,10 @@
     "q": "Which statement best contrasts Cavour and Garibaldi?",
     "a": 3,
     "opts": [
-      "Both relied only on peaceful petitions",
-      "Garibaldi was a diplomat, while Cavour led the Red Shirts",
-      "Both wanted Italy permanently divided",
-      "Cavour used diplomacy and monarchy in the north, while Garibaldi..."
+      "Both leaders completely avoided warfare, relying instead on peaceful petitions sent to Austrian rulers.",
+      "Garibaldi acted as a cautious diplomat in the north, while Cavour commanded the Red Shirts in the south.",
+      "Both figures actively opposed Italian unification and wanted to keep the peninsula permanently divided.",
+      "Cavour used diplomacy and monarchy in the north, while Garibaldi relied on military force in the south."
     ],
     "explanation": "Cavour directed Sardinia-Piedmont's statecraft and alliances. Garibaldi and his Red Shirts conquered Sicily and Naples, then transferred those lands to Victor Emmanuel II."
   },
@@ -643,17 +643,17 @@
     "t": "sa",
     "q": "Which leader-role pairings are accurate? Select all that apply.",
     "correct": [
-      "Mazzini - nationalist founder of Young Italy",
-      "Cavour - Sardinian prime minister and diplomat",
-      "Garibaldi - commander of the Red Shirts",
-      "Victor Emmanuel II - monarch of unified Italy"
+      "Mazzini - the founder of the Young Italy movement",
+      "Cavour - Sardinian prime minister and key diplomat",
+      "Garibaldi - the leader of the volunteer Red Shirts",
+      "Victor Emmanuel II - the monarch of unified Italy"
     ],
     "opts": [
-      "Mazzini - nationalist founder of Young Italy",
-      "Cavour - Sardinian prime minister and diplomat",
-      "Garibaldi - commander of the Red Shirts",
-      "Victor Emmanuel II - monarch of unified Italy",
-      "Metternich - leader of the Red Shirts"
+      "Mazzini - the founder of the Young Italy movement",
+      "Cavour - Sardinian prime minister and key diplomat",
+      "Garibaldi - the leader of the volunteer Red Shirts",
+      "Victor Emmanuel II - the monarch of unified Italy",
+      "Metternich - conservative leader of the Red Shirts"
     ],
     "explanation": "Mazzini inspired, Cavour maneuvered diplomatically, Garibaldi conquered in the south, and Victor Emmanuel II became king. Metternich was an Austrian conservative who opposed Italian nationalism."
   },
@@ -664,10 +664,10 @@
     "q": "How did foreign affairs assist Italian unification?",
     "a": 0,
     "opts": [
-      "French aid helped Sardinia fight Austria, and later European...",
-      "Austria voluntarily united Italy",
-      "Russia conquered and transferred all Italian states",
-      "Britain installed Garibaldi as emperor"
+      "French aid helped Sardinia defeat Austria, and subsequent wars allowed Italy to acquire Venetia and Rome.",
+      "Austrian rulers voluntarily ceded their northern territories and financed the Italian unification process.",
+      "Russian armies conquered the peninsula and directly transferred control of all Italian states to Sardinia.",
+      "British forces intervened directly in the south and officially installed Giuseppe Garibaldi as the emperor."
     ],
     "explanation": "Cavour secured Napoleon III's assistance against Austria. Later, the Austro-Prussian and Franco-Prussian wars created opportunities for Italy to gain Venetia and Rome."
   },
@@ -677,17 +677,17 @@
     "t": "sa",
     "q": "Which problems confronted Italy after unification? Select all that apply.",
     "correct": [
-      "Regional languages and identities",
-      "Conflict with the papacy",
-      "Political turmoil and socialist growth",
+      "Deep-seated regional divisions and dialects",
+      "Ongoing political conflict with the papacy",
+      "Rising political turmoil and socialist growth",
       "Uneven industrialization and mass emigration"
     ],
     "opts": [
-      "Regional languages and identities",
-      "Conflict with the papacy",
-      "Political turmoil and socialist growth",
+      "Deep-seated regional divisions and dialects",
+      "Ongoing political conflict with the papacy",
+      "Rising political turmoil and socialist growth",
       "Uneven industrialization and mass emigration",
-      "Complete economic equality between north and south"
+      "Complete domination by Prussian military forces"
     ],
     "explanation": "Political borders did not instantly create a shared identity or equal economy. Regional division, Church hostility, social conflict, industrial disruption, and migration remained major challenges."
   },
@@ -698,10 +698,10 @@
     "q": "The statement 'We have made Italy; now we must make Italians' means that:",
     "a": 1,
     "opts": [
-      "Italy still lacked legal borders",
-      "Political unification had occurred, but a common national identity...",
-      "Austria still ruled every Italian state",
-      "All Italians already shared identical language and culture"
+      "The country still lacked recognized legal borders and international treaty rights.",
+      "Political unification had occurred, but a common national identity still had to be forged.",
+      "Austrian forces still ruled directly over every independent state in the peninsula.",
+      "All citizens already shared a single, uniform language and national cultural heritage."
     ],
     "explanation": "Many residents identified more strongly with region, town, or dialect than with the new nation. The state therefore had to build common institutions and loyalty after formal unification."
   },
@@ -712,10 +712,10 @@
     "q": "In Benjamin Disraeli's description of Britain as 'two nations,' the two groups were:",
     "a": 2,
     "opts": [
-      "England and France",
-      "Catholics and Protestants",
-      "The rich and the poor",
-      "Farmers and sailors"
+      "The industrial manufacturers and agricultural workers",
+      "The Anglican church leaders and nonconformist citizens",
+      "The wealthy upper classes and the impoverished workers",
+      "The English population and the French speaking minority"
     ],
     "explanation": "Disraeli emphasized the social separation between wealthy and impoverished Britons created or intensified by industrial society. The phrase highlighted class inequality, not international rivalry."
   },
@@ -726,10 +726,10 @@
     "q": "Why were rotten boroughs criticized before the Reform Act of 1832?",
     "a": 3,
     "opts": [
-      "They gave industrial cities too many representatives",
-      "They elected members by universal suffrage",
-      "They were controlled by labor unions",
-      "They retained parliamentary seats despite having very few voters"
+      "They gave rapidly growing industrial cities an unfair number of representatives.",
+      "They allowed parliamentary members to be elected through universal male suffrage.",
+      "They were heavily influenced and financially controlled by radical labor unions.",
+      "They retained their seats in Parliament despite having very few actual voters."
     ],
     "explanation": "Tiny or nearly abandoned districts could send members to Parliament, while rapidly growing industrial cities were underrepresented. This made representation unequal and vulnerable to aristocratic control."
   },
@@ -740,10 +740,10 @@
     "q": "What did the Reform Act of 1832 accomplish?",
     "a": 0,
     "opts": [
-      "It expanded the electorate and redistributed parliamentary...",
-      "It granted women full voting rights",
-      "It abolished the House of Commons",
-      "It restored rotten boroughs"
+      "It expanded the electorate and redistributed parliamentary seats to growing industrial towns.",
+      "It granted adult women full voting rights and allowed them to hold parliamentary office.",
+      "It established universal male suffrage and removed all property qualifications for voting.",
+      "It introduced the secret ballot for all elections to prevent aristocratic corruption."
     ],
     "explanation": "The act eliminated many rotten borough seats, gave more representation to industrial areas, and expanded voting among property-owning men. It was important but did not create universal suffrage or enfranchise women."
   },
@@ -753,16 +753,16 @@
     "t": "sa",
     "q": "Which reforms were associated with the Chartist movement? Select all that apply.",
     "correct": [
-      "Broader male suffrage",
-      "Secret ballots",
-      "More representative parliamentary districts"
+      "Universal suffrage for all adult men",
+      "Introduction of the secret ballot",
+      "Equal electoral districts across Britain"
     ],
     "opts": [
-      "Broader male suffrage",
-      "Secret ballots",
-      "More representative parliamentary districts",
-      "Permanent rule by the House of Lords",
-      "The abolition of elections"
+      "Universal suffrage for all adult men",
+      "Introduction of the secret ballot",
+      "Equal electoral districts across Britain",
+      "Hereditary seats for industrial capitalists",
+      "Absolute veto power for the reigning monarch"
     ],
     "explanation": "Chartists demanded a more democratic Parliament, especially for working men. Secret voting and fairer districts would reduce elite control; abolishing elections or strengthening hereditary rule would do the opposite."
   },
@@ -773,10 +773,10 @@
     "q": "Which statement best evaluates Victorian parliamentary reform?",
     "a": 1,
     "opts": [
-      "Britain immediately became a full democracy in 1832",
-      "Voting rights and Commons power expanded gradually, but women...",
-      "The House of Lords gained unlimited veto power in 1911",
-      "Political parties stopped competing"
+      "Britain instantly transformed into a complete democracy with the passage of the 1832 reform.",
+      "Voting rights and House of Commons power expanded gradually, but women remained disenfranchised.",
+      "The House of Lords obtained permanent veto power over all financial and tax legislation in 1911.",
+      "The Conservative and Liberal parties merged into a single governing body to prevent elections."
     ],
     "explanation": "A series of reforms broadened male suffrage, adopted the secret ballot, and reduced the Lords' power. The process was gradual and incomplete; British women did not gain parliamentary voting rights until 1918."
   },
@@ -787,10 +787,10 @@
     "q": "Which values were most closely associated with Victorian ideals?",
     "a": 2,
     "opts": [
-      "Revolution, idleness, and extravagance",
-      "Military dictatorship and censorship",
-      "Hard work, thrift, duty, honesty, and loyalty",
-      "Rejection of family and religion"
+      "Individual liberty, free expression, and secularism",
+      "Military dominance, state control, and absolute obedience",
+      "Hard work, personal thrift, duty, honesty, and loyalty",
+      "Collectivism, economic equality, and community ownership"
     ],
     "explanation": "Victorian culture publicly celebrated discipline, responsibility, thrift, honesty, and loyalty. These ideals coexisted with severe class inequality and imperial expansion."
   },
@@ -801,10 +801,10 @@
     "q": "Why did industrial and urban interests favor repeal of the Corn Laws?",
     "a": 3,
     "opts": [
-      "They wanted imported grain taxed more heavily",
-      "They wanted to protect only aristocratic landlords",
-      "They opposed all foreign trade",
-      "Cheaper imported grain could lower food prices and pressure..."
+      "They believed that higher tariffs on foreign imports would protect domestic factories.",
+      "They wanted to safeguard the high profits of aristocratic agricultural landowners.",
+      "They opposed international commerce and sought complete economic self-sufficiency.",
+      "They argued that cheaper imported grain would lower food costs and promote free trade."
     ],
     "explanation": "The Corn Laws protected British grain producers with tariffs, keeping food prices high. Manufacturers and urban consumers favored repeal because cheaper food benefited workers and supported free trade."
   },
@@ -814,17 +814,17 @@
     "t": "sa",
     "q": "Which changes represented social or political reform in nineteenth-century Britain? Select all that apply.",
     "correct": [
-      "Abolition of the slave trade in 1807",
-      "Abolition of slavery in 1833",
-      "Legal expansion of labor unions",
-      "Reduction in the number of capital crimes"
+      "The abolition of the slave trade in 1807",
+      "The total abolition of slavery in 1833",
+      "The legal expansion of active labor unions",
+      "The reduction in the number of capital crimes"
     ],
     "opts": [
-      "Abolition of the slave trade in 1807",
-      "Abolition of slavery in 1833",
-      "Legal expansion of labor unions",
-      "Reduction in the number of capital crimes",
-      "Restoration of slavery in industrial cities"
+      "The abolition of the slave trade in 1807",
+      "The total abolition of slavery in 1833",
+      "The legal expansion of active labor unions",
+      "The reduction in the number of capital crimes",
+      "The permanent restriction of all foreign trade"
     ],
     "explanation": "Britain ended the slave trade, abolished slavery in most of its empire, reduced harsh criminal penalties, and increasingly recognized unions. Restoring slavery was not a reform."
   },
@@ -835,10 +835,10 @@
     "q": "The emergence of the Labour Party in 1900 most directly reflected:",
     "a": 0,
     "opts": [
-      "The growing political organization of workers seeking social...",
-      "The disappearance of industrial labor",
-      "A campaign to strengthen rotten boroughs",
-      "A demand for restored feudalism"
+      "The growing political organization of workers seeking social reform and welfare legislation.",
+      "The rapid decline of industrial factories and the disappearance of the urban working class.",
+      "A coordinated campaign by the aristocracy to strengthen rotten boroughs in rural districts.",
+      "A concerted effort by wealthy landowners to restrict all international trade and free markets."
     ],
     "explanation": "Trade unionists and social reformers wanted direct representation for working-class interests and welfare legislation. Industrial labor had expanded, not disappeared."
   },
@@ -848,17 +848,17 @@
     "t": "sa",
     "q": "Which issues fueled Irish nationalism under British rule? Select all that apply.",
     "correct": [
-      "Absentee landlords",
-      "Tithes supporting the Church of England",
-      "The Great Hunger",
-      "Demands for Catholic emancipation and Home Rule"
+      "High rents paid to absentee British landlords",
+      "Required tithes to support the Anglican Church",
+      "Devastating famine during the Great Hunger",
+      "Denials of Catholic rights and local Home Rule"
     ],
     "opts": [
-      "Absentee landlords",
-      "Tithes supporting the Church of England",
-      "The Great Hunger",
-      "Demands for Catholic emancipation and Home Rule",
-      "Equal political and religious treatment from the beginning"
+      "High rents paid to absentee British landlords",
+      "Required tithes to support the Anglican Church",
+      "Devastating famine during the Great Hunger",
+      "Denials of Catholic rights and local Home Rule",
+      "Overwhelming competition from French merchants"
     ],
     "explanation": "Landlordism, religious discrimination, famine, and limited self-government generated resentment. Daniel O'Connell pursued Catholic emancipation, while later moderates sought Home Rule and radicals pursued independence."
   },
@@ -869,10 +869,10 @@
     "q": "How did Napoleon III's domestic government change during his reign?",
     "a": 1,
     "opts": [
-      "It began democratic and became more absolute every year",
-      "It began authoritarian but gradually allowed more political...",
-      "It immediately abolished industrial investment",
-      "It placed all power in the Paris Commune"
+      "It started as a constitutional democracy but became increasingly absolutist and repressive.",
+      "It began as an authoritarian dictatorship but gradually allowed more political liberalization.",
+      "It focused exclusively on agricultural development while banning all railway construction.",
+      "It surrendered all executive authority to the revolutionary leaders of the Paris Commune."
     ],
     "explanation": "Napoleon III initially ruled as an authoritarian emperor, restricting opposition. In the 1860s he liberalized parts of the regime, though France did not become a fully parliamentary democracy."
   },
@@ -883,10 +883,10 @@
     "q": "What was the purpose of the Suez Canal, and how was France connected to it?",
     "a": 2,
     "opts": [
-      "It connected the Atlantic and Pacific and was built by Germany",
-      "It linked the Rhine and Danube and was financed only by Britain",
-      "It connected the Mediterranean and Red seas and was built by a French-led...",
-      "It carried trains across the Alps and was designed by Cavour"
+      "It connected the Atlantic and Pacific oceans and was constructed by German military engineers.",
+      "It linked the Rhine and Danube rivers and was funded exclusively by British commercial banks.",
+      "It connected the Mediterranean and Red seas and was built by a French-led development company.",
+      "It carried railway transport across the Swiss Alps and was designed by Italian state engineers."
     ],
     "explanation": "The canal created a much shorter route between Europe and the Indian Ocean. Ferdinand de Lesseps and a French-led company developed it, though Britain later acquired major shares and strategic influence."
   },
@@ -897,16 +897,16 @@
     "q": "Which statements accurately describe Napoleon III's foreign-policy record? Select all that apply.",
     "correct": [
       "He won prestige in the Crimean War but gained little for its cost",
-      "He supported Italian nationalists against Austria",
+      "He supported Italian nationalists in their conflict with Austria",
       "His attempt to establish a satellite monarchy in Mexico failed",
-      "He was defeated in the Franco-Prussian War"
+      "He was defeated and captured during the Franco-Prussian War"
     ],
     "opts": [
       "He won prestige in the Crimean War but gained little for its cost",
-      "He supported Italian nationalists against Austria",
+      "He supported Italian nationalists in their conflict with Austria",
       "His attempt to establish a satellite monarchy in Mexico failed",
-      "He was defeated in the Franco-Prussian War",
-      "He permanently annexed Prussia to France"
+      "He was defeated and captured during the Franco-Prussian War",
+      "He successfully established a permanent French colony in Egypt"
     ],
     "explanation": "Napoleon III had mixed early successes, but the Mexican adventure collapsed and the Franco-Prussian War destroyed his empire. France never annexed Prussia."
   },
@@ -917,10 +917,10 @@
     "q": "What event directly ended Napoleon III's rule?",
     "a": 3,
     "opts": [
-      "The repeal of the Corn Laws",
-      "The Congress of Vienna",
-      "The Dreyfus Affair",
-      "His capture after the French defeat at Sedan in 1870"
+      "The outbreak of democratic revolutions across Europe in 1848",
+      "The economic depression caused by the building of the Suez Canal",
+      "The political crisis surrounding the start of the Dreyfus Affair",
+      "His military capture following the defeat at Sedan in 1870"
     ],
     "explanation": "Prussian forces defeated and captured Napoleon III at Sedan during the Franco-Prussian War. The empire collapsed, and France proclaimed the Third Republic."
   },
@@ -931,10 +931,10 @@
     "q": "What was the Paris Commune of 1871?",
     "a": 0,
     "opts": [
-      "A radical govt. in Paris that resisted the conservative...",
-      "A Prussian parliament elected by French voters",
-      "A royalist movement that restored Napoleon III",
-      "A peaceful labor union recognized by Bismarck"
+      "A radical municipal government in Paris that resisted the conservative national assembly.",
+      "A regional Prussian assembly established to govern French territory captured in the war.",
+      "A royalist coalition that successfully restored the empire under Napoleon III's heirs.",
+      "A peaceful labor union officially recognized and sponsored by the German chancellor."
     ],
     "explanation": "Radicals and socialists in Paris rejected the national government's surrender and authority. Civil war followed, and government troops crushed the Commune during a bloody campaign."
   },
@@ -945,10 +945,10 @@
     "q": "What did the suppression of the Paris Commune demonstrate?",
     "a": 1,
     "opts": [
-      "France had eliminated class conflict",
-      "The Third Republic was willing to use extreme violence...",
-      "Prussia permanently governed Paris",
-      "Socialists controlled the French army"
+      "France had successfully resolved its deep class divisions through peaceful political compromise.",
+      "The Third Republic was willing to use extreme violence to suppress working-class radicalism.",
+      "Prussia intended to establish a permanent military occupation and govern the city of Paris.",
+      "Socialist and anarchist leaders had obtained full command of the official French army."
     ],
     "explanation": "Thousands were killed, arrested, or deported when the army retook Paris. The episode revealed the deep divide between radical workers and the more conservative national government."
   },
@@ -959,10 +959,10 @@
     "q": "Why did coalition governments become common in France's Third Republic?",
     "a": 2,
     "opts": [
-      "Only one political party was legal",
-      "The president ruled as an absolute monarch",
-      "Many parties shared the legislature, so alliances were needed...",
-      "The army selected every member of parliament"
+      "Only a single political party was legally permitted to run candidates for parliament.",
+      "The executive president ruled as an absolute monarch and dissolved all opposition parties.",
+      "Many parties shared the legislature, requiring alliances to form a majority and govern.",
+      "The national army directly appointed all members of the assembly to ensure stability."
     ],
     "explanation": "The Third Republic had a two-house legislature and numerous political parties. Because no single party consistently held a majority, cabinets depended on coalitions led by a premier."
   },
@@ -973,10 +973,10 @@
     "q": "Why did the Dreyfus Affair divide French society so deeply?",
     "a": 3,
     "opts": [
-      "Dreyfus admitted spying for Germany",
-      "The evidence was strong and uncontested",
-      "It concerned only a minor tax dispute",
-      "A Jewish officer was falsely convicted, exposing antisemitism..."
+      "Alfred Dreyfus openly confessed to espionage, causing a collapse of public trust in the French republic.",
+      "The military evidence against the accused officer was completely uncontested by all legal experts.",
+      "The entire legal controversy centered on a minor tax dispute between the army and wealthy landowners.",
+      "A Jewish officer was falsely convicted of treason, exposing deep antisemitism and dividing the nation."
     ],
     "explanation": "Forged and concealed evidence kept Alfred Dreyfus imprisoned while nationalists and antisemites defended the military. Supporters demanded justice and civilian accountability, creating a major political and cultural split."
   },
@@ -987,10 +987,10 @@
     "q": "How did the Dreyfus Affair influence Theodor Herzl?",
     "a": 0,
     "opts": [
-      "It convinced him that Jews needed a secure national homeland",
-      "It led him to oppose all forms of nationalism",
-      "It made him a French military officer",
-      "It persuaded him that antisemitism had disappeared"
+      "It convinced him that Jewish people required a secure national homeland.",
+      "It led him to reject all nationalist movements and support globalism.",
+      "It inspired him to enlist as a high-ranking officer in the French army.",
+      "It persuaded him that antisemitic prejudice had finally been eliminated."
     ],
     "explanation": "Herzl saw that even an assimilated Jewish officer in republican France could become a target of antisemitism. He became a leading advocate of political Zionism and a Jewish homeland."
   },
@@ -1001,10 +1001,10 @@
     "q": "Why was nationalism especially dangerous to the Habsburg Empire?",
     "a": 1,
     "opts": [
-      "Nearly everyone in the empire shared one language",
-      "The empire ruled many nationalities, while German-speaking Austrians...",
-      "Austria had already granted every group independence",
-      "Nationalism strengthened Metternich's centralized control"
+      "The vast majority of the imperial population already shared a single, common language.",
+      "The empire ruled many nationalities, while German-speaking Austrians were a small minority.",
+      "The ruling dynasty had already voluntarily granted full independence to all ethnic groups.",
+      "Nationalist demands served to reinforce absolute imperial unity under Metternich's central rule."
     ],
     "explanation": "The Habsburg lands included Hungarians, Czechs, Slovaks, Poles, Italians, Croats, Serbs, Romanians, and others. National demands therefore threatened to fragment the dynasty's multinational state."
   },
@@ -1015,10 +1015,10 @@
     "q": "How did Francis Joseph initially respond to the revolutions and nationalist pressures facing Austria?",
     "a": 2,
     "opts": [
-      "He dissolved the empire voluntarily",
-      "He made every nationality fully independent",
-      "He consolidated monarchical power while offering limited...",
-      "He placed Garibaldi in charge of Austria"
+      "He voluntarily dissolved the Habsburg dynasty and permitted the immediate establishment of democratic republics.",
+      "He recognized all minority claims and granted complete political independence to every ethnic group in the realm.",
+      "He consolidated monarchical power while offering limited constitutional reforms that kept control in Austrian hands.",
+      "He appointed the Italian revolutionary Giuseppe Garibaldi to oversee the administrative government of the capital."
     ],
     "explanation": "Francis Joseph became emperor during the crisis of 1848 and restored central authority. Constitutional concessions existed, but power remained concentrated among the monarchy and German-speaking Austrian elites."
   },
@@ -1029,10 +1029,10 @@
     "q": "What created the Dual Monarchy of Austria-Hungary in 1867?",
     "a": 3,
     "opts": [
-      "Austria's victory over Prussia",
-      "Ottoman conquest of Vienna",
-      "The unification of Austria and Germany",
-      "A compromise after defeat by Prussia that gave Hungary..."
+      "A decisive military victory by Austrian forces over the expanding kingdom of Prussia.",
+      "The successful siege and permanent conquest of Vienna by the Ottoman imperial army.",
+      "The complete political unification of Austria and the newly formed German Empire.",
+      "A political compromise after defeat by Prussia that granted Hungary its own parliament."
     ],
     "explanation": "Austria's 1866 defeat weakened the monarchy and strengthened Hungarian demands. The Ausgleich created separate Austrian and Hungarian governments under Francis Joseph as emperor and king."
   },
@@ -1043,10 +1043,10 @@
     "q": "Why did the Dual Monarchy fail to solve Austria-Hungary's nationality problem?",
     "a": 0,
     "opts": [
-      "It favored Germans and Magyars while other national groups...",
-      "It gave every ethnic group an independent parliament",
-      "It abolished Hungarian political power",
-      "It merged the empire into Russia"
+      "It favored German and Magyar elites while other national groups remained politically dominated.",
+      "It granted every ethnic minority their own independent parliament and self-governing assembly.",
+      "It completely abolished Hungarian political influence and concentrated all power in Vienna.",
+      "It led to a direct annexation of all Austrian territories by the neighboring Ottoman Empire."
     ],
     "explanation": "The compromise satisfied many Hungarian demands but did not do the same for Czechs, Slovaks, Croats, Serbs, Romanians, and others. These groups continued to seek autonomy or independence."
   },
@@ -1056,16 +1056,16 @@
     "t": "sa",
     "q": "Which factors contributed to the Ottoman Empire's decline in the nineteenth and early twentieth centuries? Select all that apply.",
     "correct": [
-      "Nationalist revolts among subject peoples",
-      "European competition for Ottoman territory",
+      "Nationalist revolts among various subject peoples",
+      "Intense European competition for Ottoman territories",
       "Military and economic weakness relative to industrial powers"
     ],
     "opts": [
-      "Nationalist revolts among subject peoples",
-      "European competition for Ottoman territory",
+      "Nationalist revolts among various subject peoples",
+      "Intense European competition for Ottoman territories",
       "Military and economic weakness relative to industrial powers",
-      "A complete absence of foreign interference",
-      "Successful permanent control of every Balkan nationality"
+      "An absolute lack of external diplomatic intervention",
+      "Complete and permanent subjection of Balkan states"
     ],
     "explanation": "Nationalism weakened Ottoman control, while Russia, Austria, Britain, and others competed over Ottoman lands and influence. Industrial and military disadvantages made resistance difficult."
   },
@@ -1076,10 +1076,10 @@
     "q": "Calling the Ottoman Empire the 'sick man of Europe' implied that:",
     "a": 1,
     "opts": [
-      "It was Europe's strongest industrial state",
-      "It was weakening, and rival powers expected to profit from...",
-      "It had unified the Balkans through nationalism",
-      "It had conquered Russia"
+      "It was rapidly developing into Europe's strongest and most advanced industrial state.",
+      "It was steadily weakening, and rival powers expected to profit from its collapse.",
+      "It had successfully unified all diverse Balkan populations under a single identity.",
+      "It had successfully launched a military campaign and conquered the Russian Empire."
     ],
     "explanation": "The phrase described the empire's loss of territory and declining ability to resist foreign pressure. European powers disagreed over how to divide influence and prevent rivals from gaining too much."
   },
@@ -1090,10 +1090,10 @@
     "q": "Why did the Balkan Wars of 1912-1913 make the region a 'powder keg'?",
     "a": 2,
     "opts": [
-      "They ended nationalism permanently",
-      "They created a stable alliance trusted by every state",
-      "Territorial rivalry and nationalism intensified while great...",
-      "They restored complete Ottoman control"
+      "They permanently ended all nationalist sentiments and ethnic conflicts across southeastern Europe.",
+      "They created a stable and highly trusted military alliance that united all regional governments.",
+      "They intensified territorial rivalries and nationalism while rival great powers intervened for influence.",
+      "They restored complete and undisputed political control of all Balkan territories to the Ottoman Empire."
     ],
     "explanation": "Balkan states fought the Ottomans and then one another over territory. National ambitions, unreliable alliances, and intervention by Austria-Hungary and Russia made a wider war increasingly likely."
   },
@@ -1104,10 +1104,10 @@
     "q": "Which feature made Russian modernization difficult in the mid-1800s?",
     "a": 3,
     "opts": [
-      "A powerful independent middle class",
-      "Universal education and broad political rights",
-      "The absence of aristocratic landowners",
-      "Serfdom, weak middle classes, and autocratic tsarist rule"
+      "The rapid growth of a powerful, independent urban middle class.",
+      "The presence of universal education and broad political liberties.",
+      "The complete absence of wealthy, landowning noble aristocrats.",
+      "The persistence of serfdom, weak middle classes, and autocracy."
     ],
     "explanation": "Russia remained dominated by nobles and an absolute monarchy, while millions of poor serfs had little mobility or purchasing power. These conditions slowed economic and political modernization."
   },
@@ -1118,10 +1118,10 @@
     "q": "Why did defeat in the Crimean War encourage Alexander II to reform Russia?",
     "a": 0,
     "opts": [
-      "It exposed Russia's military, transport, and administrative weaknesses",
-      "It proved serfdom made Russia more advanced than Britain",
-      "It gave Russia control of all Ottoman territory",
-      "It ended the monarchy immediately"
+      "It exposed Russia's severe military, transportation, and administrative weaknesses.",
+      "It demonstrated that the system of serfdom made Russian industry superior to Britain.",
+      "It successfully granted the Russian Empire direct control over all Ottoman territories.",
+      "It resulted in the immediate abdication of the tsar and the collapse of the monarchy."
     ],
     "explanation": "Defeat by more industrialized powers showed that Russia's social and economic structure weakened its military. Alexander II concluded that reforms were necessary to preserve Russia as a great power."
   },
@@ -1132,10 +1132,10 @@
     "q": "What was Alexander II's most famous reform?",
     "a": 1,
     "opts": [
-      "Creating the Soviet Union",
-      "Emancipating Russia's serfs in 1861",
-      "Abolishing the Orthodox Church",
-      "Granting independence to every nationality"
+      "Establishing the socialist Soviet Union in Eastern Europe",
+      "Emancipating millions of Russian serfs from land bondage",
+      "Completely abolishing the traditional Russian Orthodox Church",
+      "Granting full political independence to all subject nations"
     ],
     "explanation": "Alexander II freed the serfs in 1861. The reform was historic, but many peasants received inadequate land and heavy redemption payments, limiting its economic benefits."
   },
@@ -1146,10 +1146,10 @@
     "q": "What were zemstvos?",
     "a": 2,
     "opts": [
-      "Secret police units",
-      "Private factories owned by the tsar",
-      "Locally elected assemblies responsible for limited self-govt.",
-      "National legislatures able to remove the tsar"
+      "Elite secret police units designed to monitor political dissidents.",
+      "Private industrial factories owned and operated directly by the tsar.",
+      "Locally elected assemblies responsible for limited self-government.",
+      "National legislative bodies holding the power to remove the monarch."
     ],
     "explanation": "Zemstvos handled local services such as roads, schools, and health. They introduced limited participation but did not replace autocracy or control national policy."
   },
@@ -1160,10 +1160,10 @@
     "q": "How did Alexander III respond after Alexander II was assassinated?",
     "a": 3,
     "opts": [
-      "He expanded revolutionary socialism",
-      "He granted a democratic constitution",
-      "He ended discrimination against minorities",
-      "He tightened autocratic rule and encouraged repression,..."
+      "He embraced revolutionary socialist ideals and shared power with the working classes.",
+      "He immediately granted a fully democratic constitution and established free elections.",
+      "He ended all forms of discrimination against religious and ethnic minority groups.",
+      "He tightened autocratic rule, increased censorship, and repressed minority populations."
     ],
     "explanation": "Alexander III reversed much of the reform spirit, strengthened censorship and police power, promoted Russian culture over minorities, and tolerated or encouraged violent antisemitic pogroms."
   },
@@ -1173,17 +1173,17 @@
     "t": "sa",
     "q": "Which tensions accompanied Russian industrialization under Alexander III and Nicholas II? Select all that apply.",
     "correct": [
-      "Harsh urban working conditions",
-      "A growing revolutionary labor movement",
-      "Continued peasant poverty",
-      "Autocratic resistance to political reform"
+      "Severe and harsh urban working conditions",
+      "A growing and revolutionary labor movement",
+      "Widespread and continued peasant poverty",
+      "Strong autocratic resistance to political reform"
     ],
     "opts": [
-      "Harsh urban working conditions",
-      "A growing revolutionary labor movement",
-      "Continued peasant poverty",
-      "Autocratic resistance to political reform",
-      "Immediate economic equality for all Russians"
+      "Severe and harsh urban working conditions",
+      "A growing and revolutionary labor movement",
+      "Widespread and continued peasant poverty",
+      "Strong autocratic resistance to political reform",
+      "Rapid and equal distribution of national wealth"
     ],
     "explanation": "Industrial growth expanded railways and factories but concentrated workers in difficult conditions. Peasant poverty and autocracy continued, creating rather than resolving revolutionary pressures."
   },
@@ -1194,10 +1194,10 @@
     "q": "Why did the Russo-Japanese War intensify Russia's domestic crisis?",
     "a": 0,
     "opts": [
-      "Unexpected defeats discredited the tsar and worsened economic...",
-      "Russia's easy victory made Nicholas II too popular",
-      "Japan restored serfdom in Russia",
-      "The war gave the Duma complete power"
+      "Unexpected defeats discredited the tsar and worsened economic conditions at home.",
+      "An easy and swift Russian victory made the tsar too popular to be challenged.",
+      "The Japanese military occupied Moscow and officially restored Russian serfdom.",
+      "The military conflict immediately forced the tsar to yield all power to the Duma."
     ],
     "explanation": "Defeat by Japan shocked Russians who expected victory and exposed government incompetence. Wartime shortages and frustration contributed directly to the Revolution of 1905."
   },
@@ -1208,10 +1208,10 @@
     "q": "Why was Bloody Sunday a turning point in 1905?",
     "a": 1,
     "opts": [
-      "Peaceful workers crowned Nicholas II",
-      "Troops fired on peaceful petitioners, destroying faith in the...",
-      "The Duma ordered the army to invade Japan",
-      "Alexander II returned to power"
+      "A crowd of peaceful workers entered the palace and crowned Nicholas II.",
+      "Imperial troops fired on peaceful petitioners, destroying faith in the tsar.",
+      "The newly formed Duma ordered the military to launch an invasion of Japan.",
+      "The Russian Orthodox Church officially declared war on the absolute monarchy."
     ],
     "explanation": "Workers marched peacefully to present grievances, but imperial troops killed and wounded protesters. The massacre triggered strikes, mutinies, and wider opposition to Nicholas II."
   },
@@ -1222,10 +1222,10 @@
     "q": "What did Nicholas II promise in the October Manifesto?",
     "a": 2,
     "opts": [
-      "The restoration of serfdom",
-      "Immediate abdication",
-      "Civil liberties and an elected Duma",
-      "Union with Austria-Hungary"
+      "The permanent restoration of agrarian serfdom",
+      "The immediate abdication of the royal family",
+      "The grant of civil liberties and an elected Duma",
+      "A military union with the Austro-Hungarian Empire"
     ],
     "explanation": "Facing the Revolution of 1905, Nicholas promised basic freedoms and a national legislature. The concession divided the opposition and helped the regime survive temporarily."
   },
@@ -1236,10 +1236,10 @@
     "q": "Why did the Duma fail to make Russia a stable constitutional monarchy?",
     "a": 3,
     "opts": [
-      "It held unlimited control over the military and budget",
-      "It abolished the tsar's office",
-      "It refused to meet at all",
-      "Nicholas II dissolved critical Dumas and preserved broad..."
+      "The assembly maintained absolute legislative control over the military budget.",
+      "The Duma voted to completely abolish the tsar's office and the monarchy.",
+      "The newly elected members flatly refused to assemble or pass any laws.",
+      "Nicholas II repeatedly dissolved critical Dumas and preserved absolute power."
     ],
     "explanation": "The tsar accepted a legislature under pressure but did not accept genuine parliamentary control. He dismissed assemblies that challenged him and manipulated election laws."
   },
@@ -1250,10 +1250,10 @@
     "q": "What best characterizes Prime Minister Peter Stolypin's approach?",
     "a": 0,
     "opts": [
-      "Combining limited agrarian reform with harsh repression of...",
-      "Ending all police action and distributing equal land",
-      "Replacing Nicholas II with an elected president",
-      "Restoring Ottoman control of Russia"
+      "Combining limited agrarian reforms with harsh repression of political dissidents.",
+      "Halting all imperial police actions and distributing land equally to peasants.",
+      "Drafting a constitutional plan to replace the tsar with an elected president.",
+      "Banning all private landownership and centralizing agricultural production."
     ],
     "explanation": "Stolypin tried to create prosperous, conservative peasant landowners while using executions, arrests, and censorship against opponents. Reform and repression operated together."
   },
@@ -1263,19 +1263,19 @@
     "t": "sa",
     "q": "Which unresolved problems left Russia unstable by 1914? Select all that apply.",
     "correct": [
-      "Peasant land hunger and poverty",
-      "Poor urban working conditions",
-      "Limited political power for the Duma",
-      "Ethnic and religious repression",
-      "Loss of confidence in the tsar"
+      "Widespread peasant land hunger and poverty",
+      "Dangerous and poor urban working conditions",
+      "Extremely limited political power for the Duma",
+      "Systemic ethnic and religious group repression",
+      "Widespread loss of public trust in the tsar"
     ],
     "opts": [
-      "Peasant land hunger and poverty",
-      "Poor urban working conditions",
-      "Limited political power for the Duma",
-      "Ethnic and religious repression",
-      "Loss of confidence in the tsar",
-      "A fully representative democracy accepted by Nicholas II"
+      "Widespread peasant land hunger and poverty",
+      "Dangerous and poor urban working conditions",
+      "Extremely limited political power for the Duma",
+      "Systemic ethnic and religious group repression",
+      "Widespread loss of public trust in the tsar",
+      "Total occupation of the capital by foreign forces"
     ],
     "explanation": "Russia had modernized unevenly without resolving land, labor, nationality, or constitutional questions. Nicholas II's defense of autocracy meant these pressures remained active when war began."
   },
@@ -1286,10 +1286,10 @@
     "q": "What was one major similarity between German and Italian unification?",
     "a": 1,
     "opts": [
-      "Both occurred without war or foreign diplomacy",
-      "Both combined nationalist feeling with leadership by an...",
-      "Both created democratic republics immediately",
-      "Both were led by Metternich"
+      "Both processes occurred entirely through peaceful agreements without any military conflict.",
+      "Both combined popular nationalist sentiment with leadership by a strong monarchical state.",
+      "Both movements resulted in the immediate establishment of constitutional, democratic republics.",
+      "Both unification campaigns were actively led and organized by Klemens von Metternich."
     ],
     "explanation": "Prussia led German unification, while Sardinia-Piedmont led Italian unification. In both cases, nationalism mattered, but established monarchies, armies, and diplomatic leaders converted sentiment into state power."
   },
@@ -1300,10 +1300,10 @@
     "q": "How were Bismarck and Cavour most alike?",
     "a": 2,
     "opts": [
-      "Both were radical republicans",
-      "Both rejected alliances with foreign powers",
-      "Both used pragmatic diplomacy and limited wars to strengthen...",
-      "Both wanted Austria to control their nations"
+      "Both leaders were radical republicans who aimed to overthrow all royal dynasties.",
+      "Both statesmen consistently rejected any diplomatic alliances with foreign empires.",
+      "Both used pragmatic diplomacy and strategic wars to expand the power of their home states.",
+      "Both politicians actively worked to keep their regions under absolute Austrian control."
     ],
     "explanation": "Neither leader was primarily an idealistic democrat. Bismarck served Prussia and Cavour served Sardinia-Piedmont, using alliances, calculation, and war to expand their states."
   },
@@ -1314,10 +1314,10 @@
     "q": "Which broad pattern best describes political change in nineteenth-century Europe?",
     "a": 3,
     "opts": [
-      "Every revolution succeeded immediately",
-      "Conservatives prevented all reform",
-      "Nationalism affected only France",
-      "Even failed revolutions pressured govt.s toward gradual..."
+      "Every popular uprising succeeded in establishing stable democratic governments immediately.",
+      "Conservative rulers successfully prevented any social or political reforms from occurring.",
+      "Nationalist movements and political revolutions exclusively affected the nation of France.",
+      "Even failed revolutions pressured conservative governments to adopt gradual reforms."
     ],
     "explanation": "Many uprisings were crushed, but their demands did not disappear. Britain reformed gradually, France repeatedly changed regimes, Germany and Italy unified, and multinational empires faced growing national challenges."
   },
@@ -1327,17 +1327,17 @@
     "t": "sa",
     "q": "Which examples show nationalism weakening multinational empires? Select all that apply.",
     "correct": [
-      "Greek resistance to Ottoman rule",
+      "Greek resistance against Ottoman rule",
       "Hungarian demands within the Habsburg Empire",
       "Balkan movements against Ottoman control",
-      "Slavic demands inside Austria-Hungary"
+      "Slavic autonomy demands in Austria-Hungary"
     ],
     "opts": [
-      "Greek resistance to Ottoman rule",
+      "Greek resistance against Ottoman rule",
       "Hungarian demands within the Habsburg Empire",
       "Balkan movements against Ottoman control",
-      "Slavic demands inside Austria-Hungary",
-      "British repeal of the Corn Laws"
+      "Slavic autonomy demands in Austria-Hungary",
+      "British parliamentary repeal of the Corn Laws"
     ],
     "explanation": "Each correct example involved a national group challenging rule by a larger multinational empire. Repeal of the Corn Laws was an economic and parliamentary reform, not a nationalist revolt."
   },
@@ -1348,10 +1348,10 @@
     "q": "Which conclusion is best supported by the unifications of Germany and Italy?",
     "a": 0,
     "opts": [
-      "National ideals were most successful when joined to armies,...",
-      "Poets and students alone could always defeat major empires",
-      "Popular elections were the only force behind unification",
-      "Foreign wars prevented national unity"
+      "National ideals were most successful when joined to the military and diplomatic power of established states.",
+      "Poetic writers and student activists alone possessed the power to permanently defeat established empires.",
+      "Popular democratic elections served as the sole driving force behind the entire unification process.",
+      "Frequent foreign wars consistently prevented any progress toward establishing unified national states."
     ],
     "explanation": "Mazzini and liberal nationalists inspired movements, but Cavour, Garibaldi, Bismarck, monarchs, armies, and international conflicts produced durable states. Ideas mattered most when connected to organized power."
   }

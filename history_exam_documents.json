@@ -3,10 +3,10 @@
     "document": "Document A, Adam Smith, The Wealth of Nations (1776): Smith challenges the common belief that a country's wealth is simply the gold and silver it possesses, noting that money mainly serves commerce and measures value.",
     "q": "Which economic idea is Smith most directly criticizing in this passage?",
     "opts": [
-      "Mercantilism's identification of national wealth with accumulated...",
-      "Socialism's call for workers to own factories collectively",
-      "Feudalism's exchange of land for military service",
-      "Nationalism's demand that each ethnic group form a state"
+      "Mercantilism's identification of national wealth with accumulated gold and silver",
+      "Socialism's insistence that factories and resources be collectively owned by workers",
+      "Feudalism's political system of exchanging land grants for military services",
+      "Nationalism's political assertion that each ethnic group should form a state"
     ],
     "a": 0,
     "explanations": [
@@ -21,16 +21,16 @@
     "document": "Document A: Smith compares Spaniards seeking gold in newly encountered lands with pastoral peoples who measured wealth in livestock, concluding that cattle may be closer to real wealth than money alone.",
     "q": "What broader claim is best supported by Smith's comparison?",
     "opts": [
-      "Only agricultural societies can become wealthy.",
-      "A useful supply of goods and resources matters more than money by itself.",
-      "European conquest was motivated entirely by religious conversion.",
-      "Governments should prohibit international trade."
+      "Only agricultural economies with large livestock herds can generate real wealth.",
+      "A useful supply of goods and productive resources matters more than money alone.",
+      "Precious metals obtained from foreign colonies are the only true source of wealth.",
+      "National governments should prohibit international commerce to preserve their gold."
     ],
     "a": 1,
     "explanations": [
       "Incorrect. Smith does not argue that agriculture is the only source of wealth; he uses livestock to expose the limits of equating wealth with money.",
       "Correct. His comparison suggests that productive or useful resources represent real wealth more accurately than a stockpile of currency.",
-      "Incorrect. The example mentions Spanish interest in precious metals and does not claim religion was the sole motive for conquest.",
+      "Incorrect. The example mentions Spanish interest in precious metals and does not support the claim that colonial bullion is the only source of wealth.",
       "Incorrect. Smith is famous for criticizing trade restrictions, and this passage does not advocate banning trade."
     ],
     "section": "Unit 5 - Industrial Revolution"
@@ -39,10 +39,10 @@
     "document": "Document A: Smith explains that people treat money as wealth because it can be exchanged readily and is used to calculate the value of other commodities.",
     "q": "Which statement would Smith most likely support based on this reasoning?",
     "opts": [
-      "Money has no economic function and should be abolished.",
-      "A nation's prosperity should be judged only by the ruler's treasury.",
-      "Money is useful in exchange, but it should not be confused with all the goods and...",
-      "Imports always make a nation poorer because gold leaves the country."
+      "Money serves no valuable economic function in society and should be completely abolished.",
+      "A country's wealth is best measured by the quantity of gold stored in the royal treasury.",
+      "Money is helpful for conducting trade but should not be equated with the wealth of a nation.",
+      "Importing goods from other nations always makes a country poorer by causing gold outflows."
     ],
     "a": 2,
     "explanations": [
@@ -57,17 +57,17 @@
     "document": "Document B, General Act of the Berlin Conference (1885): European and other signatory powers promise to protect African peoples, suppress the slave trade, support missionaries, and promote what they call the benefits of civilization.",
     "q": "Which imperialist justification is most visible in this language?",
     "opts": [
-      "A humanitarian and civilizing mission",
-      "The right of workers to overthrow capitalism",
-      "The principle of national self-determination for Africans",
-      "A policy of complete European isolation from Africa"
+      "A moral obligation to bring humanitarian aid and civilization to other societies",
+      "A strategic need to establish military bases to protect overseas merchant fleets",
+      "A desire to relocate surplus European populations to newly acquired territories",
+      "A political effort to establish democratic self-government for colonized peoples"
     ],
     "a": 0,
     "explanations": [
       "Correct. The act presents intervention as a moral project to improve, protect, educate, and convert African populations.",
-      "Incorrect. The document was written by imperial powers and does not promote Marxist revolution.",
-      "Incorrect. Africans were not given control over the conference or promised independent nation-states.",
-      "Incorrect. The agreement expanded and regulated European involvement in Africa rather than ending it."
+      "Incorrect. The document focuses on humanitarian goals and trade rules rather than military base strategy.",
+      "Incorrect. The document concentrates on colonial trade regulation and civilizing missions rather than population relocation.",
+      "Incorrect. The conference partitioned Africa among European powers rather than promoting African self-government."
     ],
     "section": "Unit 7 - Imperialism"
   },
@@ -75,17 +75,17 @@
     "document": "Document B: The conference lists European states and the United States as participants and establishes rules for trade, navigation, and future occupation in Africa; no African government appears among the signatories.",
     "q": "What is the strongest historical inference from the participants listed?",
     "opts": [
-      "African rulers collectively requested direct European rule.",
+      "African leaders negotiated treaties to share administrative power with European states.",
       "Imperial powers made decisions about African territory without meaningful African representation.",
-      "The conference immediately created independent democratic governments across Africa.",
-      "The meeting's main purpose was to unify Germany and Italy."
+      "European nations agreed to recognize and preserve the sovereignty of existing African kingdoms.",
+      "The United States was chosen as the primary governing authority to manage trade across Central Africa."
     ],
     "a": 1,
     "explanations": [
-      "Incorrect. The absence of African representatives does not show that African rulers requested colonization.",
+      "Incorrect. No African rulers were present at the conference, so they did not negotiate these terms.",
       "Correct. The participant list demonstrates that outside powers set rules affecting Africa while excluding African political voices.",
-      "Incorrect. The conference accelerated colonial claims; it did not establish broad African independence.",
-      "Incorrect. German and Italian unification had largely occurred before 1885 and was not the conference's stated purpose."
+      "Incorrect. The conference facilitated the partition and colonization of Africa, not the preservation of its sovereignty.",
+      "Incorrect. Although the United States was a participant, it did not take on administrative or colonial duties in Africa."
     ],
     "section": "Unit 7 - Imperialism"
   },
@@ -93,17 +93,17 @@
     "document": "Document B: The act protects free trade and navigation in the Congo and Niger regions while also setting uniform rules for future European occupation of African coasts.",
     "q": "Which motive for imperialism is most clearly revealed alongside the humanitarian language?",
     "opts": [
-      "Economic access to markets, rivers, and resources",
-      "A desire to restore medieval feudalism",
-      "A plan to end all European commercial competition",
-      "A commitment to return conquered territory immediately"
+      "Securing economic access to valuable trade markets, navigable rivers, and natural resources",
+      "A conservative desire to restore medieval feudal landholding systems throughout the colonies",
+      "An agreement to completely eliminate commercial competition among European merchant companies",
+      "A joint military commitment to defend African kingdoms against outside non-signatory invaders"
     ],
     "a": 0,
     "explanations": [
       "Correct. Guarantees of trade and navigation show that commercial access was a central concern of the participating powers.",
-      "Incorrect. The act regulates modern trade and colonial occupation, not medieval landholding.",
-      "Incorrect. The powers sought rules for competition and access, not an end to commerce.",
-      "Incorrect. The occupation rules facilitated new claims rather than promising rapid withdrawal."
+      "Incorrect. The conference regulated modern commercial expansion and colonial rule, not medieval feudal systems.",
+      "Incorrect. The powers sought rules to manage their commercial competition and access, not to eliminate commerce or private rivalry.",
+      "Incorrect. The rules established were meant to facilitate European colonial claims, not to defend African sovereignty."
     ],
     "section": "Unit 7 - Imperialism"
   },
@@ -111,17 +111,17 @@
     "document": "Document C, map of China and East Asia in the nineteenth century: The map marks British, French, German, Russian, and Japanese spheres of influence in China, treaty ports on the coast, foreign colonies nearby, and several internal rebellions.",
     "q": "Which conclusion is best supported by the map?",
     "opts": [
-      "China completely avoided foreign economic influence.",
-      "One European empire directly annexed all of China.",
-      "China faced simultaneous foreign pressure and major domestic unrest.",
-      "Japan remained isolated and lost all territory to China."
+      "China successfully maintained complete isolation and avoided foreign economic influence.",
+      "A single European empire succeeded in directly annexing the entire territory of China.",
+      "China experienced intensive foreign pressure alongside several major internal rebellions.",
+      "Japan remained diplomatically isolated and yielded its coastal islands to Chinese control."
     ],
     "a": 2,
     "explanations": [
-      "Incorrect. The numerous treaty ports and spheres of influence show extensive foreign economic penetration.",
-      "Incorrect. Several powers held separate spheres, while most of China was not shown as one formal colony.",
+      "Incorrect. The map's inclusion of multiple spheres of influence and treaty ports indicates extensive foreign economic penetration.",
+      "Incorrect. Rather than a single empire annexing China, multiple foreign powers held distinct spheres of influence.",
       "Correct. Foreign spheres and ports appear alongside the Taiping, Nian, Boxer, and Muslim uprisings.",
-      "Incorrect. The map shows Japan expanding, including control of Taiwan and influence in Korea and Manchuria."
+      "Incorrect. The map shows Japanese expansion, including control of Taiwan and influence in Korea and Manchuria."
     ],
     "section": "Unit 7 - Imperialism"
   },
@@ -129,17 +129,17 @@
     "document": "Document C: Most treaty ports and foreign-controlled areas appear along China's coast and major river routes, including locations near Shanghai, Guangzhou, Tianjin, and the Yangtze River.",
     "q": "Why were foreign powers especially interested in these locations?",
     "opts": [
-      "They offered access to shipping routes, trade centers, and...",
-      "They were the only regions where Chinese people lived.",
-      "They allowed Europeans to avoid commerce with China.",
-      "They contained the capitals of every European empire."
+      "They offered access to navigable shipping routes, inland trade markets, and deep-water harbors.",
+      "They were the only regions containing productive agricultural land and large populations in East Asia.",
+      "They served as fortified buffer zones to protect European home territories from Chinese naval forces.",
+      "They contained the administrative capital cities of the major European empires participating in trade."
     ],
     "a": 0,
     "explanations": [
       "Correct. Coastal ports and navigable rivers made it easier to import goods, export resources, and reach inland consumers.",
-      "Incorrect. China's population was widely distributed, not confined to treaty ports.",
-      "Incorrect. Foreign powers acquired ports precisely to increase commercial access.",
-      "Incorrect. European capitals were in Europe; the marked sites were strategic Asian trade locations."
+      "Incorrect. China's population was widely distributed throughout the country, not confined to these specific coastal locations.",
+      "Incorrect. Foreign powers acquired these ports specifically to expand their commercial presence and trade, not to avoid it or defend their home territories.",
+      "Incorrect. The capitals of the European empires were located in Europe, not in these Chinese treaty ports."
     ],
     "section": "Unit 7 - Imperialism"
   },
@@ -147,17 +147,17 @@
     "document": "Document C: Japan is shown controlling Taiwan, influencing Korea and southern Manchuria, and possessing nearby island territories by the end of the nineteenth century.",
     "q": "Which development best explains Japan's position on the map?",
     "opts": [
-      "The Tokugawa shogunate permanently rejected foreign technology.",
-      "The Meiji Restoration enabled rapid modernization and imperial expansion.",
-      "The Berlin Conference transferred East Asia to Japan.",
-      "Japan was divided into European spheres of influence."
+      "The Tokugawa shogunate successfully maintained its isolation and rejected Western technology.",
+      "The Meiji Restoration initiated rapid industrial modernization and aggressive imperial expansion.",
+      "The Qing dynasty voluntarily transferred its sovereign northern territories to Japanese control.",
+      "Japan was partitioned into foreign spheres of influence by competing European merchant empires."
     ],
     "a": 1,
     "explanations": [
-      "Incorrect. Tokugawa isolation ended, and the new government deliberately adopted foreign technologies and institutions.",
+      "Incorrect. Tokugawa isolation ended, and the new Meiji government actively adopted Western technology and institutions.",
       "Correct. Meiji reforms strengthened Japan's military and industry, allowing it to compete as an imperial power.",
-      "Incorrect. The Berlin Conference focused on Africa, not the transfer of East Asian territory.",
-      "Incorrect. The map depicts Japan creating its own empire rather than being partitioned by Europe."
+      "Incorrect. Japan acquired territories through military conflict, such as the Sino-Japanese War, not through voluntary concessions.",
+      "Incorrect. The map shows Japan as an active imperial power acquiring territory, not as a nation partitioned by European states."
     ],
     "section": "Unit 7 - Imperialism"
   },
@@ -168,14 +168,14 @@
       "Conservatism",
       "Liberalism",
       "Socialism",
-      "Zionism"
+      "Nationalism"
     ],
     "a": 0,
     "explanations": [
       "Correct. Metternich defends monarchy, tradition, religion, and established authority, all central conservative goals after Napoleon.",
       "Incorrect. Liberals generally favored constitutions, civil liberties, and limits on royal authority, which Metternich feared.",
       "Incorrect. Socialism focuses on economic class and ownership, while the letter mainly defends the traditional political order.",
-      "Incorrect. Zionism sought a Jewish national homeland and is unrelated to Metternich's defense of European monarchy."
+      "Incorrect. Nationalism sought self-determination for ethnic groups and challenged the multinational empires that Metternich defended."
     ],
     "section": "Unit 6 - Nationalism and Revolution"
   },
@@ -183,17 +183,17 @@
     "document": "Document D: Metternich describes the politically active middle class as breaking the monarch's scepter and falsely claiming to speak for the people.",
     "q": "Which policy would Metternich most likely favor?",
     "opts": [
-      "Expanding revolutionary newspapers and unrestricted public protest",
-      "Restoring legitimate monarchies and suppressing revolutionary movements",
-      "Granting every ethnic group immediate independence",
-      "Transferring factories to worker-controlled councils"
+      "Promoting free revolutionary newspapers and allowing unrestricted public protest",
+      "Restoring traditional legitimate monarchies and suppressing revolutionary movements",
+      "Granting sovereign independence and self-determination to every European ethnic group",
+      "Establishing democratic representative assemblies to share power with the middle class"
     ],
     "a": 1,
     "explanations": [
-      "Incorrect. He portrays the press and political agitation as threats to religion and the state.",
+      "Incorrect. Metternich viewed the free press and popular political agitation as direct threats to social order and the state.",
       "Correct. Metternich helped construct the Congress of Vienna settlement and supported intervention against liberal and nationalist revolts.",
-      "Incorrect. Immediate self-determination would destabilize multinational monarchies such as Austria, which Metternich defended.",
-      "Incorrect. Worker control is a socialist policy and not part of his conservative program."
+      "Incorrect. Granting national independence would dismantle multinational states like the Austrian Empire, which Metternich represented.",
+      "Incorrect. Metternich strongly opposed sharing power with the middle class and resisted representative institutions."
     ],
     "section": "Unit 6 - Nationalism and Revolution"
   },
@@ -201,17 +201,17 @@
     "document": "Document D: Metternich attacks those who deny the authority of the past and declare themselves masters of the future.",
     "q": "Which post-Napoleonic goal does this statement best help explain?",
     "opts": [
-      "Maintaining a balance of power and restoring the old political order",
-      "Spreading universal suffrage throughout Europe immediately",
-      "Encouraging nationalist revolutions within the Austrian Empire",
-      "Abolishing hereditary monarchy at the Congress of Vienna"
+      "Maintaining a balance of power and restoring the traditional political order",
+      "Spreading universal suffrage and representative democracy throughout Europe",
+      "Encouraging nationalist revolutions to liberate ethnic minorities in Austria",
+      "Establishing a unified democratic republic across all of the German states"
     ],
     "a": 0,
     "explanations": [
       "Correct. Conservative leaders sought stability by restoring dynasties and preventing another revolutionary power from dominating Europe.",
-      "Incorrect. Congress leaders generally resisted broad democratic participation.",
-      "Incorrect. Nationalist revolutions threatened Austria's multinational empire and were opposed by Metternich.",
-      "Incorrect. The Congress restored hereditary rulers rather than abolishing monarchy."
+      "Incorrect. The conservative leaders at the Congress of Vienna sought to restrict, rather than expand, democratic voting rights.",
+      "Incorrect. Nationalist uprisings directly threatened Austria's multinational empire and were actively opposed by Metternich.",
+      "Incorrect. The Congress of Vienna worked to restore hereditary rulers rather than establishing unified democratic republics."
     ],
     "section": "Unit 6 - Nationalism and Revolution"
   },
@@ -221,15 +221,15 @@
     "opts": [
       "Zionism",
       "Pan-Slavism",
-      "Utilitarianism",
-      "Mercantilism"
+      "Socialism",
+      "Liberalism"
     ],
     "a": 0,
     "explanations": [
       "Correct. Zionism advocated establishing a Jewish national homeland in response to persistent antisemitism and exclusion.",
       "Incorrect. Pan-Slavism promoted unity among Slavic peoples, not Jewish statehood.",
-      "Incorrect. Utilitarianism evaluates actions by their overall consequences and is not the nationalist movement described.",
-      "Incorrect. Mercantilism is an economic policy involving state-regulated trade and bullion."
+      "Incorrect. Socialism focused on class struggles and collective ownership of production rather than Jewish national identity.",
+      "Incorrect. Liberalism championed individual liberties and constitutional government, but is not the specific nationalist movement described."
     ],
     "section": "Unit 6 - Nationalism and Revolution"
   },
@@ -237,17 +237,17 @@
     "document": "Document E: Herzl writes that Jews have tried to integrate, serve as loyal citizens, and contribute to science, art, and commerce, yet are still denounced as strangers.",
     "q": "According to Herzl, what most strongly demonstrated the failure of assimilation?",
     "opts": [
-      "Jews refused to participate in European society.",
-      "Legal and social acceptance remained insecure despite Jewish loyalty and contribution.",
-      "European governments required all Jews to become monarchs.",
-      "Jewish communities had already established an independent state in Europe."
+      "Jewish populations actively refused to participate in the civic and economic life of European states.",
+      "Legal and social acceptance remained insecure despite the deep loyalty and civic contributions of Jews.",
+      "European governments enacted policies that officially banned any religious practice outside of Christianity.",
+      "Jewish communities successfully established their own sovereign and independent territory within Western Europe."
     ],
     "a": 1,
     "explanations": [
-      "Incorrect. Herzl emphasizes efforts to integrate rather than refusal to participate.",
+      "Incorrect. Herzl emphasizes that Jews actively tried to integrate and serve their countries as loyal citizens.",
       "Correct. Continued exclusion and antisemitism convinced him that contribution and patriotism did not guarantee acceptance.",
-      "Incorrect. The passage contains no claim that Jews were required to become rulers.",
-      "Incorrect. Herzl was advocating restoration of a state because such a state did not yet exist."
+      "Incorrect. While discrimination was widespread, governments did not completely outlaw all non-Christian religious practices.",
+      "Incorrect. Herzl advocated for the creation of a Jewish state precisely because no such independent homeland existed."
     ],
     "section": "Unit 6 - Nationalism and Revolution"
   },
@@ -255,17 +255,17 @@
     "document": "Document E: Herzl states that persecution has not destroyed Jewish identity and has instead made many Jews more conscious of belonging to one people.",
     "q": "How does this argument connect persecution to nationalism?",
     "opts": [
-      "Persecution can strengthen a shared identity and demand for self-determination.",
-      "Persecution always causes national identities to disappear.",
-      "Nationalism requires people to abandon cultural and religious ties.",
-      "Nationalism can develop only when a monarch commands it."
+      "Persecution can strengthen a shared national identity and the demand for self-determination.",
+      "Persecution inevitably causes distinct minority group identities to weaken and disappear.",
+      "Nationalism requires minority groups to completely abandon their historic cultural traditions.",
+      "Nationalist sentiments are significantly weakened when communities face external hardships."
     ],
     "a": 0,
     "explanations": [
       "Correct. Herzl presents antisemitism as a force that reinforced collective identity and support for a national homeland.",
-      "Incorrect. His argument says the opposite: persecution did not eliminate Jewish identity.",
-      "Incorrect. Zionism drew strength from shared historical and cultural ties rather than requiring their abandonment.",
-      "Incorrect. Herzl describes a movement arising from a people's experience, not from a royal order."
+      "Incorrect. His argument says the opposite: persecution did not eliminate Jewish identity but reinforced it.",
+      "Incorrect. Zionism drew strength from shared historical, religious, and cultural ties rather than abandoning them.",
+      "Incorrect. Herzl shows that external hardships and persecution actually fostered a stronger sense of national unity."
     ],
     "section": "Unit 6 - Nationalism and Revolution"
   },
@@ -273,17 +273,17 @@
     "document": "Document F, Jean-Jacques Rousseau, The Social Contract (1762): Individuals join together under the supreme direction of the general will, forming a collective political body or republic.",
     "q": "Where does legitimate political authority originate according to this passage?",
     "opts": [
-      "The divine right of a hereditary monarch",
-      "The collective agreement and general will of the people",
-      "The military power of a conquering empire",
-      "The accumulated wealth of private corporations"
+      "The divine right granted to a hereditary monarch by God",
+      "The collective agreement and general will of the citizens",
+      "The superior military power of an invading foreign empire",
+      "The traditional privileges and rights of the aristocracy"
     ],
     "a": 1,
     "explanations": [
-      "Incorrect. Rousseau grounds authority in a social compact, not divine-right monarchy.",
+      "Incorrect. Rousseau argues that legitimate authority is grounded in a social compact, not the divine right of kings.",
       "Correct. Citizens create the political community by combining their power under the general will.",
-      "Incorrect. Conquest may produce control, but it is not Rousseau's source of legitimate authority.",
-      "Incorrect. Corporate wealth is unrelated to the political compact described."
+      "Incorrect. Conquest may produce physical control, but it does not establish legitimate moral authority.",
+      "Incorrect. Rousseau opposes hereditary aristocratic privileges as the basis for a just and legitimate state."
     ],
     "section": "Unit 6 - Nationalism and Revolution"
   },
@@ -291,16 +291,16 @@
     "document": "Document F: Rousseau says that the act of association turns separate individuals into a moral and collective body with a common identity, life, and will.",
     "q": "Which later political principle was most influenced by this idea?",
     "opts": [
-      "Popular sovereignty",
-      "Absolute monarchy",
-      "Imperial spheres of influence",
-      "Social Darwinism"
+      "The principle of popular sovereignty",
+      "The practice of absolute monarchy",
+      "The system of colonial imperialism",
+      "The ideology of Social Darwinism"
     ],
     "a": 0,
     "explanations": [
       "Correct. Popular sovereignty holds that political power ultimately belongs to the people acting as a civic body.",
-      "Incorrect. Absolute monarchy concentrates sovereignty in a ruler rather than the citizen body.",
-      "Incorrect. Spheres of influence concern imperial control over foreign regions, not the source of domestic legitimacy.",
+      "Incorrect. Absolute monarchy concentrates sovereignty in a single ruler rather than the citizen body.",
+      "Incorrect. Colonial imperialism concerns foreign conquest and domination, not the source of domestic political legitimacy.",
       "Incorrect. Social Darwinism applies competition and survival ideas to society and does not arise from the social compact."
     ],
     "section": "Unit 6 - Nationalism and Revolution"
@@ -309,17 +309,17 @@
     "document": "Document F: Each person contributes individual power to the community and in return becomes an indivisible member of the whole.",
     "q": "Which revolutionary slogan most closely reflects Rousseau's political reasoning?",
     "opts": [
-      "Government exists by the consent of the governed.",
-      "Kings rule because their authority comes directly from God.",
-      "Colonial borders should be drawn by foreign powers.",
-      "Economic inequality proves biological superiority."
+      "Governments derive their legitimate power from the consent of the governed.",
+      "Monarchs rule by divine right because their authority comes directly from God.",
+      "The stability of the state must be guided by traditional royal decrees.",
+      "Citizens should refuse to pay taxes without direct representation in parliament."
     ],
     "a": 0,
     "explanations": [
       "Correct. A social contract depends on citizens consenting to form and participate in a political community.",
-      "Incorrect. Divine right conflicts with Rousseau's people-centered source of authority.",
-      "Incorrect. Foreign control of colonial borders does not express collective self-government.",
-      "Incorrect. This resembles Social Darwinist reasoning, not Rousseau's theory of civic association."
+      "Incorrect. Divine right conflicts with Rousseau's belief that political authority is derived from the collective will of the people.",
+      "Incorrect. Royal decrees represent top-down monarchical authority, which contradicts the concept of the general will.",
+      "Incorrect. While this slogan defends political rights, it focuses specifically on taxation rather than the formation of a collective social contract."
     ],
     "section": "Unit 6 - Nationalism and Revolution"
   },
@@ -327,17 +327,17 @@
     "document": "Document G, map of nationalities within the Habsburg Empire: Germans, Magyars, Czechs, Slovaks, Poles, Italians, Slovenes, Croats, Serbs, Romanians, and Ruthenians occupy overlapping regions under one imperial government.",
     "q": "Why did nationalism pose a major challenge to the Habsburg Empire?",
     "opts": [
-      "The empire contained many ethnic groups that could demand autonomy or independent states.",
-      "Every subject in the empire shared one language and national identity.",
-      "The empire had no neighboring states or contested borders.",
-      "Nationalism required all groups to remain loyal to a multinational dynasty."
+      "The empire contained numerous diverse ethnic groups that could demand autonomy or independence.",
+      "The imperial administration refused to collect taxes from its non-German speaking subjects.",
+      "The various ethnic groups preferred to merge immediately with neighboring foreign empires.",
+      "Nationalism reinforced traditional loyalties to the ruling multinational Habsburg dynasty."
     ],
     "a": 0,
     "explanations": [
       "Correct. National self-determination threatened to pull a diverse multinational empire apart.",
-      "Incorrect. The map's central feature is its ethnic and linguistic diversity.",
-      "Incorrect. The empire bordered several states and included regions linked culturally to peoples beyond its boundaries.",
-      "Incorrect. Nationalism often shifted loyalty away from the dynasty toward an ethnic nation."
+      "Incorrect. The empire collected taxes from all subjects; its challenges arose from ethnic and linguistic diversity, not tax exemption policies.",
+      "Incorrect. While some groups had cultural ties across borders, most nationalist movements sought self-rule rather than simple annexation.",
+      "Incorrect. Nationalism tended to shift loyalty away from the ruling dynasty and toward the ethnic nation, destabilizing the empire."
     ],
     "section": "Unit 6 - Nationalism and Revolution"
   },
@@ -345,17 +345,17 @@
     "document": "Document G: Magyar populations are concentrated in Hungary, Germans in Austria and other pockets, while Slavic and Romanian populations occupy many surrounding and intermixed areas.",
     "q": "Which political arrangement attempted to manage this diversity after 1867 but favored two dominant groups?",
     "opts": [
-      "The Dual Monarchy of A-H",
-      "The German Zollverein",
-      "The French Second Republic",
-      "The Ottoman millet system"
+      "The Dual Monarchy of Austria-Hungary",
+      "The customs union of the German Zollverein",
+      "The government of the French Second Republic",
+      "The religious millet system of the Ottomans"
     ],
     "a": 0,
     "explanations": [
       "Correct. The Compromise of 1867 created Austria-Hungary, giving Germans and Magyars leading positions while other nationalities remained dissatisfied.",
-      "Incorrect. The Zollverein was a German customs union led by Prussia and did not govern Habsburg nationalities.",
-      "Incorrect. The Second Republic was a French regime established in 1848.",
-      "Incorrect. The millet system organized religious communities in the Ottoman Empire, not the Habsburg settlement of 1867."
+      "Incorrect. The Zollverein was a German customs union led by Prussia and did not govern the nationalities of the Habsburg Empire.",
+      "Incorrect. The Second Republic was a French political regime established in 1848, unrelated to Habsburg reforms.",
+      "Incorrect. The millet system organized religious communities in the Ottoman Empire, not the Habsburg political system."
     ],
     "section": "Unit 6 - Nationalism and Revolution"
   },
@@ -363,17 +363,17 @@
     "document": "Document G: Several nationalities cross internal and external boundaries; for example, Croat and Serb areas lie near Serbia, while Italian populations appear near the Kingdom of Italy.",
     "q": "What problem for nationalist state-building does the map illustrate?",
     "opts": [
-      "Ethnic populations were neatly separated into existing states.",
-      "Mixed settlement patterns made it difficult to draw borders satisfying...",
-      "Geography prevented any contact among neighboring peoples.",
-      "All minority groups preferred rule by Vienna."
+      "Ethnic populations were already neatly separated by natural geographic barriers into states.",
+      "Mixed settlement patterns made it difficult to draw borders satisfying every national group.",
+      "The rugged physical terrain made trade and communication between provinces completely impossible.",
+      "All minority groups consistently preferred direct centralized rule by the monarchy in Vienna."
     ],
     "a": 1,
     "explanations": [
-      "Incorrect. The colors overlap and cross political boundaries rather than matching them neatly.",
+      "Incorrect. The map shows that ethnic groups were highly intermixed and crossed existing political borders.",
       "Correct. Intermixed communities meant that almost any new border could leave minorities under another group's rule.",
-      "Incorrect. Adjacent and overlapping territories encouraged contact and political disputes.",
-      "Incorrect. The era's nationalist movements show that many minorities challenged Habsburg rule."
+      "Incorrect. While geography influenced transportation, it did not prevent communication or trade between provinces.",
+      "Incorrect. The growth of nationalist movements shows that many minority groups actively resisted rule by Vienna."
     ],
     "section": "Unit 6 - Nationalism and Revolution"
   },
@@ -381,17 +381,17 @@
     "document": "Document H, John Locke, Two Treatises of Government (1690): Locke describes people in nature as free and equal, governed by reason, and possessing rights to life, liberty, and possessions.",
     "q": "Which Enlightenment concept is most clearly stated in the passage?",
     "opts": [
-      "Natural rights",
-      "Divine-right monarchy",
-      "Economic determinism",
-      "Militarism"
+      "The concept of natural rights",
+      "The theory of divine-right monarchy",
+      "The principle of economic determinism",
+      "The political ideology of militarism"
     ],
     "a": 0,
     "explanations": [
       "Correct. Locke argues that basic rights belong to people by nature rather than being granted by government.",
-      "Incorrect. Divine right makes royal authority God-given, while Locke emphasizes natural equality and individual rights.",
-      "Incorrect. Economic determinism explains history mainly through material or class forces and is not the passage's focus.",
-      "Incorrect. Militarism prioritizes armed power and has no direct connection to Locke's argument."
+      "Incorrect. Divine right asserts that a monarch's authority comes from God, whereas Locke emphasizes natural equality.",
+      "Incorrect. Economic determinism is a nineteenth-century Marxist concept, not an Enlightenment concept in Locke's writing.",
+      "Incorrect. Militarism focuses on the glorification of military power, which is unrelated to Locke's focus on individual rights."
     ],
     "section": "Unit 6 - Nationalism and Revolution"
   },
@@ -399,17 +399,17 @@
     "document": "Document H: Locke explains that individuals form political society because their rights are insecure when each person must protect them alone.",
     "q": "What is the primary purpose of government in Locke's argument?",
     "opts": [
-      "To preserve life, liberty, and property",
-      "To eliminate all private possessions",
-      "To expand the ruler's power without limits",
-      "To enforce one economic occupation for every citizen"
+      "To protect the natural rights of life, liberty, and property",
+      "To eliminate private property and distribute wealth equally",
+      "To expand the sovereign ruler's political power without limit",
+      "To enforce a single economic occupation on all members of society"
     ],
     "a": 0,
     "explanations": [
       "Correct. People accept government so that their preexisting natural rights can be protected more reliably.",
-      "Incorrect. Property is one of the rights Locke expects government to secure.",
-      "Incorrect. Unlimited power would threaten the rights that justify government in the first place.",
-      "Incorrect. Locke does not define government's purpose as assigning occupations."
+      "Incorrect. Locke argues that government is created to protect private property, not to eliminate it.",
+      "Incorrect. Unlimited power would threaten the individual rights that government is meant to secure.",
+      "Incorrect. Locke does not view the regulation of individual occupations as a purpose of the social contract."
     ],
     "section": "Unit 6 - Nationalism and Revolution"
   },
@@ -417,17 +417,17 @@
     "document": "Document H: Locke argues that when lawmakers seize property, reduce people to slavery, or seek absolute power, they enter a state of war with the people, who may establish a new legislature.",
     "q": "Which action does Locke justify when a government violates its trust?",
     "opts": [
-      "Replacing the abusive government",
-      "Obeying the ruler under all circumstances",
-      "Ending the concept of law permanently",
-      "Inviting a foreign empire to divide the country"
+      "Replacing the abusive rulers and establishing a new legislature",
+      "Obeying the established government under all possible conditions",
+      "Abolishing the rule of law and living in permanent statelessness",
+      "Submitting all political authority to the court of a foreign monarch"
     ],
     "a": 0,
     "explanations": [
       "Correct. Locke's right of revolution permits the people to create a new government when rulers systematically destroy their rights.",
-      "Incorrect. Unconditional obedience contradicts his statement that people may refuse abusive laws and replace lawmakers.",
-      "Incorrect. Locke advocates a new lawful government, not permanent lawlessness.",
-      "Incorrect. The passage gives authority to the people, not to foreign imperial powers."
+      "Incorrect. Locke explicitly rejects absolute obedience, arguing that citizens have a right to resist tyranny.",
+      "Incorrect. Locke seeks a new, just government under the rule of law, not the permanent abolition of law.",
+      "Incorrect. The authority to reform the government remains with the citizens, not with external foreign rulers."
     ],
     "section": "Unit 6 - Nationalism and Revolution"
   },
@@ -435,17 +435,17 @@
     "document": "Document I, political cartoon The Real Trouble Will Come with the Wake (1900): Animals labeled for imperial powers, including Russia, Britain, Germany, France, Japan, Austria, and Italy, crowd around and carve up a fallen Chinese dragon.",
     "q": "What does the cartoon primarily criticize?",
     "opts": [
-      "Foreign powers competing to divide and exploit China",
-      "China's conquest of the European continent",
-      "European withdrawal from Asian trade",
-      "The unification of China and Japan into one empire"
+      "The aggressive competition among foreign powers to partition and exploit China",
+      "The rapid military conquest of the European continent by the Chinese empire",
+      "The complete withdrawal of Western nations from commercial trade in East Asia",
+      "The voluntary unification of the Chinese and Japanese states into one empire"
     ],
     "a": 0,
     "explanations": [
       "Correct. The animals symbolize imperial states consuming or partitioning a weakened China.",
-      "Incorrect. China is portrayed as the victim on the ground, not as a conqueror of Europe.",
-      "Incorrect. The crowding powers represent growing intervention and competition, not withdrawal.",
-      "Incorrect. Japan appears as one competing imperial power rather than as part of a unified Chinese-Japanese state."
+      "Incorrect. China is portrayed as a vulnerable victim, not as a conqueror of European nations.",
+      "Incorrect. The cartoon depicts foreign powers actively carving up China, not withdrawing from trade.",
+      "Incorrect. Japan is shown as an independent predator competing against other empires for Chinese territory."
     ],
     "section": "Unit 7 - Imperialism"
   },
@@ -453,17 +453,17 @@
     "document": "Document I: The title warns that the real trouble will come with the 'wake,' while the apparently defeated Chinese dragon is surrounded by foreign predators.",
     "q": "What warning is implied by the title?",
     "opts": [
-      "China may eventually awaken and resist foreign domination.",
-      "Foreign occupation has permanently ended all Chinese resistance.",
-      "European powers will peacefully surrender their interests without pressure.",
-      "China will voluntarily become a British settler colony."
+      "China may eventually awaken and violently resist foreign imperial domination.",
+      "Foreign occupation has permanently eliminated any future Chinese resistance.",
+      "European powers will peacefully withdraw their forces from Asia without conflict.",
+      "The partition of Chinese territory will trigger a catastrophic global economic collapse."
     ],
     "a": 0,
     "explanations": [
       "Correct. The wordplay suggests danger when the seemingly helpless Chinese nation wakes or recovers.",
-      "Incorrect. The title specifically casts doubt on the permanence of China's apparent defeat.",
-      "Incorrect. The cartoon emphasizes aggressive competition, giving no reason to expect voluntary withdrawal.",
-      "Incorrect. China was subjected to spheres of influence rather than voluntarily becoming a British settler colony."
+      "Incorrect. The title casts doubt on the permanence of China's defeat by warning of future trouble.",
+      "Incorrect. The cartoon emphasizes intense rivalry, suggesting conflict rather than a peaceful withdrawal.",
+      "Incorrect. The cartoon addresses the geopolitical risks of partitioning China, not a global economic collapse."
     ],
     "section": "Unit 7 - Imperialism"
   },
@@ -471,17 +471,17 @@
     "document": "Document I: Multiple imperial animals clutch knives, forks, or weapons as they press around China, suggesting both cooperation in exploitation and rivalry over the available pieces.",
     "q": "Which policy most closely matches the United States response to the rivalry illustrated?",
     "opts": [
-      "The Open Door Policy seeking equal commercial access in China",
-      "The Truman Doctrine containing communism",
-      "The Marshall Plan rebuilding Europe",
-      "The policy of appeasement toward Nazi Germany"
+      "The Open Door Policy seeking equal commercial access to Chinese trade markets",
+      "The Truman Doctrine aiming to contain the global spread of Soviet communism",
+      "The Marshall Plan providing economic aid to rebuild war-torn European states",
+      "The policy of appeasement designed to prevent conflict with expansionist Germany"
     ],
     "a": 0,
     "explanations": [
       "Correct. The Open Door notes asked imperial powers to preserve equal trading access rather than close their Chinese spheres to competitors.",
-      "Incorrect. The Truman Doctrine belongs to the Cold War, nearly half a century later.",
-      "Incorrect. The Marshall Plan was a post-World War II European recovery program.",
-      "Incorrect. Appeasement describes 1930s policy toward Hitler and does not address the partition of China."
+      "Incorrect. The Truman Doctrine was a mid-twentieth-century Cold War policy, long after the cartoon was published.",
+      "Incorrect. The Marshall Plan was a post-World War II reconstruction program for Europe, not a policy for China.",
+      "Incorrect. Appeasement refers to Western policy toward Nazi Germany in the late 1930s, not nineteenth-century China."
     ],
     "section": "Unit 7 - Imperialism"
   },
@@ -489,17 +489,17 @@
     "document": "Document J, William Graham Sumner on Social Darwinism (ca. 1880s): Sumner calls competition a law of nature and argues that liberty produces unequal rewards because the most energetic and capable succeed.",
     "q": "Which economic policy would Sumner most likely support?",
     "opts": [
-      "Laissez-faire with limited government interference",
-      "Extensive redistribution to eliminate unequal outcomes",
-      "Complete state ownership of all industry",
-      "A return to feudal obligations and guild restrictions"
+      "Laissez-faire capitalism with minimal government intervention in the market",
+      "Extensive wealth redistribution to eliminate unequal economic outcomes",
+      "Complete state ownership and centralized control of all industrial factories",
+      "A return to feudal labor obligations and traditional guild trade restrictions"
     ],
     "a": 0,
     "explanations": [
       "Correct. Sumner treats unrestricted competition and unequal rewards as natural consequences of liberty.",
-      "Incorrect. He explicitly argues that redistribution rewards the less successful at the expense of the more successful.",
-      "Incorrect. State ownership would sharply restrict the competitive liberty he defends.",
-      "Incorrect. Feudal and guild controls restrict market competition and are not part of Social Darwinist capitalism."
+      "Incorrect. Sumner argues that redistributing wealth penalizes success and interferes with natural social competition.",
+      "Incorrect. State control would eliminate the individual liberty and competition that Sumner defends.",
+      "Incorrect. Feudal and guild restrictions limit market competition, which directly contradicts Sumner's capitalist views."
     ],
     "section": "Unit 5 - Industrial Revolution"
   },
@@ -507,17 +507,17 @@
     "document": "Document J: Sumner claims that taking rewards from those who perform better and giving them to those who perform worse reduces inequality only by destroying liberty.",
     "q": "Which reform would Sumner be most likely to oppose based on this argument?",
     "opts": [
-      "Government-funded aid financed by progressive taxation",
-      "Removal of restrictions on private business competition",
-      "Protection of private property rights",
-      "Freedom to enter contracts and pursue profit"
+      "Government-funded social welfare financed by progressive income taxation",
+      "The removal of government regulations on competitive private businesses",
+      "The legal protection of private property rights and corporate investments",
+      "The freedom of individual workers and owners to enter voluntary contracts"
     ],
     "a": 0,
     "explanations": [
       "Correct. Sumner would view redistributive taxation and aid as transferring rewards and interfering with natural competition.",
-      "Incorrect. He would generally favor freer competition.",
-      "Incorrect. Private property supports the unequal rewards and individual liberty he defends.",
-      "Incorrect. Contract and profit-seeking freedoms fit his laissez-faire outlook."
+      "Incorrect. Sumner strongly supported deregulation and free competition in the marketplace.",
+      "Incorrect. The protection of private property is fundamental to the capitalist system that Sumner supported.",
+      "Incorrect. Freedom of contract is a core element of the laissez-faire system Sumner advocated."
     ],
     "section": "Unit 5 - Industrial Revolution"
   },
@@ -525,17 +525,17 @@
     "document": "Document J: Sumner presents a stark choice between liberty with inequality and government-imposed equality that allows the 'unfit' to survive.",
     "q": "What major criticism can historians make of Sumner's reasoning?",
     "opts": [
-      "It applies biological ideas simplistically to society and can treat poverty or...",
-      "It rejects every form of competition in nature and society.",
-      "It argues that all inequality is caused only by hereditary monarchy.",
-      "It demands equal outcomes through strong welfare programs."
+      "It applies biological evolutionary ideas simplistically to society and ignores systemic barriers to success.",
+      "It rejects the concept of competition in nature and argues that humans must cooperate to survive.",
+      "It claims that economic inequality is solely created by the privileges of hereditary royal families.",
+      "It advocates for government intervention to guarantee equal economic outcomes for all social classes."
     ],
     "a": 0,
     "explanations": [
       "Correct. Social Darwinism often ignored unequal starting conditions and used a biological analogy to justify social and economic hierarchy.",
-      "Incorrect. Sumner calls competition a natural law rather than rejecting it.",
-      "Incorrect. His argument centers on competition and liberty, not monarchy as the sole cause of inequality.",
-      "Incorrect. He condemns redistribution and imposed equality rather than demanding them."
+      "Incorrect. Sumner emphasizes competition as a natural and necessary law of society rather than rejecting it.",
+      "Incorrect. Sumner attributes inequality to individual capability and liberty under competition, not royal families.",
+      "Incorrect. Sumner opposes welfare programs and state intervention, arguing they destroy individual liberty."
     ],
     "section": "Unit 5 - Industrial Revolution"
   }
