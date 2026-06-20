@@ -3,7 +3,7 @@
     "q": "Which statement best distinguishes the First Industrial Revolution from the Second Industrial Revolution?",
     "opts": [
       "The First centered on electricity and automobiles, while the Second centered on hand weaving.",
-      "The First, roughly 1750-1840, emphasized mechanization, coal, steam, iron, and textiles; the Second, roughly the 1850s-1914, emphasized steel, electricity, oil, chemicals, and improved communication.",
+      "First: ~1750-1840, used mechanization, coal, steam, iron, and textiles; second: ~1850s-1914, used steel,...",
       "The First occurred only in Asia, while the Second occurred only in Europe.",
       "The two revolutions used identical technologies and differed only in their dates."
     ],
@@ -22,7 +22,7 @@
       "It harvested cotton automatically.",
       "It powered factories with electricity.",
       "It enclosed common land by parliamentary order.",
-      "It planted seeds at controlled depths and intervals, reducing waste and improving germination."
+      "It planted seeds at controlled depths and intervals, reducing..."
     ],
     "a": 3,
     "explanations": [
@@ -55,7 +55,7 @@
     "opts": [
       "Every country possessed identical resources and institutions.",
       "Only English-speaking people could understand machines.",
-      "Countries differed in resources, capital, transportation, political stability, labor systems, and access to markets.",
+      "Countries differed in resources, capital, transport, political stability,...",
       "Industrial technology could not cross oceans."
     ],
     "a": 2,
@@ -70,7 +70,7 @@
   {
     "q": "What was James Watt's relationship to Thomas Newcomen's steam engine?",
     "opts": [
-      "Watt improved Newcomen's existing design, especially its efficiency; he did not invent steam power from nothing.",
+      "Watt improved Newcomen's existing design, especially its efficiency; he did not invent steam...",
       "Watt replaced Newcomen's engine with a hand loom.",
       "Watt invented coal, while Newcomen invented iron.",
       "They worked only on electric motors during the Second Industrial Revolution."
@@ -90,7 +90,7 @@
       "Railroads reduced the need for coal, iron, labor, and engineering.",
       "Railroads served passengers but could not carry freight.",
       "Railroads isolated inland factories from ports.",
-      "Railroad construction increased demand for coal, iron, steel, engines, labor, and engineering while opening markets for other industries."
+      "Railroad construction raised demand for coal, iron, steel, engines, labor, and..."
     ],
     "a": 3,
     "explanations": [
@@ -104,7 +104,7 @@
   {
     "q": "Why did interchangeable parts and standardized pieces increase industrial efficiency?",
     "opts": [
-      "Uniform components could be produced in quantity, assembled quickly, and replaced without custom fitting.",
+      "Uniform components could be produced in quantity, assembled...",
       "Every item had to be handmade as a unique object.",
       "They prevented division of labor.",
       "They made repairs impossible."
@@ -123,7 +123,7 @@
     "opts": [
       "Cities shrinking as workers returned to farms",
       "Factories moving away from all population centers",
-      "The fast growth of towns and cities as migrants moved near factories, mines, and rail hubs",
+      "The fast growth of towns and cities as migrants moved near...",
       "The replacement of cities by independent cottages"
     ],
     "a": 2,
@@ -139,7 +139,7 @@
     "q": "Which evaluation of the Industrial Revolution is most historically balanced?",
     "opts": [
       "It produced only suffering and no useful innovation.",
-      "It greatly increased production and eventually living standards, but initially imposed severe costs through exploitation, crowding, pollution, and inequality.",
+      "It greatly raised production and eventually living standards,...",
       "It immediately benefited every class equally.",
       "It changed technology but had no social consequences."
     ],
@@ -155,7 +155,7 @@
   {
     "q": "Which policy would Adam Smith most likely support?",
     "opts": [
-      "Competitive private markets with limited government interference in ordinary exchange",
+      "Competitive private markets with limited govt. interference in...",
       "Permanent government ownership of every farm and factory",
       "A ban on private enterprise",
       "Wages fixed entirely by hereditary nobles"
@@ -175,7 +175,7 @@
       "Wages would rise without limit.",
       "All workers would become factory owners.",
       "Steel wages would replace paper money.",
-      "Competition and population pressures would tend to push wages toward a subsistence level."
+      "Competition and population pressures would tend to push wages..."
     ],
     "a": 3,
     "explanations": [
@@ -192,7 +192,7 @@
       "A system in which hereditary nobles own all political offices",
       "A belief that factories should have no workers",
       "A policy of eliminating all shared institutions",
-      "A system or philosophy favoring social or collective ownership of major means of production such as factories, farms, and railways"
+      "A system or philosophy favoring social or collective ownership of major..."
     ],
     "a": 3,
     "explanations": [
@@ -226,7 +226,7 @@
       "A return to isolated hand production",
       "The abandonment of science by industry",
       "The disappearance of transportation and communication",
-      "The closer combination of science, technology, and industry to improve materials, energy, production, transportation, communication, and medicine"
+      "The closer combination of science, technology, and industry to..."
     ],
     "a": 3,
     "explanations": [
@@ -242,7 +242,7 @@
     "opts": [
       "It transmitted speech across wires.",
       "It prevented infection in surgery.",
-      "It provided a more manageable powerful explosive for mining, tunneling, and construction.",
+      "It provided a more manageable powerful explosive for mining,...",
       "It spun cotton thread."
     ],
     "a": 2,
@@ -275,7 +275,7 @@
     "q": "What distinguishes Industry 4.0 in the supplementary reading?",
     "opts": [
       "A return to water wheels and household weaving",
-      "Internet-based connectivity, digital skills, virtual systems, and increasingly networked technologies",
+      "Internet-based connectivity, digital skills, virtual systems,...",
       "The first use of coal in human history",
       "The complete disappearance of industry"
     ],
@@ -293,7 +293,7 @@
     "opts": [
       "Industrial projects required no money and involved no risk.",
       "A corporation could have only one investor.",
-      "Corporations pooled investment from many shareholders, allowing businesses to finance large factories, railroads, mines, and research while spreading risk.",
+      "Corporations pooled investment from many shareholders, allowing...",
       "Corporations prohibited large-scale production."
     ],
     "a": 2,
@@ -309,7 +309,7 @@
     "q": "What did the Cult of Domesticity prescribe for middle-class women?",
     "opts": [
       "Women should command armies and abandon family life.",
-      "Women should center their lives on home, morality, child-rearing, and support of the family breadwinner.",
+      "Women should center their lives on home, morality, child-rearing, and support of the family...",
       "Women should own every factory by law.",
       "Women and men should have identical social expectations in all circumstances."
     ],
@@ -326,7 +326,7 @@
     "q": "Why is Sojourner Truth's 'Ain't I a Woman?' argument important to industrial-era reform history?",
     "opts": [
       "It argued that only wealthy white women deserved rights.",
-      "It challenged both sexism and racism by showing that conventional claims about female weakness excluded the labor and suffering of Black women.",
+      "It challenged both sexism and racism by showing that conventional...",
       "It defended slavery as an industrial necessity.",
       "It opposed abolition and suffrage."
     ],
@@ -343,7 +343,7 @@
     "q": "How did the Social Gospel respond to industrial-era problems?",
     "opts": [
       "It argued religion should ignore poverty and unsafe work.",
-      "It applied religious ethics to social reform, encouraging action against poverty, exploitation, and unhealthy urban conditions.",
+      "It applied religious ethics to social reform, encouraging action...",
       "It promoted scientific racism as church doctrine.",
       "It demanded the end of all charity."
     ],
@@ -361,7 +361,7 @@
     "opts": [
       "Perfectly smooth historical scenes painted only in dark studios",
       "Technical diagrams of factory engines",
-      "Visible brushwork, attention to light and color, and scenes capturing a fleeting moment of modern life or nature",
+      "Visible brushwork, attention to light and color, and scenes capturing a...",
       "A political theory of collective ownership"
     ],
     "a": 2,
@@ -428,7 +428,7 @@
     "q": "What was France's Second Republic?",
     "opts": [
       "The absolute monarchy of Charles X",
-      "The republican government created after Louis-Philippe abdicated in 1848",
+      "The republican govt. created after Louis-Philippe abdicated...",
       "Napoleon III's empire after 1852",
       "The government formed after the Franco-Prussian War"
     ],
@@ -445,7 +445,7 @@
     "q": "Why did Frederick William IV's rejection of a crown offered by the Frankfurt Assembly damage the cause of German unity in 1848?",
     "opts": [
       "It gave Austria permanent control of France",
-      "It showed that liberal nationalists lacked the military power to make a king accept their constitution",
+      "It showed that liberal nationalists lacked the military power...",
       "It immediately unified Germany under republican rule",
       "It ended Prussia's existence"
     ],
@@ -479,7 +479,7 @@
     "q": "Why did Bolivar's dream of a durable, united Gran Colombia fail?",
     "opts": [
       "Spain immediately reconquered all of South America",
-      "Regional rivalries, geography, and competing local elites encouraged fragmentation",
+      "Regional rivalries, geography, and competing local elites...",
       "Bolivar opposed independence",
       "The United States annexed the entire region"
     ],
@@ -530,7 +530,7 @@
     "q": "After unification, Bismarck's primary foreign-policy strategy was to:",
     "opts": [
       "Prepare an immediate invasion of Britain",
-      "Keep France isolated while maintaining workable ties with Austria and Russia",
+      "Keep France isolated while maintaining workable ties with...",
       "Break Germany into independent states",
       "Build an anti-German alliance with France"
     ],
@@ -564,7 +564,7 @@
     "q": "What was Giuseppe Mazzini's contribution to Italian unification?",
     "opts": [
       "He defended Austrian rule",
-      "He founded Young Italy and promoted a united nation based on common heritage",
+      "He founded Young Italy and promoted a united nation based on...",
       "He served as pope and opposed nationalism",
       "He commanded the Prussian army"
     ],
@@ -581,7 +581,7 @@
     "q": "The statement 'We have made Italy; now we must make Italians' means that:",
     "opts": [
       "Italy still lacked legal borders",
-      "Political unification had occurred, but a common national identity remained weak",
+      "Political unification had occurred, but a common national identity...",
       "Austria still ruled every Italian state",
       "All Italians already shared identical language and culture"
     ],
@@ -632,7 +632,7 @@
     "q": "How did Napoleon III's domestic government change during his reign?",
     "opts": [
       "It began democratic and became more absolute every year",
-      "It began authoritarian but gradually allowed more political rights in the 1860s",
+      "It began authoritarian but gradually allowed more political...",
       "It immediately abolished industrial investment",
       "It placed all power in the Paris Commune"
     ],
@@ -648,7 +648,7 @@
   {
     "q": "What was the Paris Commune of 1871?",
     "opts": [
-      "A radical government in Paris that resisted the conservative national government after defeat by Prussia",
+      "A radical govt. in Paris that resisted the conservative...",
       "A Prussian parliament elected by French voters",
       "A royalist movement that restored Napoleon III",
       "A peaceful labor union recognized by Bismarck"
@@ -683,7 +683,7 @@
     "q": "Why was nationalism especially dangerous to the Habsburg Empire?",
     "opts": [
       "Nearly everyone in the empire shared one language",
-      "The empire ruled many nationalities, while German-speaking Austrians were a minority",
+      "The empire ruled many nationalities, while German-speaking Austrians...",
       "Austria had already granted every group independence",
       "Nationalism strengthened Metternich's centralized control"
     ],
@@ -699,7 +699,7 @@
   {
     "q": "Why did the Dual Monarchy fail to solve Austria-Hungary's nationality problem?",
     "opts": [
-      "It favored Germans and Magyars while other national groups still lacked comparable autonomy",
+      "It favored Germans and Magyars while other national groups...",
       "It gave every ethnic group an independent parliament",
       "It abolished Hungarian political power",
       "It merged the empire into Russia"
@@ -735,7 +735,7 @@
     "opts": [
       "Secret police units",
       "Private factories owned by the tsar",
-      "Locally elected assemblies responsible for limited self-government",
+      "Locally elected assemblies responsible for limited self-govt.",
       "National legislatures able to remove the tsar"
     ],
     "a": 2,
@@ -751,7 +751,7 @@
     "q": "Why was Bloody Sunday a turning point in 1905?",
     "opts": [
       "Peaceful workers crowned Nicholas II",
-      "Troops fired on peaceful petitioners, destroying faith in the tsar as protector",
+      "Troops fired on peaceful petitioners, destroying faith in the...",
       "The Duma ordered the army to invade Japan",
       "Alexander II returned to power"
     ],
@@ -767,7 +767,7 @@
   {
     "q": "What best characterizes Prime Minister Peter Stolypin's approach?",
     "opts": [
-      "Combining limited agrarian reform with harsh repression of revolutionaries",
+      "Combining limited agrarian reform with harsh repression of...",
       "Ending all police action and distributing equal land",
       "Replacing Nicholas II with an elected president",
       "Restoring Ottoman control of Russia"
@@ -787,7 +787,7 @@
       "Every revolution succeeded immediately",
       "Conservatives prevented all reform",
       "Nationalism affected only France",
-      "Even failed revolutions pressured governments toward gradual reform while nationalism reshaped borders"
+      "Even failed revolutions pressured govt.s toward gradual..."
     ],
     "a": 3,
     "explanations": [
@@ -802,7 +802,7 @@
     "q": "Which statement best defines nineteenth-century imperialism?",
     "opts": [
       "Equal states voluntarily lowering tariffs",
-      "A strong state extending political, economic, or cultural control over weaker societies",
+      "A strong state extending political, economic, or cultural...",
       "Colonies peacefully becoming independent",
       "Workers taking control of factories"
     ],
@@ -836,7 +836,7 @@
     "q": "Imperialists misused Darwinian language primarily to argue that:",
     "opts": [
       "All societies deserved equal sovereignty",
-      "Powerful nations and races were naturally entitled to dominate weaker ones",
+      "Powerful nations and races were naturally entitled to...",
       "Evolution required democratic government",
       "Industrialization should stop"
     ],
@@ -904,7 +904,7 @@
     "q": "Why did the Scramble for Africa accelerate after 1880?",
     "opts": [
       "African states invited permanent partition",
-      "Industrial demand, strategic rivalry, and new technology made conquest attractive and feasible",
+      "Industrial demand, strategic rivalry, and new technology made...",
       "Europe abandoned nationalism",
       "The slave trade became Europe's only goal"
     ],
@@ -921,7 +921,7 @@
     "q": "A long-term effect of colonial borders was that they often:",
     "opts": [
       "Followed all linguistic boundaries",
-      "Split cultural groups and combined rival communities within new states",
+      "Split cultural groups and combined rival communities within...",
       "Restored precolonial federations",
       "Prevented postcolonial conflict"
     ],
@@ -972,7 +972,7 @@
     "q": "Which comparison best describes Muslim-state responses to imperial pressure?",
     "opts": [
       "They all rejected Western technology",
-      "They combined selective modernization, reform, diplomacy, and sometimes resistance",
+      "They combined selective modernization, reform, diplomacy, and...",
       "They immediately became colonies",
       "They formed one unified empire"
     ],
@@ -1006,7 +1006,7 @@
     "q": "Why did the British East India Company provoke Indian resentment?",
     "opts": [
       "It refused to participate in trade",
-      "It combined political annexation, economic exploitation, and cultural interference",
+      "It combined political annexation, economic exploitation, and...",
       "It restored Mughal power",
       "It granted immediate independence"
     ],
@@ -1023,7 +1023,7 @@
     "q": "Which judgment best evaluates British railways in India?",
     "opts": [
       "They had no economic purpose",
-      "They aided mobility but were structured largely around imperial administration and extraction",
+      "They aided mobility but were structured largely around...",
       "They immediately ended famine",
       "They were controlled entirely by Indians"
     ],
@@ -1040,7 +1040,7 @@
     "q": "The First Opium War began after Qing officials tried to:",
     "opts": [
       "Invade British India",
-      "Suppress Britain's illegal opium trade",
+      "Stop British opium smuggling",
       "Annex Japan",
       "Close the Suez Canal"
     ],
@@ -1057,7 +1057,7 @@
     "q": "Unequal treaties weakened Qing sovereignty by imposing:",
     "opts": [
       "Equal tariff negotiations",
-      "Foreign privileges, ports, indemnities, and limits on Chinese legal authority",
+      "Foreign privileges, ports, indemnities, and limits on Chinese...",
       "Chinese control of London",
       "An end to missionary access"
     ],
@@ -1125,7 +1125,7 @@
     "q": "Why would Sumner oppose redistribution?",
     "opts": [
       "He believed wealth should be equal",
-      "He believed it punished the successful, rewarded the less fit, and restricted liberty",
+      "He believed it punished the successful, rewarded the less...",
       "He rejected private property",
       "He favored socialist planning"
     ],
@@ -1144,7 +1144,7 @@
       "European states abolished their armies.",
       "Serbia accepted permanent Ottoman rule.",
       "Colonial rivalry ended by 1900.",
-      "Britain and Germany competed to build dreadnoughts and expand war plans."
+      "Britain and Germany competed to build dreadnoughts and expand..."
     ],
     "a": 3,
     "explanations": [
@@ -1158,7 +1158,7 @@
   {
     "q": "Why did Austria-Hungary fear Pan-Slavism?",
     "opts": [
-      "It could encourage Slavic subjects to seek independence or union with Serbia.",
+      "It could encourage Slavic subjects to seek independence or...",
       "It promoted British naval rule.",
       "It industrialized Russia.",
       "It supported German control of France."
@@ -1193,7 +1193,7 @@
     "q": "How did the Balkan Wars raise tension?",
     "opts": [
       "They gave Bosnia to Britain.",
-      "They weakened Ottoman control, sharpened territorial disputes, and increased Serbian ambition.",
+      "They weakened Ottoman control, sharpened territorial...",
       "They ended nationalism.",
       "They created an Austro-Serbian alliance."
     ],
@@ -1210,7 +1210,7 @@
     "q": "Why was Austria-Hungary?s ultimatum dangerous?",
     "opts": [
       "It came from the U.S. Senate.",
-      "Its harsh demands challenged Serbian sovereignty and created a pretext for war.",
+      "Its harsh demands challenged Serbian sovereignty and created...",
       "It offered Serbia the empire.",
       "It ended mobilization."
     ],
@@ -1226,7 +1226,7 @@
   {
     "q": "Why did Italy join the Allies in 1915?",
     "opts": [
-      "It disputed Austrian territory and was promised gains after judging the Triple Alliance defensive.",
+      "It disputed Austrian territory and was promised gains after...",
       "Japan conquered Italy.",
       "Italy joined the Bolsheviks.",
       "Italy was never in the Triple Alliance."
@@ -1244,7 +1244,7 @@
     "q": "Why was the First Battle of the Marne significant?",
     "opts": [
       "Paris fell to the Ottomans.",
-      "It stopped Germany?s advance and helped produce Western Front stalemate.",
+      "It stopped Germany?s advance and helped produce Western Front...",
       "Britain surrendered.",
       "Russia left the war."
     ],
@@ -1260,7 +1260,7 @@
   {
     "q": "What best defines total war?",
     "opts": [
-      "Mobilization of soldiers, civilians, economies, industry, and information for victory.",
+      "Mobilization of soldiers, civilians, economies, industry, and...",
       "A war affecting professionals only.",
       "A one-month battle.",
       "A war without propaganda."
@@ -1280,7 +1280,7 @@
       "Trenches prevented casualties.",
       "Tanks ended the war in 1916.",
       "It occurred in Arabia.",
-      "Industrial firepower caused catastrophic losses for limited territorial gains."
+      "Industrial firepower caused catastrophic losses for limited..."
     ],
     "a": 3,
     "explanations": [
@@ -1296,7 +1296,7 @@
     "opts": [
       "It was a Mexican warship.",
       "It ended U-boat warfare.",
-      "American deaths increased anti-German opinion, though the United States did not enter immediately.",
+      "American deaths raised anti-German opinion, though the U.S....",
       "It caused same-day U.S. entry."
     ],
     "a": 2,
@@ -1314,7 +1314,7 @@
       "All colonies stayed neutral.",
       "No battles left France.",
       "Only Europeans served.",
-      "Empires fought in colonies and mobilized colonial troops, resources, bases, and routes."
+      "Empires fought in colonies and mobilized colonial troops,..."
     ],
     "a": 3,
     "explanations": [
@@ -1347,7 +1347,7 @@
     "opts": [
       "It was a naval battle.",
       "The League stopped it.",
-      "Ottoman leaders labeled Armenians a security threat and used wartime secrecy for deportation and mass killing.",
+      "Ottoman leaders labeled Armenians a security threat and used...",
       "The Allies protected every Armenian."
     ],
     "a": 2,
@@ -1365,7 +1365,7 @@
       "Russia had no losses.",
       "The tsar created a stable democracy.",
       "Workers unanimously favored war.",
-      "Defeats, casualties, shortages, and distrust of Nicholas II intensified existing unrest."
+      "Defeats, casualties, shortages, and distrust of Nicholas II..."
     ],
     "a": 3,
     "explanations": [
@@ -1380,7 +1380,7 @@
     "q": "How did Russian withdrawal affect Germany?",
     "opts": [
       "It reopened Gallipoli.",
-      "Germany shifted troops west for a final offensive before U.S. power fully arrived.",
+      "Germany shifted troops west for a final offensive before U.S....",
       "Germany moved all troops east.",
       "It guaranteed Allied surrender."
     ],
@@ -1398,7 +1398,7 @@
     "opts": [
       "Congress declared war in 1914.",
       "Germany ran U.S. policy.",
-      "Many Americans wanted to avoid a distant European war despite ties to the Allies.",
+      "Many Americans wanted to avoid a distant European war despite...",
       "America was in the Triple Alliance."
     ],
     "a": 2,
@@ -1415,7 +1415,7 @@
     "opts": [
       "No international cooperation.",
       "German control of Europe.",
-      "Open diplomacy, reduced arms, self-determination, and a League of Nations.",
+      "Open diplomacy, reduced arms, self-determination, and a...",
       "Secret treaties and annexations."
     ],
     "a": 2,
@@ -1433,7 +1433,7 @@
       "Versailles was ratified by America.",
       "World War II began.",
       "Russia reentered.",
-      "Germany signed an armistice ending combat before the later peace treaty."
+      "Germany signed an armistice ending combat before the later..."
     ],
     "a": 3,
     "explanations": [
@@ -1448,7 +1448,7 @@
     "q": "Why did Wilson and Clemenceau disagree?",
     "opts": [
       "Both opposed reparations.",
-      "Wilson favored a rules-based peace; Clemenceau emphasized French security and German punishment.",
+      "Wilson favored a rules-based peace; Clemenceau used French...",
       "Wilson wanted France.",
       "Clemenceau wanted a stronger Germany."
     ],
@@ -1465,7 +1465,7 @@
     "q": "Which change resulted from the settlement?",
     "opts": [
       "Ottomans gained Arabia.",
-      "Alsace-Lorraine returned to France and Poland regained access to the sea.",
+      "Alsace-Lorraine returned to France and Poland regained access...",
       "Germany annexed France.",
       "Austria-Hungary expanded."
     ],
@@ -1501,7 +1501,7 @@
       "Sarajevo alone explains imperialism.",
       "MANIIA began after 1918.",
       "There were no causes.",
-      "MANIIA created instability; Sarajevo activated it during the July Crisis."
+      "MANIIA created instability; Sarajevo activated it during the..."
     ],
     "a": 3,
     "explanations": [
@@ -1518,7 +1518,7 @@
       "Colonial rule ended.",
       "Europe left the Middle East.",
       "Japan surrendered everything.",
-      "Victors converted former enemy territories into mandates and spheres of influence."
+      "Victors converted former enemy territories into mandates and..."
     ],
     "a": 3,
     "explanations": [
