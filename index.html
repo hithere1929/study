@@ -1275,6 +1275,7 @@ let appState = {
   currentView: 'dashboard', // 'dashboard', 'unit-1'..'unit-8', 'practice-exam', 'final-exam-simulator', 'active-recall', 'ultimate-study'
   currentSubject: 'biology', // 'biology' or 'history'
   userAnswers: {}, // key: q_unit_section_idx -> { selected: [indices], locked: true, correct: boolean }
+  studyChoiceOrders: {}, // key: question key -> shuffled display order of original option indices
   activeRecallAnswers: {}, // key: ar_unit_page_qidx -> { selected: [indices], locked: true, correct: boolean }
   activeRecallUnit: 1,
   activeRecallPage: 1,
@@ -1304,6 +1305,15 @@ function loadState() {
     }
   }
   resetBrokenHistoryProgressOnce();
+
+  const savedStudyChoiceOrders = localStorage.getItem('quiz_study_choice_orders_v1');
+  if (savedStudyChoiceOrders) {
+    try {
+      appState.studyChoiceOrders = JSON.parse(savedStudyChoiceOrders);
+    } catch(e) {
+      appState.studyChoiceOrders = {};
+    }
+  }
   
   const savedTheme = localStorage.getItem('bio_quiz_theme');
   if (savedTheme) {
@@ -1398,6 +1408,7 @@ function loadState() {
 // Save study progress state
 function saveState() {
   localStorage.setItem('bio_quiz_state_v3', JSON.stringify(appState.userAnswers));
+  localStorage.setItem('quiz_study_choice_orders_v1', JSON.stringify(appState.studyChoiceOrders || {}));
   localStorage.setItem('quiz_recall_answers_v1', JSON.stringify(appState.activeRecallAnswers));
   localStorage.setItem('quiz_recall_unit_v1', appState.activeRecallUnit);
   localStorage.setItem('quiz_recall_page_v1', appState.activeRecallPage);
@@ -1679,6 +1690,30 @@ function displayLetterForChoice(order, originalChoiceIdx) {
   if (originalChoiceIdx === null || originalChoiceIdx === undefined || originalChoiceIdx === -1) return 'None';
   const displayIdx = order.indexOf(originalChoiceIdx);
   return displayIdx >= 0 ? String.fromCharCode(65 + displayIdx) : 'None';
+}
+
+function getStudyChoiceOrder(qKey, q) {
+  if (!appState.studyChoiceOrders) appState.studyChoiceOrders = {};
+  if (!isValidChoiceOrder(appState.studyChoiceOrders[qKey], q)) {
+    appState.studyChoiceOrders[qKey] = shuffledChoiceOrder(q);
+    localStorage.setItem('quiz_study_choice_orders_v1', JSON.stringify(appState.studyChoiceOrders));
+  }
+  return appState.studyChoiceOrders[qKey];
+}
+
+function getSelectAllCorrectIndices(q) {
+  const correctIndices = [];
+  q.opts.forEach((optText, optIdx) => {
+    if (q.correct.includes(optText)) correctIndices.push(optIdx);
+  });
+  return correctIndices;
+}
+
+function displayLettersForChoices(order, choiceIndices) {
+  return [...choiceIndices]
+    .sort((a, b) => order.indexOf(a) - order.indexOf(b))
+    .map(idx => displayLetterForChoice(order, idx))
+    .join(', ') || 'None';
 }
 
 // ── OVERALL DASHBOARD VIEW RENDERER ──
@@ -1987,6 +2022,7 @@ function renderSectionQuestions(containerEl, unitNum, sec, secQs) {
   
   secQs.forEach(({ q, idx }) => {
     const qKey = getQuestionKey(unitNum, sec, idx);
+    const choiceOrder = getStudyChoiceOrder(qKey, q);
     const savedState = appState.userAnswers[qKey] || { selected: [], locked: false, correct: false };
     
     const qBlock = document.createElement('div');
@@ -2022,8 +2058,9 @@ function renderSectionQuestions(containerEl, unitNum, sec, secQs) {
     const optsDiv = document.createElement('div');
     optsDiv.className = 'opts-container';
     
-    // Loop options
-    q.opts.forEach((optText, optIdx) => {
+    // Loop options in a stable shuffled display order while preserving original option indices for grading.
+    choiceOrder.forEach((optIdx, displayIdx) => {
+      const optText = q.opts[optIdx];
       const label = document.createElement('label');
       label.className = 'opt-label';
       if (savedState.selected.includes(optIdx)) label.classList.add('selected');
@@ -2103,7 +2140,7 @@ function renderSectionQuestions(containerEl, unitNum, sec, secQs) {
       // Letter indicator (A, B, C, D...)
       const letter = document.createElement('span');
       letter.className = 'opt-letter';
-      letter.textContent = String.fromCharCode(65 + optIdx) + '.';
+      letter.textContent = String.fromCharCode(65 + displayIdx) + '.';
       label.appendChild(letter);
       
       const textSpan = document.createElement('span');
@@ -2123,23 +2160,20 @@ function renderSectionQuestions(containerEl, unitNum, sec, secQs) {
       feedback.classList.add('show', savedState.correct ? 'good' : 'bad');
       let feedbackText = '';
       if (q.t === 'mc') {
-        const correctLetter = String.fromCharCode(65 + q.a);
+        const correctLetter = displayLetterForChoice(choiceOrder, q.a);
         if (savedState.correct) {
           feedbackText = `<strong>✓ Correct! You chose ${correctLetter}.</strong>`;
         } else {
-          const userLetter = savedState.selected.length > 0 ? String.fromCharCode(65 + savedState.selected[0]) : 'None';
+          const userLetter = savedState.selected.length > 0 ? displayLetterForChoice(choiceOrder, savedState.selected[0]) : 'None';
           feedbackText = `<strong>✗ Incorrect. You chose ${userLetter}. The correct answer is ${correctLetter}.</strong>`;
         }
       } else {
-        const correctIndices = [];
-        q.opts.forEach((optText, oIdx) => {
-          if (q.correct.includes(optText)) correctIndices.push(oIdx);
-        });
-        const correctLetters = correctIndices.map(i => String.fromCharCode(65 + i)).join(', ');
+        const correctIndices = getSelectAllCorrectIndices(q);
+        const correctLetters = displayLettersForChoices(choiceOrder, correctIndices);
         if (savedState.correct) {
           feedbackText = `<strong>✓ Correct! You chose the correct options: ${correctLetters}.</strong>`;
         } else {
-          const userLetters = savedState.selected.sort((a,b)=>a-b).map(i => String.fromCharCode(65 + i)).join(', ') || 'None';
+          const userLetters = displayLettersForChoices(choiceOrder, savedState.selected);
           feedbackText = `<strong>✗ Incorrect. You chose: ${userLetters}. The correct answers are: ${correctLetters}.</strong>`;
         }
       }
@@ -2172,6 +2206,8 @@ function renderSectionQuestions(containerEl, unitNum, sec, secQs) {
 // Check score and lock a specific question
 function gradeQuestion(unitNum, sec, idx, qBlock, q, state) {
   if (state.locked) return;
+  const qKey = getQuestionKey(unitNum, sec, idx);
+  const choiceOrder = getStudyChoiceOrder(qKey, q);
   
   state.locked = true;
   
@@ -2196,7 +2232,6 @@ function gradeQuestion(unitNum, sec, idx, qBlock, q, state) {
   state.correct = isCorrect;
   
   // Save answer
-  const qKey = getQuestionKey(unitNum, sec, idx);
   appState.userAnswers[qKey] = {
     selected: state.selected,
     locked: true,
@@ -2215,23 +2250,20 @@ function gradeQuestion(unitNum, sec, idx, qBlock, q, state) {
   // Update feedback text with EXPLANATION!
   let feedbackText = '';
   if (q.t === 'mc') {
-    const correctLetter = String.fromCharCode(65 + q.a);
+    const correctLetter = displayLetterForChoice(choiceOrder, q.a);
     if (isCorrect) {
       feedbackText = `<strong>✓ Correct! You chose ${correctLetter}.</strong>`;
     } else {
-      const userLetter = state.selected.length > 0 ? String.fromCharCode(65 + state.selected[0]) : 'None';
+      const userLetter = state.selected.length > 0 ? displayLetterForChoice(choiceOrder, state.selected[0]) : 'None';
       feedbackText = `<strong>✗ Incorrect. You chose ${userLetter}. The correct answer is ${correctLetter}.</strong>`;
     }
   } else {
-    const correctIndices = [];
-    q.opts.forEach((optText, oIdx) => {
-      if (q.correct.includes(optText)) correctIndices.push(oIdx);
-    });
-    const correctLetters = correctIndices.map(i => String.fromCharCode(65 + i)).join(', ');
+    const correctIndices = getSelectAllCorrectIndices(q);
+    const correctLetters = displayLettersForChoices(choiceOrder, correctIndices);
     if (isCorrect) {
       feedbackText = `<strong>✓ Correct! You chose the correct options: ${correctLetters}.</strong>`;
     } else {
-      const userLetters = state.selected.sort((a,b)=>a-b).map(i => String.fromCharCode(65 + i)).join(', ') || 'None';
+      const userLetters = displayLettersForChoices(choiceOrder, state.selected);
       feedbackText = `<strong>✗ Incorrect. You chose: ${userLetters}. The correct answers are: ${correctLetters}.</strong>`;
     }
   }
@@ -2240,21 +2272,22 @@ function gradeQuestion(unitNum, sec, idx, qBlock, q, state) {
   feedback.innerHTML = `${feedbackText}<br style="margin-bottom: 6px;">${q.explanation || ''}`;
   
   // Color the labels
-  qBlock.querySelectorAll('.opt-label').forEach((label, oIdx) => {
+  qBlock.querySelectorAll('.opt-label').forEach((label) => {
     label.classList.add('locked');
     const input = label.querySelector('input');
     if (input) input.disabled = true;
+    const optIdx = input ? parseInt(input.value, 10) : -1;
     
     if (q.t === 'mc') {
-      if (oIdx === q.a) {
+      if (optIdx === q.a) {
         label.classList.add('correct');
-      } else if (state.selected.includes(oIdx)) {
+      } else if (state.selected.includes(optIdx)) {
         label.classList.add('wrong');
       }
     } else {
-      const optText = q.opts[oIdx];
+      const optText = q.opts[optIdx];
       const isCorrectChoice = q.correct.includes(optText);
-      const wasSelected = state.selected.includes(oIdx);
+      const wasSelected = state.selected.includes(optIdx);
       if (isCorrectChoice) {
         label.classList.add('correct');
         if (!wasSelected) label.classList.add('missed');
@@ -3292,6 +3325,7 @@ function startPracticeExam() {
   appState.studyExamSession = {
     questions: selectedQs,
     answers: {},
+    choiceOrders: selectedQs.map(q => shuffledChoiceOrder(q)),
     timeLimit: timeSelect,
     timeLeft: timeSelect * 60,
     timerInterval: null,
@@ -3383,7 +3417,12 @@ function renderStudyExamRoom() {
     const optsDiv = document.createElement('div');
     optsDiv.className = 'opts-container';
     
-    q.opts.forEach((optText, optIdx) => {
+    const choiceOrder = isValidChoiceOrder(session.choiceOrders && session.choiceOrders[eIdx], q)
+      ? session.choiceOrders[eIdx]
+      : naturalChoiceOrder(q);
+
+    choiceOrder.forEach((optIdx, displayIdx) => {
+      const optText = q.opts[optIdx];
       const label = document.createElement('label');
       label.className = 'opt-label';
       
@@ -3415,7 +3454,7 @@ function renderStudyExamRoom() {
       
       const letter = document.createElement('span');
       letter.className = 'opt-letter';
-      letter.textContent = String.fromCharCode(65 + optIdx) + '.';
+      letter.textContent = String.fromCharCode(65 + displayIdx) + '.';
       label.appendChild(letter);
       
       const textSpan = document.createElement('span');
@@ -3456,6 +3495,9 @@ function submitStudyExam() {
   session.questions.forEach((q, eIdx) => {
     const qBlock = qBlocks[eIdx];
     const userAnswersList = session.answers[eIdx] || [];
+    const choiceOrder = isValidChoiceOrder(session.choiceOrders && session.choiceOrders[eIdx], q)
+      ? session.choiceOrders[eIdx]
+      : naturalChoiceOrder(q);
     
     let isCorrect = true;
     if (q.t === 'mc') {
@@ -3480,21 +3522,22 @@ function submitStudyExam() {
     badge.textContent = isCorrect ? '✓ Correct' : '✗ Incorrect';
     meta.appendChild(badge);
     
-    qBlock.querySelectorAll('.opt-label').forEach((label, oIdx) => {
+    qBlock.querySelectorAll('.opt-label').forEach((label) => {
       label.classList.add('locked');
       const input = label.querySelector('input');
       if (input) input.disabled = true;
+      const optIdx = input ? parseInt(input.value, 10) : -1;
       
       if (q.t === 'mc') {
-        if (oIdx === q.a) {
+        if (optIdx === q.a) {
           label.classList.add('correct');
-        } else if (userAnswersList.includes(oIdx)) {
+        } else if (userAnswersList.includes(optIdx)) {
           label.classList.add('wrong');
         }
       } else {
-        const optText = q.opts[oIdx];
+        const optText = q.opts[optIdx];
         const isCorrectChoice = q.correct.includes(optText);
-        const wasSelected = userAnswersList.includes(oIdx);
+        const wasSelected = userAnswersList.includes(optIdx);
         if (isCorrectChoice) {
           label.classList.add('correct');
           if (!wasSelected) label.classList.add('missed');
@@ -3506,23 +3549,20 @@ function submitStudyExam() {
     
     let feedbackText = '';
     if (q.t === 'mc') {
-      const correctLetter = String.fromCharCode(65 + q.a);
+      const correctLetter = displayLetterForChoice(choiceOrder, q.a);
       if (isCorrect) {
         feedbackText = `<strong>✓ Correct! You chose ${correctLetter}.</strong>`;
       } else {
-        const userLetter = userAnswersList.length > 0 ? String.fromCharCode(65 + userAnswersList[0]) : 'None';
+        const userLetter = userAnswersList.length > 0 ? displayLetterForChoice(choiceOrder, userAnswersList[0]) : 'None';
         feedbackText = `<strong>✗ Incorrect. You chose ${userLetter}. The correct answer is ${correctLetter}.</strong>`;
       }
     } else {
-      const correctIndices = [];
-      q.opts.forEach((optText, oIdx) => {
-        if (q.correct.includes(optText)) correctIndices.push(oIdx);
-      });
-      const correctLetters = correctIndices.map(i => String.fromCharCode(65 + i)).join(', ');
+      const correctIndices = getSelectAllCorrectIndices(q);
+      const correctLetters = displayLettersForChoices(choiceOrder, correctIndices);
       if (isCorrect) {
         feedbackText = `<strong>✓ Correct! You chose the correct options: ${correctLetters}.</strong>`;
       } else {
-        const userLetters = userAnswersList.sort((a,b)=>a-b).map(i => String.fromCharCode(65 + i)).join(', ') || 'None';
+        const userLetters = displayLettersForChoices(choiceOrder, userAnswersList);
         feedbackText = `<strong>✗ Incorrect. You chose: ${userLetters}. The correct answers are: ${correctLetters}.</strong>`;
       }
     }
@@ -3580,9 +3620,11 @@ function setupResetModal() {
 
 function wipeProgress() {
   appState.userAnswers = {};
+  appState.studyChoiceOrders = {};
   appState.examSession = null;
   appState.examResult = null;
   localStorage.removeItem('bio_quiz_state_v3');
+  localStorage.removeItem('quiz_study_choice_orders_v1');
   localStorage.removeItem('bio_final_exam_session');
   localStorage.removeItem('bio_final_exam_result');
   
