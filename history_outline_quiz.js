@@ -68,36 +68,75 @@ const HISTORY_OUTLINE_ITEMS = [
   ["Unit 8", "War end and Versailles", "Allied pressure and U.S. troops pushed Germany to armistice; Versailles blamed Germany, demanded reparations, limited military, took territory, and created League"]
 ];
 
-const HISTORY_OUTLINE_DISTRACTORS = {
-  "Unit 5": [
-    "Restored medieval guild control, reduced private investment, and moved workers away from factories into rural cottage production",
-    "Relied mainly on digital communication, automobiles, petroleum, and twentieth-century assembly lines rather than coal and steam",
-    "Created immediate equality for every social class and removed pollution, poverty, dangerous labor, and political conflict",
-    "Defended monarchy, church authority, aristocratic privilege, and the old order against liberal and nationalist movements",
-    "Divided Africa among European powers without African representatives and justified control through imperial claims"
-  ],
-  "Unit 6": [
-    "Expanded factory wage labor, mass production, coal power, and urban working-class life during industrialization",
-    "Created spheres of influence, protectorates, direct rule, and resource extraction in Africa and Asia",
-    "Explained free-market capitalism through laissez-faire, competition, private property, and the invisible hand",
-    "Linked militarism, alliances, imperial rivalry, industrialized weapons, nationalism, and assassination to World War I",
-    "Forced China to open treaty ports, cede Hong Kong, and accept extraterritorial rights after Britain defended opium profits"
-  ],
-  "Unit 7": [
-    "Restored conservative monarchies after Napoleon and tried to suppress liberalism and nationalism across Europe",
-    "Unified Germany through Prussian leadership, Realpolitik, army expansion, and wars against Denmark, Austria, and France",
-    "Shifted Europe from rural production toward factory labor, rapid urbanization, and new industrial social classes",
-    "Ended World War I with German war guilt, reparations, military limits, territorial losses, and the League of Nations",
-    "Used Enlightenment ideas about natural rights, popular sovereignty, and consent to justify revolution against absolute monarchy"
-  ],
-  "Unit 8": [
-    "Used crop rotation, enclosure, and seed drill farming to create food surplus and an industrial labor force",
-    "Created nationalist unification in Germany and Italy while destabilizing multinational empires like Austria-Hungary",
-    "Extended European control through direct rule, indirect rule, protectorates, spheres of influence, and forced labor systems",
-    "Argued that competition and laissez-faire markets should guide production without heavy government intervention",
-    "Promoted Zionism after antisemitism in the Dreyfus Affair convinced Herzl that Jews needed a secure homeland"
-  ]
-};
+const HISTORY_OUTLINE_DISTRACTOR_SETS = [
+  ["Mainly new laws forcing peasants into factories, with little connection to farming, resources, capital, or markets", "Primarily the invention of electricity and automobiles, which made coal, steam, and textile factories unnecessary", "Mostly caused by Marxist theory and labor unions demanding factory production before industry had expanded"],
+  ["A political revolution where workers seized farms and redistributed land equally to stop urban growth", "A factory system change where machines replaced all farm labor without changing crops, breeding, or enclosure", "A transportation change based on canals and railroads that lowered shipping costs but did not increase food supply"],
+  ["Invented the first steam engine from scratch and used it mainly to power ocean dreadnoughts", "Discovered coal power and personally created the factory system by replacing all hand labor", "Developed the seed drill and crop rotation methods that caused the Second Agricultural Revolution"],
+  ["Made factories smaller and returned most production to home workshops instead of centralized industry", "Reduced the need for coal and iron by shifting transportation back to horses and sailing ships", "Improved communication through telegraphs but had little effect on mines, railroads, steamships, or markets"],
+  ["Britain industrialized first mainly because it avoided colonies, banking, ports, and overseas trade", "Britain led because it had no major coal or iron but copied French industry after 1848", "Britain became the center mostly because Parliament forced workers to remain in villages instead of cities"],
+  ["Ended class conflict by immediately improving wages, removing slums, and eliminating pollution", "Kept most people in rural villages and prevented the growth of factory towns and mass production", "Only changed transportation and had almost no effect on families, social classes, ideology, or reform"],
+  ["A change in political voting rights that allowed workers to elect members of Parliament", "A farming reform based on enclosure, seed drills, crop rotation, and selective breeding", "A military alliance system that moved armies faster but did not affect markets or consumer goods"],
+  ["A slow movement of factory owners into the countryside to avoid city crowding and pollution", "A planned reform that created clean, healthy cities before workers moved there", "A decline in cities caused by enclosure ending and peasants returning to village farming"],
+  ["A socialist theory arguing that workers should overthrow factory owners and abolish private property", "A conservative belief that monarchs and aristocrats should control production to protect social order", "A reform movement demanding temperance, suffrage, and moral domestic leadership by women"],
+  ["A free-market theory claiming competition and private property naturally benefit society through the invisible hand", "A conservative defense of monarchy, church authority, and aristocratic privilege against liberal reform", "A nationalist argument that people with shared language and culture should form their own state"],
+  ["Work became more independent and flexible because machines let families produce goods at home", "Factory work generally meant short hours, high wages, safe conditions, and little supervision", "Most city work shifted away from wage labor and toward unpaid agricultural service on estates"],
+  ["Small family workshops that avoided outside investors and prevented any company from controlling a market", "Government-owned farms that used monopoly power to distribute food equally to factory workers", "Labor unions that controlled all wages and forced owners to share profits with workers"],
+  ["A working-class movement that demanded women enter factories and replace men as public wage earners", "A scientific theory claiming domestic labor made women biologically superior to men in politics", "An imperial policy that placed European women in colonies to spread missionary education"],
+  ["Women mainly led violent factory strikes and rejected political reforms like voting rights", "Women used reform movements only to defend alcohol sales and keep politics male-dominated", "Women avoided public activism because the Cult of Domesticity permanently excluded them from reform"],
+  ["Accurate biological science proving that poverty and empire were natural and morally fair", "A socialist theory arguing all races and classes should be made economically equal by revolution", "A liberal reform idea claiming legal equality would end imperialism and racial hierarchy immediately"],
+  ["Conservatives wanted written constitutions and civil liberties, while liberals defended absolute monarchy", "Both groups wanted the same thing: monarchy, aristocracy, church power, and no voting rights", "Liberals mainly supported empire overseas, while conservatives focused only on industrial labor reform"],
+  ["Loyalty to a monarch or dynasty regardless of language, culture, ethnicity, or shared history", "A belief that industrial workers should unite internationally instead of caring about national identity", "A diplomatic system designed to prevent any one country from becoming too powerful after Napoleon"],
+  ["A nationalist congress that created Germany and Italy as unified nation-states", "A liberal revolution that expanded voting rights and constitutional government across Europe", "A meeting where European powers divided Africa and created rules for imperial conquest"],
+  ["France was stable because the restored monarchy satisfied liberals, workers, and conservatives equally", "France's crises came only from foreign invasion, not voting rights, class conflict, or economic problems", "France had already solved revolutionary tensions by permanently accepting Napoleon's empire"],
+  ["A monarchy restored by the Congress of Vienna with Louis XVIII ruling as an absolute king", "A socialist government led by the Paris Commune after France lost to Prussia", "A nationalist republic ruled by Bismarck after the Franco-Prussian War"],
+  ["A Mexican priest who began independence by calling peasants to revolt against Spanish rule", "A South American creole who liberated northern South America through campaigns against Spain", "A French emperor who restored slavery and peacefully negotiated Haitian independence"],
+  ["Mexico gained independence when Spain voluntarily granted it after the Congress of Vienna", "Mexico was freed by Simon Bolivar's armies after they crossed from northern South America", "Mexico became independent through British imperial pressure after the Opium War opened trade"],
+  ["Leader of Mexico's independence who completed the revolt by creating a conservative monarchy", "Former enslaved Haitian general who organized the revolution against French colonial slavery", "Italian nationalist who led Red Shirts in southern Italy and handed territory to Victor Emmanuel II"],
+  ["A fully unified German empire created by Bismarck after defeating France in 1871", "A liberal parliament that successfully unified Germany through speeches and majority votes", "A military alliance created by William II to prepare Germany for World War I"],
+  ["A liberal idealist who rejected war and unified Germany through moral arguments and popular voting", "An Austrian conservative who used the Congress of Vienna to stop German nationalism permanently", "A French emperor who lost power after the Franco-Prussian War and the fall of Paris"],
+  ["He relied only on democratic elections and avoided war, diplomacy, or military expansion", "He strengthened Austria and France so Prussia would remain one German state among many equals", "He unified Germany by supporting Italian nationalists and giving power to the Catholic Church"],
+  ["William II removed him because Bismarck wanted aggressive colonies and a huge navy too quickly", "William II removed him because Bismarck supported socialist revolution and worker control of factories", "William II removed him because Bismarck wanted France to control German foreign policy"],
+  ["Both were Prussian leaders who unified Germany through war with France and Austria", "Cavour led southern Red Shirt volunteers, while Garibaldi used diplomacy in northern Italy", "Both opposed Italian unification because it threatened the Austrian-led German Confederation"],
+  ["Italy became instantly unified culturally and economically, with no north-south tensions or church conflict", "Italy's main problem was losing the Franco-Prussian War and being forced to pay reparations", "Italy struggled mostly because the Berlin Conference gave its colonies to Britain and France"],
+  ["Parliament immediately gave full voting rights to all women and poor workers with no remaining issues", "Victorian Parliament abolished monarchy and replaced Britain with a socialist commune", "Parliament failed completely because it made no suffrage, labor, or political reforms at all"],
+  ["A canal linking the Atlantic and Pacific that made the United States dominant in China", "A French-built canal designed only for military ships and never connected to trade with Asia", "An Ottoman railroad project that prevented European powers from influencing Egypt"],
+  ["He was removed because he supported Dreyfus and openly promoted Zionism in France", "He lost power after the Paris Commune defeated Prussia and restored the Second Republic", "He was overthrown when Britain seized the Suez Canal and forced France into exile"],
+  ["A conservative monarchy restored by Austria-Hungary to stop socialism after 1848", "A long-term alliance between France and Russia that caused Germany to fear encirclement", "A temporary French republic led by Louis-Napoleon before he became emperor"],
+  ["A German general whose victory over France inspired Herzl to create political Zionism", "A Jewish French officer falsely accused but whose case showed antisemitism remained strong", "A Russian revolutionary whose execution convinced Jews to support Bolshevik government"],
+  ["A system where Austria gave independence to all Slavic nationalities under separate monarchs", "A military alliance between Austria and Germany created by Bismarck to isolate France", "A compromise where Hungary controlled Austria completely and removed the Habsburg monarch"],
+  ["The empire declined mainly because it industrialized too quickly and dominated European finance", "The empire declined because nationalism disappeared and Balkan peoples accepted Ottoman rule", "The empire declined because Britain and France stopped interfering and paid off Ottoman debt"],
+  ["Russia modernized by becoming a full constitutional democracy with equal land distribution", "Russia modernized through overseas imperial conquest of Africa after the Berlin Conference", "Russia modernized by abolishing the czar and replacing autocracy with a socialist commune"],
+  ["Russia was strong because industrialization solved poverty, land hunger, and worker unrest before 1914", "Russia struggled only because it lacked nationalism; autocracy and poverty were not major issues", "Russia was stable after the Russo-Japanese War because Bloody Sunday increased faith in the czar"],
+  ["A weaker country voluntarily trading with stronger countries while keeping full political control", "A nationalist movement where one ethnic group creates a unified independent state", "A factory system where companies form monopolies and control industrial production"],
+  ["Exploration ended imperialism by making European countries less interested in overseas territory", "Exploration only affected religion and had little connection to maps, ports, colonies, or trade", "Exploration created nationalism in Germany and Italy but did not shape later overseas expansion"],
+  ["The four major motives were farming reform, labor unions, women's suffrage, and socialism", "Imperialism was motivated only by religion, with no economic, military, or political goals", "The motives were mostly to stop trade, avoid military bases, and reduce national prestige"],
+  ["Direct rule means local rulers keep real power; indirect rule means foreign officials run everything", "Both direct and indirect rule give colonized people full independence from the imperial power", "Direct rule applies only to trade privileges, while indirect rule applies only to missionary schools"],
+  ["A protectorate is just trade access, while a sphere of influence places the whole local government under foreign control", "Both terms mean a colony is ruled directly by foreign officials with no local government left", "A protectorate is an independent nation-state alliance, while a sphere is a military draft system"],
+  ["Imperialism helped African societies keep borders, sovereignty, resources, and local economies intact", "Imperialism mainly harmed Europe while African societies gained equal political power", "Imperialism caused only cultural exchange and did not involve violence, forced labor, or extraction"],
+  ["Belgian reformer who ended forced labor in the Congo and gave Africans political representation", "British prime minister who organized the Berlin Conference to prevent imperial rivalry", "French missionary who modernized Egypt through cotton, schools, and a stronger army"],
+  ["A meeting where African leaders negotiated equal independence with European empires", "A conference that created the Open Door Policy for China and protected American trade", "A wartime treaty where Britain and France secretly divided Ottoman Middle Eastern lands"],
+  ["They all rejected modernization completely and successfully expelled Europe through military victory", "They responded only with Marxist revolution and worker control of factories", "They had no response because European pressure never affected the Ottoman Empire, Egypt, or Persia"],
+  ["He modernized Egypt by ending cotton production and refusing western-style education or military reform", "He was an Ottoman Young Turk who promoted Turkish nationalism against Arabs and Armenians", "He led Persia between Russian and British pressure by creating the Open Door Policy"],
+  ["They were Indian reformers who ended sati and promoted women's rights under British rule", "They were conservative Ottoman rulers who opposed constitutions and wanted no modernization", "They were British officials who divided Africa at Berlin and created direct rule systems"],
+  ["Persia was caught between France and Germany because of the Franco-Prussian War", "Persia was pressured because it controlled the Suez Canal and British-French trade to Asia", "Persia's problem was the Opium War, which forced it to cede Hong Kong to Britain"],
+  ["Indians were angry only because the Company gave them too much representation in Parliament", "Indians mainly objected to Meiji-style modernization and Japan's Twenty-One Demands", "Indians were upset because the Company ended all taxes and refused to interfere with religion"],
+  ["The rebellion began because Britain sold opium in China and forced open treaty ports", "The rebellion was sparked by the Berlin Conference dividing India into spheres of influence", "The rebellion started when Ram Mohan Roy demanded sati be restored by the Company"],
+  ["After the rebellion, India gained independence and the British East India Company grew stronger", "The rebellion caused Britain to leave India immediately and return power to Mughal rulers", "The rebellion made Britain loosen control and trust sepoy armies with more independence"],
+  ["A British general who crushed the Sepoy Rebellion and created direct Crown rule", "A Chinese official who tried to stop opium trade and triggered war with Britain", "A Japanese emperor who ended feudalism and industrialized Japan after 1868"],
+  ["The war began because China forced Britain to buy too much tea and silver", "The war began when China tried to seize British colonies in Africa after the Berlin Conference", "The war began because the United States demanded equal trade through the Open Door Policy"],
+  ["China won the war, banned opium permanently, and forced Britain to abandon Hong Kong", "China lost but kept all ports closed and avoided paying indemnities or granting privileges", "China defeated Britain and became an imperial power after adopting Meiji reforms"],
+  ["China was stable because unequal treaties strengthened Qing rule and ended rebellions", "China dealt only with external threats; internal movements like Taiping and Boxer tensions did not matter", "China solved imperial pressure by becoming a British protectorate with full local control"],
+  ["The U.S. conquered China directly and ruled it as a colony after the Opium War", "The U.S. supported closing China to European trade so only America could trade there", "The U.S. divided China at the Berlin Conference and claimed treaty ports as colonies"],
+  ["Meiji Restoration isolated Japan from western influence and preserved feudal privileges", "Meiji Restoration weakened Japan's military and prevented industrialization", "Meiji Restoration made Japan a Chinese sphere of influence under the Open Door Policy"],
+  ["The acronym describes only the assassination and ignores long-term causes like alliances or imperialism", "MANIIA means Marxism, Agriculture, Nationalism, Industry, Isolationism, and Armistice", "MANIIA explains the Treaty of Versailles terms rather than the causes of World War I"],
+  ["Dreadnoughts lowered tensions because they made naval competition too expensive to continue", "Dreadnoughts were passenger ships that expanded migration but had little military importance", "Dreadnoughts were secret treaties dividing Ottoman lands between Britain and France"],
+  ["The assassination immediately ended the alliance system and prevented wider European war", "The assassination mattered because Serbia conquered Austria-Hungary before any ultimatum", "The assassination was only symbolic and had no connection to the July Crisis or mobilization"],
+  ["Japan stayed neutral and used the war only to negotiate the Treaty of Versailles in Europe", "Japan joined the Central Powers to protect German holdings in China and the Pacific", "Japan used the war to give up influence in China and return territory to European powers"],
+  ["A public treaty blaming Germany, demanding reparations, and creating the League of Nations", "A Russian-German peace treaty that pulled Russia out of World War I", "An American policy demanding equal trade access in China for all imperial powers"],
+  ["Russia left because it won the war quickly and no longer needed Allied support", "Russia left because the czar strengthened autocracy and solved food shortages and unrest", "Russia left because the Treaty of Versailles required Russia to pay reparations"],
+  ["The U.S. joined mainly because the Sykes-Picot Treaty threatened American control of the Middle East", "The U.S. joined because Germany promised Mexico help reclaim land through the Berlin Conference", "The U.S. joined because Russia's czar demanded American troops to stop Bolshevism"],
+  ["The war ended with Germany victorious and France forced to accept German control of Alsace-Lorraine", "Versailles treated all countries equally and avoided blame, reparations, military limits, or territorial losses", "The war ended because Russia rejoined the Allies and defeated Germany alone on the eastern front"]
+];
 
 function historyOutlineRead(key, fallback) {
   try { return JSON.parse(localStorage.getItem(key) || 'null') || fallback; } catch(e) { return fallback; }
@@ -109,45 +148,44 @@ function historyOutlineWrite(key, value) {
 }
 
 function getHistoryOutlineAnswers() {
-  return historyOutlineRead('history_outline_answers_v2', {});
+  return historyOutlineRead('history_outline_answers_v3', {});
 }
 
 function setHistoryOutlineAnswers(answers) {
-  historyOutlineWrite('history_outline_answers_v2', answers);
+  historyOutlineWrite('history_outline_answers_v3', answers);
 }
 
 function getHistoryOutlineChoiceOrders() {
-  return historyOutlineRead('history_outline_choice_orders_v2', {});
+  return historyOutlineRead('history_outline_choice_orders_v3', {});
 }
 
 function setHistoryOutlineChoiceOrders(orders) {
-  historyOutlineWrite('history_outline_choice_orders_v2', orders);
+  historyOutlineWrite('history_outline_choice_orders_v3', orders);
 }
 
 function getHistoryOutlineDistractors(unit, idx, correct) {
-  const sameUnit = HISTORY_OUTLINE_ITEMS
-    .map((entry, itemIdx) => ({ entry, itemIdx }))
-    .filter(item => item.entry[0] === unit && item.itemIdx !== idx);
-  const ranked = sameUnit
-    .map(item => ({
-      answer: item.entry[2],
-      distance: Math.abs(item.itemIdx - idx),
-      itemIdx: item.itemIdx
-    }))
-    .filter(item => item.answer !== correct)
-    .sort((a, b) => a.distance - b.distance || a.itemIdx - b.itemIdx);
+  const picked = HISTORY_OUTLINE_DISTRACTOR_SETS[idx] || [];
+  if (picked.length >= 3) return picked.slice(0, 3);
+  return HISTORY_OUTLINE_ITEMS
+    .filter(item => item[0] === unit && item[2] !== correct)
+    .slice(0, 3)
+    .map(item => item[2]);
+}
 
-  const picked = [];
-  ranked.forEach(item => {
-    if (picked.length < 3 && !picked.includes(item.answer)) picked.push(item.answer);
+function balanceHistoryOutlineChoiceLengths(opts, correctSlot, idx) {
+  const suffixes = [
+    " through a combination of economic pressure, political conflict, and social change",
+    " because it reshaped power, labor, and international competition across the period",
+    " by changing government authority, class relationships, and economic control over time"
+  ];
+  const correctLength = opts[correctSlot].length;
+  const longestWrong = Math.max(...opts.map((opt, slot) => slot === correctSlot ? 0 : opt.length));
+  if (longestWrong > correctLength) return opts;
+
+  return opts.map((opt, slot) => {
+    if (slot === correctSlot) return opt;
+    return `${opt}${suffixes[(idx + slot) % suffixes.length]}`;
   });
-
-  if (picked.length < 3) {
-    HISTORY_OUTLINE_ITEMS.forEach(item => {
-      if (picked.length < 3 && item[2] !== correct && !picked.includes(item[2])) picked.push(item[2]);
-    });
-  }
-  return picked;
 }
 
 function makeHistoryOutlineQuestion(item, idx) {
@@ -163,7 +201,7 @@ function makeHistoryOutlineQuestion(item, idx) {
     unit,
     topic,
     q: `Your teacher's outline asks about "${topic}." Which response would best answer that exact prompt?`,
-    opts,
+    opts: balanceHistoryOutlineChoiceLengths(opts, correctSlot, idx),
     a: correctSlot,
     explanation: correct
   };
