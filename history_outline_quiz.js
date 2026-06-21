@@ -109,31 +109,50 @@ function historyOutlineWrite(key, value) {
 }
 
 function getHistoryOutlineAnswers() {
-  return historyOutlineRead('history_outline_answers_v1', {});
+  return historyOutlineRead('history_outline_answers_v2', {});
 }
 
 function setHistoryOutlineAnswers(answers) {
-  historyOutlineWrite('history_outline_answers_v1', answers);
+  historyOutlineWrite('history_outline_answers_v2', answers);
 }
 
 function getHistoryOutlineChoiceOrders() {
-  return historyOutlineRead('history_outline_choice_orders_v1', {});
+  return historyOutlineRead('history_outline_choice_orders_v2', {});
 }
 
 function setHistoryOutlineChoiceOrders(orders) {
-  historyOutlineWrite('history_outline_choice_orders_v1', orders);
+  historyOutlineWrite('history_outline_choice_orders_v2', orders);
+}
+
+function getHistoryOutlineDistractors(unit, idx, correct) {
+  const sameUnit = HISTORY_OUTLINE_ITEMS
+    .map((entry, itemIdx) => ({ entry, itemIdx }))
+    .filter(item => item.entry[0] === unit && item.itemIdx !== idx);
+  const ranked = sameUnit
+    .map(item => ({
+      answer: item.entry[2],
+      distance: Math.abs(item.itemIdx - idx),
+      itemIdx: item.itemIdx
+    }))
+    .filter(item => item.answer !== correct)
+    .sort((a, b) => a.distance - b.distance || a.itemIdx - b.itemIdx);
+
+  const picked = [];
+  ranked.forEach(item => {
+    if (picked.length < 3 && !picked.includes(item.answer)) picked.push(item.answer);
+  });
+
+  if (picked.length < 3) {
+    HISTORY_OUTLINE_ITEMS.forEach(item => {
+      if (picked.length < 3 && item[2] !== correct && !picked.includes(item[2])) picked.push(item[2]);
+    });
+  }
+  return picked;
 }
 
 function makeHistoryOutlineQuestion(item, idx) {
   const [unit, topic, correct] = item;
-  const distractors = HISTORY_OUTLINE_DISTRACTORS[unit];
-  const pickedWrong = [];
-  let offset = (idx * 2 + 1) % distractors.length;
-  while (pickedWrong.length < 3) {
-    const candidate = distractors[offset % distractors.length];
-    if (candidate !== correct && !pickedWrong.includes(candidate)) pickedWrong.push(candidate);
-    offset++;
-  }
+  const pickedWrong = getHistoryOutlineDistractors(unit, idx, correct);
   const correctSlot = (idx * 3 + 1) % 4;
   const opts = [];
   let wrongCursor = 0;
@@ -143,7 +162,7 @@ function makeHistoryOutlineQuestion(item, idx) {
   return {
     unit,
     topic,
-    q: `Which answer best matches this exact outline item: ${topic}?`,
+    q: `Your teacher's outline asks about "${topic}." Which response would best answer that exact prompt?`,
     opts,
     a: correctSlot,
     explanation: correct
