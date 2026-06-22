@@ -1603,6 +1603,7 @@ function startHistoryFinalExam() {
   const session = {
     objective: Array(90).fill(null),
     documents: Array(30).fill(null),
+    checked: { objective: {}, documents: {} },
     essays: ['', ''],
     essayScores: [0, 0],
     startedAt: Date.now()
@@ -1610,19 +1611,50 @@ function startHistoryFinalExam() {
   saveHistoryExam('session', session);
   showView('history-final-exam');
 }
-function renderHistoryExamMC(container, questions, answers, prefix, withDocument) {
+function ensureHistoryExamChecked(session) {
+  if (!session.checked) session.checked = { objective: {}, documents: {} };
+  if (!session.checked.objective) session.checked.objective = {};
+  if (!session.checked.documents) session.checked.documents = {};
+  return session.checked;
+}
+function checkHistoryExamQuestion(prefix, index) {
+  const session = loadHistoryExam('session');
+  if (!session || session[prefix][index] === null) return;
+  ensureHistoryExamChecked(session)[prefix][index] = true;
+  saveHistoryExam('session', session);
+  const y = window.scrollY;
+  renderHistoryExamRoom(document.getElementById('main-view'), session);
+  requestAnimationFrame(() => window.scrollTo(0, y));
+}
+function renderHistoryExamMC(container, questions, session, prefix, withDocument) {
+  const answers = session[prefix];
+  const checked = ensureHistoryExamChecked(session)[prefix];
   container.innerHTML = '';
   questions.forEach((q, i) => {
+    const selected = answers[i];
+    const isChecked = checked[i] === true;
+    const isCorrect = selected === q.a;
     const block = document.createElement('div');
     block.className = 'q-block';
     block.innerHTML = `${withDocument ? `<div style="padding:12px;background:var(--surface2);border-left:4px solid var(--accent);margin-bottom:12px;border-radius:6px;font-size:14.5px;"><strong>Document:</strong> ${q.document}</div>` : ''}
       <div class="q-meta"><span class="q-type-badge">${prefix === 'objective' ? 'Section 1' : 'Section 2'}</span></div>
       <div class="q-text" style="margin-bottom:12px;"><strong>${i + 1}.</strong> ${q.q}</div>
-      <div class="opts-container">${q.opts.map((o,j)=>`<label class="opt-label"><input type="radio" class="opt-input" name="${prefix}_${i}" value="${j}" ${answers[i]===j?'checked':''}><span class="opt-letter">${String.fromCharCode(65+j)}</span><span>${o}</span></label>`).join('')}</div>`;
+      <div class="opts-container">${q.opts.map((o,j)=>`<label class="opt-label ${isChecked && j === q.a ? 'correct' : ''} ${isChecked && selected === j && selected !== q.a ? 'wrong' : ''}"><input type="radio" class="opt-input" name="${prefix}_${i}" value="${j}" ${selected===j?'checked':''}><span class="opt-letter">${String.fromCharCode(65+j)}</span><span>${o}</span></label>`).join('')}</div>
+      <div class="q-actions" style="margin-top:12px;">
+        <button class="q-btn primary check-answer-btn" onclick="checkHistoryExamQuestion('${prefix}', ${i})" style="${selected===null ? 'display:none;' : ''}">Check Answer</button>
+      </div>
+      ${isChecked ? `<div class="q-feedback show ${isCorrect ? 'good' : 'bad'}" style="margin-top:12px;">
+        <strong>${isCorrect ? 'Correct.' : `Incorrect. Correct answer: ${String.fromCharCode(65 + q.a)}.`}</strong>
+        <div style="margin-top:6px;">${q.explanations[selected]}</div>
+      </div>` : ''}`;
     block.querySelectorAll('input').forEach(input => input.onchange = () => {
       const session = loadHistoryExam('session');
       session[prefix][i] = Number(input.value);
+      ensureHistoryExamChecked(session)[prefix][i] = false;
       saveHistoryExam('session', session);
+      const y = window.scrollY;
+      renderHistoryExamRoom(document.getElementById('main-view'), session);
+      requestAnimationFrame(() => window.scrollTo(0, y));
     });
     container.appendChild(block);
   });
@@ -1633,8 +1665,8 @@ function renderHistoryExamRoom(container, session) {
     <div class="section-card"><div class="section-header" onclick="toggleSectionBody('history-exam-documents')"><span class="section-title">Section 2 - 30 Document-based Objective Questions</span><span class="collapse-icon open">&#9660;</span></div><div class="section-body open" id="history-exam-documents"></div></div>
     <div class="section-card"><div class="section-header" onclick="toggleSectionBody('history-exam-open')"><span class="section-title">Section 3 - 2 Open-ended Responses</span><span class="collapse-icon open">&#9660;</span></div><div class="section-body open" id="history-exam-open"></div></div>
     <div style="display:flex;gap:12px;margin-top:20px;"><button class="q-btn" onclick="if(confirm('Delete this attempt?')){saveHistoryExam('session',null);showView('history-final-exam')}">Reset Attempt</button><button class="q-btn primary" style="flex:1;" onclick="submitHistoryFinalExam()">Submit Final Exam</button></div>`;
-  renderHistoryExamMC(document.getElementById('history-exam-objective'), HISTORY_EXAM_DATA.objective, session.objective, 'objective', false);
-  renderHistoryExamMC(document.getElementById('history-exam-documents'), HISTORY_EXAM_DATA.documents, session.documents, 'documents', true);
+  renderHistoryExamMC(document.getElementById('history-exam-objective'), HISTORY_EXAM_DATA.objective, session, 'objective', false);
+  renderHistoryExamMC(document.getElementById('history-exam-documents'), HISTORY_EXAM_DATA.documents, session, 'documents', true);
   const openBox = document.getElementById('history-exam-open');
   openBox.innerHTML = HISTORY_EXAM_DATA.open.map((q,i)=>`<div class="q-block"><h3 style="font-family:'DM Serif Display',serif;font-size:20px;margin-bottom:8px;">${i+1}. ${q.title}</h3><p style="white-space:pre-line;margin-bottom:12px;font-size:14.5px;">${q.prompt}</p><textarea id="history-essay-${i}" style="width:100%;min-height:240px;padding:12px;background:var(--surface);color:var(--text-primary);border:1px solid var(--border-strong);border-radius:7px;font:inherit;">${session.essays[i]||''}</textarea></div>`).join('');
   HISTORY_EXAM_DATA.open.forEach((q,i)=>document.getElementById(`history-essay-${i}`).oninput = e => { const s=loadHistoryExam('session'); s.essays[i]=e.target.value; saveHistoryExam('session',s); });
